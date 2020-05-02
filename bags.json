@@ -1,0 +1,902 @@
+[
+  {
+    "id": 957,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "town backpack",
+      "EUen": "town backpack",
+      "EUde": "Urban-Rucksack",
+      "EUes": "mochila escolar",
+      "USes": "mochila escolar",
+      "EUfr": "sac à dos urbain",
+      "USfr": "sac à dos urbain",
+      "EUit": "zaino urbano",
+      "EUnl": "simpele rugzak",
+      "CNzh": "都市双肩包",
+      "TWzh": "都市後背包",
+      "JPja": "タウンリュック",
+      "KRko": "타운 배낭",
+      "EUru": "городской рюкзак"
+    }
+  },
+  {
+    "id": 958,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "travel pouch",
+      "EUen": "travel pouch",
+      "EUde": "Reisetäschchen",
+      "EUes": "bolsito de viaje",
+      "USes": "bolsita de viaje",
+      "EUfr": "sacoche de voyage",
+      "USfr": "sacoche de voyage",
+      "EUit": "borsa da viaggio",
+      "EUnl": "reistasje",
+      "CNzh": "旅行包",
+      "TWzh": "旅行收納袋",
+      "JPja": "トラベルポーチ",
+      "KRko": "여행 파우치",
+      "EUru": "сумочка туриста"
+    }
+  },
+  {
+    "id": 962,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "messenger bag",
+      "EUen": "messenger bag",
+      "EUde": "Kuriertasche",
+      "EUes": "bolso de mensajero",
+      "USes": "bolsa de mensajero",
+      "EUfr": "besace",
+      "USfr": "besace",
+      "EUit": "borsa da postino",
+      "EUnl": "koerierstas",
+      "CNzh": "邮差包",
+      "TWzh": "郵差包",
+      "JPja": "メッセンジャーバッグ",
+      "KRko": "메신저백",
+      "EUru": "курьерская сумка"
+    }
+  },
+  {
+    "id": 963,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dry bag",
+      "EUen": "dry bag",
+      "EUde": "Regenrucksack",
+      "EUes": "mochila impermeable",
+      "USes": "mochila impermeable",
+      "EUfr": "sac imperméable",
+      "USfr": "sac imperméable",
+      "EUit": "borsa impermeabile",
+      "EUnl": "waterdichte rugzak",
+      "CNzh": "防水背包",
+      "TWzh": "防水背包",
+      "JPja": "ドライサック",
+      "KRko": "드라이백",
+      "EUru": "непромокаемый мешок"
+    }
+  },
+  {
+    "id": 964,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pleather shoulder bag",
+      "EUen": "pleather shoulder bag",
+      "EUde": "Kunstlederumhängetasche",
+      "EUes": "bolsa de polipiel",
+      "USes": "bolsa de cuero sintético",
+      "EUfr": "sac à bandoulière similicuir",
+      "USfr": "sac à bandoulière similicuir",
+      "EUit": "borsa ecopelle a bandoliera",
+      "EUnl": "kunstleren schoudertas",
+      "CNzh": "皮革单肩包",
+      "TWzh": "皮革肩背包",
+      "JPja": "レザーショルダー",
+      "KRko": "가죽 숄더백",
+      "EUru": "плечевая сумка"
+    }
+  },
+  {
+    "id": 965,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fish pochette",
+      "EUen": "fish pochette",
+      "EUde": "Fischlein-Pochette",
+      "EUes": "bolsito pez",
+      "USes": "bolsita pez",
+      "EUfr": "pochette poisson",
+      "USfr": "pochette poisson",
+      "EUit": "pochette pesce",
+      "EUnl": "vissentasje",
+      "CNzh": "鱼形斜挎包",
+      "TWzh": "魚兒斜背包",
+      "JPja": "おさかなポシェット",
+      "KRko": "물고기 미니백",
+      "EUru": "сумочка-рыба"
+    }
+  },
+  {
+    "id": 966,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tackle bag",
+      "EUen": "tackle bag",
+      "EUde": "Anglertasche",
+      "EUes": "bolsa de pesca",
+      "USes": "bolsa de pesca",
+      "EUfr": "sac de pêche",
+      "USfr": "sac de pêche",
+      "EUit": "borsa da pesca",
+      "EUnl": "vistas",
+      "CNzh": "钓鱼包",
+      "TWzh": "釣魚包",
+      "JPja": "フィッシングバッグ",
+      "KRko": "낚시 가방",
+      "EUru": "ящик для наживки"
+    }
+  },
+  {
+    "id": 967,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bug cage",
+      "EUen": "bug cage",
+      "EUde": "Insektenfangtasche",
+      "EUes": "jaula para bichos",
+      "USes": "jaula para insectos",
+      "EUfr": "cage à insectes",
+      "USfr": "cage à insecte",
+      "EUit": "gabbia degli insetti",
+      "EUnl": "insectenkooi",
+      "CNzh": "虫虫观察箱",
+      "TWzh": "蟲子觀察箱",
+      "JPja": "ムシかご",
+      "KRko": "채집통",
+      "EUru": "коробочка для насекомых"
+    }
+  },
+  {
+    "id": 968,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "faux-fur bag",
+      "EUen": "faux-fur bag",
+      "EUde": "Kunstfelltäschchen",
+      "EUes": "bolso de pelo sintético",
+      "USes": "bolsa de piel sintética",
+      "EUfr": "sac en fausse fourrure",
+      "USfr": "sac en fausse fourrure",
+      "EUit": "borsa di ecopelliccia",
+      "EUnl": "tas van imitatiebont",
+      "CNzh": "仿毛皮包",
+      "TWzh": "仿毛皮包",
+      "JPja": "フェイクファーバッグ",
+      "KRko": "인조털 가방",
+      "EUru": "сумка «под мех»"
+    }
+  },
+  {
+    "id": 969,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pleather fringe bag",
+      "EUen": "pleather fringe bag",
+      "EUde": "Kunstlederfransentasche",
+      "EUes": "bolsita con flecos",
+      "USes": "bolsita con flecos",
+      "EUfr": "sac à franges",
+      "USfr": "sac à franges",
+      "EUit": "borsa ecopelle con frange",
+      "EUnl": "kunstleren tas met franje",
+      "CNzh": "皮革流苏包",
+      "TWzh": "皮革流蘇包",
+      "JPja": "フリンジレザーバッグ",
+      "KRko": "가죽 프린지백",
+      "EUru": "сумка с бахромой"
+    }
+  },
+  {
+    "id": 970,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hand-knit pouch",
+      "EUen": "hand-knit pouch",
+      "EUde": "Häkelhandtasche",
+      "EUes": "bolso de punto",
+      "USes": "bolsa tejida",
+      "EUfr": "pochette tricotée",
+      "USfr": "pochette tricotée",
+      "EUit": "borsa di maglia",
+      "EUnl": "handgebreide schoudertas",
+      "CNzh": "编织斜挎包",
+      "TWzh": "手編側背包",
+      "JPja": "てあみポーチ",
+      "KRko": "손뜨개 파우치",
+      "EUru": "сумка макраме"
+    }
+  },
+  {
+    "id": 971,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crossbody bag",
+      "EUen": "crossbody bag",
+      "EUde": "Hüfttasche",
+      "EUes": "riñonera al hombro",
+      "USes": "mochila al hombro",
+      "EUfr": "sac transversal",
+      "USfr": "sac transversal",
+      "EUit": "borsa a tracolla",
+      "EUnl": "crossbodytas",
+      "CNzh": "腰包",
+      "TWzh": "腰包",
+      "JPja": "ボディバッグ",
+      "KRko": "슬링백",
+      "EUru": "сумка кросс-боди"
+    }
+  },
+  {
+    "id": 972,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pleather crossbody bag",
+      "EUen": "pleather crossbody bag",
+      "EUde": "Kunstleder-Umhängetasche",
+      "EUes": "mochilita polipiel al hombro",
+      "USes": "mochila al hombro sintética",
+      "EUfr": "sac transversal similicuir",
+      "USfr": "sac transversal similicuir",
+      "EUit": "borsa ecopelle a tracolla",
+      "EUnl": "kunstleren crossbodytas",
+      "CNzh": "皮革胸包",
+      "TWzh": "皮革腰包",
+      "JPja": "レザーボディバッグ",
+      "KRko": "가죽 슬링백",
+      "EUru": "кросс-боди из кожзама"
+    }
+  },
+  {
+    "id": 973,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crossbody boston bag",
+      "EUen": "crossbody boston bag",
+      "EUde": "Sporttasche",
+      "EUes": "bolsa gimnasio al hombro",
+      "USes": "bolsa gimnasio al hombro",
+      "EUfr": "sac Boston en bandoulière",
+      "USfr": "sac Boston en bandoulière",
+      "EUit": "borsa Boston a tracolla",
+      "EUnl": "sporttas",
+      "CNzh": "斜挎圆筒运动包",
+      "TWzh": "斜背圓筒運動包",
+      "JPja": "ななめかけボストン",
+      "KRko": "크로스 보스턴백",
+      "EUru": "кросс-боди с ручками"
+    }
+  },
+  {
+    "id": 974,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gumdrop shoulder bag",
+      "EUen": "gumdrop shoulder bag",
+      "EUde": "Frühlings-Umhängetasche",
+      "EUes": "bandolera esferas",
+      "USes": "bolsa bandolera esferas",
+      "EUfr": "sac bandoulière bonbons",
+      "USfr": "sac bandoulière bonbons",
+      "EUit": "borsa gommosa bandoliera",
+      "EUnl": "schoudertas met stippen",
+      "CNzh": "春天波点单肩包",
+      "TWzh": "春天圓點肩背包",
+      "JPja": "はるのみずたまショルダー",
+      "KRko": "봄의 물방울 숄더백",
+      "EUru": "наплечная сумка в горох"
+    }
+  },
+  {
+    "id": 975,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cloth shoulder bag",
+      "EUen": "cloth shoulder bag",
+      "EUde": "Leinenumhängetasche",
+      "EUes": "bandolera de tela",
+      "USes": "bolsa bandolera de tela",
+      "EUfr": "sac bandoulière en toile",
+      "USfr": "sac bandoulière en toile",
+      "EUit": "borsa di tela a bandoliera",
+      "EUnl": "katoenen schoudertas",
+      "CNzh": "帆布单肩包",
+      "TWzh": "帆布肩背包",
+      "JPja": "はんぷショルダー",
+      "KRko": "옥스퍼드 숄더백",
+      "EUru": "наплечная сумка из ткани"
+    }
+  },
+  {
+    "id": 976,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "straw pochette",
+      "EUen": "straw pochette",
+      "EUde": "Rattan-Pochette",
+      "EUes": "bolsita de cáñamo",
+      "USes": "bolsita de cáñamo",
+      "EUfr": "pochette en paille",
+      "USfr": "pochette en paille",
+      "EUit": "pochette paglia",
+      "EUnl": "rotan schoudertas",
+      "CNzh": "藤编斜挎包",
+      "TWzh": "藤編側背包",
+      "JPja": "ラタンポシェット",
+      "KRko": "라탄 미니백",
+      "EUru": "плетеная сумочка"
+    }
+  },
+  {
+    "id": 977,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "star pochette",
+      "EUen": "star pochette",
+      "EUde": "Sternchen-Pochette",
+      "EUes": "bolsito estrella",
+      "USes": "bolsita estrella",
+      "EUfr": "pochette étoile",
+      "USfr": "pochette étoile",
+      "EUit": "pochette stella",
+      "EUnl": "sterrentasje",
+      "CNzh": "星星斜挎包",
+      "TWzh": "星星側背包",
+      "JPja": "スターなポシェット",
+      "KRko": "별무늬 미니백",
+      "EUru": "сумочка-звезда"
+    }
+  },
+  {
+    "id": 978,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry-blossom pochette",
+      "EUen": "cherry-blossom pochette",
+      "EUde": "Kirschblüten-Pochette",
+      "EUes": "bolsito flor de cerezo",
+      "USes": "bolsita flor de cerezo",
+      "EUfr": "pochette fleur de cerisier",
+      "USfr": "pochette fleur de cerisier",
+      "EUit": "pochette fiore di ciliegio",
+      "EUnl": "kersenbloesemtasje",
+      "CNzh": "樱花斜挎包",
+      "TWzh": "櫻花側背包",
+      "JPja": "さくらのポシェット",
+      "KRko": "벚꽃 미니백",
+      "EUru": "сумочка «Лепестки вишни»"
+    }
+  },
+  {
+    "id": 979,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "maple-leaf pochette",
+      "EUen": "maple-leaf pochette",
+      "EUde": "Ahorn-Pochette",
+      "EUes": "bolsito hoja de arce",
+      "USes": "bolsita hoja de arce",
+      "EUfr": "pochette feuille d'érable",
+      "USfr": "pochette feuille d'érable",
+      "EUit": "pochette foglia d'acero",
+      "EUnl": "esdoornbladtasje",
+      "CNzh": "枫叶斜挎包",
+      "TWzh": "楓葉側背包",
+      "JPja": "もみじのポシェット",
+      "KRko": "단풍 미니백",
+      "EUru": "сумочка «Кленовый лист»"
+    }
+  },
+  {
+    "id": 980,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "acorn pochette",
+      "EUen": "acorn pochette",
+      "EUde": "Eichel-Pochette",
+      "EUes": "bolsito bellota",
+      "USes": "bolsita bellota",
+      "EUfr": "pochette gland",
+      "USfr": "pochette gland",
+      "EUit": "pochette ghianda",
+      "EUnl": "eikeltasje",
+      "CNzh": "橡栗斜挎包",
+      "TWzh": "橡栗側背包",
+      "JPja": "どんぐりポシェット",
+      "KRko": "도토리 미니백",
+      "EUru": "сумочка-желудь"
+    }
+  },
+  {
+    "id": 981,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflake pochette",
+      "EUen": "snowflake pochette",
+      "EUde": "Schneeflocken-Pochette",
+      "EUes": "bolsito copo de nieve",
+      "USes": "bolsita copo de nieve",
+      "EUfr": "pochette flocon",
+      "USfr": "pochette flocon",
+      "EUit": "pochette fiocco di neve",
+      "EUnl": "sneeuwvloktasje",
+      "CNzh": "雪花斜挎包",
+      "TWzh": "雪花側背包",
+      "JPja": "スノーフレークポシェット",
+      "KRko": "눈꽃 미니백",
+      "EUru": "сумочка-снежинка"
+    }
+  },
+  {
+    "id": 982,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shellfish pochette",
+      "EUen": "shellfish pochette",
+      "EUde": "Muschel-Pochette",
+      "EUes": "bolsito concha marina",
+      "USes": "bolsita concha marina",
+      "EUfr": "pochette coquillage",
+      "USfr": "pochette coquillage",
+      "EUit": "pochette guscio",
+      "EUnl": "schelpentasje",
+      "CNzh": "贝壳斜挎包",
+      "TWzh": "貝殼側背包",
+      "JPja": "かいがらポシェット",
+      "KRko": "조개 미니백",
+      "EUru": "сумочка-моллюск"
+    }
+  },
+  {
+    "id": 983,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tool bag",
+      "EUen": "tool bag",
+      "EUde": "Werkzeugtasche",
+      "EUes": "bolsa de herramientas",
+      "USes": "bolsa de herramientas",
+      "EUfr": "sac à outils",
+      "USfr": "sac à outils",
+      "EUit": "borsa degli strumenti",
+      "EUnl": "gereedschapstas",
+      "CNzh": "工具包",
+      "TWzh": "工具包",
+      "JPja": "ツールバッグ",
+      "KRko": "공구 가방",
+      "EUru": "сумка для инструментов"
+    }
+  },
+  {
+    "id": 984,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro sports bag",
+      "EUen": "retro sports bag",
+      "EUde": "Retro-Sporttasche",
+      "EUes": "bolsa deportiva retro",
+      "USes": "bolsa deportiva retro",
+      "EUfr": "sac sport rétro",
+      "USfr": "sac sport rétro",
+      "EUit": "borsa sportiva rétro",
+      "EUnl": "retrosporttas",
+      "CNzh": "运动包",
+      "TWzh": "運動包",
+      "JPja": "スポーツバッグ",
+      "KRko": "스포츠백",
+      "EUru": "спортивная ретро-сумка"
+    }
+  },
+  {
+    "id": 985,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sacoche bag",
+      "EUen": "sacoche bag",
+      "EUde": "Minitasche",
+      "EUes": "minibolsa",
+      "USes": "minibolsa",
+      "EUfr": "sacoche",
+      "USfr": "sacoche",
+      "EUit": "borsello",
+      "EUnl": "sacoche",
+      "CNzh": "随身小包",
+      "TWzh": "旅行隨身小包",
+      "JPja": "サコッシュ",
+      "KRko": "사코슈",
+      "EUru": "мягкая сумочка"
+    }
+  },
+  {
+    "id": 986,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "evening bag",
+      "EUen": "evening bag",
+      "EUde": "Abendhandtasche",
+      "EUes": "bolso de noche",
+      "USes": "bolso de noche",
+      "EUfr": "sac de soirée",
+      "USfr": "sac de soirée",
+      "EUit": "borsetta da sera",
+      "EUnl": "avondtas",
+      "CNzh": "晚宴包",
+      "TWzh": "晚宴包",
+      "JPja": "パーティーバッグ",
+      "KRko": "파티 가방",
+      "EUru": "вечерняя сумочка"
+    }
+  },
+  {
+    "id": 987,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "log pack",
+      "EUen": "log pack",
+      "EUde": "Holzfällerrucksack",
+      "EUes": "mochila troncos",
+      "USes": "mochila troncos",
+      "EUfr": "claie de portage",
+      "USfr": "sac à dos de portage",
+      "EUit": "zaino con telaio",
+      "EUnl": "boomstammenrugzak",
+      "CNzh": "背架",
+      "TWzh": "背薪架",
+      "JPja": "せおいばしご",
+      "KRko": "지게",
+      "EUru": "вязанка дров"
+    }
+  },
+  {
+    "id": 988,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "traveler's backpack",
+      "EUen": "traveler's backpack",
+      "EUde": "Wanderrucksack",
+      "EUes": "mochila de trotamundos",
+      "USes": "mochila de trotamundos",
+      "EUfr": "sac à dos de randonnée",
+      "USfr": "sac à dos de voyage",
+      "EUit": "zaino da viaggio",
+      "EUnl": "reisrugzak",
+      "CNzh": "旅人双肩包",
+      "TWzh": "旅人後背包",
+      "JPja": "たびびとのリュック",
+      "KRko": "여행자의 배낭",
+      "EUru": "рюкзак туриста"
+    }
+  },
+  {
+    "id": 989,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "square backpack",
+      "EUen": "square backpack",
+      "EUde": "Kastenrucksack",
+      "EUes": "mochila rectangular",
+      "USes": "mochila rectangular",
+      "EUfr": "sac à dos cube",
+      "USfr": "sac à dos cube",
+      "EUit": "zaino squadrato",
+      "EUnl": "vierkante rugzak",
+      "CNzh": "方形双肩包",
+      "TWzh": "四角型後背包",
+      "JPja": "しかくいリュック",
+      "KRko": "사각 배낭",
+      "EUru": "квадратный рюкзак"
+    }
+  },
+  {
+    "id": 990,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "outdoor backpack",
+      "EUen": "outdoor backpack",
+      "EUde": "Outdoor-Rucksack",
+      "EUes": "mochila de acampada",
+      "USes": "mochila de paseo",
+      "EUfr": "sac à dos tout-terrain",
+      "USfr": "sac à dos de randonnée",
+      "EUit": "zaino da escursionismo",
+      "EUnl": "kampeerrugzak",
+      "CNzh": "户外双肩包",
+      "TWzh": "戶外後背包",
+      "JPja": "アウトドアリュック",
+      "KRko": "아웃도어 배낭",
+      "EUru": "походный рюкзак"
+    }
+  },
+  {
+    "id": 991,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "butterfly backpack",
+      "EUen": "butterfly backpack",
+      "EUde": "Schmetterlingsrucksack",
+      "EUes": "mochila mariposa",
+      "USes": "mochila mariposa",
+      "EUfr": "sac à dos papillon",
+      "USfr": "sac à dos papillon",
+      "EUit": "zaino farfalla",
+      "EUnl": "vlinderrugzak",
+      "CNzh": "蝴蝶双肩包",
+      "TWzh": "蝴蝶後背包",
+      "JPja": "ちょうちょのバッグ",
+      "KRko": "나비 가방",
+      "EUru": "рюкзак-бабочка"
+    }
+  },
+  {
+    "id": 992,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "studded backpack",
+      "EUen": "studded backpack",
+      "EUde": "Nietenrucksack",
+      "EUes": "mochila con tachuelas",
+      "USes": "mochila con tachuelas",
+      "EUfr": "sac à dos clouté",
+      "USfr": "sac à dos clouté",
+      "EUit": "zaino borchiato",
+      "EUnl": "rugzak met studs",
+      "CNzh": "铆钉双肩包",
+      "TWzh": "鉚釘後背包",
+      "JPja": "スタッズリュック",
+      "KRko": "스터드 배낭",
+      "EUru": "рюкзак с заклепками"
+    }
+  },
+  {
+    "id": 993,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mini pleather bag",
+      "EUen": "mini pleather bag",
+      "EUde": "Kunstleder-Rucksäckchen",
+      "EUes": "mochilita de polipiel",
+      "USes": "mochilita de cuero sintético",
+      "EUfr": "mini-sac en similicuir",
+      "USfr": "mini-sac en similicuir",
+      "EUit": "borsetta ecopelle",
+      "EUnl": "kunstleren rugzak",
+      "CNzh": "迷你皮革双肩包",
+      "TWzh": "迷你皮革後背包",
+      "JPja": "ミニレザーバッグ",
+      "KRko": "미니 가죽 가방",
+      "EUru": "рюкзак из кожзама"
+    }
+  },
+  {
+    "id": 994,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "extra-large backpack",
+      "EUen": "extra-large backpack",
+      "EUde": "Trekking-Rucksack",
+      "EUes": "mochila de senderismo",
+      "USes": "mochila de senderismo",
+      "EUfr": "sac à dos XL",
+      "USfr": "sac à dos XL",
+      "EUit": "zaino grande",
+      "EUnl": "trekkersrugzak",
+      "CNzh": "登山大背包",
+      "TWzh": "登山大背包",
+      "JPja": "おおきめザック",
+      "KRko": "커다란 배낭",
+      "EUru": "макси-рюкзак"
+    }
+  },
+  {
+    "id": 995,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "basket pack",
+      "EUen": "basket pack",
+      "EUde": "Tragekorb",
+      "EUes": "mochila cesta",
+      "USes": "mochila cesta",
+      "EUfr": "claie à panier",
+      "USfr": "claie à panier",
+      "EUit": "cesta",
+      "EUnl": "mandrugzak",
+      "CNzh": "背篓",
+      "TWzh": "後背架",
+      "JPja": "しょいこ",
+      "KRko": "바구니 가방",
+      "EUru": "заплечная корзина"
+    }
+  },
+  {
+    "id": 996,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "foldover-top backpack",
+      "EUen": "foldover-top backpack",
+      "EUde": "Faltverschluss-Rucksack",
+      "EUes": "mochila de cierre sellado",
+      "USes": "mochila de cierre sellado",
+      "EUfr": "sac à dos à rabat",
+      "USfr": "sac à dos à rabat",
+      "EUit": "zaino apertura ripiegabile",
+      "EUnl": "rugzak met flap",
+      "CNzh": "翻盖双肩包",
+      "TWzh": "掀蓋後背包",
+      "JPja": "ふたつきリュック",
+      "KRko": "폴드오버 배낭",
+      "EUru": "рюкзак «роллтоп»"
+    }
+  },
+  {
+    "id": 997,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "knapsack",
+      "EUen": "knapsack",
+      "EUde": "Turnbeutel",
+      "EUes": "mochila saco",
+      "USes": "mochila bolso",
+      "EUfr": "sac à dos à cordon",
+      "USfr": "sac à dos à cordon",
+      "EUit": "sacca morbida",
+      "EUnl": "koordrugzak",
+      "CNzh": "束口双肩包",
+      "TWzh": "束口後背包",
+      "JPja": "ナップサック",
+      "KRko": "주머니 가방",
+      "EUru": "заплечный мешок"
+    }
+  },
+  {
+    "id": 998,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "canvas backpack",
+      "EUen": "canvas backpack",
+      "EUde": "Leinenrucksack",
+      "EUes": "mochila de lona",
+      "USes": "mochila de lona",
+      "EUfr": "sac à dos en toile",
+      "USfr": "sac à dos en toile",
+      "EUit": "zaino di tela",
+      "EUnl": "canvasrugzak",
+      "CNzh": "帆布双肩包",
+      "TWzh": "帆布後背包",
+      "JPja": "はんぷリュック",
+      "KRko": "옥스퍼드 배낭",
+      "EUru": "матерчатый рюкзак"
+    }
+  },
+  {
+    "id": 999,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's knapsack",
+      "EUen": "Mom's knapsack",
+      "EUde": "Beutel von Mama",
+      "EUes": "mochila de mamá",
+      "USes": "mochila de mamá",
+      "EUfr": "sac à dos de maman",
+      "USfr": "sac à dos de maman",
+      "EUit": "zainetto di mamma",
+      "EUnl": "mama's rugzak",
+      "CNzh": "菱格缝线束口双肩包",
+      "TWzh": "媽媽手作束口後背包",
+      "JPja": "ははのナップサック",
+      "KRko": "엄마의 주머니 가방",
+      "EUru": "мамин рюкзак"
+    }
+  },
+  {
+    "id": 1000,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "knitted-grass backpack",
+      "EUen": "knitted-grass backpack",
+      "EUde": "Grasgeflecht-Rucksack",
+      "EUes": "mochila de mimbre",
+      "USes": "mochila de mimbre",
+      "EUfr": "sac à dos végétal tressé",
+      "USfr": "sac à dos végétal tressé",
+      "EUit": "zaino di maglia",
+      "EUnl": "rugzak van geweven gras",
+      "CNzh": "草编双肩包",
+      "TWzh": "草編後背包",
+      "JPja": "くさあみリュック",
+      "KRko": "풀잎 니트 배낭",
+      "EUru": "плетеный рюкзак"
+    }
+  },
+  {
+    "id": 1001,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hard-shell backpack",
+      "EUen": "hard-shell backpack",
+      "EUde": "Hartschalenrucksack",
+      "EUes": "mochila rígida",
+      "USes": "mochila rígida",
+      "EUfr": "sac à dos rigide",
+      "USfr": "sac à dos rigide",
+      "EUit": "zaino a guscio",
+      "EUnl": "harde rugzak",
+      "CNzh": "硬壳双肩包",
+      "TWzh": "硬殼後背包",
+      "JPja": "ハードシェルリュック",
+      "KRko": "하드 케이스 배낭",
+      "EUru": "твердый рюкзак"
+    }
+  },
+  {
+    "id": 1150,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. knapsack",
+      "EUen": "Nook Inc. knapsack",
+      "EUde": "Nook-Inc.-Beutel",
+      "EUes": "mochila saco de Nook Inc.",
+      "USes": "mochila de Nook Inc.",
+      "EUfr": "sac à dos Nook Inc.",
+      "USfr": "sac à dos Nook Inc.",
+      "EUit": "sacca Nook Inc.",
+      "EUnl": "Nook Inc.-rugzak",
+      "CNzh": "Nook Inc.束口双肩包",
+      "TWzh": "Nook Inc.束口後背包",
+      "JPja": "たぬきかいはつナップサック",
+      "KRko": "Nook Inc. 주머니 가방",
+      "EUru": "рюкзак Nook Inc."
+    }
+  },
+  {
+    "id": 1185,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "DAL backpack",
+      "EUen": "DAL backpack",
+      "EUde": "DAL-Rucksack",
+      "EUes": "mochila de DAL",
+      "USes": "mochila de DAL",
+      "EUfr": "sac à dos Dodo Airlines",
+      "USfr": "sac à dos Dodo Airlines",
+      "EUit": "zaino DAL",
+      "EUnl": "DAL-rugzak",
+      "CNzh": "DAL包包",
+      "TWzh": "DAL包包",
+      "JPja": "ＤＡＬのバッグ",
+      "KRko": "DAL 가방",
+      "EUru": "рюкзак DAL"
+    }
+  },
+  {
+    "id": 1203,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day bag",
+      "EUen": "Bunny Day bag",
+      "EUde": "Häschentag-Rucksack",
+      "EUes": "mochila Caza del Huevo",
+      "USes": "mochila Caza del Huevo",
+      "EUfr": "sac fête des œufs",
+      "USfr": "sac fête des œufs",
+      "EUit": "zaino caccia all'uovo",
+      "EUnl": "eiertas",
+      "CNzh": "复活节包包",
+      "TWzh": "復活節包包",
+      "JPja": "イースターなバッグ",
+      "KRko": "이스터 가방",
+      "EUru": "сумка на День зайцев"
+    }
+  }
+]

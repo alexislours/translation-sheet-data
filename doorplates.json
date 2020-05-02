@@ -1,0 +1,862 @@
+[
+  {
+    "id": "DoorDeco_04293",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cosmos wreath",
+      "EUen": "cosmos wreath",
+      "EUde": "Cosmeentürkranz",
+      "EUes": "corona cosmos",
+      "USes": "corona cosmos",
+      "EUfr": "couronne cosmos",
+      "USfr": "couronne cosmos",
+      "EUit": "ghirlanda cosmee",
+      "EUnl": "cosmeakrans",
+      "CNzh": "波斯菊花环",
+      "TWzh": "波斯菊花圈",
+      "JPja": "コスモスのリース",
+      "KRko": "코스모스 리스",
+      "EUru": "венок с космеями"
+    }
+  },
+  {
+    "id": "DoorDeco_04375",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflake wreath",
+      "EUen": "snowflake wreath",
+      "EUde": "Schneeflockentürschmuck",
+      "EUes": "placa copo de nieve",
+      "USes": "placa copo de nieve",
+      "EUfr": "décoration flocon",
+      "USfr": "décoration flocon",
+      "EUit": "ghirlanda fiocco di neve",
+      "EUnl": "sneeuwvlokkenkrans",
+      "CNzh": "雪花花环",
+      "TWzh": "雪花花圈",
+      "JPja": "ゆきのけっしょうのリース",
+      "KRko": "눈의 결정 리스",
+      "EUru": "венок-снежинка"
+    }
+  },
+  {
+    "id": "DoorDeco_04376",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shell wreath",
+      "EUen": "shell wreath",
+      "EUde": "Muscheltürkranz",
+      "EUes": "corona conchas",
+      "USes": "corona caracolas",
+      "EUfr": "couronne coquillages",
+      "USfr": "couronne coquillages",
+      "EUit": "ghirlanda tema conchiglia",
+      "EUnl": "schelpenkrans",
+      "CNzh": "贝壳花环",
+      "TWzh": "貝殼花圈",
+      "JPja": "かいがらのリース",
+      "KRko": "조개껍데기 리스",
+      "EUru": "венок с ракушками"
+    }
+  },
+  {
+    "id": "DoorDeco_04377",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ornament wreath",
+      "EUen": "ornament wreath",
+      "EUde": "Dekotürkranz",
+      "EUes": "corona bolas decorativas",
+      "USes": "corona decorativa",
+      "EUfr": "couronne décorative",
+      "USfr": "couronne décorative",
+      "EUit": "ghirlanda con palline",
+      "EUnl": "feestelijke krans",
+      "CNzh": "装饰花环",
+      "TWzh": "裝飾花圈",
+      "JPja": "オーナメントのリース",
+      "KRko": "오너먼트 리스",
+      "EUru": "праздничный венок"
+    }
+  },
+  {
+    "id": "DoorDeco_04378",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fruit wreath",
+      "EUen": "fruit wreath",
+      "EUde": "Früchtetürkranz",
+      "EUes": "corona frutal",
+      "USes": "corona frutal",
+      "EUfr": "couronne fruits",
+      "USfr": "couronne fruits",
+      "EUit": "ghirlanda frutta",
+      "EUnl": "fruitkrans",
+      "CNzh": "水果花环",
+      "TWzh": "水果花圈",
+      "JPja": "フルーツのリース",
+      "KRko": "과일 리스",
+      "EUru": "венок с фруктами"
+    }
+  },
+  {
+    "id": "DoorDeco_04726",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mushroom wreath",
+      "EUen": "mushroom wreath",
+      "EUde": "Pilztürkranz",
+      "EUes": "corona setas",
+      "USes": "corona hongos",
+      "EUfr": "couronne champignons",
+      "USfr": "couronne champignons",
+      "EUit": "ghirlanda tema fungo",
+      "EUnl": "paddenstoelenkrans",
+      "CNzh": "蘑菇花环",
+      "TWzh": "蘑菇花圈",
+      "JPja": "キノコのリース",
+      "KRko": "버섯 리스",
+      "EUru": "венок с грибами"
+    }
+  },
+  {
+    "id": "DoorDeco_04727",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tree branch wreath",
+      "EUen": "tree branch wreath",
+      "EUde": "Zweigetürkranz",
+      "EUes": "corona ramas",
+      "USes": "corona ramas",
+      "EUfr": "couronne branches",
+      "USfr": "couronne branches",
+      "EUit": "ghirlanda rami",
+      "EUnl": "twijgenkrans",
+      "CNzh": "树枝花环",
+      "TWzh": "樹枝花圈",
+      "JPja": "きのえだのリース",
+      "KRko": "나뭇가지 리스",
+      "EUru": "венок из веток"
+    }
+  },
+  {
+    "id": "DoorDeco_04738",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skull doorplate",
+      "EUen": "skull doorplate",
+      "EUde": "Totenkopftürschild",
+      "EUes": "placa pirata",
+      "USes": "placa pirata",
+      "EUfr": "plaque tête de mort",
+      "USfr": "plaque tête de mort",
+      "EUit": "targa da porta teschio",
+      "EUnl": "schedeldeurplaatje",
+      "CNzh": "骷髅门牌",
+      "TWzh": "骷髏門牌",
+      "JPja": "ドクロなドアプレート",
+      "KRko": "해골 문패",
+      "EUru": "табличка с черепом"
+    }
+  },
+  {
+    "id": "DoorDeco_04751",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bone doorplate",
+      "EUen": "bone doorplate",
+      "EUde": "Hundeknochentürschild",
+      "EUes": "placa hueso",
+      "USes": "placa hueso",
+      "EUfr": "plaque nonosse",
+      "USfr": "plaque os",
+      "EUit": "targa da porta osso",
+      "EUnl": "bottendeurplaatje",
+      "CNzh": "骨头门牌",
+      "TWzh": "骨頭門牌",
+      "JPja": "ボーンなドアプレート",
+      "KRko": "뼈다귀 문패",
+      "EUru": "табличка-косточка"
+    }
+  },
+  {
+    "id": "DoorDeco_04752",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iron doorplate",
+      "EUen": "iron doorplate",
+      "EUde": "Gusseisentürschild",
+      "EUes": "placa hierro forjado",
+      "USes": "placa hierro forjado",
+      "EUfr": "plaque en fer forgé",
+      "USfr": "plaque en fer forgé",
+      "EUit": "targa da porta di ferro",
+      "EUnl": "ijzeren deurplaatje",
+      "CNzh": "铸铁门牌",
+      "TWzh": "鑄鐵門牌",
+      "JPja": "アイアンなドアプレート",
+      "KRko": "아이언 문패",
+      "EUru": "железное украшение"
+    }
+  },
+  {
+    "id": "DoorDeco_04764",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fish doorplate",
+      "EUen": "fish doorplate",
+      "EUde": "Fischtürschild",
+      "EUes": "placa pez",
+      "USes": "placa pez",
+      "EUfr": "plaque poisson",
+      "USfr": "plaque poisson",
+      "EUit": "targa da porta pesce",
+      "EUnl": "visdeurplaatje",
+      "CNzh": "鱼儿门牌",
+      "TWzh": "魚兒門牌",
+      "JPja": "おサカナのドアプレート",
+      "KRko": "물고기 문패",
+      "EUru": "декоративная рыбка"
+    }
+  },
+  {
+    "id": "DoorDeco_05309",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "heart doorplate",
+      "EUen": "heart doorplate",
+      "EUde": "Herztürschild",
+      "EUes": "placa corazón",
+      "USes": "placa corazón",
+      "EUfr": "plaque cœur",
+      "USfr": "plaque cœur",
+      "EUit": "targa da porta cuore",
+      "EUnl": "hartendeurplaatje",
+      "CNzh": "爱心门牌",
+      "TWzh": "愛心門牌",
+      "JPja": "ハートなドアプレート",
+      "KRko": "하트 문패",
+      "EUru": "табличка-сердечко"
+    }
+  },
+  {
+    "id": "DoorDeco_05310",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spider doorplate",
+      "EUen": "spider doorplate",
+      "EUde": "Spinnentürschild",
+      "EUes": "placa telaraña",
+      "USes": "placa telaraña",
+      "EUfr": "plaque toile d'araignée",
+      "USfr": "plaque toile d'araignée",
+      "EUit": "targa da porta ragnatela",
+      "EUnl": "spinnendeurplaatje",
+      "CNzh": "蜘蛛门牌",
+      "TWzh": "蜘蛛門牌",
+      "JPja": "スパイダーなドアプレート",
+      "KRko": "거미 문패",
+      "EUru": "табличка с пауком"
+    }
+  },
+  {
+    "id": "DoorDeco_05436",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "windflower wreath",
+      "EUen": "windflower wreath",
+      "EUde": "Anemonentürkranz",
+      "EUes": "corona anémona",
+      "USes": "corona anémonas",
+      "EUfr": "couronne anémones",
+      "USfr": "couronne anémones",
+      "EUit": "ghirlanda anemoni",
+      "EUnl": "anemonenkrans",
+      "CNzh": "银莲花花环",
+      "TWzh": "銀蓮花花圈",
+      "JPja": "アネモネのリース",
+      "KRko": "아네모네 리스",
+      "EUru": "венок с ветреницами"
+    }
+  },
+  {
+    "id": "DoorDeco_05437",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rose wreath",
+      "EUen": "rose wreath",
+      "EUde": "Rosentürkranz",
+      "EUes": "corona rosa",
+      "USes": "corona rosas",
+      "EUfr": "couronne roses",
+      "USfr": "couronne roses",
+      "EUit": "ghirlanda rose",
+      "EUnl": "rozenkrans",
+      "CNzh": "玫瑰花环",
+      "TWzh": "玫瑰花圈",
+      "JPja": "バラのリース",
+      "KRko": "장미 리스",
+      "EUru": "венок с розами"
+    }
+  },
+  {
+    "id": "DoorDeco_05466",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pansy wreath",
+      "EUen": "pansy wreath",
+      "EUde": "Veilchentürkranz",
+      "EUes": "corona viola",
+      "USes": "corona violas",
+      "EUfr": "couronne pensées",
+      "USfr": "couronne pensées",
+      "EUit": "ghirlanda viole",
+      "EUnl": "viooltjeskrans",
+      "CNzh": "三色堇花环",
+      "TWzh": "三色堇花圈",
+      "JPja": "パンジーのリース",
+      "KRko": "팬지 리스",
+      "EUru": "венок с фиалками"
+    }
+  },
+  {
+    "id": "DoorDeco_05467",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mum wreath",
+      "EUen": "mum wreath",
+      "EUde": "Chrysanthementürkranz",
+      "EUes": "corona crisantemo",
+      "USes": "corona crisantemos",
+      "EUfr": "couronne chrysanthèmes",
+      "USfr": "couronne chrysanthèmes",
+      "EUit": "ghirlanda crisantemi",
+      "EUnl": "chrysantenkrans",
+      "CNzh": "菊花花环",
+      "TWzh": "菊花花圈",
+      "JPja": "キクのリース",
+      "KRko": "국화 리스",
+      "EUru": "венок с хризантемами"
+    }
+  },
+  {
+    "id": "DoorDeco_05468",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hyacinth wreath",
+      "EUen": "hyacinth wreath",
+      "EUde": "Hyazinthentürkranz",
+      "EUes": "corona jacinto",
+      "USes": "corona jacintos",
+      "EUfr": "couronne jacinthes",
+      "USfr": "couronne jacinthes",
+      "EUit": "ghirlanda giacinti",
+      "EUnl": "hyacintenkrans",
+      "CNzh": "风信子花环",
+      "TWzh": "風信子花圈",
+      "JPja": "ヒヤシンスのリース",
+      "KRko": "히아신스 리스",
+      "EUru": "венок с гиацинтами"
+    }
+  },
+  {
+    "id": "DoorDeco_05641",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lily wreath",
+      "EUen": "lily wreath",
+      "EUde": "Lilientürkranz",
+      "EUes": "corona lirio",
+      "USes": "corona lirios",
+      "EUfr": "couronne lys",
+      "USfr": "couronne lys",
+      "EUit": "ghirlanda gigli",
+      "EUnl": "leliekrans",
+      "CNzh": "百合花环",
+      "TWzh": "百合花圈",
+      "JPja": "ユリのリース",
+      "KRko": "백합 리스",
+      "EUru": "венок с лилиями"
+    }
+  },
+  {
+    "id": "DoorDeco_05670",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tulip wreath",
+      "EUen": "tulip wreath",
+      "EUde": "Tulpentürkranz",
+      "EUes": "corona tulipán",
+      "USes": "corona tulipanes",
+      "EUfr": "couronne tulipes",
+      "USfr": "couronne tulipes",
+      "EUit": "ghirlanda tulipani",
+      "EUnl": "tulpenkrans",
+      "CNzh": "郁金香花环",
+      "TWzh": "鬱金香花圈",
+      "JPja": "チューリップのリース",
+      "KRko": "튤립 리스",
+      "EUru": "венок с тюльпанами"
+    }
+  },
+  {
+    "id": "DoorDeco_05677",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fancy lily wreath",
+      "EUen": "fancy lily wreath",
+      "EUde": "Prachtlilientürkranz",
+      "EUes": "corona lirio pomposa",
+      "USes": "corona lirios lujosa",
+      "EUfr": "couronne lys élégante",
+      "USfr": "couronne lys élégante",
+      "EUit": "ghirlanda gigli sbarazzina",
+      "EUnl": "luxe leliekrans",
+      "CNzh": "精美百合花环",
+      "TWzh": "精美百合花圈",
+      "JPja": "ファンシーなユリのリース",
+      "KRko": "팬시 백합 리스",
+      "EUru": "шикарн. венок с лилиями"
+    }
+  },
+  {
+    "id": "DoorDeco_05716",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "paw-print doorplate",
+      "EUen": "paw-print doorplate",
+      "EUde": "Pfotenabdrucktürschild",
+      "EUes": "placa huella animal",
+      "USes": "placa huella animal",
+      "EUfr": "plaque patte de chien",
+      "USfr": "plaque patte de chien",
+      "EUit": "targa da porta zampina",
+      "EUnl": "pootafdrukdeurplaatje",
+      "CNzh": "肉球门牌",
+      "TWzh": "肉球門牌",
+      "JPja": "にくきゅうのドアプレート",
+      "KRko": "발바닥 문패",
+      "EUru": "декоративный отпечаток"
+    }
+  },
+  {
+    "id": "DoorDeco_05717",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crest doorplate",
+      "EUen": "crest doorplate",
+      "EUde": "Wappentürschild",
+      "EUes": "placa escudo de armas",
+      "USes": "placa escudo de armas",
+      "EUfr": "plaque blason",
+      "USfr": "plaque blason",
+      "EUit": "targa da porta stemma",
+      "EUnl": "schildwapendeurplaatje",
+      "CNzh": "纹章门牌",
+      "TWzh": "徽章門牌",
+      "JPja": "エンブレムなドアプレート",
+      "KRko": "엠블럼 문패",
+      "EUru": "герб"
+    }
+  },
+  {
+    "id": "DoorDeco_05718",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "timber doorplate",
+      "EUen": "timber doorplate",
+      "EUde": "Holztürschild",
+      "EUes": "placa de leña",
+      "USes": "placa de leña",
+      "EUfr": "plaque bûche",
+      "USfr": "plaque bûche",
+      "EUit": "targa da porta ciocco",
+      "EUnl": "deurplaatje",
+      "CNzh": "原木门牌",
+      "TWzh": "原木門牌",
+      "JPja": "ログなドアプレート",
+      "KRko": "통나무 문패",
+      "EUru": "табличка-срез"
+    }
+  },
+  {
+    "id": "DoorDeco_05719",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fossil doorplate",
+      "EUen": "fossil doorplate",
+      "EUde": "Fossilientürschild",
+      "EUes": "placa fósil",
+      "USes": "placa fósil",
+      "EUfr": "plaque fossile",
+      "USfr": "plaque fossile",
+      "EUit": "targa da porta fossile",
+      "EUnl": "fossieldeurplaatje",
+      "CNzh": "化石门牌",
+      "TWzh": "化石門牌",
+      "JPja": "かせきのドアプレート",
+      "KRko": "화석 문패",
+      "EUru": "декоративный аммонит"
+    }
+  },
+  {
+    "id": "DoorDeco_05745",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pretty cosmos wreath",
+      "EUen": "pretty cosmos wreath",
+      "EUde": "Buntcosmeentürkranz",
+      "EUes": "corona cosmos adorable",
+      "USes": "corona cosmos adorable",
+      "EUfr": "jolie couronne cosmos",
+      "USfr": "jolie couronne cosmos",
+      "EUit": "ghirlanda cosmee carina",
+      "EUnl": "fraaie cosmeakrans",
+      "CNzh": "可爱波斯菊花环",
+      "TWzh": "可愛波斯菊花圈",
+      "JPja": "キュートなコスモスのリース",
+      "KRko": "큐트 코스모스 리스",
+      "EUru": "дивный венок с космеями"
+    }
+  },
+  {
+    "id": "DoorDeco_05746",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cool windflower wreath",
+      "EUen": "cool windflower wreath",
+      "EUde": "Buntanemonentürkranz",
+      "EUes": "corona anémona refinada",
+      "USes": "corona anémonas atrevida",
+      "EUfr": "couronne anémone raffinée",
+      "USfr": "couronne anémones fraiche",
+      "EUit": "ghirlanda anemoni spavalda",
+      "EUnl": "toffe anemonenkrans",
+      "CNzh": "清新银莲花花环",
+      "TWzh": "清新銀蓮花花圈",
+      "JPja": "クールなアネモネのリース",
+      "KRko": "쿨 아네모네 리스",
+      "EUru": "ярк. венок с ветреницами"
+    }
+  },
+  {
+    "id": "DoorDeco_05747",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fancy rose wreath",
+      "EUen": "fancy rose wreath",
+      "EUde": "Prachtrosentürkranz",
+      "EUes": "corona rosa pomposa",
+      "USes": "corona rosas lujosa",
+      "EUfr": "couronne rose élégante",
+      "USfr": "couronne roses élégante",
+      "EUit": "ghirlanda rose sbarazzina",
+      "EUnl": "luxe rozenkrans",
+      "CNzh": "精美玫瑰花环",
+      "TWzh": "精美玫瑰花圈",
+      "JPja": "ファンシーなバラのリース",
+      "KRko": "팬시 장미 리스",
+      "EUru": "шикарный венок с розами"
+    }
+  },
+  {
+    "id": "DoorDeco_05748",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snazzy pansy wreath",
+      "EUen": "snazzy pansy wreath",
+      "EUde": "Schickveilchentürkranz",
+      "EUes": "corona viola vistosa",
+      "USes": "corona violas vistosa",
+      "EUfr": "couronne pensée pimpante",
+      "USfr": "couronne pensées pimpante",
+      "EUit": "ghirlanda viole sgargiante",
+      "EUnl": "opvallende viooltjeskrans",
+      "CNzh": "华丽三色堇花环",
+      "TWzh": "繽紛三色堇花圈",
+      "JPja": "ポップなパンジーのリース",
+      "KRko": "팝 팬지 리스",
+      "EUru": "броск. венок с фиалками"
+    }
+  },
+  {
+    "id": "DoorDeco_05749",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fancy mum wreath",
+      "EUen": "fancy mum wreath",
+      "EUde": "Edelchrysanth.-Türkranz",
+      "EUes": "corona crisantemo pomposa",
+      "USes": "corona crisantemos lujosa",
+      "EUfr": "couronne chrys. élégante",
+      "USfr": "couronne chrys. élégante",
+      "EUit": "ghirl. crisantemi sbarazzina",
+      "EUnl": "luxe chrysantenkrans",
+      "CNzh": "精美菊花花环",
+      "TWzh": "精美菊花花圈",
+      "JPja": "ファンシーなキクのリース",
+      "KRko": "팬시 국화 리스",
+      "EUru": "шик. венок с хризантемами"
+    }
+  },
+  {
+    "id": "DoorDeco_05750",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cool hyacinth wreath",
+      "EUen": "cool hyacinth wreath",
+      "EUde": "Bunthyazinthentürkranz",
+      "EUes": "corona jacinto refinada",
+      "USes": "corona jacintos atrevida",
+      "EUfr": "couronne jacinthe raffinée",
+      "USfr": "couronne jacinthes fraiche",
+      "EUit": "ghirlanda giacinti spavalda",
+      "EUnl": "toffe hyacintenkrans",
+      "CNzh": "清新风信子花环",
+      "TWzh": "清新風信子花圈",
+      "JPja": "クールなヒヤシンスのリース",
+      "KRko": "쿨 히아신스 리스",
+      "EUru": "ярк. венок с гиацинтами"
+    }
+  },
+  {
+    "id": "DoorDeco_05751",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pretty tulip wreath",
+      "EUen": "pretty tulip wreath",
+      "EUde": "Bunttulpentürkranz",
+      "EUes": "corona tulipán adorable",
+      "USes": "corona tulipanes adorable",
+      "EUfr": "jolie couronne tulipe",
+      "USfr": "jolie couronne tulipes",
+      "EUit": "ghirlanda tulipani carina",
+      "EUnl": "fraaie tulpenkrans",
+      "CNzh": "可爱郁金香花环",
+      "TWzh": "可愛鬱金香花圈",
+      "JPja": "キュートなチューリップのリース",
+      "KRko": "큐트 튤립 리스",
+      "EUru": "дивн. венок с тюльпанами"
+    }
+  },
+  {
+    "id": "DoorDeco_05764",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chic cosmos wreath",
+      "EUen": "chic cosmos wreath",
+      "EUde": "Edelcosmeentürkranz",
+      "EUes": "corona cosmos negro",
+      "USes": "corona cosmos chic",
+      "EUfr": "couronne cosmos chic",
+      "USfr": "couronne cosmos chic",
+      "EUit": "ghirlanda cosmee chic",
+      "EUnl": "chique cosmeakrans",
+      "CNzh": "典雅波斯菊花环",
+      "TWzh": "典雅波斯菊花圈",
+      "JPja": "シックなコスモスのリース",
+      "KRko": "시크 코스모스 리스",
+      "EUru": "диво-венок с космеями"
+    }
+  },
+  {
+    "id": "DoorDeco_05765",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chic windflower wreath",
+      "EUen": "chic windflower wreath",
+      "EUde": "Edelanemonentürkranz",
+      "EUes": "corona anémona violeta",
+      "USes": "corona anémonas chic",
+      "EUfr": "couronne anémones chic",
+      "USfr": "couronne anémones chic",
+      "EUit": "ghirlanda anemoni chic",
+      "EUnl": "chique anemonenkrans",
+      "CNzh": "典雅银莲花花环",
+      "TWzh": "典雅銀蓮花花圈",
+      "JPja": "シックなアネモネのリース",
+      "KRko": "시크 아네모네 리스",
+      "EUru": "диво-венок с ветреницами"
+    }
+  },
+  {
+    "id": "DoorDeco_05766",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark rose wreath",
+      "EUen": "dark rose wreath",
+      "EUde": "Dunkelrosentürkranz",
+      "EUes": "corona rosa oscura",
+      "USes": "corona rosas oscuras",
+      "EUfr": "couronne roses sombre",
+      "USfr": "couronne roses sombre",
+      "EUit": "ghirlanda rose cupa",
+      "EUnl": "donkere-rozenkrans",
+      "CNzh": "深色玫瑰花环",
+      "TWzh": "深色玫瑰花圈",
+      "JPja": "ダークなバラのリース",
+      "KRko": "다크 장미 리스",
+      "EUru": "венок с темными розами"
+    }
+  },
+  {
+    "id": "DoorDeco_05767",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cool pansy wreath",
+      "EUen": "cool pansy wreath",
+      "EUde": "Buntveilchentürkranz",
+      "EUes": "corona viola violeta",
+      "USes": "corona violas atrevida",
+      "EUfr": "couronne pensée raffinée",
+      "USfr": "couronne pensées fraiche",
+      "EUit": "ghirlanda viole spavalda",
+      "EUnl": "toffe viooltjeskrans",
+      "CNzh": "清新三色堇花环",
+      "TWzh": "清新三色堇花圈",
+      "JPja": "クールなパンジーのリース",
+      "KRko": "쿨 팬지 리스",
+      "EUru": "яркий венок с фиалками"
+    }
+  },
+  {
+    "id": "DoorDeco_05768",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "natural mum wreath",
+      "EUen": "natural mum wreath",
+      "EUde": "Grünchrysanth.-Türkranz",
+      "EUes": "corona crisantemo verde",
+      "USes": "corona crisantemos verdes",
+      "EUfr": "cour. chrysanthèmes nature",
+      "USfr": "cour. chrysanthèmes nature",
+      "EUit": "ghirl. crisantemi naturale",
+      "EUnl": "natuurlijke chrysantenkrans",
+      "CNzh": "自然风菊花花环",
+      "TWzh": "自然風菊花花圈",
+      "JPja": "ナチュラルなキクのリース",
+      "KRko": "내추럴 국화 리스",
+      "EUru": "зел. венок с хризантемами"
+    }
+  },
+  {
+    "id": "DoorDeco_05769",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple hyacinth wreath",
+      "EUen": "purple hyacinth wreath",
+      "EUde": "Purpurhyazinthentürkranz",
+      "EUes": "corona jacinto violeta",
+      "USes": "corona jacintos morados",
+      "EUfr": "couronne jacinthes mauves",
+      "USfr": "couronne jacinthes mauves",
+      "EUit": "ghirlanda giacinti viola",
+      "EUnl": "paarse-hyacintenkrans",
+      "CNzh": "紫色风信子花环",
+      "TWzh": "紫色風信子花圈",
+      "JPja": "むらさきのヒヤシンスのリース",
+      "KRko": "보라색 히아신스 리스",
+      "EUru": "фиол. венок с гиацинтами"
+    }
+  },
+  {
+    "id": "DoorDeco_05770",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark lily wreath",
+      "EUen": "dark lily wreath",
+      "EUde": "Dunkellilientürkranz",
+      "EUes": "corona lirio negro",
+      "USes": "corona lirios gótica",
+      "EUfr": "couronne lys sombre",
+      "USfr": "couronne lys sombre",
+      "EUit": "ghirlanda viole cupa",
+      "EUnl": "donkere-leliekrans",
+      "CNzh": "深色百合花环",
+      "TWzh": "深色百合花圈",
+      "JPja": "ダークなユリのリース",
+      "KRko": "다크 백합 리스",
+      "EUru": "темный венок с лилиями"
+    }
+  },
+  {
+    "id": "DoorDeco_05771",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark tulip wreath",
+      "EUen": "dark tulip wreath",
+      "EUde": "Römertulpentürkranz",
+      "EUes": "corona tulipán negro",
+      "USes": "corona tulipanes gótica",
+      "EUfr": "couronne tulipes sombre",
+      "USfr": "couronne tulipes sombre",
+      "EUit": "ghirlanda tulipani cupa",
+      "EUnl": "donkere-tulpenkrans",
+      "CNzh": "深色郁金香花环",
+      "TWzh": "深色鬱金香花圈",
+      "JPja": "ダークなチューリップのリース",
+      "KRko": "다크 튤립 리스",
+      "EUru": "темн. венок с тюльпанами"
+    }
+  },
+  {
+    "id": "DoorDeco_05772",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue rose wreath",
+      "EUen": "blue rose wreath",
+      "EUde": "Blaurosentürkranz",
+      "EUes": "corona rosa azul",
+      "USes": "corona rosas azules",
+      "EUfr": "couronne roses bleues",
+      "USfr": "couronne roses bleues",
+      "EUit": "ghirlanda rose blu",
+      "EUnl": "blauwe-rozenkrans",
+      "CNzh": "蓝色玫瑰花环",
+      "TWzh": "藍色玫瑰花圈",
+      "JPja": "あおいバラのリース",
+      "KRko": "파란 장미 리스",
+      "EUru": "венок с синими розами"
+    }
+  },
+  {
+    "id": "DoorDeco_05820",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold rose wreath",
+      "EUen": "gold rose wreath",
+      "EUde": "Goldrosentürkranz",
+      "EUes": "corona rosa dorada",
+      "USes": "corona rosas doradas",
+      "EUfr": "couronne roses dorées",
+      "USfr": "couronne roses dorées",
+      "EUit": "ghirlanda rose d'oro",
+      "EUnl": "gouden rozenkrans",
+      "CNzh": "金色玫瑰花环",
+      "TWzh": "金色玫瑰花圈",
+      "JPja": "きんのバラのリース",
+      "KRko": "금장미 리스",
+      "EUru": "венок с золотыми розами"
+    }
+  },
+  {
+    "id": "DoorDeco_12517",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day wreath",
+      "EUen": "Bunny Day wreath",
+      "EUde": "Häschentag-Türkranz",
+      "EUes": "corona Caza del Huevo",
+      "USes": "corona Caza del Huevo",
+      "EUfr": "couronne fête des œufs",
+      "USfr": "couronne fête des œufs",
+      "EUit": "ghirlanda caccia all'uovo",
+      "EUnl": "eierkrans",
+      "CNzh": "复活节花环",
+      "TWzh": "復活節花圈",
+      "JPja": "イースターなリース",
+      "KRko": "이스터 리스",
+      "EUru": "венок на День зайцев"
+    }
+  }
+]

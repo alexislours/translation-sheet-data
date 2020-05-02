@@ -1,0 +1,962 @@
+[
+  {
+    "id": 0,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red tile roof",
+      "EUen": "red tile roof",
+      "EUde": "Rot-Ziegeldach",
+      "EUes": "tejado pizarra rojo",
+      "USes": "tejado pizarra rojo",
+      "EUfr": "toit en tuiles rouges",
+      "USfr": "toit en tuiles rouges",
+      "EUit": "tetto di tegole rosse",
+      "EUnl": "rood pannendak",
+      "CNzh": "红色瓦屋顶",
+      "TWzh": "紅色瓦片屋頂",
+      "JPja": "あかいかわらやね",
+      "KRko": "빨간색 기와지붕",
+      "EUru": "красная черепичн. крыша"
+    }
+  },
+  {
+    "id": 3,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink tile roof",
+      "EUen": "pink tile roof",
+      "EUde": "Rosa-Ziegeldach",
+      "EUes": "tejado pizarra rosa",
+      "USes": "tejado pizarra rosa",
+      "EUfr": "toit en tuiles roses",
+      "USfr": "toit en tuiles roses",
+      "EUit": "tetto di tegole rosa",
+      "EUnl": "roze pannendak",
+      "CNzh": "粉红色瓦屋顶",
+      "TWzh": "粉紅色瓦片屋頂",
+      "JPja": "ピンクのかわらやね",
+      "KRko": "핑크색 기와지붕",
+      "EUru": "розовая черепичн. крыша"
+    }
+  },
+  {
+    "id": 6,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "golden-brown thatch roof",
+      "EUen": "golden-brown thatch roof",
+      "EUde": "Goldbraun-Reetdach",
+      "EUes": "tejado paja dorado",
+      "USes": "tejado paja dorado",
+      "EUfr": "toit de chaume jaune doré",
+      "USfr": "toit de chaume jaune doré",
+      "EUit": "tetto di paglia brunita",
+      "EUnl": "goudbruin rieten dak",
+      "CNzh": "浅棕色茅草屋顶",
+      "TWzh": "淺棕色茅草屋頂",
+      "JPja": "きつねいろのかやぶきやね",
+      "KRko": "연갈색 초가지붕",
+      "EUru": "светлая соломен. крыша"
+    }
+  },
+  {
+    "id": 7,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray stone roof",
+      "EUen": "gray stone roof",
+      "EUde": "Grau-Steindach",
+      "EUes": "tejado piedra gris",
+      "USes": "tejado piedra gris",
+      "EUfr": "toit en pierre grise",
+      "USfr": "toit en pierre grise",
+      "EUit": "tetto di pietra grigia",
+      "EUnl": "grijze stenen dak",
+      "CNzh": "灰色石屋顶",
+      "TWzh": "灰色石屋頂",
+      "JPja": "グレーないしのやね",
+      "KRko": "회색 돌 지붕",
+      "EUru": "серая каменная крыша"
+    }
+  },
+  {
+    "id": 8,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange curved shingles",
+      "EUen": "orange curved shingles",
+      "EUde": "Orange-Rundziegeldach",
+      "EUes": "tejado teja naranja",
+      "USes": "tejado teja naranja",
+      "EUfr": "toit en tuiles canal orange",
+      "USfr": "toit en tuiles canal orange",
+      "EUit": "tetto di coppi arancioni",
+      "EUnl": "oranje dakspanen",
+      "CNzh": "橘色洋瓦屋顶",
+      "TWzh": "橘色洋瓦屋頂",
+      "JPja": "オレンジいろのようがわらのやね",
+      "KRko": "오렌지색 서양식 지붕",
+      "EUru": "круглая оранж. черепица"
+    }
+  },
+  {
+    "id": 23,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown thatch roof",
+      "EUen": "brown thatch roof",
+      "EUde": "Braun-Reetdach",
+      "EUes": "tejado paja pardo",
+      "USes": "tejado paja pardo",
+      "EUfr": "toit de chaume brun",
+      "USfr": "toit de chaume brun",
+      "EUit": "tetto di paglia marrone",
+      "EUnl": "bruin rieten dak",
+      "CNzh": "茶色茅草屋顶",
+      "TWzh": "茶色茅草屋頂",
+      "JPja": "ちゃいろいかやぶきやね",
+      "KRko": "갈색 초가지붕",
+      "EUru": "темная соломен. крыша"
+    }
+  },
+  {
+    "id": 24,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange thatch roof",
+      "EUen": "orange thatch roof",
+      "EUde": "Orange-Reetdach",
+      "EUes": "tejado paja naranja",
+      "USes": "tejado paja naranja",
+      "EUfr": "toit de chaume orange",
+      "USfr": "toit de chaume orange",
+      "EUit": "tetto di paglia arancione",
+      "EUnl": "oranje rieten dak",
+      "CNzh": "橘色茅草屋顶",
+      "TWzh": "橘色茅草屋頂",
+      "JPja": "オレンジいろのかやぶきやね",
+      "KRko": "주황색 초가지붕",
+      "EUru": "оранжевая солом. крыша"
+    }
+  },
+  {
+    "id": 25,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fresh-grass thatch roof",
+      "EUen": "fresh-grass thatch roof",
+      "EUde": "Gelb-Reetdach",
+      "EUes": "tejado paja recién cortada",
+      "USes": "tejado paja recién cortada",
+      "EUfr": "toit de chaume frais",
+      "USfr": "toit de chaume jaune pâle",
+      "EUit": "tetto di paglia fresca",
+      "EUnl": "rieten dak",
+      "CNzh": "浅黄色茅草屋顶",
+      "TWzh": "嫩黃色茅草屋頂",
+      "JPja": "わかくさいろのかやぶきやね",
+      "KRko": "연두색 초가지붕",
+      "EUru": "крыша из свежей травы"
+    }
+  },
+  {
+    "id": 26,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray thatch roof",
+      "EUen": "gray thatch roof",
+      "EUde": "Grau-Reetdach",
+      "EUes": "tejado paja gris",
+      "USes": "tejado paja gris",
+      "EUfr": "toit de chaume gris",
+      "USfr": "toit de chaume gris",
+      "EUit": "tetto di paglia grigia",
+      "EUnl": "grijze rieten dak",
+      "CNzh": "灰色茅草屋顶",
+      "TWzh": "灰色茅草屋頂",
+      "JPja": "はいいろのかやぶきやね",
+      "KRko": "회색 초가지붕",
+      "EUru": "серая соломен. крыша"
+    }
+  },
+  {
+    "id": 39,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red tile roof",
+      "EUen": "red tile roof",
+      "EUde": "Rot-Ziegeldach",
+      "EUes": "tejado pizarra rojo",
+      "USes": "tejado pizarra rojo",
+      "EUfr": "toit en tuiles rouges",
+      "USfr": "toit en tuiles rouges",
+      "EUit": "tetto di tegole rosse",
+      "EUnl": "rood pannendak",
+      "CNzh": "红色瓦屋顶",
+      "TWzh": "紅色瓦片屋頂",
+      "JPja": "あかいかわらやね",
+      "KRko": "빨간색 기와지붕",
+      "EUru": "красная черепичн. крыша"
+    }
+  },
+  {
+    "id": 47,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red tile roof",
+      "EUen": "red tile roof",
+      "EUde": "Rot-Ziegeldach",
+      "EUes": "tejado pizarra rojo",
+      "USes": "tejado pizarra rojo",
+      "EUfr": "toit en tuiles rouges",
+      "USfr": "toit en tuiles rouges",
+      "EUit": "tetto di tegole rosse",
+      "EUnl": "rood pannendak",
+      "CNzh": "红色瓦屋顶",
+      "TWzh": "紅色瓦片屋頂",
+      "JPja": "あかいかわらやね",
+      "KRko": "빨간색 기와지붕",
+      "EUru": "красная черепичн. крыша"
+    }
+  },
+  {
+    "id": 126,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink tile roof",
+      "EUen": "pink tile roof",
+      "EUde": "Rosa-Ziegeldach",
+      "EUes": "tejado pizarra rosa",
+      "USes": "tejado pizarra rosa",
+      "EUfr": "toit en tuiles roses",
+      "USfr": "toit en tuiles roses",
+      "EUit": "tetto di tegole rosa",
+      "EUnl": "roze pannendak",
+      "CNzh": "粉红色瓦屋顶",
+      "TWzh": "粉紅色瓦片屋頂",
+      "JPja": "ピンクのかわらやね",
+      "KRko": "핑크색 기와지붕",
+      "EUru": "розовая черепичн. крыша"
+    }
+  },
+  {
+    "id": 127,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow tile roof",
+      "EUen": "yellow tile roof",
+      "EUde": "Gelb-Ziegeldach",
+      "EUes": "tejado pizarra ocre",
+      "USes": "tejado pizarra ocre",
+      "EUfr": "toit en tuiles jaunes",
+      "USfr": "toit en tuiles jaunes",
+      "EUit": "tetto di tegole gialle",
+      "EUnl": "geel pannendak",
+      "CNzh": "黄色瓦屋顶",
+      "TWzh": "黃色瓦片屋頂",
+      "JPja": "きいろいかわらやね",
+      "KRko": "노란색 기와지붕",
+      "EUru": "желтая черепичн. крыша"
+    }
+  },
+  {
+    "id": 128,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green tile roof",
+      "EUen": "green tile roof",
+      "EUde": "Grün-Ziegeldach",
+      "EUes": "tejado pizarra verde",
+      "USes": "tejado pizarra verde",
+      "EUfr": "toit en tuiles vertes",
+      "USfr": "toit en tuiles vertes",
+      "EUit": "tetto di tegole verdi",
+      "EUnl": "groen pannendak",
+      "CNzh": "绿色瓦屋顶",
+      "TWzh": "綠色瓦片屋頂",
+      "JPja": "みどりのかわらやね",
+      "KRko": "초록색 기와지붕",
+      "EUru": "зеленая черепичн. крыша"
+    }
+  },
+  {
+    "id": 129,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aqua tile roof",
+      "EUen": "aqua tile roof",
+      "EUde": "Hellblau-Ziegeldach",
+      "EUes": "tejado pizarra celeste",
+      "USes": "tejado pizarra celeste",
+      "EUfr": "toit en tuiles turquoise",
+      "USfr": "toit en tuiles bleu ciel",
+      "EUit": "tetto di tegole turchesi",
+      "EUnl": "lichtblauw pannendak",
+      "CNzh": "水蓝色瓦屋顶",
+      "TWzh": "水藍色瓦片屋頂",
+      "JPja": "みずいろのかわらやね",
+      "KRko": "하늘색 기와지붕",
+      "EUru": "аквамар. черепичн. крыша"
+    }
+  },
+  {
+    "id": 130,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue tile roof",
+      "EUen": "blue tile roof",
+      "EUde": "Blau-Ziegeldach",
+      "EUes": "tejado pizarra azul",
+      "USes": "tejado pizarra azul",
+      "EUfr": "toit en tuiles bleues",
+      "USfr": "toit en tuiles bleues",
+      "EUit": "tetto di tegole blu",
+      "EUnl": "blauw pannendak",
+      "CNzh": "蓝色瓦屋顶",
+      "TWzh": "藍色瓦片屋頂",
+      "JPja": "あおいかわらやね",
+      "KRko": "파란색 기와지붕",
+      "EUru": "синяя черепичн. крыша"
+    }
+  },
+  {
+    "id": 131,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple tile roof",
+      "EUen": "purple tile roof",
+      "EUde": "Lila-Ziegeldach",
+      "EUes": "tejado pizarra lila",
+      "USes": "tejado pizarra morado",
+      "EUfr": "toit en tuiles violettes",
+      "USfr": "toit en tuiles mauves",
+      "EUit": "tetto di tegole indaco",
+      "EUnl": "paars pannendak",
+      "CNzh": "紫色瓦屋顶",
+      "TWzh": "紫色瓦片屋頂",
+      "JPja": "むらさきのかわらやね",
+      "KRko": "보라색 기와지붕",
+      "EUru": "фиолет. черепичн. крыша"
+    }
+  },
+  {
+    "id": 132,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black tile roof",
+      "EUen": "black tile roof",
+      "EUde": "Schwarz-Ziegeldach",
+      "EUes": "tejado pizarra negro",
+      "USes": "tejado pizarra negro",
+      "EUfr": "toit en tuiles noires",
+      "USfr": "toit en tuiles noires",
+      "EUit": "tetto di tegole nere",
+      "EUnl": "zwart pannendak",
+      "CNzh": "黑色瓦屋顶",
+      "TWzh": "黑色瓦片屋頂",
+      "JPja": "くろいかわらやね",
+      "KRko": "검은색 기와지붕",
+      "EUru": "черная черепичн. крыша"
+    }
+  },
+  {
+    "id": 133,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink tile roof",
+      "EUen": "pink tile roof",
+      "EUde": "Rosa-Ziegeldach",
+      "EUes": "tejado pizarra rosa",
+      "USes": "tejado pizarra rosa",
+      "EUfr": "toit en tuiles roses",
+      "USfr": "toit en tuiles roses",
+      "EUit": "tetto di tegole rosa",
+      "EUnl": "roze pannendak",
+      "CNzh": "粉红色瓦屋顶",
+      "TWzh": "粉紅色瓦片屋頂",
+      "JPja": "ピンクのかわらやね",
+      "KRko": "핑크색 기와지붕",
+      "EUru": "розовая черепичн. крыша"
+    }
+  },
+  {
+    "id": 134,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow tile roof",
+      "EUen": "yellow tile roof",
+      "EUde": "Gelb-Ziegeldach",
+      "EUes": "tejado pizarra ocre",
+      "USes": "tejado pizarra ocre",
+      "EUfr": "toit en tuiles jaunes",
+      "USfr": "toit en tuiles jaunes",
+      "EUit": "tetto di tegole gialle",
+      "EUnl": "geel pannendak",
+      "CNzh": "黄色瓦屋顶",
+      "TWzh": "黃色瓦片屋頂",
+      "JPja": "きいろいかわらやね",
+      "KRko": "노란색 기와지붕",
+      "EUru": "желтая черепичн. крыша"
+    }
+  },
+  {
+    "id": 135,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green tile roof",
+      "EUen": "green tile roof",
+      "EUde": "Grün-Ziegeldach",
+      "EUes": "tejado pizarra verde",
+      "USes": "tejado pizarra verde",
+      "EUfr": "toit en tuiles vertes",
+      "USfr": "toit en tuiles vertes",
+      "EUit": "tetto di tegole verdi",
+      "EUnl": "groen pannendak",
+      "CNzh": "绿色瓦屋顶",
+      "TWzh": "綠色瓦片屋頂",
+      "JPja": "みどりのかわらやね",
+      "KRko": "초록색 기와지붕",
+      "EUru": "зеленая черепичн. крыша"
+    }
+  },
+  {
+    "id": 136,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aqua tile roof",
+      "EUen": "aqua tile roof",
+      "EUde": "Hellblau-Ziegeldach",
+      "EUes": "tejado pizarra celeste",
+      "USes": "tejado pizarra celeste",
+      "EUfr": "toit en tuiles turquoise",
+      "USfr": "toit en tuiles bleu ciel",
+      "EUit": "tetto di tegole turchesi",
+      "EUnl": "lichtblauw pannendak",
+      "CNzh": "水蓝色瓦屋顶",
+      "TWzh": "水藍色瓦片屋頂",
+      "JPja": "みずいろのかわらやね",
+      "KRko": "하늘색 기와지붕",
+      "EUru": "аквамар. черепичн. крыша"
+    }
+  },
+  {
+    "id": 137,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue tile roof",
+      "EUen": "blue tile roof",
+      "EUde": "Blau-Ziegeldach",
+      "EUes": "tejado pizarra azul",
+      "USes": "tejado pizarra azul",
+      "EUfr": "toit en tuiles bleues",
+      "USfr": "toit en tuiles bleues",
+      "EUit": "tetto di tegole blu",
+      "EUnl": "blauw pannendak",
+      "CNzh": "蓝色瓦屋顶",
+      "TWzh": "藍色瓦片屋頂",
+      "JPja": "あおいかわらやね",
+      "KRko": "파란색 기와지붕",
+      "EUru": "синяя черепичн. крыша"
+    }
+  },
+  {
+    "id": 138,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple tile roof",
+      "EUen": "purple tile roof",
+      "EUde": "Lila-Ziegeldach",
+      "EUes": "tejado pizarra lila",
+      "USes": "tejado pizarra morado",
+      "EUfr": "toit en tuiles violettes",
+      "USfr": "toit en tuiles mauves",
+      "EUit": "tetto di tegole indaco",
+      "EUnl": "paars pannendak",
+      "CNzh": "紫色瓦屋顶",
+      "TWzh": "紫色瓦片屋頂",
+      "JPja": "むらさきのかわらやね",
+      "KRko": "보라색 기와지붕",
+      "EUru": "фиолет. черепичн. крыша"
+    }
+  },
+  {
+    "id": 139,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black tile roof",
+      "EUen": "black tile roof",
+      "EUde": "Schwarz-Ziegeldach",
+      "EUes": "tejado pizarra negro",
+      "USes": "tejado pizarra negro",
+      "EUfr": "toit en tuiles noires",
+      "USfr": "toit en tuiles noires",
+      "EUit": "tetto di tegole nere",
+      "EUnl": "zwart pannendak",
+      "CNzh": "黑色瓦屋顶",
+      "TWzh": "黑色瓦片屋頂",
+      "JPja": "くろいかわらやね",
+      "KRko": "검은색 기와지붕",
+      "EUru": "черная черепичн. крыша"
+    }
+  },
+  {
+    "id": 147,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow tile roof",
+      "EUen": "yellow tile roof",
+      "EUde": "Gelb-Ziegeldach",
+      "EUes": "tejado pizarra ocre",
+      "USes": "tejado pizarra ocre",
+      "EUfr": "toit en tuiles jaunes",
+      "USfr": "toit en tuiles jaunes",
+      "EUit": "tetto di tegole gialle",
+      "EUnl": "geel pannendak",
+      "CNzh": "黄色瓦屋顶",
+      "TWzh": "黃色瓦片屋頂",
+      "JPja": "きいろいかわらやね",
+      "KRko": "노란색 기와지붕",
+      "EUru": "желтая черепичн. крыша"
+    }
+  },
+  {
+    "id": 148,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green tile roof",
+      "EUen": "green tile roof",
+      "EUde": "Grün-Ziegeldach",
+      "EUes": "tejado pizarra verde",
+      "USes": "tejado pizarra verde",
+      "EUfr": "toit en tuiles vertes",
+      "USfr": "toit en tuiles vertes",
+      "EUit": "tetto di tegole verdi",
+      "EUnl": "groen pannendak",
+      "CNzh": "绿色瓦屋顶",
+      "TWzh": "綠色瓦片屋頂",
+      "JPja": "みどりのかわらやね",
+      "KRko": "초록색 기와지붕",
+      "EUru": "зеленая черепичн. крыша"
+    }
+  },
+  {
+    "id": 149,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aqua tile roof",
+      "EUen": "aqua tile roof",
+      "EUde": "Hellblau-Ziegeldach",
+      "EUes": "tejado pizarra celeste",
+      "USes": "tejado pizarra celeste",
+      "EUfr": "toit en tuiles turquoise",
+      "USfr": "toit en tuiles bleu ciel",
+      "EUit": "tetto di tegole turchesi",
+      "EUnl": "lichtblauw pannendak",
+      "CNzh": "水蓝色瓦屋顶",
+      "TWzh": "水藍色瓦片屋頂",
+      "JPja": "みずいろのかわらやね",
+      "KRko": "하늘색 기와지붕",
+      "EUru": "аквамар. черепичн. крыша"
+    }
+  },
+  {
+    "id": 150,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue tile roof",
+      "EUen": "blue tile roof",
+      "EUde": "Blau-Ziegeldach",
+      "EUes": "tejado pizarra azul",
+      "USes": "tejado pizarra azul",
+      "EUfr": "toit en tuiles bleues",
+      "USfr": "toit en tuiles bleues",
+      "EUit": "tetto di tegole blu",
+      "EUnl": "blauw pannendak",
+      "CNzh": "蓝色瓦屋顶",
+      "TWzh": "藍色瓦片屋頂",
+      "JPja": "あおいかわらやね",
+      "KRko": "파란색 기와지붕",
+      "EUru": "синяя черепичн. крыша"
+    }
+  },
+  {
+    "id": 151,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple tile roof",
+      "EUen": "purple tile roof",
+      "EUde": "Lila-Ziegeldach",
+      "EUes": "tejado pizarra lila",
+      "USes": "tejado pizarra morado",
+      "EUfr": "toit en tuiles violettes",
+      "USfr": "toit en tuiles mauves",
+      "EUit": "tetto di tegole indaco",
+      "EUnl": "paars pannendak",
+      "CNzh": "紫色瓦屋顶",
+      "TWzh": "紫色瓦片屋頂",
+      "JPja": "むらさきのかわらやね",
+      "KRko": "보라색 기와지붕",
+      "EUru": "фиолет. черепичн. крыша"
+    }
+  },
+  {
+    "id": 152,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black tile roof",
+      "EUen": "black tile roof",
+      "EUde": "Schwarz-Ziegeldach",
+      "EUes": "tejado pizarra negro",
+      "USes": "tejado pizarra negro",
+      "EUfr": "toit en tuiles noires",
+      "USfr": "toit en tuiles noires",
+      "EUit": "tetto di tegole nere",
+      "EUnl": "zwart pannendak",
+      "CNzh": "黑色瓦屋顶",
+      "TWzh": "黑色瓦片屋頂",
+      "JPja": "くろいかわらやね",
+      "KRko": "검은색 기와지붕",
+      "EUru": "черная черепичн. крыша"
+    }
+  },
+  {
+    "id": 153,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beige stone roof",
+      "EUen": "beige stone roof",
+      "EUde": "Beige-Steindach",
+      "EUes": "tejado piedra beis",
+      "USes": "tejado piedra beige",
+      "EUfr": "toit en pierre beige",
+      "USfr": "toit en pierre beige",
+      "EUit": "tetto di pietra beige",
+      "EUnl": "beige stenen dak",
+      "CNzh": "米色石屋顶",
+      "TWzh": "米色石屋頂",
+      "JPja": "ベージュのいしのやね",
+      "KRko": "베이지색 돌 지붕",
+      "EUru": "бежевая каменная крыша"
+    }
+  },
+  {
+    "id": 154,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange stone roof",
+      "EUen": "orange stone roof",
+      "EUde": "Orange-Steindach",
+      "EUes": "tejado piedra naranja",
+      "USes": "tejado piedra naranja",
+      "EUfr": "toit en pierre orange",
+      "USfr": "toit en pierre orange",
+      "EUit": "tetto di pietra arancione",
+      "EUnl": "oranje stenen dak",
+      "CNzh": "橘色石屋顶",
+      "TWzh": "橘色石屋頂",
+      "JPja": "オレンジのいしのやね",
+      "KRko": "오렌지색 돌 지붕",
+      "EUru": "оранжевая камен. крыша"
+    }
+  },
+  {
+    "id": 155,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red stone roof",
+      "EUen": "red stone roof",
+      "EUde": "Rot-Steindach",
+      "EUes": "tejado piedra rojo",
+      "USes": "tejado piedra rojo",
+      "EUfr": "toit en pierre rouge",
+      "USfr": "toit en pierre rouge",
+      "EUit": "tetto di pietra rossa",
+      "EUnl": "rood stenen dak",
+      "CNzh": "红色石屋顶",
+      "TWzh": "紅色石屋頂",
+      "JPja": "あかいいしのやね",
+      "KRko": "빨간색 돌 지붕",
+      "EUru": "красная каменная крыша"
+    }
+  },
+  {
+    "id": 156,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue stone roof",
+      "EUen": "blue stone roof",
+      "EUde": "Blau-Steindach",
+      "EUes": "tejado piedra azul",
+      "USes": "tejado piedra azul",
+      "EUfr": "toit en pierre bleue",
+      "USfr": "toit en pierre bleue",
+      "EUit": "tetto di pietra blu",
+      "EUnl": "blauw stenen dak",
+      "CNzh": "蓝色石屋顶",
+      "TWzh": "藍色石屋頂",
+      "JPja": "あおいいしのやね",
+      "KRko": "파란색 돌 지붕",
+      "EUru": "синяя каменная крыша"
+    }
+  },
+  {
+    "id": 157,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green stone roof",
+      "EUen": "green stone roof",
+      "EUde": "Grün-Steindach",
+      "EUes": "tejado piedra verde",
+      "USes": "tejado piedra verde",
+      "EUfr": "toit en pierre verte",
+      "USfr": "toit en pierre verte",
+      "EUit": "tetto di pietra verde",
+      "EUnl": "groen stenen dak",
+      "CNzh": "绿色石屋顶",
+      "TWzh": "綠色石屋頂",
+      "JPja": "みどりのいしのやね",
+      "KRko": "초록색 돌 지붕",
+      "EUru": "зеленая каменная крыша"
+    }
+  },
+  {
+    "id": 158,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown stone roof",
+      "EUen": "brown stone roof",
+      "EUde": "Braun-Steindach",
+      "EUes": "tejado piedra marrón",
+      "USes": "tejado piedra marrón",
+      "EUfr": "toit en pierre brune",
+      "USfr": "toit en pierre brune",
+      "EUit": "tetto di pietra marrone",
+      "EUnl": "bruin stenen dak",
+      "CNzh": "茶色石屋顶",
+      "TWzh": "茶色石屋頂",
+      "JPja": "ちゃいろいいしのやね",
+      "KRko": "갈색 돌 지붕",
+      "EUru": "коричневая камен. крыша"
+    }
+  },
+  {
+    "id": 159,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black stone roof",
+      "EUen": "black stone roof",
+      "EUde": "Schwarz-Steindach",
+      "EUes": "tejado piedra negro",
+      "USes": "tejado piedra negro",
+      "EUfr": "toit en pierre noire",
+      "USfr": "toit en pierre noire",
+      "EUit": "tetto di pietra nera",
+      "EUnl": "zwart stenen dak",
+      "CNzh": "黑色石屋顶",
+      "TWzh": "黑色石屋頂",
+      "JPja": "くろいいしのやね",
+      "KRko": "검은색 돌 지붕",
+      "EUru": "черная каменная крыша"
+    }
+  },
+  {
+    "id": 160,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink curved shingles",
+      "EUen": "pink curved shingles",
+      "EUde": "Rosa-Rundziegeldach",
+      "EUes": "tejado teja rosa",
+      "USes": "tejado teja rosa",
+      "EUfr": "toit en tuiles canal roses",
+      "USfr": "toit en tuiles canal roses",
+      "EUit": "tetto di coppi rosa",
+      "EUnl": "roze dakspanen",
+      "CNzh": "粉红色洋瓦屋顶",
+      "TWzh": "粉紅色洋瓦屋頂",
+      "JPja": "ピンクなようがわらのやね",
+      "KRko": "핑크색 서양식 지붕",
+      "EUru": "кругл. розовая черепица"
+    }
+  },
+  {
+    "id": 161,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow curved shingles",
+      "EUen": "yellow curved shingles",
+      "EUde": "Gelb-Rundziegeldach",
+      "EUes": "tejado teja ocre",
+      "USes": "tejado teja ocre",
+      "EUfr": "toit en tuiles canal jaunes",
+      "USfr": "toit en tuiles canal jaunes",
+      "EUit": "tetto di coppi gialli",
+      "EUnl": "gele dakspanen",
+      "CNzh": "黄色洋瓦屋顶",
+      "TWzh": "黃色洋瓦屋頂",
+      "JPja": "きいろいようがわらのやね",
+      "KRko": "노란색 서양식 지붕",
+      "EUru": "кругл. желтая черепица"
+    }
+  },
+  {
+    "id": 162,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green curved shingles",
+      "EUen": "green curved shingles",
+      "EUde": "Grün-Rundziegeldach",
+      "EUes": "tejado teja verde",
+      "USes": "tejado teja verde",
+      "EUfr": "toit en tuiles canal vertes",
+      "USfr": "toit en tuiles canal vertes",
+      "EUit": "tetto di coppi verdi",
+      "EUnl": "groene dakspanen",
+      "CNzh": "绿色洋瓦屋顶",
+      "TWzh": "綠色洋瓦屋頂",
+      "JPja": "みどりのようがわらのやね",
+      "KRko": "초록색 서양식 지붕",
+      "EUru": "кругл. зеленая черепица"
+    }
+  },
+  {
+    "id": 163,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue curved shingles",
+      "EUen": "blue curved shingles",
+      "EUde": "Blau-Rundziegeldach",
+      "EUes": "tejado teja azul",
+      "USes": "tejado teja azul",
+      "EUfr": "toit en tuiles canal bleues",
+      "USfr": "toit en tuiles canal bleues",
+      "EUit": "tetto di coppi blu",
+      "EUnl": "blauwe dakspanen",
+      "CNzh": "蓝色洋瓦屋顶",
+      "TWzh": "藍色洋瓦屋頂",
+      "JPja": "あおいようがわらのやね",
+      "KRko": "파란색 서양식 지붕",
+      "EUru": "кругл. синяя черепица"
+    }
+  },
+  {
+    "id": 164,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beige curved shingles",
+      "EUen": "beige curved shingles",
+      "EUde": "Beige-Rundziegeldach",
+      "EUes": "tejado teja beis",
+      "USes": "tejado teja beige",
+      "EUfr": "toit en tuiles canal beiges",
+      "USfr": "toit en tuiles canal beiges",
+      "EUit": "tetto di coppi beige",
+      "EUnl": "beige dakspanen",
+      "CNzh": "米色洋瓦屋顶",
+      "TWzh": "米色洋瓦屋頂",
+      "JPja": "ベージュのようがわらのやね",
+      "KRko": "베이지색 서양식 지붕",
+      "EUru": "кругл. бежевая черепица"
+    }
+  },
+  {
+    "id": 165,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown curved shingles",
+      "EUen": "brown curved shingles",
+      "EUde": "Braun-Rundziegeldach",
+      "EUes": "tejado teja marrón",
+      "USes": "tejado teja marrón",
+      "EUfr": "toit en tuiles canal brunes",
+      "USfr": "toit en tuiles canal brunes",
+      "EUit": "tetto di coppi marroni",
+      "EUnl": "bruine dakspanen",
+      "CNzh": "茶色洋瓦屋顶",
+      "TWzh": "茶色洋瓦屋頂",
+      "JPja": "ちゃいろいようがわらのやね",
+      "KRko": "갈색 서양식 지붕",
+      "EUru": "кругл. коричнев. черепица"
+    }
+  },
+  {
+    "id": 166,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black curved shingles",
+      "EUen": "black curved shingles",
+      "EUde": "Schwarz-Rundziegeldach",
+      "EUes": "tejado teja negro",
+      "USes": "tejado teja negro",
+      "EUfr": "toit en tuiles canal noires",
+      "USfr": "toit en tuiles canal noires",
+      "EUit": "tetto di coppi neri",
+      "EUnl": "zwarte dakspanen",
+      "CNzh": "黑色洋瓦屋顶",
+      "TWzh": "黑色洋瓦屋頂",
+      "JPja": "くろいようがわらのやね",
+      "KRko": "검은색 서양식 지붕",
+      "EUru": "кругл. черная черепица"
+    }
+  },
+  {
+    "id": 167,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white thatch roof",
+      "EUen": "white thatch roof",
+      "EUde": "Weiß-Reetdach",
+      "EUes": "tejado paja blanco",
+      "USes": "tejado paja blanco",
+      "EUfr": "toit de chaume blanc",
+      "USfr": "toit de chaume blanc",
+      "EUit": "tetto di paglia bianca",
+      "EUnl": "wit rieten dak",
+      "CNzh": "白色茅草屋顶",
+      "TWzh": "白色茅草屋頂",
+      "JPja": "しろいかやぶきやね",
+      "KRko": "하얀색 초가지붕",
+      "EUru": "белая соломенная крыша"
+    }
+  },
+  {
+    "id": 168,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "deep-green thatch roof",
+      "EUen": "deep-green thatch roof",
+      "EUde": "Dunkelgrün-Reetdach",
+      "EUes": "tejado paja verde oscuro",
+      "USes": "tejado paja verde oscuro",
+      "EUfr": "toit de chaume vert sombre",
+      "USfr": "toit de chaume vert sombre",
+      "EUit": "tetto di paglia verde scuro",
+      "EUnl": "donkergroen rieten dak",
+      "CNzh": "深绿色茅草屋顶",
+      "TWzh": "深綠色茅草屋頂",
+      "JPja": "ふかみどりのかやぶきやね",
+      "KRko": "진녹색 초가지붕",
+      "EUru": "зеленая соломен. крыша"
+    }
+  },
+  {
+    "id": 169,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black thatch roof",
+      "EUen": "black thatch roof",
+      "EUde": "Schwarz-Reetdach",
+      "EUes": "tejado paja negro",
+      "USes": "tejado paja negro",
+      "EUfr": "toit de chaume noir",
+      "USfr": "toit de chaume noir",
+      "EUit": "tetto di paglia nera",
+      "EUnl": "zwart rieten dak",
+      "CNzh": "黑色茅草屋顶",
+      "TWzh": "黑色茅草屋頂",
+      "JPja": "くろいかやぶきやね",
+      "KRko": "검은색 초가지붕",
+      "EUru": "черная соломен. крыша"
+    }
+  }
+]

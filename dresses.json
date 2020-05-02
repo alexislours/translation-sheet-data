@@ -1,0 +1,4722 @@
+[
+  {
+    "id": 9,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweater dress",
+      "EUen": "sweater dress",
+      "EUde": "Strickkleid",
+      "EUes": "vestido de punto",
+      "USes": "vestido de lana",
+      "EUfr": "robe en laine",
+      "USfr": "robe en laine",
+      "EUit": "vestito di lana",
+      "EUnl": "sweaterjurk",
+      "CNzh": "针织连身裙",
+      "TWzh": "針織連身裙",
+      "JPja": "ニットワンピース",
+      "KRko": "니트 원피스",
+      "EUru": "вязаное платье"
+    }
+  },
+  {
+    "id": 10,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parka dress",
+      "EUen": "parka dress",
+      "EUde": "Pulloverkleid",
+      "EUes": "vestido sudadera",
+      "USes": "vestido sudadera",
+      "EUfr": "robe à capuche",
+      "USfr": "robe à capuche",
+      "EUit": "vestito di felpa",
+      "EUnl": "hoodyjurk",
+      "CNzh": "连帽连身裙",
+      "TWzh": "連帽連身裙",
+      "JPja": "パーカーワンピ",
+      "KRko": "파카 원피스",
+      "EUru": "платье-парка"
+    }
+  },
+  {
+    "id": 11,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "overall dress",
+      "EUen": "overall dress",
+      "EUde": "Jeanskleid",
+      "EUes": "vestido de campo",
+      "USes": "vestido de campo",
+      "EUfr": "robe salopette",
+      "USfr": "robe salopette",
+      "EUit": "vestito salopette",
+      "EUnl": "spijkerjurk",
+      "CNzh": "背带裙",
+      "TWzh": "背心裙",
+      "JPja": "ジャンパースカート",
+      "KRko": "점퍼스커트",
+      "EUru": "джинсовый сарафан"
+    }
+  },
+  {
+    "id": 12,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "layered tank dress",
+      "EUen": "layered tank dress",
+      "EUde": "Trägerkleid",
+      "EUes": "vestido de tirantes",
+      "USes": "vestido sobre camiseta",
+      "EUfr": "robe d'été avec t-shirt",
+      "USfr": "robe d'été avec t-shirt",
+      "EUit": "vestito con bretelline",
+      "EUnl": "jurkje met T-shirt",
+      "CNzh": "两件式细肩带连身裙",
+      "TWzh": "兩件式細肩帶連身裙",
+      "JPja": "レイヤーキャミワンピ",
+      "KRko": "레이어드 캐미솔 원피스",
+      "EUru": "платье с футболкой"
+    }
+  },
+  {
+    "id": 20,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cheerleading uniform",
+      "EUen": "cheerleading uniform",
+      "EUde": "Cheerleader-Uniform",
+      "EUes": "uniforme de animadora",
+      "USes": "uniforme de animadora",
+      "EUfr": "robe de pom-pom girl",
+      "USfr": "robe de meneuse de claque",
+      "EUit": "uniforme da cheerleader",
+      "EUnl": "cheerleadersoutfit",
+      "CNzh": "啦啦队制服",
+      "TWzh": "啦啦隊制服",
+      "JPja": "チアのコスチューム",
+      "KRko": "치어리더 옷",
+      "EUru": "форма чирлидера"
+    }
+  },
+  {
+    "id": 24,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "satin dress",
+      "EUen": "satin dress",
+      "EUde": "Satinkleid",
+      "EUes": "vestido de satén",
+      "USes": "vestido de satén",
+      "EUfr": "robe ballon en satin",
+      "USfr": "robe ballon en satin",
+      "EUit": "vestito satinato",
+      "EUnl": "satijnen jurk",
+      "CNzh": "缎面连身裙",
+      "TWzh": "緞面連身裙",
+      "JPja": "サテンのワンピース",
+      "KRko": "새틴 원피스",
+      "EUru": "атласное платье"
+    }
+  },
+  {
+    "id": 28,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tweed dress",
+      "EUen": "tweed dress",
+      "EUde": "Tweedkleid",
+      "EUes": "vestido de tweed",
+      "USes": "vestido de tweed",
+      "EUfr": "robe en tweed",
+      "USfr": "robe en tweed",
+      "EUit": "vestito di tweed",
+      "EUnl": "tweedjurk",
+      "CNzh": "粗花呢连身裙",
+      "TWzh": "斜紋軟呢連身裙",
+      "JPja": "ツイードワンピース",
+      "KRko": "트위드 원피스",
+      "EUru": "твидовое платье"
+    }
+  },
+  {
+    "id": 29,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gumdrop dress",
+      "EUen": "gumdrop dress",
+      "EUde": "Frühlingskleid",
+      "EUes": "vestido esferas",
+      "USes": "vestido esferas",
+      "EUfr": "robe bonbons",
+      "USfr": "robe bonbons",
+      "EUit": "vestito gommoso",
+      "EUnl": "lentejurk met stippen",
+      "CNzh": "春天圆点连身裙",
+      "TWzh": "春天圓點連身裙",
+      "JPja": "はるのみずたまワンピース",
+      "KRko": "봄 물방울무늬 원피스",
+      "EUru": "весеннее платье в горох"
+    }
+  },
+  {
+    "id": 30,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tropical muumuu",
+      "EUen": "tropical muumuu",
+      "EUde": "Ananas-Strandkleid",
+      "EUes": "vestido aloha piñas",
+      "USes": "vestido aloha piñas",
+      "EUfr": "muumuu tropical",
+      "USfr": "muumuu tropical",
+      "EUit": "vestito tropicale",
+      "EUnl": "ananas-muʻumuʻu",
+      "CNzh": "凤梨图案夏威夷连身裙",
+      "TWzh": "鳳梨圖案夏威夷連身裙",
+      "JPja": "パインがらムームー",
+      "KRko": "파인애플 원피스",
+      "EUru": "тропическое муу-муу"
+    }
+  },
+  {
+    "id": 31,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "academy uniform",
+      "EUen": "academy uniform",
+      "EUde": "Sonntagskleid",
+      "EUes": "vestido serio",
+      "USes": "vestido serio",
+      "EUfr": "tenue académique",
+      "USfr": "tenue académique",
+      "EUit": "vestito da istitutrice",
+      "EUnl": "kostschooluniform",
+      "CNzh": "端庄洋装",
+      "TWzh": "端莊洋裝",
+      "JPja": "よそいきなふく",
+      "KRko": "나들이 원피스",
+      "EUru": "школьная форма"
+    }
+  },
+  {
+    "id": 32,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro dress",
+      "EUen": "retro dress",
+      "EUde": "Vintage-Kleid",
+      "EUes": "vestido retro sin mangas",
+      "USes": "vestido retro sin mangas",
+      "EUfr": "robe droite rétro",
+      "USfr": "robe droite rétro",
+      "EUit": "vestito vintage",
+      "EUnl": "retrojurk met ceintuur",
+      "CNzh": "复古直筒连身裙",
+      "TWzh": "復古直筒連身裙",
+      "JPja": "レトロボックスワンピース",
+      "KRko": "복고풍 박스 원피스",
+      "EUru": "платье-ретро"
+    }
+  },
+  {
+    "id": 38,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dazed dress",
+      "EUen": "dazed dress",
+      "EUde": "Wohlfühlkleid",
+      "EUes": "vestido rombos",
+      "USes": "vestido rombos",
+      "EUfr": "robe losange",
+      "USfr": "robe losange",
+      "EUit": "vestito a quadri rosa",
+      "EUnl": "ruitenjurk",
+      "CNzh": "梦幻色系格子连身裙",
+      "TWzh": "夢幻色系格子連身裙",
+      "JPja": "ゆめいろこうしワンピース",
+      "KRko": "꿈색 체크무늬 원피스",
+      "EUru": "платье с ромбами"
+    }
+  },
+  {
+    "id": 39,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "prim outfit",
+      "EUen": "prim outfit",
+      "EUde": "Adrett-Kleid",
+      "EUes": "vestido recatado",
+      "USes": "vestido recatado",
+      "EUfr": "ensemble soigné",
+      "USfr": "ensemble soigné",
+      "EUit": "completo sobrio",
+      "EUnl": "keurige outfit",
+      "CNzh": "气质套装",
+      "TWzh": "氣質套裝",
+      "JPja": "せいそなアンサンブル",
+      "KRko": "청순한 원피스",
+      "EUru": "аккуратный костюм"
+    }
+  },
+  {
+    "id": 41,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "belted dotted dress",
+      "EUen": "belted dotted dress",
+      "EUde": "Tupfen-Kleid",
+      "EUes": "vestido lunares y cinturón",
+      "USes": "vestido a lunares y cinturón",
+      "EUfr": "robe cintrée à pois",
+      "USfr": "robe cintrée à pois",
+      "EUit": "vestito a pois con cintura",
+      "EUnl": "stippeljurk met ceintuur",
+      "CNzh": "附腰带圆点连身裙",
+      "TWzh": "圓點腰帶連身裙",
+      "JPja": "ベルトつきみずたまワンピース",
+      "KRko": "물방울 벨트 원피스",
+      "EUru": "платье в горошек на поясе"
+    }
+  },
+  {
+    "id": 45,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blossom dress",
+      "EUen": "blossom dress",
+      "EUde": "Blütenkleid",
+      "EUes": "vestido florido",
+      "USes": "vestido florido",
+      "EUfr": "robe d'été fleurie",
+      "USfr": "robe d'été fleurie",
+      "EUit": "vestito floreale",
+      "EUnl": "gebloemde jurk",
+      "CNzh": "花朵连身裙",
+      "TWzh": "花紋連身裙",
+      "JPja": "はながらワンピース",
+      "KRko": "꽃무늬 원피스",
+      "EUru": "платье в цветочек"
+    }
+  },
+  {
+    "id": 46,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lace-up dress",
+      "EUen": "lace-up dress",
+      "EUde": "Niedlich-Kleid",
+      "EUes": "vestido muñequita",
+      "USes": "vestido muñequita",
+      "EUfr": "robe à rubans",
+      "USfr": "robe à rubans",
+      "EUit": "vestito bambolina",
+      "EUnl": "jurk met strikken",
+      "CNzh": "洛丽塔连身裙",
+      "TWzh": "蘿莉塔連身裙",
+      "JPja": "ロリータなワンピース",
+      "KRko": "리본 레이스 원피스",
+      "EUru": "платье с корсетом"
+    }
+  },
+  {
+    "id": 49,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plover dress",
+      "EUen": "plover dress",
+      "EUde": "Pepita-Kleid",
+      "EUes": "vestido pata de gallo",
+      "USes": "vestido pata de gallo",
+      "EUfr": "robe pied-de-coq",
+      "USfr": "robe pied-de-coq",
+      "EUit": "vestito pied de poule",
+      "EUnl": "pied-de-poulejurk",
+      "CNzh": "千鸟格纹连身裙",
+      "TWzh": "千鳥格紋連身裙",
+      "JPja": "ちどりごうしワンピース",
+      "KRko": "하운드투스 원피스",
+      "EUru": "платье «Гусиная лапка»"
+    }
+  },
+  {
+    "id": 50,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fancy party dress",
+      "EUen": "fancy party dress",
+      "EUde": "Abendkleid",
+      "EUes": "vestido de fiesta",
+      "USes": "vestido de fiesta",
+      "EUfr": "robe de soirée",
+      "USfr": "robe de soirée",
+      "EUit": "vestito da cocktail",
+      "EUnl": "chique feestjurk",
+      "CNzh": "派对连身裙",
+      "TWzh": "派對連身裙",
+      "JPja": "パーティーワンピ",
+      "KRko": "파티 원피스",
+      "EUru": "вечернее платье"
+    }
+  },
+  {
+    "id": 51,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rad power skirt suit",
+      "EUen": "rad power skirt suit",
+      "EUde": "80er-Businesskostüm",
+      "EUes": "uniforme ci-fi retro",
+      "USes": "uniforme ci-fi retro",
+      "EUfr": "tenue de femme d'affaires",
+      "USfr": "tenue de femme d'affaires",
+      "EUit": "vestito sci-fi anni '80",
+      "EUnl": "stoere mantelpak",
+      "CNzh": "奢华套装",
+      "TWzh": "奢華套裝",
+      "JPja": "バブリーなセットアップ",
+      "KRko": "버튼 재킷 세트 정장",
+      "EUru": "деловой костюм с юбкой"
+    }
+  },
+  {
+    "id": 52,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "festive dress",
+      "EUen": "festive dress",
+      "EUde": "Festtagskleid",
+      "EUes": "vestido festivo",
+      "USes": "vestido festivo",
+      "EUfr": "robe de mère Noël",
+      "USfr": "robe de mère Noël",
+      "EUit": "vestito festivo",
+      "EUnl": "feestdagenjurk",
+      "CNzh": "圣诞洋装",
+      "TWzh": "聖誕洋裝",
+      "JPja": "クリスマスなドレス",
+      "KRko": "크리스마스 드레스",
+      "EUru": "праздничное платье"
+    }
+  },
+  {
+    "id": 53,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fairy-tale dress",
+      "EUen": "fairy-tale dress",
+      "EUde": "Märchenkleid",
+      "EUes": "vestido de cuento",
+      "USes": "vestido de cuento",
+      "EUfr": "robe féerique",
+      "USfr": "robe féérique",
+      "EUit": "vestito fiabesco",
+      "EUnl": "sprookjesjurk",
+      "CNzh": "童话风洋装",
+      "TWzh": "童話風洋裝",
+      "JPja": "メルヘンなドレス",
+      "KRko": "메르헨 드레스",
+      "EUru": "сказочное платьице"
+    }
+  },
+  {
+    "id": 54,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "maid dress",
+      "EUen": "maid dress",
+      "EUde": "Magdkleid",
+      "EUes": "vestido doncella",
+      "USes": "vestido doncella",
+      "EUfr": "robe de servante",
+      "USfr": "robe de servante",
+      "EUit": "vestito da domestica",
+      "EUnl": "dienstmeisjesuniform",
+      "CNzh": "女仆装",
+      "TWzh": "女僕裝",
+      "JPja": "メイドのふく",
+      "KRko": "메이드 옷",
+      "EUru": "платье горничной"
+    }
+  },
+  {
+    "id": 58,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diner uniform",
+      "EUen": "diner uniform",
+      "EUde": "Dineruniform",
+      "EUes": "uniforme café años 50",
+      "USes": "uniforme café años 50",
+      "EUfr": "robe de serveuse années 50",
+      "USfr": "robe de serveuse années 50",
+      "EUit": "uniforme bar anni '50",
+      "EUnl": "serveerstersjurk",
+      "CNzh": "餐厅制服",
+      "TWzh": "餐館制服",
+      "JPja": "ダイナーのユニフォーム",
+      "KRko": "다이너 유니폼",
+      "EUru": "униформа официантки"
+    }
+  },
+  {
+    "id": 61,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bunny dress",
+      "EUen": "bunny dress",
+      "EUde": "Hasenkleid",
+      "EUes": "vestido de conejito",
+      "USes": "vestido de conejito",
+      "EUfr": "robe lapin",
+      "USfr": "robe lapin",
+      "EUit": "vestito da coniglio",
+      "EUnl": "konijnenjurk",
+      "CNzh": "兔子服",
+      "TWzh": "兔子服",
+      "JPja": "ウサギなふく",
+      "KRko": "토끼 의상",
+      "EUru": "платье зайки"
+    }
+  },
+  {
+    "id": 63,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "noble zap suit",
+      "EUen": "noble zap suit",
+      "EUde": "Heldinnenkleid",
+      "EUes": "supervestido",
+      "USes": "supervestido",
+      "EUfr": "tenue d'héroïne",
+      "USfr": "tenue d'héroïne",
+      "EUit": "costume da eroina nobile",
+      "EUnl": "superjurk",
+      "CNzh": "女英雄装",
+      "TWzh": "女英雄裝",
+      "JPja": "ヒロインスーツ",
+      "KRko": "히어로 슈트 P",
+      "EUru": "платье героини"
+    }
+  },
+  {
+    "id": 65,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bathrobe",
+      "EUen": "bathrobe",
+      "EUde": "Bademantel",
+      "EUes": "albornoz",
+      "USes": "bata de baño",
+      "EUfr": "peignoir",
+      "USfr": "peignoir",
+      "EUit": "accappatoio",
+      "EUnl": "badjas",
+      "CNzh": "浴袍",
+      "TWzh": "浴袍",
+      "JPja": "バスローブ",
+      "KRko": "목욕 가운",
+      "EUru": "купальный халат"
+    }
+  },
+  {
+    "id": 66,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ballet outfit",
+      "EUen": "ballet outfit",
+      "EUde": "Ballett-Trägerkleid",
+      "EUes": "vestido ballet",
+      "USes": "vestido ballet",
+      "EUfr": "robe d'été ballet",
+      "USfr": "tenue de ballet",
+      "EUit": "tutù",
+      "EUnl": "balletkostuum",
+      "CNzh": "芭蕾舞衣",
+      "TWzh": "芭蕾舞衣",
+      "JPja": "バレエのいしょう",
+      "KRko": "발레 의상",
+      "EUru": "балетное платье"
+    }
+  },
+  {
+    "id": 67,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cat dress",
+      "EUen": "cat dress",
+      "EUde": "Katzenkleid",
+      "EUes": "vestido gato",
+      "USes": "vestido gato",
+      "EUfr": "robe chat",
+      "USfr": "robe chat",
+      "EUit": "vestito gatto",
+      "EUnl": "kattenjurk",
+      "CNzh": "猫咪服",
+      "TWzh": "貓咪服",
+      "JPja": "ネコなふく",
+      "KRko": "고양이 의상",
+      "EUru": "платье кошки"
+    }
+  },
+  {
+    "id": 68,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "alpinist dress",
+      "EUen": "alpinist dress",
+      "EUde": "Alpenkleid",
+      "EUes": "vestido tirolés",
+      "USes": "vestido tirolés",
+      "EUfr": "robe tyrolienne",
+      "USfr": "robe tyrolienne",
+      "EUit": "vestito tirolese",
+      "EUnl": "tirolerjurk",
+      "CNzh": "提洛尔洋装",
+      "TWzh": "提洛爾洋裝",
+      "JPja": "チロリアンなドレス",
+      "KRko": "알프스풍 원피스",
+      "EUru": "тирольское платье"
+    }
+  },
+  {
+    "id": 69,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "festive-tree dress",
+      "EUen": "festive-tree dress",
+      "EUde": "Baumschmuck-Kleid",
+      "EUes": "vestido abeto",
+      "USes": "vestido abeto",
+      "EUfr": "robe d'été sapin",
+      "USfr": "robe d'été sapin",
+      "EUit": "scamiciato addobbato",
+      "EUnl": "feestboomjurk",
+      "CNzh": "圣诞树连身裙",
+      "TWzh": "聖誕樹連身裙",
+      "JPja": "もみのきワンピース",
+      "KRko": "크리스마스트리 원피스",
+      "EUru": "платье «Елка»"
+    }
+  },
+  {
+    "id": 89,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "caveman tank",
+      "EUen": "caveman tank",
+      "EUde": "Steinzeit-Kluft",
+      "EUes": "top cavernícola",
+      "USes": "top cavernícola",
+      "EUfr": "tunique caverne",
+      "USfr": "tunique caverne",
+      "EUit": "canotta sapiens",
+      "EUnl": "primitieve jurk",
+      "CNzh": "原始人装",
+      "TWzh": "原始人服",
+      "JPja": "げんしじんなふく",
+      "KRko": "원시인 옷",
+      "EUru": "роба пещерного человека"
+    }
+  },
+  {
+    "id": 104,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "princess dress",
+      "EUen": "princess dress",
+      "EUde": "Prinzessinnenkleid",
+      "EUes": "vestido princesa",
+      "USes": "vestido princesa",
+      "EUfr": "robe de princesse",
+      "USfr": "robe de princesse",
+      "EUit": "vestito da principessa",
+      "EUnl": "prinsessenjurk",
+      "CNzh": "公主裙",
+      "TWzh": "公主服",
+      "JPja": "プリンセスなふく",
+      "KRko": "공주풍 옷",
+      "EUru": "платье принцессы"
+    }
+  },
+  {
+    "id": 105,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeveless sweater dress",
+      "EUen": "sleeveless sweater dress",
+      "EUde": "Frühlingsstrickkleid",
+      "EUes": "vestido punto sin mangas",
+      "USes": "vestido de lana sin mangas",
+      "EUfr": "robe en laine sans manches",
+      "USfr": "robe en laine sans manches",
+      "EUit": "vestito di lana smanicato",
+      "EUnl": "mouwloze gebreide jurk",
+      "CNzh": "无袖针织连身裙",
+      "TWzh": "無袖針織連身裙",
+      "JPja": "そでなしニットワンピ",
+      "KRko": "민소매 니트 원피스",
+      "EUru": "вязан. платье без рукавов"
+    }
+  },
+  {
+    "id": 113,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "strawberry dress",
+      "EUen": "strawberry dress",
+      "EUde": "Erdbeerkleid",
+      "EUes": "vestido fresa",
+      "USes": "vestido fresa",
+      "EUfr": "robe fraise",
+      "USfr": "robe fraise",
+      "EUit": "vestito fragola",
+      "EUnl": "aardbei-jurk",
+      "CNzh": "草莓服",
+      "TWzh": "草莓服",
+      "JPja": "イチゴのふく",
+      "KRko": "딸기 옷",
+      "EUru": "платье «Клубника»"
+    }
+  },
+  {
+    "id": 114,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "watermelon dress",
+      "EUen": "watermelon dress",
+      "EUde": "Wassermelonenkleid",
+      "EUes": "vestido sandía",
+      "USes": "vestido sandía",
+      "EUfr": "robe pastèque",
+      "USfr": "robe melon d'eau",
+      "EUit": "vestito anguria",
+      "EUnl": "watermeloenjurk",
+      "CNzh": "西瓜服",
+      "TWzh": "西瓜服",
+      "JPja": "スイカのふく",
+      "KRko": "수박 옷",
+      "EUru": "платье «Арбуз»"
+    }
+  },
+  {
+    "id": 115,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange dress",
+      "EUen": "orange dress",
+      "EUde": "Orangenkleid",
+      "EUes": "vestido naranja",
+      "USes": "vestido naranja",
+      "EUfr": "robe orange",
+      "USfr": "robe orange",
+      "EUit": "vestito arancia",
+      "EUnl": "sinaasappeljurk",
+      "CNzh": "橘子服",
+      "TWzh": "夏蜜柑服",
+      "JPja": "オレンジのふく",
+      "KRko": "오렌지 옷",
+      "EUru": "платье «Апельсин»"
+    }
+  },
+  {
+    "id": 116,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kiwi dress",
+      "EUen": "kiwi dress",
+      "EUde": "Kiwikleid",
+      "EUes": "vestido kiwi",
+      "USes": "vestido kiwi",
+      "EUfr": "robe kiwi",
+      "USfr": "robe kiwi",
+      "EUit": "vestito kiwi",
+      "EUnl": "kiwi-jurk",
+      "CNzh": "奇异果服",
+      "TWzh": "奇異果服",
+      "JPja": "キウイのふく",
+      "KRko": "키위 옷",
+      "EUru": "платье «Киви»"
+    }
+  },
+  {
+    "id": 117,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "grape dress",
+      "EUen": "grape dress",
+      "EUde": "Traubenkleid",
+      "EUes": "vestido uvas",
+      "USes": "vestido uvas",
+      "EUfr": "robe raisin",
+      "USfr": "robe raisin",
+      "EUit": "vestito uva",
+      "EUnl": "druivenjurk",
+      "CNzh": "葡萄服",
+      "TWzh": "葡萄服",
+      "JPja": "ぶどうのふく",
+      "KRko": "포도 옷",
+      "EUru": "платье «Виноград»"
+    }
+  },
+  {
+    "id": 118,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pineapple dress",
+      "EUen": "pineapple dress",
+      "EUde": "Ananaskleid",
+      "EUes": "vestido piña",
+      "USes": "vestido piña",
+      "EUfr": "robe ananas",
+      "USfr": "robe ananas",
+      "EUit": "vestito ananas",
+      "EUnl": "ananasjurk",
+      "CNzh": "凤梨服",
+      "TWzh": "鳳梨服",
+      "JPja": "パイナップルのふく",
+      "KRko": "파인애플 옷",
+      "EUru": "платье «Ананас»"
+    }
+  },
+  {
+    "id": 141,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "cake dress",
+      "EUen": "cake dress",
+      "EUde": "Brautkleid",
+      "EUes": "vestido nupcial",
+      "USes": "vestido nupcial",
+      "EUfr": "robe de mariée",
+      "USfr": "robe de mariée",
+      "EUit": "vestito da sposa",
+      "EUnl": "bruidsjurk",
+      "CNzh": "纯白洋装",
+      "TWzh": "純白洋裝",
+      "JPja": "じゅんぱくのドレス",
+      "KRko": "순백 드레스",
+      "EUru": "свадебное платье"
+    }
+  },
+  {
+    "id": 146,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nurse's dress uniform",
+      "EUen": "nurse's dress uniform",
+      "EUde": "Schwesternkittel",
+      "EUes": "bata auxiliar de clínica",
+      "USes": "bata auxiliar de clínica",
+      "EUfr": "blouse d'infirmière",
+      "USfr": "tenue d'infirmière",
+      "EUit": "uniforme da infermiera",
+      "EUnl": "verpleegstersuniform",
+      "CNzh": "护士连身裙",
+      "TWzh": "護士連身裙",
+      "JPja": "かんごしのワンピース",
+      "KRko": "간호사 원피스",
+      "EUru": "форма медсестры"
+    }
+  },
+  {
+    "id": 150,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "PJ outfit",
+      "EUen": "PJ outfit",
+      "EUde": "Pyjama",
+      "EUes": "pijama de dos piezas",
+      "USes": "pijama de dos piezas",
+      "EUfr": "pyjama",
+      "USfr": "pyjama",
+      "EUit": "pigiama",
+      "EUnl": "pyjama",
+      "CNzh": "睡衣",
+      "TWzh": "睡衣",
+      "JPja": "パジャマ",
+      "KRko": "파자마",
+      "EUru": "пижама"
+    }
+  },
+  {
+    "id": 153,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ruffled dress",
+      "EUen": "ruffled dress",
+      "EUde": "Korsettkleid",
+      "EUes": "vestido con corsé",
+      "USes": "vestido con corsé",
+      "EUfr": "robe à corset",
+      "USfr": "robe à corset",
+      "EUit": "vestito pieghettato",
+      "EUnl": "victoriaanse jurk",
+      "CNzh": "束腰洋装",
+      "TWzh": "馬甲洋裝",
+      "JPja": "コルセットドレス",
+      "KRko": "코르셋 드레스",
+      "EUru": "платье со шнуровкой"
+    }
+  },
+  {
+    "id": 154,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shirtdress",
+      "EUen": "shirtdress",
+      "EUde": "Hemdkleid",
+      "EUes": "vestido camisero",
+      "USes": "vestido camisero",
+      "EUfr": "robe chemisier",
+      "USfr": "robe chemisier",
+      "EUit": "camicione",
+      "EUnl": "overhemdjurk",
+      "CNzh": "衬衫连身裙",
+      "TWzh": "襯衫連身裙",
+      "JPja": "シャツワンピ",
+      "KRko": "셔츠 원피스",
+      "EUru": "платье-рубашка"
+    }
+  },
+  {
+    "id": 155,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeveless shirtdress",
+      "EUen": "sleeveless shirtdress",
+      "EUde": "Sommerhemdkleid",
+      "EUes": "vestido camisero sisa",
+      "USes": "vestido camisola",
+      "EUfr": "robe chemise sans manches",
+      "USfr": "robe chemise sans manches",
+      "EUit": "camicione smanicato",
+      "EUnl": "mouwloze overhemdjurk",
+      "CNzh": "无袖衬衫连身裙",
+      "TWzh": "無袖襯衫連身裙",
+      "JPja": "そでなしシャツワンピ",
+      "KRko": "민소매 셔츠 원피스",
+      "EUru": "летнее платье-рубашка"
+    }
+  },
+  {
+    "id": 162,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jockey uniform",
+      "EUen": "jockey uniform",
+      "EUde": "Jockeydress",
+      "EUes": "uniforme de jinete",
+      "USes": "uniforme de jinete",
+      "EUfr": "tenue de jockey",
+      "USfr": "tenue de jockey",
+      "EUit": "uniforme da fantino",
+      "EUnl": "jockeytenue",
+      "CNzh": "马术服",
+      "TWzh": "騎師服",
+      "JPja": "ジョッキーのふく",
+      "KRko": "기수 옷",
+      "EUru": "форма жокея"
+    }
+  },
+  {
+    "id": 163,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bear costume",
+      "EUen": "bear costume",
+      "EUde": "Bären-Outfit",
+      "EUes": "disfraz de oso",
+      "USes": "disfraz de oso",
+      "EUfr": "costume d'ours",
+      "USfr": "costume d'ours",
+      "EUit": "costume da orso",
+      "EUnl": "berenpak",
+      "CNzh": "熊熊装",
+      "TWzh": "熊熊裝",
+      "JPja": "クマなふく",
+      "KRko": "곰 의상",
+      "EUru": "костюм медведя"
+    }
+  },
+  {
+    "id": 164,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "firefighter uniform",
+      "EUen": "firefighter uniform",
+      "EUde": "Feuerwehruniform",
+      "EUes": "uniforme de bombero",
+      "USes": "uniforme de bombero",
+      "EUfr": "uniforme de pompier",
+      "USfr": "uniforme de pompier",
+      "EUit": "uniforme da pompiere",
+      "EUnl": "brandweeruniform",
+      "CNzh": "消防服",
+      "TWzh": "消防隊服",
+      "JPja": "しょうぼうしのふく",
+      "KRko": "소방관 제복",
+      "EUru": "форма пожарного"
+    }
+  },
+  {
+    "id": 165,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frog costume",
+      "EUen": "frog costume",
+      "EUde": "Froschkostüm",
+      "EUes": "disfraz de rana",
+      "USes": "disfraz de rana",
+      "EUfr": "costume de grenouille",
+      "USfr": "costume de grenouille",
+      "EUit": "costume da anfibio",
+      "EUnl": "kikkerpak",
+      "CNzh": "青蛙装",
+      "TWzh": "青蛙裝",
+      "JPja": "カエルなふく",
+      "KRko": "개구리 의상",
+      "EUru": "костюм лягушки"
+    }
+  },
+  {
+    "id": 166,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kappa costume",
+      "EUen": "kappa costume",
+      "EUde": "Käpten-Kostüm",
+      "EUes": "disfraz de kappa",
+      "USes": "disfraz de kappa",
+      "EUfr": "costume de kappa",
+      "USfr": "costume de kappa",
+      "EUit": "costume da tartaruga",
+      "EUnl": "kappa-pak",
+      "CNzh": "河童装",
+      "TWzh": "河童裝",
+      "JPja": "カッパスーツ",
+      "KRko": "거북이 의상",
+      "EUru": "костюм каппы"
+    }
+  },
+  {
+    "id": 167,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fashionable royal dress",
+      "EUen": "fashionable royal dress",
+      "EUde": "Königinnenkleid",
+      "EUes": "vestido de la realeza",
+      "USes": "vestido de la realeza",
+      "EUfr": "robe de reine",
+      "USfr": "robe de reine",
+      "EUit": "vestito regale",
+      "EUnl": "koninklijke jurk",
+      "CNzh": "安托瓦内特洋装",
+      "TWzh": "貴族風洋裝",
+      "JPja": "アントワネットなドレス",
+      "KRko": "앙투아네트 드레스",
+      "EUru": "модное платье королевы"
+    }
+  },
+  {
+    "id": 168,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "palatial tank dress",
+      "EUen": "palatial tank dress",
+      "EUde": "Oasen-Trägerkleid",
+      "EUes": "vestido del Nilo",
+      "USes": "vestido del Nilo",
+      "EUfr": "robe d'été Nil",
+      "USfr": "robe d'été fraîcheur",
+      "EUit": "scamiciato egizio",
+      "EUnl": "Egyptische jurk",
+      "CNzh": "尼罗河传统服装",
+      "TWzh": "尼羅河服",
+      "JPja": "ナイルなふく",
+      "KRko": "이집트풍 옷",
+      "EUru": "восточное платье"
+    }
+  },
+  {
+    "id": 169,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jumper work suit",
+      "EUen": "jumper work suit",
+      "EUde": "Arbeitsuniform",
+      "EUes": "mono de trabajo",
+      "USes": "overol de trabajo",
+      "EUfr": "tenue d'ouvrier",
+      "USfr": "tenue d'ouvrier",
+      "EUit": "tuta da lavoro",
+      "EUnl": "overall",
+      "CNzh": "工作装",
+      "TWzh": "工作服",
+      "JPja": "さぎょうぎ",
+      "KRko": "작업복",
+      "EUru": "спецодежда"
+    }
+  },
+  {
+    "id": 170,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jester costume",
+      "EUen": "jester costume",
+      "EUde": "Narren-Outfit",
+      "EUes": "traje de bufón",
+      "USes": "traje de bufón",
+      "EUfr": "costume de bouffon",
+      "USfr": "costume de bouffon",
+      "EUit": "costume da giullare",
+      "EUnl": "narrenpak",
+      "CNzh": "小丑装",
+      "TWzh": "小丑服",
+      "JPja": "ピエロのふく",
+      "KRko": "피에로 옷",
+      "EUru": "костюм шута"
+    }
+  },
+  {
+    "id": 171,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zap suit",
+      "EUen": "zap suit",
+      "EUde": "Superheldenkostüm",
+      "EUes": "supertraje",
+      "USes": "supertraje",
+      "EUfr": "costume de héros",
+      "USfr": "costume de héros",
+      "EUit": "costume da eroe",
+      "EUnl": "superpak",
+      "CNzh": "英雄装",
+      "TWzh": "英雄裝",
+      "JPja": "ヒーロースーツ",
+      "KRko": "히어로 슈트",
+      "EUru": "костюм супергероя"
+    }
+  },
+  {
+    "id": 172,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jinbei",
+      "EUen": "jinbei",
+      "EUde": "Jimbei",
+      "EUes": "jinbei",
+      "USes": "jinbei",
+      "EUfr": "jinbei",
+      "USfr": "jinbei",
+      "EUit": "jinbei",
+      "EUnl": "jinbei",
+      "CNzh": "男性短款轻便和服",
+      "TWzh": "輕便浴衣",
+      "JPja": "じんべい",
+      "KRko": "동양풍 여름옷",
+      "EUru": "дзимбэй"
+    }
+  },
+  {
+    "id": 173,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ninja costume",
+      "EUen": "ninja costume",
+      "EUde": "Ninjakostüm",
+      "EUes": "vestimenta de ninja",
+      "USes": "vestimenta de ninja",
+      "EUfr": "tenue de ninja",
+      "USfr": "tenue de ninja",
+      "EUit": "costume da ninja",
+      "EUnl": "ninjakostuum",
+      "CNzh": "忍者服",
+      "TWzh": "忍者服",
+      "JPja": "しのびのふく",
+      "KRko": "닌자 옷",
+      "EUru": "костюм ниндзя"
+    }
+  },
+  {
+    "id": 174,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dragon suit",
+      "EUen": "dragon suit",
+      "EUde": "Drachen-Outfit",
+      "EUes": "traje dragón",
+      "USes": "traje dragón",
+      "EUfr": "combinaison dragon",
+      "USfr": "combinaison dragon",
+      "EUit": "tuta drago",
+      "EUnl": "drakenpak",
+      "CNzh": "龙纹装",
+      "TWzh": "龍紋裝",
+      "JPja": "ドラゴンスーツ",
+      "KRko": "드래곤 옷",
+      "EUru": "костюм с драконом"
+    }
+  },
+  {
+    "id": 176,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "concierge uniform",
+      "EUen": "concierge uniform",
+      "EUde": "Portier-Outfit",
+      "EUes": "uniforme de conserje",
+      "USes": "uniforme de encargado",
+      "EUfr": "uniforme hôtel",
+      "USfr": "uniforme hôtel",
+      "EUit": "uniforme da portiere",
+      "EUnl": "portierspak",
+      "CNzh": "酒店服务生制服",
+      "TWzh": "飯店服務生衣服",
+      "JPja": "ホテルマンなふく",
+      "KRko": "호텔리어 옷",
+      "EUru": "форма швейцара"
+    }
+  },
+  {
+    "id": 178,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flight-crew uniform",
+      "EUen": "flight-crew uniform",
+      "EUde": "Stewardessuniform",
+      "EUes": "uniforme de azafata",
+      "USes": "uniforme de azafata",
+      "EUfr": "uniforme d'hôtesse de l'air",
+      "USfr": "uniforme d'hôtesse de l'air",
+      "EUit": "uniforme da hostess",
+      "EUnl": "stewardessenuniform",
+      "CNzh": "空乘制服",
+      "TWzh": "空姐服",
+      "JPja": "フライトアテンダントのふく",
+      "KRko": "승무원 옷",
+      "EUru": "форма стюардессы"
+    }
+  },
+  {
+    "id": 180,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mage's robe",
+      "EUen": "mage's robe",
+      "EUde": "Zauberumhang",
+      "EUes": "capa de hechicería",
+      "USes": "capa de hechicería",
+      "EUfr": "robe de sorcellerie",
+      "USfr": "robe de sorcellerie",
+      "EUit": "vestito da illusionista",
+      "EUnl": "heksengewaad",
+      "CNzh": "魔法师长袍",
+      "TWzh": "魔法師長袍",
+      "JPja": "まほうつかいのローブ",
+      "KRko": "마술사의 로브",
+      "EUru": "чародейская мантия"
+    }
+  },
+  {
+    "id": 181,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "áo dài",
+      "EUen": "áo dài",
+      "EUde": "Áo dài",
+      "EUes": "vestido vietnamita",
+      "USes": "vestido vietnamita",
+      "EUfr": "áo dài",
+      "USfr": "áo dài",
+      "EUit": "vestito vietnamita",
+      "EUnl": "áo dài",
+      "CNzh": "越南传统服装",
+      "TWzh": "越南傳統服裝",
+      "JPja": "アオザイ",
+      "KRko": "아오자이",
+      "EUru": "аозай"
+    }
+  },
+  {
+    "id": 182,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pinafore",
+      "EUen": "pinafore",
+      "EUde": "Küchenkleid",
+      "EUes": "mandil añejo",
+      "USes": "delantal antiguo",
+      "EUfr": "robe tablier",
+      "USfr": "robe tablier",
+      "EUit": "vestito grembiulone",
+      "EUnl": "schortjurk",
+      "CNzh": "和风连袖围裙",
+      "TWzh": "和風連袖圍裙",
+      "JPja": "かっぽうぎ",
+      "KRko": "조리복",
+      "EUru": "платье кухарки"
+    }
+  },
+  {
+    "id": 183,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chima jeogori",
+      "EUen": "chima jeogori",
+      "EUde": "Hanbok-Kleid",
+      "EUes": "vestido coreano",
+      "USes": "vestido coreano",
+      "EUfr": "chima chogori",
+      "USfr": "chima chogori",
+      "EUit": "vestito coreano",
+      "EUnl": "chima jeogori",
+      "CNzh": "韩服裙",
+      "TWzh": "韓服裙",
+      "JPja": "チマチョゴリ",
+      "KRko": "치마 한복",
+      "EUru": "платье ханбок"
+    }
+  },
+  {
+    "id": 186,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "security uniform",
+      "EUen": "security uniform",
+      "EUde": "Polizeiuniform",
+      "EUes": "uniforme de policía",
+      "USes": "uniforme de policía",
+      "EUfr": "tenue de policier",
+      "USfr": "tenue de policier",
+      "EUit": "uniforme di polizia",
+      "EUnl": "bewakersuniform",
+      "CNzh": "警服",
+      "TWzh": "警官服",
+      "JPja": "けいかんのふく",
+      "KRko": "경찰복",
+      "EUru": "форма охранника"
+    }
+  },
+  {
+    "id": 187,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "toga",
+      "EUen": "toga",
+      "EUde": "Kaisertoga",
+      "EUes": "toga",
+      "USes": "toga",
+      "EUfr": "toge romaine",
+      "USfr": "toge romaine",
+      "EUit": "toga",
+      "EUnl": "toga",
+      "CNzh": "罗马传统服装",
+      "TWzh": "羅馬服",
+      "JPja": "ローマなふく",
+      "KRko": "로마풍 옷",
+      "EUru": "тога"
+    }
+  },
+  {
+    "id": 188,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blossoming kimono",
+      "EUen": "blossoming kimono",
+      "EUde": "Blümchenkimono",
+      "EUes": "kimono flor de ciruelo",
+      "USes": "kimono flor de ciruelo",
+      "EUfr": "kimono fleurs de prunier",
+      "USfr": "kimono fleurs de prunier",
+      "EUit": "kimono floreale",
+      "EUnl": "bloesemkimono",
+      "CNzh": "梅花和服",
+      "TWzh": "梅花和服",
+      "JPja": "ウメがらのきもの",
+      "KRko": "매화무늬 기모노",
+      "EUru": "кимоно с цветами"
+    }
+  },
+  {
+    "id": 189,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mysterious dress",
+      "EUen": "mysterious dress",
+      "EUde": "Gothic-Kleid",
+      "EUes": "vestido gótico elegante",
+      "USes": "vestido gótico elegante",
+      "EUfr": "tunique mystérieuse",
+      "USfr": "tunique mystérieuse",
+      "EUit": "vestito gotico",
+      "EUnl": "gothic jurk",
+      "CNzh": "歌德风长裙",
+      "TWzh": "哥德式衣服",
+      "JPja": "ゴシックなふく",
+      "KRko": "고딕풍 옷",
+      "EUru": "загадочное платье"
+    }
+  },
+  {
+    "id": 190,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chiton",
+      "EUen": "chiton",
+      "EUde": "Toga",
+      "EUes": "quitón",
+      "USes": "quitón",
+      "EUfr": "toge",
+      "USfr": "toge",
+      "EUit": "chitone",
+      "EUnl": "chiton",
+      "CNzh": "希腊传统服装",
+      "TWzh": "希臘服",
+      "JPja": "ギリシャなふく",
+      "KRko": "그리스풍 옷",
+      "EUru": "хитон"
+    }
+  },
+  {
+    "id": 192,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "moldy dress",
+      "EUen": "moldy dress",
+      "EUde": "Schimmelkleid",
+      "EUes": "vestido borrones",
+      "USes": "vestido borrones",
+      "EUfr": "robe élimée",
+      "USfr": "robe élimée",
+      "EUit": "vestito ammuffito",
+      "EUnl": "beschimmelde jurk",
+      "CNzh": "发霉连身裙",
+      "TWzh": "發霉連身裙",
+      "JPja": "かびたワンピース",
+      "KRko": "곰팡이 핀 원피스",
+      "EUru": "платье с плесенью"
+    }
+  },
+  {
+    "id": 193,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pharaoh's outfit",
+      "EUen": "pharaoh's outfit",
+      "EUde": "Pharao-Robe",
+      "EUes": "vestido egipcio",
+      "USes": "vestido egipcio",
+      "EUfr": "tenue de pharaon",
+      "USfr": "tenue de pharaon",
+      "EUit": "vestito faraonico",
+      "EUnl": "faraokostuum",
+      "CNzh": "埃及传统服装",
+      "TWzh": "埃及服",
+      "JPja": "エジプトのふく",
+      "KRko": "파라오 옷",
+      "EUru": "костюм фараона"
+    }
+  },
+  {
+    "id": 198,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "desert outfit",
+      "EUen": "desert outfit",
+      "EUde": "1001-Nacht-Outfit",
+      "EUes": "traje del desierto",
+      "USes": "traje del desierto",
+      "EUfr": "tenue prince du désert",
+      "USfr": "tenue prince du désert",
+      "EUit": "abito da mille e una notte",
+      "EUnl": "woestijnoutfit",
+      "CNzh": "阿拉伯传统服装",
+      "TWzh": "阿拉伯服",
+      "JPja": "アラビアなふく",
+      "KRko": "아라비아풍 옷",
+      "EUru": "наряд короля пустыни"
+    }
+  },
+  {
+    "id": 199,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mummy outfit",
+      "EUen": "mummy outfit",
+      "EUde": "Mumienkostüm",
+      "EUes": "disfraz de momia",
+      "USes": "disfraz de momia",
+      "EUfr": "costume de momie",
+      "USfr": "costume de momie",
+      "EUit": "costume da mummia",
+      "EUnl": "mummiepak",
+      "CNzh": "绷带装",
+      "TWzh": "繃帶服",
+      "JPja": "ほうたいのふく",
+      "KRko": "붕대 옷",
+      "EUru": "костюм мумии"
+    }
+  },
+  {
+    "id": 200,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bone costume",
+      "EUen": "bone costume",
+      "EUde": "Knochenkostüm",
+      "EUes": "disfraz de esqueleto",
+      "USes": "disfraz de esqueleto",
+      "EUfr": "costume de squelette",
+      "USfr": "costume de squelette",
+      "EUit": "costume ossa",
+      "EUnl": "bottenpak",
+      "CNzh": "骷髅装",
+      "TWzh": "骨頭服",
+      "JPja": "ボーンなふく",
+      "KRko": "뼈다귀 의상",
+      "EUru": "костюм со скелетом"
+    }
+  },
+  {
+    "id": 201,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wrestler uniform",
+      "EUen": "wrestler uniform",
+      "EUde": "Wrestling-Outfit",
+      "EUes": "traje de lucha libre",
+      "USes": "traje de lucha libre",
+      "EUfr": "tenue de catch",
+      "USfr": "tenue de lutte",
+      "EUit": "costume da wrestling",
+      "EUnl": "worstelaarspak",
+      "CNzh": "职业摔角装",
+      "TWzh": "職業摔角裝",
+      "JPja": "プロレススーツ",
+      "KRko": "프로 레슬링 옷",
+      "EUru": "форма рестлера"
+    }
+  },
+  {
+    "id": 202,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "baseball uniform",
+      "EUen": "baseball uniform",
+      "EUde": "Baseball-Outfit",
+      "EUes": "uniforme de béisbol",
+      "USes": "uniforme de béisbol",
+      "EUfr": "tenue de base-ball",
+      "USfr": "tenue de baseball",
+      "EUit": "uniforme da baseball",
+      "EUnl": "honkbaltenue",
+      "CNzh": "棒球服",
+      "TWzh": "棒球服",
+      "JPja": "やきゅうのふく",
+      "KRko": "야구복",
+      "EUru": "бейсбольная форма"
+    }
+  },
+  {
+    "id": 203,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pilot's uniform",
+      "EUen": "pilot's uniform",
+      "EUde": "Piloten-Outfit",
+      "EUes": "uniforme de comandante",
+      "USes": "uniforme de piloto",
+      "EUfr": "tenue de capitaine",
+      "USfr": "tenue de capitaine",
+      "EUit": "uniforme da pilota",
+      "EUnl": "pilotenpak",
+      "CNzh": "机长制服",
+      "TWzh": "機長服",
+      "JPja": "きちょうのふく",
+      "KRko": "기장 옷",
+      "EUru": "форма пилота"
+    }
+  },
+  {
+    "id": 204,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "suit of lights",
+      "EUen": "suit of lights",
+      "EUde": "Pompös-Outfit",
+      "EUes": "traje de luces",
+      "USes": "traje de luces",
+      "EUfr": "tenue ibérique",
+      "USfr": "tenue ibérique",
+      "EUit": "costume scintillante",
+      "EUnl": "Spaanse kostuum",
+      "CNzh": "斗牛士装",
+      "TWzh": "鬥牛士服",
+      "JPja": "マタドールなふく",
+      "KRko": "투우사 옷",
+      "EUru": "костюм огней"
+    }
+  },
+  {
+    "id": 205,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "milkmaid dress",
+      "EUen": "milkmaid dress",
+      "EUde": "Trachtenkleid",
+      "EUes": "vestido holandés",
+      "USes": "vestido holandés",
+      "EUfr": "robe hollandaise",
+      "USfr": "robe de fermière",
+      "EUit": "vestito olandese",
+      "EUnl": "melkmeisjesjurk",
+      "CNzh": "荷兰洋装",
+      "TWzh": "荷蘭洋裝",
+      "JPja": "オランダなドレス",
+      "KRko": "네덜란드풍 드레스",
+      "EUru": "платье молочницы"
+    }
+  },
+  {
+    "id": 211,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "space suit",
+      "EUen": "space suit",
+      "EUde": "Raumanzug",
+      "EUes": "traje espacial",
+      "USes": "traje espacial",
+      "EUfr": "combinaison spatiale",
+      "USfr": "combinaison spatiale",
+      "EUit": "tuta spaziale",
+      "EUnl": "ruimtepak",
+      "CNzh": "航天服",
+      "TWzh": "太空服",
+      "JPja": "うちゅうふく",
+      "KRko": "우주복",
+      "EUru": "костюм космонавта"
+    }
+  },
+  {
+    "id": 213,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "racing outfit",
+      "EUen": "racing outfit",
+      "EUde": "Rennfahrer-Outfit",
+      "EUes": "mono de carreras",
+      "USes": "overol de carreras",
+      "EUfr": "combinaison de pilote",
+      "USfr": "combinaison de pilote",
+      "EUit": "tuta da pilota",
+      "EUnl": "coureurspak",
+      "CNzh": "赛车服",
+      "TWzh": "賽車服",
+      "JPja": "レーサーなふく",
+      "KRko": "카레이서 옷",
+      "EUru": "костюм гонщика"
+    }
+  },
+  {
+    "id": 215,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skirt with suspenders",
+      "EUen": "skirt with suspenders",
+      "EUde": "Hosenträgerrock",
+      "EUes": "falda con tirantes",
+      "USes": "falda con tirantes",
+      "EUfr": "jupe à bretelles",
+      "USfr": "jupe à bretelles",
+      "EUit": "gonna con bretelline",
+      "EUnl": "rokje met bretels",
+      "CNzh": "交叉背带裙",
+      "TWzh": "吊帶裙",
+      "JPja": "つりスカート",
+      "KRko": "멜빵치마",
+      "EUru": "юбка на подтяжках"
+    }
+  },
+  {
+    "id": 216,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "box-skirt uniform",
+      "EUen": "box-skirt uniform",
+      "EUde": "Bundfaltenkleid",
+      "EUes": "uniforme de recepción",
+      "USes": "uniforme de recepción",
+      "EUfr": "uniforme de réceptionniste",
+      "USfr": "uniforme de réceptionniste",
+      "EUit": "vestito con gonna a pieghe",
+      "EUnl": "overgooier met blouse",
+      "CNzh": "制服背心裙",
+      "TWzh": "制服背心裙",
+      "JPja": "ジャンパースカートのせいふく",
+      "KRko": "원피스 교복",
+      "EUru": "форма с юбкой в складку"
+    }
+  },
+  {
+    "id": 219,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "denim overalls",
+      "EUen": "denim overalls",
+      "EUde": "Jeanslatzhose",
+      "EUes": "peto tejano",
+      "USes": "overol de jean",
+      "EUfr": "salopette en jean",
+      "USfr": "salopette en jean",
+      "EUit": "salopette di jeans",
+      "EUnl": "denim tuinbroek met hemd",
+      "CNzh": "牛仔背带裤装",
+      "TWzh": "牛仔吊帶褲",
+      "JPja": "デニムのサロペット",
+      "KRko": "데님 멜빵 의상",
+      "EUru": "джинсовый комбинезон"
+    }
+  },
+  {
+    "id": 221,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sailor-collar dress",
+      "EUen": "sailor-collar dress",
+      "EUde": "Matrosenkragenkleid",
+      "EUes": "vestido marinero",
+      "USes": "vestido marinero",
+      "EUfr": "robe à col marin",
+      "USfr": "robe à col marin",
+      "EUit": "vestito alla marinara",
+      "EUnl": "matrozenjurkje",
+      "CNzh": "海军风连身裙",
+      "TWzh": "海軍風連身裙",
+      "JPja": "マリンルックワンピース",
+      "KRko": "마린 원피스",
+      "EUru": "платье морячки"
+    }
+  },
+  {
+    "id": 226,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sari",
+      "EUen": "sari",
+      "EUde": "Sari",
+      "EUes": "sari",
+      "USes": "sari",
+      "EUfr": "sari",
+      "USfr": "sari",
+      "EUit": "sari",
+      "EUnl": "sari",
+      "CNzh": "印度传统服装",
+      "TWzh": "印度傳統服裝",
+      "JPja": "サリー",
+      "KRko": "사리",
+      "EUru": "сари"
+    }
+  },
+  {
+    "id": 227,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "adventure dress",
+      "EUen": "adventure dress",
+      "EUde": "Wunderlandkleid",
+      "EUes": "vestido maravilloso",
+      "USes": "vestido maravilloso",
+      "EUfr": "robe des merveilles",
+      "USfr": "robe des merveilles",
+      "EUit": "vestito meraviglioso",
+      "EUnl": "wonderlijke jurk",
+      "CNzh": "梦游仙境连身裙",
+      "TWzh": "夢遊仙境連身裙",
+      "JPja": "ふしぎなワンピース",
+      "KRko": "이상한 원피스",
+      "EUru": "чудесное платье"
+    }
+  },
+  {
+    "id": 232,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweetheart dress",
+      "EUen": "sweetheart dress",
+      "EUde": "Trägermaxikleid",
+      "EUes": "vestido largo sin mangas",
+      "USes": "vestido largo sin mangas",
+      "EUfr": "robe à col en cœur",
+      "USfr": "robe à col en cœur",
+      "EUit": "vestito con scollo a cuore",
+      "EUnl": "overgooier met trui",
+      "CNzh": "马甲连身裙",
+      "TWzh": "馬甲連身裙",
+      "JPja": "ビスチェワンピース",
+      "KRko": "뷔스티에 원피스",
+      "EUru": "платье макси на бретелях"
+    }
+  },
+  {
+    "id": 235,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fairy dress",
+      "EUen": "fairy dress",
+      "EUde": "Feenkleid",
+      "EUes": "vestido de hada",
+      "USes": "vestido de hada",
+      "EUfr": "robe de fée",
+      "USfr": "robe de fée",
+      "EUit": "vestito da fata",
+      "EUnl": "elfenjurk",
+      "CNzh": "妖精裙",
+      "TWzh": "妖精服",
+      "JPja": "ようせいのふく",
+      "KRko": "요정의 옷",
+      "EUru": "платье феи"
+    }
+  },
+  {
+    "id": 239,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "suspender outfit",
+      "EUen": "suspender outfit",
+      "EUde": "Hosenträger-Outfit",
+      "EUes": "conjunto con tirantes",
+      "USes": "conjunto con tirantes",
+      "EUfr": "costume à bretelles",
+      "USfr": "costume à bretelles",
+      "EUit": "completo con bretelle",
+      "EUnl": "outfit met bretels",
+      "CNzh": "背带裤装",
+      "TWzh": "吊帶服",
+      "JPja": "サスペンダーなふく",
+      "KRko": "멜빵 의상",
+      "EUru": "наряд с подтяжками"
+    }
+  },
+  {
+    "id": 247,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sprite costume",
+      "EUen": "sprite costume",
+      "EUde": "Wichtelkostüm",
+      "EUes": "disfraz de duende",
+      "USes": "disfraz de duende",
+      "EUfr": "costume de lutin",
+      "USfr": "costume de lutin",
+      "EUit": "costume da folletto",
+      "EUnl": "woudkostuum",
+      "CNzh": "小矮人装",
+      "TWzh": "小矮人服",
+      "JPja": "こびとのふく",
+      "KRko": "노움 옷",
+      "EUru": "костюм эльфа"
+    }
+  },
+  {
+    "id": 267,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nightgown",
+      "EUen": "nightgown",
+      "EUde": "Nachthemd",
+      "EUes": "camisón con volantes",
+      "USes": "camisón con volados",
+      "EUfr": "chemise de nuit",
+      "USfr": "chemise de nuit",
+      "EUit": "camicia da notte",
+      "EUnl": "nachthemd",
+      "CNzh": "长睡袍",
+      "TWzh": "居家洋裝",
+      "JPja": "ネグリジェ",
+      "KRko": "네글리제",
+      "EUru": "ночная сорочка"
+    }
+  },
+  {
+    "id": 268,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "judogi",
+      "EUen": "judogi",
+      "EUde": "Judogi",
+      "EUes": "uniforme de judo",
+      "USes": "uniforme de judo",
+      "EUfr": "judogi",
+      "USfr": "judogi",
+      "EUit": "tenuta da judo",
+      "EUnl": "judopak",
+      "CNzh": "柔道服",
+      "TWzh": "柔道服",
+      "JPja": "じゅうどうぎ",
+      "KRko": "유도복",
+      "EUru": "дзюдоги"
+    }
+  },
+  {
+    "id": 276,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped dress",
+      "EUen": "striped dress",
+      "EUde": "Ringelkleid",
+      "EUes": "vestido a rayas",
+      "USes": "vestido a rayas",
+      "EUfr": "robe striée",
+      "USfr": "robe striée",
+      "EUit": "vestito a righe",
+      "EUnl": "gestreepte jurk",
+      "CNzh": "粗横纹连身裙",
+      "TWzh": "粗橫紋連身裙",
+      "JPja": "ボーダーワンピース",
+      "KRko": "줄무늬 원피스",
+      "EUru": "платье в полоску"
+    }
+  },
+  {
+    "id": 279,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "linen dress",
+      "EUen": "linen dress",
+      "EUde": "Leinenkleid",
+      "EUes": "vestido de lino",
+      "USes": "vestido de lino",
+      "EUfr": "robe en lin",
+      "USfr": "robe en lin",
+      "EUit": "vestito di lino",
+      "EUnl": "linnen jurk",
+      "CNzh": "棉麻连身裙",
+      "TWzh": "棉麻連身裙",
+      "JPja": "リネンワンピース",
+      "KRko": "리넨 원피스",
+      "EUru": "льняное платье"
+    }
+  },
+  {
+    "id": 282,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wizard's robe",
+      "EUen": "wizard's robe",
+      "EUde": "Zaubererumhang",
+      "EUes": "túnica de mago",
+      "USes": "túnica de mago",
+      "EUfr": "tenue de magicien",
+      "USfr": "tenue de magicien",
+      "EUit": "tunica da mago",
+      "EUnl": "tovenaarsmantel",
+      "CNzh": "魔术师长袍",
+      "TWzh": "魔術師長袍",
+      "JPja": "まじゅつしのローブ",
+      "KRko": "마법사 로브",
+      "EUru": "мантия волшебника"
+    }
+  },
+  {
+    "id": 291,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped halter dress",
+      "EUen": "striped halter dress",
+      "EUde": "Streifenträgerkleid",
+      "EUes": "vestido a rayas sin mangas",
+      "USes": "vestido a rayas sin mangas",
+      "EUfr": "robe rayée sans manches",
+      "USfr": "robe rayée sans manches",
+      "EUit": "vestito a righe smanicato",
+      "EUnl": "mouwloze gestreepte jurk",
+      "CNzh": "绕颈连身裙",
+      "TWzh": "繞頸連身裙",
+      "JPja": "ホルターネックのワンピース",
+      "KRko": "홀터넥 원피스",
+      "EUru": "платье с лямкой на шее"
+    }
+  },
+  {
+    "id": 293,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "miko attire",
+      "EUen": "miko attire",
+      "EUde": "Miko-Outfit",
+      "EUes": "uniforme de sacerdotisa",
+      "USes": "uniforme de sacerdotisa",
+      "EUfr": "tenue de miko",
+      "USfr": "tenue de miko",
+      "EUit": "tenuta da miko",
+      "EUnl": "miko-outfit",
+      "CNzh": "巫女服",
+      "TWzh": "巫女服",
+      "JPja": "みこしょうぞく",
+      "KRko": "무녀 의상",
+      "EUru": "наряд мико"
+    }
+  },
+  {
+    "id": 297,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro sleeveless dress",
+      "EUen": "retro sleeveless dress",
+      "EUde": "Charlestonkleid",
+      "EUes": "vestido de día retro",
+      "USes": "vestido de día retro",
+      "EUfr": "robe années folles",
+      "USfr": "robe années folles",
+      "EUit": "vestito rétro smanicato",
+      "EUnl": "mouwloze retrojurk",
+      "CNzh": "摩登少女连身裙",
+      "TWzh": "摩登少女連身裙",
+      "JPja": "モガなワンピース",
+      "KRko": "복고풍 민소매 원피스",
+      "EUru": "ретро-платье без рукавов"
+    }
+  },
+  {
+    "id": 302,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hakama",
+      "EUen": "hakama",
+      "EUde": "Hakama",
+      "EUes": "hakama",
+      "USes": "hakama",
+      "EUfr": "hakama",
+      "USfr": "hakama",
+      "EUit": "hakama",
+      "EUnl": "hakama",
+      "CNzh": "和服袴",
+      "TWzh": "和服褶裙",
+      "JPja": "はかま",
+      "KRko": "하카마",
+      "EUru": "хакама"
+    }
+  },
+  {
+    "id": 304,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "full-body tights",
+      "EUen": "full-body tights",
+      "EUde": "Neoprenanzug",
+      "EUes": "traje térmico",
+      "USes": "traje térmico",
+      "EUfr": "collant intégral",
+      "USfr": "collant intégral",
+      "EUit": "tuta aderente",
+      "EUnl": "stretchpak",
+      "CNzh": "全身紧身衣",
+      "TWzh": "全身緊身衣",
+      "JPja": "ぜんしんタイツ",
+      "KRko": "전신 타이츠",
+      "EUru": "облегающий комбинезон"
+    }
+  },
+  {
+    "id": 307,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fishing waders",
+      "EUen": "fishing waders",
+      "EUde": "Anglerhose",
+      "EUes": "peto de pescador",
+      "USes": "overol de pescador",
+      "EUfr": "salopette de pêche",
+      "USfr": "salopette de pêche",
+      "EUit": "tenuta da pesca",
+      "EUnl": "waadpak",
+      "CNzh": "下水裤",
+      "TWzh": "下水褲",
+      "JPja": "ウェーダー",
+      "KRko": "낚시 의상",
+      "EUru": "комбинезон для рыбалки"
+    }
+  },
+  {
+    "id": 311,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "magical dress",
+      "EUen": "magical dress",
+      "EUde": "Zauberkleid",
+      "EUes": "vestido mágico",
+      "USes": "vestido mágico",
+      "EUfr": "robe magique",
+      "USfr": "robe magique",
+      "EUit": "vestito magia",
+      "EUnl": "magische jurk",
+      "CNzh": "魔法洋装",
+      "TWzh": "魔法洋裝",
+      "JPja": "マジカルなドレス",
+      "KRko": "매지컬 드레스",
+      "EUru": "платье из аниме"
+    }
+  },
+  {
+    "id": 313,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bolero coat",
+      "EUen": "bolero coat",
+      "EUde": "Bolero-Mantel",
+      "EUes": "abrigo bolero",
+      "USes": "abrigo bolero",
+      "EUfr": "manteau boléro",
+      "USfr": "manteau boléro",
+      "EUit": "cappotto con bolero",
+      "EUnl": "winterjas met strik",
+      "CNzh": "礼服小外套",
+      "TWzh": "禮服小外套",
+      "JPja": "ボレロコート",
+      "KRko": "볼레로 코트",
+      "EUru": "пальто с пелериной"
+    }
+  },
+  {
+    "id": 314,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "office uniform",
+      "EUen": "office uniform",
+      "EUde": "Büro-Outfit",
+      "EUes": "uniforme de oficinista",
+      "USes": "uniforme de oficinista",
+      "EUfr": "uniforme administratif",
+      "USfr": "uniforme administratif",
+      "EUit": "uniforme seriosa",
+      "EUnl": "kantooruniform",
+      "CNzh": "职业装",
+      "TWzh": "公司制服",
+      "JPja": "オフィスなふく",
+      "KRko": "회사원 옷",
+      "EUru": "служебная форма"
+    }
+  },
+  {
+    "id": 317,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "full-length dress with pearls",
+      "EUen": "full-length dress with pearls",
+      "EUde": "Galakleid",
+      "EUes": "vestido largo con perlas",
+      "USes": "vestido largo con perlas",
+      "EUfr": "robe longue à perles",
+      "USfr": "robe longue à perles",
+      "EUit": "vestito lungo con perle",
+      "EUnl": "avondjurk met parels",
+      "CNzh": "珍珠长洋装",
+      "TWzh": "珍珠長洋裝",
+      "JPja": "パールつきロングドレス",
+      "KRko": "반짝이 롱 드레스",
+      "EUru": "платье в пол с жемчугом"
+    }
+  },
+  {
+    "id": 318,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "casual kimono",
+      "EUen": "casual kimono",
+      "EUde": "Alltagskimono",
+      "EUes": "kimono sencillo",
+      "USes": "kimono sencillo",
+      "EUfr": "kimono décontracté",
+      "USfr": "kimono décontracté",
+      "EUit": "kimono informale",
+      "EUnl": "casual kimono",
+      "CNzh": "男性休闲和服",
+      "TWzh": "男性簡便和服",
+      "JPja": "きながし",
+      "KRko": "일본 전통 남성용 겉옷",
+      "EUru": "повседневное кимоно"
+    }
+  },
+  {
+    "id": 320,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frugal dress",
+      "EUen": "frugal dress",
+      "EUde": "Lumpenkleid",
+      "EUes": "vestido roñoso",
+      "USes": "vestido roñoso",
+      "EUfr": "robe rapiécée",
+      "USfr": "robe rapiécée",
+      "EUit": "vestito modesto",
+      "EUnl": "opgelapte jurk",
+      "CNzh": "简朴洋装",
+      "TWzh": "簡樸洋裝",
+      "JPja": "しっそなドレス",
+      "KRko": "누더기 원피스",
+      "EUru": "рваное платье"
+    }
+  },
+  {
+    "id": 321,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frugal outfit",
+      "EUen": "frugal outfit",
+      "EUde": "Lumpen-Outfit",
+      "EUes": "traje roñoso",
+      "USes": "traje roñoso",
+      "EUfr": "tenue rapiécée",
+      "USfr": "tenue rapiécée",
+      "EUit": "completo modesto",
+      "EUnl": "opgelapte outfit",
+      "CNzh": "简朴套装",
+      "TWzh": "簡樸衣服",
+      "JPja": "しっそなふく",
+      "KRko": "누더기 옷",
+      "EUru": "рваный костюм"
+    }
+  },
+  {
+    "id": 322,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chic tuxedo dress",
+      "EUen": "chic tuxedo dress",
+      "EUde": "Smokingkleid",
+      "EUes": "vestido esmoquin",
+      "USes": "vestido esmoquin",
+      "EUfr": "robe smoking",
+      "USfr": "robe smoking",
+      "EUit": "vestito stile smoking",
+      "EUnl": "chique smokingjurk",
+      "CNzh": "晚礼服裙",
+      "TWzh": "晚禮服洋裝",
+      "JPja": "タキシードドレス",
+      "KRko": "턱시도 드레스",
+      "EUru": "платье-смокинг"
+    }
+  },
+  {
+    "id": 323,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fleece pj's",
+      "EUen": "fleece pj's",
+      "EUde": "Fleece-Pyjama",
+      "EUes": "pijama de lana",
+      "USes": "pijama de lana",
+      "EUfr": "pyjama en pilou",
+      "USfr": "pyjama en pilou",
+      "EUit": "pigiama di pile",
+      "EUnl": "fleecepyjama",
+      "CNzh": "刷毛睡衣",
+      "TWzh": "刷毛睡衣",
+      "JPja": "フリースパジャマ",
+      "KRko": "복슬복슬 파자마",
+      "EUru": "байковая пижама"
+    }
+  },
+  {
+    "id": 324,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "long pleather coat",
+      "EUen": "long pleather coat",
+      "EUde": "Kunstledermantel",
+      "EUes": "gabardina de polipiel",
+      "USes": "gabardina cuero sintético",
+      "EUfr": "manteau long en similicuir",
+      "USfr": "manteau long en similicuir",
+      "EUit": "cappotto lungo in ecopelle",
+      "EUnl": "lange kunstleren jas",
+      "CNzh": "皮外套",
+      "TWzh": "皮大衣",
+      "JPja": "レザーコート",
+      "KRko": "가죽 코트",
+      "EUru": "пальто из кожзама"
+    }
+  },
+  {
+    "id": 325,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bath-towel wrap",
+      "EUen": "bath-towel wrap",
+      "EUde": "Badetuch",
+      "EUes": "toalla de baño",
+      "USes": "toalla de baño",
+      "EUfr": "serviette de bain",
+      "USfr": "serviette de bain",
+      "EUit": "asciugamano",
+      "EUnl": "omgewikkelde badhanddoek",
+      "CNzh": "浴巾",
+      "TWzh": "浴巾",
+      "JPja": "バスタオル",
+      "KRko": "목욕 수건",
+      "EUru": "банное полотенце"
+    }
+  },
+  {
+    "id": 338,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "loose fall dress",
+      "EUen": "loose fall dress",
+      "EUde": "Karo-Herbstkleid",
+      "EUes": "vestido suelto a cuadros",
+      "USes": "vestido suelto a cuadros",
+      "EUfr": "robe automnale à carreaux",
+      "USfr": "robe automnale à carreaux",
+      "EUit": "vestito autunnale largo",
+      "EUnl": "losse herfstjurk",
+      "CNzh": "秋色格纹连身裙",
+      "TWzh": "秋色格紋連身裙",
+      "JPja": "あきいろチェックワンピース",
+      "KRko": "가을색 체크무늬 옷",
+      "EUru": "осеннее платье в клетку"
+    }
+  },
+  {
+    "id": 340,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plaid-print dress",
+      "EUen": "plaid-print dress",
+      "EUde": "Vichykleid",
+      "EUes": "vestido tartán sin mangas",
+      "USes": "vestido escocés sin mangas",
+      "EUfr": "robe à grands carreaux",
+      "USfr": "robe à grands carreaux",
+      "EUit": "vestito tartan smanicato",
+      "EUnl": "geruite jurk",
+      "CNzh": "大方格纹连身裙",
+      "TWzh": "方塊格紋連身裙",
+      "JPja": "ブロックチェックワンピ",
+      "KRko": "블록 체크 드레스",
+      "EUru": "платье в клетку"
+    }
+  },
+  {
+    "id": 343,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frilly dress",
+      "EUen": "frilly dress",
+      "EUde": "Volantkleid",
+      "EUes": "vestido floral con rebeca",
+      "USes": "vestido floral con cárdigan",
+      "EUfr": "robe volantée",
+      "USfr": "robe volantée",
+      "EUit": "vestito vezzoso",
+      "EUnl": "ruchesjurk",
+      "CNzh": "飘逸连身裙",
+      "TWzh": "蓬蓬蛋糕連身裙",
+      "JPja": "フリフリワンピース",
+      "KRko": "프릴 원피스",
+      "EUru": "платье с воланами"
+    }
+  },
+  {
+    "id": 345,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dollhouse dress",
+      "EUen": "dollhouse dress",
+      "EUde": "Püppchenkleid",
+      "EUes": "vestido amplio con encaje",
+      "USes": "vestido amplio con encaje",
+      "EUfr": "robe d'été poupée",
+      "USfr": "robe d'été poupée",
+      "EUit": "scamiciato con balze",
+      "EUnl": "poppenjurk",
+      "CNzh": "吊带蛋糕裙",
+      "TWzh": "偶像服",
+      "JPja": "アイドルなふく",
+      "KRko": "아이돌 의상",
+      "EUru": "кукольное платье"
+    }
+  },
+  {
+    "id": 348,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bohemian tunic dress",
+      "EUen": "Bohemian tunic dress",
+      "EUde": "Folklorekleid",
+      "EUes": "vestido bohemio",
+      "USes": "vestido túnica bohemia",
+      "EUfr": "robe tunique bohémienne",
+      "USfr": "robe tunique bohémienne",
+      "EUit": "tunica bohémien",
+      "EUnl": "bohemien jurk",
+      "CNzh": "波西米亚连身裙",
+      "TWzh": "波希米亞連身裙",
+      "JPja": "ボヘミアンワンピ",
+      "KRko": "보헤미안 원피스",
+      "EUru": "фольклорное платье"
+    }
+  },
+  {
+    "id": 357,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oversized-sweats dress",
+      "EUen": "oversized-sweats dress",
+      "EUde": "Schlabberpullikleid",
+      "EUes": "vestido sudadera grande",
+      "USes": "vestido sudadera grande",
+      "EUfr": "robe pull baggy",
+      "USfr": "robe pull baggy",
+      "EUit": "felpa oversize",
+      "EUnl": "gestreepte sweaterjurk",
+      "CNzh": "拼接宽版运动衫",
+      "TWzh": "拼接寬版衛衣",
+      "JPja": "きりかえビッグスウェット",
+      "KRko": "오버핏 스웨트",
+      "EUru": "свободное трикот. платье"
+    }
+  },
+  {
+    "id": 362,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sheep costume",
+      "EUen": "sheep costume",
+      "EUde": "Schafkostüm",
+      "EUes": "disfraz de carnero",
+      "USes": "disfraz de carnero",
+      "EUfr": "costume de bélier",
+      "USfr": "costume de bélier",
+      "EUit": "costume da montone",
+      "EUnl": "schapenpak",
+      "CNzh": "绵羊装",
+      "TWzh": "綿羊服",
+      "JPja": "ひつじなふく",
+      "KRko": "양 의상",
+      "EUru": "костюм барана"
+    }
+  },
+  {
+    "id": 363,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sunflower dress",
+      "EUen": "sunflower dress",
+      "EUde": "Sonnenblumenkleid",
+      "EUes": "vestido girasoles",
+      "USes": "vestido girasoles",
+      "EUfr": "robe tournesols",
+      "USfr": "robe tournesols",
+      "EUit": "vestito con girasoli",
+      "EUnl": "zonnebloemenjurk",
+      "CNzh": "向日葵连身裙",
+      "TWzh": "向日葵連身裙",
+      "JPja": "ひまわりのワンピース",
+      "KRko": "해바라기 원피스",
+      "EUru": "платье с подсолнухами"
+    }
+  },
+  {
+    "id": 368,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "alpinist overalls",
+      "EUen": "alpinist overalls",
+      "EUde": "Gebirgs-Outfit",
+      "EUes": "peto tirolés",
+      "USes": "traje tirolés",
+      "EUfr": "costume tyrolien",
+      "USfr": "costume tyrolien",
+      "EUit": "completo tirolese",
+      "EUnl": "tiroler-outfit",
+      "CNzh": "提洛尔背带裤装",
+      "TWzh": "提洛爾吊帶褲",
+      "JPja": "チロリアンなオーバーオール",
+      "KRko": "알프스풍 점프슈트",
+      "EUru": "тирольский костюм"
+    }
+  },
+  {
+    "id": 373,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "star costume",
+      "EUen": "star costume",
+      "EUde": "Bühnen-Outfit",
+      "EUes": "traje rey del rock",
+      "USes": "traje rey del rock",
+      "EUfr": "costume de vedette",
+      "USfr": "costume de vedette",
+      "EUit": "completo da star",
+      "EUnl": "rocksterrenkostuum",
+      "CNzh": "饰星星套装",
+      "TWzh": "復古歌星服",
+      "JPja": "スタアのふく",
+      "KRko": "슈퍼스타 의상",
+      "EUru": "эстрадный костюм"
+    }
+  },
+  {
+    "id": 389,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "layered sleeveless dress",
+      "EUen": "layered sleeveless dress",
+      "EUde": "Lagenkleid",
+      "EUes": "vestido con chaleco",
+      "USes": "vestido con chaleco",
+      "EUfr": "robe doublée gilet",
+      "USfr": "robe doublée gilet",
+      "EUit": "vestito a strati smanicato",
+      "EUnl": "mouwloze laagjesjurk",
+      "CNzh": "两件式无袖连身裙",
+      "TWzh": "兩件式無袖連身裙",
+      "JPja": "レイヤーノースリーブワンピ",
+      "KRko": "레이어드 민소매 원피스",
+      "EUru": "многослойное платье"
+    }
+  },
+  {
+    "id": 390,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tiger-face tee dress",
+      "EUen": "tiger-face tee dress",
+      "EUde": "Tigershirtkleid",
+      "EUes": "vestido camiseta tigre",
+      "USes": "vestido camiseta tigre",
+      "EUfr": "robe t-shirt tigre",
+      "USfr": "robe t-shirt tigre",
+      "EUit": "vestito a maglietta tigre",
+      "EUnl": "tijger-T-shirtjurk",
+      "CNzh": "老虎T恤连身裙",
+      "TWzh": "老虎T恤連身裙",
+      "JPja": "トラのＴシャツワンピ",
+      "KRko": "호랑이 티셔츠 원피스",
+      "EUru": "платье-футболка с тигром"
+    }
+  },
+  {
+    "id": 391,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parka and shirtdress",
+      "EUen": "parka and shirtdress",
+      "EUde": "Kapuzenpullikleid",
+      "EUes": "vestido sudadera camisola",
+      "USes": "vestido sudadera camisola",
+      "EUfr": "robe à capuche sur chemise",
+      "USfr": "robe à capuche sur chemise",
+      "EUit": "felpa con camicia",
+      "EUnl": "sweater-T-shirtjurk",
+      "CNzh": "连帽上衣配衬衫连身裙",
+      "TWzh": "連帽上衣配襯衫連身裙",
+      "JPja": "パーカーインシャツワンピ",
+      "KRko": "파카와 셔츠 원피스",
+      "EUru": "парка с платьем-рубашкой"
+    }
+  },
+  {
+    "id": 393,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "baby romper",
+      "EUen": "baby romper",
+      "EUde": "Strampelanzug",
+      "EUes": "pelele para bebé",
+      "USes": "pijama de bebé",
+      "EUfr": "grenouillère",
+      "USfr": "grenouillère",
+      "EUit": "tutina da neonato",
+      "EUnl": "rompertje",
+      "CNzh": "幼儿连衫裤",
+      "TWzh": "嬰兒連身衣",
+      "JPja": "ロンパース",
+      "KRko": "내리닫이 유아복",
+      "EUru": "детский комбинезон"
+    }
+  },
+  {
+    "id": 394,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tight punk outfit",
+      "EUen": "tight punk outfit",
+      "EUde": "Punk-Overall",
+      "EUes": "traje ajustado punk",
+      "USes": "traje ajustado punk",
+      "EUfr": "combinaison punk",
+      "USfr": "combinaison punk",
+      "EUit": "completo punk",
+      "EUnl": "punkrockkostuum",
+      "CNzh": "拘束衣",
+      "TWzh": "緊身連身皮衣",
+      "JPja": "ボンテージ",
+      "KRko": "쫄쫄이 슈트",
+      "EUru": "костюм панка"
+    }
+  },
+  {
+    "id": 396,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "superhero uniform",
+      "EUen": "superhero uniform",
+      "EUde": "Superheldenuniform",
+      "EUes": "mono de superhéroe",
+      "USes": "traje de superhéroe",
+      "EUfr": "costume de super-héros",
+      "USfr": "costume de super-héros",
+      "EUit": "tuta da supereroe",
+      "EUnl": "superheldenpak",
+      "CNzh": "超级英雄装",
+      "TWzh": "超級英雄裝",
+      "JPja": "スーパーヒーロースーツ",
+      "KRko": "슈퍼 히어로 슈트",
+      "EUru": "форма супергероя"
+    }
+  },
+  {
+    "id": 398,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "china poblana",
+      "EUen": "china poblana",
+      "EUde": "China-Poblana-Kleid",
+      "EUes": "vestido china poblana",
+      "USes": "vestido china poblana",
+      "EUfr": "costume China poblana",
+      "USfr": "costume China poblana",
+      "EUit": "vestito china poblana",
+      "EUnl": "china poblana",
+      "CNzh": "墨西哥传统服装",
+      "TWzh": "墨西哥傳統服裝",
+      "JPja": "チナポブラーナ",
+      "KRko": "치나 포블라나",
+      "EUru": "платье «Чина поблана»"
+    }
+  },
+  {
+    "id": 403,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shawl-and-dress combo",
+      "EUen": "shawl-and-dress combo",
+      "EUde": "Schal-Kleid",
+      "EUes": "vestido de punto con chal",
+      "USes": "vestido tejido con chal",
+      "EUfr": "robe avec écharpe",
+      "USfr": "robe avec écharpe",
+      "EUit": "vestito con scialle",
+      "EUnl": "jurk met sjaal",
+      "CNzh": "连身裙配披肩",
+      "TWzh": "披肩配連身裙",
+      "JPja": "ショールコーデワンピ",
+      "KRko": "숄을 두른 원피스",
+      "EUru": "платье с шалью"
+    }
+  },
+  {
+    "id": 413,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pintuck-pleated dress",
+      "EUen": "pintuck-pleated dress",
+      "EUde": "Plisseekleid",
+      "EUes": "vestido cuco con lacito",
+      "USes": "vestido plisado con lacito",
+      "EUfr": "robe à fronces",
+      "USfr": "robe à fronces",
+      "EUit": "vestito plissettato",
+      "EUnl": "pofmouwenjurk",
+      "CNzh": "洋娃娃风连身裙",
+      "TWzh": "洋娃娃風連身裙",
+      "JPja": "ドーリーワンピース",
+      "KRko": "인형 같은 원피스",
+      "EUru": "платье с мелким плиссе"
+    }
+  },
+  {
+    "id": 424,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "maxi shirtdress",
+      "EUen": "maxi shirtdress",
+      "EUde": "Karo-Hemdkleid",
+      "EUes": "vestido camisero extralargo",
+      "USes": "vestido camisola extralargo",
+      "EUfr": "maxi robe chemise",
+      "USfr": "maxi robe chemise",
+      "EUit": "camicione maxi",
+      "EUnl": "maxi-overhemdjurk",
+      "CNzh": "长版衬衫连身裙",
+      "TWzh": "長版襯衫連身裙",
+      "JPja": "ロングシャツワンピ",
+      "KRko": "롱 셔츠 원피스",
+      "EUru": "платье-рубашка в клетку"
+    }
+  },
+  {
+    "id": 435,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "long denim cardigan",
+      "EUen": "long denim cardigan",
+      "EUde": "Jeansmantel",
+      "EUes": "cárdigan tejano largo",
+      "USes": "cárdigan de jean largo",
+      "EUfr": "gilet long en jean",
+      "USfr": "veste longue en jean",
+      "EUit": "cardigan lungo di jeans",
+      "EUnl": "lange outfit met spijkerjasje",
+      "CNzh": "长版牛仔针织罩衫",
+      "TWzh": "長版牛仔針織罩衫",
+      "JPja": "ロングデニムカーディガン",
+      "KRko": "데님 롱 가디건",
+      "EUru": "джинсовое пальто"
+    }
+  },
+  {
+    "id": 436,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oversized print dress",
+      "EUen": "oversized print dress",
+      "EUde": "Riesenblumenkleid",
+      "EUes": "vestido ancho estampado",
+      "USes": "vestido ancho estampado",
+      "EUfr": "robe à larges motifs",
+      "USfr": "robe à larges motifs",
+      "EUit": "vestito a stampa grande",
+      "EUnl": "jurk met grote print",
+      "CNzh": "排列印花连身裙",
+      "TWzh": "滿版圖案連身裙",
+      "JPja": "おおばんがらワンピ",
+      "KRko": "큰 무늬 원피스",
+      "EUru": "свободн. платье с узором"
+    }
+  },
+  {
+    "id": 437,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro A-line dress",
+      "EUen": "retro A-line dress",
+      "EUde": "A-Linien-Kleid",
+      "EUes": "vestido retro llamativo",
+      "USes": "vestido retro llamativo",
+      "EUfr": "robe évasée rétro",
+      "USfr": "robe évasée rétro",
+      "EUit": "vestito rétro scampanato",
+      "EUnl": "retro-A-lijnjurk",
+      "CNzh": "复古A字连身裙",
+      "TWzh": "復古A字連身裙",
+      "JPja": "レトロＡラインワンピース",
+      "KRko": "복고풍 A라인 원피스",
+      "EUru": "ретро-платье «Трапеция»"
+    }
+  },
+  {
+    "id": 439,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tee dress",
+      "EUen": "tee dress",
+      "EUde": "Shirtkleid",
+      "EUes": "vestido camiseta",
+      "USes": "vestido camiseta",
+      "EUfr": "robe t-shirt",
+      "USfr": "robe t-shirt",
+      "EUit": "vestito a maglietta",
+      "EUnl": "T-shirtjurk",
+      "CNzh": "T恤连身裙",
+      "TWzh": "T恤連身裙",
+      "JPja": "Ｔシャツワンピ",
+      "KRko": "티셔츠 원피스",
+      "EUru": "платье-футболка"
+    }
+  },
+  {
+    "id": 442,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "visual-punk outfit",
+      "EUen": "visual-punk outfit",
+      "EUde": "Visual-Kei-Outfit",
+      "EUes": "traje punk",
+      "USes": "traje punk",
+      "EUfr": "tenue visual kei",
+      "USfr": "tenue visual kei",
+      "EUit": "abito visual kei",
+      "EUnl": "Japanse punkoutfit",
+      "CNzh": "视觉系服装",
+      "TWzh": "視覺系服裝",
+      "JPja": "ヴィジュアルけいコスチューム",
+      "KRko": "펑크 스타일 의상",
+      "EUru": "панковский костюм"
+    }
+  },
+  {
+    "id": 446,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "floral lace dress",
+      "EUen": "floral lace dress",
+      "EUde": "Klöppelblumenkleid",
+      "EUes": "vestido encaje floral",
+      "USes": "vestido encaje floral",
+      "EUfr": "robe à dentelle fleurie",
+      "USfr": "robe à fleurs en dentelle",
+      "EUit": "vestito floreale di merletto",
+      "EUnl": "jurk met gebloemd kant",
+      "CNzh": "花朵图案蕾丝连身裙",
+      "TWzh": "花紋蕾絲連身裙",
+      "JPja": "はながらレースのワンピース",
+      "KRko": "꽃무늬 레이스 원피스",
+      "EUru": "платье с кружевом"
+    }
+  },
+  {
+    "id": 450,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "caterpillar costume",
+      "EUen": "caterpillar costume",
+      "EUde": "Raupen-Outfit",
+      "EUes": "disfraz de oruga",
+      "USes": "disfraz de oruga",
+      "EUfr": "costume de chenille",
+      "USfr": "costume de chenille",
+      "EUit": "costume da bruco",
+      "EUnl": "rupsenpak",
+      "CNzh": "毛虫装",
+      "TWzh": "綠毛蟲服",
+      "JPja": "あおむしのふく",
+      "KRko": "애벌레 의상",
+      "EUru": "костюм гусеницы"
+    }
+  },
+  {
+    "id": 452,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "house-print dress",
+      "EUen": "house-print dress",
+      "EUde": "Häuschenkleid",
+      "EUes": "vestido casitas",
+      "USes": "vestido casitas",
+      "EUfr": "robe à motifs maisons",
+      "USfr": "robe à motifs maisons",
+      "EUit": "vestito con casette",
+      "EUnl": "jurk met huizenprint",
+      "CNzh": "小屋印花连身裙",
+      "TWzh": "小屋圖案連身裙",
+      "JPja": "ハウスなプリントワンピ",
+      "KRko": "집무늬 원피스",
+      "EUru": "платье с рисунком «Дома»"
+    }
+  },
+  {
+    "id": 453,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "forest-print dress",
+      "EUen": "forest-print dress",
+      "EUde": "Waldkleid",
+      "EUes": "vestido bosque",
+      "USes": "vestido bosque",
+      "EUfr": "robe à motifs forêt",
+      "USfr": "robe à motifs forêt",
+      "EUit": "vestito con alberelli",
+      "EUnl": "jurk met bomenprint",
+      "CNzh": "森林图案连身裙",
+      "TWzh": "森林圖案連身裙",
+      "JPja": "フォレストなワンピース",
+      "KRko": "나무무늬 원피스",
+      "EUru": "платье с рисунком «Лес»"
+    }
+  },
+  {
+    "id": 454,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rugby uniform",
+      "EUen": "rugby uniform",
+      "EUde": "Rugby-Outfit",
+      "EUes": "uniforme de rugby",
+      "USes": "uniforme de rugby",
+      "EUfr": "tenue de rugby",
+      "USfr": "tenue de rugby",
+      "EUit": "uniforme da rugby",
+      "EUnl": "rugbytenue",
+      "CNzh": "橄榄球制服",
+      "TWzh": "橄欖球制服",
+      "JPja": "ラグビーのユニフォーム",
+      "KRko": "럭비 유니폼",
+      "EUru": "форма для регби"
+    }
+  },
+  {
+    "id": 456,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iron armor",
+      "EUen": "iron armor",
+      "EUde": "Eisenrüstung",
+      "EUes": "armadura de hierro",
+      "USes": "armadura de hierro",
+      "EUfr": "armure en fer",
+      "USfr": "armure en fer",
+      "EUit": "armatura di ferro",
+      "EUnl": "ijzeren harnas",
+      "CNzh": "铁盔甲",
+      "TWzh": "鐵盔甲",
+      "JPja": "アイアンアーマー",
+      "KRko": "아이언 아머",
+      "EUru": "железные доспехи"
+    }
+  },
+  {
+    "id": 457,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "long down coat",
+      "EUen": "long down coat",
+      "EUde": "Thermomantel",
+      "EUes": "abrigo largo acolchado",
+      "USes": "abrigo largo acolchado",
+      "EUfr": "doudoune extra longue",
+      "USfr": "doudoune extra longue",
+      "EUit": "piumino lungo",
+      "EUnl": "lange gewatteerde jas",
+      "CNzh": "长羽绒外套",
+      "TWzh": "長羽絨大衣",
+      "JPja": "ロングダウンコート",
+      "KRko": "롱 패딩",
+      "EUru": "длинное пуховое пальто"
+    }
+  },
+  {
+    "id": 458,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold armor",
+      "EUen": "gold armor",
+      "EUde": "Goldrüstung",
+      "EUes": "armadura de oro",
+      "USes": "armadura de oro",
+      "EUfr": "armure en or",
+      "USfr": "armure en or",
+      "EUit": "armatura dorata",
+      "EUnl": "gouden harnas",
+      "CNzh": "金盔甲",
+      "TWzh": "金盔甲",
+      "JPja": "ゴールデンアーマー",
+      "KRko": "골든 아머",
+      "EUru": "золотые доспехи"
+    }
+  },
+  {
+    "id": 460,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peacoat-and-skirt combo",
+      "EUen": "peacoat-and-skirt combo",
+      "EUde": "Mantel-Rock-Kombi",
+      "EUes": "chaquetón sobre falda",
+      "USes": "saco corto con falda",
+      "EUfr": "combi jupe et caban",
+      "USfr": "combi jupe et caban",
+      "EUit": "giacca montgomery e gonna",
+      "EUnl": "jekker met rok",
+      "CNzh": "海军大衣连短裙",
+      "TWzh": "海軍大衣連裙子",
+      "JPja": "スカートつきピーコート",
+      "KRko": "스커트와 모직 코트",
+      "EUru": "пиджак с юбкой"
+    }
+  },
+  {
+    "id": 462,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "casual chic dress",
+      "EUen": "casual chic dress",
+      "EUde": "Wickelkleid",
+      "EUes": "vestido de día chic",
+      "USes": "vestido de día chic",
+      "EUfr": "robe cache-cœur",
+      "USfr": "robe cache-cœur",
+      "EUit": "vestito casual-chic",
+      "EUnl": "omslagjurk",
+      "CNzh": "裹身裙",
+      "TWzh": "交叉V領綁帶連身裙",
+      "JPja": "カシュクールワンピース",
+      "KRko": "앞여밈 원피스",
+      "EUru": "платье с запахом"
+    }
+  },
+  {
+    "id": 469,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "folk-dance outfit",
+      "EUen": "folk-dance outfit",
+      "EUde": "Volkstanz-Outfit",
+      "EUes": "traje baile folclórico",
+      "USes": "traje baile folclórico",
+      "EUfr": "costume hollandais",
+      "USfr": "costume hollandais",
+      "EUit": "completo da danza folk",
+      "EUnl": "Volendamse kostuum",
+      "CNzh": "荷兰服",
+      "TWzh": "荷蘭風格服裝",
+      "JPja": "オランダなコスチューム",
+      "KRko": "네덜란드풍 옷",
+      "EUru": "наряд народного танцора"
+    }
+  },
+  {
+    "id": 470,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "boa parka",
+      "EUen": "boa parka",
+      "EUde": "Fleece-Pulli",
+      "EUes": "vestido sudadera mullido",
+      "USes": "vestido sudadera mullido",
+      "EUfr": "parka en polaire",
+      "USfr": "parka en flanelle",
+      "EUit": "felpa boa",
+      "EUnl": "zachte sweaterjurk",
+      "CNzh": "绒毛连帽上衣",
+      "TWzh": "絨毛連帽上衣",
+      "JPja": "ボアパーカー",
+      "KRko": "털 후드 원피스",
+      "EUru": "пушистое худи"
+    }
+  },
+  {
+    "id": 472,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "balmacaan coat",
+      "EUen": "balmacaan coat",
+      "EUde": "Balmacaan-Mantel",
+      "EUes": "chubasquero balmacaan",
+      "USes": "abrigo balmacaan",
+      "EUfr": "manteau balmacaan",
+      "USfr": "manteau balmacaan",
+      "EUit": "cappotto balmacaan",
+      "EUnl": "balmacaan-jas",
+      "CNzh": "巴尔玛肯大衣",
+      "TWzh": "巴爾瑪肯大衣",
+      "JPja": "バルマカーンコート",
+      "KRko": "스포티한 오버코트",
+      "EUru": "пальто-балмакан"
+    }
+  },
+  {
+    "id": 477,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "desert-princess outfit",
+      "EUen": "desert-princess outfit",
+      "EUde": "1001-Nacht-Kleid",
+      "EUes": "vestido princesa desierto",
+      "USes": "vestido princesa desierto",
+      "EUfr": "tenue princesse du désert",
+      "USfr": "tenue princesse du désert",
+      "EUit": "vestito da mille e una notte",
+      "EUnl": "woestijnprinsessenoutfit",
+      "CNzh": "阿拉伯公主装",
+      "TWzh": "阿拉伯公主服",
+      "JPja": "アラビアひめなふく",
+      "KRko": "아라비아 공주 의상",
+      "EUru": "наряд королевы пустыни"
+    }
+  },
+  {
+    "id": 482,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zigzag-print dress",
+      "EUen": "zigzag-print dress",
+      "EUde": "Ethnokleid",
+      "EUes": "vestido de tirantes zigzag",
+      "USes": "vestido de tirantes zigzag",
+      "EUfr": "robe imprimés zigzag",
+      "USfr": "robe imprimés zigzag",
+      "EUit": "vestito zigzag",
+      "EUnl": "jurk met zigzagprint",
+      "CNzh": "民族风连身裙",
+      "TWzh": "民族風連身裙",
+      "JPja": "エスニックワンピ",
+      "KRko": "에스닉 원피스",
+      "EUru": "платье с узором «Зигзаг»"
+    }
+  },
+  {
+    "id": 483,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shorts outfit",
+      "EUen": "shorts outfit",
+      "EUde": "Jumpsuit",
+      "EUes": "vestido pantalón corto",
+      "USes": "vestido pantalón corto",
+      "EUfr": "combishort",
+      "USfr": "combishort",
+      "EUit": "completo con pantaloncini",
+      "EUnl": "korte broek met hemdje",
+      "CNzh": "短款连身裤",
+      "TWzh": "連身短褲",
+      "JPja": "ショートコンビネゾン",
+      "KRko": "반바지 점프 수트",
+      "EUru": "комбинезон с шортами"
+    }
+  },
+  {
+    "id": 486,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "icy dress",
+      "EUen": "icy dress",
+      "EUde": "Frostköniginnenkleid",
+      "EUes": "vestido glacial",
+      "USes": "vestido glacial",
+      "EUfr": "robe des glaces",
+      "USfr": "robe des glaces",
+      "EUit": "vestito dei ghiacci",
+      "EUnl": "ijsjurk",
+      "CNzh": "冰晶皇后洋装",
+      "TWzh": "冰之女王洋裝",
+      "JPja": "こおりのじょおうなドレス",
+      "KRko": "얼음 여왕 드레스",
+      "EUru": "ледяное платье"
+    }
+  },
+  {
+    "id": 488,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cold-country dress",
+      "EUen": "cold-country dress",
+      "EUde": "Bunad-Kleid",
+      "EUes": "vestido de país nórdico",
+      "USes": "vestido de país nórdico",
+      "EUfr": "robe scandinave",
+      "USfr": "robe scandinave",
+      "EUit": "vestito da paese nordico",
+      "EUnl": "bunad-jurk",
+      "CNzh": "雪国洋装",
+      "TWzh": "雪國洋裝",
+      "JPja": "さむいくにのドレス",
+      "KRko": "추운 나라 드레스",
+      "EUru": "женский бюнад"
+    }
+  },
+  {
+    "id": 490,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mariachi clothing",
+      "EUen": "mariachi clothing",
+      "EUde": "Mariachi-Outfit",
+      "EUes": "traje de mariachi",
+      "USes": "traje de mariachi",
+      "EUfr": "tenue de mariachi",
+      "USfr": "tenue de mariachi",
+      "EUit": "completo da mariachi",
+      "EUnl": "mariachipak",
+      "CNzh": "墨西哥街头乐队装",
+      "TWzh": "墨西哥街頭樂隊服裝",
+      "JPja": "マリアッチのいしょう",
+      "KRko": "악단 의상",
+      "EUru": "костюм мариачи"
+    }
+  },
+  {
+    "id": 491,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "marble-print dress",
+      "EUen": "marble-print dress",
+      "EUde": "Murmelkleid",
+      "EUes": "vestido olas marinas",
+      "USes": "vestido olas marinas",
+      "EUfr": "robe marbrée",
+      "USfr": "robe marbrée",
+      "EUit": "vestito marmorizzato",
+      "EUnl": "jurk met marmerprint",
+      "CNzh": "大理石纹连身裙",
+      "TWzh": "大理石紋連身裙",
+      "JPja": "マーブルワンピース",
+      "KRko": "마블 원피스",
+      "EUru": "платье с узором «Мрамор»"
+    }
+  },
+  {
+    "id": 492,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shell dress",
+      "EUen": "shell dress",
+      "EUde": "Muschelkleid",
+      "EUes": "vestido conchas",
+      "USes": "vestido perfume de mar",
+      "EUfr": "robe coquillages",
+      "USfr": "robe coquillages",
+      "EUit": "vestito profumo di mare",
+      "EUnl": "watervaljurk",
+      "CNzh": "贝壳洋装",
+      "TWzh": "貝殼洋裝",
+      "JPja": "かいがらのドレス",
+      "KRko": "조개 드레스",
+      "EUru": "платье с ракушками"
+    }
+  },
+  {
+    "id": 500,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "long chenille cardigan",
+      "EUen": "long chenille cardigan",
+      "EUde": "Chenille-Strickjacke",
+      "EUes": "cárdigan de punto largo",
+      "USes": "cárdigan de chenilla largo",
+      "EUfr": "gilet long en chenille",
+      "USfr": "gilet long en chenille",
+      "EUit": "cardigan lungo di ciniglia",
+      "EUnl": "lange chenille vest",
+      "CNzh": "长款提花针织罩衫",
+      "TWzh": "長版雪尼爾針織罩衫",
+      "JPja": "モールロングカーディガン",
+      "KRko": "모직 롱 가디건",
+      "EUru": "кофта из шенили"
+    }
+  },
+  {
+    "id": 512,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweet dress",
+      "EUen": "sweet dress",
+      "EUde": "Engelskleid",
+      "EUes": "vestido adorable",
+      "USes": "vestido adorable",
+      "EUfr": "robe angélique",
+      "USfr": "robe angélique",
+      "EUit": "vestito dolce",
+      "EUnl": "schattige jurk",
+      "CNzh": "天使连身裙",
+      "TWzh": "天使連身裙",
+      "JPja": "エンジェルなワンピース",
+      "KRko": "천사 원피스",
+      "EUru": "ангельское платье"
+    }
+  },
+  {
+    "id": 514,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "impish costume",
+      "EUen": "impish costume",
+      "EUde": "Koboldkostüm",
+      "EUes": "disfraz de demonio",
+      "USes": "disfraz de demonio",
+      "EUfr": "costume de diablotin",
+      "USfr": "costume de diablotin",
+      "EUit": "costume birichino",
+      "EUnl": "duveltjespak",
+      "CNzh": "恶魔装",
+      "TWzh": "惡魔服",
+      "JPja": "デビルなふく",
+      "KRko": "악마 의상",
+      "EUru": "костюм бесенка"
+    }
+  },
+  {
+    "id": 525,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped maxi dress",
+      "EUen": "striped maxi dress",
+      "EUde": "Streifenmaxikleid",
+      "EUes": "vestido largo a rayas",
+      "USes": "vestido largo a rayas",
+      "EUfr": "maxi robe à rayures",
+      "USfr": "maxi robe à rayures",
+      "EUit": "vestito lungo a righe",
+      "EUnl": "gestreepte maxi-jurk",
+      "CNzh": "条纹长连身裙",
+      "TWzh": "條紋連身長裙",
+      "JPja": "ストライプのマキシワンピ",
+      "KRko": "줄무늬 맥시 원피스",
+      "EUru": "платье макси в полоску"
+    }
+  },
+  {
+    "id": 527,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "checkered jumper dress",
+      "EUen": "checkered jumper dress",
+      "EUde": "Pulli-Kleid-Kombi",
+      "EUes": "vestido cuadros con jersey",
+      "USes": "vestido cuadros con suéter",
+      "EUfr": "robe tartan avec pull",
+      "USfr": "robe tartan avec pull",
+      "EUit": "vestito a scacchi con maglia",
+      "EUnl": "geruite jurk met trui",
+      "CNzh": "格纹背心裙",
+      "TWzh": "格紋背心裙",
+      "JPja": "チェックのジャンパースカート",
+      "KRko": "체크무늬 점퍼스커트",
+      "EUru": "платье со свитером"
+    }
+  },
+  {
+    "id": 532,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lacy dress",
+      "EUen": "lacy dress",
+      "EUde": "Spitzenkleid",
+      "EUes": "vestido de tirantes encaje",
+      "USes": "vestido encaje sin mangas",
+      "EUfr": "robe à volants en dentelle",
+      "USfr": "robe à volants en dentelle",
+      "EUit": "vestito di merletto",
+      "EUnl": "kanten jurk",
+      "CNzh": "蕾丝连身裙",
+      "TWzh": "蕾絲連身裙",
+      "JPja": "レースのワンピース",
+      "KRko": "레이스 원피스",
+      "EUru": "кружевное платье"
+    }
+  },
+  {
+    "id": 534,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "clover dress",
+      "EUen": "clover dress",
+      "EUde": "Kleeblattkleid",
+      "EUes": "vestido tréboles",
+      "USes": "vestido tréboles",
+      "EUfr": "robe trèfles",
+      "USfr": "robe trèfles",
+      "EUit": "vestito con quadrifogli",
+      "EUnl": "klavertjesjurk",
+      "CNzh": "幸运草连身裙",
+      "TWzh": "幸運草連身裙",
+      "JPja": "クローバーなワンピース",
+      "KRko": "클로버 원피스",
+      "EUru": "платье с клевером"
+    }
+  },
+  {
+    "id": 546,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "elegant dress",
+      "EUen": "elegant dress",
+      "EUde": "Ballkleid",
+      "EUes": "vestido de damisela",
+      "USes": "vestido de damisela",
+      "EUfr": "robe élégante stricte",
+      "USfr": "robe élégante stricte",
+      "EUit": "vestito elegante",
+      "EUnl": "elegante jurk",
+      "CNzh": "淑女连身裙",
+      "TWzh": "淑女連身裙",
+      "JPja": "しゅくじょなワンピース",
+      "KRko": "우아한 드레스",
+      "EUru": "элегантное платье"
+    }
+  },
+  {
+    "id": 578,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wrestling singlet",
+      "EUen": "wrestling singlet",
+      "EUde": "Ringer-Anzug",
+      "EUes": "maillot de lucha deportiva",
+      "USes": "maillot de lucha deportiva",
+      "EUfr": "combinaison de lutte",
+      "USfr": "combinaison de lutte",
+      "EUit": "tuta da wrestling",
+      "EUnl": "worstelpakje",
+      "CNzh": "摔角手制服",
+      "TWzh": "摔角制服",
+      "JPja": "レスリングのユニフォーム",
+      "KRko": "레슬링 유니폼",
+      "EUru": "трико для борьбы"
+    }
+  },
+  {
+    "id": 582,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeveless silk dress",
+      "EUen": "sleeveless silk dress",
+      "EUde": "Asia-Kleid",
+      "EUes": "vestido de seda sin mangas",
+      "USes": "vestido de seda sin mangas",
+      "EUfr": "qipao sans manches",
+      "USfr": "qipao sans manches",
+      "EUit": "vestito di seta smanicato",
+      "EUnl": "mouwloze zijden jurk",
+      "CNzh": "旗袍",
+      "TWzh": "旗袍",
+      "JPja": "チャイナドレス",
+      "KRko": "차이나 드레스",
+      "EUru": "шелковое платье"
+    }
+  },
+  {
+    "id": 586,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "astro dress",
+      "EUen": "astro dress",
+      "EUde": "Astro-Kleid",
+      "EUes": "vestido corto futurista",
+      "USes": "vestido corto futurista",
+      "EUfr": "robe astro",
+      "USfr": "robe astro",
+      "EUit": "vestito futuristico",
+      "EUnl": "astrojurk",
+      "CNzh": "未来感连身裙",
+      "TWzh": "太空連身裙",
+      "JPja": "スペースワンピース",
+      "KRko": "우주 원피스",
+      "EUru": "космическое платье"
+    }
+  },
+  {
+    "id": 650,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hot-dog costume",
+      "EUen": "hot-dog costume",
+      "EUde": "Hotdogkostüm",
+      "EUes": "disfraz de perrito caliente",
+      "USes": "disfraz de perrito caliente",
+      "EUfr": "costume de hot dog",
+      "USfr": "costume de hot dog",
+      "EUit": "costume hot-dog",
+      "EUnl": "hotdogpak",
+      "CNzh": "热狗装",
+      "TWzh": "熱狗服",
+      "JPja": "ホットドッグなふく",
+      "KRko": "핫도그 의상",
+      "EUru": "костюм «Хот-дог»"
+    }
+  },
+  {
+    "id": 651,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coveralls with arm covers",
+      "EUen": "coveralls with arm covers",
+      "EUde": "Stulpenoverall",
+      "EUes": "mono con protectores",
+      "USes": "overol con protectores",
+      "EUfr": "combinaison de ferme",
+      "USfr": "combinaison de ferme",
+      "EUit": "tuta con maniche rinforzate",
+      "EUnl": "boerenoverall",
+      "CNzh": "附袖套连体工作服",
+      "TWzh": "連身工作服搭袖套",
+      "JPja": "うでカバーつきつなぎ",
+      "KRko": "토시가 있는 작업복",
+      "EUru": "рабочий комбинезон"
+    }
+  },
+  {
+    "id": 695,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stylish jumpsuit",
+      "EUen": "stylish jumpsuit",
+      "EUde": "Hosenanzug",
+      "EUes": "vestido pantalón elegante",
+      "USes": "vestido pantalón elegante",
+      "EUfr": "combinaison élégante",
+      "USfr": "combinaison élégante",
+      "EUit": "tuta elegante",
+      "EUnl": "modieuze jumpsuit",
+      "CNzh": "连身裤",
+      "TWzh": "連身褲",
+      "JPja": "オールインワン",
+      "KRko": "올인원",
+      "EUru": "стильный комбинезон"
+    }
+  },
+  {
+    "id": 703,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "instant-muscles suit",
+      "EUen": "instant-muscles suit",
+      "EUde": "Muskelanzug",
+      "EUes": "disfraz de musculitos",
+      "USes": "traje con músculos",
+      "EUfr": "costume effet gonflette",
+      "USfr": "costume effet gonflette",
+      "EUit": "costume muscoloso",
+      "EUnl": "spierballenpak",
+      "CNzh": "肌肉装",
+      "TWzh": "肌肉裝",
+      "JPja": "マッスルスーツ",
+      "KRko": "근육 슈트",
+      "EUru": "костюм с мышцами"
+    }
+  },
+  {
+    "id": 715,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cyber suit",
+      "EUen": "cyber suit",
+      "EUde": "Cyber-Anzug",
+      "EUes": "cibertraje",
+      "USes": "cibertraje",
+      "EUfr": "cyber combinaison",
+      "USfr": "cyber combinaison",
+      "EUit": "costume cibernetico",
+      "EUnl": "cyberpak",
+      "CNzh": "机械装",
+      "TWzh": "科技裝",
+      "JPja": "サイバースーツ",
+      "KRko": "사이버 슈트",
+      "EUru": "киберкостюм"
+    }
+  },
+  {
+    "id": 716,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "figure-skating dress",
+      "EUen": "figure-skating dress",
+      "EUde": "Eiskunstlaufkleid",
+      "EUes": "vestido patinaje sobre hielo",
+      "USes": "vestido patinaje sobre hielo",
+      "EUfr": "robe de patin à glace",
+      "USfr": "robe de patin à glace",
+      "EUit": "vestito da pattinaggio",
+      "EUnl": "kunstschaatsjurk",
+      "CNzh": "花样滑冰裙",
+      "TWzh": "花式溜冰洋裝",
+      "JPja": "フィギュアのドレス",
+      "KRko": "피겨 드레스",
+      "EUru": "платье фигуристки"
+    }
+  },
+  {
+    "id": 721,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "figure-skating costume",
+      "EUen": "figure-skating costume",
+      "EUde": "Eiskunstlauf-Outfit",
+      "EUes": "traje patinaje sobre hielo",
+      "USes": "traje patinaje sobre hielo",
+      "EUfr": "costume de patin à glace",
+      "USfr": "costume de patin à glace",
+      "EUit": "costume da pattinaggio",
+      "EUnl": "kunstschaatspak",
+      "CNzh": "花样滑冰服",
+      "TWzh": "花式溜冰服裝",
+      "JPja": "フィギュアないしょう",
+      "KRko": "피겨 의상",
+      "EUru": "костюм фигуриста"
+    }
+  },
+  {
+    "id": 739,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "power suit",
+      "EUen": "power suit",
+      "EUde": "Power-Anzug",
+      "EUes": "traje de energía",
+      "USes": "traje de energía",
+      "EUfr": "armure de puissance",
+      "USfr": "armure de puissance",
+      "EUit": "tuta potenziata",
+      "EUnl": "superkrachtpak",
+      "CNzh": "动力装",
+      "TWzh": "動力裝",
+      "JPja": "パワードスーツ",
+      "KRko": "파워 슈트",
+      "EUru": "силовой костюм"
+    }
+  },
+  {
+    "id": 740,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Renaissance dress",
+      "EUen": "Renaissance dress",
+      "EUde": "Renaissance-Kleid",
+      "EUes": "vestido Renacimiento",
+      "USes": "vestido Renacimiento",
+      "EUfr": "robe renaissance",
+      "USfr": "robe renaissance",
+      "EUit": "vestito rinascimentale",
+      "EUnl": "renaissancejurk",
+      "CNzh": "文艺复兴洋装",
+      "TWzh": "文藝復興洋裝",
+      "JPja": "ルネッサンスなドレス",
+      "KRko": "르네상스 드레스",
+      "EUru": "платье эпохи Ренессанса"
+    }
+  },
+  {
+    "id": 747,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cold-country bunad",
+      "EUen": "cold-country bunad",
+      "EUde": "Bunad",
+      "EUes": "traje de país nórdico",
+      "USes": "traje de país nórdico",
+      "EUfr": "tenue scandinave",
+      "USfr": "tenue scandinave",
+      "EUit": "completo da paese nordico",
+      "EUnl": "bunad",
+      "CNzh": "雪国套装",
+      "TWzh": "雪國服",
+      "JPja": "さむいくにのふく",
+      "KRko": "추운 나라 옷",
+      "EUru": "мужской бюнад"
+    }
+  },
+  {
+    "id": 757,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fancy kimono",
+      "EUen": "fancy kimono",
+      "EUde": "Prachtkimono",
+      "EUes": "kimono lujoso",
+      "USes": "kimono lujoso",
+      "EUfr": "kimono d'apparat",
+      "USfr": "kimono d'apparat",
+      "EUit": "kimono alla moda",
+      "EUnl": "elegante kimono",
+      "CNzh": "盛装和服",
+      "TWzh": "盛裝和服",
+      "JPja": "はれぎ",
+      "KRko": "화려한 기모노",
+      "EUru": "праздничное кимоно"
+    }
+  },
+  {
+    "id": 773,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ancient belted robe",
+      "EUen": "ancient belted robe",
+      "EUde": "Herren-Hanfu",
+      "EUes": "atuendo gestión imperial",
+      "USes": "atuendo gestión imperial",
+      "EUfr": "tunique d'homme ancienne",
+      "USfr": "tunique d'homme ancienne",
+      "EUit": "abito imperiale",
+      "EUnl": "oosterse mannenoutfit",
+      "CNzh": "军师服",
+      "TWzh": "軍師服",
+      "JPja": "ぐんしのふく",
+      "KRko": "군사복",
+      "EUru": "древняя роба с поясом"
+    }
+  },
+  {
+    "id": 774,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ancient sashed robe",
+      "EUen": "ancient sashed robe",
+      "EUde": "Damen-Hanfu",
+      "EUes": "vestido gestión imperial",
+      "USes": "vestido gestión imperial",
+      "EUfr": "tunique de femme ancienne",
+      "USfr": "tunique de femme ancienne",
+      "EUit": "veste imperiale",
+      "EUnl": "oosterse vrouwenoutfit",
+      "CNzh": "汉服",
+      "TWzh": "漢服",
+      "JPja": "かんぷく",
+      "KRko": "한푸",
+      "EUru": "древняя роба с кушаком"
+    }
+  },
+  {
+    "id": 788,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "school smock",
+      "EUen": "school smock",
+      "EUde": "Schülerkittel",
+      "EUes": "bata escolar",
+      "USes": "bata escolar",
+      "EUfr": "blouse d'école",
+      "USfr": "blouse d'école",
+      "EUit": "grembiulino scolastico",
+      "EUnl": "schoolkieltje",
+      "CNzh": "学生罩衣",
+      "TWzh": "學校罩衣",
+      "JPja": "スクールスモック",
+      "KRko": "둥근 칼라 버튼 원피스",
+      "EUru": "школьный блузон"
+    }
+  },
+  {
+    "id": 793,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rumba costume",
+      "EUen": "rumba costume",
+      "EUde": "Rumbakostüm",
+      "EUes": "traje de rumba",
+      "USes": "traje de rumba",
+      "EUfr": "costume de rumba",
+      "USfr": "costume de rumba",
+      "EUit": "costume da rumba",
+      "EUnl": "rumbakostuum",
+      "CNzh": "伦巴舞衣",
+      "TWzh": "倫巴服裝",
+      "JPja": "ルンバないしょう",
+      "KRko": "룸바 의상",
+      "EUru": "костюм для румбы"
+    }
+  },
+  {
+    "id": 805,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "baby-chick costume",
+      "EUen": "baby-chick costume",
+      "EUde": "Kükenkostüm",
+      "EUes": "disfraz de pollito",
+      "USes": "disfraz de pollito",
+      "EUfr": "costume de poussin",
+      "USfr": "costume de poussin",
+      "EUit": "costume da pulcino",
+      "EUnl": "kuikenpak",
+      "CNzh": "小鸡装",
+      "TWzh": "小雞服",
+      "JPja": "ひよこなふく",
+      "KRko": "병아리 의상",
+      "EUru": "костюм птенчика"
+    }
+  },
+  {
+    "id": 806,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rumba dress",
+      "EUen": "rumba dress",
+      "EUde": "Rumbakleid",
+      "EUes": "vestido de rumba",
+      "USes": "vestido de rumba",
+      "EUfr": "robe de rumba",
+      "USfr": "robe de rumba",
+      "EUit": "vestito da rumba",
+      "EUnl": "rumbajurk",
+      "CNzh": "伦巴舞裙",
+      "TWzh": "倫巴洋裝",
+      "JPja": "ルンバなドレス",
+      "KRko": "룸바 드레스",
+      "EUru": "платье для румбы"
+    }
+  },
+  {
+    "id": 810,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "suit with stand-up collar",
+      "EUen": "suit with stand-up collar",
+      "EUde": "Stehkragenanzug",
+      "EUes": "traje de cuello mao",
+      "USes": "traje de cuello mao",
+      "EUfr": "costume col mandarin",
+      "USfr": "costume col mandarin",
+      "EUit": "abito con collo alto",
+      "EUnl": "pak met opstaande kraag",
+      "CNzh": "中山装",
+      "TWzh": "中山裝",
+      "JPja": "つめえりスーツ",
+      "KRko": "스탠딩 칼라 정장",
+      "EUru": "костюм со стойкой"
+    }
+  },
+  {
+    "id": 872,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dreamy dress",
+      "EUen": "dreamy dress",
+      "EUde": "Fantasiekleid",
+      "EUes": "vestido fantasía",
+      "USes": "vestido fantasía",
+      "EUfr": "robe joli rêve",
+      "USfr": "robe joli rêve",
+      "EUit": "vestito sognante",
+      "EUnl": "dromerige jurk",
+      "CNzh": "梦幻可爱洋装",
+      "TWzh": "夢幻可愛洋裝",
+      "JPja": "ゆめかわなドレス",
+      "KRko": "아기자기한 드레스",
+      "EUru": "миленькое платье"
+    }
+  },
+  {
+    "id": 873,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flashy kimono",
+      "EUen": "flashy kimono",
+      "EUde": "Prunkkimono",
+      "EUes": "kimono vistoso",
+      "USes": "kimono vistoso",
+      "EUfr": "kimono somptueux",
+      "USfr": "kimono somptueux",
+      "EUit": "kimono appariscente",
+      "EUnl": "opvallende kimono",
+      "CNzh": "华丽和服",
+      "TWzh": "華麗和服",
+      "JPja": "ゴージャスなきもの",
+      "KRko": "투톤 꽃무늬 기모노",
+      "EUru": "яркое кимоно"
+    }
+  },
+  {
+    "id": 874,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "noble dress",
+      "EUen": "noble dress",
+      "EUde": "Adelskleid",
+      "EUes": "vestido nobiliario",
+      "USes": "vestido nobiliario",
+      "EUfr": "robe d'apparat",
+      "USfr": "robe d'apparat",
+      "EUit": "vestito nobile",
+      "EUnl": "aristocratenjurk",
+      "CNzh": "贵族洋装",
+      "TWzh": "貴族洋裝",
+      "JPja": "きぞくのドレス",
+      "KRko": "귀족 드레스",
+      "EUru": "дворянское платье"
+    }
+  },
+  {
+    "id": 875,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stellar jumpsuit",
+      "EUen": "stellar jumpsuit",
+      "EUde": "Disko-Outfit",
+      "EUes": "mono psicodélico",
+      "USes": "overol psicodélico",
+      "EUfr": "combinaison psychédélique",
+      "USfr": "combinaison psychédélique",
+      "EUit": "tuta stellare",
+      "EUnl": "psychedelische jumpsuit",
+      "CNzh": "迷幻连身裤",
+      "TWzh": "迷幻連身工作服",
+      "JPja": "サイケなつなぎ",
+      "KRko": "사이키델릭 점프 수트",
+      "EUru": "дискотечный наряд"
+    }
+  },
+  {
+    "id": 877,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "old commoner's kimono",
+      "EUen": "old commoner's kimono",
+      "EUde": "Schlichtkimono",
+      "EUes": "kimono sencillo antiguo",
+      "USes": "kimono sencillo antiguo",
+      "EUfr": "kimono ordinaire ancien",
+      "USfr": "kimono ordinaire ancien",
+      "EUit": "kimono umile",
+      "EUnl": "ouderwetse gewone kimono",
+      "CNzh": "邻家女孩和服",
+      "TWzh": "鄰家女孩和服",
+      "JPja": "まちむすめのきもの",
+      "KRko": "체크무늬 기모노",
+      "EUru": "обычное кимоно"
+    }
+  },
+  {
+    "id": 889,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tango dress",
+      "EUen": "tango dress",
+      "EUde": "Tangokleid",
+      "EUes": "vestido de tango",
+      "USes": "vestido de tango",
+      "EUfr": "robe de tango",
+      "USfr": "robe de tango",
+      "EUit": "vestito da tango",
+      "EUnl": "tangojurk",
+      "CNzh": "探戈舞裙",
+      "TWzh": "探戈洋裝",
+      "JPja": "タンゴなドレス",
+      "KRko": "탱고 드레스",
+      "EUru": "платье для танго"
+    }
+  },
+  {
+    "id": 891,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flapper dress",
+      "EUen": "flapper dress",
+      "EUde": "Flapper-Kleid",
+      "EUes": "vestido años 20",
+      "USes": "vestido años 20",
+      "EUfr": "robe de garçonne",
+      "USfr": "robe de garçonne",
+      "EUit": "vestito anni '20",
+      "EUnl": "jaren 20-jurk",
+      "CNzh": "新潮女郎洋装",
+      "TWzh": "復古亮片洋裝",
+      "JPja": "フラッパードレス",
+      "KRko": "플래퍼 드레스",
+      "EUru": "платье-чарльстон"
+    }
+  },
+  {
+    "id": 892,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "baji jeogori",
+      "EUen": "baji jeogori",
+      "EUde": "Baji Jeogori",
+      "EUes": "traje coreano",
+      "USes": "traje coreano",
+      "EUfr": "baji jeogori",
+      "USfr": "baji jeogori",
+      "EUit": "vestito coreano maschile",
+      "EUnl": "baji jeogori",
+      "CNzh": "韩服裤",
+      "TWzh": "韓服褲",
+      "JPja": "パジチョゴリ",
+      "KRko": "두루마기 한복",
+      "EUru": "паджи и чогори"
+    }
+  },
+  {
+    "id": 893,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "morning-glory yukata",
+      "EUen": "morning-glory yukata",
+      "EUde": "Prunkwinden-Yukata",
+      "EUes": "yukata campanillas",
+      "USes": "yukata campanillas",
+      "EUfr": "yukata belles-de-jour",
+      "USfr": "yukata belles-de-jour",
+      "EUit": "yukata con campanule",
+      "EUnl": "yukata met dagbloemprint",
+      "CNzh": "牵牛花浴衣",
+      "TWzh": "牽牛花浴衣",
+      "JPja": "あさがおのゆかた",
+      "KRko": "나팔꽃 여름 기모노",
+      "EUru": "юката с цветами ипомеи"
+    }
+  },
+  {
+    "id": 895,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "steampunk costume",
+      "EUen": "steampunk costume",
+      "EUde": "Steampunk-Outfit",
+      "EUes": "traje steampunk",
+      "USes": "traje steampunk",
+      "EUfr": "costume steampunk",
+      "USfr": "costume steampunk",
+      "EUit": "costume steampunk",
+      "EUnl": "steampunkkostuum",
+      "CNzh": "蒸汽朋克装",
+      "TWzh": "蒸汽龐克服",
+      "JPja": "スチームパンクなふく",
+      "KRko": "스팀펑크 옷",
+      "EUru": "костюм «Стимпанк»"
+    }
+  },
+  {
+    "id": 897,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "farmer overalls",
+      "EUen": "farmer overalls",
+      "EUde": "Farmer-Outfit",
+      "EUes": "peto de granja",
+      "USes": "overol de granja",
+      "EUfr": "salopette de ferme",
+      "USfr": "salopette de ferme",
+      "EUit": "completo da agricoltore",
+      "EUnl": "tuinbroek met overhemd",
+      "CNzh": "农场背带裤装",
+      "TWzh": "農場吊帶褲",
+      "JPja": "ファームなオーバーオール",
+      "KRko": "농장 작업복",
+      "EUru": "комбинезон фермера"
+    }
+  },
+  {
+    "id": 898,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ice-hockey uniform",
+      "EUen": "ice-hockey uniform",
+      "EUde": "Eishockey-Outfit",
+      "EUes": "uniforme de hockey",
+      "USes": "uniforme de hockey",
+      "EUfr": "uniforme hockey sur glace",
+      "USfr": "uniforme de hockey",
+      "EUit": "tuta da hockey su ghiaccio",
+      "EUnl": "ijshockeytenue",
+      "CNzh": "冰球制服",
+      "TWzh": "冰球制服",
+      "JPja": "アイスホッケーのユニフォーム",
+      "KRko": "아이스하키 유니폼",
+      "EUru": "форма хоккеиста"
+    }
+  },
+  {
+    "id": 913,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple visiting kimono",
+      "EUen": "simple visiting kimono",
+      "EUde": "Besuchskimono",
+      "EUes": "kimono de visita sencillo",
+      "USes": "kimono de visita sencillo",
+      "EUfr": "kimono de visite",
+      "USfr": "kimono de visite",
+      "EUit": "kimono semplice",
+      "EUnl": "eenvoudige visitekimono",
+      "CNzh": "素色访问和服",
+      "TWzh": "素色社交和服",
+      "JPja": "むじのほうもんぎ",
+      "KRko": "나들이 기모노",
+      "EUru": "визитное кимоно"
+    }
+  },
+  {
+    "id": 914,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "butterfly visiting kimono",
+      "EUen": "butterfly visiting kimono",
+      "EUde": "Schmetterlingskimono",
+      "EUes": "kimono de visita mariposas",
+      "USes": "kimono de visita mariposas",
+      "EUfr": "kimono imprimé papillons",
+      "USfr": "kimono imprimé papillons",
+      "EUit": "kimono con farfalle",
+      "EUnl": "visitekimono met vlinders",
+      "CNzh": "蝴蝶图案访问和服",
+      "TWzh": "蝴蝶結社交和服",
+      "JPja": "ちょうがらのほうもんぎ",
+      "KRko": "나비무늬 나들이 기모노",
+      "EUru": "кимоно с бабочками"
+    }
+  },
+  {
+    "id": 915,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kabuki-actor yukata",
+      "EUen": "kabuki-actor yukata",
+      "EUde": "Kabuki-Yukata",
+      "EUes": "yukata para teatro kabuki",
+      "USes": "yukata para teatro kabuki",
+      "EUfr": "yukata de kabuki",
+      "USfr": "yukata de kabuki",
+      "EUit": "yukata da teatro",
+      "EUnl": "acteurskimono",
+      "CNzh": "歌舞伎浴衣",
+      "TWzh": "歌舞伎浴衣",
+      "JPja": "かぶきなゆかた",
+      "KRko": "가부키 의상",
+      "EUru": "юката актера Кабуки"
+    }
+  },
+  {
+    "id": 943,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "egg-sushi costume",
+      "EUen": "egg-sushi costume",
+      "EUde": "Tamago-Sushi-Kostüm",
+      "EUes": "disfraz sushi de tortilla",
+      "USes": "disfraz sushi de huevo",
+      "EUfr": "costume de sushi à l'œuf",
+      "USfr": "costume de sushi à l'œuf",
+      "EUit": "costume da sushi all'uovo",
+      "EUnl": "eiersushipak",
+      "CNzh": "甜蛋寿司装",
+      "TWzh": "蛋壽司裝",
+      "JPja": "たまごずし",
+      "KRko": "계란 초밥 의상",
+      "EUru": "костюм «Суши с яйцом»"
+    }
+  },
+  {
+    "id": 944,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tuna-sushi costume",
+      "EUen": "tuna-sushi costume",
+      "EUde": "Maguro-Sushi-Kostüm",
+      "EUes": "disfraz sushi de atún",
+      "USes": "disfraz sushi de atún",
+      "EUfr": "costume de sushi au thon",
+      "USfr": "costume de sushi au thon",
+      "EUit": "costume da sushi al tonno",
+      "EUnl": "tonijnsushipak",
+      "CNzh": "鲔鱼寿司装",
+      "TWzh": "鮪魚壽司裝",
+      "JPja": "まぐろずし",
+      "KRko": "참치 초밥 의상",
+      "EUru": "костюм «Суши с тунцом»"
+    }
+  },
+  {
+    "id": 945,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gizzard-shad-sushi costume",
+      "EUen": "gizzard-shad-sushi costume",
+      "EUde": "Kohada-Sushi-Kostüm",
+      "EUes": "disfraz sushi de sábalo",
+      "USes": "disfraz sushi de sábalo",
+      "EUfr": "costume de sushi au hareng",
+      "USfr": "costume de sushi au hareng",
+      "EUit": "costume da sushi all'aringa",
+      "EUnl": "haringsushipak",
+      "CNzh": "海鲫寿司装",
+      "TWzh": "海鯽壽司裝",
+      "JPja": "こはだずし",
+      "KRko": "전어 초밥 의상",
+      "EUru": "костюм «Суши с угрем»"
+    }
+  },
+  {
+    "id": 1004,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flower-print dress",
+      "EUen": "flower-print dress",
+      "EUde": "Blümchenkleid",
+      "EUes": "vestido margarita",
+      "USes": "vestido margarita",
+      "EUfr": "robe marguerite",
+      "USfr": "robe marguerite",
+      "EUit": "vestito con fiore",
+      "EUnl": "jurkje met bloemopdruk",
+      "CNzh": "大花朵图案连身裙",
+      "TWzh": "花朵連身裙",
+      "JPja": "フラワーなワンピース",
+      "KRko": "플라워 원피스",
+      "EUru": "платье с цветком"
+    }
+  },
+  {
+    "id": 1016,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "marble-dots dress",
+      "EUen": "marble-dots dress",
+      "EUde": "Buntpünktchenkleid",
+      "EUes": "vestido topos multicolor",
+      "USes": "vestido a lunares multicolor",
+      "EUfr": "robe à pois arlequin",
+      "USfr": "robe à pois arlequin",
+      "EUit": "vestito a pois colorati",
+      "EUnl": "discostippeljurk",
+      "CNzh": "彩色波点连身裙",
+      "TWzh": "圓點點連身裙",
+      "JPja": "マーブルドットのワンピース",
+      "KRko": "마블 도트 원피스",
+      "EUru": "платье в цветной горох"
+    }
+  },
+  {
+    "id": 1017,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple-dots dress",
+      "EUen": "simple-dots dress",
+      "EUde": "Unipünktchenkleid",
+      "EUes": "vestido topos",
+      "USes": "vestido a lunares",
+      "EUfr": "robe à pois simples",
+      "USfr": "robe à pois simples",
+      "EUit": "vestito a pois semplici",
+      "EUnl": "jurk met stippen",
+      "CNzh": "简约波点连身裙",
+      "TWzh": "簡約點點連身裙",
+      "JPja": "シンプルドットワンピース",
+      "KRko": "심플 도트 원피스",
+      "EUru": "платье в горох"
+    }
+  },
+  {
+    "id": 1018,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hibiscus muumuu",
+      "EUen": "hibiscus muumuu",
+      "EUde": "Hibiskus-Strandkleid",
+      "EUes": "vestido hawaiano hibiscos",
+      "USes": "vestido hawaiano hibiscos",
+      "EUfr": "muumuu hibiscus",
+      "USfr": "muumuu hibiscus",
+      "EUit": "vestito hawaiano ibisco",
+      "EUnl": "hibiscus-muʻumuʻu",
+      "CNzh": "扶桑花夏威夷连身裙",
+      "TWzh": "扶桑花夏威夷連身裙",
+      "JPja": "ハイビスカスのムームー",
+      "KRko": "히비스커스 원피스",
+      "EUru": "муу-муу с гибискусами"
+    }
+  },
+  {
+    "id": 1019,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bold muumuu",
+      "EUen": "bold muumuu",
+      "EUde": "Aloha-Strandkleid",
+      "EUes": "vestido polinesio",
+      "USes": "vestido polinesio",
+      "EUfr": "muumuu aloha",
+      "USfr": "muumuu aloha",
+      "EUit": "vestito hawaiano ardito",
+      "EUnl": "bontgekleurde muʻumuʻu",
+      "CNzh": "波利尼西亚夏威夷连身裙",
+      "TWzh": "玻里尼西亞風夏威夷連身裙",
+      "JPja": "ポリネシアンなムームー",
+      "KRko": "폴리네시안 원피스",
+      "EUru": "цветастое муу-муу"
+    }
+  },
+  {
+    "id": 1039,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple checkered dress",
+      "EUen": "simple checkered dress",
+      "EUde": "Unikarokleid",
+      "EUes": "vestido vichy sencillo",
+      "USes": "vestido a cuadros sencillo",
+      "EUfr": "robe à carreaux simples",
+      "USfr": "robe à carreaux simples",
+      "EUit": "vestito semplice a scacchi",
+      "EUnl": "eenvoudige geruite jurk",
+      "CNzh": "简约格纹连身裙",
+      "TWzh": "簡約格紋連身裙",
+      "JPja": "シンプルチェックのワンピ",
+      "KRko": "심플한 체크 원피스",
+      "EUru": "простое платье в клетку"
+    }
+  },
+  {
+    "id": 1048,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lively plaid dress",
+      "EUen": "lively plaid dress",
+      "EUde": "Grellkaro-Kleid",
+      "EUes": "vestido tartán vivaz",
+      "USes": "vestido escocés vivaz",
+      "EUfr": "robe écossaise acidulée",
+      "USfr": "robe écossaise acidulée",
+      "EUit": "vestito tartan vivace",
+      "EUnl": "vrolijke plaidjurk",
+      "CNzh": "活泼格子连身裙",
+      "TWzh": "活潑格紋連身裙",
+      "JPja": "げんきなチェックのワンピ",
+      "KRko": "발랄한 튜닉 원피스",
+      "EUru": "яркое платье в клетку"
+    }
+  },
+  {
+    "id": 1064,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kandoora",
+      "EUen": "kandoora",
+      "EUde": "Kandura",
+      "EUes": "kandura",
+      "USes": "kandura",
+      "EUfr": "gandoura",
+      "USfr": "gandoura",
+      "EUit": "dishdasha",
+      "EUnl": "kaftan",
+      "CNzh": "阿拉伯大袍",
+      "TWzh": "阿拉伯傳統服裝",
+      "JPja": "カンデューラ",
+      "KRko": "칸두라",
+      "EUru": "дишдаша"
+    }
+  },
+  {
+    "id": 1084,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "junihitoe kimono",
+      "EUen": "junihitoe kimono",
+      "EUde": "Hofkimono",
+      "EUes": "kimono junihitoe",
+      "USes": "kimono junihitoe",
+      "EUfr": "kimono junihitoe",
+      "USfr": "kimono junihitoe",
+      "EUit": "kimono junihitoe",
+      "EUnl": "twaalflagige kimono",
+      "CNzh": "十二单和服",
+      "TWzh": "十二單和服",
+      "JPja": "じゅうにひとえ",
+      "KRko": "궁정 기모노",
+      "EUru": "кимоно дзюни-хитоэ"
+    }
+  },
+  {
+    "id": 1085,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Victorian dress",
+      "EUen": "Victorian dress",
+      "EUde": "Señorita-Kleid",
+      "EUes": "vestido de época",
+      "USes": "vestido de época",
+      "EUfr": "robe victorienne",
+      "USfr": "robe victorienne",
+      "EUit": "abito d'epoca",
+      "EUnl": "saloonjurk",
+      "CNzh": "西班牙少女洋装",
+      "TWzh": "墨西哥少女洋裝",
+      "JPja": "セニョリータなドレス",
+      "KRko": "세뇨리따 드레스",
+      "EUru": "викторианское платье"
+    }
+  },
+  {
+    "id": 1086,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hakama with crest",
+      "EUen": "hakama with crest",
+      "EUde": "Wappen-Hakama",
+      "EUes": "hakama con emblema",
+      "USes": "hakama con emblema",
+      "EUfr": "hakama à emblème",
+      "USfr": "hakama à emblème",
+      "EUit": "hakama con stemma",
+      "EUnl": "hakama met wapen",
+      "CNzh": "带家徽和服袴",
+      "TWzh": "羽織和服褶裙",
+      "JPja": "もんつきはかま",
+      "KRko": "가문 문양 하카마",
+      "EUru": "наряд с хакамой"
+    }
+  },
+  {
+    "id": 1087,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "apple dress",
+      "EUen": "apple dress",
+      "EUde": "Apfelkleid",
+      "EUes": "vestido manzana",
+      "USes": "vestido manzana",
+      "EUfr": "robe pomme",
+      "USfr": "robe pomme",
+      "EUit": "vestito mela",
+      "EUnl": "appeljurk",
+      "CNzh": "苹果服",
+      "TWzh": "蘋果服",
+      "JPja": "リンゴのふく",
+      "KRko": "사과 옷",
+      "EUru": "платье «Яблоко»"
+    }
+  },
+  {
+    "id": 1088,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pear dress",
+      "EUen": "pear dress",
+      "EUde": "Birnenkleid",
+      "EUes": "vestido pera",
+      "USes": "vestido pera",
+      "EUfr": "robe poire",
+      "USfr": "robe poire",
+      "EUit": "vestito pera",
+      "EUnl": "perenjurk",
+      "CNzh": "梨子服",
+      "TWzh": "梨子服",
+      "JPja": "ナシのふく",
+      "KRko": "배 옷",
+      "EUru": "платье «Груша»"
+    }
+  },
+  {
+    "id": 1089,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry dress",
+      "EUen": "cherry dress",
+      "EUde": "Kirschkleid",
+      "EUes": "vestido cerezas",
+      "USes": "vestido cerezas",
+      "EUfr": "robe cerise",
+      "USfr": "robe cerise",
+      "EUit": "vestito ciliegia",
+      "EUnl": "kersenjurk",
+      "CNzh": "樱桃服",
+      "TWzh": "櫻桃服",
+      "JPja": "さくらんぼのふく",
+      "KRko": "체리 옷",
+      "EUru": "платье «Вишня»"
+    }
+  },
+  {
+    "id": 1090,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach dress",
+      "EUen": "peach dress",
+      "EUde": "Pfirsichkleid",
+      "EUes": "vestido melocotón",
+      "USes": "vestido durazno",
+      "EUfr": "robe pêche",
+      "USfr": "robe pêche",
+      "EUit": "vestito pesca",
+      "EUnl": "perzikjurk",
+      "CNzh": "桃子服",
+      "TWzh": "桃子服",
+      "JPja": "モモのふく",
+      "KRko": "복숭아 옷",
+      "EUru": "платье «Персик»"
+    }
+  },
+  {
+    "id": 1128,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Labelle dress",
+      "EUen": "Labelle dress",
+      "EUde": "Samthea-Kleid",
+      "EUes": "vestido Trini",
+      "USes": "vestido Trini",
+      "EUfr": "robe Maria",
+      "USfr": "robe Maria",
+      "EUit": "vestito Bice",
+      "EUnl": "Labelle-jurk",
+      "CNzh": "凯丝的套装",
+      "TWzh": "凱絲連身裙",
+      "JPja": "ケイトのワンピース",
+      "KRko": "케이트의 원피스",
+      "EUru": "платье «Лэйблеск»"
+    }
+  },
+  {
+    "id": 1155,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pajama dress",
+      "EUen": "pajama dress",
+      "EUde": "Pyjamakleid",
+      "EUes": "camisola pijama",
+      "USes": "camisola pijama",
+      "EUfr": "robe pyjama",
+      "USfr": "robe pyjama",
+      "EUit": "vestito pigiama",
+      "EUnl": "pyjamajurk",
+      "CNzh": "睡袍",
+      "TWzh": "睡衣連身裙",
+      "JPja": "パジャマワンピ",
+      "KRko": "파자마 원피스",
+      "EUru": "платье-пижама"
+    }
+  },
+  {
+    "id": 1156,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "visual-punk dress",
+      "EUen": "visual-punk dress",
+      "EUde": "Visual-Kei-Kleid",
+      "EUes": "vestido punk",
+      "USes": "vestido punk",
+      "EUfr": "robe visual kei",
+      "USfr": "robe visual kei",
+      "EUit": "vestito visual kei",
+      "EUnl": "Japanse punkjurk",
+      "CNzh": "视觉系连身裙",
+      "TWzh": "視覺系洋裝",
+      "JPja": "ヴィジュアルけいドレス",
+      "KRko": "고딕풍 드레스",
+      "EUru": "панковское платье"
+    }
+  },
+  {
+    "id": 1157,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bekasab robe",
+      "EUen": "bekasab robe",
+      "EUde": "Bekasab-Gewand",
+      "EUes": "túnica bekasab",
+      "USes": "túnica bekasab",
+      "EUfr": "robe bekasab",
+      "USfr": "robe bekasab",
+      "EUit": "tunica uzbeka",
+      "EUnl": "bekasab",
+      "CNzh": "乌兹别克传统服装",
+      "TWzh": "烏茲別克服",
+      "JPja": "ウズベクなふく",
+      "KRko": "우즈베키스탄풍 옷",
+      "EUru": "чапан"
+    }
+  },
+  {
+    "id": 1158,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "attus robe",
+      "EUen": "attus robe",
+      "EUde": "Attus-Gewand",
+      "EUes": "kimono ainu",
+      "USes": "kimono ainu",
+      "EUfr": "robe attus",
+      "USfr": "robe attus",
+      "EUit": "kimono ainu",
+      "EUnl": "attus",
+      "CNzh": "阿伊努树皮衣",
+      "TWzh": "阿伊努族傳統服裝",
+      "JPja": "アットゥシ",
+      "KRko": "아이누족 옷",
+      "EUru": "халат айнов"
+    }
+  },
+  {
+    "id": 1159,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bingata dress",
+      "EUen": "bingata dress",
+      "EUde": "Bingata-Kleid",
+      "EUes": "kimono bingata",
+      "USes": "kimono bingata",
+      "EUfr": "robe bingata",
+      "USfr": "robe bingata",
+      "EUit": "kimono bingata",
+      "EUnl": "bingatajurk",
+      "CNzh": "红型染服装",
+      "TWzh": "沖繩傳統服裝",
+      "JPja": "びんがたいしょう",
+      "KRko": "빈가타 의상",
+      "EUru": "платье из бингата"
+    }
+  },
+  {
+    "id": 1161,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "painter's coverall",
+      "EUen": "painter's coverall",
+      "EUde": "Maleranzug",
+      "EUes": "mono de trabajo de pintor",
+      "USes": "overol de trabajo de pintor",
+      "EUfr": "combinaison de peintre",
+      "USfr": "combinaison de peintre",
+      "EUit": "tuta da pittore",
+      "EUnl": "schildersoverall",
+      "CNzh": "彩绘连体服",
+      "TWzh": "油漆連身工作服",
+      "JPja": "ペイントつなぎ",
+      "KRko": "페인트 점프 수트",
+      "EUru": "комбинезон маляра"
+    }
+  },
+  {
+    "id": 1204,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "egg party dress",
+      "EUen": "egg party dress",
+      "EUde": "Glücksei-Abendkleid",
+      "EUes": "vestido de fiesta huevo",
+      "USes": "vestido de fiesta huevo",
+      "EUfr": "robe de soirée œuf",
+      "USfr": "robe de soirée œuf",
+      "EUit": "abito uova da sera",
+      "EUnl": "eierfeestjurk",
+      "CNzh": "蛋派对连身裙",
+      "TWzh": "蛋派對連身裙",
+      "JPja": "たまごのパーティーワンピ",
+      "KRko": "달걀 파티 원피스",
+      "EUru": "платье на День зайцев"
+    }
+  },
+  {
+    "id": 1205,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "earth-egg outfit",
+      "EUen": "earth-egg outfit",
+      "EUde": "Erd-Glücksei-Outfit",
+      "EUes": "traje de huevo terrestre",
+      "USes": "traje de huevo terrestre",
+      "EUfr": "tenue œuf terrestre",
+      "USfr": "tenue œuf terrestre",
+      "EUit": "abito a uovo terrestre",
+      "EUnl": "aarde-ei-outfit",
+      "CNzh": "地面蛋衣服",
+      "TWzh": "地面蛋衣服",
+      "JPja": "じめんのたまごのふく",
+      "KRko": "땅 달걀 옷",
+      "EUru": "наряд «Земляное яйцо»"
+    }
+  },
+  {
+    "id": 1206,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "stone-egg outfit",
+      "EUen": "stone-egg outfit",
+      "EUde": "Fels-Glücksei-Outfit",
+      "EUes": "traje de huevo rupestre",
+      "USes": "traje de huevo rupestre",
+      "EUfr": "tenue œuf minéral",
+      "USfr": "tenue œuf minéral",
+      "EUit": "abito a uovo roccioso",
+      "EUnl": "steenei-outfit",
+      "CNzh": "岩石蛋衣服",
+      "TWzh": "岩石蛋衣服",
+      "JPja": "いわのたまごのふく",
+      "KRko": "바위 달걀 옷",
+      "EUru": "наряд «Каменное яйцо»"
+    }
+  },
+  {
+    "id": 1207,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "leaf-egg outfit",
+      "EUen": "leaf-egg outfit",
+      "EUde": "Laub-Glücksei-Outfit",
+      "EUes": "traje de huevo boscoso",
+      "USes": "traje de huevo boscoso",
+      "EUfr": "tenue œuf feuillu",
+      "USfr": "tenue œuf feuillu",
+      "EUit": "abito a uovo frondoso",
+      "EUnl": "bladerei-outfit",
+      "CNzh": "叶子蛋衣服",
+      "TWzh": "葉子蛋衣服",
+      "JPja": "はっぱのたまごのふく",
+      "KRko": "나뭇잎 달걀 옷",
+      "EUru": "наряд «Лиственное яйцо»"
+    }
+  },
+  {
+    "id": 1208,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "wood-egg outfit",
+      "EUen": "wood-egg outfit",
+      "EUde": "Holz-Glücksei-Outfit",
+      "EUes": "traje de huevo leñoso",
+      "USes": "traje de huevo leñoso",
+      "EUfr": "tenue œuf boisé",
+      "USfr": "tenue œuf boisé",
+      "EUit": "abito a uovo boscoso",
+      "EUnl": "houtei-outfit",
+      "CNzh": "森林蛋衣服",
+      "TWzh": "森林蛋衣服",
+      "JPja": "ウッディなたまごのふく",
+      "KRko": "나무 달걀 옷",
+      "EUru": "наряд «Лесное яйцо»"
+    }
+  },
+  {
+    "id": 1209,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "sky-egg outfit",
+      "EUen": "sky-egg outfit",
+      "EUde": "Luft-Glücksei-Outfit",
+      "EUes": "traje de huevo celeste",
+      "USes": "traje de huevo celeste",
+      "EUfr": "tenue œuf aérien",
+      "USfr": "tenue œuf aérien",
+      "EUit": "abito a uovo celeste",
+      "EUnl": "luchtei-outfit",
+      "CNzh": "飞天蛋衣服",
+      "TWzh": "飛天蛋衣服",
+      "JPja": "そらとぶたまごのふく",
+      "KRko": "하늘을 나는 달걀 옷",
+      "EUru": "наряд «Небесное яйцо»"
+    }
+  },
+  {
+    "id": 1210,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "water-egg outfit",
+      "EUen": "water-egg outfit",
+      "EUde": "Wasser-Glücksei-Outfit",
+      "EUes": "traje de huevo acuático",
+      "USes": "traje de huevo acuático",
+      "EUfr": "tenue œuf aquatique",
+      "USfr": "tenue œuf aquatique",
+      "EUit": "abito a uovo acquatico",
+      "EUnl": "waterei-outfit",
+      "CNzh": "鱼儿蛋衣服",
+      "TWzh": "魚兒蛋衣服",
+      "JPja": "サカナのたまごのふく",
+      "KRko": "물고기 달걀 옷",
+      "EUru": "наряд «Водяное яйцо»"
+    }
+  },
+  {
+    "id": 1219,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "wedding tuxedo",
+      "EUen": "wedding tuxedo",
+      "EUde": "Hochzeits-Smoking",
+      "EUes": "esmoquin nupcial",
+      "USes": "esmoquin nupcial",
+      "EUfr": "smoking de mariage",
+      "USfr": "habit de mariage",
+      "EUit": "smoking nuziale",
+      "EUnl": "trouwsmoking",
+      "CNzh": "纯白晚礼服",
+      "TWzh": "純白晚禮服",
+      "JPja": "じゅんぱくのタキシード",
+      "KRko": "순백 턱시도",
+      "EUru": "свадебный смокинг"
+    }
+  }
+]

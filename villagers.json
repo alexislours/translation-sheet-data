@@ -1,0 +1,7942 @@
+[
+  {
+    "id": "ant00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cyrano",
+      "EUen": "Cyrano",
+      "EUde": "Theo",
+      "EUes": "Cirano",
+      "USes": "Cirano",
+      "EUfr": "Cyrano",
+      "USfr": "Cyrano",
+      "EUit": "Cirano",
+      "EUnl": "Cyrano",
+      "CNzh": "阳明",
+      "TWzh": "陽明",
+      "JPja": "さくらじま",
+      "KRko": "사지마",
+      "EUru": "Сирано"
+    }
+  },
+  {
+    "id": "ant01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Antonio",
+      "EUen": "Antonio",
+      "EUde": "Siggi",
+      "EUes": "Antonio",
+      "USes": "Antonio",
+      "EUfr": "Antonio",
+      "USfr": "Antonio",
+      "EUit": "Antonio",
+      "EUnl": "Antonio",
+      "CNzh": "阿诚",
+      "TWzh": "阿誠",
+      "JPja": "マコト",
+      "KRko": "퍼머거",
+      "EUru": "Антонио"
+    }
+  },
+  {
+    "id": "ant02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pango",
+      "EUen": "Pango",
+      "EUde": "Mathilda",
+      "EUes": "Aspidora",
+      "USes": "Aspidora",
+      "EUfr": "Mathilda",
+      "USfr": "Mathilda",
+      "EUit": "Carlotta",
+      "EUnl": "Pango",
+      "CNzh": "佩希",
+      "TWzh": "佩希",
+      "JPja": "パトラ",
+      "KRko": "패트라",
+      "EUru": "Панго"
+    }
+  },
+  {
+    "id": "ant03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Anabelle",
+      "EUen": "Anabelle",
+      "EUde": "Annabell",
+      "EUes": "Anabel",
+      "USes": "Anabel",
+      "EUfr": "Anabelle",
+      "USfr": "Anabelle",
+      "EUit": "Annalisa",
+      "EUnl": "Anabelle",
+      "CNzh": "有美",
+      "TWzh": "有美",
+      "JPja": "あるみ",
+      "KRko": "아롱이",
+      "EUru": "Анабель"
+    }
+  },
+  {
+    "id": "ant06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Snooty",
+      "EUen": "Snooty",
+      "EUde": "Hilde",
+      "EUes": "Rosanari",
+      "USes": "Rosanari",
+      "EUfr": "Tarina",
+      "USfr": "Tarina",
+      "EUit": "Lucrezia",
+      "EUnl": "Snooty",
+      "CNzh": "贵妃",
+      "TWzh": "貴妃",
+      "JPja": "こまち",
+      "KRko": "스누티",
+      "EUru": "Снути"
+    }
+  },
+  {
+    "id": "ant08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Annalisa",
+      "EUen": "Annalisa",
+      "EUde": "Annalena",
+      "EUes": "Alba",
+      "USes": "Alba",
+      "EUfr": "Roberta",
+      "USfr": "Roberta",
+      "EUit": "Anita",
+      "EUnl": "Annalisa",
+      "CNzh": "小雅",
+      "TWzh": "小雅",
+      "JPja": "みやび",
+      "KRko": "설백",
+      "EUru": "Аннализа"
+    }
+  },
+  {
+    "id": "ant09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Olaf",
+      "EUen": "Olaf",
+      "EUde": "Olaf",
+      "EUes": "Olaf",
+      "USes": "Olaf",
+      "EUfr": "Blair",
+      "USfr": "Blair",
+      "EUit": "Ettore",
+      "EUnl": "Olaf",
+      "CNzh": "安东尼",
+      "TWzh": "安東尼",
+      "JPja": "アントニオ",
+      "KRko": "안토니오",
+      "EUru": "Олаф"
+    }
+  },
+  {
+    "id": "bea00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Teddy",
+      "EUen": "Teddy",
+      "EUde": "Torsten",
+      "EUes": "Teddy",
+      "USes": "Teddy",
+      "EUfr": "Teddy",
+      "USfr": "Teddy",
+      "EUit": "Teddy",
+      "EUnl": "Teddy",
+      "CNzh": "太平",
+      "TWzh": "太平",
+      "JPja": "たいへいた",
+      "KRko": "병태",
+      "EUru": "Тедди"
+    }
+  },
+  {
+    "id": "bea01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pinky",
+      "EUen": "Pinky",
+      "EUde": "Pia",
+      "EUes": "Violeta",
+      "USes": "Violeta",
+      "EUfr": "Rosine",
+      "USfr": "Rosine",
+      "EUit": "Pinky",
+      "EUnl": "Pinky",
+      "CNzh": "丹丹",
+      "TWzh": "丹丹",
+      "JPja": "タンタン",
+      "KRko": "링링",
+      "EUru": "Пинки"
+    }
+  },
+  {
+    "id": "bea02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Curt",
+      "EUen": "Curt",
+      "EUde": "Kurt",
+      "EUes": "Gorbaché",
+      "USes": "Gorbaché",
+      "EUfr": "Curt",
+      "USfr": "Curt",
+      "EUit": "Curt",
+      "EUnl": "Curt",
+      "CNzh": "铁熊",
+      "TWzh": "鐵熊",
+      "JPja": "ガンテツ",
+      "KRko": "뚝심",
+      "EUru": "Керт"
+    }
+  },
+  {
+    "id": "bea03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chow",
+      "EUen": "Chow",
+      "EUde": "Chang",
+      "EUes": "Pando",
+      "USes": "Pando",
+      "EUfr": "Chulin",
+      "USfr": "Chulin",
+      "EUit": "Chowchow",
+      "EUnl": "Chow",
+      "CNzh": "朝阳",
+      "TWzh": "朝陽",
+      "JPja": "チャウヤン",
+      "KRko": "츄양",
+      "EUru": "Чау"
+    }
+  },
+  {
+    "id": "bea05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nate",
+      "EUen": "Nate",
+      "EUde": "Nathan",
+      "EUes": "Nachete",
+      "USes": "Nachete",
+      "EUfr": "Nathan",
+      "USfr": "Nathan",
+      "EUit": "Gianni",
+      "EUnl": "Nate",
+      "CNzh": "巴克思",
+      "TWzh": "巴克思",
+      "JPja": "バッカス",
+      "KRko": "박하스",
+      "EUru": "Нэйт"
+    }
+  },
+  {
+    "id": "bea06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Groucho",
+      "EUen": "Groucho",
+      "EUde": "Ernst",
+      "EUes": "Groucho",
+      "USes": "Groucho",
+      "EUfr": "Ronchon",
+      "USfr": "Ronchon",
+      "EUit": "Groucho",
+      "EUnl": "Groucho",
+      "CNzh": "爪爪",
+      "TWzh": "爪爪",
+      "JPja": "クロー",
+      "KRko": "거무틱",
+      "EUru": "Граучо"
+    }
+  },
+  {
+    "id": "bea07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tutu",
+      "EUen": "Tutu",
+      "EUde": "Mandy",
+      "EUes": "Tutú",
+      "USes": "Tutú",
+      "EUfr": "Tutu",
+      "USfr": "Tutu",
+      "EUit": "Lola",
+      "EUnl": "Tutu",
+      "CNzh": "恋恋",
+      "TWzh": "戀戀",
+      "JPja": "れんにゅう",
+      "KRko": "연유",
+      "EUru": "Туту"
+    }
+  },
+  {
+    "id": "bea08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ursala",
+      "EUen": "Ursala",
+      "EUde": "Ursula",
+      "EUes": "Úrsula",
+      "USes": "Úrsula",
+      "EUfr": "Oursula",
+      "USfr": "Oursula",
+      "EUit": "Ursula",
+      "EUnl": "Ursala",
+      "CNzh": "妮雅",
+      "TWzh": "妮雅",
+      "JPja": "ネーヤ",
+      "KRko": "네이아",
+      "EUru": "Урсала"
+    }
+  },
+  {
+    "id": "bea09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Grizzly",
+      "EUen": "Grizzly",
+      "EUde": "Gerald",
+      "EUes": "Gruñón",
+      "USes": "Gruñón",
+      "EUfr": "Grizzly",
+      "USfr": "Grizzly",
+      "EUit": "Grizzly",
+      "EUnl": "Grizzly",
+      "CNzh": "穆穆",
+      "TWzh": "穆穆",
+      "JPja": "ムー",
+      "KRko": "무뚝",
+      "EUru": "Гризли"
+    }
+  },
+  {
+    "id": "bea10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Paula",
+      "EUen": "Paula",
+      "EUde": "Paula",
+      "EUes": "Lizi",
+      "USes": "Lizi",
+      "EUfr": "Wendy",
+      "USfr": "Wendy",
+      "EUit": "Bruna",
+      "EUnl": "Paula",
+      "CNzh": "瑞秋",
+      "TWzh": "瑞秋",
+      "JPja": "レイチェル",
+      "KRko": "레이첼",
+      "EUru": "Паула"
+    }
+  },
+  {
+    "id": "bea11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ike",
+      "EUen": "Ike",
+      "EUde": "Ike",
+      "EUes": "Astillas",
+      "USes": "Astillas",
+      "EUfr": "Isaac",
+      "USfr": "Isaac",
+      "EUit": "Ortensio",
+      "EUnl": "Ike",
+      "CNzh": "大功",
+      "TWzh": "大功",
+      "JPja": "ダイク",
+      "KRko": "대공",
+      "EUru": "Айк"
+    }
+  },
+  {
+    "id": "bea12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Charlise",
+      "EUen": "Charlise",
+      "EUde": "Tabea",
+      "EUes": "Charo",
+      "USes": "Charo",
+      "EUfr": "Zabou",
+      "USfr": "Zabou",
+      "EUit": "Orsola",
+      "EUnl": "Charlise",
+      "CNzh": "恰咪",
+      "TWzh": "恰咪",
+      "JPja": "チャーミー",
+      "KRko": "챠미",
+      "EUru": "Шарлиз"
+    }
+  },
+  {
+    "id": "bea13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Beardo",
+      "EUen": "Beardo",
+      "EUde": "Berthold",
+      "EUes": "Bernabé",
+      "USes": "Bernabé",
+      "EUfr": "Eustache",
+      "USfr": "Eustache",
+      "EUit": "Barnaba",
+      "EUnl": "Beardo",
+      "CNzh": "熊大叔",
+      "TWzh": "熊大叔",
+      "JPja": "ベアード",
+      "KRko": "베어드",
+      "EUru": "Беардо"
+    }
+  },
+  {
+    "id": "bea14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Klaus",
+      "EUen": "Klaus",
+      "EUde": "Grischa",
+      "EUes": "Gruñerto",
+      "USes": "Gruñerto",
+      "EUfr": "Klaus",
+      "USfr": "Klaus",
+      "EUit": "Maciste",
+      "EUnl": "Klaus",
+      "CNzh": "熊战士",
+      "TWzh": "熊戰士",
+      "JPja": "クマロス",
+      "KRko": "곰도로스",
+      "EUru": "Клаус"
+    }
+  },
+  {
+    "id": "bea15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Megan",
+      "EUen": "Megan",
+      "EUde": "Dagmar",
+      "EUes": "Carmela",
+      "USes": "Carmela",
+      "EUfr": "Candy",
+      "USfr": "Candy",
+      "EUit": "Dolcinia",
+      "EUnl": "Megan",
+      "CNzh": "糖果",
+      "TWzh": "糖果",
+      "JPja": "キャンディ",
+      "KRko": "캔디",
+      "EUru": "Меган"
+    }
+  },
+  {
+    "id": "brd00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jay",
+      "EUen": "Jay",
+      "EUde": "Jan",
+      "EUes": "Jota",
+      "USes": "Jairo",
+      "EUfr": "Gérard",
+      "USfr": "Gérard",
+      "EUit": "Jet",
+      "EUnl": "Jay",
+      "CNzh": "阿燕",
+      "TWzh": "阿燕",
+      "JPja": "ツバクロ",
+      "KRko": "참돌이",
+      "EUru": "Джей"
+    }
+  },
+  {
+    "id": "brd01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Robin",
+      "EUen": "Robin",
+      "EUde": "Jule",
+      "EUes": "Aria",
+      "USes": "Aria",
+      "EUfr": "Robie",
+      "USfr": "Robie",
+      "EUit": "Rossana",
+      "EUnl": "Robin",
+      "CNzh": "喳喳",
+      "TWzh": "喳喳",
+      "JPja": "パーチク",
+      "KRko": "파틱",
+      "EUru": "Робин"
+    }
+  },
+  {
+    "id": "brd02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Anchovy",
+      "EUen": "Anchovy",
+      "EUde": "Armin",
+      "EUes": "Boquerón",
+      "USes": "Boquerón",
+      "EUfr": "Miguel",
+      "USfr": "Miguel",
+      "EUit": "Acciuga",
+      "EUnl": "Anchovy",
+      "CNzh": "凤尾",
+      "TWzh": "鳳尾",
+      "JPja": "アンチョビ",
+      "KRko": "안쵸비",
+      "EUru": "Анчоуи"
+    }
+  },
+  {
+    "id": "brd03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Twiggy",
+      "EUen": "Twiggy",
+      "EUde": "Twiggy",
+      "EUes": "Tití",
+      "USes": "Tití",
+      "EUfr": "Titi",
+      "USfr": "Titi",
+      "EUit": "Titti",
+      "EUnl": "Twiggy",
+      "CNzh": "叽叽",
+      "TWzh": "嘰嘰",
+      "JPja": "ピーチク",
+      "KRko": "핀틱",
+      "EUru": "Твигги"
+    }
+  },
+  {
+    "id": "brd04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jitters",
+      "EUen": "Jitters",
+      "EUde": "Alex",
+      "EUes": "Camelio",
+      "USes": "Camelio",
+      "EUfr": "Gilbert",
+      "USfr": "Gilbert",
+      "EUit": "Brivido",
+      "EUnl": "Jitters",
+      "CNzh": "纪诺",
+      "TWzh": "紀諾",
+      "JPja": "ジーニョ",
+      "KRko": "딩요",
+      "EUru": "Джиттерс"
+    }
+  },
+  {
+    "id": "brd05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Piper",
+      "EUen": "Piper",
+      "EUde": "Iris",
+      "EUes": "Bárbara",
+      "USes": "Bárbara",
+      "EUfr": "Neige",
+      "USfr": "Neige",
+      "EUit": "Giuliva",
+      "EUnl": "Piper",
+      "CNzh": "丽婷",
+      "TWzh": "麗婷",
+      "JPja": "レイコ",
+      "KRko": "파이프",
+      "EUru": "Пайпер"
+    }
+  },
+  {
+    "id": "brd06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Admiral",
+      "EUen": "Admiral",
+      "EUde": "Ansgar",
+      "EUes": "Avutardo",
+      "USes": "Avutardo",
+      "EUfr": "Maréchal",
+      "USfr": "Maréchal",
+      "EUit": "Adolfo",
+      "EUnl": "Admiral",
+      "CNzh": "李彻",
+      "TWzh": "李徹",
+      "JPja": "イッテツ",
+      "KRko": "일섭",
+      "EUru": "Адмирал"
+    }
+  },
+  {
+    "id": "brd08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Midge",
+      "EUen": "Midge",
+      "EUde": "Anna",
+      "EUes": "Paloma",
+      "USes": "Paloma",
+      "EUfr": "Michèle",
+      "USfr": "Michèle",
+      "EUit": "Minù",
+      "EUnl": "Midge",
+      "CNzh": "小酒窝",
+      "TWzh": "小酒窩",
+      "JPja": "うずまき",
+      "KRko": "핑글이",
+      "EUru": "Мидж"
+    }
+  },
+  {
+    "id": "brd11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jacob",
+      "EUen": "Jakey",
+      "EUde": "Jesko",
+      "EUes": "Repollo",
+      "USes": "Repollo",
+      "EUfr": "Jacob",
+      "USfr": "Jacob",
+      "EUit": "Valerio",
+      "EUnl": "Jacob",
+      "CNzh": "余板",
+      "TWzh": "余板",
+      "JPja": "ジャコテン",
+      "KRko": "야곱",
+      "EUru": "Джейкоб"
+    }
+  },
+  {
+    "id": "brd15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lucha",
+      "EUen": "Lucha",
+      "EUde": "Lukas",
+      "EUes": "Plumerio",
+      "USes": "Plumerio",
+      "EUfr": "Condor",
+      "USfr": "Condor",
+      "EUit": "Loreto",
+      "EUnl": "Lucha",
+      "CNzh": "摔角鸦",
+      "TWzh": "摔角鴉",
+      "JPja": "マスカラス",
+      "KRko": "마스카라스",
+      "EUru": "Луча"
+    }
+  },
+  {
+    "id": "brd16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jacques",
+      "EUen": "Jacques",
+      "EUde": "Pierre",
+      "EUes": "Gorrelmo",
+      "USes": "Gorrelmo",
+      "EUfr": "Jacky",
+      "USfr": "Jacky",
+      "EUit": "Zampiero",
+      "EUnl": "Jacques",
+      "CNzh": "赵奇",
+      "TWzh": "趙奇",
+      "JPja": "ジョッキー",
+      "KRko": "쪼끼",
+      "EUru": "Жак"
+    }
+  },
+  {
+    "id": "brd17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Peck",
+      "EUen": "Peck",
+      "EUde": "Picko",
+      "EUes": "Picuet",
+      "USes": "Picuet",
+      "EUfr": "Pec",
+      "USfr": "Pec",
+      "EUit": "Gheppio",
+      "EUnl": "Peck",
+      "CNzh": "文雄",
+      "TWzh": "文雄",
+      "JPja": "ふみたろう",
+      "KRko": "문대",
+      "EUru": "Пек"
+    }
+  },
+  {
+    "id": "brd18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sparro",
+      "EUen": "Sparro",
+      "EUde": "Nestor",
+      "EUes": "Jaime",
+      "USes": "Jaime",
+      "EUfr": "Darius",
+      "USfr": "Darius",
+      "EUit": "Piumardo",
+      "EUnl": "Sparro",
+      "CNzh": "周之翔",
+      "TWzh": "周之翔",
+      "JPja": "ちゅんのすけ",
+      "KRko": "춘섭",
+      "EUru": "Спарро"
+    }
+  },
+  {
+    "id": "bul00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Angus",
+      "EUen": "Angus",
+      "EUde": "Angus",
+      "EUes": "Aliste",
+      "USes": "Aliste",
+      "EUfr": "Angus",
+      "USfr": "Angus",
+      "EUit": "Angus",
+      "EUnl": "Angus",
+      "CNzh": "施万德",
+      "TWzh": "施萬德",
+      "JPja": "セルバンテス",
+      "KRko": "반데스",
+      "EUru": "Ангус"
+    }
+  },
+  {
+    "id": "bul01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rodeo",
+      "EUen": "Rodeo",
+      "EUde": "Toro",
+      "EUes": "Rodeo",
+      "USes": "Rodeo",
+      "EUfr": "Flèche",
+      "USfr": "Flèche",
+      "EUit": "Rodeo",
+      "EUnl": "Rodeo",
+      "CNzh": "罗迪欧",
+      "TWzh": "羅迪歐",
+      "JPja": "ロデオ",
+      "KRko": "로데오",
+      "EUru": "Родео"
+    }
+  },
+  {
+    "id": "bul03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Stu",
+      "EUen": "Stu",
+      "EUde": "Carlos",
+      "EUes": "Vitorino",
+      "USes": "Vitorino",
+      "EUfr": "Beubeu",
+      "USfr": "Beubeu",
+      "EUit": "Carlos",
+      "EUnl": "Stu",
+      "CNzh": "毛乐时",
+      "TWzh": "毛樂時",
+      "JPja": "モーリス",
+      "KRko": "모리스",
+      "EUru": "Стью"
+    }
+  },
+  {
+    "id": "bul05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "T-Bone",
+      "EUen": "T-Bone",
+      "EUde": "Marius",
+      "EUes": "Bovi",
+      "USes": "Bovi",
+      "EUfr": "Steakos",
+      "USfr": "Steakos",
+      "EUit": "Victor",
+      "EUnl": "T-Bone",
+      "CNzh": "罗宋",
+      "TWzh": "羅宋",
+      "JPja": "ボルシチ",
+      "KRko": "티본",
+      "EUru": "Ти-Боун"
+    }
+  },
+  {
+    "id": "bul07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Coach",
+      "EUen": "Coach",
+      "EUde": "Arnold",
+      "EUes": "Cacho",
+      "USes": "Cacho",
+      "EUfr": "Arnold",
+      "USfr": "Arnold",
+      "EUit": "Ercole",
+      "EUnl": "Coach",
+      "CNzh": "大常",
+      "TWzh": "大常",
+      "JPja": "テッチャン",
+      "KRko": "철소",
+      "EUru": "Коуч"
+    }
+  },
+  {
+    "id": "bul08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Vic",
+      "EUen": "Vic",
+      "EUde": "Klaus",
+      "EUes": "Artorito",
+      "USes": "Artorito",
+      "EUfr": "Toto",
+      "USfr": "Toto",
+      "EUit": "Paco",
+      "EUnl": "Vic",
+      "CNzh": "卢尔曼",
+      "TWzh": "盧爾曼",
+      "JPja": "ノルマン",
+      "KRko": "노르망",
+      "EUru": "Вик"
+    }
+  },
+  {
+    "id": "cat00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bob",
+      "EUen": "Bob",
+      "EUde": "Jens",
+      "EUes": "Arándano",
+      "USes": "Arándano",
+      "EUfr": "Robert",
+      "USfr": "Robert",
+      "EUit": "Bob",
+      "EUnl": "Bob",
+      "CNzh": "阿判",
+      "TWzh": "阿判",
+      "JPja": "ニコバン",
+      "KRko": "히죽",
+      "EUru": "Боб"
+    }
+  },
+  {
+    "id": "cat01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mitzi",
+      "EUen": "Mitzi",
+      "EUde": "Miezi",
+      "EUes": "Misi",
+      "USes": "Misi",
+      "EUfr": "Mistigri",
+      "USfr": "Mistigri",
+      "EUit": "Zampetta",
+      "EUnl": "Mitzi",
+      "CNzh": "圆圆",
+      "TWzh": "圓圓",
+      "JPja": "マール",
+      "KRko": "마르",
+      "EUru": "Митци"
+    }
+  },
+  {
+    "id": "cat02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rosie",
+      "EUen": "Rosie",
+      "EUde": "Sophie",
+      "EUes": "Minina",
+      "USes": "Minina",
+      "EUfr": "Rosie",
+      "USfr": "Rosie",
+      "EUit": "Grinfia",
+      "EUnl": "Rosie",
+      "CNzh": "彭花",
+      "TWzh": "彭花",
+      "JPja": "ブーケ",
+      "KRko": "부케",
+      "EUru": "Рози"
+    }
+  },
+  {
+    "id": "cat03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Olivia",
+      "EUen": "Olivia",
+      "EUde": "Bianca",
+      "EUes": "Olivia",
+      "USes": "Olivia",
+      "EUfr": "Olivia",
+      "USfr": "Olivia",
+      "EUit": "Micina",
+      "EUnl": "Olivia",
+      "CNzh": "奥莉",
+      "TWzh": "奧莉",
+      "JPja": "オリビア",
+      "KRko": "올리비아",
+      "EUru": "Оливия"
+    }
+  },
+  {
+    "id": "cat04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kiki",
+      "EUen": "Kiki",
+      "EUde": "Kiki",
+      "EUes": "Ágata",
+      "USes": "Ágata",
+      "EUfr": "Kiki",
+      "USfr": "Kiki",
+      "EUit": "Kiki",
+      "EUnl": "Kiki",
+      "CNzh": "余子酱",
+      "TWzh": "余子醬",
+      "JPja": "キャビア",
+      "KRko": "캐비어",
+      "EUru": "Кики"
+    }
+  },
+  {
+    "id": "cat05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tangy",
+      "EUen": "Tangy",
+      "EUde": "Tanja",
+      "EUes": "Tricia",
+      "USes": "Tricia",
+      "EUfr": "Marine",
+      "USfr": "Marine",
+      "EUit": "Arancina",
+      "EUnl": "Tangy",
+      "CNzh": "纯纯",
+      "TWzh": "純純",
+      "JPja": "ヒャクパー",
+      "KRko": "백프로",
+      "EUru": "Тэнджи"
+    }
+  },
+  {
+    "id": "cat06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Punchy",
+      "EUen": "Punchy",
+      "EUde": "Julian",
+      "EUes": "Félix",
+      "USes": "Félix",
+      "EUfr": "Cédric",
+      "USfr": "Cédric",
+      "EUit": "Felix",
+      "EUnl": "Punchy",
+      "CNzh": "尔光",
+      "TWzh": "爾光",
+      "JPja": "ビンタ",
+      "KRko": "빙티",
+      "EUru": "Панчи"
+    }
+  },
+  {
+    "id": "cat07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Purrl",
+      "EUen": "Purrl",
+      "EUde": "Franka",
+      "EUes": "Wanda",
+      "USes": "Wanda",
+      "EUfr": "Perle",
+      "USfr": "Perle",
+      "EUit": "Felidia",
+      "EUnl": "Purrl",
+      "CNzh": "小玉",
+      "TWzh": "小玉",
+      "JPja": "たま",
+      "KRko": "타마",
+      "EUru": "Перл"
+    }
+  },
+  {
+    "id": "cat08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Moe",
+      "EUen": "Moe",
+      "EUde": "Tristan",
+      "EUes": "Tristán",
+      "USes": "Tristán",
+      "EUfr": "Momo",
+      "USfr": "Momo",
+      "EUit": "Moe",
+      "EUnl": "Moe",
+      "CNzh": "仁平",
+      "TWzh": "仁平",
+      "JPja": "ジンペイ",
+      "KRko": "진상",
+      "EUru": "Моэ"
+    }
+  },
+  {
+    "id": "cat09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kabuki",
+      "EUen": "Kabuki",
+      "EUde": "Kabuki",
+      "EUes": "Kabuki",
+      "USes": "Kabuki",
+      "EUfr": "Kabuki",
+      "USfr": "Kabuki",
+      "EUit": "Kabuki",
+      "EUnl": "Kabuki",
+      "CNzh": "戈伍纪",
+      "TWzh": "戈伍紀",
+      "JPja": "かぶきち",
+      "KRko": "가북희",
+      "EUru": "Кабуки"
+    }
+  },
+  {
+    "id": "cat10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kid Cat",
+      "EUen": "Kid Cat",
+      "EUde": "Pit",
+      "EUes": "Gatomán",
+      "USes": "Gatomán",
+      "EUfr": "Câlin",
+      "USfr": "Câlin",
+      "EUit": "Zampa",
+      "EUnl": "Kid Cat",
+      "CNzh": "阿一",
+      "TWzh": "阿一",
+      "JPja": "１ごう",
+      "KRko": "1호",
+      "EUru": "Кид Кэт"
+    }
+  },
+  {
+    "id": "cat11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Monique",
+      "EUen": "Monique",
+      "EUde": "Monique",
+      "EUes": "Monique",
+      "USes": "Monique",
+      "EUfr": "Monique",
+      "USfr": "Monique",
+      "EUit": "Marylin",
+      "EUnl": "Monique",
+      "CNzh": "珍珍",
+      "TWzh": "珍珍",
+      "JPja": "ジェーン",
+      "KRko": "제인",
+      "EUru": "Моник"
+    }
+  },
+  {
+    "id": "cat12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tabby",
+      "EUen": "Tabby",
+      "EUde": "Zita",
+      "EUes": "Liana",
+      "USes": "Liana",
+      "EUfr": "Tigri",
+      "USfr": "Tigri",
+      "EUit": "Lisca",
+      "EUnl": "Tabby",
+      "CNzh": "小虎",
+      "TWzh": "小虎",
+      "JPja": "トラこ",
+      "KRko": "호냥이",
+      "EUru": "Тэбби"
+    }
+  },
+  {
+    "id": "cat13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Stinky",
+      "EUen": "Stinky",
+      "EUde": "Stefan",
+      "EUes": "Micifuz",
+      "USes": "Micifuz",
+      "EUfr": "Tupux",
+      "USfr": "Tupux",
+      "EUit": "Puzzolo",
+      "EUnl": "Stinky",
+      "CNzh": "男子汗",
+      "TWzh": "男子汗",
+      "JPja": "アセクサ",
+      "KRko": "땀띠",
+      "EUru": "Стинки"
+    }
+  },
+  {
+    "id": "cat14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kitty",
+      "EUen": "Kitty",
+      "EUde": "Karen",
+      "EUes": "Kasandra",
+      "USes": "Kasandra",
+      "EUfr": "Kitty",
+      "USfr": "Kitty",
+      "EUit": "Ester",
+      "EUnl": "Kitty",
+      "CNzh": "朱古莉",
+      "TWzh": "朱古莉",
+      "JPja": "ショコラ",
+      "KRko": "쇼콜라",
+      "EUru": "Китти"
+    }
+  },
+  {
+    "id": "cat15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tom",
+      "EUen": "Tom",
+      "EUde": "Timo",
+      "EUes": "Zapirón",
+      "USes": "Zapirón",
+      "EUfr": "Tom",
+      "USfr": "Tom",
+      "EUit": "Isidoro",
+      "EUnl": "Tom",
+      "CNzh": "阿邦",
+      "TWzh": "阿邦",
+      "JPja": "バンタム",
+      "KRko": "밴덤",
+      "EUru": "Том"
+    }
+  },
+  {
+    "id": "cat16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Merry",
+      "EUen": "Merry",
+      "EUde": "Mischka",
+      "EUes": "Susi",
+      "USes": "Susi",
+      "EUfr": "Suzy",
+      "USfr": "Suzy",
+      "EUit": "Katy",
+      "EUnl": "Merry",
+      "CNzh": "莎莎",
+      "TWzh": "莎莎",
+      "JPja": "さっち",
+      "KRko": "유네찌",
+      "EUru": "Мерри"
+    }
+  },
+  {
+    "id": "cat17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Felicity",
+      "EUen": "Felicity",
+      "EUde": "Minka",
+      "EUes": "Micha",
+      "USes": "Micha",
+      "EUfr": "Maud",
+      "USfr": "Maud",
+      "EUit": "Milly",
+      "EUnl": "Felicity",
+      "CNzh": "美佳",
+      "TWzh": "美佳",
+      "JPja": "みかっち",
+      "KRko": "예링",
+      "EUru": "Фелисити"
+    }
+  },
+  {
+    "id": "cat18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lolly",
+      "EUen": "Lolly",
+      "EUde": "Feline",
+      "EUes": "Feli",
+      "USes": "Feli",
+      "EUfr": "Linette",
+      "USfr": "Linette",
+      "EUit": "Maty",
+      "EUnl": "Lolly",
+      "CNzh": "柠檬娜",
+      "TWzh": "檸檬娜",
+      "JPja": "ラムネ",
+      "KRko": "사이다",
+      "EUru": "Лолли"
+    }
+  },
+  {
+    "id": "cat19",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ankha",
+      "EUen": "Ankha",
+      "EUde": "Kleo",
+      "EUes": "Patri",
+      "USes": "Patri",
+      "EUfr": "Neferti",
+      "USfr": "Neferti",
+      "EUit": "Cleo",
+      "EUnl": "Ankha",
+      "CNzh": "艳后",
+      "TWzh": "艷后",
+      "JPja": "ナイル",
+      "KRko": "클레오",
+      "EUru": "Анка"
+    }
+  },
+  {
+    "id": "cat20",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rudy",
+      "EUen": "Rudy",
+      "EUde": "Heinz",
+      "EUes": "Rufino",
+      "USes": "Rufino",
+      "EUfr": "Rougepif",
+      "USfr": "Rougepif",
+      "EUit": "Gomitolo",
+      "EUnl": "Rudy",
+      "CNzh": "茶茶",
+      "TWzh": "茶茶",
+      "JPja": "チャス",
+      "KRko": "찰스",
+      "EUru": "Руди"
+    }
+  },
+  {
+    "id": "cat21",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Katt",
+      "EUen": "Katt",
+      "EUde": "Janine",
+      "EUes": "Melina",
+      "USes": "Melina",
+      "EUfr": "Kat",
+      "USfr": "Kat",
+      "EUit": "Ofelia",
+      "EUnl": "Katt",
+      "CNzh": "巧巧",
+      "TWzh": "巧巧",
+      "JPja": "ちょい",
+      "KRko": "쵸이",
+      "EUru": "Кэт"
+    }
+  },
+  {
+    "id": "cat23",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Raymond",
+      "EUen": "Raymond",
+      "EUde": "Gunnar",
+      "EUes": "Narciso",
+      "USes": "Narciso",
+      "EUfr": "Raymond",
+      "USfr": "Raymond",
+      "EUit": "Raimondo",
+      "EUnl": "Raymond",
+      "CNzh": "杰克",
+      "TWzh": "傑克",
+      "JPja": "ジャック",
+      "KRko": "잭슨",
+      "EUru": "Реймонд"
+    }
+  },
+  {
+    "id": "cbr00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bluebear",
+      "EUen": "Bluebear",
+      "EUde": "Birte",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Myrtille",
+      "USfr": "Myrtille",
+      "EUit": "Azzurra",
+      "EUnl": "Bluebear",
+      "CNzh": "娃娃",
+      "TWzh": "娃娃",
+      "JPja": "グルミン",
+      "KRko": "글루민",
+      "EUru": "Блюбеар"
+    }
+  },
+  {
+    "id": "cbr01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Maple",
+      "EUen": "Maple",
+      "EUde": "Mona",
+      "EUes": "Dulce",
+      "USes": "Dulce",
+      "EUfr": "Léa",
+      "USfr": "Léa",
+      "EUit": "Dulcinea",
+      "EUnl": "Maple",
+      "CNzh": "小枫",
+      "TWzh": "小楓",
+      "JPja": "メープル",
+      "KRko": "메이첼",
+      "EUru": "Мейпл"
+    }
+  },
+  {
+    "id": "cbr02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Poncho",
+      "EUen": "Poncho",
+      "EUde": "Toni",
+      "EUes": "Poncho",
+      "USes": "Poncho",
+      "EUfr": "Théo",
+      "USfr": "Théo",
+      "EUit": "Poncho",
+      "EUnl": "Poncho",
+      "CNzh": "蓬蓬",
+      "TWzh": "蓬蓬",
+      "JPja": "ポンチョ",
+      "KRko": "봉추",
+      "EUru": "Пончо"
+    }
+  },
+  {
+    "id": "cbr03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pudge",
+      "EUen": "Pudge",
+      "EUde": "Bertram",
+      "EUes": "Bollito",
+      "USes": "Bollito",
+      "EUfr": "Gradub",
+      "USfr": "Gradub",
+      "EUit": "Tombolo",
+      "EUnl": "Pudge",
+      "CNzh": "阿钦",
+      "TWzh": "阿欽",
+      "JPja": "きんぞう",
+      "KRko": "우띠",
+      "EUru": "Падж"
+    }
+  },
+  {
+    "id": "cbr04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kody",
+      "EUen": "Kody",
+      "EUde": "Bernd",
+      "EUes": "Orestes",
+      "USes": "Orestes",
+      "EUfr": "Bill",
+      "USfr": "Bill",
+      "EUit": "Salomone",
+      "EUnl": "Kody",
+      "CNzh": "艾德豪",
+      "TWzh": "艾德豪",
+      "JPja": "アイダホ",
+      "KRko": "아이다호",
+      "EUru": "Коди"
+    }
+  },
+  {
+    "id": "cbr05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Stitches",
+      "EUen": "Stitches",
+      "EUde": "Berry",
+      "EUes": "Parches",
+      "USes": "Parches",
+      "EUfr": "Miro",
+      "USfr": "Miro",
+      "EUit": "Toppetta",
+      "EUnl": "Stitches",
+      "CNzh": "玩具熊",
+      "TWzh": "玩具熊",
+      "JPja": "パッチ",
+      "KRko": "패치",
+      "EUru": "Стичес"
+    }
+  },
+  {
+    "id": "cbr06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Vladimir",
+      "EUen": "Vladimir",
+      "EUde": "Vladimir",
+      "EUes": "Vladimir",
+      "USes": "Vladimir",
+      "EUfr": "Vladimir",
+      "USfr": "Vladimir",
+      "EUit": "Vladimir",
+      "EUnl": "Vladimir",
+      "CNzh": "嘉弼",
+      "TWzh": "嘉弼",
+      "JPja": "ガビ",
+      "KRko": "곰비",
+      "EUru": "Владимир"
+    }
+  },
+  {
+    "id": "cbr07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Murphy",
+      "EUen": "Murphy",
+      "EUde": "Michael",
+      "EUes": "Orsón",
+      "USes": "Orsón",
+      "EUfr": "Eddie",
+      "USfr": "Eddie",
+      "EUit": "Marcello",
+      "EUnl": "Murphy",
+      "CNzh": "宪雄",
+      "TWzh": "憲雄",
+      "JPja": "のりお",
+      "KRko": "머피",
+      "EUru": "Мерфи"
+    }
+  },
+  {
+    "id": "cbr09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Olive",
+      "EUen": "Olive",
+      "EUde": "Linda",
+      "EUes": "Osalina",
+      "USes": "Osalina",
+      "EUfr": "Grisa",
+      "USfr": "Grisa",
+      "EUit": "Olivia",
+      "EUnl": "Olive",
+      "CNzh": "毕克萝",
+      "TWzh": "畢克蘿",
+      "JPja": "ピッコロ",
+      "KRko": "올리브",
+      "EUru": "Олив"
+    }
+  },
+  {
+    "id": "cbr10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cheri",
+      "EUen": "Cheri",
+      "EUde": "Claudia",
+      "EUes": "Cerecita",
+      "USes": "Cerecita",
+      "EUfr": "Rosalie",
+      "USfr": "Rosalie",
+      "EUit": "Bonbon",
+      "EUnl": "Cheri",
+      "CNzh": "樱桃",
+      "TWzh": "櫻桃",
+      "JPja": "アセロラ",
+      "KRko": "아세로라",
+      "EUru": "Шери"
+    }
+  },
+  {
+    "id": "cbr13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "June",
+      "EUen": "June",
+      "EUde": "Juna",
+      "EUes": "Hanalulú",
+      "USes": "Hanalulú",
+      "EUfr": "Agnès",
+      "USfr": "Agnès",
+      "EUit": "June",
+      "EUnl": "June",
+      "CNzh": "阿妹",
+      "TWzh": "阿妹",
+      "JPja": "メイ",
+      "KRko": "메이",
+      "EUru": "Джун"
+    }
+  },
+  {
+    "id": "cbr14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pekoe",
+      "EUen": "Pekoe",
+      "EUde": "Sandrine",
+      "EUes": "Vera",
+      "USes": "Vera",
+      "EUfr": "Pauline",
+      "USfr": "Pauline",
+      "EUit": "Mina",
+      "EUnl": "Pekoe",
+      "CNzh": "佳敏",
+      "TWzh": "佳敏",
+      "JPja": "ジャスミン",
+      "KRko": "재스민",
+      "EUru": "Пеко"
+    }
+  },
+  {
+    "id": "cbr15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chester",
+      "EUen": "Chester",
+      "EUde": "Eduard",
+      "EUes": "Osunio",
+      "USes": "Osunio",
+      "EUfr": "Placide",
+      "USfr": "Placide",
+      "EUit": "Clemente",
+      "EUnl": "Chester",
+      "CNzh": "胖达",
+      "TWzh": "胖達",
+      "JPja": "パンタ",
+      "KRko": "팬타",
+      "EUru": "Честер"
+    }
+  },
+  {
+    "id": "cbr16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Barold",
+      "EUen": "Barold",
+      "EUde": "Hubert",
+      "EUes": "Plácido",
+      "USes": "Plácido",
+      "EUfr": "Manu",
+      "USfr": "Manu",
+      "EUit": "Placido",
+      "EUnl": "Barold",
+      "CNzh": "阿西",
+      "TWzh": "阿西",
+      "JPja": "ニッシー",
+      "KRko": "곰시",
+      "EUru": "Барольд"
+    }
+  },
+  {
+    "id": "cbr17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tammy",
+      "EUen": "Tammy",
+      "EUde": "Tatjana",
+      "EUes": "Aída",
+      "USes": "Aída",
+      "EUfr": "Vanessa",
+      "USfr": "Vanessa",
+      "EUit": "Tamara",
+      "EUnl": "Tammy",
+      "CNzh": "然姐",
+      "TWzh": "然姐",
+      "JPja": "アネッサ",
+      "KRko": "아네사",
+      "EUru": "Тамми"
+    }
+  },
+  {
+    "id": "cbr18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Marty",
+      "EUen": "Marty",
+      "EUde": "Marty",
+      "EUes": "Marty",
+      "USes": "Marty",
+      "EUfr": "Marty",
+      "USfr": "Marty",
+      "EUit": "Marty",
+      "EUnl": "Marty",
+      "CNzh": "玛丁",
+      "TWzh": "瑪丁",
+      "JPja": "マーティー",
+      "KRko": "마티",
+      "EUru": "Марти"
+    }
+  },
+  {
+    "id": "cbr19",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Judy",
+      "EUen": "Judy",
+      "EUde": "Misuzu",
+      "EUes": "Rosezna",
+      "USes": "Rosezna",
+      "EUfr": "Laura",
+      "USfr": "Laura",
+      "EUit": "Misuzu",
+      "EUnl": "Judy",
+      "CNzh": "美玲",
+      "TWzh": "美玲",
+      "JPja": "みすず",
+      "KRko": "미애",
+      "EUru": "Джуди"
+    }
+  },
+  {
+    "id": "chn00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Goose",
+      "EUen": "Goose",
+      "EUde": "Konrad",
+      "EUes": "Gus",
+      "USes": "Gus",
+      "EUfr": "Pouli",
+      "USfr": "Pouli",
+      "EUit": "Chiricò",
+      "EUnl": "Goose",
+      "CNzh": "肯肯",
+      "TWzh": "肯肯",
+      "JPja": "ケンタ",
+      "KRko": "건태",
+      "EUru": "Гус"
+    }
+  },
+  {
+    "id": "chn01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Benedict",
+      "EUen": "Benedict",
+      "EUde": "Benedikt",
+      "EUes": "Benito",
+      "USes": "Benito",
+      "EUfr": "Dimitri",
+      "USfr": "Dimitri",
+      "EUit": "Biagio",
+      "EUnl": "Benedict",
+      "CNzh": "沛希",
+      "TWzh": "沛希",
+      "JPja": "ぺしみち",
+      "KRko": "페니실린",
+      "EUru": "Бенедикт"
+    }
+  },
+  {
+    "id": "chn02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Egbert",
+      "EUen": "Egbert",
+      "EUde": "Waldemar",
+      "EUes": "Norberto",
+      "USes": "Norberto",
+      "EUfr": "Herbert",
+      "USfr": "Herbert",
+      "EUit": "Chicco",
+      "EUnl": "Egbert",
+      "CNzh": "黄金鸡",
+      "TWzh": "黃金雞",
+      "JPja": "しもやけ",
+      "KRko": "김희",
+      "EUru": "Эгберт"
+    }
+  },
+  {
+    "id": "chn05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ava",
+      "EUen": "Ava",
+      "EUde": "Gisela",
+      "EUes": "Ava",
+      "USes": "Ava",
+      "EUfr": "Eva",
+      "USfr": "Eva",
+      "EUit": "Ava",
+      "EUnl": "Ava",
+      "CNzh": "陶米咕",
+      "TWzh": "陶米咕",
+      "JPja": "ドミグラ",
+      "KRko": "에바",
+      "EUru": "Ава"
+    }
+  },
+  {
+    "id": "chn09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Becky",
+      "EUen": "Becky",
+      "EUde": "Inga",
+      "EUes": "Ramina",
+      "USes": "Ramina",
+      "EUfr": "Sonya",
+      "USfr": "Sonya",
+      "EUit": "Annetta",
+      "EUnl": "Becky",
+      "CNzh": "咏旋",
+      "TWzh": "詠旋",
+      "JPja": "アリア",
+      "KRko": "아리아",
+      "EUru": "Бекки"
+    }
+  },
+  {
+    "id": "chn10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Plucky",
+      "EUen": "Plucky",
+      "EUde": "Mareile",
+      "EUes": "Herminia",
+      "USes": "Herminia",
+      "EUfr": "Poulette",
+      "USfr": "Poulette",
+      "EUit": "Cocca",
+      "EUnl": "Plucky",
+      "CNzh": "帕塔雅",
+      "TWzh": "帕塔雅",
+      "JPja": "パタヤ",
+      "KRko": "파타야",
+      "EUru": "Плаки"
+    }
+  },
+  {
+    "id": "chn11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Knox",
+      "EUen": "Knox",
+      "EUde": "Tschiwi",
+      "EUes": "Tono",
+      "USes": "Tono",
+      "EUfr": "Wolfram",
+      "USfr": "Wolfram",
+      "EUit": "Kalin",
+      "EUnl": "Knox",
+      "CNzh": "金阁",
+      "TWzh": "金閣",
+      "JPja": "キンカク",
+      "KRko": "금끼오",
+      "EUru": "Нокс"
+    }
+  },
+  {
+    "id": "chn12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Broffina",
+      "EUen": "Broffina",
+      "EUde": "Elfriede",
+      "EUes": "Brunilda",
+      "USes": "Brunilda",
+      "EUfr": "Jo",
+      "USfr": "Jo",
+      "EUit": "Concetta",
+      "EUnl": "Broffina",
+      "CNzh": "凯西",
+      "TWzh": "凱西",
+      "JPja": "カサンドラ",
+      "KRko": "히킨",
+      "EUru": "Броффина"
+    }
+  },
+  {
+    "id": "chn13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ken",
+      "EUen": "Ken",
+      "EUde": "Hannes",
+      "EUes": "Pichón",
+      "USes": "Pichón",
+      "EUfr": "Ken",
+      "USfr": "Ken",
+      "EUit": "Aligalli",
+      "EUnl": "Ken",
+      "CNzh": "乌骨鸡",
+      "TWzh": "烏骨雞",
+      "JPja": "クロベエ",
+      "KRko": "오골",
+      "EUru": "Кен"
+    }
+  },
+  {
+    "id": "cow00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Patty",
+      "EUen": "Patty",
+      "EUde": "Patricia",
+      "EUes": "Vacarena",
+      "USes": "Vacarena",
+      "EUfr": "Margaux",
+      "USfr": "Margaux",
+      "EUit": "Patty",
+      "EUnl": "Patty",
+      "CNzh": "阿排",
+      "TWzh": "阿排",
+      "JPja": "カルピ",
+      "KRko": "밀크",
+      "EUru": "Пэтти"
+    }
+  },
+  {
+    "id": "cow01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tipper",
+      "EUen": "Tipper",
+      "EUde": "Angela",
+      "EUes": "Pinta",
+      "USes": "Pinta",
+      "EUfr": "Valé",
+      "USfr": "Valé",
+      "EUit": "Tipper",
+      "EUnl": "Tipper",
+      "CNzh": "牧牧",
+      "TWzh": "牧牧",
+      "JPja": "まきば",
+      "KRko": "마틸다",
+      "EUru": "Типпер"
+    }
+  },
+  {
+    "id": "cow06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Norma",
+      "EUen": "Norma",
+      "EUde": "Nelly",
+      "EUes": "Norma",
+      "USes": "Norma",
+      "EUfr": "Norma",
+      "USfr": "Norma",
+      "EUit": "Norma",
+      "EUnl": "Norma",
+      "CNzh": "晨曦",
+      "TWzh": "晨曦",
+      "JPja": "いさこ",
+      "KRko": "미자",
+      "EUru": "Норма"
+    }
+  },
+  {
+    "id": "cow07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Naomi",
+      "EUen": "Naomi",
+      "EUde": "Jolanda",
+      "EUes": "Regina",
+      "USes": "Regina",
+      "EUfr": "Maiko",
+      "USfr": "Maiko",
+      "EUit": "Melina",
+      "EUnl": "Naomi",
+      "CNzh": "玉兰",
+      "TWzh": "玉蘭",
+      "JPja": "ハナコ",
+      "KRko": "화자",
+      "EUru": "Наоми"
+    }
+  },
+  {
+    "id": "crd00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Alfonso",
+      "EUen": "Alfonso",
+      "EUde": "Markus",
+      "EUes": "Kaimán",
+      "USes": "Kaimán",
+      "EUfr": "Alphonse",
+      "USfr": "Alphonse",
+      "EUit": "Alfonso",
+      "EUnl": "Alfonso",
+      "CNzh": "阿泥",
+      "TWzh": "阿泥",
+      "JPja": "アルベルト",
+      "KRko": "알베르트",
+      "EUru": "Альфонсо"
+    }
+  },
+  {
+    "id": "crd01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Alli",
+      "EUen": "Alli",
+      "EUde": "Ali",
+      "EUes": "Codrila",
+      "USes": "Codrila",
+      "EUfr": "Allie",
+      "USfr": "Allie",
+      "EUit": "Alli",
+      "EUnl": "Alli",
+      "CNzh": "鳄罗思",
+      "TWzh": "鱷羅思",
+      "JPja": "クロコ",
+      "KRko": "크로크",
+      "EUru": "Элли"
+    }
+  },
+  {
+    "id": "crd02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Boots",
+      "EUen": "Boots",
+      "EUde": "Tilmann",
+      "EUes": "Braulio",
+      "USes": "Braulio",
+      "EUfr": "Croko",
+      "USfr": "Croko",
+      "EUit": "Crocco",
+      "EUnl": "Boots",
+      "CNzh": "丰年",
+      "TWzh": "豐年",
+      "JPja": "ホウサク",
+      "KRko": "풍작",
+      "EUru": "Бутс"
+    }
+  },
+  {
+    "id": "crd04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Del",
+      "EUen": "Del",
+      "EUde": "Krokki",
+      "EUes": "Croco",
+      "USes": "Croco",
+      "EUfr": "Hector",
+      "USfr": "Hector",
+      "EUit": "Krokki",
+      "EUnl": "Del",
+      "CNzh": "大和",
+      "TWzh": "大和",
+      "JPja": "ヤマト",
+      "KRko": "파도맨",
+      "EUru": "Дел"
+    }
+  },
+  {
+    "id": "crd06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sly",
+      "EUen": "Sly",
+      "EUde": "Steve",
+      "EUes": "Estallón",
+      "USes": "Estallón",
+      "EUfr": "Chuck",
+      "USfr": "Chuck",
+      "EUit": "Driberto",
+      "EUnl": "Sly",
+      "CNzh": "海德",
+      "TWzh": "海德",
+      "JPja": "ハイド",
+      "KRko": "하이드",
+      "EUru": "Слай"
+    }
+  },
+  {
+    "id": "crd07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gayle",
+      "EUen": "Gayle",
+      "EUde": "Rosa",
+      "EUes": "Boni",
+      "USes": "Boni",
+      "EUfr": "Odile",
+      "USfr": "Odile",
+      "EUit": "Codrilla",
+      "EUnl": "Gayle",
+      "CNzh": "爱莉",
+      "TWzh": "愛莉",
+      "JPja": "アリゲッティ",
+      "KRko": "앨리",
+      "EUru": "Гейл"
+    }
+  },
+  {
+    "id": "crd08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Drago",
+      "EUen": "Drago",
+      "EUde": "Frederik",
+      "EUes": "Dragonio",
+      "USes": "Dragonio",
+      "EUfr": "Drago",
+      "USfr": "Drago",
+      "EUit": "Dragonio",
+      "EUnl": "Drago",
+      "CNzh": "阿龙",
+      "TWzh": "阿龍",
+      "JPja": "タツオ",
+      "KRko": "용남이",
+      "EUru": "Драго"
+    }
+  },
+  {
+    "id": "der00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Fauna",
+      "EUen": "Fauna",
+      "EUde": "Fatima",
+      "EUes": "Fauna",
+      "USes": "Fauna",
+      "EUfr": "Bibi",
+      "USfr": "Bibi",
+      "EUit": "Cervina",
+      "EUnl": "Fauna",
+      "CNzh": "音音",
+      "TWzh": "音音",
+      "JPja": "ドレミ",
+      "KRko": "솔미",
+      "EUru": "Фауна"
+    }
+  },
+  {
+    "id": "der01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bam",
+      "EUen": "Bam",
+      "EUde": "Benjamin",
+      "EUes": "Cornelio",
+      "USes": "Cornelio",
+      "EUfr": "Nacer",
+      "USfr": "Nacer",
+      "EUit": "Cornelio",
+      "EUnl": "Bam",
+      "CNzh": "小健",
+      "TWzh": "小健",
+      "JPja": "タケル",
+      "KRko": "록키",
+      "EUru": "Бам"
+    }
+  },
+  {
+    "id": "der02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Zell",
+      "EUen": "Zell",
+      "EUde": "Walter",
+      "EUes": "Corvilo",
+      "USes": "Corvilo",
+      "EUfr": "Régis",
+      "USfr": "Régis",
+      "EUit": "Antilio",
+      "EUnl": "Zell",
+      "CNzh": "森森",
+      "TWzh": "森森",
+      "JPja": "ネルソン",
+      "KRko": "넬슨",
+      "EUru": "Зелл"
+    }
+  },
+  {
+    "id": "der03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bruce",
+      "EUen": "Bruce",
+      "EUde": "Oswald",
+      "EUes": "Aristo",
+      "USes": "Aristo",
+      "EUfr": "Boubou",
+      "USfr": "Boubou",
+      "EUit": "Arturo",
+      "EUnl": "Bruce",
+      "CNzh": "布鹿斯",
+      "TWzh": "布鹿斯",
+      "JPja": "ブルース",
+      "KRko": "브루스",
+      "EUru": "Брюс"
+    }
+  },
+  {
+    "id": "der04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Deirdre",
+      "EUen": "Deirdre",
+      "EUde": "Dina",
+      "EUes": "Venada",
+      "USes": "Venada",
+      "EUfr": "Bichoune",
+      "USfr": "Bichoune",
+      "EUit": "Daria",
+      "EUnl": "Deirdre",
+      "CNzh": "娣雅",
+      "TWzh": "娣雅",
+      "JPja": "ナディア",
+      "KRko": "나디아",
+      "EUru": "Дейрдре"
+    }
+  },
+  {
+    "id": "der05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lopez",
+      "EUen": "Lopez",
+      "EUde": "Eckart",
+      "EUes": "Agreste",
+      "USes": "Agreste",
+      "EUfr": "Jon",
+      "USfr": "Jon",
+      "EUit": "Lopez",
+      "EUnl": "Lopez",
+      "CNzh": "汤姆",
+      "TWzh": "湯姆",
+      "JPja": "トムソン",
+      "KRko": "톰슨",
+      "EUru": "Лопес"
+    }
+  },
+  {
+    "id": "der06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Fuchsia",
+      "EUen": "Fuchsia",
+      "EUde": "Selina",
+      "EUes": "Rosalina",
+      "USes": "Rosalina",
+      "EUfr": "Rosanne",
+      "USfr": "Rosanne",
+      "EUit": "Fuxia",
+      "EUnl": "Fuchsia",
+      "CNzh": "洁西卡",
+      "TWzh": "潔西卡",
+      "JPja": "ジェシカ",
+      "KRko": "제시카",
+      "EUru": "Фуксия"
+    }
+  },
+  {
+    "id": "der07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Beau",
+      "EUen": "Beau",
+      "EUde": "Martin",
+      "EUes": "Lope",
+      "USes": "Lope",
+      "EUfr": "Stefaon",
+      "USfr": "Stefaon",
+      "EUit": "Gigi",
+      "EUnl": "Beau",
+      "CNzh": "彼得",
+      "TWzh": "彼得",
+      "JPja": "ペーター",
+      "KRko": "피터",
+      "EUru": "Бью"
+    }
+  },
+  {
+    "id": "der08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Diana",
+      "EUen": "Diana",
+      "EUde": "Vroni",
+      "EUes": "Bambina",
+      "USes": "Bambina",
+      "EUfr": "Didi",
+      "USfr": "Didi",
+      "EUit": "Diana",
+      "EUnl": "Diana",
+      "CNzh": "倪家莉",
+      "TWzh": "倪家莉",
+      "JPja": "ナタリー",
+      "KRko": "나탈리",
+      "EUru": "Диана"
+    }
+  },
+  {
+    "id": "der09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Erik",
+      "EUen": "Erik",
+      "EUde": "Erik",
+      "EUes": "Cervasio",
+      "USes": "Cervasio",
+      "EUfr": "Abraham",
+      "USfr": "Abraham",
+      "EUit": "Cervasio",
+      "EUnl": "Erik",
+      "CNzh": "查克",
+      "TWzh": "查克",
+      "JPja": "チャック",
+      "KRko": "자끄",
+      "EUru": "Эрик"
+    }
+  },
+  {
+    "id": "der10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chelsea",
+      "EUen": "Chelsea",
+      "EUde": "Chelsea",
+      "EUes": "Chelsea",
+      "USes": "Chelsea",
+      "EUfr": "Chelsea",
+      "USfr": "Chelsea",
+      "EUit": "Chelsea",
+      "EUnl": "Chelsea",
+      "CNzh": "雀儿喜",
+      "TWzh": "雀兒喜",
+      "JPja": "チェルシー",
+      "KRko": "첼시",
+      "EUru": "Челси"
+    }
+  },
+  {
+    "id": "dog00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Goldie",
+      "EUen": "Goldie",
+      "EUde": "Bienchen",
+      "EUes": "Tere",
+      "USes": "Tere",
+      "EUfr": "Mirza",
+      "USfr": "Mirza",
+      "EUit": "Dora",
+      "EUnl": "Goldie",
+      "CNzh": "牛奶糖",
+      "TWzh": "牛奶糖",
+      "JPja": "キャラメル",
+      "KRko": "카라멜",
+      "EUru": "Голди"
+    }
+  },
+  {
+    "id": "dog01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Butch",
+      "EUen": "Butch",
+      "EUde": "Hasso",
+      "EUes": "Bruno",
+      "USes": "Bruno",
+      "EUfr": "Avril",
+      "USfr": "Avril",
+      "EUit": "Attila",
+      "EUnl": "Butch",
+      "CNzh": "约翰",
+      "TWzh": "約翰",
+      "JPja": "ジョン",
+      "KRko": "존",
+      "EUru": "Бутч"
+    }
+  },
+  {
+    "id": "dog02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lucky",
+      "EUen": "Lucky",
+      "EUde": "Viktor",
+      "EUes": "Pupas",
+      "USes": "Pupas",
+      "EUfr": "Ramsès",
+      "USfr": "Ramsès",
+      "EUit": "Felice",
+      "EUnl": "Lucky",
+      "CNzh": "大吉",
+      "TWzh": "大吉",
+      "JPja": "ラッキー",
+      "KRko": "럭키",
+      "EUru": "Лаки"
+    }
+  },
+  {
+    "id": "dog03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Biskit",
+      "EUen": "Biskit",
+      "EUde": "Keks",
+      "EUes": "Amnesio",
+      "USes": "Amnesio",
+      "EUfr": "Crocket",
+      "USfr": "Crocket",
+      "EUit": "Buffetto",
+      "EUnl": "Biskit",
+      "CNzh": "罗宾",
+      "TWzh": "羅賓",
+      "JPja": "ロビン",
+      "KRko": "로빈",
+      "EUru": "Бискит"
+    }
+  },
+  {
+    "id": "dog04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bones",
+      "EUen": "Bones",
+      "EUde": "Strolch",
+      "EUes": "Cándido",
+      "USes": "Cándido",
+      "EUfr": "Nonos",
+      "USfr": "Nonos",
+      "EUit": "Tobia",
+      "EUnl": "Bones",
+      "CNzh": "阿富",
+      "TWzh": "阿富",
+      "JPja": "トミ",
+      "KRko": "토미",
+      "EUru": "Боунс"
+    }
+  },
+  {
+    "id": "dog05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Portia",
+      "EUen": "Portia",
+      "EUde": "Isolde",
+      "EUes": "Amanda",
+      "USes": "Amanda",
+      "EUfr": "Dalma",
+      "USfr": "Dalma",
+      "EUit": "Porzia",
+      "EUnl": "Portia",
+      "CNzh": "傅兰",
+      "TWzh": "傅蘭",
+      "JPja": "ブレンダ",
+      "KRko": "블랜더",
+      "EUru": "Порция"
+    }
+  },
+  {
+    "id": "dog06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Walker",
+      "EUen": "Walker",
+      "EUde": "Fido",
+      "EUes": "Miki",
+      "USes": "Miki",
+      "EUfr": "George",
+      "USfr": "George",
+      "EUit": "Walter",
+      "EUnl": "Walker",
+      "CNzh": "阿笨",
+      "TWzh": "阿笨",
+      "JPja": "ベン",
+      "KRko": "벤",
+      "EUru": "Уокер"
+    }
+  },
+  {
+    "id": "dog07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Daisy",
+      "EUen": "Daisy",
+      "EUde": "Doris",
+      "EUes": "Luisa",
+      "USes": "Luisa",
+      "EUfr": "Naomie",
+      "USfr": "Naomie",
+      "EUit": "Fiorella",
+      "EUnl": "Daisy",
+      "CNzh": "香草",
+      "TWzh": "香草",
+      "JPja": "バニラ",
+      "KRko": "바닐라",
+      "EUru": "Дейзи"
+    }
+  },
+  {
+    "id": "dog08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cookie",
+      "EUen": "Cookie",
+      "EUde": "Rosi",
+      "EUes": "Purita",
+      "USes": "Purita",
+      "EUfr": "Cookie",
+      "USfr": "Cookie",
+      "EUit": "Briciola",
+      "EUnl": "Cookie",
+      "CNzh": "珮琳",
+      "TWzh": "珮琳",
+      "JPja": "ペリーヌ",
+      "KRko": "베리",
+      "EUru": "Куки"
+    }
+  },
+  {
+    "id": "dog09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Maddie",
+      "EUen": "Maddie",
+      "EUde": "Agnes",
+      "EUes": "Martina",
+      "USes": "Martina",
+      "EUfr": "Olympe",
+      "USfr": "Olympe",
+      "EUit": "Cristina",
+      "EUnl": "Maddie",
+      "CNzh": "麻蓉",
+      "TWzh": "麻蓉",
+      "JPja": "マロン",
+      "KRko": "마롱",
+      "EUru": "Мэдди"
+    }
+  },
+  {
+    "id": "dog10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bea",
+      "EUen": "Bea",
+      "EUde": "Bea",
+      "EUes": "Bea",
+      "USes": "Bea",
+      "EUfr": "Béa",
+      "USfr": "Béa",
+      "EUit": "Cucciola",
+      "EUnl": "Bea",
+      "CNzh": "贝果",
+      "TWzh": "貝果",
+      "JPja": "ベーグル",
+      "KRko": "베이글",
+      "EUru": "Беа"
+    }
+  },
+  {
+    "id": "dog14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mac",
+      "EUen": "Mac",
+      "EUde": "Wuffi",
+      "EUes": "Pit",
+      "USes": "Pit",
+      "EUfr": "Brutus",
+      "USfr": "Brutus",
+      "EUit": "Teo",
+      "EUnl": "Mac",
+      "CNzh": "金牌",
+      "TWzh": "金牌",
+      "JPja": "チャンプ",
+      "KRko": "챔프",
+      "EUru": "Мак"
+    }
+  },
+  {
+    "id": "dog15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Marcel",
+      "EUen": "Marcel",
+      "EUde": "Ronaldo",
+      "EUes": "Eto",
+      "USes": "Eto",
+      "EUfr": "Ismaël",
+      "USfr": "Ismaël",
+      "EUit": "Giosuè",
+      "EUnl": "Marcel",
+      "CNzh": "文字烧",
+      "TWzh": "文字燒",
+      "JPja": "もんじゃ",
+      "KRko": "에드워드",
+      "EUru": "Марсель"
+    }
+  },
+  {
+    "id": "dog16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Benjamin",
+      "EUen": "Benjamin",
+      "EUde": "Wastl",
+      "EUes": "Bernardo",
+      "USes": "Bernardo",
+      "EUfr": "Bernardo",
+      "USfr": "Bernardo",
+      "EUit": "Bernardo",
+      "EUnl": "Benjamin",
+      "CNzh": "小八",
+      "TWzh": "小八",
+      "JPja": "ハチ",
+      "KRko": "땡칠이",
+      "EUru": "Бернардо"
+    }
+  },
+  {
+    "id": "dog17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cherry",
+      "EUen": "Cherry",
+      "EUde": "Bella",
+      "EUes": "Luna",
+      "USes": "Luna",
+      "EUfr": "Anna",
+      "USfr": "Anna",
+      "EUit": "Amarena",
+      "EUnl": "Cherry",
+      "CNzh": "花娜",
+      "TWzh": "花娜",
+      "JPja": "ハンナ",
+      "KRko": "한나",
+      "EUru": "Черри"
+    }
+  },
+  {
+    "id": "dog18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Shep",
+      "EUen": "Shep",
+      "EUde": "Thomas",
+      "EUes": "Fleco",
+      "USes": "Fleco",
+      "EUfr": "Mehdi",
+      "USfr": "Mehdi",
+      "EUit": "Frangino",
+      "EUnl": "Shep",
+      "CNzh": "包伯",
+      "TWzh": "包伯",
+      "JPja": "ボブ",
+      "KRko": "밥",
+      "EUru": "Шеп"
+    }
+  },
+  {
+    "id": "duk00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bill",
+      "EUen": "Bill",
+      "EUde": "Bill",
+      "EUes": "Paquito",
+      "USes": "Paquito",
+      "EUfr": "Choco",
+      "USfr": "Choco",
+      "EUit": "Gino",
+      "EUnl": "Bill",
+      "CNzh": "皮蛋",
+      "TWzh": "皮蛋",
+      "JPja": "ピータン",
+      "KRko": "코코아",
+      "EUru": "Билл"
+    }
+  },
+  {
+    "id": "duk01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Joey",
+      "EUen": "Joey",
+      "EUde": "Kalle",
+      "EUes": "Pascual",
+      "USes": "Pascual",
+      "EUfr": "Joseph",
+      "USfr": "Joseph",
+      "EUit": "Pino",
+      "EUnl": "Joey",
+      "CNzh": "李察",
+      "TWzh": "李察",
+      "JPja": "リチャード",
+      "KRko": "리처드",
+      "EUru": "Джоуи"
+    }
+  },
+  {
+    "id": "duk02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pate",
+      "EUen": "Pate",
+      "EUde": "Daune",
+      "EUes": "Pati",
+      "USes": "Pati",
+      "EUfr": "Terrine",
+      "USfr": "Terrine",
+      "EUit": "Camilla",
+      "EUnl": "Pate",
+      "CNzh": "爱哭鬼",
+      "TWzh": "愛哭鬼",
+      "JPja": "ナッキー",
+      "KRko": "나키",
+      "EUru": "Пэйт"
+    }
+  },
+  {
+    "id": "duk03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Maelle",
+      "EUen": "Maelle",
+      "EUde": "Sissi",
+      "EUes": "Patidifú",
+      "USes": "Patidifú",
+      "EUfr": "Maëlle",
+      "USfr": "Maëlle",
+      "EUit": "Palmita",
+      "EUnl": "Maelle",
+      "CNzh": "安妮",
+      "TWzh": "安妮",
+      "JPja": "アンヌ",
+      "KRko": "앤",
+      "EUru": "Маэль"
+    }
+  },
+  {
+    "id": "duk04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Deena",
+      "EUen": "Deena",
+      "EUde": "Olivia",
+      "EUes": "Martita",
+      "USes": "Martita",
+      "EUfr": "Mina",
+      "USfr": "Mina",
+      "EUit": "Dina",
+      "EUnl": "Deena",
+      "CNzh": "球藻",
+      "TWzh": "毬藻",
+      "JPja": "まりも",
+      "KRko": "마리모",
+      "EUru": "Дина"
+    }
+  },
+  {
+    "id": "duk05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pompom",
+      "EUen": "Pompom",
+      "EUde": "Erika",
+      "EUes": "Flopi",
+      "USes": "Flopi",
+      "EUfr": "Pompon",
+      "USfr": "Pompon",
+      "EUit": "Erica",
+      "EUnl": "Pompom",
+      "CNzh": "海苔裴",
+      "TWzh": "海苔裴",
+      "JPja": "のりっぺ",
+      "KRko": "주디",
+      "EUru": "Помпом"
+    }
+  },
+  {
+    "id": "duk06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mallary",
+      "EUen": "Mallary",
+      "EUde": "Marina",
+      "EUes": "Mirta",
+      "USes": "Mirta",
+      "EUfr": "Mallory",
+      "USfr": "Mallory",
+      "EUit": "Sofia",
+      "EUnl": "Mallary",
+      "CNzh": "苏米",
+      "TWzh": "蘇米",
+      "JPja": "スミモモ",
+      "KRko": "스미모",
+      "EUru": "Мэллари"
+    }
+  },
+  {
+    "id": "duk07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Freckles",
+      "EUen": "Freckles",
+      "EUde": "Quacks",
+      "EUes": "Rebeca",
+      "USes": "Rebeca",
+      "EUfr": "Caro",
+      "USfr": "Caro",
+      "EUit": "Semola",
+      "EUnl": "Freckles",
+      "CNzh": "小鲔",
+      "TWzh": "小鮪",
+      "JPja": "マグロ",
+      "KRko": "다랑어",
+      "EUru": "Фреклс"
+    }
+  },
+  {
+    "id": "duk08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Derwin",
+      "EUen": "Derwin",
+      "EUde": "Erwin",
+      "EUes": "Torcuato",
+      "USes": "Torcuato",
+      "EUfr": "Prof",
+      "USfr": "Prof",
+      "EUit": "Mike",
+      "EUnl": "Derwin",
+      "CNzh": "阿坊",
+      "TWzh": "阿坊",
+      "JPja": "ボン",
+      "KRko": "봉",
+      "EUru": "Дервин"
+    }
+  },
+  {
+    "id": "duk09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Drake",
+      "EUen": "Drake",
+      "EUde": "Gustav",
+      "EUes": "Draco",
+      "USes": "Draco",
+      "EUfr": "Colvert",
+      "USfr": "Colvert",
+      "EUit": "Drago",
+      "EUnl": "Drake",
+      "CNzh": "肥肝",
+      "TWzh": "肥肝",
+      "JPja": "フォアグラ",
+      "KRko": "푸아그라",
+      "EUru": "Дрейк"
+    }
+  },
+  {
+    "id": "duk10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Scoot",
+      "EUen": "Scoot",
+      "EUde": "Helmut",
+      "EUes": "Chema",
+      "USes": "Chema",
+      "EUfr": "Scooter",
+      "USfr": "Scooter",
+      "EUit": "Guizzo",
+      "EUnl": "Scoot",
+      "CNzh": "阿守",
+      "TWzh": "阿守",
+      "JPja": "マモル",
+      "KRko": "지키미",
+      "EUru": "Скут"
+    }
+  },
+  {
+    "id": "duk11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Weber",
+      "EUen": "Weber",
+      "EUde": "Volker",
+      "EUes": "Paticio",
+      "USes": "Paticio",
+      "EUfr": "Bébert",
+      "USfr": "Bébert",
+      "EUit": "Pasquale",
+      "EUnl": "Weber",
+      "CNzh": "卿德",
+      "TWzh": "卿德",
+      "JPja": "アチョット",
+      "KRko": "아잠만",
+      "EUru": "Вебер"
+    }
+  },
+  {
+    "id": "duk12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Miranda",
+      "EUen": "Miranda",
+      "EUde": "Tanya",
+      "EUes": "Miranda",
+      "USes": "Miranda",
+      "EUfr": "Maëllis",
+      "USfr": "Maëllis",
+      "EUit": "Miranda",
+      "EUnl": "Miranda",
+      "CNzh": "米兰达",
+      "TWzh": "米蘭達",
+      "JPja": "ミランダ",
+      "KRko": "미란다",
+      "EUru": "Миранда"
+    }
+  },
+  {
+    "id": "duk13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ketchup",
+      "EUen": "Ketchup",
+      "EUde": "Pullunda",
+      "EUes": "Kétchup",
+      "USes": "Kétchup",
+      "EUfr": "Ketchup",
+      "USfr": "Ketchup",
+      "EUit": "Ketchup",
+      "EUnl": "Ketchup",
+      "CNzh": "番茄酱",
+      "TWzh": "番茄醬",
+      "JPja": "ケチャップ",
+      "KRko": "케첩",
+      "EUru": "Кетчуп"
+    }
+  },
+  {
+    "id": "duk15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gloria",
+      "EUen": "Gloria",
+      "EUde": "Gustavia",
+      "EUes": "Jarrea",
+      "USes": "Jarrea",
+      "EUfr": "Déborah",
+      "USfr": "Déborah",
+      "EUit": "Pappy",
+      "EUnl": "Gloria",
+      "CNzh": "素返真",
+      "TWzh": "素返真",
+      "JPja": "スワンソン",
+      "KRko": "마릴린",
+      "EUru": "Глория"
+    }
+  },
+  {
+    "id": "duk16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Molly",
+      "EUen": "Molly",
+      "EUde": "Monika",
+      "EUes": "Deira",
+      "USes": "Deira",
+      "EUfr": "Molly",
+      "USfr": "Molly",
+      "EUit": "Molly",
+      "EUnl": "Molly",
+      "CNzh": "亚美",
+      "TWzh": "亞美",
+      "JPja": "カモミ",
+      "KRko": "귀오미",
+      "EUru": "Молли"
+    }
+  },
+  {
+    "id": "duk17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Quillson",
+      "EUen": "Quillson",
+      "EUde": "Quentin",
+      "EUes": "Cuálter",
+      "USes": "Cuálter",
+      "EUfr": "Narcisse",
+      "USfr": "Narcisse",
+      "EUit": "Verdonio",
+      "EUnl": "Quillson",
+      "CNzh": "何童",
+      "TWzh": "何童",
+      "JPja": "タックン",
+      "KRko": "덕근",
+      "EUru": "Квилсон"
+    }
+  },
+  {
+    "id": "elp00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Opal",
+      "EUen": "Opal",
+      "EUde": "Olga",
+      "EUes": "Ópalo",
+      "USes": "Ópalo",
+      "EUfr": "Opaline",
+      "USfr": "Opaline",
+      "EUit": "Opal",
+      "EUnl": "Opal",
+      "CNzh": "露露",
+      "TWzh": "露露",
+      "JPja": "オパール",
+      "KRko": "오팔",
+      "EUru": "Опал"
+    }
+  },
+  {
+    "id": "elp01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Dizzy",
+      "EUen": "Dizzy",
+      "EUde": "Bastian",
+      "EUes": "Quique",
+      "USes": "Quique",
+      "EUfr": "Pachy",
+      "USfr": "Pachy",
+      "EUit": "Annibale",
+      "EUnl": "Dizzy",
+      "CNzh": "巨巨",
+      "TWzh": "巨巨",
+      "JPja": "ヒュージ",
+      "KRko": "휴지",
+      "EUru": "Диззи"
+    }
+  },
+  {
+    "id": "elp02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Big Top",
+      "EUen": "Big Top",
+      "EUde": "Benni",
+      "EUes": "Déivid",
+      "USes": "Déivid",
+      "EUfr": "Miles",
+      "USfr": "Miles",
+      "EUit": "Grande C",
+      "EUnl": "Big Top",
+      "CNzh": "阿三",
+      "TWzh": "阿三",
+      "JPja": "３ごう",
+      "KRko": "3호",
+      "EUru": "Биг-Топ"
+    }
+  },
+  {
+    "id": "elp03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Eloise",
+      "EUen": "Eloise",
+      "EUde": "Frauke",
+      "EUes": "Eloísa",
+      "USes": "Eloísa",
+      "EUfr": "Éloïse",
+      "USfr": "Éloïse",
+      "EUit": "Eloisa",
+      "EUnl": "Eloise",
+      "CNzh": "艾勒芬",
+      "TWzh": "艾勒芬",
+      "JPja": "エレフィン",
+      "KRko": "엘레핀",
+      "EUru": "Элоиза"
+    }
+  },
+  {
+    "id": "elp04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Margie",
+      "EUen": "Margie",
+      "EUde": "Elisa",
+      "EUes": "Rita",
+      "USes": "Rita",
+      "EUfr": "Maguy",
+      "USfr": "Maguy",
+      "EUit": "Marianna",
+      "EUnl": "Margie",
+      "CNzh": "莎莉",
+      "TWzh": "莎莉",
+      "JPja": "サリー",
+      "KRko": "샐리",
+      "EUru": "Марджи"
+    }
+  },
+  {
+    "id": "elp05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Paolo",
+      "EUen": "Paolo",
+      "EUde": "Paolo",
+      "EUes": "Paolo",
+      "USes": "Paolo",
+      "EUfr": "Paolo",
+      "USfr": "Paolo",
+      "EUit": "Paolino",
+      "EUnl": "Paolo",
+      "CNzh": "保罗",
+      "TWzh": "保羅",
+      "JPja": "パオロ",
+      "KRko": "파올로",
+      "EUru": "Паоло"
+    }
+  },
+  {
+    "id": "elp06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Axel",
+      "EUen": "Axel",
+      "EUde": "Axel",
+      "EUes": "Eustakio",
+      "USes": "Eustakio",
+      "EUfr": "Axel",
+      "USfr": "Axel",
+      "EUit": "Sandro",
+      "EUnl": "Axel",
+      "CNzh": "大大",
+      "TWzh": "大大",
+      "JPja": "エックスエル",
+      "KRko": "엑스엘리",
+      "EUru": "Аксель"
+    }
+  },
+  {
+    "id": "elp07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ellie",
+      "EUen": "Ellie",
+      "EUde": "Elfi",
+      "EUes": "Eli",
+      "USes": "Eli",
+      "EUfr": "Ella",
+      "USfr": "Ella",
+      "EUit": "Elly",
+      "EUnl": "Ellie",
+      "CNzh": "泡芙",
+      "TWzh": "泡芙",
+      "JPja": "エクレア",
+      "KRko": "에끌레르",
+      "EUru": "Элла"
+    }
+  },
+  {
+    "id": "elp09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tucker",
+      "EUen": "Tucker",
+      "EUde": "Thorsten",
+      "EUes": "Pirolo",
+      "USes": "Pirolo",
+      "EUfr": "Barry",
+      "USfr": "Barry",
+      "EUit": "Sventolo",
+      "EUnl": "Tucker",
+      "CNzh": "阿原",
+      "TWzh": "阿原",
+      "JPja": "はじめ",
+      "KRko": "맘모",
+      "EUru": "Такер"
+    }
+  },
+  {
+    "id": "elp10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tia",
+      "EUen": "Tia",
+      "EUde": "Eleonore",
+      "EUes": "Meralda",
+      "USes": "Meralda",
+      "EUfr": "Fanny",
+      "USfr": "Fanny",
+      "EUit": "Fanny",
+      "EUnl": "Tia",
+      "CNzh": "茉莉",
+      "TWzh": "茉莉",
+      "JPja": "ティーナ",
+      "KRko": "티나",
+      "EUru": "Тиа"
+    }
+  },
+  {
+    "id": "elp11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chai",
+      "EUen": "Chai",
+      "EUde": "Chai",
+      "EUes": "Chai",
+      "USes": "Chai",
+      "EUfr": "Chaï",
+      "USfr": "Chaï",
+      "EUit": "Chai",
+      "EUnl": "Chai",
+      "CNzh": "啡卡",
+      "TWzh": "啡卡",
+      "JPja": "フィーカ",
+      "KRko": "피카",
+      "EUru": "Чай"
+    }
+  },
+  {
+    "id": "elp12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cyd",
+      "EUen": "Cyd",
+      "EUde": "Sid",
+      "EUes": "Ramón",
+      "USes": "Ramón",
+      "EUfr": "Punk",
+      "USfr": "Punk",
+      "EUit": "Sid",
+      "EUnl": "Cyd",
+      "CNzh": "庞克斯",
+      "TWzh": "龐克斯",
+      "JPja": "パンクス",
+      "KRko": "펑크스",
+      "EUru": "Сид"
+    }
+  },
+  {
+    "id": "flg00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lily",
+      "EUen": "Lily",
+      "EUde": "Liliane",
+      "EUes": "Lili",
+      "USes": "Lili",
+      "EUfr": "Raina",
+      "USfr": "Raina",
+      "EUit": "Gigliola",
+      "EUnl": "Lily",
+      "CNzh": "雷妮",
+      "TWzh": "雷妮",
+      "JPja": "レイニー",
+      "KRko": "레이니",
+      "EUru": "Лили"
+    }
+  },
+  {
+    "id": "flg01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ribbot",
+      "EUen": "Ribbot",
+      "EUde": "Robbi",
+      "EUes": "Ranobot",
+      "USes": "Ranobot",
+      "EUfr": "Crabot",
+      "USfr": "Crabot",
+      "EUit": "Ranabot",
+      "EUnl": "Ribbot",
+      "CNzh": "锵锵",
+      "TWzh": "鏘鏘",
+      "JPja": "ガチャ",
+      "KRko": "철컥",
+      "EUru": "Риббот"
+    }
+  },
+  {
+    "id": "flg02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Frobert",
+      "EUen": "Frobert",
+      "EUde": "Fritz",
+      "EUes": "Croaldo",
+      "USes": "Croaldo",
+      "EUfr": "Verbert",
+      "USfr": "Verbert",
+      "EUit": "Froberto",
+      "EUnl": "Frobert",
+      "CNzh": "江适",
+      "TWzh": "江適",
+      "JPja": "コージィ",
+      "KRko": "구리구리",
+      "EUru": "Фроберт"
+    }
+  },
+  {
+    "id": "flg03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Camofrog",
+      "EUen": "Camofrog",
+      "EUde": "Tarno",
+      "EUes": "Comando",
+      "USes": "Comando",
+      "EUfr": "Milos",
+      "USfr": "Milos",
+      "EUit": "Crambo",
+      "EUnl": "Camofrog",
+      "CNzh": "迷仔",
+      "TWzh": "迷仔",
+      "JPja": "フルメタル",
+      "KRko": "충성",
+      "EUru": "Камофрог"
+    }
+  },
+  {
+    "id": "flg04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Drift",
+      "EUen": "Drift",
+      "EUde": "Caspar",
+      "EUes": "Surfín",
+      "USes": "Surfín",
+      "EUfr": "Gordon",
+      "USfr": "Gordon",
+      "EUit": "Prospero",
+      "EUnl": "Drift",
+      "CNzh": "毒仔",
+      "TWzh": "毒仔",
+      "JPja": "ドク",
+      "KRko": "덕",
+      "EUru": "Дрифт"
+    }
+  },
+  {
+    "id": "flg05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wart Jr.",
+      "EUen": "Wart Jr.",
+      "EUde": "Warzi",
+      "EUes": "Saponcio",
+      "USes": "Saponcio",
+      "EUfr": "Crakos",
+      "USfr": "Crakos",
+      "EUit": "Porro",
+      "EUnl": "Wart Jr.",
+      "CNzh": "山姆",
+      "TWzh": "山姆",
+      "JPja": "サム",
+      "KRko": "샘",
+      "EUru": "Варт-мл."
+    }
+  },
+  {
+    "id": "flg06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Puddles",
+      "EUen": "Puddles",
+      "EUde": "Nele",
+      "EUes": "Nenúfar",
+      "USes": "Nenúfar",
+      "EUfr": "Rénata",
+      "USfr": "Rénata",
+      "EUit": "Grazia",
+      "EUnl": "Puddles",
+      "CNzh": "剪刀",
+      "TWzh": "剪刀",
+      "JPja": "チョキ",
+      "KRko": "가위",
+      "EUru": "Рената"
+    }
+  },
+  {
+    "id": "flg07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jeremiah",
+      "EUen": "Jeremiah",
+      "EUde": "Jörg",
+      "EUes": "Jeremías",
+      "USes": "Jeremías",
+      "EUfr": "Jérémie",
+      "USfr": "Jérémie",
+      "EUit": "Geremia",
+      "EUnl": "Jeremiah",
+      "CNzh": "阿刻",
+      "TWzh": "阿刻",
+      "JPja": "クワトロ",
+      "KRko": "드리미",
+      "EUru": "Джеремия"
+    }
+  },
+  {
+    "id": "flg09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tad",
+      "EUen": "Tad",
+      "EUde": "Paul",
+      "EUes": "Saltonio",
+      "USes": "Saltonio",
+      "EUfr": "Rénato",
+      "USfr": "Rénato",
+      "EUit": "Achille",
+      "EUnl": "Tad",
+      "CNzh": "阿田",
+      "TWzh": "阿田",
+      "JPja": "タンボ",
+      "KRko": "텀보",
+      "EUru": "Тэд"
+    }
+  },
+  {
+    "id": "flg10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cousteau",
+      "EUen": "Cousteau",
+      "EUde": "Jacques",
+      "EUes": "Cousteau",
+      "USes": "Cousteau",
+      "EUfr": "Figaro",
+      "USfr": "Figaro",
+      "EUit": "Jacques",
+      "EUnl": "Cousteau",
+      "CNzh": "春卷",
+      "TWzh": "春卷",
+      "JPja": "ハルマキ",
+      "KRko": "왕서방",
+      "EUru": "Кусто"
+    }
+  },
+  {
+    "id": "flg11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Huck",
+      "EUen": "Huck",
+      "EUde": "Knuth",
+      "EUes": "Ricardo",
+      "USes": "Ricardo",
+      "EUfr": "Bajoue",
+      "USfr": "Bajoue",
+      "EUit": "Berto",
+      "EUnl": "Huck",
+      "CNzh": "吸管",
+      "TWzh": "吸管",
+      "JPja": "ストロー",
+      "KRko": "스트로",
+      "EUru": "Хак"
+    }
+  },
+  {
+    "id": "flg12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Prince",
+      "EUen": "Prince",
+      "EUde": "Prinz",
+      "EUes": "Felipe",
+      "USes": "Felipe",
+      "EUfr": "Prince",
+      "USfr": "Prince",
+      "EUit": "Principe",
+      "EUnl": "Prince",
+      "CNzh": "青呱",
+      "TWzh": "青呱",
+      "JPja": "カール",
+      "KRko": "카일",
+      "EUru": "Принс"
+    }
+  },
+  {
+    "id": "flg13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jambette",
+      "EUen": "Jambette",
+      "EUde": "Jeanette",
+      "EUes": "Anquita",
+      "USes": "Anquita",
+      "EUfr": "Gambette",
+      "USfr": "Gambette",
+      "EUit": "Giada",
+      "EUnl": "Jambette",
+      "CNzh": "翡翠",
+      "TWzh": "翡翠",
+      "JPja": "エスメラルダ",
+      "KRko": "에스메랄다",
+      "EUru": "Джембет"
+    }
+  },
+  {
+    "id": "flg15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Raddle",
+      "EUen": "Raddle",
+      "EUde": "Sani",
+      "EUes": "Radiolo",
+      "USes": "Radiolo",
+      "EUfr": "Fabien",
+      "USfr": "Fabien",
+      "EUit": "Massimo",
+      "EUnl": "Raddle",
+      "CNzh": "嘉俊",
+      "TWzh": "嘉俊",
+      "JPja": "カックン",
+      "KRko": "개군",
+      "EUru": "Рэддл"
+    }
+  },
+  {
+    "id": "flg16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gigi",
+      "EUen": "Gigi",
+      "EUde": "Violetta",
+      "EUes": "Cleo",
+      "USes": "Cleo",
+      "EUfr": "Gloria",
+      "USfr": "Gloria",
+      "EUit": "Raganà",
+      "EUnl": "Gigi",
+      "CNzh": "林妲",
+      "TWzh": "林妲",
+      "JPja": "リンダ",
+      "KRko": "린다",
+      "EUru": "Джиджи"
+    }
+  },
+  {
+    "id": "flg17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Croque",
+      "EUen": "Croque",
+      "EUde": "Carlo",
+      "EUes": "Ranolfo",
+      "USes": "Ranolfo",
+      "EUfr": "Carlos",
+      "USfr": "Carlos",
+      "EUit": "Gracido",
+      "EUnl": "Croque",
+      "CNzh": "太子",
+      "TWzh": "太子",
+      "JPja": "タイシ",
+      "KRko": "투투",
+      "EUru": "Крок"
+    }
+  },
+  {
+    "id": "flg18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Diva",
+      "EUen": "Diva",
+      "EUde": "Dörte",
+      "EUes": "Morania",
+      "USes": "Morania",
+      "EUfr": "Violette",
+      "USfr": "Violette",
+      "EUit": "Viola",
+      "EUnl": "Diva",
+      "CNzh": "小睫",
+      "TWzh": "小睫",
+      "JPja": "アイーダ",
+      "KRko": "아이다",
+      "EUru": "Дива"
+    }
+  },
+  {
+    "id": "flg19",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Henry",
+      "EUen": "Henry",
+      "EUde": "Freddy",
+      "EUes": "Saperto",
+      "USes": "Saperto",
+      "EUfr": "Henri",
+      "USfr": "Henri",
+      "EUit": "Renato",
+      "EUnl": "Henry",
+      "CNzh": "亨利",
+      "TWzh": "亨利",
+      "JPja": "ヘンリー",
+      "KRko": "헨리",
+      "EUru": "Генри"
+    }
+  },
+  {
+    "id": "goa00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chevre",
+      "EUen": "Chevre",
+      "EUde": "Anette",
+      "EUes": "Cabriola",
+      "USes": "Cabriola",
+      "EUfr": "Biquette",
+      "USfr": "Biquette",
+      "EUit": "Diletta",
+      "EUnl": "Chevre",
+      "CNzh": "雪儿",
+      "TWzh": "雪兒",
+      "JPja": "ユキ",
+      "KRko": "윤이",
+      "EUru": "Шевр"
+    }
+  },
+  {
+    "id": "goa01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nan",
+      "EUen": "Nan",
+      "EUde": "Zenobi",
+      "EUes": "Pécora",
+      "USes": "Pécora",
+      "EUfr": "Nana",
+      "USfr": "Nana",
+      "EUit": "Nan",
+      "EUnl": "Nan",
+      "CNzh": "墨墨",
+      "TWzh": "墨墨",
+      "JPja": "スミ",
+      "KRko": "순이",
+      "EUru": "Нань"
+    }
+  },
+  {
+    "id": "goa02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Billy",
+      "EUen": "Billy",
+      "EUde": "Hennes",
+      "EUes": "Brito",
+      "USes": "Brito",
+      "EUfr": "Seguin",
+      "USfr": "Seguin",
+      "EUit": "Billy",
+      "EUnl": "Billy",
+      "CNzh": "亚星",
+      "TWzh": "亞星",
+      "JPja": "アーシンド",
+      "KRko": "힘드러",
+      "EUru": "Билли"
+    }
+  },
+  {
+    "id": "goa04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gruff",
+      "EUen": "Gruff",
+      "EUde": "Gregor",
+      "EUes": "Sátiro",
+      "USes": "Sátiro",
+      "EUfr": "Grognon",
+      "USfr": "Grognon",
+      "EUit": "Capriolé",
+      "EUnl": "Gruff",
+      "CNzh": "比利",
+      "TWzh": "比利",
+      "JPja": "ビリー",
+      "KRko": "빌리",
+      "EUru": "Графф"
+    }
+  },
+  {
+    "id": "goa06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Velma",
+      "EUen": "Velma",
+      "EUde": "Wilma",
+      "EUes": "Erika",
+      "USes": "Erika",
+      "EUfr": "Véra",
+      "USfr": "Véra",
+      "EUit": "Belarda",
+      "EUnl": "Velma",
+      "CNzh": "班长",
+      "TWzh": "班長",
+      "JPja": "ピティエ",
+      "KRko": "벨마",
+      "EUru": "Велма"
+    }
+  },
+  {
+    "id": "goa07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kidd",
+      "EUen": "Kidd",
+      "EUde": "Bocki",
+      "EUes": "Cabrálex",
+      "USes": "Cabrálex",
+      "EUfr": "Moktar",
+      "USfr": "Mokhtar",
+      "EUit": "Vittorio",
+      "EUnl": "Kidd",
+      "CNzh": "文青",
+      "TWzh": "文青",
+      "JPja": "やさお",
+      "KRko": "염두리",
+      "EUru": "Кидд"
+    }
+  },
+  {
+    "id": "goa08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pashmina",
+      "EUen": "Pashmina",
+      "EUde": "Pamela",
+      "EUes": "Carla",
+      "USes": "Carla",
+      "EUfr": "Chavrina",
+      "USfr": "Chavrina",
+      "EUit": "Pashmina",
+      "EUnl": "Pashmina",
+      "CNzh": "芭芭拉",
+      "TWzh": "芭芭拉",
+      "JPja": "バーバラ",
+      "KRko": "바바라",
+      "EUru": "Пашмина"
+    }
+  },
+  {
+    "id": "goa09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sherb",
+      "EUen": "Sherb",
+      "EUde": "Morpheus",
+      "EUes": "Morfeo",
+      "USes": "Morfeo",
+      "EUfr": "Capri",
+      "USfr": "Capri",
+      "EUit": "Capraldo",
+      "EUnl": "Sherb",
+      "CNzh": "雷姆",
+      "TWzh": "雷姆",
+      "JPja": "レム",
+      "KRko": "래미",
+      "EUru": "Шерб"
+    }
+  },
+  {
+    "id": "gor00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cesar",
+      "EUen": "Cesar",
+      "EUde": "Alfredo",
+      "EUes": "César",
+      "USes": "César",
+      "EUfr": "César",
+      "USfr": "César",
+      "EUit": "Cesare",
+      "EUnl": "Cesar",
+      "CNzh": "阿朗",
+      "TWzh": "阿朗",
+      "JPja": "アラン",
+      "KRko": "앨런",
+      "EUru": "Цезарь"
+    }
+  },
+  {
+    "id": "gor01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Peewee",
+      "EUen": "Peewee",
+      "EUde": "Manfred",
+      "EUes": "Lotar",
+      "USes": "Lotar",
+      "EUfr": "Gogo",
+      "USfr": "Gogo",
+      "EUit": "Kong",
+      "EUnl": "Peewee",
+      "CNzh": "哑铃",
+      "TWzh": "啞鈴",
+      "JPja": "ダンベル",
+      "KRko": "덤벨",
+      "EUru": "Пиви"
+    }
+  },
+  {
+    "id": "gor02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Boone",
+      "EUen": "Boone",
+      "EUde": "Kong",
+      "EUes": "Babú",
+      "USes": "Babú",
+      "EUfr": "Babouin",
+      "USfr": "Babouin",
+      "EUit": "Babu",
+      "EUnl": "Boone",
+      "CNzh": "万泰",
+      "TWzh": "萬泰",
+      "JPja": "まんたろう",
+      "KRko": "만복이",
+      "EUru": "Бун"
+    }
+  },
+  {
+    "id": "gor04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Louie",
+      "EUen": "Louie",
+      "EUde": "Ludwig",
+      "EUes": "Lou",
+      "USes": "Lou",
+      "EUfr": "Louis",
+      "USfr": "Louis",
+      "EUit": "Lou",
+      "EUnl": "Louie",
+      "CNzh": "壮壮",
+      "TWzh": "壯壯",
+      "JPja": "マッスル",
+      "KRko": "머슬",
+      "EUru": "Луи"
+    }
+  },
+  {
+    "id": "gor05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Boyd",
+      "EUen": "Boyd",
+      "EUde": "Boyd",
+      "EUes": "Bunga",
+      "USes": "Bunga",
+      "EUfr": "Primo",
+      "USfr": "Primo",
+      "EUit": "Brando",
+      "EUnl": "Boyd",
+      "CNzh": "空空",
+      "TWzh": "空空",
+      "JPja": "ボイド",
+      "KRko": "보이드",
+      "EUru": "Бойд"
+    }
+  },
+  {
+    "id": "gor07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Violet",
+      "EUen": "Violet",
+      "EUde": "Konga",
+      "EUes": "Magenta",
+      "USes": "Magenta",
+      "EUfr": "Gaëlle",
+      "USfr": "Gaëlle",
+      "EUit": "Konga",
+      "EUnl": "Violet",
+      "CNzh": "吴紫眉",
+      "TWzh": "吳紫眉",
+      "JPja": "ウズメ",
+      "KRko": "줌마",
+      "EUru": "Конга"
+    }
+  },
+  {
+    "id": "gor08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Al",
+      "EUen": "Al",
+      "EUde": "Kokong",
+      "EUes": "Álex",
+      "USes": "Álex",
+      "EUfr": "Gustave",
+      "USfr": "Gustave",
+      "EUit": "Gregorio",
+      "EUnl": "Al",
+      "CNzh": "阿保",
+      "TWzh": "阿保",
+      "JPja": "たもつ",
+      "KRko": "우락",
+      "EUru": "Эл"
+    }
+  },
+  {
+    "id": "gor09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rocket",
+      "EUen": "Rocket",
+      "EUde": "Katrin",
+      "EUes": "Gloria",
+      "USes": "Gloria",
+      "EUfr": "Gertrude",
+      "USfr": "Gertrude",
+      "EUit": "Kinga",
+      "EUnl": "Rocket",
+      "CNzh": "阿四",
+      "TWzh": "阿四",
+      "JPja": "４ごう",
+      "KRko": "4호",
+      "EUru": "Рокет"
+    }
+  },
+  {
+    "id": "gor10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hans",
+      "EUen": "Hans",
+      "EUde": "Hans",
+      "EUes": "Hans",
+      "USes": "Hans",
+      "EUfr": "Loran",
+      "USfr": "Loran",
+      "EUit": "Grigilio",
+      "EUnl": "Hans",
+      "CNzh": "史奈鲁",
+      "TWzh": "史奈魯",
+      "JPja": "スナイル",
+      "KRko": "스나일",
+      "EUru": "Ганс"
+    }
+  },
+  {
+    "id": "gor11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rilla",
+      "EUen": "Rilla",
+      "EUde": "Rilla",
+      "EUes": "Rila",
+      "USes": "Rila",
+      "EUfr": "Rilla",
+      "USfr": "Rilla",
+      "EUit": "Rilla",
+      "EUnl": "Rilla",
+      "CNzh": "莉拉",
+      "TWzh": "莉拉",
+      "JPja": "リラ",
+      "KRko": "릴라",
+      "EUru": "Рилла"
+    }
+  },
+  {
+    "id": "ham00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hamlet",
+      "EUen": "Hamlet",
+      "EUde": "Hamid",
+      "EUes": "Bombo",
+      "USes": "Bombo",
+      "EUfr": "Jojo",
+      "USfr": "Jojo",
+      "EUit": "Amleto",
+      "EUnl": "Hamlet",
+      "CNzh": "哈姆",
+      "TWzh": "哈姆",
+      "JPja": "ハムスケ",
+      "KRko": "햄스틴",
+      "EUru": "Гамлет"
+    }
+  },
+  {
+    "id": "ham01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Apple",
+      "EUen": "Apple",
+      "EUde": "Jessi",
+      "EUes": "Rosi",
+      "USes": "Rosi",
+      "EUfr": "Esther",
+      "USfr": "Esther",
+      "EUit": "Cicci",
+      "EUnl": "Apple",
+      "CNzh": "苹果",
+      "TWzh": "蘋果",
+      "JPja": "アップル",
+      "KRko": "애플",
+      "EUru": "Эпл"
+    }
+  },
+  {
+    "id": "ham02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Graham",
+      "EUen": "Graham",
+      "EUde": "Günther",
+      "EUes": "Roelio",
+      "USes": "Roelio",
+      "EUfr": "Graham",
+      "USfr": "Graham",
+      "EUit": "Evaristo",
+      "EUnl": "Graham",
+      "CNzh": "麦麦",
+      "TWzh": "麥麥",
+      "JPja": "グラハム",
+      "KRko": "글라햄",
+      "EUru": "Грэм"
+    }
+  },
+  {
+    "id": "ham03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rodney",
+      "EUen": "Rodney",
+      "EUde": "Reinhold",
+      "EUes": "Chusquis",
+      "USes": "Chusquis",
+      "EUfr": "Chico",
+      "USfr": "Chico",
+      "EUit": "Rosikkio",
+      "EUnl": "Rodney",
+      "CNzh": "米米",
+      "TWzh": "米米",
+      "JPja": "ジミー",
+      "KRko": "지미",
+      "EUru": "Родни"
+    }
+  },
+  {
+    "id": "ham04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Soleil",
+      "EUen": "Soleil",
+      "EUde": "Samira",
+      "EUes": "Soraya",
+      "USes": "Soraya",
+      "EUfr": "Stella",
+      "USfr": "Stella",
+      "EUit": "Cettina",
+      "EUnl": "Soleil",
+      "CNzh": "安安",
+      "TWzh": "安安",
+      "JPja": "シャンティ",
+      "KRko": "샨티",
+      "EUru": "Солей"
+    }
+  },
+  {
+    "id": "ham05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Clay",
+      "EUen": "Clay",
+      "EUde": "Dietmar",
+      "EUes": "Boliche",
+      "USes": "Boliche",
+      "EUfr": "Guido",
+      "USfr": "Guido",
+      "EUit": "Carmelo",
+      "EUnl": "Clay",
+      "CNzh": "子墨",
+      "TWzh": "子墨",
+      "JPja": "どぐろう",
+      "KRko": "햄둥",
+      "EUru": "Клэй"
+    }
+  },
+  {
+    "id": "ham06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flurry",
+      "EUen": "Flurry",
+      "EUde": "Emilie",
+      "EUes": "Lluvia",
+      "USes": "Lluvia",
+      "EUfr": "Emma",
+      "USfr": "Emma",
+      "EUit": "Meringa",
+      "EUnl": "Flurry",
+      "CNzh": "雪美",
+      "TWzh": "雪美",
+      "JPja": "ゆきみ",
+      "KRko": "뽀야미",
+      "EUru": "Фларри"
+    }
+  },
+  {
+    "id": "ham07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hamphrey",
+      "EUen": "Hamphrey",
+      "EUde": "Heinrich",
+      "EUes": "Arsenio",
+      "USes": "Arsenio",
+      "EUfr": "Charles",
+      "USfr": "Charles",
+      "EUit": "Nerone",
+      "EUnl": "Hamphrey",
+      "CNzh": "小仓",
+      "TWzh": "小倉",
+      "JPja": "ハムジ",
+      "KRko": "햄쥐",
+      "EUru": "Хэмфри"
+    }
+  },
+  {
+    "id": "hip00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rocco",
+      "EUen": "Rocco",
+      "EUde": "Richi",
+      "EUes": "Roco",
+      "USes": "Roco",
+      "EUfr": "Bebel",
+      "USfr": "Bebel",
+      "EUit": "Rocco",
+      "EUnl": "Rocco",
+      "CNzh": "孔在来",
+      "TWzh": "孔在來",
+      "JPja": "ゴンザレス",
+      "KRko": "곤잘레스",
+      "EUru": "Рокко"
+    }
+  },
+  {
+    "id": "hip02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bubbles",
+      "EUen": "Bubbles",
+      "EUde": "Christin",
+      "EUes": "Hipólita",
+      "USes": "Hipólita",
+      "EUfr": "Hippy",
+      "USfr": "Hippy",
+      "EUit": "Ippolita",
+      "EUnl": "Bubbles",
+      "CNzh": "曹珂",
+      "TWzh": "曹珂",
+      "JPja": "チャコ",
+      "KRko": "차코",
+      "EUru": "Баблс"
+    }
+  },
+  {
+    "id": "hip03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bertha",
+      "EUen": "Bertha",
+      "EUde": "Berta",
+      "EUes": "Berta",
+      "USes": "Berta",
+      "EUfr": "Bertha",
+      "USfr": "Bertha",
+      "EUit": "Umberta",
+      "EUnl": "Bertha",
+      "CNzh": "豆沙",
+      "TWzh": "豆沙",
+      "JPja": "あんこ",
+      "KRko": "베티",
+      "EUru": "Берта"
+    }
+  },
+  {
+    "id": "hip04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Biff",
+      "EUen": "Biff",
+      "EUde": "Norbert",
+      "EUes": "Pipo",
+      "USes": "Pipo",
+      "EUfr": "Biff",
+      "USfr": "Biff",
+      "EUit": "Pippo",
+      "EUnl": "Biff",
+      "CNzh": "贾宝为",
+      "TWzh": "賈寶為",
+      "JPja": "ガブリエル",
+      "KRko": "가브리엘",
+      "EUru": "Бифф"
+    }
+  },
+  {
+    "id": "hip05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bitty",
+      "EUen": "Bitty",
+      "EUde": "Biggi",
+      "EUes": "Ofelia",
+      "USes": "Ofelia",
+      "EUfr": "Potama",
+      "USfr": "Potama",
+      "EUit": "Rosetta",
+      "EUnl": "Bitty",
+      "CNzh": "艾咪",
+      "TWzh": "艾咪",
+      "JPja": "エーミー",
+      "KRko": "비티",
+      "EUru": "Битти"
+    }
+  },
+  {
+    "id": "hip08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Harry",
+      "EUen": "Harry",
+      "EUde": "Jürgen",
+      "EUes": "Harpo",
+      "USes": "Harpo",
+      "EUfr": "Bob",
+      "USfr": "Bob",
+      "EUit": "Ercolino",
+      "EUnl": "Harry",
+      "CNzh": "欧世豪",
+      "TWzh": "歐世豪",
+      "JPja": "オリバー",
+      "KRko": "올리버",
+      "EUru": "Гарри"
+    }
+  },
+  {
+    "id": "hip09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hippeux",
+      "EUen": "Hippeux",
+      "EUde": "Herbert",
+      "EUes": "Hipóleo",
+      "USes": "Hipóleo",
+      "EUfr": "Paulito",
+      "USfr": "Paulito",
+      "EUit": "Poppy",
+      "EUnl": "Hippeux",
+      "CNzh": "戴维",
+      "TWzh": "戴維",
+      "JPja": "ディビッド",
+      "KRko": "데이빗",
+      "EUru": "Гиппо"
+    }
+  },
+  {
+    "id": "hrs00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Buck",
+      "EUen": "Buck",
+      "EUde": "Rudi",
+      "EUes": "Trotón",
+      "USes": "Trotón",
+      "EUfr": "Daniel",
+      "USfr": "Daniel",
+      "EUit": "Trottolo",
+      "EUnl": "Buck",
+      "CNzh": "威亚",
+      "TWzh": "威亞",
+      "JPja": "ヴァヤシコフ",
+      "KRko": "바야시코프",
+      "EUru": "Бак"
+    }
+  },
+  {
+    "id": "hrs01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Victoria",
+      "EUen": "Victoria",
+      "EUde": "Emma",
+      "EUes": "Victoria",
+      "USes": "Victoria",
+      "EUfr": "Victoria",
+      "USfr": "Victoria",
+      "EUit": "Vittoria",
+      "EUnl": "Victoria",
+      "CNzh": "圣萝",
+      "TWzh": "聖蘿",
+      "JPja": "セントアロー",
+      "KRko": "센트엘로",
+      "EUru": "Виктория"
+    }
+  },
+  {
+    "id": "hrs02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Savannah",
+      "EUen": "Savannah",
+      "EUde": "Zara",
+      "EUes": "Sabana",
+      "USes": "Sabana",
+      "EUfr": "Savana",
+      "USfr": "Savana",
+      "EUit": "Savannah",
+      "EUnl": "Savannah",
+      "CNzh": "草斑娜",
+      "TWzh": "草斑娜",
+      "JPja": "サバンナ",
+      "KRko": "사반나",
+      "EUru": "Саванна"
+    }
+  },
+  {
+    "id": "hrs03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Elmer",
+      "EUen": "Elmer",
+      "EUde": "Emil",
+      "EUes": "Jacinto",
+      "USes": "Jacinto",
+      "EUfr": "Martin",
+      "USfr": "Martin",
+      "EUit": "Oreste",
+      "EUnl": "Elmer",
+      "CNzh": "酥饼",
+      "TWzh": "酥餅",
+      "JPja": "サブレ",
+      "KRko": "샤브렌",
+      "EUru": "Элмер"
+    }
+  },
+  {
+    "id": "hrs04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Roscoe",
+      "EUen": "Roscoe",
+      "EUde": "Jolly",
+      "EUes": "Jereza",
+      "USes": "Jereza",
+      "EUfr": "Rosco",
+      "USfr": "Rosco",
+      "EUit": "Roscoe",
+      "EUnl": "Roscoe",
+      "CNzh": "黑马",
+      "TWzh": "黑馬",
+      "JPja": "シュバルツ",
+      "KRko": "슈베르트",
+      "EUru": "Роско"
+    }
+  },
+  {
+    "id": "hrs05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Winnie",
+      "EUen": "Winnie",
+      "EUde": "Walli",
+      "EUes": "Soonia",
+      "USes": "Soonia",
+      "EUfr": "Anne",
+      "USfr": "Anne",
+      "EUit": "Clara",
+      "EUnl": "Winnie",
+      "CNzh": "马星星",
+      "TWzh": "馬星星",
+      "JPja": "マキバスター",
+      "KRko": "카로틴",
+      "EUru": "Винни"
+    }
+  },
+  {
+    "id": "hrs06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ed",
+      "EUen": "Ed",
+      "EUde": "Hermann",
+      "EUes": "Crinaldo",
+      "USes": "Crinaldo",
+      "EUfr": "Édouard",
+      "USfr": "Édouard",
+      "EUit": "Codino",
+      "EUnl": "Ed",
+      "CNzh": "马誉",
+      "TWzh": "馬譽",
+      "JPja": "キザノホマレ",
+      "KRko": "꺼벙",
+      "EUru": "Эд"
+    }
+  },
+  {
+    "id": "hrs07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cleo",
+      "EUen": "Cleo",
+      "EUde": "Birgit",
+      "EUes": "Clotilde",
+      "USes": "Clotilde",
+      "EUfr": "Cléa",
+      "USfr": "Cléa",
+      "EUit": "Susanna",
+      "EUnl": "Cleo",
+      "CNzh": "小铀",
+      "TWzh": "小鈾",
+      "JPja": "アイソトープ",
+      "KRko": "아이소토프",
+      "EUru": "Клео"
+    }
+  },
+  {
+    "id": "hrs08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Peaches",
+      "EUen": "Peaches",
+      "EUde": "Claire",
+      "EUes": "Perla",
+      "USes": "Perla",
+      "EUfr": "Prune",
+      "USfr": "Prune",
+      "EUit": "Ronzina",
+      "EUnl": "Peaches",
+      "CNzh": "小薰",
+      "TWzh": "小薰",
+      "JPja": "ドサコ",
+      "KRko": "말자",
+      "EUru": "Пичес"
+    }
+  },
+  {
+    "id": "hrs09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Annalise",
+      "EUen": "Annalise",
+      "EUde": "Annerose",
+      "EUes": "Isadora",
+      "USes": "Isadora",
+      "EUfr": "Âne-lise",
+      "USfr": "Âne-lise",
+      "EUit": "Lisa",
+      "EUnl": "Annalise",
+      "CNzh": "舒芙蕾",
+      "TWzh": "舒芙蕾",
+      "JPja": "シルブプレ",
+      "KRko": "실부플레",
+      "EUru": "Лиза"
+    }
+  },
+  {
+    "id": "hrs10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Clyde",
+      "EUen": "Clyde",
+      "EUde": "Tommi",
+      "EUes": "Moe",
+      "USes": "Moe",
+      "EUfr": "Dorian",
+      "USfr": "Dorian",
+      "EUit": "Lallo",
+      "EUnl": "Clyde",
+      "CNzh": "笛笛",
+      "TWzh": "笛笛",
+      "JPja": "デースケ",
+      "KRko": "마철이",
+      "EUru": "Клайд"
+    }
+  },
+  {
+    "id": "hrs11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Colton",
+      "EUen": "Colton",
+      "EUde": "Carsten",
+      "EUes": "Furio",
+      "USes": "Furio",
+      "EUfr": "Tony",
+      "USfr": "Tony",
+      "EUit": "Furio",
+      "EUnl": "Colton",
+      "CNzh": "安索尼",
+      "TWzh": "安索尼",
+      "JPja": "アンソニー",
+      "KRko": "안소니",
+      "EUru": "Колтон"
+    }
+  },
+  {
+    "id": "hrs12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Papi",
+      "EUen": "Papi",
+      "EUde": "Friedel",
+      "EUes": "Bayo",
+      "USes": "Bayo",
+      "EUfr": "Bourrico",
+      "USfr": "Bourrico",
+      "EUit": "Pierino",
+      "EUnl": "Papi",
+      "CNzh": "小冈",
+      "TWzh": "小岡",
+      "JPja": "オカッピ",
+      "KRko": "마사마",
+      "EUru": "Папи"
+    }
+  },
+  {
+    "id": "hrs13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Julian",
+      "EUen": "Julian",
+      "EUde": "Jimmy",
+      "EUes": "Azulino",
+      "USes": "Azulino",
+      "EUfr": "Lico",
+      "USfr": "Lico",
+      "EUit": "Giuliano",
+      "EUnl": "Julian",
+      "CNzh": "朱黎",
+      "TWzh": "朱黎",
+      "JPja": "ジュリー",
+      "KRko": "유니오",
+      "EUru": "Джулиан"
+    }
+  },
+  {
+    "id": "hrs16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Reneigh",
+      "EUen": "Reneigh",
+      "EUde": "Andrea",
+      "EUes": "Corcelia",
+      "USes": "Corcelia",
+      "EUfr": "Jennifer",
+      "USfr": "Jennifer",
+      "EUit": "Requina",
+      "EUnl": "Reneigh",
+      "CNzh": "雷哈娜",
+      "TWzh": "雷哈娜",
+      "JPja": "リアーナ",
+      "KRko": "리아나",
+      "EUru": "Рени"
+    }
+  },
+  {
+    "id": "kal00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Yuka",
+      "EUen": "Yuka",
+      "EUde": "Ute",
+      "EUes": "Yuka",
+      "USes": "Yuka",
+      "EUfr": "Calypso",
+      "USfr": "Calypso",
+      "EUit": "Yuka",
+      "EUnl": "Yuka",
+      "CNzh": "尤嘉莉",
+      "TWzh": "尤嘉莉",
+      "JPja": "ユーカリ",
+      "KRko": "유카리",
+      "EUru": "Юка"
+    }
+  },
+  {
+    "id": "kal01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Alice",
+      "EUen": "Alice",
+      "EUde": "Konny",
+      "EUes": "Zelanda",
+      "USes": "Zelanda",
+      "EUfr": "Alice",
+      "USfr": "Alice",
+      "EUit": "Alice",
+      "EUnl": "Alice",
+      "CNzh": "莫儿",
+      "TWzh": "莫兒",
+      "JPja": "メルボルン",
+      "KRko": "멜버른",
+      "EUru": "Алиса"
+    }
+  },
+  {
+    "id": "kal02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Melba",
+      "EUen": "Melba",
+      "EUde": "Kornelia",
+      "EUes": "Melba",
+      "USes": "Melba",
+      "EUfr": "Melba",
+      "USfr": "Melba",
+      "EUit": "Melba",
+      "EUnl": "Melba",
+      "CNzh": "阿得",
+      "TWzh": "阿得",
+      "JPja": "アデレード",
+      "KRko": "아델레이드",
+      "EUru": "Мельба"
+    }
+  },
+  {
+    "id": "kal03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sydney",
+      "EUen": "Sydney",
+      "EUde": "Silke",
+      "EUes": "Sidney",
+      "USes": "Sidney",
+      "EUfr": "Koaline",
+      "USfr": "Koaline",
+      "EUit": "Sidney",
+      "EUnl": "Sydney",
+      "CNzh": "思颖",
+      "TWzh": "思穎",
+      "JPja": "シドニー",
+      "KRko": "시드니",
+      "EUru": "Сидни"
+    }
+  },
+  {
+    "id": "kal04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gonzo",
+      "EUen": "Gonzo",
+      "EUde": "Heribert",
+      "EUes": "Bronco",
+      "USes": "Bronco",
+      "EUfr": "Gonzo",
+      "USfr": "Gonzo",
+      "EUit": "Gonzo",
+      "EUnl": "Gonzo",
+      "CNzh": "钢锁",
+      "TWzh": "鋼鎖",
+      "JPja": "ゴンゾー",
+      "KRko": "근성",
+      "EUru": "Гонзо"
+    }
+  },
+  {
+    "id": "kal05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ozzie",
+      "EUen": "Ozzie",
+      "EUde": "Oskar",
+      "EUes": "Koloa",
+      "USes": "Koloa",
+      "EUfr": "Koko",
+      "USfr": "Koko",
+      "EUit": "Ozzy",
+      "EUnl": "Ozzie",
+      "CNzh": "阿栗",
+      "TWzh": "阿栗",
+      "JPja": "ドングリ",
+      "KRko": "동동이",
+      "EUru": "Оззи"
+    }
+  },
+  {
+    "id": "kal08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Canberra",
+      "EUen": "Canberra",
+      "EUde": "Caroline",
+      "EUes": "Canberra",
+      "USes": "Canberra",
+      "EUfr": "Kolala",
+      "USfr": "Kolala",
+      "EUit": "Canberra",
+      "EUnl": "Canberra",
+      "CNzh": "简培菈",
+      "TWzh": "簡培菈",
+      "JPja": "キャンベラ",
+      "KRko": "캔버라",
+      "EUru": "Канберра"
+    }
+  },
+  {
+    "id": "kal09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lyman",
+      "EUen": "Lyman",
+      "EUde": "Pepe",
+      "EUes": "Chipi",
+      "USes": "Chipi",
+      "EUfr": "Kalyptus",
+      "USfr": "Kalyptus",
+      "EUit": "Nicola",
+      "EUnl": "Lyman",
+      "CNzh": "敖志明",
+      "TWzh": "敖志明",
+      "JPja": "オズモンド",
+      "KRko": "오즈먼드",
+      "EUru": "Лайман"
+    }
+  },
+  {
+    "id": "kal10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Eugene",
+      "EUen": "Eugene",
+      "EUde": "Sunny",
+      "EUes": "Eucalín",
+      "USes": "Eucalín",
+      "EUfr": "Jamy",
+      "USfr": "Jamy",
+      "EUit": "Corrado",
+      "EUnl": "Eugene",
+      "CNzh": "罗奇",
+      "TWzh": "羅奇",
+      "JPja": "ロッキー",
+      "KRko": "코알",
+      "EUru": "Юджин"
+    }
+  },
+  {
+    "id": "kgr00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kitt",
+      "EUen": "Kitt",
+      "EUde": "Kerstin",
+      "EUes": "Antípoda",
+      "USes": "Antípoda",
+      "EUfr": "Poquette",
+      "USfr": "Poquette",
+      "EUit": "Kitt",
+      "EUnl": "Kitt",
+      "CNzh": "缝缝",
+      "TWzh": "縫縫",
+      "JPja": "アップリケ",
+      "KRko": "애플리케",
+      "EUru": "Китт"
+    }
+  },
+  {
+    "id": "kgr01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mathilda",
+      "EUen": "Mathilda",
+      "EUde": "Marga",
+      "EUes": "Pugilda",
+      "USes": "Pugilda",
+      "EUfr": "Mathilde",
+      "USfr": "Mathilde",
+      "EUit": "Matilda",
+      "EUnl": "Mathilda",
+      "CNzh": "亚莎",
+      "TWzh": "亞莎",
+      "JPja": "アザラク",
+      "KRko": "안젤라",
+      "EUru": "Матильда"
+    }
+  },
+  {
+    "id": "kgr02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Carrie",
+      "EUen": "Carrie",
+      "EUde": "Carola",
+      "EUes": "Lola",
+      "USes": "Lola",
+      "EUfr": "Kanga",
+      "USfr": "Kanga",
+      "EUit": "Taschina",
+      "EUnl": "Carrie",
+      "CNzh": "妈咪",
+      "TWzh": "媽咪",
+      "JPja": "マミィ",
+      "KRko": "마미",
+      "EUru": "Кэрри"
+    }
+  },
+  {
+    "id": "kgr05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Astrid",
+      "EUen": "Astrid",
+      "EUde": "Astrid",
+      "EUes": "Astrid",
+      "USes": "Astrid",
+      "EUfr": "Rhona",
+      "USfr": "Rhona",
+      "EUit": "Stella",
+      "EUnl": "Astrid",
+      "CNzh": "童儿",
+      "TWzh": "童兒",
+      "JPja": "キッズ",
+      "KRko": "펑키맘",
+      "EUru": "Астрид"
+    }
+  },
+  {
+    "id": "kgr06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sylvia",
+      "EUen": "Sylvia",
+      "EUde": "Sylvia",
+      "EUes": "Cándida",
+      "USes": "Cándida",
+      "EUfr": "Madsi",
+      "USfr": "Madsi",
+      "EUit": "Silvia",
+      "EUnl": "Sylvia",
+      "CNzh": "希薇亚",
+      "TWzh": "希薇亞",
+      "JPja": "シルビア",
+      "KRko": "실비아",
+      "EUru": "Сильвия"
+    }
+  },
+  {
+    "id": "kgr08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Walt",
+      "EUen": "Walt",
+      "EUde": "Sinan",
+      "EUes": "Brinco",
+      "USes": "Brinco",
+      "EUfr": "Walt",
+      "USfr": "Walt",
+      "EUit": "Zompo",
+      "EUnl": "Walt",
+      "CNzh": "袋钢",
+      "TWzh": "袋鋼",
+      "JPja": "カンロク",
+      "KRko": "관록",
+      "EUru": "Уолт"
+    }
+  },
+  {
+    "id": "kgr09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rooney",
+      "EUen": "Rooney",
+      "EUde": "Robert",
+      "EUes": "Cerillo",
+      "USes": "Cerillo",
+      "EUfr": "Mike",
+      "USfr": "Mike",
+      "EUit": "Balzak",
+      "EUnl": "Rooney",
+      "CNzh": "麦克",
+      "TWzh": "麥克",
+      "JPja": "マイク",
+      "KRko": "마이크",
+      "EUru": "Руни"
+    }
+  },
+  {
+    "id": "kgr10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Marcie",
+      "EUen": "Marcie",
+      "EUde": "Marlies",
+      "EUes": "Brisa",
+      "USes": "Brisa",
+      "EUfr": "Selma",
+      "USfr": "Selma",
+      "EUit": "Adelaide",
+      "EUnl": "Marcie",
+      "CNzh": "玛莉亚",
+      "TWzh": "瑪莉亞",
+      "JPja": "マリア",
+      "KRko": "마리아",
+      "EUru": "Марси"
+    }
+  },
+  {
+    "id": "lon00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bud",
+      "EUen": "Bud",
+      "EUde": "Dieter",
+      "EUes": "Surfleo",
+      "USes": "Surfleo",
+      "EUfr": "Léonard",
+      "USfr": "Léonard",
+      "EUit": "Leo",
+      "EUnl": "Bud",
+      "CNzh": "莫敬",
+      "TWzh": "莫敬",
+      "JPja": "グラさん",
+      "KRko": "선글",
+      "EUru": "Бад"
+    }
+  },
+  {
+    "id": "lon01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Elvis",
+      "EUen": "Elvis",
+      "EUde": "Leonardo",
+      "EUes": "Elvis",
+      "USes": "Elvis",
+      "EUfr": "Elvis",
+      "USfr": "Elvis",
+      "EUit": "Elvis",
+      "EUnl": "Elvis",
+      "CNzh": "皇狮",
+      "TWzh": "皇獅",
+      "JPja": "キング",
+      "KRko": "킹",
+      "EUru": "Элвис"
+    }
+  },
+  {
+    "id": "lon02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rex",
+      "EUen": "Rex",
+      "EUde": "Rex",
+      "EUes": "Leoncio",
+      "USes": "Leoncio",
+      "EUfr": "Léo",
+      "USfr": "Léo",
+      "EUit": "Rex",
+      "EUnl": "Rex",
+      "CNzh": "晴天",
+      "TWzh": "晴天",
+      "JPja": "サンデー",
+      "KRko": "렉스",
+      "EUru": "Рекс"
+    }
+  },
+  {
+    "id": "lon04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Leopold",
+      "EUen": "Leopold",
+      "EUde": "Leandro",
+      "EUes": "Leopoldo",
+      "USes": "Leopoldo",
+      "EUfr": "Leandro",
+      "USfr": "Leandro",
+      "EUit": "Leandro",
+      "EUnl": "Leopold",
+      "CNzh": "老狮",
+      "TWzh": "老獅",
+      "JPja": "ティーチャー",
+      "KRko": "티처",
+      "EUru": "Леопольд"
+    }
+  },
+  {
+    "id": "lon06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mott",
+      "EUen": "Mott",
+      "EUde": "Leonhard",
+      "EUes": "Jones",
+      "USes": "Jones",
+      "EUfr": "Aimé",
+      "USfr": "Aimé",
+      "EUit": "Leopold",
+      "EUnl": "Mott",
+      "CNzh": "李克",
+      "TWzh": "李克",
+      "JPja": "リック",
+      "KRko": "릭",
+      "EUru": "Мотт"
+    }
+  },
+  {
+    "id": "lon07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rory",
+      "EUen": "Rory",
+      "EUde": "Leon",
+      "EUes": "Rogelio",
+      "USes": "Rogelio",
+      "EUfr": "Hercule",
+      "USfr": "Hercule",
+      "EUit": "Ruggero",
+      "EUnl": "Rory",
+      "CNzh": "亚瑟",
+      "TWzh": "亞瑟",
+      "JPja": "アーサー",
+      "KRko": "아더",
+      "EUru": "Рори"
+    }
+  },
+  {
+    "id": "lon08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lionel",
+      "EUen": "Lionel",
+      "EUde": "Lorenz",
+      "EUes": "Lionel",
+      "USes": "Lionel",
+      "EUfr": "Léopold",
+      "USfr": "Léopold",
+      "EUit": "Leonida",
+      "EUnl": "Lionel",
+      "CNzh": "赖恩睿",
+      "TWzh": "賴恩睿",
+      "JPja": "ライオネル",
+      "KRko": "라이오넬",
+      "EUru": "Лайонел"
+    }
+  },
+  {
+    "id": "mnk01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nana",
+      "EUen": "Nana",
+      "EUde": "Dorothea",
+      "EUes": "Nana",
+      "USes": "Nana",
+      "EUfr": "Mireille",
+      "USfr": "Mireille",
+      "EUit": "Nanà",
+      "EUnl": "Nana",
+      "CNzh": "七七",
+      "TWzh": "七七",
+      "JPja": "チッチ",
+      "KRko": "키키",
+      "EUru": "Нана"
+    }
+  },
+  {
+    "id": "mnk02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Simon",
+      "EUen": "Simon",
+      "EUde": "Simon",
+      "EUes": "Simón",
+      "USes": "Simón",
+      "EUfr": "Simon",
+      "USfr": "Simon",
+      "EUit": "Simon",
+      "EUnl": "Simon",
+      "CNzh": "远仁",
+      "TWzh": "遠仁",
+      "JPja": "エテキチ",
+      "KRko": "시몬",
+      "EUru": "Саймон"
+    }
+  },
+  {
+    "id": "mnk03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tammi",
+      "EUen": "Tammi",
+      "EUde": "Bonni",
+      "EUes": "Tami",
+      "USes": "Tami",
+      "EUfr": "Lili",
+      "USfr": "Lili",
+      "EUit": "Tammi",
+      "EUnl": "Tammi",
+      "CNzh": "四月",
+      "TWzh": "四月",
+      "JPja": "エイプリル",
+      "KRko": "에이프릴",
+      "EUru": "Тэмми"
+    }
+  },
+  {
+    "id": "mnk04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Monty",
+      "EUen": "Monty",
+      "EUde": "Daniel",
+      "EUes": "Burton",
+      "USes": "Burton",
+      "EUfr": "Lourant",
+      "USfr": "Lourant",
+      "EUit": "Mimmo",
+      "EUnl": "Monty",
+      "CNzh": "皮猴",
+      "TWzh": "皮猴",
+      "JPja": "サルモンティ",
+      "KRko": "몽티",
+      "EUru": "Монти"
+    }
+  },
+  {
+    "id": "mnk05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Elise",
+      "EUen": "Elise",
+      "EUde": "Steffi",
+      "EUes": "Mayra",
+      "USes": "Mayra",
+      "EUfr": "Élise",
+      "USfr": "Élise",
+      "EUit": "Elisa",
+      "EUnl": "Elise",
+      "CNzh": "孟琪",
+      "TWzh": "孟琪",
+      "JPja": "モンこ",
+      "KRko": "몽자",
+      "EUru": "Элиза"
+    }
+  },
+  {
+    "id": "mnk06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flip",
+      "EUen": "Flip",
+      "EUde": "Pippo",
+      "EUes": "Monet",
+      "USes": "Monet",
+      "EUfr": "Rudy",
+      "USfr": "Rudy",
+      "EUit": "Benny",
+      "EUnl": "Flip",
+      "CNzh": "天佑",
+      "TWzh": "天佑",
+      "JPja": "さすけ",
+      "KRko": "원승",
+      "EUru": "Флип"
+    }
+  },
+  {
+    "id": "mnk07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Shari",
+      "EUen": "Shari",
+      "EUde": "Uta",
+      "EUes": "Montse",
+      "USes": "Montse",
+      "EUfr": "Luna",
+      "USfr": "Luna",
+      "EUit": "Ninì",
+      "EUnl": "Shari",
+      "CNzh": "雪莉",
+      "TWzh": "雪莉",
+      "JPja": "シェリー",
+      "KRko": "젤리",
+      "EUru": "Шари"
+    }
+  },
+  {
+    "id": "mnk08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Deli",
+      "EUen": "Deli",
+      "EUde": "Anton",
+      "EUes": "Cana",
+      "USes": "Cana",
+      "EUfr": "Magogo",
+      "USfr": "Magogo",
+      "EUit": "Bobo",
+      "EUnl": "Deli",
+      "CNzh": "德里",
+      "TWzh": "德里",
+      "JPja": "デリー",
+      "KRko": "델리",
+      "EUru": "Дели"
+    }
+  },
+  {
+    "id": "mus00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Dora",
+      "EUen": "Dora",
+      "EUde": "Dora",
+      "EUes": "Dori",
+      "USes": "Dori",
+      "EUfr": "Dora",
+      "USfr": "Dora",
+      "EUit": "Serena",
+      "EUnl": "Dora",
+      "CNzh": "杜美",
+      "TWzh": "杜美",
+      "JPja": "とめ",
+      "KRko": "티미",
+      "EUru": "Дора"
+    }
+  },
+  {
+    "id": "mus01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Limberg",
+      "EUen": "Limberg",
+      "EUde": "Rafael",
+      "EUes": "Camember",
+      "USes": "Camember",
+      "EUfr": "Gruyère",
+      "USfr": "Gruyère",
+      "EUit": "Rosico",
+      "EUnl": "Limberg",
+      "CNzh": "韭菜",
+      "TWzh": "韭菜",
+      "JPja": "らっきょ",
+      "KRko": "단무지",
+      "EUru": "Лимберг"
+    }
+  },
+  {
+    "id": "mus02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bella",
+      "EUen": "Bella",
+      "EUde": "Susi",
+      "EUes": "Prity",
+      "USes": "Prity",
+      "EUfr": "Belle",
+      "USfr": "Belle",
+      "EUit": "Bella",
+      "EUnl": "Bella",
+      "CNzh": "贝拉",
+      "TWzh": "貝拉",
+      "JPja": "イザベラ",
+      "KRko": "이자벨",
+      "EUru": "Белла"
+    }
+  },
+  {
+    "id": "mus03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bree",
+      "EUen": "Bree",
+      "EUde": "Jenny",
+      "EUes": "Brie",
+      "USes": "Brie",
+      "EUfr": "Quenotte",
+      "USfr": "Quenotte",
+      "EUit": "Ginella",
+      "EUnl": "Bree",
+      "CNzh": "西瓜皮",
+      "TWzh": "西瓜皮",
+      "JPja": "サラ",
+      "KRko": "사라",
+      "EUru": "Бри"
+    }
+  },
+  {
+    "id": "mus04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Samson",
+      "EUen": "Samson",
+      "EUde": "Samson",
+      "EUes": "Sansón",
+      "USes": "Sansón",
+      "EUfr": "Samson",
+      "USfr": "Samson",
+      "EUit": "Sansone",
+      "EUnl": "Samson",
+      "CNzh": "和平",
+      "TWzh": "和平",
+      "JPja": "ピース",
+      "KRko": "피스",
+      "EUru": "Самсон"
+    }
+  },
+  {
+    "id": "mus05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rod",
+      "EUen": "Rod",
+      "EUde": "Manni",
+      "EUes": "Rodi",
+      "USes": "Rodi",
+      "EUfr": "Marcel",
+      "USfr": "Marcel",
+      "EUit": "Riccardo",
+      "EUnl": "Rod",
+      "CNzh": "阿将",
+      "TWzh": "阿將",
+      "JPja": "ジャン",
+      "KRko": "쟝",
+      "EUru": "Род"
+    }
+  },
+  {
+    "id": "mus08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Candi",
+      "EUen": "Candi",
+      "EUde": "Renate",
+      "EUes": "Chuchi",
+      "USes": "Chuchi",
+      "EUfr": "Sucrette",
+      "USfr": "Sucrette",
+      "EUit": "Mella",
+      "EUnl": "Candi",
+      "CNzh": "甘油",
+      "TWzh": "甘油",
+      "JPja": "かんゆ",
+      "KRko": "사탕",
+      "EUru": "Кэнди"
+    }
+  },
+  {
+    "id": "mus09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rizzo",
+      "EUen": "Rizzo",
+      "EUde": "Ricky",
+      "EUes": "Ratolón",
+      "USes": "Ratolón",
+      "EUfr": "Sourizzi",
+      "USfr": "Sourizzi",
+      "EUit": "Rizzo",
+      "EUnl": "Rizzo",
+      "CNzh": "悄俊",
+      "TWzh": "悄俊",
+      "JPja": "ちょろきち",
+      "KRko": "조르쥐",
+      "EUru": "Риццо"
+    }
+  },
+  {
+    "id": "mus10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Anicotti",
+      "EUen": "Anicotti",
+      "EUde": "Eva",
+      "EUes": "Clorinda",
+      "USes": "Clorinda",
+      "EUfr": "Annie",
+      "USfr": "Annie",
+      "EUit": "Squitta",
+      "EUnl": "Anicotti",
+      "CNzh": "罗萱儿",
+      "TWzh": "羅萱兒",
+      "JPja": "ラザニア",
+      "KRko": "라자냐",
+      "EUru": "Аникотти"
+    }
+  },
+  {
+    "id": "mus12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Broccolo",
+      "EUen": "Broccolo",
+      "EUde": "Fritzi",
+      "EUes": "Brócoli",
+      "USes": "Brócoli",
+      "EUfr": "Steven",
+      "USfr": "Steven",
+      "EUit": "Franco",
+      "EUnl": "Broccolo",
+      "CNzh": "茜蓝",
+      "TWzh": "茜藍",
+      "JPja": "ブロッコリー",
+      "KRko": "브로콜리",
+      "EUru": "Брокколо"
+    }
+  },
+  {
+    "id": "mus14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Moose",
+      "EUen": "Moose",
+      "EUde": "Mausbert",
+      "EUes": "Sato",
+      "USes": "Sato",
+      "EUfr": "Joachim",
+      "USfr": "Joachim",
+      "EUit": "Aldo",
+      "EUnl": "Moose",
+      "CNzh": "阿聘",
+      "TWzh": "阿聘",
+      "JPja": "ピン",
+      "KRko": "핑",
+      "EUru": "Муз"
+    }
+  },
+  {
+    "id": "mus15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bettina",
+      "EUen": "Bettina",
+      "EUde": "Schoki",
+      "EUes": "Ottina",
+      "USes": "Ottina",
+      "EUfr": "Sabrina",
+      "USfr": "Sabrina",
+      "EUit": "Rattina",
+      "EUnl": "Bettina",
+      "CNzh": "丸子",
+      "TWzh": "丸子",
+      "JPja": "マルコ",
+      "KRko": "마르카",
+      "EUru": "Беттина"
+    }
+  },
+  {
+    "id": "mus16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Greta",
+      "EUen": "Greta",
+      "EUde": "Gretel",
+      "EUes": "Jimena",
+      "USes": "Jimena",
+      "EUfr": "Greta",
+      "USfr": "Greta",
+      "EUit": "Greta",
+      "EUnl": "Greta",
+      "CNzh": "如意",
+      "TWzh": "如意",
+      "JPja": "ふくこ",
+      "KRko": "복자",
+      "EUru": "Грета"
+    }
+  },
+  {
+    "id": "mus17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Penelope",
+      "EUen": "Penelope",
+      "EUde": "Penelope",
+      "EUes": "Adela",
+      "USes": "Adela",
+      "EUfr": "Missy",
+      "USfr": "Missy",
+      "EUit": "Penelope",
+      "EUnl": "Penelope",
+      "CNzh": "小啾",
+      "TWzh": "小啾",
+      "JPja": "チューこ",
+      "KRko": "찍순이",
+      "EUru": "Адела"
+    }
+  },
+  {
+    "id": "mus18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chadder",
+      "EUen": "Chadder",
+      "EUde": "Charlie",
+      "EUes": "Roque",
+      "USes": "Roque",
+      "EUfr": "Mozzar",
+      "USfr": "Mozzar",
+      "EUit": "Gruviero",
+      "EUnl": "Chadder",
+      "CNzh": "起司",
+      "TWzh": "起司",
+      "JPja": "チーズ",
+      "KRko": "치즈",
+      "EUru": "Чаддер"
+    }
+  },
+  {
+    "id": "ocp00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Octavian",
+      "EUen": "Octavian",
+      "EUde": "Ottfried",
+      "EUes": "Octavio",
+      "USes": "Octavio",
+      "EUfr": "Octave",
+      "USfr": "Octave",
+      "EUit": "Ottavio",
+      "EUnl": "Octavian",
+      "CNzh": "张瑜",
+      "TWzh": "張瑜",
+      "JPja": "おくたろう",
+      "KRko": "문복",
+      "EUru": "Октавиан"
+    }
+  },
+  {
+    "id": "ocp01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Marina",
+      "EUen": "Marina",
+      "EUde": "Marianne",
+      "EUes": "Marina",
+      "USes": "Marina",
+      "EUfr": "Marina",
+      "USfr": "Marina",
+      "EUit": "Marina",
+      "EUnl": "Marina",
+      "CNzh": "章立娜",
+      "TWzh": "章立娜",
+      "JPja": "タコリーナ",
+      "KRko": "문리나",
+      "EUru": "Марина"
+    }
+  },
+  {
+    "id": "ocp02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Zucker",
+      "EUen": "Zucker",
+      "EUde": "Ottokar",
+      "EUes": "Paulino",
+      "USes": "Paulino",
+      "EUfr": "Marvin",
+      "USfr": "Marvin",
+      "EUit": "Poldo",
+      "EUnl": "Zucker",
+      "CNzh": "章丸丸",
+      "TWzh": "章丸丸",
+      "JPja": "タコヤ",
+      "KRko": "탁호",
+      "EUru": "Цукер"
+    }
+  },
+  {
+    "id": "ost00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Queenie",
+      "EUen": "Queenie",
+      "EUde": "Isabella",
+      "EUes": "Marujita",
+      "USes": "Marujita",
+      "EUfr": "Reine",
+      "USfr": "Reine",
+      "EUit": "Regina",
+      "EUnl": "Queenie",
+      "CNzh": "果果",
+      "TWzh": "果果",
+      "JPja": "タキュ",
+      "KRko": "택주",
+      "EUru": "Квини"
+    }
+  },
+  {
+    "id": "ost01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gladys",
+      "EUen": "Gladys",
+      "EUde": "Sandra",
+      "EUes": "Gladis",
+      "USes": "Gladis",
+      "EUfr": "Gladys",
+      "USfr": "Gladys",
+      "EUit": "Marta",
+      "EUnl": "Gladys",
+      "CNzh": "仙仙",
+      "TWzh": "仙仙",
+      "JPja": "ちとせ",
+      "KRko": "빅토리아",
+      "EUru": "Глэдис"
+    }
+  },
+  {
+    "id": "ost02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sandy",
+      "EUen": "Sandy",
+      "EUde": "Senta",
+      "EUes": "Priscila",
+      "USes": "Priscila",
+      "EUfr": "Ottie",
+      "USfr": "Ottie",
+      "EUit": "Alessia",
+      "EUnl": "Sandy",
+      "CNzh": "小岚",
+      "TWzh": "小嵐",
+      "JPja": "ラン",
+      "KRko": "샌디",
+      "EUru": "Сэнди"
+    }
+  },
+  {
+    "id": "ost03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sprocket",
+      "EUen": "Sprocket",
+      "EUde": "Lutz",
+      "EUes": "Ráfaga",
+      "USes": "Ráfaga",
+      "EUfr": "Laflèche",
+      "USfr": "Laflèche",
+      "EUit": "Frankie",
+      "EUnl": "Sprocket",
+      "CNzh": "鹤兹",
+      "TWzh": "鶴茲",
+      "JPja": "ヘルツ",
+      "KRko": "헤르츠",
+      "EUru": "Спрокет"
+    }
+  },
+  {
+    "id": "ost05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Julia",
+      "EUen": "Julia",
+      "EUde": "Julia",
+      "EUes": "Julia",
+      "USes": "Julia",
+      "EUfr": "Julie",
+      "USfr": "Julie",
+      "EUit": "Giulia",
+      "EUnl": "Julia",
+      "CNzh": "朱莉亚",
+      "TWzh": "朱莉亞",
+      "JPja": "ジュリア",
+      "KRko": "줄리아",
+      "EUru": "Джулия"
+    }
+  },
+  {
+    "id": "ost06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cranston",
+      "EUen": "Cranston",
+      "EUde": "Guido",
+      "EUes": "Carmelo",
+      "USes": "Carmelo",
+      "EUfr": "Gabin",
+      "USfr": "Gabin",
+      "EUit": "Carmine",
+      "EUnl": "Cranston",
+      "CNzh": "朱禄",
+      "TWzh": "朱祿",
+      "JPja": "トキオ",
+      "KRko": "타키",
+      "EUru": "Крэнстон"
+    }
+  },
+  {
+    "id": "ost07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Phil",
+      "EUen": "Phil",
+      "EUde": "Ingo",
+      "EUes": "Amalio",
+      "USes": "Amalio",
+      "EUfr": "Phil",
+      "USfr": "Phil",
+      "EUit": "Enzo",
+      "EUnl": "Phil",
+      "CNzh": "凯恩",
+      "TWzh": "凱恩",
+      "JPja": "ケイン",
+      "KRko": "케인",
+      "EUru": "Фил"
+    }
+  },
+  {
+    "id": "ost08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Blanche",
+      "EUen": "Blanche",
+      "EUde": "Christa",
+      "EUes": "Rocío",
+      "USes": "Rocío",
+      "EUfr": "Sophie",
+      "USfr": "Sophie",
+      "EUit": "Emilia",
+      "EUnl": "Blanche",
+      "CNzh": "小偲",
+      "TWzh": "小偲",
+      "JPja": "しのぶ",
+      "KRko": "신옥",
+      "EUru": "Бланш"
+    }
+  },
+  {
+    "id": "ost09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flora",
+      "EUen": "Flora",
+      "EUde": "Flora",
+      "EUes": "Azucena",
+      "USes": "Azucena",
+      "EUfr": "Justine",
+      "USfr": "Justine",
+      "EUit": "Rosalba",
+      "EUnl": "Flora",
+      "CNzh": "胡拉拉",
+      "TWzh": "胡拉拉",
+      "JPja": "フララ",
+      "KRko": "플라라",
+      "EUru": "Флора"
+    }
+  },
+  {
+    "id": "ost10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Phoebe",
+      "EUen": "Phoebe",
+      "EUde": "Philippa",
+      "EUes": "Avelina",
+      "USes": "Avelina",
+      "EUfr": "Faustine",
+      "USfr": "Faustine",
+      "EUit": "Fenicia",
+      "EUnl": "Phoebe",
+      "CNzh": "火鸟",
+      "TWzh": "火鳥",
+      "JPja": "ヒノコ",
+      "KRko": "휘니",
+      "EUru": "Фиби"
+    }
+  },
+  {
+    "id": "pbr00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Apollo",
+      "EUen": "Apollo",
+      "EUde": "Apollo",
+      "EUes": "Apolo",
+      "USes": "Apolo",
+      "EUfr": "Apollon",
+      "USfr": "Apollon",
+      "EUit": "Apollo",
+      "EUnl": "Apollo",
+      "CNzh": "阿波罗",
+      "TWzh": "阿波羅",
+      "JPja": "アポロ",
+      "KRko": "아폴로",
+      "EUru": "Аполло"
+    }
+  },
+  {
+    "id": "pbr01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Amelia",
+      "EUen": "Amelia",
+      "EUde": "Adelheid",
+      "EUes": "Amelia",
+      "USes": "Amelia",
+      "EUfr": "Aurélie",
+      "USfr": "Aurélie",
+      "EUit": "Amelia",
+      "EUnl": "Amelia",
+      "CNzh": "安地斯",
+      "TWzh": "安地斯",
+      "JPja": "アンデス",
+      "KRko": "안데스",
+      "EUru": "Амелия"
+    }
+  },
+  {
+    "id": "pbr02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pierce",
+      "EUen": "Pierce",
+      "EUde": "Adrian",
+      "EUes": "Hugo",
+      "USes": "Hugo",
+      "EUfr": "Napoléon",
+      "USfr": "Napoléon",
+      "EUit": "Attilio",
+      "EUnl": "Pierce",
+      "CNzh": "谢博强",
+      "TWzh": "謝博強",
+      "JPja": "セバスチャン",
+      "KRko": "세바스찬",
+      "EUru": "Пирс"
+    }
+  },
+  {
+    "id": "pbr03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Buzz",
+      "EUen": "Buzz",
+      "EUde": "Balduin",
+      "EUes": "Nabar",
+      "USes": "Nabar",
+      "EUfr": "Phébus",
+      "USfr": "Phébus",
+      "EUit": "Golia",
+      "EUnl": "Buzz",
+      "CNzh": "继光",
+      "TWzh": "繼光",
+      "JPja": "ひでよし",
+      "KRko": "근엄",
+      "EUru": "Базз"
+    }
+  },
+  {
+    "id": "pbr05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Avery",
+      "EUen": "Avery",
+      "EUde": "Quetzal",
+      "EUes": "Cuzco",
+      "USes": "Cuzco",
+      "EUfr": "Faust",
+      "USfr": "Faust",
+      "EUit": "Falco",
+      "EUnl": "Avery",
+      "CNzh": "安谷斯",
+      "TWzh": "安谷斯",
+      "JPja": "クスケチャ",
+      "KRko": "쿠스케처",
+      "EUru": "Авери"
+    }
+  },
+  {
+    "id": "pbr06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Frank",
+      "EUen": "Frank",
+      "EUde": "Arthur",
+      "EUes": "Aquilino",
+      "USes": "Aquilino",
+      "EUfr": "Greggae",
+      "USfr": "Greggae",
+      "EUit": "Frank",
+      "EUnl": "Frank",
+      "CNzh": "浩克",
+      "TWzh": "浩克",
+      "JPja": "ハルク",
+      "KRko": "헐크",
+      "EUru": "Франк"
+    }
+  },
+  {
+    "id": "pbr07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sterling",
+      "EUen": "Sterling",
+      "EUde": "Horst",
+      "EUes": "Arni",
+      "USes": "Arni",
+      "EUfr": "Manfred",
+      "USfr": "Manfred",
+      "EUit": "Beccodì",
+      "EUnl": "Sterling",
+      "CNzh": "银阁",
+      "TWzh": "銀閣",
+      "JPja": "ギンカク",
+      "KRko": "은수리",
+      "EUru": "Стерлинг"
+    }
+  },
+  {
+    "id": "pbr08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Keaton",
+      "EUen": "Keaton",
+      "EUde": "Kai",
+      "EUes": "Lucho",
+      "USes": "Lucho",
+      "EUfr": "Enzo",
+      "USfr": "Enzo",
+      "EUit": "Aquilio",
+      "EUnl": "Keaton",
+      "CNzh": "法兰克",
+      "TWzh": "法蘭克",
+      "JPja": "フランク",
+      "KRko": "프랭크",
+      "EUru": "Китон"
+    }
+  },
+  {
+    "id": "pbr09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Celia",
+      "EUen": "Celia",
+      "EUde": "Lora",
+      "EUes": "Jazmín",
+      "USes": "Jazmín",
+      "EUfr": "Garance",
+      "USfr": "Garance",
+      "EUit": "Celia",
+      "EUnl": "Celia",
+      "CNzh": "蒂芬妮",
+      "TWzh": "蒂芬妮",
+      "JPja": "ティファニー",
+      "KRko": "티파니",
+      "EUru": "Селия"
+    }
+  },
+  {
+    "id": "pgn00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aurora",
+      "EUen": "Aurora",
+      "EUde": "Sonja",
+      "EUes": "Aurora",
+      "USes": "Aurora",
+      "EUfr": "Aurore",
+      "USfr": "Aurore",
+      "EUit": "Aurora",
+      "EUnl": "Aurora",
+      "CNzh": "欧若拉",
+      "TWzh": "歐若拉",
+      "JPja": "オーロラ",
+      "KRko": "오로라",
+      "EUru": "Аврора"
+    }
+  },
+  {
+    "id": "pgn01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Roald",
+      "EUen": "Roald",
+      "EUde": "Roland",
+      "EUes": "Bobi",
+      "USes": "Bobi",
+      "EUfr": "Reynald",
+      "USfr": "Reynald",
+      "EUit": "Angelino",
+      "EUnl": "Roald",
+      "CNzh": "企鹅达",
+      "TWzh": "企鵝達",
+      "JPja": "ペンタ",
+      "KRko": "펭수",
+      "EUru": "Роальд"
+    }
+  },
+  {
+    "id": "pgn02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cube",
+      "EUen": "Cube",
+      "EUde": "Cube",
+      "EUes": "Cube",
+      "USes": "Cube",
+      "EUfr": "Cube",
+      "USfr": "Cube",
+      "EUit": "Cubetto",
+      "EUnl": "Cube",
+      "CNzh": "罗斯",
+      "TWzh": "羅斯",
+      "JPja": "ビス",
+      "KRko": "빙수",
+      "EUru": "Кьюб"
+    }
+  },
+  {
+    "id": "pgn03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hopper",
+      "EUen": "Hopper",
+      "EUde": "Hauke",
+      "EUes": "Güiñón",
+      "USes": "Güiñón",
+      "EUfr": "Victor",
+      "USfr": "Victor",
+      "EUit": "Pinguaio",
+      "EUnl": "Hopper",
+      "CNzh": "达满",
+      "TWzh": "達滿",
+      "JPja": "ダルマン",
+      "KRko": "달만이",
+      "EUru": "Хоппер"
+    }
+  },
+  {
+    "id": "pgn04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Friga",
+      "EUen": "Friga",
+      "EUde": "Frieda",
+      "EUes": "Frida",
+      "USes": "Frida",
+      "EUfr": "Friga",
+      "USfr": "Friga",
+      "EUit": "Frida",
+      "EUnl": "Friga",
+      "CNzh": "谢宾娜",
+      "TWzh": "謝賓娜",
+      "JPja": "サブリナ",
+      "KRko": "사브리나",
+      "EUru": "Фрига"
+    }
+  },
+  {
+    "id": "pgn05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gwen",
+      "EUen": "Gwen",
+      "EUde": "Judith",
+      "EUes": "Fabiola",
+      "USes": "Fabiola",
+      "EUfr": "Gwen",
+      "USfr": "Gwen",
+      "EUit": "Gelinda",
+      "EUnl": "Gwen",
+      "CNzh": "宝拉",
+      "TWzh": "寶拉",
+      "JPja": "ポーラ",
+      "KRko": "폴라",
+      "EUru": "Гвен"
+    }
+  },
+  {
+    "id": "pgn06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Puck",
+      "EUen": "Puck",
+      "EUde": "Puck",
+      "EUes": "Fredo",
+      "USes": "Fredo",
+      "EUfr": "Hervé",
+      "USfr": "Hervé",
+      "EUit": "Glacido",
+      "EUnl": "Puck",
+      "CNzh": "哈奇",
+      "TWzh": "哈奇",
+      "JPja": "ホッケー",
+      "KRko": "하키",
+      "EUru": "Пак"
+    }
+  },
+  {
+    "id": "pgn09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wade",
+      "EUen": "Wade",
+      "EUde": "Staksi",
+      "EUes": "Petín",
+      "USes": "Petín",
+      "EUfr": "Miglou",
+      "USfr": "Miglou",
+      "EUit": "Plinio",
+      "EUnl": "Wade",
+      "CNzh": "竹轮",
+      "TWzh": "竹輪",
+      "JPja": "カマボコ",
+      "KRko": "호떡",
+      "EUru": "Уэйд"
+    }
+  },
+  {
+    "id": "pgn10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Boomer",
+      "EUen": "Boomer",
+      "EUde": "Max",
+      "EUes": "Serafino",
+      "USes": "Serafino",
+      "EUfr": "Ethan",
+      "USfr": "Ethan",
+      "EUit": "Icaro",
+      "EUnl": "Boomer",
+      "CNzh": "秀益",
+      "TWzh": "秀益",
+      "JPja": "ショーイ",
+      "KRko": "팽기",
+      "EUru": "Бумер"
+    }
+  },
+  {
+    "id": "pgn11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Iggly",
+      "EUen": "Iggly",
+      "EUde": "Pingi",
+      "EUes": "Bobo",
+      "USes": "Bobo",
+      "EUfr": "Urbain",
+      "USfr": "Urbain",
+      "EUit": "Piccio",
+      "EUnl": "Iggly",
+      "CNzh": "花寿司",
+      "TWzh": "花壽司",
+      "JPja": "のりまき",
+      "KRko": "김말이",
+      "EUru": "Игли"
+    }
+  },
+  {
+    "id": "pgn12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tex",
+      "EUen": "Tex",
+      "EUde": "Matze",
+      "EUes": "Tomeo",
+      "USes": "Tomeo",
+      "EUfr": "Émilien",
+      "USfr": "Émilien",
+      "EUit": "Freddy",
+      "EUnl": "Tex",
+      "CNzh": "伏特",
+      "TWzh": "伏特",
+      "JPja": "ボルト",
+      "KRko": "볼트",
+      "EUru": "Текс"
+    }
+  },
+  {
+    "id": "pgn13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flo",
+      "EUen": "Flo",
+      "EUde": "Susanne",
+      "EUes": "Nieves",
+      "USes": "Nieves",
+      "EUfr": "Nora",
+      "USfr": "Nora",
+      "EUit": "Nives",
+      "EUnl": "Flo",
+      "CNzh": "蕾拉",
+      "TWzh": "蕾拉",
+      "JPja": "レイラ",
+      "KRko": "레이라",
+      "EUru": "Фло"
+    }
+  },
+  {
+    "id": "pgn14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sprinkle",
+      "EUen": "Sprinkle",
+      "EUde": "Svenja",
+      "EUes": "Rizolda",
+      "USes": "Rizolda",
+      "EUfr": "Laurie",
+      "USfr": "Laurie",
+      "EUit": "Brina",
+      "EUnl": "Sprinkle",
+      "CNzh": "冰莎",
+      "TWzh": "冰莎",
+      "JPja": "フラッペ",
+      "KRko": "크리미",
+      "EUru": "Спринкл"
+    }
+  },
+  {
+    "id": "pig00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Curly",
+      "EUen": "Curly",
+      "EUde": "Oink",
+      "EUes": "Rufueto",
+      "USes": "Rufueto",
+      "EUfr": "Tirbou",
+      "USfr": "Tirbou",
+      "EUit": "Ricciolo",
+      "EUnl": "Curly",
+      "CNzh": "胜利",
+      "TWzh": "勝利",
+      "JPja": "ハムカツ",
+      "KRko": "햄까스",
+      "EUru": "Керли"
+    }
+  },
+  {
+    "id": "pig01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Truffles",
+      "EUen": "Truffles",
+      "EUde": "Luzie",
+      "EUes": "Trufas",
+      "USes": "Trufas",
+      "EUfr": "Trufa",
+      "USfr": "Trufa",
+      "EUit": "Grufetta",
+      "EUnl": "Truffles",
+      "CNzh": "嘟嘟",
+      "TWzh": "嘟嘟",
+      "JPja": "トンコ",
+      "KRko": "탱고",
+      "EUru": "Трафлс"
+    }
+  },
+  {
+    "id": "pig02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rasher",
+      "EUen": "Rasher",
+      "EUde": "Ede",
+      "EUes": "Curtis",
+      "USes": "Curtis",
+      "EUfr": "Salami",
+      "USfr": "Salami",
+      "EUit": "Broncio",
+      "EUnl": "Rasher",
+      "CNzh": "古烈",
+      "TWzh": "古烈",
+      "JPja": "グレオ",
+      "KRko": "글레이",
+      "EUru": "Рашер"
+    }
+  },
+  {
+    "id": "pig03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hugh",
+      "EUen": "Hugh",
+      "EUde": "Hugo",
+      "EUes": "Jacobo",
+      "USes": "Jacobo",
+      "EUfr": "Bonno",
+      "USfr": "Bonno",
+      "EUit": "Jambon",
+      "EUnl": "Hugh",
+      "CNzh": "阿猪",
+      "TWzh": "阿豬",
+      "JPja": "クッチャネ",
+      "KRko": "먹고파",
+      "EUru": "Хью"
+    }
+  },
+  {
+    "id": "pig04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lucy",
+      "EUen": "Lucy",
+      "EUde": "Larissa",
+      "EUes": "Aurelia",
+      "USes": "Aurelia",
+      "EUfr": "Lucie",
+      "USfr": "Lucie",
+      "EUit": "Lucy",
+      "EUnl": "Lucy",
+      "CNzh": "露西",
+      "TWzh": "露西",
+      "JPja": "ルーシー",
+      "KRko": "루시",
+      "EUru": "Люси"
+    }
+  },
+  {
+    "id": "pig05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Spork",
+      "EUen": "Crackle",
+      "EUde": "Schwarte",
+      "EUes": "Espork",
+      "USes": "Espork",
+      "EUfr": "Justin",
+      "USfr": "Justin",
+      "EUit": "Cicciolo",
+      "EUnl": "Crackle",
+      "CNzh": "肉肉",
+      "TWzh": "肉肉",
+      "JPja": "ポーク",
+      "KRko": "포크",
+      "EUru": "Крэкл"
+    }
+  },
+  {
+    "id": "pig08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cobb",
+      "EUen": "Cobb",
+      "EUde": "Rolo",
+      "EUes": "Franfuá",
+      "USes": "Franfuá",
+      "EUfr": "Porken",
+      "USfr": "Porken",
+      "EUit": "Wurst",
+      "EUnl": "Cobb",
+      "CNzh": "博士",
+      "TWzh": "博士",
+      "JPja": "ハカセ",
+      "KRko": "박사",
+      "EUru": "Кобб"
+    }
+  },
+  {
+    "id": "pig09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Boris",
+      "EUen": "Boris",
+      "EUde": "Bolle",
+      "EUes": "Boris",
+      "USes": "Boris",
+      "EUfr": "Boris",
+      "USfr": "Boris",
+      "EUit": "Boris",
+      "EUnl": "Boris",
+      "CNzh": "达利",
+      "TWzh": "達利",
+      "JPja": "ダリー",
+      "KRko": "보리",
+      "EUru": "Борис"
+    }
+  },
+  {
+    "id": "pig10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Maggie",
+      "EUen": "Maggie",
+      "EUde": "Magda",
+      "EUes": "Margarí",
+      "USes": "Margarí",
+      "EUfr": "Marjorie",
+      "USfr": "Marjorie",
+      "EUit": "Marcella",
+      "EUnl": "Maggie",
+      "CNzh": "玛格",
+      "TWzh": "瑪格",
+      "JPja": "マーガレット",
+      "KRko": "마가렛",
+      "EUru": "Мэгги"
+    }
+  },
+  {
+    "id": "pig11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Peggy",
+      "EUen": "Peggy",
+      "EUde": "Quiekie",
+      "EUes": "Peggy",
+      "USes": "Peggy",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Sally",
+      "EUnl": "Peggy",
+      "CNzh": "千惠",
+      "TWzh": "千惠",
+      "JPja": "ちえり",
+      "KRko": "체리",
+      "EUru": "Пегги"
+    }
+  },
+  {
+    "id": "pig13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gala",
+      "EUen": "Gala",
+      "EUde": "Oinka",
+      "EUes": "Marita",
+      "USes": "Marita",
+      "EUfr": "Camille",
+      "USfr": "Camille",
+      "EUit": "Lisetta",
+      "EUnl": "Gala",
+      "CNzh": "小芽",
+      "TWzh": "小芽",
+      "JPja": "ためこ",
+      "KRko": "꽃지",
+      "EUru": "Гала"
+    }
+  },
+  {
+    "id": "pig14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chops",
+      "EUen": "Chops",
+      "EUde": "Clemens",
+      "EUes": "Solomín",
+      "USes": "Solomín",
+      "EUfr": "Aaron",
+      "USfr": "Aaron",
+      "EUit": "Lino",
+      "EUnl": "Chops",
+      "CNzh": "豚皇",
+      "TWzh": "豚皇",
+      "JPja": "トンファン",
+      "KRko": "돈후앙",
+      "EUru": "Чопс"
+    }
+  },
+  {
+    "id": "pig15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kevin",
+      "EUen": "Kevin",
+      "EUde": "Kevin",
+      "EUes": "Porcinio",
+      "USes": "Porcinio",
+      "EUfr": "Jean-Bon",
+      "USfr": "Jean-Bon",
+      "EUit": "Kotekiño",
+      "EUnl": "Kevin",
+      "CNzh": "伊比利",
+      "TWzh": "伊比利",
+      "JPja": "イノッチ",
+      "KRko": "멧지",
+      "EUru": "Кевин"
+    }
+  },
+  {
+    "id": "pig16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pancetti",
+      "EUen": "Pancetti",
+      "EUde": "Brigitte",
+      "EUes": "Talía",
+      "USes": "Talía",
+      "EUfr": "Lydie",
+      "USfr": "Lydie",
+      "EUit": "Cicciola",
+      "EUnl": "Pancetti",
+      "CNzh": "布兰妮",
+      "TWzh": "布蘭妮",
+      "JPja": "ブリトニー",
+      "KRko": "브리트니",
+      "EUru": "Панчетти"
+    }
+  },
+  {
+    "id": "pig17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Agnes",
+      "EUen": "Agnes",
+      "EUde": "Nora",
+      "EUes": "Negrea",
+      "USes": "Nerea",
+      "EUfr": "Pansy",
+      "USfr": "Pansy",
+      "EUit": "Maia",
+      "EUnl": "Agnes",
+      "CNzh": "古乃欣",
+      "TWzh": "古乃欣",
+      "JPja": "アグネス",
+      "KRko": "아그네스",
+      "EUru": "Агнес"
+    }
+  },
+  {
+    "id": "rbt00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bunnie",
+      "EUen": "Bunnie",
+      "EUde": "Mimmi",
+      "EUes": "Coni",
+      "USes": "Coni",
+      "EUfr": "Clara",
+      "USfr": "Clara",
+      "EUit": "Bonny",
+      "EUnl": "Bunnie",
+      "CNzh": "莉莉安",
+      "TWzh": "莉莉安",
+      "JPja": "リリアン",
+      "KRko": "릴리안",
+      "EUru": "Банни"
+    }
+  },
+  {
+    "id": "rbt01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Dotty",
+      "EUen": "Dotty",
+      "EUde": "Doro",
+      "EUes": "Katia",
+      "USes": "Katia",
+      "EUfr": "Dorothée",
+      "USfr": "Dorothée",
+      "EUit": "Dotty",
+      "EUnl": "Dotty",
+      "CNzh": "玛莎",
+      "TWzh": "瑪莎",
+      "JPja": "マーサ",
+      "KRko": "서머",
+      "EUru": "Дотти"
+    }
+  },
+  {
+    "id": "rbt02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Coco",
+      "EUen": "Coco",
+      "EUde": "Koko",
+      "EUes": "Cocoloca",
+      "USes": "Cocoloca",
+      "EUfr": "Coco",
+      "USfr": "Coco",
+      "EUit": "Coco",
+      "EUnl": "Coco",
+      "CNzh": "仰韶",
+      "TWzh": "仰韶",
+      "JPja": "やよい",
+      "KRko": "이요",
+      "EUru": "Коко"
+    }
+  },
+  {
+    "id": "rbt03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Snake",
+      "EUen": "Snake",
+      "EUde": "Philip",
+      "EUes": "Rayo",
+      "USes": "Rayo",
+      "EUfr": "Jeannot",
+      "USfr": "Jeannot",
+      "EUit": "Razzo",
+      "EUnl": "Snake",
+      "CNzh": "百川",
+      "TWzh": "百川",
+      "JPja": "モモチ",
+      "KRko": "닌토",
+      "EUru": "Снейк"
+    }
+  },
+  {
+    "id": "rbt04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gaston",
+      "EUen": "Gaston",
+      "EUde": "Gaston",
+      "EUes": "Gastón",
+      "USes": "Gastón",
+      "EUfr": "Gaston",
+      "USfr": "Gaston",
+      "EUit": "Gaston",
+      "EUnl": "Gaston",
+      "CNzh": "猛兔",
+      "TWzh": "猛兔",
+      "JPja": "モサキチ",
+      "KRko": "대길",
+      "EUru": "Гастон"
+    }
+  },
+  {
+    "id": "rbt05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gabi",
+      "EUen": "Gabi",
+      "EUde": "Gabi",
+      "EUes": "Piluca",
+      "USes": "Piluca",
+      "EUfr": "Gaby",
+      "USfr": "Gaby",
+      "EUit": "Gabri",
+      "EUnl": "Gabi",
+      "CNzh": "珮琪",
+      "TWzh": "珮琪",
+      "JPja": "ペチカ",
+      "KRko": "패티카",
+      "EUru": "Габи"
+    }
+  },
+  {
+    "id": "rbt06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pippy",
+      "EUen": "Pippy",
+      "EUde": "Lotta",
+      "EUes": "Méloni",
+      "USes": "Méloni",
+      "EUfr": "Nadia",
+      "USfr": "Nadia",
+      "EUit": "Pippi",
+      "EUnl": "Pippy",
+      "CNzh": "罗塔",
+      "TWzh": "羅塔",
+      "JPja": "ロッタ",
+      "KRko": "로타",
+      "EUru": "Пиппи"
+    }
+  },
+  {
+    "id": "rbt07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tiffany",
+      "EUen": "Tiffany",
+      "EUde": "Michelle",
+      "EUes": "Tiffany",
+      "USes": "Tiffany",
+      "EUfr": "Tiphaine",
+      "USfr": "Tiphaine",
+      "EUit": "Stefania",
+      "EUnl": "Tiffany",
+      "CNzh": "大姐头",
+      "TWzh": "大姐頭",
+      "JPja": "バズレー",
+      "KRko": "바슬레",
+      "EUru": "Тиффани"
+    }
+  },
+  {
+    "id": "rbt08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Genji",
+      "EUen": "Genji",
+      "EUde": "Aki",
+      "EUes": "Sumo",
+      "USes": "Sumo",
+      "EUfr": "Kali",
+      "USfr": "Kali",
+      "EUit": "Genji",
+      "EUnl": "Genji",
+      "CNzh": "儒林",
+      "TWzh": "儒林",
+      "JPja": "ゲンジ",
+      "KRko": "토시",
+      "EUru": "Гэндзи"
+    }
+  },
+  {
+    "id": "rbt09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ruby",
+      "EUen": "Ruby",
+      "EUde": "Rubina",
+      "EUes": "Rubí",
+      "USes": "Rubí",
+      "EUfr": "Rubis",
+      "USfr": "Rubis",
+      "EUit": "Rubina",
+      "EUnl": "Ruby",
+      "CNzh": "月兔",
+      "TWzh": "月兔",
+      "JPja": "ルナ",
+      "KRko": "루나",
+      "EUru": "Руби"
+    }
+  },
+  {
+    "id": "rbt10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Doc",
+      "EUen": "Doc",
+      "EUde": "Gustl",
+      "EUes": "Crispín",
+      "USes": "Crispín",
+      "EUfr": "Doc",
+      "USfr": "Doc",
+      "EUit": "Doc",
+      "EUnl": "Doc",
+      "CNzh": "阿飞",
+      "TWzh": "阿飛",
+      "JPja": "トビオ",
+      "KRko": "토니",
+      "EUru": "Док"
+    }
+  },
+  {
+    "id": "rbt11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Claude",
+      "EUen": "Claude",
+      "EUde": "Claude",
+      "EUes": "Pablo",
+      "USes": "Pablo",
+      "EUfr": "Claude",
+      "USfr": "Claude",
+      "EUit": "Claude",
+      "EUnl": "Claude",
+      "CNzh": "阿醋",
+      "TWzh": "阿醋",
+      "JPja": "ビネガー",
+      "KRko": "비니거",
+      "EUru": "Клод"
+    }
+  },
+  {
+    "id": "rbt12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Francine",
+      "EUen": "Francine",
+      "EUde": "Manu",
+      "EUes": "Natacha",
+      "USes": "Natacha",
+      "EUfr": "Nadine",
+      "USfr": "Nadine",
+      "EUit": "Franca",
+      "EUnl": "Francine",
+      "CNzh": "法蓝琪",
+      "TWzh": "法藍琪",
+      "JPja": "フランソワ",
+      "KRko": "프랑소와",
+      "EUru": "Франсин"
+    }
+  },
+  {
+    "id": "rbt13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chrissy",
+      "EUen": "Chrissy",
+      "EUde": "Anne",
+      "EUes": "Lali",
+      "USes": "Lali",
+      "EUfr": "Kristine",
+      "USfr": "Kristine",
+      "EUit": "Natascha",
+      "EUnl": "Chrissy",
+      "CNzh": "克莉琪",
+      "TWzh": "克莉琪",
+      "JPja": "クリスチーヌ",
+      "KRko": "크리스틴",
+      "EUru": "Крисси"
+    }
+  },
+  {
+    "id": "rbt14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hopkins",
+      "EUen": "Hopkins",
+      "EUde": "Poldi",
+      "EUes": "Saltiago",
+      "USes": "Saltiago",
+      "EUfr": "Grignote",
+      "USfr": "Grignote",
+      "EUit": "Azeglio",
+      "EUnl": "Hopkins",
+      "CNzh": "风杰",
+      "TWzh": "風杰",
+      "JPja": "プースケ",
+      "KRko": "홉킨스",
+      "EUru": "Хопкинс"
+    }
+  },
+  {
+    "id": "rbt15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "O'Hare",
+      "EUen": "O'Hare",
+      "EUde": "Nico",
+      "EUes": "Ernesto",
+      "USes": "Ernesto",
+      "EUfr": "Civet",
+      "USfr": "Civet",
+      "EUit": "Fritz",
+      "EUnl": "O'Hare",
+      "CNzh": "桑托斯",
+      "TWzh": "桑托斯",
+      "JPja": "サントス",
+      "KRko": "산토스",
+      "EUru": "О'Хэар"
+    }
+  },
+  {
+    "id": "rbt16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Carmen",
+      "EUen": "Carmen",
+      "EUde": "Hilda",
+      "EUes": "Linda",
+      "USes": "Linda",
+      "EUfr": "Zoé",
+      "USfr": "Zoé",
+      "EUit": "Conny",
+      "EUnl": "Carmen",
+      "CNzh": "巧蔻",
+      "TWzh": "巧蔻",
+      "JPja": "チョコ",
+      "KRko": "초코",
+      "EUru": "Кармен"
+    }
+  },
+  {
+    "id": "rbt17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bonbon",
+      "EUen": "Bonbon",
+      "EUde": "Henrike",
+      "EUes": "Chocolat",
+      "USes": "Chocolat",
+      "EUfr": "Sylvette",
+      "USfr": "Sylvette",
+      "EUit": "Lolly",
+      "EUnl": "Bonbon",
+      "CNzh": "妙妙",
+      "TWzh": "妙妙",
+      "JPja": "ミミィ",
+      "KRko": "미미",
+      "EUru": "Бонбон"
+    }
+  },
+  {
+    "id": "rbt18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cole",
+      "EUen": "Cole",
+      "EUde": "Karl",
+      "EUes": "Nicolás",
+      "USes": "Nicolás",
+      "EUfr": "Épicure",
+      "USfr": "Épicure",
+      "EUit": "Lello",
+      "EUnl": "Cole",
+      "CNzh": "阿甘",
+      "TWzh": "阿甘",
+      "JPja": "アマミン",
+      "KRko": "아마민",
+      "EUru": "Коул"
+    }
+  },
+  {
+    "id": "rbt19",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mira",
+      "EUen": "Mira",
+      "EUde": "Mira",
+      "EUes": "Amparo",
+      "USes": "Amparo",
+      "EUfr": "Grisette",
+      "USfr": "Grisette",
+      "EUit": "Martina",
+      "EUnl": "Mira",
+      "CNzh": "蜜拉",
+      "TWzh": "蜜拉",
+      "JPja": "ミラコ",
+      "KRko": "미랑",
+      "EUru": "Мира"
+    }
+  },
+  {
+    "id": "rbt20",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Toby",
+      "EUen": "Toby",
+      "EUde": "Toby",
+      "EUes": "Toby",
+      "USes": "Toby",
+      "EUfr": "Toby",
+      "USfr": "Toby",
+      "EUit": "Toby",
+      "EUnl": "Toby",
+      "CNzh": "咚比",
+      "TWzh": "咚比",
+      "JPja": "トビー",
+      "KRko": "토비",
+      "EUru": "Тоби"
+    }
+  },
+  {
+    "id": "rhn00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tank",
+      "EUen": "Tank",
+      "EUde": "Frank",
+      "EUes": "Aníbal",
+      "USes": "Aníbal",
+      "EUfr": "Ben",
+      "USfr": "Ben",
+      "EUit": "Rinaldo",
+      "EUnl": "Tank",
+      "CNzh": "阿足",
+      "TWzh": "阿足",
+      "JPja": "くるぶし",
+      "KRko": "탱크",
+      "EUru": "Танк"
+    }
+  },
+  {
+    "id": "rhn01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rhonda",
+      "EUen": "Rhonda",
+      "EUde": "Regina",
+      "EUes": "Ronda",
+      "USes": "Ronda",
+      "EUfr": "Renée",
+      "USfr": "Renée",
+      "EUit": "Roby",
+      "EUnl": "Rhonda",
+      "CNzh": "梦梦",
+      "TWzh": "夢夢",
+      "JPja": "ユメコ",
+      "KRko": "론다",
+      "EUru": "Ронда"
+    }
+  },
+  {
+    "id": "rhn02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Spike",
+      "EUen": "Spike",
+      "EUde": "Atze",
+      "EUes": "Cornio",
+      "USes": "Cornio",
+      "EUfr": "Rhino",
+      "USfr": "Rhino",
+      "EUit": "Bruto",
+      "EUnl": "Spike",
+      "CNzh": "阿蹲",
+      "TWzh": "阿蹲",
+      "JPja": "スクワット",
+      "KRko": "스쿼트",
+      "EUru": "Спайк"
+    }
+  },
+  {
+    "id": "rhn04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hornsby",
+      "EUen": "Hornsby",
+      "EUde": "Rüdiger",
+      "EUes": "Rino",
+      "USes": "Rino",
+      "EUfr": "Cornio",
+      "USfr": "Cornio",
+      "EUit": "Rino",
+      "EUnl": "Hornsby",
+      "CNzh": "光雄",
+      "TWzh": "光雄",
+      "JPja": "みつお",
+      "KRko": "뿌람",
+      "EUru": "Хорнсби"
+    }
+  },
+  {
+    "id": "rhn07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Merengue",
+      "EUen": "Merengue",
+      "EUde": "Maria",
+      "EUes": "Natura",
+      "USes": "Natura",
+      "EUfr": "Patty",
+      "USfr": "Patty",
+      "EUit": "Irina",
+      "EUnl": "Merengue",
+      "CNzh": "草莓",
+      "TWzh": "草莓",
+      "JPja": "パティ",
+      "KRko": "스트로베리",
+      "EUru": "Меренг"
+    }
+  },
+  {
+    "id": "rhn08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Renée",
+      "EUen": "Renée",
+      "EUde": "Ilona",
+      "EUes": "Rina",
+      "USes": "Rina",
+      "EUfr": "Rina",
+      "USfr": "Rina",
+      "EUit": "Renata",
+      "EUnl": "Renée",
+      "CNzh": "柴姐",
+      "TWzh": "柴姐",
+      "JPja": "おさい",
+      "KRko": "뿔님이",
+      "EUru": "Рене"
+    }
+  },
+  {
+    "id": "shp00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Vesta",
+      "EUen": "Vesta",
+      "EUde": "Dolly",
+      "EUes": "Vesta",
+      "USes": "Vesta",
+      "EUfr": "Hélaine",
+      "USfr": "Hélaine",
+      "EUit": "Lanella",
+      "EUnl": "Vesta",
+      "CNzh": "绵绵",
+      "TWzh": "綿綿",
+      "JPja": "メリヤス",
+      "KRko": "메리어스",
+      "EUru": "Веста"
+    }
+  },
+  {
+    "id": "shp01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Baabara",
+      "EUen": "Baabara",
+      "EUde": "Babsi",
+      "EUes": "Beelén",
+      "USes": "Beelén",
+      "EUfr": "Bêêtty",
+      "USfr": "Bêêtty",
+      "EUit": "Bea",
+      "EUnl": "Baabara",
+      "CNzh": "华尔滋",
+      "TWzh": "華爾滋",
+      "JPja": "トロワ",
+      "KRko": "트로와",
+      "EUru": "Бабара"
+    }
+  },
+  {
+    "id": "shp02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Eunice",
+      "EUen": "Eunice",
+      "EUde": "Edith",
+      "EUes": "Lanolina",
+      "USes": "Lanolina",
+      "EUfr": "Bérénice",
+      "USfr": "Bérénice",
+      "EUit": "Tenerina",
+      "EUnl": "Eunice",
+      "CNzh": "毛海儿",
+      "TWzh": "毛海兒",
+      "JPja": "モヘア",
+      "KRko": "곱슬이",
+      "EUru": "Юнис"
+    }
+  },
+  {
+    "id": "shp03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Stella",
+      "EUen": "Stella",
+      "EUde": "Stella",
+      "EUes": "Merina",
+      "USes": "Merina",
+      "EUfr": "Bigoudi",
+      "USfr": "Bigoudi",
+      "EUit": "Merina",
+      "EUnl": "Stella",
+      "CNzh": "毡毡",
+      "TWzh": "氈氈",
+      "JPja": "アクリル",
+      "KRko": "아크릴",
+      "EUru": "Стелла"
+    }
+  },
+  {
+    "id": "shp04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cashmere",
+      "EUen": "Cashmere",
+      "EUde": "Lana",
+      "EUes": "Cachemir",
+      "USes": "Cachemir",
+      "EUfr": "Cashmir",
+      "USfr": "Cashmir",
+      "EUit": "Cashmere",
+      "EUnl": "Cashmere",
+      "CNzh": "爱睦",
+      "TWzh": "愛睦",
+      "JPja": "ラムール",
+      "KRko": "캐시미어",
+      "EUru": "Кашмир"
+    }
+  },
+  {
+    "id": "shp07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Willow",
+      "EUen": "Willow",
+      "EUde": "Natascha",
+      "EUes": "Cuqui",
+      "USes": "Cuqui",
+      "EUfr": "Maï",
+      "USfr": "Maï",
+      "EUit": "Belinda",
+      "EUnl": "Willow",
+      "CNzh": "梅丽诺",
+      "TWzh": "梅麗諾",
+      "JPja": "マリー",
+      "KRko": "마리",
+      "EUru": "Уиллоу"
+    }
+  },
+  {
+    "id": "shp08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Curlos",
+      "EUen": "Curlos",
+      "EUde": "Locke",
+      "EUes": "Carnerio",
+      "USes": "Carnerio",
+      "EUfr": "Tonton",
+      "USfr": "Tonton",
+      "EUit": "Boccolo",
+      "EUnl": "Curlos",
+      "CNzh": "贾洛斯",
+      "TWzh": "賈洛斯",
+      "JPja": "カルロス",
+      "KRko": "카를로스",
+      "EUru": "Керлос"
+    }
+  },
+  {
+    "id": "shp09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wendy",
+      "EUen": "Wendy",
+      "EUde": "Wolli",
+      "EUes": "Franela",
+      "USes": "Franela",
+      "EUfr": "Karen",
+      "USfr": "Karen",
+      "EUit": "Agnola",
+      "EUnl": "Wendy",
+      "CNzh": "雪花",
+      "TWzh": "雪花",
+      "JPja": "みぞれ",
+      "KRko": "눈송이",
+      "EUru": "Венди"
+    }
+  },
+  {
+    "id": "shp10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Timbra",
+      "EUen": "Timbra",
+      "EUde": "Tippsi",
+      "EUes": "Hebra",
+      "USes": "Hebra",
+      "EUfr": "Sélène",
+      "USfr": "Sélène",
+      "EUit": "Ambra",
+      "EUnl": "Timbra",
+      "CNzh": "阿司",
+      "TWzh": "阿司",
+      "JPja": "つかさ",
+      "KRko": "잔디",
+      "EUru": "Тимбра"
+    }
+  },
+  {
+    "id": "shp11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Frita",
+      "EUen": "Frita",
+      "EUde": "Martina",
+      "EUes": "Ovinia",
+      "USes": "Ovinia",
+      "EUfr": "Clarabêl",
+      "USfr": "Clarabêl",
+      "EUit": "Landa",
+      "EUnl": "Frita",
+      "CNzh": "温蒂",
+      "TWzh": "溫蒂",
+      "JPja": "ウェンディ",
+      "KRko": "웬디",
+      "EUru": "Фрита"
+    }
+  },
+  {
+    "id": "shp12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Muffy",
+      "EUen": "Muffy",
+      "EUde": "Marion",
+      "EUes": "Muaré",
+      "USes": "Muaré",
+      "EUfr": "Charlène",
+      "USfr": "Charlène",
+      "EUit": "Morena",
+      "EUnl": "Muffy",
+      "CNzh": "彭澎",
+      "TWzh": "彭澎",
+      "JPja": "フリル",
+      "KRko": "프릴",
+      "EUru": "Маффи"
+    }
+  },
+  {
+    "id": "shp13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pietro",
+      "EUen": "Pietro",
+      "EUde": "Pietro",
+      "EUes": "Kikolor",
+      "USes": "Kikolor",
+      "EUfr": "Pietro",
+      "USfr": "Pietro",
+      "EUit": "Giulivo",
+      "EUnl": "Pietro",
+      "CNzh": "皮耶罗",
+      "TWzh": "皮耶羅",
+      "JPja": "ジュペッティ",
+      "KRko": "피엘",
+      "EUru": "Пьетро"
+    }
+  },
+  {
+    "id": "shp14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Étoile",
+      "EUen": "Étoile",
+      "EUde": "Etoile",
+      "EUes": "Etoile",
+      "USes": "Etoile",
+      "EUfr": "Étoile",
+      "USfr": "Étoile",
+      "EUit": "Étoile",
+      "EUnl": "Étoile",
+      "CNzh": "彩星",
+      "TWzh": "彩星",
+      "JPja": "エトワール",
+      "KRko": "에뜨와르",
+      "EUru": "Этуаль"
+    }
+  },
+  {
+    "id": "shp15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Dom",
+      "EUen": "Dom",
+      "EUde": "Dominik",
+      "EUes": "Fibrilio",
+      "USes": "Fibrilio",
+      "EUfr": "Bouloche",
+      "USfr": "Bouloche",
+      "EUit": "Ovilio",
+      "EUnl": "Donny",
+      "CNzh": "茶茶丸",
+      "TWzh": "茶茶丸",
+      "JPja": "ちゃちゃまる",
+      "KRko": "차둘",
+      "EUru": "Дом"
+    }
+  },
+  {
+    "id": "squ00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Peanut",
+      "EUen": "Peanut",
+      "EUde": "Paulina",
+      "EUes": "Belinda",
+      "USes": "Belinda",
+      "EUfr": "Rachida",
+      "USfr": "Rachida",
+      "EUit": "Rachele",
+      "EUnl": "Peanut",
+      "CNzh": "小桃",
+      "TWzh": "小桃",
+      "JPja": "ももこ",
+      "KRko": "핑키",
+      "EUru": "Пинат"
+    }
+  },
+  {
+    "id": "squ01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Blaire",
+      "EUen": "Blaire",
+      "EUde": "Klara",
+      "EUes": "Azabache",
+      "USes": "Azabache",
+      "EUfr": "Cachou",
+      "USfr": "Cachou",
+      "EUit": "Ghianda",
+      "EUnl": "Blaire",
+      "CNzh": "小影",
+      "TWzh": "小影",
+      "JPja": "シルエット",
+      "KRko": "실루엣",
+      "EUru": "Блер"
+    }
+  },
+  {
+    "id": "squ02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Filbert",
+      "EUen": "Filbert",
+      "EUde": "Felix",
+      "EUes": "Filberto",
+      "USes": "Filberto",
+      "EUfr": "Filibert",
+      "USfr": "Filibert",
+      "EUit": "Scriccio",
+      "EUnl": "Filbert",
+      "CNzh": "瑞奇",
+      "TWzh": "瑞奇",
+      "JPja": "リッキー",
+      "KRko": "리키",
+      "EUru": "Филберт"
+    }
+  },
+  {
+    "id": "squ03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pecan",
+      "EUen": "Pecan",
+      "EUde": "Noisette",
+      "EUes": "Camila",
+      "USes": "Camila",
+      "EUfr": "Pécan",
+      "USfr": "Pécan",
+      "EUit": "Nocina",
+      "EUnl": "Pecan",
+      "CNzh": "雷贝嘉",
+      "TWzh": "雷貝嘉",
+      "JPja": "レベッカ",
+      "KRko": "레베카",
+      "EUru": "Пекан"
+    }
+  },
+  {
+    "id": "squ04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nibbles",
+      "EUen": "Nibbles",
+      "EUde": "Knuspi",
+      "EUes": "Dentina",
+      "USes": "Dentina",
+      "EUfr": "Lola",
+      "USfr": "Lola",
+      "EUit": "Rododea",
+      "EUnl": "Nibbles",
+      "CNzh": "咬咬",
+      "TWzh": "咬咬",
+      "JPja": "ガリガリ",
+      "KRko": "그리미",
+      "EUru": "Ниблз"
+    }
+  },
+  {
+    "id": "squ05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Agent S",
+      "EUen": "Agent S",
+      "EUde": "Karin",
+      "EUes": "Fardilia",
+      "USes": "Fardilia",
+      "EUfr": "Ninjette",
+      "USfr": "Ninjette",
+      "EUit": "Agente S",
+      "EUnl": "Agent S",
+      "CNzh": "阿二",
+      "TWzh": "阿二",
+      "JPja": "２ごう",
+      "KRko": "2호",
+      "EUru": "Агент С"
+    }
+  },
+  {
+    "id": "squ06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Caroline",
+      "EUen": "Caroline",
+      "EUde": "Ricarda",
+      "EUes": "Mariló",
+      "USes": "Mariló",
+      "EUfr": "Isabelle",
+      "USfr": "Isabelle",
+      "EUit": "Carolina",
+      "EUnl": "Caroline",
+      "CNzh": "贾萝琳",
+      "TWzh": "賈蘿琳",
+      "JPja": "キャロライン",
+      "KRko": "캐롤라인",
+      "EUru": "Каролина"
+    }
+  },
+  {
+    "id": "squ07",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sally",
+      "EUen": "Sally",
+      "EUde": "Hanne",
+      "EUes": "Praliné",
+      "USes": "Praliné",
+      "EUfr": "Damia",
+      "USfr": "Damia",
+      "EUit": "Rossella",
+      "EUnl": "Sally",
+      "CNzh": "拉拉米",
+      "TWzh": "拉拉米",
+      "JPja": "ララミー",
+      "KRko": "라라미",
+      "EUru": "Салли"
+    }
+  },
+  {
+    "id": "squ08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Static",
+      "EUen": "Static",
+      "EUde": "Rudolf",
+      "EUes": "Protón",
+      "USes": "Protón",
+      "EUfr": "Électro",
+      "USfr": "Électro",
+      "EUit": "Protone",
+      "EUnl": "Static",
+      "CNzh": "闪电",
+      "TWzh": "閃電",
+      "JPja": "スパーク",
+      "KRko": "스파크",
+      "EUru": "Статик"
+    }
+  },
+  {
+    "id": "squ09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mint",
+      "EUen": "Mint",
+      "EUde": "Marika",
+      "EUes": "Menta",
+      "USes": "Menta",
+      "EUfr": "Amande",
+      "USfr": "Amande",
+      "EUit": "Mentulla",
+      "EUnl": "Mint",
+      "CNzh": "小敏",
+      "TWzh": "小敏",
+      "JPja": "ミント",
+      "KRko": "민트",
+      "EUru": "Минт"
+    }
+  },
+  {
+    "id": "squ10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ricky",
+      "EUen": "Ricky",
+      "EUde": "Ronny",
+      "EUes": "Altramuz",
+      "USes": "Altramuz",
+      "EUfr": "Rocky",
+      "USfr": "Rocky",
+      "EUit": "Sberlo",
+      "EUnl": "Ricky",
+      "CNzh": "嘉治",
+      "TWzh": "嘉治",
+      "JPja": "カジロウ",
+      "KRko": "갈가리",
+      "EUru": "Рики"
+    }
+  },
+  {
+    "id": "squ11",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cally",
+      "EUen": "Cally",
+      "EUde": "Hörnchen",
+      "EUes": "Almendra",
+      "USes": "Almendra",
+      "EUfr": "Célia",
+      "USfr": "Célia",
+      "EUit": "Rosa",
+      "EUnl": "Cally",
+      "CNzh": "小芹",
+      "TWzh": "小芹",
+      "JPja": "パセリ",
+      "KRko": "파슬리",
+      "EUru": "Кэлли"
+    }
+  },
+  {
+    "id": "squ13",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tasha",
+      "EUen": "Tasha",
+      "EUde": "Natalja",
+      "EUes": "Tania",
+      "USes": "Tania",
+      "EUfr": "Nadeige",
+      "USfr": "Nadeige",
+      "EUit": "Teresa",
+      "EUnl": "Tasha",
+      "CNzh": "娜塔丽",
+      "TWzh": "娜塔麗",
+      "JPja": "ナターシャ",
+      "KRko": "나타샤",
+      "EUru": "Таша"
+    }
+  },
+  {
+    "id": "squ14",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sylvana",
+      "EUen": "Sylvana",
+      "EUde": "Maren",
+      "EUes": "Silvana",
+      "USes": "Silvana",
+      "EUfr": "Mounia",
+      "USfr": "Mounia",
+      "EUit": "Silvana",
+      "EUnl": "Sylvana",
+      "CNzh": "孟珮",
+      "TWzh": "孟珮",
+      "JPja": "もんぺ",
+      "KRko": "실바나",
+      "EUru": "Сильвана"
+    }
+  },
+  {
+    "id": "squ15",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Poppy",
+      "EUen": "Poppy",
+      "EUde": "Trita",
+      "EUes": "Encina",
+      "USes": "Encina",
+      "EUfr": "Irène",
+      "USfr": "Irène",
+      "EUit": "Granella",
+      "EUnl": "Poppy",
+      "CNzh": "软糖",
+      "TWzh": "軟糖",
+      "JPja": "グミ",
+      "KRko": "다람",
+      "EUru": "Поппи"
+    }
+  },
+  {
+    "id": "squ16",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sheldon",
+      "EUen": "Sheldon",
+      "EUde": "Steffen",
+      "EUes": "Matracas",
+      "USes": "Matracas",
+      "EUfr": "Roy",
+      "USfr": "Roy",
+      "EUit": "Frugolo",
+      "EUnl": "Sheldon",
+      "CNzh": "克栗斯",
+      "TWzh": "克栗斯",
+      "JPja": "クリス",
+      "KRko": "크리스",
+      "EUru": "Шелдон"
+    }
+  },
+  {
+    "id": "squ17",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Marshal",
+      "EUen": "Marshal",
+      "EUde": "Huschke",
+      "EUes": "Munchi",
+      "USes": "Munchi",
+      "EUfr": "Mathéo",
+      "USfr": "Mathéo",
+      "EUit": "Scott",
+      "EUnl": "Marshal",
+      "CNzh": "小润",
+      "TWzh": "小潤",
+      "JPja": "ジュン",
+      "KRko": "쭈니",
+      "EUru": "Маршал"
+    }
+  },
+  {
+    "id": "squ18",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Hazel",
+      "EUen": "Hazel",
+      "EUde": "Nadine",
+      "EUes": "Anacarda",
+      "USes": "Anacarda",
+      "EUfr": "Pamela",
+      "USfr": "Pamela",
+      "EUit": "Cigliola",
+      "EUnl": "Hazel",
+      "CNzh": "艾栗丝",
+      "TWzh": "艾栗絲",
+      "JPja": "アイリス",
+      "KRko": "아이리스",
+      "EUru": "Хейзел"
+    }
+  },
+  {
+    "id": "tig00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rolf",
+      "EUen": "Rolf",
+      "EUde": "Boris",
+      "EUes": "Albino",
+      "USes": "Albino",
+      "EUfr": "Ralf",
+      "USfr": "Ralf",
+      "EUit": "Rolf",
+      "EUnl": "Rolf",
+      "CNzh": "朱穆朗",
+      "TWzh": "朱穆朗",
+      "JPja": "チョモラン",
+      "KRko": "호랭이",
+      "EUru": "Рольф"
+    }
+  },
+  {
+    "id": "tig01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rowan",
+      "EUen": "Rowan",
+      "EUde": "Gisbert",
+      "EUes": "Miguelón",
+      "USes": "Miguelón",
+      "EUfr": "Marito",
+      "USfr": "Marito",
+      "EUit": "Ernesto",
+      "EUnl": "Rowan",
+      "CNzh": "戈麦斯",
+      "TWzh": "戈麥斯",
+      "JPja": "ゴメス",
+      "KRko": "고메스",
+      "EUru": "Роуэн"
+    }
+  },
+  {
+    "id": "tig02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tybalt",
+      "EUen": "Tybalt",
+      "EUde": "Arne",
+      "EUes": "Teobaldo",
+      "USes": "Teobaldo",
+      "EUfr": "Jeff",
+      "USfr": "Jeff",
+      "EUit": "Ubaldo",
+      "EUnl": "Tybalt",
+      "CNzh": "谷丰",
+      "TWzh": "谷豐",
+      "JPja": "ハリマオ",
+      "KRko": "티볼트",
+      "EUru": "Тибальт"
+    }
+  },
+  {
+    "id": "tig03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bangle",
+      "EUen": "Bangle",
+      "EUde": "Tamara",
+      "EUes": "Felina",
+      "USes": "Felina",
+      "EUfr": "Bengale",
+      "USfr": "Bengale",
+      "EUit": "Tigrizia",
+      "EUnl": "Bangle",
+      "CNzh": "卢姿",
+      "TWzh": "盧姿",
+      "JPja": "ルーズ",
+      "KRko": "루주",
+      "EUru": "Бэнгл"
+    }
+  },
+  {
+    "id": "tig04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Leonardo",
+      "EUen": "Leonardo",
+      "EUde": "Tim",
+      "EUes": "Leocadio",
+      "USes": "Leocadio",
+      "EUfr": "Dolph",
+      "USfr": "Dolph",
+      "EUit": "Bengalo",
+      "EUnl": "Leonardo",
+      "CNzh": "阿彪",
+      "TWzh": "阿彪",
+      "JPja": "ヒョウタ",
+      "KRko": "범호",
+      "EUru": "Леонардо"
+    }
+  },
+  {
+    "id": "tig05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Claudia",
+      "EUen": "Claudia",
+      "EUde": "Lilly",
+      "EUes": "Lilu",
+      "USes": "Lilu",
+      "EUfr": "Vanina",
+      "USfr": "Vanina",
+      "EUit": "Lilla",
+      "EUnl": "Claudia",
+      "CNzh": "马丽莲",
+      "TWzh": "馬麗蓮",
+      "JPja": "マリリン",
+      "KRko": "신디",
+      "EUru": "Клаудия"
+    }
+  },
+  {
+    "id": "tig06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bianca",
+      "EUen": "Bianca",
+      "EUde": "Bettina",
+      "EUes": "Bianca",
+      "USes": "Bianca",
+      "EUfr": "Noémie",
+      "USfr": "Noémie",
+      "EUit": "Grattina",
+      "EUnl": "Bianca",
+      "CNzh": "小雪",
+      "TWzh": "小雪",
+      "JPja": "コユキ",
+      "KRko": "백희",
+      "EUru": "Бьянка"
+    }
+  },
+  {
+    "id": "wol00",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chief",
+      "EUen": "Chief",
+      "EUde": "Sascha",
+      "EUes": "Zoilo",
+      "USes": "Zoilo",
+      "EUfr": "Chef",
+      "USfr": "Chef",
+      "EUit": "Artiglio",
+      "EUnl": "Chief",
+      "CNzh": "施傅",
+      "TWzh": "施傅",
+      "JPja": "チーフ",
+      "KRko": "대장",
+      "EUru": "Чиф"
+    }
+  },
+  {
+    "id": "wol01",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Lobo",
+      "EUen": "Lobo",
+      "EUde": "Lupo",
+      "EUes": "Lupo",
+      "USes": "Lupo",
+      "EUfr": "Lobo",
+      "USfr": "Lobo",
+      "EUit": "Lupen",
+      "EUnl": "Lobo",
+      "CNzh": "潘奇隆",
+      "TWzh": "潘奇隆",
+      "JPja": "ブンジロウ",
+      "KRko": "늑태",
+      "EUru": "Лобо"
+    }
+  },
+  {
+    "id": "wol02",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wolfgang",
+      "EUen": "Wolfgang",
+      "EUde": "Weber",
+      "EUes": "Wolfi",
+      "USes": "Wolfi",
+      "EUfr": "Wolfgang",
+      "USfr": "Wolfgang",
+      "EUit": "Wolfgang",
+      "EUnl": "Wolfgang",
+      "CNzh": "罗博",
+      "TWzh": "羅博",
+      "JPja": "ロボ",
+      "KRko": "로보",
+      "EUru": "Вольфи"
+    }
+  },
+  {
+    "id": "wol03",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Whitney",
+      "EUen": "Whitney",
+      "EUde": "Lupa",
+      "EUes": "Lupe",
+      "USes": "Lupe",
+      "EUfr": "Blanche",
+      "USfr": "Blanche",
+      "EUit": "Bianca",
+      "EUnl": "Whitney",
+      "CNzh": "毕安卡",
+      "TWzh": "畢安卡",
+      "JPja": "ビアンカ",
+      "KRko": "비앙카",
+      "EUru": "Уитни"
+    }
+  },
+  {
+    "id": "wol04",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Dobie",
+      "EUen": "Dobie",
+      "EUde": "Sigmund",
+      "EUes": "Germán",
+      "USes": "Germán",
+      "EUfr": "Loupiot",
+      "USfr": "Loupiot",
+      "EUit": "Sigmund",
+      "EUnl": "Dobie",
+      "CNzh": "阿研",
+      "TWzh": "阿研",
+      "JPja": "けん",
+      "KRko": "켄",
+      "EUru": "Доби"
+    }
+  },
+  {
+    "id": "wol05",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Freya",
+      "EUen": "Freya",
+      "EUde": "Freya",
+      "EUes": "Lupita",
+      "USes": "Lupita",
+      "EUfr": "Luppa",
+      "USfr": "Luppa",
+      "EUit": "Freya",
+      "EUnl": "Freya",
+      "CNzh": "冰冰",
+      "TWzh": "冰冰",
+      "JPja": "ツンドラ",
+      "KRko": "산드라",
+      "EUru": "Фрея"
+    }
+  },
+  {
+    "id": "wol06",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Fang",
+      "EUen": "Fang",
+      "EUde": "Grimm",
+      "EUes": "Colmillo",
+      "USes": "Colmillo",
+      "EUfr": "Pierrot",
+      "USfr": "Pierrot",
+      "EUit": "Zanna",
+      "EUnl": "Fang",
+      "CNzh": "史培亚",
+      "TWzh": "史培亞",
+      "JPja": "シベリア",
+      "KRko": "시베리아",
+      "EUru": "Фанг"
+    }
+  },
+  {
+    "id": "wol08",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Vivian",
+      "EUen": "Vivian",
+      "EUde": "Viviane",
+      "EUes": "Viviana",
+      "USes": "Viviana",
+      "EUfr": "Viviane",
+      "USfr": "Viviane",
+      "EUit": "Viviana",
+      "EUnl": "Vivian",
+      "CNzh": "范妮沙",
+      "TWzh": "范妮莎",
+      "JPja": "ヴァネッサ",
+      "KRko": "바네사",
+      "EUru": "Вивьен"
+    }
+  },
+  {
+    "id": "wol09",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Skye",
+      "EUen": "Skye",
+      "EUde": "Sabine",
+      "EUes": "Alderia",
+      "USes": "Alderia",
+      "EUfr": "Marilou",
+      "USfr": "Marilou",
+      "EUit": "Lupilla",
+      "EUnl": "Skye",
+      "CNzh": "百合",
+      "TWzh": "百合",
+      "JPja": "リリィ",
+      "KRko": "릴리",
+      "EUru": "Скай"
+    }
+  },
+  {
+    "id": "wol10",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Kyle",
+      "EUen": "Kyle",
+      "EUde": "Wolfgang",
+      "EUes": "Ataúlfo",
+      "USes": "Ataúlfo",
+      "EUfr": "Gary",
+      "USfr": "Gary",
+      "EUit": "Ululo",
+      "EUnl": "Kyle",
+      "CNzh": "李可",
+      "TWzh": "李可",
+      "JPja": "リカルド",
+      "KRko": "리카르도",
+      "EUru": "Кайл"
+    }
+  },
+  {
+    "id": "wol12",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Audie",
+      "EUen": "Audie",
+      "EUde": "Katharina",
+      "EUes": "Mónica",
+      "USes": "Mónica",
+      "EUfr": "Monica",
+      "USfr": "Monica",
+      "EUit": "Lupilia",
+      "EUnl": "Audie",
+      "CNzh": "莫妮卡",
+      "TWzh": "莫妮卡",
+      "JPja": "モニカ",
+      "KRko": "모니카",
+      "EUru": "Оди"
+    }
+  }
+]

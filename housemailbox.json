@@ -1,0 +1,662 @@
+[
+  {
+    "id": "HousePost_02571",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ordinary mailbox",
+      "EUen": "ordinary mailbox",
+      "EUde": "Standard-Briefkasten",
+      "EUes": "buzón clásico",
+      "USes": "buzón clásico",
+      "EUfr": "boîte aux lettres ordinaire",
+      "USfr": "boîte aux lettres ordinaire",
+      "EUit": "cassetta posta normale",
+      "EUnl": "ronde brievenbus",
+      "CNzh": "X)普通信箱",
+      "TWzh": "普通郵筒",
+      "JPja": "ふつうのポスト",
+      "KRko": "일반 우편함",
+      "EUru": "простой ящик"
+    }
+  },
+  {
+    "id": "HousePost_05342",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "square mailbox",
+      "EUen": "square mailbox",
+      "EUde": "Eckigbriefkasten",
+      "EUes": "buzón cuadrado",
+      "USes": "buzón cuadrado",
+      "EUfr": "b.a.l. rectangulaire",
+      "USfr": "b.a.l. rectangulaire",
+      "EUit": "cassetta posta cubica",
+      "EUnl": "brievenbus",
+      "CNzh": "方形信箱",
+      "TWzh": "四角型郵筒",
+      "JPja": "しかくいポスト",
+      "KRko": "사각 우편함",
+      "EUru": "ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_05343",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden mailbox",
+      "EUen": "wooden mailbox",
+      "EUde": "Holzbriefkasten",
+      "EUes": "buzón de madera",
+      "USes": "buzón de madera",
+      "EUfr": "boîte aux lettres en bois",
+      "USfr": "b.a.l. en bois",
+      "EUit": "cassetta posta di legno",
+      "EUnl": "houten brievenbus",
+      "CNzh": "木信箱",
+      "TWzh": "木郵筒",
+      "JPja": "きのポスト",
+      "KRko": "나무 우편함",
+      "EUru": "ящик из дерева"
+    }
+  },
+  {
+    "id": "HousePost_05344",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "large mailbox",
+      "EUen": "large mailbox",
+      "EUde": "Maxi-Briefkasten",
+      "EUes": "buzón para paquetes",
+      "USes": "buzón para paquetes",
+      "EUfr": "grande boîte aux lettres",
+      "USfr": "grande b.a.l.",
+      "EUit": "cassetta posta grande",
+      "EUnl": "grote brievenbus",
+      "CNzh": "大信箱",
+      "TWzh": "大郵筒",
+      "JPja": "おおきなポスト",
+      "KRko": "커다란 우편함",
+      "EUru": "большой ящик"
+    }
+  },
+  {
+    "id": "HousePost_05802",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rustic mailbox",
+      "EUen": "rustic mailbox",
+      "EUde": "Rustikalbriefkasten",
+      "EUes": "buzón rústico",
+      "USes": "buzón rústico",
+      "EUfr": "b.a.l. rudimentaire",
+      "USfr": "b.a.l. rudimentaire",
+      "EUit": "cassetta posta grezza",
+      "EUnl": "rustieke brievenbus",
+      "CNzh": "朴素信箱",
+      "TWzh": "樸素郵筒",
+      "JPja": "そぼくなポスト",
+      "KRko": "소박한 우편함",
+      "EUru": "грубый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08661",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red ordinary mailbox",
+      "EUen": "red ordinary mailbox",
+      "EUde": "Rot-Briefkasten",
+      "EUes": "buzón clásico rojo",
+      "USes": "buzón clásico rojo",
+      "EUfr": "b.a.l. ordinaire rouge",
+      "USfr": "b.a.l. ordinaire rouge",
+      "EUit": "cassetta posta rossa",
+      "EUnl": "rode ronde brievenbus",
+      "CNzh": "红色普通信箱",
+      "TWzh": "紅色普通郵筒",
+      "JPja": "あかいふつうのポスト",
+      "KRko": "빨간색 일반 우편함",
+      "EUru": "простой красный ящик"
+    }
+  },
+  {
+    "id": "HousePost_08662",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink ordinary mailbox",
+      "EUen": "pink ordinary mailbox",
+      "EUde": "Rosa-Briefkasten",
+      "EUes": "buzón clásico rosa",
+      "USes": "buzón clásico rosa",
+      "EUfr": "b.a.l. ordinaire rose",
+      "USfr": "b.a.l. ordinaire rose",
+      "EUit": "cassetta posta rosa",
+      "EUnl": "roze ronde brievenbus",
+      "CNzh": "粉红色普通信箱",
+      "TWzh": "粉紅色普通郵筒",
+      "JPja": "ピンクのふつうのポスト",
+      "KRko": "핑크색 일반 우편함",
+      "EUru": "простой розовый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08663",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow ordinary mailbox",
+      "EUen": "yellow ordinary mailbox",
+      "EUde": "Gelb-Briefkasten",
+      "EUes": "buzón clásico ocre",
+      "USes": "buzón clásico ocre",
+      "EUfr": "b.a.l. ordinaire jaune",
+      "USfr": "b.a.l. ordinaire jaune",
+      "EUit": "cassetta posta gialla",
+      "EUnl": "gele ronde brievenbus",
+      "CNzh": "黄色普通信箱",
+      "TWzh": "黃色普通郵筒",
+      "JPja": "きいろいふつうのポスト",
+      "KRko": "노란색 일반 우편함",
+      "EUru": "простой желтый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08664",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green ordinary mailbox",
+      "EUen": "green ordinary mailbox",
+      "EUde": "Grün-Briefkasten",
+      "EUes": "buzón clásico verde",
+      "USes": "buzón clásico verde",
+      "EUfr": "b.a.l. ordinaire verte",
+      "USfr": "b.a.l. ordinaire verte",
+      "EUit": "cassetta posta verde",
+      "EUnl": "groene ronde brievenbus",
+      "CNzh": "绿色普通信箱",
+      "TWzh": "綠色普通郵筒",
+      "JPja": "みどりのふつうのポスト",
+      "KRko": "초록색 일반 우편함",
+      "EUru": "простой зеленый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08665",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue ordinary mailbox",
+      "EUen": "blue ordinary mailbox",
+      "EUde": "Blau-Briefkasten",
+      "EUes": "buzón clásico azul",
+      "USes": "buzón clásico azul",
+      "EUfr": "b.a.l. ordinaire bleue",
+      "USfr": "b.a.l. ordinaire bleue",
+      "EUit": "cassetta posta blu",
+      "EUnl": "blauwe ronde brievenbus",
+      "CNzh": "蓝色普通信箱",
+      "TWzh": "藍色普通郵筒",
+      "JPja": "あおいふつうのポスト",
+      "KRko": "파란색 일반 우편함",
+      "EUru": "простой синий ящик"
+    }
+  },
+  {
+    "id": "HousePost_08666",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white ordinary mailbox",
+      "EUen": "white ordinary mailbox",
+      "EUde": "Weiß-Briefkasten",
+      "EUes": "buzón clásico blanco",
+      "USes": "buzón clásico blanco",
+      "EUfr": "b.a.l. ordinaire blanche",
+      "USfr": "b.a.l. ordinaire blanche",
+      "EUit": "cassetta posta bianca",
+      "EUnl": "witte ronde brievenbus",
+      "CNzh": "白色普通信箱",
+      "TWzh": "白色普通郵筒",
+      "JPja": "しろいふつうのポスト",
+      "KRko": "하얀색 일반 우편함",
+      "EUru": "простой белый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08667",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black ordinary mailbox",
+      "EUen": "black ordinary mailbox",
+      "EUde": "Schwarz-Briefkasten",
+      "EUes": "buzón clásico negro",
+      "USes": "buzón clásico negro",
+      "EUfr": "b.a.l. ordinaire noire",
+      "USfr": "b.a.l. ordinaire noire",
+      "EUit": "cassetta posta nera",
+      "EUnl": "zwarte ronde brievenbus",
+      "CNzh": "黑色普通信箱",
+      "TWzh": "黑色普通郵筒",
+      "JPja": "くろいふつうのポスト",
+      "KRko": "검은색 일반 우편함",
+      "EUru": "простой черный ящик"
+    }
+  },
+  {
+    "id": "HousePost_08672",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red large mailbox",
+      "EUen": "red large mailbox",
+      "EUde": "Rot-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes rojo",
+      "USes": "buzón para paquetes rojo",
+      "EUfr": "grande b.a.l. rouge",
+      "USfr": "grande b.a.l. rouge",
+      "EUit": "cassetta grande rossa",
+      "EUnl": "rode grote brievenbus",
+      "CNzh": "红色大信箱",
+      "TWzh": "紅色大郵筒",
+      "JPja": "あかいおおきなポスト",
+      "KRko": "빨간색 커다란 우편함",
+      "EUru": "большой красный ящик"
+    }
+  },
+  {
+    "id": "HousePost_08673",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink large mailbox",
+      "EUen": "pink large mailbox",
+      "EUde": "Rosa-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes rosa",
+      "USes": "buzón para paquetes rosa",
+      "EUfr": "grande b.a.l. rose",
+      "USfr": "grande b.a.l. rose",
+      "EUit": "cassetta grande rosa",
+      "EUnl": "roze grote brievenbus",
+      "CNzh": "粉红色大信箱",
+      "TWzh": "粉紅色大郵筒",
+      "JPja": "ピンクのおおきなポスト",
+      "KRko": "핑크색 커다란 우편함",
+      "EUru": "большой розовый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08674",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow large mailbox",
+      "EUen": "yellow large mailbox",
+      "EUde": "Gelb-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes ocre",
+      "USes": "buzón para paquetes ocre",
+      "EUfr": "grande b.a.l. jaune",
+      "USfr": "grande b.a.l. jaune",
+      "EUit": "cassetta grande gialla",
+      "EUnl": "gele grote brievenbus",
+      "CNzh": "黄色大信箱",
+      "TWzh": "黃色大郵筒",
+      "JPja": "きいろいおおきなポスト",
+      "KRko": "노란색 커다란 우편함",
+      "EUru": "большой желтый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08675",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green large mailbox",
+      "EUen": "green large mailbox",
+      "EUde": "Grün-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes verde",
+      "USes": "buzón para paquetes verde",
+      "EUfr": "grande b.a.l. verte",
+      "USfr": "grande b.a.l. verte",
+      "EUit": "cassetta grande verde",
+      "EUnl": "groene grote brievenbus",
+      "CNzh": "绿色大信箱",
+      "TWzh": "綠色大郵筒",
+      "JPja": "みどりのおおきなポスト",
+      "KRko": "초록색 커다란 우편함",
+      "EUru": "большой зеленый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08676",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue large mailbox",
+      "EUen": "blue large mailbox",
+      "EUde": "Blau-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes azul",
+      "USes": "buzón para paquetes azul",
+      "EUfr": "grande b.a.l. bleue",
+      "USfr": "grande b.a.l. bleue",
+      "EUit": "cassetta grande blu",
+      "EUnl": "blauwe grote brievenbus",
+      "CNzh": "蓝色大信箱",
+      "TWzh": "藍色大郵筒",
+      "JPja": "あおいおおきなポスト",
+      "KRko": "파란색 커다란 우편함",
+      "EUru": "большой синий ящик"
+    }
+  },
+  {
+    "id": "HousePost_08677",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white large mailbox",
+      "EUen": "white large mailbox",
+      "EUde": "Weiß-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes blanco",
+      "USes": "buzón para paquetes blanco",
+      "EUfr": "grande b.a.l. blanche",
+      "USfr": "grande b.a.l. blanche",
+      "EUit": "cassetta grande bianca",
+      "EUnl": "witte grote brievenbus",
+      "CNzh": "白色大信箱",
+      "TWzh": "白色大郵筒",
+      "JPja": "しろいおおきなポスト",
+      "KRko": "하얀색 커다란 우편함",
+      "EUru": "большой белый ящик"
+    }
+  },
+  {
+    "id": "HousePost_08678",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black large mailbox",
+      "EUen": "black large mailbox",
+      "EUde": "Schwarz-Maxi-Briefkasten",
+      "EUes": "buzón para paquetes negro",
+      "USes": "buzón para paquetes negro",
+      "EUfr": "grande b.a.l. noire",
+      "USfr": "grande b.a.l. noire",
+      "EUit": "cassetta grande nera",
+      "EUnl": "zwarte grote brievenbus",
+      "CNzh": "黑色大信箱",
+      "TWzh": "黑色大郵筒",
+      "JPja": "くろいおおきなポスト",
+      "KRko": "검은색 커다란 우편함",
+      "EUru": "большой черный ящик"
+    }
+  },
+  {
+    "id": "HousePost_08827",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red square mailbox",
+      "EUen": "red square mailbox",
+      "EUde": "Rot-Eckigbriefkasten",
+      "EUes": "buzón cuadrado rojo",
+      "USes": "buzón cuadrado rojo",
+      "EUfr": "b.a.l. rectangulaire rouge",
+      "USfr": "b.a.l. rectangulaire rouge",
+      "EUit": "cassetta cubica rossa",
+      "EUnl": "rode vierkante brievenbus",
+      "CNzh": "红色方形信箱",
+      "TWzh": "紅色四角型郵筒",
+      "JPja": "あかいしかくいポスト",
+      "KRko": "빨간색 사각 우편함",
+      "EUru": "красный ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08828",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink square mailbox",
+      "EUen": "pink square mailbox",
+      "EUde": "Rosa-Eckigbriefkasten",
+      "EUes": "buzón cuadrado rosa",
+      "USes": "buzón cuadrado rosa",
+      "EUfr": "b.a.l. rectangulaire rose",
+      "USfr": "b.a.l. rectangulaire rose",
+      "EUit": "cassetta cubica rosa",
+      "EUnl": "roze brievenbus",
+      "CNzh": "粉红色方形信箱",
+      "TWzh": "粉紅色四角型郵筒",
+      "JPja": "ピンクのしかくいポスト",
+      "KRko": "핑크색 사각 우편함",
+      "EUru": "розовый ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08829",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow square mailbox",
+      "EUen": "yellow square mailbox",
+      "EUde": "Gelb-Eckigbriefkasten",
+      "EUes": "buzón cuadrado ocre",
+      "USes": "buzón cuadrado ocre",
+      "EUfr": "b.a.l. rectangulaire jaune",
+      "USfr": "b.a.l. rectangulaire jaune",
+      "EUit": "cassetta cubica gialla",
+      "EUnl": "gele brievenbus",
+      "CNzh": "黄色方形信箱",
+      "TWzh": "黃色四角型郵筒",
+      "JPja": "きいろいしかくいポスト",
+      "KRko": "노란색 사각 우편함",
+      "EUru": "желтый ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08830",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green square mailbox",
+      "EUen": "green square mailbox",
+      "EUde": "Grün-Eckigbriefkasten",
+      "EUes": "buzón cuadrado verde",
+      "USes": "buzón cuadrado verde",
+      "EUfr": "b.a.l. rectangulaire verte",
+      "USfr": "b.a.l. rectangulaire verte",
+      "EUit": "cassetta cubica verde",
+      "EUnl": "groene brievenbus",
+      "CNzh": "绿色方形信箱",
+      "TWzh": "綠色四角型郵筒",
+      "JPja": "みどりのしかくいポスト",
+      "KRko": "초록색 사각 우편함",
+      "EUru": "зеленый ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08831",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue square mailbox",
+      "EUen": "blue square mailbox",
+      "EUde": "Blau-Eckigbriefkasten",
+      "EUes": "buzón cuadrado azul",
+      "USes": "buzón cuadrado azul",
+      "EUfr": "b.a.l. rectangulaire bleue",
+      "USfr": "b.a.l. rectangulaire bleue",
+      "EUit": "cassetta cubica blu",
+      "EUnl": "blauwe brievenbus",
+      "CNzh": "蓝色方形信箱",
+      "TWzh": "藍色四角型郵筒",
+      "JPja": "あおいしかくいポスト",
+      "KRko": "파란색 사각 우편함",
+      "EUru": "синий ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08832",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white square mailbox",
+      "EUen": "white square mailbox",
+      "EUde": "Weiß-Eckigbriefkasten",
+      "EUes": "buzón cuadrado blanco",
+      "USes": "buzón cuadrado blanco",
+      "EUfr": "b.a.l. rectangulaire blanche",
+      "USfr": "b.a.l. rectangulaire blanche",
+      "EUit": "cassetta cubica bianca",
+      "EUnl": "witte brievenbus",
+      "CNzh": "白色方形信箱",
+      "TWzh": "白色四角型郵筒",
+      "JPja": "しろいしかくいポスト",
+      "KRko": "하얀색 사각 우편함",
+      "EUru": "белый ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08833",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black square mailbox",
+      "EUen": "black square mailbox",
+      "EUde": "Schwarz-Eckigbriefkasten",
+      "EUes": "buzón cuadrado negro",
+      "USes": "buzón cuadrado negro",
+      "EUfr": "b.a.l. rectangulaire noire",
+      "USfr": "b.a.l. rectangulaire noire",
+      "EUit": "cassetta cubica nera",
+      "EUnl": "zwarte brievenbus",
+      "CNzh": "黑色方形信箱",
+      "TWzh": "黑色四角型郵筒",
+      "JPja": "くろいしかくいポスト",
+      "KRko": "검은색 사각 우편함",
+      "EUru": "черный ящик-куб"
+    }
+  },
+  {
+    "id": "HousePost_08897",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chic wooden mailbox",
+      "EUen": "chic wooden mailbox",
+      "EUde": "Schick-Holzbriefkasten",
+      "EUes": "buzón de madera marrón",
+      "USes": "buzón de madera marrón",
+      "EUfr": "b.a.l. en bois chic",
+      "USfr": "b.a.l. en bois chic",
+      "EUit": "cassetta di legno chic",
+      "EUnl": "chique houten brievenbus",
+      "CNzh": "典雅木信箱",
+      "TWzh": "典雅木郵筒",
+      "JPja": "シックなきのポスト",
+      "KRko": "세련된 나무 우편함",
+      "EUru": "ящик-люкс из дерева"
+    }
+  },
+  {
+    "id": "HousePost_08898",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red wooden mailbox",
+      "EUen": "red wooden mailbox",
+      "EUde": "Rot-Holzbriefkasten",
+      "EUes": "buzón de madera rojo",
+      "USes": "buzón de madera rojo",
+      "EUfr": "b.a.l. en bois rouge",
+      "USfr": "b.a.l. en bois rouge",
+      "EUit": "cassetta di legno rossa",
+      "EUnl": "rode houten brievenbus",
+      "CNzh": "红色木信箱",
+      "TWzh": "紅色木郵筒",
+      "JPja": "あかいきのポスト",
+      "KRko": "빨간색 나무 우편함",
+      "EUru": "красный ящик из дерева"
+    }
+  },
+  {
+    "id": "HousePost_08899",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink wooden mailbox",
+      "EUen": "pink wooden mailbox",
+      "EUde": "Rosa-Holzbriefkasten",
+      "EUes": "buzón de madera rosa",
+      "USes": "buzón de madera rosa",
+      "EUfr": "b.a.l. en bois rose",
+      "USfr": "b.a.l. en bois rose",
+      "EUit": "cassetta di legno rosa",
+      "EUnl": "roze houten brievenbus",
+      "CNzh": "粉红色木信箱",
+      "TWzh": "粉紅色木郵筒",
+      "JPja": "ピンクのきのポスト",
+      "KRko": "핑크색 나무 우편함",
+      "EUru": "розовый ящик из дерева"
+    }
+  },
+  {
+    "id": "HousePost_08900",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow wooden mailbox",
+      "EUen": "yellow wooden mailbox",
+      "EUde": "Gelb-Holzbriefkasten",
+      "EUes": "buzón de madera ocre",
+      "USes": "buzón de madera ocre",
+      "EUfr": "b.a.l. en bois jaune",
+      "USfr": "b.a.l. en bois jaune",
+      "EUit": "cassetta di legno gialla",
+      "EUnl": "gele houten brievenbus",
+      "CNzh": "黄色木信箱",
+      "TWzh": "黃色木郵筒",
+      "JPja": "きいろいきのポスト",
+      "KRko": "노란색 나무 우편함",
+      "EUru": "желтый ящик из дерева"
+    }
+  },
+  {
+    "id": "HousePost_08901",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green wooden mailbox",
+      "EUen": "green wooden mailbox",
+      "EUde": "Grün-Holzbriefkasten",
+      "EUes": "buzón de madera verde",
+      "USes": "buzón de madera verde",
+      "EUfr": "b.a.l. en bois verte",
+      "USfr": "b.a.l. en bois verte",
+      "EUit": "cassetta di legno verde",
+      "EUnl": "groene houten brievenbus",
+      "CNzh": "绿色木信箱",
+      "TWzh": "綠色木郵筒",
+      "JPja": "みどりのきのポスト",
+      "KRko": "초록색 나무 우편함",
+      "EUru": "зеленый ящик из дерева"
+    }
+  },
+  {
+    "id": "HousePost_08902",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue wooden mailbox",
+      "EUen": "blue wooden mailbox",
+      "EUde": "Blau-Holzbriefkasten",
+      "EUes": "buzón de madera azul",
+      "USes": "buzón de madera azul",
+      "EUfr": "b.a.l. en bois bleue",
+      "USfr": "b.a.l. en bois bleue",
+      "EUit": "cassetta di legno blu",
+      "EUnl": "blauwe houten brievenbus",
+      "CNzh": "蓝色木信箱",
+      "TWzh": "藍色木郵筒",
+      "JPja": "あおいきのポスト",
+      "KRko": "파란색 나무 우편함",
+      "EUru": "синий ящик из дерева"
+    }
+  },
+  {
+    "id": "HousePost_08903",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white wooden mailbox",
+      "EUen": "white wooden mailbox",
+      "EUde": "Weiß-Holzbriefkasten",
+      "EUes": "buzón de madera blanco",
+      "USes": "buzón de madera blanco",
+      "EUfr": "b.a.l. en bois blanche",
+      "USfr": "b.a.l. en bois blanche",
+      "EUit": "cassetta di legno bianca",
+      "EUnl": "witte houten brievenbus",
+      "CNzh": "白色木信箱",
+      "TWzh": "白色木郵筒",
+      "JPja": "しろいきのポスト",
+      "KRko": "하얀색 나무 우편함",
+      "EUru": "белый ящик из дерева"
+    }
+  }
+]

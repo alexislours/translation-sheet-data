@@ -1,0 +1,4942 @@
+[
+  {
+    "id": "RoomWall_04795",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "common wall",
+      "EUen": "common wall",
+      "EUde": "Normaltapete",
+      "EUes": "pared básica",
+      "USes": "pared básica",
+      "EUfr": "mur ordinaire",
+      "USfr": "mur ordinaire",
+      "EUit": "muro comune",
+      "EUnl": "standaardwand",
+      "CNzh": "常见墙",
+      "TWzh": "常見牆",
+      "JPja": "よくあるかべ",
+      "KRko": "평범한 벽",
+      "EUru": "простая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04801",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "steel-frame wall",
+      "EUen": "steel-frame wall",
+      "EUde": "Eisengittertapete",
+      "EUes": "pared viga de hierro",
+      "USes": "pared viga de hierro",
+      "EUfr": "mur poutres en fer",
+      "USfr": "mur poutres en fer",
+      "EUit": "muro struttura in ferro",
+      "EUnl": "wand met stalen balken",
+      "CNzh": "钢架墙",
+      "TWzh": "鋼筋牆",
+      "JPja": "てっこつのかべ",
+      "KRko": "철근 벽",
+      "EUru": "каркасная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04802",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink painted-wood wall",
+      "EUen": "pink painted-wood wall",
+      "EUde": "Rosaholzwand",
+      "EUes": "panelado madera rosa",
+      "USes": "pared paneles rosa",
+      "EUfr": "mur en bois peint rose",
+      "USfr": "mur en bois peint rose",
+      "EUit": "muro a pannelli rosa",
+      "EUnl": "roze houten wand",
+      "CNzh": "粉红油漆木墙",
+      "TWzh": "粉紅油漆木牆",
+      "JPja": "ピンクのペイントウッドのかべ",
+      "KRko": "핑크 페인트 우드 벽",
+      "EUru": "розовая стена из дерева"
+    }
+  },
+  {
+    "id": "RoomWall_04803",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white painted-wood wall",
+      "EUen": "white painted-wood wall",
+      "EUde": "Weißholzwand",
+      "EUes": "panelado madera blanca",
+      "USes": "pared paneles blanca",
+      "EUfr": "mur en bois peint blanc",
+      "USfr": "mur en bois peint blanc",
+      "EUit": "muro a pannelli bianco",
+      "EUnl": "witte houten wand",
+      "CNzh": "白色油漆木墙",
+      "TWzh": "白色油漆木牆",
+      "JPja": "しろいペイントウッドのかべ",
+      "KRko": "하얀 페인트 우드 벽",
+      "EUru": "белая стена из дерева"
+    }
+  },
+  {
+    "id": "RoomWall_04804",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown herringbone wall",
+      "EUen": "brown herringbone wall",
+      "EUde": "Hell-Fischgrätwand",
+      "EUes": "pared espiga clara",
+      "USes": "pared espinapez marrón",
+      "EUfr": "mur à chevrons beige",
+      "USfr": "mur à chevrons beige",
+      "EUit": "muro spina di pesce beige",
+      "EUnl": "lichtbruine visgraatwand",
+      "CNzh": "茶色人字斜纹墙",
+      "TWzh": "茶色人字斜紋牆",
+      "JPja": "ちゃいろいヘリンボーンのかべ",
+      "KRko": "갈색 헤링본 벽",
+      "EUru": "светлая стена-елочка"
+    }
+  },
+  {
+    "id": "RoomWall_04805",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chocolate herringbone wall",
+      "EUen": "chocolate herringbone wall",
+      "EUde": "Dunkel-Fischgrätwand",
+      "EUes": "pared espiga oscura",
+      "USes": "pared espinapez chocolate",
+      "EUfr": "mur à chevrons chocolat",
+      "USfr": "mur à chevrons chocolat",
+      "EUit": "muro spina di pesce cacao",
+      "EUnl": "donkerbruine visgraatwand",
+      "CNzh": "深棕色人字斜纹墙",
+      "TWzh": "深棕色人字斜紋牆",
+      "JPja": "こげちゃのヘリンボーンのかべ",
+      "KRko": "고동색 헤링본 벽",
+      "EUru": "темная стена-елочка"
+    }
+  },
+  {
+    "id": "RoomWall_04806",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown hallway wall",
+      "EUen": "brown hallway wall",
+      "EUde": "Hellbraun-Dielentapete",
+      "EUes": "pared pasillo marrón",
+      "USes": "pared pasillo marrón",
+      "EUfr": "mur hall brun",
+      "USfr": "mur hall brun",
+      "EUit": "muro albergo marrone",
+      "EUnl": "lichtbruine halwand",
+      "CNzh": "茶色大厅墙",
+      "TWzh": "茶色大廳牆",
+      "JPja": "ちゃいろいホールのかべ",
+      "KRko": "갈색 홀 벽",
+      "EUru": "светлая стена «Холл»"
+    }
+  },
+  {
+    "id": "RoomWall_04807",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chocolate hallway wall",
+      "EUen": "chocolate hallway wall",
+      "EUde": "Dunkelbraun-Dielentapete",
+      "EUes": "pared pasillo chocolate",
+      "USes": "pared pasillo chocolate",
+      "EUfr": "mur hall chocolat",
+      "USfr": "mur hall chocolat",
+      "EUit": "muro albergo cacao",
+      "EUnl": "donkerbruine halwand",
+      "CNzh": "深棕色大厅墙",
+      "TWzh": "深棕色大廳牆",
+      "JPja": "こげちゃのホールのかべ",
+      "KRko": "고동색 홀 벽",
+      "EUru": "темная стена «Холл»"
+    }
+  },
+  {
+    "id": "RoomWall_04808",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow-paint wall",
+      "EUen": "yellow-paint wall",
+      "EUde": "Gelbwand",
+      "EUes": "pared pintada amarilla",
+      "USes": "pared pintada amarilla",
+      "EUfr": "mur peint jaune",
+      "USfr": "mur peint jaune",
+      "EUit": "muro dipinto giallo",
+      "EUnl": "gele wand",
+      "CNzh": "黄色油漆墙",
+      "TWzh": "黃色油漆牆",
+      "JPja": "きいろいペイントウォール",
+      "KRko": "노란 페인트 벽",
+      "EUru": "желтая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04809",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange-paint wall",
+      "EUen": "orange-paint wall",
+      "EUde": "Orangewand",
+      "EUes": "pared pintada naranja",
+      "USes": "pared pintada naranja",
+      "EUfr": "mur peint orange",
+      "USfr": "mur peint orange",
+      "EUit": "muro dipinto arancione",
+      "EUnl": "oranje wand",
+      "CNzh": "橘色油漆墙",
+      "TWzh": "橘色油漆牆",
+      "JPja": "オレンジのペイントウォール",
+      "KRko": "오렌지색 페인트 벽",
+      "EUru": "оранжевая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04811",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue-paint wall",
+      "EUen": "blue-paint wall",
+      "EUde": "Blauwand",
+      "EUes": "pared pintada azul",
+      "USes": "pared pintada azul",
+      "EUfr": "mur peint bleu",
+      "USfr": "mur peint bleu",
+      "EUit": "muro dipinto blu",
+      "EUnl": "blauwe wand",
+      "CNzh": "蓝色油漆墙",
+      "TWzh": "藍色油漆牆",
+      "JPja": "あおいペイントウォール",
+      "KRko": "파란 페인트 벽",
+      "EUru": "синяя стена"
+    }
+  },
+  {
+    "id": "RoomWall_04812",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green-paint wall",
+      "EUen": "green-paint wall",
+      "EUde": "Grünwand",
+      "EUes": "pared pintada verde",
+      "USes": "pared pintada verde",
+      "EUfr": "mur peint vert",
+      "USfr": "mur peint vert",
+      "EUit": "muro dipinto verde",
+      "EUnl": "groene wand",
+      "CNzh": "绿色油漆墙",
+      "TWzh": "綠色油漆牆",
+      "JPja": "みどりのペイントウォール",
+      "KRko": "초록 페인트 벽",
+      "EUru": "зеленая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04813",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rustic-stone wall",
+      "EUen": "rustic-stone wall",
+      "EUde": "Bruchsteinwand",
+      "EUes": "pared piedra rústica",
+      "USes": "pared piedra rústica",
+      "EUfr": "mur en pierres traditionnel",
+      "USfr": "mur en pierres traditionnel",
+      "EUit": "muro in pietra rustica",
+      "EUnl": "rustieke stenen wand",
+      "CNzh": "不规则石头墙",
+      "TWzh": "不規則石頭牆",
+      "JPja": "ランダムストーンのかべ",
+      "KRko": "마구 붙인 돌 벽",
+      "EUru": "стена из грубого камня"
+    }
+  },
+  {
+    "id": "RoomWall_04814",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue-crown wall",
+      "EUen": "blue-crown wall",
+      "EUde": "Blaukronenwand",
+      "EUes": "pared realeza azul",
+      "USes": "pared realeza azul",
+      "EUfr": "mur motif couronnes bleu",
+      "USfr": "mur motif couronnes bleu",
+      "EUit": "muro con corone blu",
+      "EUnl": "blauwe kroontjeswand",
+      "CNzh": "蓝色皇冠壁纸",
+      "TWzh": "藍色皇冠壁紙",
+      "JPja": "ブルークラウンのかべがみ",
+      "KRko": "블루 왕관 벽지",
+      "EUru": "синяя стена с коронами"
+    }
+  },
+  {
+    "id": "RoomWall_04815",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black-crown wall",
+      "EUen": "black-crown wall",
+      "EUde": "Schwarzkronenwand",
+      "EUes": "pared realeza negra",
+      "USes": "pared realeza negra",
+      "EUfr": "mur motif couronnes noir",
+      "USfr": "mur motif couronnes noir",
+      "EUit": "muro con corone nero",
+      "EUnl": "zwarte kroontjeswand",
+      "CNzh": "黑色皇冠壁纸",
+      "TWzh": "黑色皇冠壁紙",
+      "JPja": "ブラッククラウンのかべがみ",
+      "KRko": "블랙 왕관 벽지",
+      "EUru": "черная стена с коронами"
+    }
+  },
+  {
+    "id": "RoomWall_04816",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink-crown wall",
+      "EUen": "pink-crown wall",
+      "EUde": "Rosakronenwand",
+      "EUes": "pared realeza rosa",
+      "USes": "pared realeza rosa",
+      "EUfr": "mur motif couronnes rose",
+      "USfr": "mur motif couronnes rose",
+      "EUit": "muro con corone rosa",
+      "EUnl": "roze kroontjeswand",
+      "CNzh": "粉红皇冠壁纸",
+      "TWzh": "粉紅皇冠壁紙",
+      "JPja": "ピンククラウンのかべがみ",
+      "KRko": "핑크 왕관 벽지",
+      "EUru": "розовая стена с коронами"
+    }
+  },
+  {
+    "id": "RoomWall_04817",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beige art-deco wall",
+      "EUen": "beige art-deco wall",
+      "EUde": "Beige-Art-déco-Tapete",
+      "EUes": "pared art déco beis",
+      "USes": "pared art déco beige",
+      "EUfr": "mur Art déco beige",
+      "USfr": "mur Art déco beige",
+      "EUit": "muro art déco beige",
+      "EUnl": "beige art-decowand",
+      "CNzh": "米色装饰线板墙",
+      "TWzh": "米色裝飾線板壁紙",
+      "JPja": "ベージュのアールデコかべがみ",
+      "KRko": "베이지 아르데코풍 벽",
+      "EUru": "бежевая стена ар-деко"
+    }
+  },
+  {
+    "id": "RoomWall_04818",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red art-deco wall",
+      "EUen": "red art-deco wall",
+      "EUde": "Rot-Art-déco-Tapete",
+      "EUes": "pared art déco burdeos",
+      "USes": "pared art déco bermellón",
+      "EUfr": "mur Art déco pourpre",
+      "USfr": "mur Art déco pourpre",
+      "EUit": "muro art déco rosso",
+      "EUnl": "rode art-decowand",
+      "CNzh": "红色装饰线板墙",
+      "TWzh": "紅色裝飾線板壁紙",
+      "JPja": "レッドのアールデコかべがみ",
+      "KRko": "레드 아르데코풍 벽",
+      "EUru": "красная стена ар-деко"
+    }
+  },
+  {
+    "id": "RoomWall_04819",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "screen wall",
+      "EUen": "screen wall",
+      "EUde": "Schiebetürtapete",
+      "EUes": "pared bruma oriental",
+      "USes": "pared bruma oriental",
+      "EUfr": "mur paravent en papier",
+      "USfr": "mur paravent en papier",
+      "EUit": "muro porta scorrevole",
+      "EUnl": "scherm",
+      "CNzh": "日式拉门",
+      "TWzh": "日式拉門",
+      "JPja": "ふすま",
+      "KRko": "미닫이 문 벽",
+      "EUru": "стена-ширма"
+    }
+  },
+  {
+    "id": "RoomWall_04820",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold-screen wall",
+      "EUen": "gold-screen wall",
+      "EUde": "Goldtürtapete",
+      "EUes": "pared oriental",
+      "USes": "pared oriental",
+      "EUfr": "mur paravent",
+      "USfr": "mur paravent",
+      "EUit": "muro porta scorrevole d'oro",
+      "EUnl": "gouden scherm",
+      "CNzh": "金箔日式拉门",
+      "TWzh": "金箔日式拉門",
+      "JPja": "きんぱくのふすま",
+      "KRko": "황금 미닫이 문 벽",
+      "EUru": "золотая стена-ширма"
+    }
+  },
+  {
+    "id": "RoomWall_04821",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "circuit-board wall",
+      "EUen": "circuit-board wall",
+      "EUde": "Leiterplattentapete",
+      "EUes": "pared circuito integrado",
+      "USes": "pared circuito integrado",
+      "EUfr": "mur circuit imprimé",
+      "USfr": "mur circuit imprimé",
+      "EUit": "muro circuito stampato",
+      "EUnl": "printplaatwand",
+      "CNzh": "主机板墙",
+      "TWzh": "主機板牆",
+      "JPja": "きばんのかべ",
+      "KRko": "전자 회로 벽",
+      "EUru": "стена-микросхема"
+    }
+  },
+  {
+    "id": "RoomWall_04825",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shutter wall",
+      "EUen": "shutter wall",
+      "EUde": "Rollladenwand",
+      "EUes": "pared persiana",
+      "USes": "pared persiana",
+      "EUfr": "mur volet roulant",
+      "USfr": "mur volet roulant",
+      "EUit": "muro saracinesca",
+      "EUnl": "rolluikwand",
+      "CNzh": "铁卷门墙",
+      "TWzh": "鐵捲門牆",
+      "JPja": "シャッターのかべ",
+      "KRko": "닫힌 셔터 벽",
+      "EUru": "стена-жалюзи"
+    }
+  },
+  {
+    "id": "RoomWall_04826",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white botanical-tile wall",
+      "EUen": "white botanical-tile wall",
+      "EUde": "Weiß-Relieffliesenwand",
+      "EUes": "pared cerámica blanca",
+      "USes": "pared cerámica blanca",
+      "EUfr": "mur botanique blanc",
+      "USfr": "mur botanique blanc",
+      "EUit": "muro bassorilievo bianco",
+      "EUnl": "witte patroontegelwand",
+      "CNzh": "白色植物图案砖墙",
+      "TWzh": "白色植物圖案磚牆",
+      "JPja": "しろいボタニカルタイルのかべ",
+      "KRko": "화이트 보태니컬 타일 벽",
+      "EUru": "белая кафельная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04827",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown botanical-tile wall",
+      "EUen": "brown botanical-tile wall",
+      "EUde": "Braun-Relieffliesenwand",
+      "EUes": "pared cerámica marrón",
+      "USes": "pared cerámica marrón",
+      "EUfr": "mur botanique brun",
+      "USfr": "mur botanique brun",
+      "EUit": "muro bassorilievo marrone",
+      "EUnl": "bruine patroontegelwand",
+      "CNzh": "棕色植物图案砖墙",
+      "TWzh": "棕色植物圖案磚牆",
+      "JPja": "ブラウンボタニカルタイルのかべ",
+      "KRko": "브라운 보태니컬 타일 벽",
+      "EUru": "темная кафельная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04828",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chic wall",
+      "EUen": "chic wall",
+      "EUde": "Omatapete",
+      "EUes": "pared lujo",
+      "USes": "pared lujo",
+      "EUfr": "mur rustique",
+      "USfr": "mur rustique",
+      "EUit": "muro classico",
+      "EUnl": "chique wand",
+      "CNzh": "古典壁纸",
+      "TWzh": "古典壁紙",
+      "JPja": "クラシックなかべがみ",
+      "KRko": "클래식 벽지",
+      "EUru": "шикарная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04830",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lattice wall",
+      "EUen": "lattice wall",
+      "EUde": "Pavillonwand",
+      "EUes": "pared celosía",
+      "USes": "pared celosía",
+      "EUfr": "mur tonnelle",
+      "USfr": "mur tonnelle",
+      "EUit": "muro a rete",
+      "EUnl": "raamwerkwand",
+      "CNzh": "东方风交叉格栅",
+      "TWzh": "東方風交叉格柵",
+      "JPja": "オリエンタルなラティス",
+      "KRko": "오리엔탈 격자 벽",
+      "EUru": "решетчатая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04831",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beige blossoming wall",
+      "EUen": "beige blossoming wall",
+      "EUde": "Beige-Blümchentapete",
+      "EUes": "pared floreada beis",
+      "USes": "pared floreada beige",
+      "EUfr": "mur beige à petites fleurs",
+      "USfr": "mur floraison beige",
+      "EUit": "muro fiorato beige",
+      "EUnl": "beige boeketlambrisering",
+      "CNzh": "米色花草图案墙",
+      "TWzh": "米色花草圖案牆",
+      "JPja": "ベージュのくさばなもようのかべ",
+      "KRko": "베이지 풀꽃 벽",
+      "EUru": "бежевая стена с цветами"
+    }
+  },
+  {
+    "id": "RoomWall_04832",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wavy-tile wall",
+      "EUen": "wavy-tile wall",
+      "EUde": "Wellenfliesenwand",
+      "EUes": "pared gres ondulada",
+      "USes": "pared gres ondulada",
+      "EUfr": "mur ondulations",
+      "USfr": "mur ondulations",
+      "EUit": "muro ondulato",
+      "EUnl": "golventegelwand",
+      "CNzh": "波浪砖墙",
+      "TWzh": "波浪磚牆",
+      "JPja": "ウェーブタイルのかべ",
+      "KRko": "웨이브 타일 벽",
+      "EUru": "волнистая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04833",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo wall",
+      "EUen": "bamboo wall",
+      "EUde": "Bambuswand",
+      "EUes": "pared bambú",
+      "USes": "pared bambú",
+      "EUfr": "mur en bambou",
+      "USfr": "mur en bambou",
+      "EUit": "muro bambù",
+      "EUnl": "bamboewand",
+      "CNzh": "竹子墙",
+      "TWzh": "竹子牆",
+      "JPja": "バンブーなかべ",
+      "KRko": "대나무 벽",
+      "EUru": "бамбуковая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04834",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beige desert-tile wall",
+      "EUen": "beige desert-tile wall",
+      "EUde": "Beige-Wüstenfliesenwand",
+      "EUes": "pared losa desierto beis",
+      "USes": "pared losa desierto beige",
+      "EUfr": "mur treillis marocain beige",
+      "USfr": "mur treillis désert beige",
+      "EUit": "muro motivo arabo beige",
+      "EUnl": "beige oosterse tegelwand",
+      "CNzh": "米色摩洛哥砖墙",
+      "TWzh": "米色摩洛哥磚牆",
+      "JPja": "ベージュのモロッカンタイルかべ",
+      "KRko": "베이지 모로칸 타일 벽",
+      "EUru": "бежевая стена «Восток»"
+    }
+  },
+  {
+    "id": "RoomWall_04835",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue desert-tile wall",
+      "EUen": "blue desert-tile wall",
+      "EUde": "Blau-Wüstenfliesenwand",
+      "EUes": "pared losa desierto azul",
+      "USes": "pared losa desierto azul",
+      "EUfr": "mur treillis marocain bleu",
+      "USfr": "mur treillis désert bleu",
+      "EUit": "muro motivo arabo blu",
+      "EUnl": "blauwe oosterse tegelwand",
+      "CNzh": "蓝色摩洛哥砖墙",
+      "TWzh": "藍色摩洛哥磚牆",
+      "JPja": "ブルーのモロッカンタイルかべ",
+      "KRko": "블루 모로칸 타일 벽",
+      "EUru": "синяя стена «Восток»"
+    }
+  },
+  {
+    "id": "RoomWall_04836",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo-screen wall",
+      "EUen": "bamboo-screen wall",
+      "EUde": "Bambusrollowand",
+      "EUes": "pared cañizo",
+      "USes": "pared tejido de bambú",
+      "EUfr": "mur paravent en bambou",
+      "USfr": "mur paravent en bambou",
+      "EUit": "muro tenda di bambù",
+      "EUnl": "bamboegordijnwand",
+      "CNzh": "竹帘墙",
+      "TWzh": "竹簾牆",
+      "JPja": "すだれのかべ",
+      "KRko": "나무 발 벽",
+      "EUru": "бамбуковая стена-ширма"
+    }
+  },
+  {
+    "id": "RoomWall_04837",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "classic-library wall",
+      "EUen": "classic-library wall",
+      "EUde": "Klassik-Bücherwand",
+      "EUes": "pared biblioteca de clásicos",
+      "USes": "pared biblioteca de clásicos",
+      "EUfr": "mur bibliothèque classique",
+      "USfr": "mur bibliothèque classique",
+      "EUit": "muro libreria classica",
+      "EUnl": "klassieke bibliotheekwand",
+      "CNzh": "图书馆墙",
+      "TWzh": "圖書館牆",
+      "JPja": "ライブラリーなかべ",
+      "KRko": "도서관 벽",
+      "EUru": "стена-библиотека"
+    }
+  },
+  {
+    "id": "RoomWall_04838",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "manga-library wall",
+      "EUen": "manga-library wall",
+      "EUde": "Manga-Bücherwand",
+      "EUes": "pared biblioteca de manga",
+      "USes": "pared biblioteca de manga",
+      "EUfr": "mur bibliothèque manga",
+      "USfr": "mur bibliothèque manga",
+      "EUit": "muro libreria di manga",
+      "EUnl": "mangabibliotheekwand",
+      "CNzh": "漫画图书馆墙",
+      "TWzh": "漫畫圖書館牆",
+      "JPja": "マンガライブラリーなかべ",
+      "KRko": "만화 도서관 벽",
+      "EUru": "стена «Библиотека манги»"
+    }
+  },
+  {
+    "id": "RoomWall_04839",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bank-vault wall",
+      "EUen": "bank-vault wall",
+      "EUde": "Schließfachwand",
+      "EUes": "pared cajas de seguridad",
+      "USes": "pared cajas de seguridad",
+      "EUfr": "mur coffres-forts",
+      "USfr": "mur coffres-forts",
+      "EUit": "muro cassette di sicurezza",
+      "EUnl": "kluisjeswand",
+      "CNzh": "银行保险箱墙",
+      "TWzh": "銀行保險箱牆",
+      "JPja": "かしきんこのかべ",
+      "KRko": "금고 벽",
+      "EUru": "стена-хранилище"
+    }
+  },
+  {
+    "id": "RoomWall_04840",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cabin wall",
+      "EUen": "cabin wall",
+      "EUde": "Blockhauswand",
+      "EUes": "pared cabaña",
+      "USes": "pared cabaña",
+      "EUfr": "mur chalet",
+      "USfr": "mur chalet",
+      "EUit": "muro rustico",
+      "EUnl": "blokhutwand",
+      "CNzh": "木屋墙",
+      "TWzh": "木屋牆",
+      "JPja": "ログハウスのかべ",
+      "KRko": "통나무집 벽",
+      "EUru": "бревенчатая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04841",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crepe-design wall",
+      "EUen": "crepe-design wall",
+      "EUde": "Seidenkreppwand",
+      "EUes": "pared crepé",
+      "USes": "pared crepé",
+      "EUfr": "mur crêpé",
+      "USfr": "mur crêpé",
+      "EUit": "muro tessuto crêpe",
+      "EUnl": "crêpewand",
+      "CNzh": "绉纱纹壁纸",
+      "TWzh": "縐紗紋壁紙",
+      "JPja": "ちりめんもようのかべがみ",
+      "KRko": "면직물 무늬 벽지",
+      "EUru": "матерчатая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04843",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "construction-site wall",
+      "EUen": "construction-site wall",
+      "EUde": "Baustellenwand",
+      "EUes": "pared fachada en obras",
+      "USes": "pared fachada en obras",
+      "EUfr": "mur de chantier",
+      "USfr": "mur de chantier",
+      "EUit": "muro cantiere",
+      "EUnl": "bouwplaatswand",
+      "CNzh": "施工现场墙",
+      "TWzh": "施工現場牆",
+      "JPja": "こうじげんばのかべ",
+      "KRko": "공사 현장 벽",
+      "EUru": "строительная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04844",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stacked-wood wall",
+      "EUen": "stacked-wood wall",
+      "EUde": "Holzstapelwand",
+      "EUes": "pared leñera",
+      "USes": "pared leñera",
+      "EUfr": "mur tronçons de bois",
+      "USfr": "mur tronçons de bois",
+      "EUit": "muro catasta di legna",
+      "EUnl": "houtstapelwand",
+      "CNzh": "木质墙",
+      "TWzh": "木質牆",
+      "JPja": "ウッディなかべ",
+      "KRko": "장작더미 벽",
+      "EUru": "стена «Поленница»"
+    }
+  },
+  {
+    "id": "RoomWall_04845",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rammed-earth wall",
+      "EUen": "rammed-earth wall",
+      "EUde": "Lehmwand",
+      "EUes": "pared tierra amasada",
+      "USes": "pared tierra amasada",
+      "EUfr": "mur en pisé",
+      "USfr": "mur en pisé",
+      "EUit": "muro pisé",
+      "EUnl": "stamplemen wand",
+      "CNzh": "夯土墙",
+      "TWzh": "夯土牆",
+      "JPja": "はんちくのかべ",
+      "KRko": "층층이 쌓은 토벽",
+      "EUru": "земляная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04846",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "groovy wall",
+      "EUen": "groovy wall",
+      "EUde": "Irrsinnstapete",
+      "EUes": "pared comedor",
+      "USes": "pared comedor",
+      "EUfr": "mur groovy",
+      "USfr": "mur groovy",
+      "EUit": "muro alla moda",
+      "EUnl": "groovy wand",
+      "CNzh": "迷幻壁纸",
+      "TWzh": "迷幻壁紙",
+      "JPja": "サイケなかべがみ",
+      "KRko": "사이키델릭 벽지",
+      "EUru": "модная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04847",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro flower-print wall",
+      "EUen": "retro flower-print wall",
+      "EUde": "Retro-Blumentapete",
+      "EUes": "pared kitsch",
+      "USes": "pared kitsch",
+      "EUfr": "mur à fleurs rétro",
+      "USfr": "mur kitsch",
+      "EUit": "muro stampa floreale rétro",
+      "EUnl": "retrobloemenwand",
+      "CNzh": "复古花纹壁纸",
+      "TWzh": "復古花紋壁紙",
+      "JPja": "レトロなはながらのかべがみ",
+      "KRko": "복고풍 꽃무늬 벽지",
+      "EUru": "ретро-стена с цветами"
+    }
+  },
+  {
+    "id": "RoomWall_04848",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue intricate wall",
+      "EUen": "blue intricate wall",
+      "EUde": "Blau-Filigrantapete",
+      "EUes": "pared boceto floral azul",
+      "USes": "pared boceto floral azul",
+      "EUfr": "mur entrelacs floraux bleu",
+      "USfr": "mur entrelacs floraux bleu",
+      "EUit": "muro filigrana blu",
+      "EUnl": "blauwe filigraanwand",
+      "CNzh": "蓝色布墙",
+      "TWzh": "藍色布牆",
+      "JPja": "あおいテキスタイルのかべ",
+      "KRko": "파란 텍스타일 벽",
+      "EUru": "затейливая синяя стена"
+    }
+  },
+  {
+    "id": "RoomWall_04849",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow intricate wall",
+      "EUen": "yellow intricate wall",
+      "EUde": "Gelb-Filigrantapete",
+      "EUes": "pared boceto floral amarilla",
+      "USes": "pared boceto floral amarilla",
+      "EUfr": "mur entrelacs floraux jaune",
+      "USfr": "mur entrelacs floraux jaune",
+      "EUit": "muro filigrana giallo",
+      "EUnl": "gele filigraanwand",
+      "CNzh": "黄色布墙",
+      "TWzh": "黃色布牆",
+      "JPja": "きいろいテキスタイルのかべ",
+      "KRko": "노란 텍스타일 벽",
+      "EUru": "затейливая желтая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04850",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ivy wall",
+      "EUen": "ivy wall",
+      "EUde": "Efeumauer",
+      "EUes": "pared hiedra",
+      "USes": "pared hiedra",
+      "EUfr": "mur de lierre",
+      "USfr": "mur de lierre",
+      "EUit": "muro edera",
+      "EUnl": "klimopwand",
+      "CNzh": "常春藤墙",
+      "TWzh": "常春藤牆",
+      "JPja": "つたのかべ",
+      "KRko": "덩굴 벽",
+      "EUru": "стена с плющом"
+    }
+  },
+  {
+    "id": "RoomWall_04851",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rock-climbing wall",
+      "EUen": "rock-climbing wall",
+      "EUde": "Boulderwand",
+      "EUes": "pared escalada",
+      "USes": "pared escalada",
+      "EUfr": "mur pierres d'escalade",
+      "USfr": "mur pierres d'escalade",
+      "EUit": "muro bouldering",
+      "EUnl": "klimwand",
+      "CNzh": "抱石墙",
+      "TWzh": "抱石牆",
+      "JPja": "ボルダリングのかべ",
+      "KRko": "암벽 등반 벽",
+      "EUru": "стена для скалолазания"
+    }
+  },
+  {
+    "id": "RoomWall_04852",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skyscraper wall",
+      "EUen": "skyscraper wall",
+      "EUde": "Wolkenkratzertapete",
+      "EUes": "pared rascacielos",
+      "USes": "pared rascacielos",
+      "EUfr": "mur gratte-ciel",
+      "USfr": "mur gratte-ciel",
+      "EUit": "muro grattacieli",
+      "EUnl": "wolkenkrabberswand",
+      "CNzh": "摩天大楼墙",
+      "TWzh": "摩天大樓牆",
+      "JPja": "まてんろうのかべ",
+      "KRko": "마천루 벽",
+      "EUru": "стена с небоскребами"
+    }
+  },
+  {
+    "id": "RoomWall_04853",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo-grove wall",
+      "EUen": "bamboo-grove wall",
+      "EUde": "Bambuswaldtapete",
+      "EUes": "pared bosque bambú",
+      "USes": "pared bosque bambú",
+      "EUfr": "mur forêt de bambou",
+      "USfr": "mur forêt de bambou",
+      "EUit": "muro canneto bambù",
+      "EUnl": "bamboeboswand",
+      "CNzh": "竹林墙",
+      "TWzh": "竹林牆",
+      "JPja": "ちくりんのかべ",
+      "KRko": "대나무 숲 벽",
+      "EUru": "стена с бамбуком"
+    }
+  },
+  {
+    "id": "RoomWall_04854",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "paintball wall",
+      "EUen": "paintball wall",
+      "EUde": "Farbkleckstapete",
+      "EUes": "pared pintura",
+      "USes": "pared pintura",
+      "EUfr": "mur paintball",
+      "USfr": "mur paintball",
+      "EUit": "muro atelier",
+      "EUnl": "paintballwand",
+      "CNzh": "画室墙",
+      "TWzh": "畫室牆",
+      "JPja": "アトリエのかべ",
+      "KRko": "아틀리에 벽",
+      "EUru": "стена с кляксами"
+    }
+  },
+  {
+    "id": "RoomWall_04855",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflake wall",
+      "EUen": "snowflake wall",
+      "EUde": "Schneeflockentapete",
+      "EUes": "pared nevada",
+      "USes": "pared nevada",
+      "EUfr": "mur flocons",
+      "USfr": "mur flocons",
+      "EUit": "muro fiocchi di neve",
+      "EUnl": "sneeuwvlokjeswand",
+      "CNzh": "雪花壁纸",
+      "TWzh": "雪花壁紙",
+      "JPja": "スノーフレークのかべがみ",
+      "KRko": "눈꽃 벽지",
+      "EUru": "стена со снежинками"
+    }
+  },
+  {
+    "id": "RoomWall_04856",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dirt-clod wall",
+      "EUen": "dirt-clod wall",
+      "EUde": "Schmutzwand",
+      "EUes": "pared ruinosa",
+      "USes": "pared ruinosa",
+      "EUfr": "mur terreux",
+      "USfr": "mur terreux",
+      "EUit": "muro di terra",
+      "EUnl": "gehavende wand",
+      "CNzh": "破烂泥土墙",
+      "TWzh": "破爛泥土牆",
+      "JPja": "ボロいつちかべ",
+      "KRko": "낡은 토벽",
+      "EUru": "старая штукатурка"
+    }
+  },
+  {
+    "id": "RoomWall_04857",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "old wallpaper",
+      "EUen": "old wallpaper",
+      "EUde": "Gammeltapete",
+      "EUes": "pared sosa",
+      "USes": "pared sosa",
+      "EUfr": "mur miteux",
+      "USfr": "mur miteux",
+      "EUit": "muro malandato",
+      "EUnl": "wand met oud behang",
+      "CNzh": "破烂壁纸",
+      "TWzh": "破爛壁紙",
+      "JPja": "ボロいかべがみ",
+      "KRko": "낡은 벽지",
+      "EUru": "стена со старыми обоями"
+    }
+  },
+  {
+    "id": "RoomWall_04858",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wild-wood wall",
+      "EUen": "wild-wood wall",
+      "EUde": "Wildholzwand",
+      "EUes": "panelado madera de deriva",
+      "USes": "pared madera selvática",
+      "EUfr": "mur bois sauvage",
+      "USfr": "mur bois sauvage",
+      "EUit": "muro legno selvatico",
+      "EUnl": "wrakhoutmuur",
+      "CNzh": "原木墙",
+      "TWzh": "原木牆",
+      "JPja": "ワイルドウッドのかべ",
+      "KRko": "거친 나무 벽",
+      "EUru": "стена из грубого дерева"
+    }
+  },
+  {
+    "id": "RoomWall_04859",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden-mosaic wall",
+      "EUen": "wooden-mosaic wall",
+      "EUde": "Mischholzwand",
+      "EUes": "pared madera mixta",
+      "USes": "pared madera mixta",
+      "EUfr": "mur lambris fin",
+      "USfr": "mur lambris fin",
+      "EUit": "muro a liste di legno",
+      "EUnl": "blankhouten mozaïekwand",
+      "CNzh": "嵌木墙",
+      "TWzh": "嵌木牆",
+      "JPja": "よせぎのかべ",
+      "KRko": "나무로 짠 벽",
+      "EUru": "наборная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04860",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark wooden-mosaic wall",
+      "EUen": "dark wooden-mosaic wall",
+      "EUde": "Dunkel-Mischholzwand",
+      "EUes": "pared madera mixta oscura",
+      "USes": "pared madera mixta oscura",
+      "EUfr": "mur lambris fin sombre",
+      "USfr": "mur lambris fin sombre",
+      "EUit": "muro a liste di legno scuro",
+      "EUnl": "donkerhouten mozaïekwand",
+      "CNzh": "深色嵌木墙",
+      "TWzh": "深色嵌木牆",
+      "JPja": "ダークなよせぎのかべ",
+      "KRko": "짙은 색 나무로 짠 벽",
+      "EUru": "темная наборная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04861",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stately wall",
+      "EUen": "stately wall",
+      "EUde": "Wandverkleidung",
+      "EUes": "pared majestuosa",
+      "USes": "pared majestuosa",
+      "EUfr": "mur ouvragé",
+      "USfr": "mur ouvragé",
+      "EUit": "muro solenne",
+      "EUnl": "monumentale wand",
+      "CNzh": "文艺复兴墙",
+      "TWzh": "文藝復興牆",
+      "JPja": "ルネッサンスなかべ",
+      "KRko": "르네상스풍 벽",
+      "EUru": "роскошная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04862",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mosaic-tile wall",
+      "EUen": "mosaic-tile wall",
+      "EUde": "Mosaikfliesenwand",
+      "EUes": "pared mosaico tradicional",
+      "USes": "pared mosaico tradicional",
+      "EUfr": "mur carrelage mosaïque",
+      "USfr": "mur carrelage mosaïque",
+      "EUit": "muro mosaico artistico",
+      "EUnl": "mozaïekwand",
+      "CNzh": "马赛克砖墙",
+      "TWzh": "馬賽克磚牆",
+      "JPja": "アートモザイクタイルのかべ",
+      "KRko": "아트 모자이크 타일 벽",
+      "EUru": "мозаичная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04863",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shoji screen",
+      "EUen": "shoji screen",
+      "EUde": "Shoji-Wand",
+      "EUes": "pared shoji",
+      "USes": "pared shoji",
+      "EUfr": "mur shôji",
+      "USfr": "mur shôji",
+      "EUit": "muro shoji",
+      "EUnl": "shoji-scherm",
+      "CNzh": "日式纸拉门",
+      "TWzh": "日式紙拉門",
+      "JPja": "しょうじ",
+      "KRko": "창호지 문 벽",
+      "EUru": "стена-сёдзи"
+    }
+  },
+  {
+    "id": "RoomWall_04864",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "modern shoji-screen wall",
+      "EUen": "modern shoji-screen wall",
+      "EUde": "Shoji-Wand (modern)",
+      "EUes": "pared japonesa",
+      "USes": "pared japonesa",
+      "EUfr": "mur papier de riz",
+      "USfr": "mur papier de riz",
+      "EUit": "muro shoji moderno",
+      "EUnl": "modern scherm",
+      "CNzh": "摩登日式纸拉门",
+      "TWzh": "摩登日式紙拉門",
+      "JPja": "モダンなしょうじ",
+      "KRko": "모던 창호지 문 벽",
+      "EUru": "современная стена-сёдзи"
+    }
+  },
+  {
+    "id": "RoomWall_04865",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "honeycomb wall",
+      "EUen": "honeycomb wall",
+      "EUde": "Bienenwabenwand",
+      "EUes": "pared melosa",
+      "USes": "pared melosa",
+      "EUfr": "mur rayons de miel",
+      "USfr": "mur rayons de miel",
+      "EUit": "muro alveare",
+      "EUnl": "honingraatwand",
+      "CNzh": "蜂巢墙",
+      "TWzh": "蜂巢牆",
+      "JPja": "ビーハイブなかべ",
+      "KRko": "벌집 벽",
+      "EUru": "стена-соты"
+    }
+  },
+  {
+    "id": "RoomWall_04866",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "exquisite wall",
+      "EUen": "exquisite wall",
+      "EUde": "Feudaltapete",
+      "EUes": "pared exquisita",
+      "USes": "pared exquisita",
+      "EUfr": "mur magnifique",
+      "USfr": "mur magnifique",
+      "EUit": "muro raffinato",
+      "EUnl": "verfijnde wand",
+      "CNzh": "中华风墙",
+      "TWzh": "中華風牆",
+      "JPja": "チャイナなかべ",
+      "KRko": "차이나풍 벽",
+      "EUru": "изысканная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04867",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow simple-cloth wall",
+      "EUen": "yellow simple-cloth wall",
+      "EUde": "Gelb-Textiltapete",
+      "EUes": "pared lisa amarilla",
+      "USes": "pared lisa amarilla",
+      "EUfr": "mur textile jaune",
+      "USfr": "mur textile jaune",
+      "EUit": "muro liscio giallo",
+      "EUnl": "gele gladde wand",
+      "CNzh": "米色简约布面墙",
+      "TWzh": "米色簡約布面牆",
+      "JPja": "ベージュのシンプルクロス",
+      "KRko": "베이지 심플 벽지",
+      "EUru": "простая желтая ткань"
+    }
+  },
+  {
+    "id": "RoomWall_04868",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink simple-cloth wall",
+      "EUen": "pink simple-cloth wall",
+      "EUde": "Rosa-Textiltapete",
+      "EUes": "pared lisa salmón",
+      "USes": "pared lisa salmón",
+      "EUfr": "mur textile saumon",
+      "USfr": "mur textile saumon",
+      "EUit": "muro liscio rosa",
+      "EUnl": "roze gladde wand",
+      "CNzh": "粉红简约布面墙",
+      "TWzh": "粉紅簡約布面牆",
+      "JPja": "ピンクのシンプルクロス",
+      "KRko": "핑크 심플 벽지",
+      "EUru": "простая розовая ткань"
+    }
+  },
+  {
+    "id": "RoomWall_04869",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue simple-cloth wall",
+      "EUen": "blue simple-cloth wall",
+      "EUde": "Blau-Textiltapete",
+      "EUes": "pared lisa celeste",
+      "USes": "pared lisa celeste",
+      "EUfr": "mur textile bleu ciel",
+      "USfr": "mur textile bleu ciel",
+      "EUit": "muro liscio blu cielo",
+      "EUnl": "blauwe gladde wand",
+      "CNzh": "蓝色简约布面墙",
+      "TWzh": "藍色簡約布面牆",
+      "JPja": "あおいシンプルクロス",
+      "KRko": "파란 심플 벽지",
+      "EUru": "простая голубая ткань"
+    }
+  },
+  {
+    "id": "RoomWall_04870",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange molded-panel wall",
+      "EUen": "orange molded-panel wall",
+      "EUde": "Orange-Wandvertäfelung",
+      "EUes": "pared con molduras naranja",
+      "USes": "pared con molduras naranja",
+      "EUfr": "mur à moulures orange",
+      "USfr": "mur à moulures orange",
+      "EUit": "muro modanature arancione",
+      "EUnl": "oranje lambrisering",
+      "CNzh": "橘色线板墙",
+      "TWzh": "橘色線板牆",
+      "JPja": "オレンジのパネルモールドかべ",
+      "KRko": "오렌지 패널 몰드 벽",
+      "EUru": "светлая лепная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04871",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue molded-panel wall",
+      "EUen": "blue molded-panel wall",
+      "EUde": "Blau-Wandvertäfelung",
+      "EUes": "pared con molduras azul",
+      "USes": "pared con molduras azul",
+      "EUfr": "mur à moulures bleu",
+      "USfr": "mur à moulures bleu",
+      "EUit": "muro modanature blu",
+      "EUnl": "blauwe lambrisering",
+      "CNzh": "蓝色线板墙",
+      "TWzh": "藍色線板牆",
+      "JPja": "あおいパネルモールドかべ",
+      "KRko": "블루 패널 몰드 벽",
+      "EUru": "темная лепная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04872",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray molded-panel wall",
+      "EUen": "gray molded-panel wall",
+      "EUde": "Grau-Wandvertäfelung",
+      "EUes": "pared con molduras gris",
+      "USes": "pared con molduras gris",
+      "EUfr": "mur à moulures gris",
+      "USfr": "mur à moulures gris",
+      "EUit": "muro modanature grigio",
+      "EUnl": "grijze lambrisering",
+      "CNzh": "灰色线板墙",
+      "TWzh": "灰色線板牆",
+      "JPja": "グレーのパネルモールドかべ",
+      "KRko": "그레이 패널 몰드 벽",
+      "EUru": "серая лепная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04873",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "abstract wall",
+      "EUen": "abstract wall",
+      "EUde": "Abstrakttapete",
+      "EUes": "pared abstracta",
+      "USes": "pared abstracta",
+      "EUfr": "mur art abstrait",
+      "USfr": "mur art abstrait",
+      "EUit": "muro astratto",
+      "EUnl": "abstracte wand",
+      "CNzh": "抽象艺术墙",
+      "TWzh": "抽象藝術牆",
+      "JPja": "アブストラクトなかべ",
+      "KRko": "추상적인 벽지",
+      "EUru": "абстрактная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04874",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue heart-pattern wall",
+      "EUen": "blue heart-pattern wall",
+      "EUde": "Herz-auf-Blau-Tapete",
+      "EUes": "pared amor celeste",
+      "USes": "pared amor celeste",
+      "EUfr": "mur motif cœurs turquoise",
+      "USfr": "mur motif cœurs turquoise",
+      "EUit": "muro con cuori blu",
+      "EUnl": "blauwe hartjeswand",
+      "CNzh": "蓝色爱心壁纸",
+      "TWzh": "藍色愛心壁紙",
+      "JPja": "ブルーハートのかべがみ",
+      "KRko": "블루 하트 벽지",
+      "EUru": "голубая стена с сердцами"
+    }
+  },
+  {
+    "id": "RoomWall_04875",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink heart-pattern wall",
+      "EUen": "pink heart-pattern wall",
+      "EUde": "Herz-auf-Rosa-Tapete",
+      "EUes": "pared amor rosa",
+      "USes": "pared amor rosa",
+      "EUfr": "mur motif cœurs rose",
+      "USfr": "mur motif cœurs rose",
+      "EUit": "muro amore rosa",
+      "EUnl": "roze hartjeswand",
+      "CNzh": "粉红爱心壁纸",
+      "TWzh": "粉紅愛心壁紙",
+      "JPja": "ピンクハートのかべがみ",
+      "KRko": "핑크 하트 벽지",
+      "EUru": "розовая стена с сердцами"
+    }
+  },
+  {
+    "id": "RoomWall_04876",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "industrial wall",
+      "EUen": "industrial wall",
+      "EUde": "Industriewand",
+      "EUes": "pared industrial",
+      "USes": "pared industrial",
+      "EUfr": "mur d'usine",
+      "USfr": "mur d'usine",
+      "EUit": "muro industriale",
+      "EUnl": "fabriekswand",
+      "CNzh": "工厂墙",
+      "TWzh": "工廠牆",
+      "JPja": "ファクトリーなかべ",
+      "KRko": "팩토리 벽",
+      "EUru": "фабричная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04877",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beaded-curtain wall",
+      "EUen": "beaded-curtain wall",
+      "EUde": "Perlenvorhangwand",
+      "EUes": "pared cortina de cuentas",
+      "USes": "pared cortina de cuentas",
+      "EUfr": "mur rideau de perles",
+      "USfr": "mur rideau de perles",
+      "EUit": "muro tendina di perline",
+      "EUnl": "kraaltjesgordijnwand",
+      "CNzh": "珠帘墙",
+      "TWzh": "珠簾牆",
+      "JPja": "たまのれんのかべ",
+      "KRko": "구슬 커튼 벽",
+      "EUru": "занавески макраме"
+    }
+  },
+  {
+    "id": "RoomWall_04878",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "heavy-curtain wall",
+      "EUen": "heavy-curtain wall",
+      "EUde": "Bühnenvorhangwand",
+      "EUes": "pared telón",
+      "USes": "pared telón",
+      "EUfr": "mur rideau de velours",
+      "USfr": "mur rideau de velours",
+      "EUit": "muro sipario",
+      "EUnl": "theatergordijn",
+      "CNzh": "舞台布幕墙",
+      "TWzh": "舞台布幕牆",
+      "JPja": "どんちょうのかべ",
+      "KRko": "극장 커튼 벽",
+      "EUru": "тяжелые гардины"
+    }
+  },
+  {
+    "id": "RoomWall_04879",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "marine pop wall",
+      "EUen": "marine pop wall",
+      "EUde": "Aquatapete",
+      "EUes": "pared peces",
+      "USes": "pared peces",
+      "EUfr": "mur marin pop",
+      "USfr": "mur marin pop",
+      "EUit": "muro mare pop",
+      "EUnl": "vissenwand",
+      "CNzh": "鱼儿壁纸",
+      "TWzh": "魚兒壁紙",
+      "JPja": "おサカナのかべがみ",
+      "KRko": "물고기 벽지",
+      "EUru": "морская стена"
+    }
+  },
+  {
+    "id": "RoomWall_04880",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "butterflies wall",
+      "EUen": "butterflies wall",
+      "EUde": "Faltertapete",
+      "EUes": "pared mariposas",
+      "USes": "pared mariposas",
+      "EUfr": "mur papillons de jour",
+      "USfr": "mur papillons de jour",
+      "EUit": "muro farfalle",
+      "EUnl": "vlinderwand",
+      "CNzh": "蝴蝶壁纸",
+      "TWzh": "蝴蝶壁紙",
+      "JPja": "バタフライなかべがみ",
+      "KRko": "나비 벽지",
+      "EUru": "стена с мотыльками"
+    }
+  },
+  {
+    "id": "RoomWall_04881",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kisses wall",
+      "EUen": "kisses wall",
+      "EUde": "Kusstapete",
+      "EUes": "pared besos",
+      "USes": "pared besos",
+      "EUfr": "mur bisous",
+      "USfr": "mur bisous",
+      "EUit": "muro baci",
+      "EUnl": "kusjeswand",
+      "CNzh": "唇印壁纸",
+      "TWzh": "唇印壁紙",
+      "JPja": "キッスのかべがみ",
+      "KRko": "입술 벽지",
+      "EUru": "стена с поцелуйчиками"
+    }
+  },
+  {
+    "id": "RoomWall_04882",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blackboard wall",
+      "EUen": "blackboard wall",
+      "EUde": "Cafétafelwand",
+      "EUes": "pared pizarra de cafetería",
+      "USes": "pared pizarra de cafetería",
+      "EUfr": "mur menu de café",
+      "USfr": "mur menu de café",
+      "EUit": "muro lavagna da bar",
+      "EUnl": "uithangbordwand",
+      "CNzh": "黑板墙",
+      "TWzh": "黑板牆",
+      "JPja": "こくばんのかべ",
+      "KRko": "칠판 벽",
+      "EUru": "грифельная доска"
+    }
+  },
+  {
+    "id": "RoomWall_04883",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "camo wall",
+      "EUen": "camo wall",
+      "EUde": "Tarntapete",
+      "EUes": "pared camuflaje",
+      "USes": "pared camuflaje",
+      "EUfr": "mur camouflage",
+      "USfr": "mur camouflage",
+      "EUit": "muro mimetico",
+      "EUnl": "camouflagewand",
+      "CNzh": "迷彩壁纸",
+      "TWzh": "迷彩壁紙",
+      "JPja": "めいさいのかべがみ",
+      "KRko": "밀리터리 벽지",
+      "EUru": "стена-камуфляж"
+    }
+  },
+  {
+    "id": "RoomWall_04884",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue camo wall",
+      "EUen": "blue camo wall",
+      "EUde": "Blau-Tarntapete",
+      "EUes": "pared camuflaje azul",
+      "USes": "pared camuflaje azul",
+      "EUfr": "mur camouflage bleu",
+      "USfr": "mur camouflage bleu",
+      "EUit": "muro mimetico blu",
+      "EUnl": "blauwe camouflagewand",
+      "CNzh": "蓝色迷彩壁纸",
+      "TWzh": "藍色迷彩壁紙",
+      "JPja": "ブルーめいさいのかべがみ",
+      "KRko": "블루 밀리터리 벽지",
+      "EUru": "голуб. стена-камуфляж"
+    }
+  },
+  {
+    "id": "RoomWall_04885",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple camo wall",
+      "EUen": "purple camo wall",
+      "EUde": "Lila-Tarntapete",
+      "EUes": "pared camuflaje lila",
+      "USes": "pared camuflaje morada",
+      "EUfr": "mur camouflage violet",
+      "USfr": "mur camouflage mauve",
+      "EUit": "muro mimetico viola",
+      "EUnl": "paarse camouflagewand",
+      "CNzh": "紫色迷彩壁纸",
+      "TWzh": "紫色迷彩壁紙",
+      "JPja": "パープルめいさいのかべがみ",
+      "KRko": "퍼플 밀리터리 벽지",
+      "EUru": "фиолет. стена-камуфляж"
+    }
+  },
+  {
+    "id": "RoomWall_04886",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pastel puzzle wall",
+      "EUen": "pastel puzzle wall",
+      "EUde": "Pastell-Puzzletapete",
+      "EUes": "pared rompecabezas pastel",
+      "USes": "pared rompecabezas pastel",
+      "EUfr": "mur puzzle pastel",
+      "USfr": "mur casse-tête pastel",
+      "EUit": "muro puzzle pastello",
+      "EUnl": "pastelkleurige puzzelwand",
+      "CNzh": "粉嫩拼图壁纸",
+      "TWzh": "粉嫩巧拼壁紙",
+      "JPja": "パステルパズルかべがみ",
+      "KRko": "파스텔 퍼즐 벽지",
+      "EUru": "пастельная стена-пазл"
+    }
+  },
+  {
+    "id": "RoomWall_04887",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful puzzle wall",
+      "EUen": "colorful puzzle wall",
+      "EUde": "Bunt-Puzzletapete",
+      "EUes": "pared rompecabezas alegre",
+      "USes": "pared rompecabezas alegre",
+      "EUfr": "mur puzzle multicolore",
+      "USfr": "mur casse-tête multicolore",
+      "EUit": "muro puzzle variopinto",
+      "EUnl": "kleurrijke puzzelwand",
+      "CNzh": "彩色拼图壁纸",
+      "TWzh": "彩色巧拼壁紙",
+      "JPja": "カラフルパズルかべがみ",
+      "KRko": "컬러풀 퍼즐 벽지",
+      "EUru": "красочная стена-пазл"
+    }
+  },
+  {
+    "id": "RoomWall_04888",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue playroom wall",
+      "EUen": "blue playroom wall",
+      "EUde": "Blau-Spieltapete",
+      "EUes": "pared barquito azul",
+      "USes": "pared barquito azul",
+      "EUfr": "mur salle de jeu bleu",
+      "USfr": "mur salle de jeu bleu",
+      "EUit": "muro stanza giochi azzurro",
+      "EUnl": "blauwe kinderkamerwand",
+      "CNzh": "蓝色儿童房壁纸",
+      "TWzh": "藍色兒童房壁紙",
+      "JPja": "あおいキッズルームのかべがみ",
+      "KRko": "파란 놀이방 벽지",
+      "EUru": "голубая стена в детскую"
+    }
+  },
+  {
+    "id": "RoomWall_04889",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink playroom wall",
+      "EUen": "pink playroom wall",
+      "EUde": "Rosa-Spieltapete",
+      "EUes": "pared barquito rosa",
+      "USes": "pared barquito rosa",
+      "EUfr": "mur salle de jeu rose",
+      "USfr": "mur salle de jeu rose",
+      "EUit": "muro stanza giochi rosa",
+      "EUnl": "roze kinderkamerwand",
+      "CNzh": "粉红色儿童房壁纸",
+      "TWzh": "粉紅色兒童房壁紙",
+      "JPja": "ピンクのキッズルームのかべがみ",
+      "KRko": "핑크 놀이방 벽지",
+      "EUru": "розовая стена в детскую"
+    }
+  },
+  {
+    "id": "RoomWall_04890",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "concrete wall",
+      "EUen": "concrete wall",
+      "EUde": "Betonwand",
+      "EUes": "pared cemento",
+      "USes": "pared cemento",
+      "EUfr": "mur en béton",
+      "USfr": "mur en béton",
+      "EUit": "muro cemento",
+      "EUnl": "betonwand",
+      "CNzh": "混凝土墙",
+      "TWzh": "混凝土牆",
+      "JPja": "コンクリートのかべ",
+      "KRko": "콘크리트 벽",
+      "EUru": "бетонная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04891",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white delicate-blooms wall",
+      "EUen": "white delicate-blooms wall",
+      "EUde": "Weiß-Floraltapete",
+      "EUes": "pared flor delicada beis",
+      "USes": "pared flor delicada beige",
+      "EUfr": "mur à fleurs délicates blanc",
+      "USfr": "mur à fleurs délicates blanc",
+      "EUit": "muro a fiori delicati bianco",
+      "EUnl": "witte rozenlambrisering",
+      "CNzh": "白色碎花壁纸",
+      "TWzh": "白色碎花壁紙",
+      "JPja": "しろいこばながらのかべがみ",
+      "KRko": "하얀 잔꽃무늬 벽지",
+      "EUru": "белая стена в цветочек"
+    }
+  },
+  {
+    "id": "RoomWall_04892",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monochromatic dotted wall",
+      "EUen": "monochromatic dotted wall",
+      "EUde": "Grau-Punkttapete",
+      "EUes": "pared topos monocroma",
+      "USes": "pared lunares monocroma",
+      "EUfr": "mur à pois monochromes",
+      "USfr": "mur à pois monochromes",
+      "EUit": "muro a pois monocromo",
+      "EUnl": "zwart-witte stippenwand",
+      "CNzh": "单色配色点点壁纸",
+      "TWzh": "灰階配色點點壁紙",
+      "JPja": "モノクロドットのかべがみ",
+      "KRko": "흑백 도트 벽지",
+      "EUru": "однотонн. стена в горошек"
+    }
+  },
+  {
+    "id": "RoomWall_04893",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink flower-print wall",
+      "EUen": "pink flower-print wall",
+      "EUde": "Pink-Blumentapete",
+      "EUes": "pared floral salmón",
+      "USes": "pared floral salmón",
+      "EUfr": "mur à fleurs rose",
+      "USfr": "mur à fleurs rose",
+      "EUit": "muro stampa floreale rosa",
+      "EUnl": "roze bloemenwand",
+      "CNzh": "粉红色花纹壁纸",
+      "TWzh": "粉紅色花紋壁紙",
+      "JPja": "ピンクのはながらのかべがみ",
+      "KRko": "핑크 꽃무늬 벽지",
+      "EUru": "розовая стена с цветами"
+    }
+  },
+  {
+    "id": "RoomWall_04894",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "golden wall",
+      "EUen": "golden wall",
+      "EUde": "Goldtapete",
+      "EUes": "pared dorada",
+      "USes": "pared dorada",
+      "EUfr": "mur d'or",
+      "USfr": "mur d'or",
+      "EUit": "muro d'oro",
+      "EUnl": "gouden wand",
+      "CNzh": "黄金墙",
+      "TWzh": "黃金牆",
+      "JPja": "おうごんのかべ",
+      "KRko": "황금 벽",
+      "EUru": "золотая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04895",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink blossoming wall",
+      "EUen": "pink blossoming wall",
+      "EUde": "Rosa-Blümchentapete",
+      "EUes": "pared floreada rosa",
+      "USes": "pared floreada rosa",
+      "EUfr": "mur floraison rose",
+      "USfr": "mur floraison rose",
+      "EUit": "muro fiorato rosa",
+      "EUnl": "roze boeketlambrisering",
+      "CNzh": "粉红色花草图案墙",
+      "TWzh": "粉紅色花草圖案牆",
+      "JPja": "ピンクのくさばなもようのかべ",
+      "KRko": "핑크 풀꽃 벽",
+      "EUru": "розовая стена с бутонами"
+    }
+  },
+  {
+    "id": "RoomWall_04896",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue blossoming wall",
+      "EUen": "blue blossoming wall",
+      "EUde": "Blau-Blümchentapete",
+      "EUes": "pared floreada azul",
+      "USes": "pared floreada azul",
+      "EUfr": "mur floraison bleu",
+      "USfr": "mur floraison bleu",
+      "EUit": "muro fiorato celeste",
+      "EUnl": "blauwe boeketlambrisering",
+      "CNzh": "蓝色花草图案墙",
+      "TWzh": "藍色花草圖案牆",
+      "JPja": "あおいくさばなもようのかべ",
+      "KRko": "파란 풀꽃 벽",
+      "EUru": "голубая стена с бутонами"
+    }
+  },
+  {
+    "id": "RoomWall_04897",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red delicate-blooms wall",
+      "EUen": "red delicate-blooms wall",
+      "EUde": "Rot-Floraltapete",
+      "EUes": "pared flor delicada roja",
+      "USes": "pared flor delicada roja",
+      "EUfr": "mur à fleurs délicates rouge",
+      "USfr": "mur à fleurs délicates rouge",
+      "EUit": "muro a fiori delicati rosso",
+      "EUnl": "rode rozenlambrisering",
+      "CNzh": "红色碎花壁纸",
+      "TWzh": "紅色碎花壁紙",
+      "JPja": "あかいこばながらのかべがみ",
+      "KRko": "빨간 잔꽃무늬 벽지",
+      "EUru": "красная стена в цветочек"
+    }
+  },
+  {
+    "id": "RoomWall_04898",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green delicate-blooms wall",
+      "EUen": "green delicate-blooms wall",
+      "EUde": "Grün-Floraltapete",
+      "EUes": "pared flor delicada verde",
+      "USes": "pared flor delicada verde",
+      "EUfr": "mur à fleurs délicates vert",
+      "USfr": "mur à fleurs délicates vert",
+      "EUit": "muro a fiori delicati verde",
+      "EUnl": "groene rozenlambrisering",
+      "CNzh": "绿色碎花壁纸",
+      "TWzh": "綠色碎花壁紙",
+      "JPja": "グリーンのこばながらのかべがみ",
+      "KRko": "그린 잔꽃무늬 벽지",
+      "EUru": "зеленая стена в цветочек"
+    }
+  },
+  {
+    "id": "RoomWall_04899",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pastel dotted wall",
+      "EUen": "pastel dotted wall",
+      "EUde": "Pastell-Pünktchentapete",
+      "EUes": "pared topos pastel",
+      "USes": "pared lunares pastel",
+      "EUfr": "mur à pois pastel",
+      "USfr": "mur à pois pastel",
+      "EUit": "muro a pois pastello",
+      "EUnl": "pastelkleurige stippenwand",
+      "CNzh": "粉嫩点点壁纸",
+      "TWzh": "粉嫩圓點壁紙",
+      "JPja": "パステルドットのかべがみ",
+      "KRko": "파스텔 도트 벽지",
+      "EUru": "пастельн. стена в горошек"
+    }
+  },
+  {
+    "id": "RoomWall_04900",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red dotted wall",
+      "EUen": "red dotted wall",
+      "EUde": "Rot-Pünktchentapete",
+      "EUes": "pared topos roja",
+      "USes": "pared lunares roja",
+      "EUfr": "mur à pois rouge",
+      "USfr": "mur à pois rouge",
+      "EUit": "muro a pois rosso",
+      "EUnl": "rode stippenwand",
+      "CNzh": "红色点点壁纸",
+      "TWzh": "紅色圓點壁紙",
+      "JPja": "レッドドットのかべがみ",
+      "KRko": "레드 도트 벽지",
+      "EUru": "красная стена в горошек"
+    }
+  },
+  {
+    "id": "RoomWall_04902",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple dotted wall",
+      "EUen": "purple dotted wall",
+      "EUde": "Lila-Pünktchentapete",
+      "EUes": "pared topos violeta",
+      "USes": "pared lunares morada",
+      "EUfr": "mur à pois mauve",
+      "USfr": "mur à pois mauve",
+      "EUit": "muro a pois rosa",
+      "EUnl": "paarse stippenwand",
+      "CNzh": "紫色点点壁纸",
+      "TWzh": "紫色圓點壁紙",
+      "JPja": "パープルドットのかべがみ",
+      "KRko": "퍼플 도트 벽지",
+      "EUru": "фиолет. стена в горошек"
+    }
+  },
+  {
+    "id": "RoomWall_04903",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green blossoming wall",
+      "EUen": "green blossoming wall",
+      "EUde": "Grün-Blümchentapete",
+      "EUes": "pared floreada verde",
+      "USes": "pared floreada verde",
+      "EUfr": "mur floraison vert",
+      "USfr": "mur floraison vert",
+      "EUit": "muro fiorato verde",
+      "EUnl": "groene boeketlambrisering",
+      "CNzh": "绿色花草图案墙",
+      "TWzh": "綠色花草圖案牆",
+      "JPja": "みどりのくさばなもようのかべ",
+      "KRko": "초록 풀꽃 벽",
+      "EUru": "зеленая стена с бутонами"
+    }
+  },
+  {
+    "id": "RoomWall_04904",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "modern wood wall",
+      "EUen": "modern wood wall",
+      "EUde": "Buntholzwand",
+      "EUes": "pared listones",
+      "USes": "pared listones",
+      "EUfr": "mur bois moderne",
+      "USfr": "mur bois moderne",
+      "EUit": "muro legno",
+      "EUnl": "moderne houten wand",
+      "CNzh": "拼木墙",
+      "TWzh": "拼木牆",
+      "JPja": "ミックスウッドのかべ",
+      "KRko": "믹스우드 벽",
+      "EUru": "соврем. стена из дерева"
+    }
+  },
+  {
+    "id": "RoomWall_04905",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "autumn wall",
+      "EUen": "autumn wall",
+      "EUde": "Herbstlaubtapete",
+      "EUes": "pared otoñal",
+      "USes": "pared otoñal",
+      "EUfr": "mur automne",
+      "USfr": "mur automne",
+      "EUit": "muro autunnale",
+      "EUnl": "herfstwand",
+      "CNzh": "枫叶墙",
+      "TWzh": "楓葉牆",
+      "JPja": "こうようのかべ",
+      "KRko": "단풍 벽",
+      "EUru": "стена «Осень»"
+    }
+  },
+  {
+    "id": "RoomWall_04906",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rose wall",
+      "EUen": "rose wall",
+      "EUde": "Rosentapete",
+      "EUes": "pared rosas",
+      "USes": "pared rosas",
+      "EUfr": "mur de roses",
+      "USfr": "mur de roses",
+      "EUit": "muro con rose",
+      "EUnl": "rozenwand",
+      "CNzh": "玫瑰壁纸",
+      "TWzh": "玫瑰壁紙",
+      "JPja": "バラのかべがみ",
+      "KRko": "장미 벽지",
+      "EUru": "стена с розами"
+    }
+  },
+  {
+    "id": "RoomWall_04907",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple-rose wall",
+      "EUen": "purple-rose wall",
+      "EUde": "Lilarosentapete",
+      "EUes": "pared rosas lila",
+      "USes": "pared rosas morada",
+      "EUfr": "mur de roses bleues",
+      "USfr": "mur de roses bleues",
+      "EUit": "muro con rose indaco",
+      "EUnl": "paarserozenwand",
+      "CNzh": "紫色玫瑰壁纸",
+      "TWzh": "紫色玫瑰壁紙",
+      "JPja": "むらさきのバラのかべがみ",
+      "KRko": "보라 장미 벽지",
+      "EUru": "фиолет. стена с розами"
+    }
+  },
+  {
+    "id": "RoomWall_04908",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mod wall",
+      "EUen": "mod wall",
+      "EUde": "Modetapete",
+      "EUes": "pared psicodelia",
+      "USes": "pared psicodelia",
+      "EUfr": "mur psyché",
+      "USfr": "mur psyché",
+      "EUit": "muro optical",
+      "EUnl": "psychedelische wand",
+      "CNzh": "引人入胜墙",
+      "TWzh": "引人入勝牆",
+      "JPja": "キャッチーなかべ",
+      "KRko": "장난기 넘치는 벽지",
+      "EUru": "стильная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04909",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "honeycomb-tile wall",
+      "EUen": "honeycomb-tile wall",
+      "EUde": "Wabenfliesenwand",
+      "EUes": "pared panal parda",
+      "USes": "pared panal parda",
+      "EUfr": "mur carrelage",
+      "USfr": "mur carrelage",
+      "EUit": "muro esagoni marrone",
+      "EUnl": "bijenraattegelwand",
+      "CNzh": "六角砖墙",
+      "TWzh": "六角磚牆",
+      "JPja": "ハニカムタイルのかべ",
+      "KRko": "육각 타일 벽",
+      "EUru": "плитка-соты"
+    }
+  },
+  {
+    "id": "RoomWall_04910",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monochromatic-tile wall",
+      "EUen": "monochromatic-tile wall",
+      "EUde": "Graufliesenwand",
+      "EUes": "pared alicatada blanca",
+      "USes": "pared alicatada blanca",
+      "EUfr": "mur carrelage monochrome",
+      "USfr": "mur carrelage monochrome",
+      "EUit": "muro piastrelle monocrome",
+      "EUnl": "effen tegelwand",
+      "CNzh": "单色配色砖墙",
+      "TWzh": "灰階配色磚牆",
+      "JPja": "モノクロタイルのかべ",
+      "KRko": "흑백 타일 벽",
+      "EUru": "однотонная плитка"
+    }
+  },
+  {
+    "id": "RoomWall_04911",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden-knot wall",
+      "EUen": "wooden-knot wall",
+      "EUde": "Zirbenverkleidung",
+      "EUes": "panelado madera nudosa",
+      "USes": "panelado madera nudosa",
+      "EUfr": "mur lambris avec nœuds",
+      "USfr": "mur lambris avec nœuds",
+      "EUit": "muro legno nodoso",
+      "EUnl": "houtenknoestwand",
+      "CNzh": "木节墙",
+      "TWzh": "木節牆",
+      "JPja": "ふしありウッドウォール",
+      "KRko": "우드 벽",
+      "EUru": "стена из дерева с сучками"
+    }
+  },
+  {
+    "id": "RoomWall_04912",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue honeycomb-tile wall",
+      "EUen": "blue honeycomb-tile wall",
+      "EUde": "Blau-Wabenfliesenwand",
+      "EUes": "pared panal azul",
+      "USes": "pared panal azul",
+      "EUfr": "mur carrelage bleu",
+      "USfr": "mur carrelage bleu",
+      "EUit": "muro esagoni blu",
+      "EUnl": "blauwe bijenraattegelwand",
+      "CNzh": "蓝色六角砖墙",
+      "TWzh": "藍色六角磚牆",
+      "JPja": "あおいハニカムタイルのかべ",
+      "KRko": "파란 육각 타일 벽",
+      "EUru": "синяя плитка-соты"
+    }
+  },
+  {
+    "id": "RoomWall_04913",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green honeycomb-tile wall",
+      "EUen": "green honeycomb-tile wall",
+      "EUde": "Grün-Wabenfliesenwand",
+      "EUes": "pared panal verde",
+      "USes": "pared panal verde",
+      "EUfr": "mur carrelage vert",
+      "USfr": "mur carrelage vert",
+      "EUit": "muro esagoni verde",
+      "EUnl": "groene bijenraattegelwand",
+      "CNzh": "绿色六角砖墙",
+      "TWzh": "綠色六角磚牆",
+      "JPja": "みどりのハニカムタイルのかべ",
+      "KRko": "초록 육각 타일 벽",
+      "EUru": "зеленая плитка-соты"
+    }
+  },
+  {
+    "id": "RoomWall_04914",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white honeycomb-tile wall",
+      "EUen": "white honeycomb-tile wall",
+      "EUde": "Weiß-Wabenfliesenwand",
+      "EUes": "pared panal blanca",
+      "USes": "pared panal blanca",
+      "EUfr": "mur carrelage blanc",
+      "USfr": "mur carrelage blanc",
+      "EUit": "muro esagoni bianco",
+      "EUnl": "witte bijenraattegelwand",
+      "CNzh": "白色六角砖墙",
+      "TWzh": "白色六角磚牆",
+      "JPja": "しろいハニカムタイルのかべ",
+      "KRko": "하얀 육각 타일 벽",
+      "EUru": "белая плитка-соты"
+    }
+  },
+  {
+    "id": "RoomWall_04915",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange wall",
+      "EUen": "orange wall",
+      "EUde": "Orangentapete",
+      "EUes": "pared naranjas",
+      "USes": "pared naranjas",
+      "EUfr": "mur oranges",
+      "USfr": "mur oranges",
+      "EUit": "muro arance",
+      "EUnl": "sinaasappelwand",
+      "CNzh": "橘子壁纸",
+      "TWzh": "橘子壁紙",
+      "JPja": "オレンジのかべがみ",
+      "KRko": "오렌지 벽지",
+      "EUru": "стена с апельсинами"
+    }
+  },
+  {
+    "id": "RoomWall_04916",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "apple wall",
+      "EUen": "apple wall",
+      "EUde": "Apfeltapete",
+      "EUes": "pared manzanas",
+      "USes": "pared manzanas",
+      "EUfr": "mur pommes",
+      "USfr": "mur pommes",
+      "EUit": "muro mele",
+      "EUnl": "appelwand",
+      "CNzh": "苹果壁纸",
+      "TWzh": "蘋果壁紙",
+      "JPja": "リンゴのかべがみ",
+      "KRko": "사과 벽지",
+      "EUru": "стена с яблоками"
+    }
+  },
+  {
+    "id": "RoomWall_04917",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pear wall",
+      "EUen": "pear wall",
+      "EUde": "Birnentapete",
+      "EUes": "pared peras",
+      "USes": "pared peras",
+      "EUfr": "mur poires",
+      "USfr": "mur poires",
+      "EUit": "muro pere",
+      "EUnl": "perenwand",
+      "CNzh": "梨子壁纸",
+      "TWzh": "梨子壁紙",
+      "JPja": "ナシのかべがみ",
+      "KRko": "배 벽지",
+      "EUru": "стена с грушами"
+    }
+  },
+  {
+    "id": "RoomWall_04918",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach wall",
+      "EUen": "peach wall",
+      "EUde": "Pfirsichtapete",
+      "EUes": "pared melocotones",
+      "USes": "pared duraznos",
+      "EUfr": "mur pêches",
+      "USfr": "mur pêches",
+      "EUit": "muro pesche",
+      "EUnl": "perzikwand",
+      "CNzh": "桃子壁纸",
+      "TWzh": "桃子壁紙",
+      "JPja": "モモのかべがみ",
+      "KRko": "복숭아 벽지",
+      "EUru": "стена с персиками"
+    }
+  },
+  {
+    "id": "RoomWall_04919",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry wall",
+      "EUen": "cherry wall",
+      "EUde": "Kirschtapete",
+      "EUes": "pared cerezas",
+      "USes": "pared cerezas",
+      "EUfr": "mur cerises",
+      "USfr": "mur cerises",
+      "EUit": "muro ciliegie",
+      "EUnl": "kersenwand",
+      "CNzh": "樱桃壁纸",
+      "TWzh": "櫻桃壁紙",
+      "JPja": "さくらんぼのかべがみ",
+      "KRko": "체리 벽지",
+      "EUru": "стена с вишнями"
+    }
+  },
+  {
+    "id": "RoomWall_04920",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white perforated-board wall",
+      "EUen": "white perforated-board wall",
+      "EUde": "Weiß-Lochplattenwand",
+      "EUes": "pared insonorizada blanca",
+      "USes": "pared insonorizada blanca",
+      "EUfr": "mur panneau perforé blanc",
+      "USfr": "mur panneau perforé blanc",
+      "EUit": "muro cartone forato bianco",
+      "EUnl": "witte gaatjeswand",
+      "CNzh": "白色洞洞板墙",
+      "TWzh": "白色洞洞板牆",
+      "JPja": "しろいパンチングボードのかべ",
+      "KRko": "하얀 펀칭 보드 벽",
+      "EUru": "белая перфопанель"
+    }
+  },
+  {
+    "id": "RoomWall_04921",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "perforated-board wall",
+      "EUen": "perforated-board wall",
+      "EUde": "Braun-Lochplattenwand",
+      "EUes": "pared insonorizada natural",
+      "USes": "pared insonorizada natural",
+      "EUfr": "mur panneau perforé brun",
+      "USfr": "mur panneau perforé brun",
+      "EUit": "muro cartone forato",
+      "EUnl": "gaatjeswand",
+      "CNzh": "洞洞板墙",
+      "TWzh": "洞洞板牆",
+      "JPja": "パンチングボードのかべ",
+      "KRko": "펀칭 보드 벽",
+      "EUru": "бурая перфопанель"
+    }
+  },
+  {
+    "id": "RoomWall_04922",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black perforated-board wall",
+      "EUen": "black perforated-board wall",
+      "EUde": "Schwarz-Lochplattenwand",
+      "EUes": "pared insonorizada negra",
+      "USes": "pared insonorizada negra",
+      "EUfr": "mur panneau perforé noir",
+      "USfr": "mur panneau perforé noir",
+      "EUit": "muro cartone forato nero",
+      "EUnl": "zwarte gaatjeswand",
+      "CNzh": "黑色洞洞板墙",
+      "TWzh": "黑色洞洞板牆",
+      "JPja": "くろいパンチングボードのかべ",
+      "KRko": "검정 펀칭 보드 벽",
+      "EUru": "черная перфопанель"
+    }
+  },
+  {
+    "id": "RoomWall_04923",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray shanty wall",
+      "EUen": "gray shanty wall",
+      "EUde": "Grau-Wellblechwand",
+      "EUes": "pared reciclaje gris",
+      "USes": "pared reciclaje gris",
+      "EUfr": "mur baraquement gris",
+      "USfr": "mur baraquement gris",
+      "EUit": "muro lamiera grigio",
+      "EUnl": "grijze golfplaatwand",
+      "CNzh": "灰色铁皮墙",
+      "TWzh": "灰色鐵皮牆",
+      "JPja": "グレーのトタンかべ",
+      "KRko": "그레이 강판 벽",
+      "EUru": "серая щитовая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04924",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink shanty wall",
+      "EUen": "pink shanty wall",
+      "EUde": "Pink-Wellblechwand",
+      "EUes": "pared reciclaje rosa",
+      "USes": "pared reciclaje rosa",
+      "EUfr": "mur baraquement rose",
+      "USfr": "mur baraquement rose",
+      "EUit": "muro lamiera rosa",
+      "EUnl": "roze golfplaatwand",
+      "CNzh": "粉红铁皮墙",
+      "TWzh": "粉紅鐵皮牆",
+      "JPja": "ピンクのトタンかべ",
+      "KRko": "핑크 강판 벽",
+      "EUru": "розовая щитовая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04925",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue shanty wall",
+      "EUen": "blue shanty wall",
+      "EUde": "Blau-Wellblechwand",
+      "EUes": "pared reciclaje azul",
+      "USes": "pared reciclaje azul",
+      "EUfr": "mur baraquement bleu",
+      "USfr": "mur baraquement bleu",
+      "EUit": "muro lamiera blu",
+      "EUnl": "blauwe golfplaatwand",
+      "CNzh": "蓝色铁皮墙",
+      "TWzh": "藍色鐵皮牆",
+      "JPja": "ブルーのトタンかべ",
+      "KRko": "블루 강판 벽",
+      "EUru": "синяя щитовая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04926",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown shanty wall",
+      "EUen": "brown shanty wall",
+      "EUde": "Braun-Wellblechwand",
+      "EUes": "pared reciclaje marrón",
+      "USes": "pared reciclaje marrón",
+      "EUfr": "mur baraquement brun",
+      "USfr": "mur baraquement brun",
+      "EUit": "muro lamiera marrone",
+      "EUnl": "bruine golfplaatwand",
+      "CNzh": "褐色铁皮墙",
+      "TWzh": "褐色鐵皮牆",
+      "JPja": "ちゃいろのトタンかべ",
+      "KRko": "브라운 강판 벽",
+      "EUru": "коричнев. щитовая стена"
+    }
+  },
+  {
+    "id": "RoomWall_04927",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white-brick wall",
+      "EUen": "white-brick wall",
+      "EUde": "Weißziegeltapete",
+      "EUes": "pared ladrillo blanco",
+      "USes": "pared ladrillo blanco",
+      "EUfr": "mur briques blanches",
+      "USfr": "mur briques blanches",
+      "EUit": "muro mattoni bianchi",
+      "EUnl": "witte bakstenen wand",
+      "CNzh": "白色砖块墙",
+      "TWzh": "白色磚塊牆",
+      "JPja": "しろレンガのかべ",
+      "KRko": "하얀 벽돌 벽",
+      "EUru": "белая кирпичная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04928",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red-brick wall",
+      "EUen": "red-brick wall",
+      "EUde": "Rotziegeltapete",
+      "EUes": "pared ladrillo rojo",
+      "USes": "pared ladrillo rojo",
+      "EUfr": "mur briques rouges",
+      "USfr": "mur briques rouges",
+      "EUit": "muro mattoni rossi",
+      "EUnl": "rode bakstenen wand",
+      "CNzh": "红色砖块墙",
+      "TWzh": "紅色磚塊牆",
+      "JPja": "あかレンガのかべ",
+      "KRko": "빨간 벽돌 벽",
+      "EUru": "красная кирпичная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04929",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black-brick wall",
+      "EUen": "black-brick wall",
+      "EUde": "Schwarzziegeltapete",
+      "EUes": "pared ladrillo negro",
+      "USes": "pared ladrillo negro",
+      "EUfr": "mur briques noires",
+      "USfr": "mur briques noires",
+      "EUit": "muro mattoni neri",
+      "EUnl": "zwarte bakstenen wand",
+      "CNzh": "黑色砖块墙",
+      "TWzh": "黑色磚塊牆",
+      "JPja": "くろレンガのかべ",
+      "KRko": "검정 벽돌 벽",
+      "EUru": "черная кирпичная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04930",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aqua tile wall",
+      "EUen": "aqua tile wall",
+      "EUde": "Türkisfliesenwand",
+      "EUes": "pared alicatada cian",
+      "USes": "pared alicatada cian",
+      "EUfr": "mur mosaïque turquoise",
+      "USfr": "mur mosaïque turquoise",
+      "EUit": "muro piastrelle turchesi",
+      "EUnl": "turkooise tegelwand",
+      "CNzh": "水蓝色砖墙",
+      "TWzh": "水藍色磚牆",
+      "JPja": "みずいろタイルのかべ",
+      "KRko": "하늘색 타일 벽",
+      "EUru": "аквамариновая плитка"
+    }
+  },
+  {
+    "id": "RoomWall_04931",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful-tile wall",
+      "EUen": "colorful-tile wall",
+      "EUde": "Buntfliesenwand",
+      "EUes": "pared alicatada multicolor",
+      "USes": "pared alicatada multicolor",
+      "EUfr": "mur mosaïque multicolore",
+      "USfr": "mur mosaïque multicolore",
+      "EUit": "muro piastrelle colorate",
+      "EUnl": "kleurrijke tegelwand",
+      "CNzh": "彩色砖墙",
+      "TWzh": "彩色磚牆",
+      "JPja": "カラフルタイルのかべ",
+      "KRko": "컬러풀 타일 벽",
+      "EUru": "красочная плитка"
+    }
+  },
+  {
+    "id": "RoomWall_04932",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark-chocolate wall",
+      "EUen": "dark-chocolate wall",
+      "EUde": "Bitterschokoladenwand",
+      "EUes": "pared chocolate negro",
+      "USes": "pared chocolate negro",
+      "EUfr": "mur chocolat noir",
+      "USfr": "mur chocolat noir",
+      "EUit": "muro cioccolato fondente",
+      "EUnl": "purechocoladewand",
+      "CNzh": "黑巧克力墙",
+      "TWzh": "黑巧克力牆",
+      "JPja": "ビターチョコなかべ",
+      "KRko": "다크 초콜릿 벽",
+      "EUru": "темно-шоколадная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04933",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white-chocolate wall",
+      "EUen": "white-chocolate wall",
+      "EUde": "Weißschokoladenwand",
+      "EUes": "pared chocolate blanco",
+      "USes": "pared chocolate blanco",
+      "EUfr": "mur chocolat blanc",
+      "USfr": "mur chocolat blanc",
+      "EUit": "muro cioccolato bianco",
+      "EUnl": "wittechocoladewand",
+      "CNzh": "白巧克力墙",
+      "TWzh": "白巧克力牆",
+      "JPja": "ホワイトチョコなかべ",
+      "KRko": "화이트 초콜릿 벽",
+      "EUru": "светло-шоколадная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04934",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "strawberry-chocolate wall",
+      "EUen": "strawberry-chocolate wall",
+      "EUde": "Erdbeerschokoladenwand",
+      "EUes": "pared chocolate fresa",
+      "USes": "pared chocolate fresa",
+      "EUfr": "mur chocolat fraise",
+      "USfr": "mur chocolat fraise",
+      "EUit": "muro cioccofragola",
+      "EUnl": "aardbeichocoladewand",
+      "CNzh": "草莓巧克力墙",
+      "TWzh": "草莓巧克力牆",
+      "JPja": "いちごチョコなかべ",
+      "KRko": "딸기 초콜릿 벽",
+      "EUru": "розово-шоколадная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04935",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green flower-print wall",
+      "EUen": "green flower-print wall",
+      "EUde": "Grün-Blumentapete",
+      "EUes": "pared floral verde",
+      "USes": "pared floral verde",
+      "EUfr": "mur à fleurs vert",
+      "USfr": "mur à fleurs vert",
+      "EUit": "muro stampa floreale verde",
+      "EUnl": "groene bloemenwand",
+      "CNzh": "绿色花纹壁纸",
+      "TWzh": "綠色花紋壁紙",
+      "JPja": "グリーンのはながらかべがみ",
+      "KRko": "그린 꽃무늬 벽지",
+      "EUru": "зеленая цветочная стена"
+    }
+  },
+  {
+    "id": "RoomWall_04936",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ancient wall",
+      "EUen": "ancient wall",
+      "EUde": "Antikwand",
+      "EUes": "pared egipcia",
+      "USes": "pared egipcia",
+      "EUfr": "mur hiéroglyphe",
+      "USfr": "mur hiéroglyphe",
+      "EUit": "muro egizio",
+      "EUnl": "hiërogliefenwand",
+      "CNzh": "埃及墙",
+      "TWzh": "埃及牆",
+      "JPja": "エジプトなかべ",
+      "KRko": "이집트풍 벽",
+      "EUru": "древняя стена"
+    }
+  },
+  {
+    "id": "RoomWall_04939",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white simple-cloth wall",
+      "EUen": "white simple-cloth wall",
+      "EUde": "Weiß-Textiltapete",
+      "EUes": "pared lisa blanca",
+      "USes": "pared lisa blanca",
+      "EUfr": "mur textile blanc",
+      "USfr": "mur textile blanc",
+      "EUit": "muro liscio bianco",
+      "EUnl": "witte gladde wand",
+      "CNzh": "白色简约布面墙",
+      "TWzh": "白色簡約布面牆",
+      "JPja": "しろいシンプルクロス",
+      "KRko": "하얀 심플 벽지",
+      "EUru": "простая белая ткань"
+    }
+  },
+  {
+    "id": "RoomWall_04940",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue subway-tile wall",
+      "EUen": "blue subway-tile wall",
+      "EUde": "Blau-U-Bahn-Fliesenwand",
+      "EUes": "pared metro azul",
+      "USes": "pared metro azul",
+      "EUfr": "mur métro carrelé bleu",
+      "USfr": "mur métro carrelé bleu",
+      "EUit": "muro della metro blu",
+      "EUnl": "blauwe stationswand",
+      "CNzh": "蓝色地铁砖墙",
+      "TWzh": "藍色地鐵磚牆",
+      "JPja": "あおいメトロタイルのかべ",
+      "KRko": "파란 메트로 타일 벽",
+      "EUru": "голубая плитка из метро"
+    }
+  },
+  {
+    "id": "RoomWall_04941",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white subway-tile wall",
+      "EUen": "white subway-tile wall",
+      "EUde": "Weiß-U-Bahn-Fliesenwand",
+      "EUes": "pared metro blanca",
+      "USes": "pared metro blanca",
+      "EUfr": "mur métro carrelé blanc",
+      "USfr": "mur métro carrelé blanc",
+      "EUit": "muro della metro bianco",
+      "EUnl": "witte stationswand",
+      "CNzh": "白色地铁砖墙",
+      "TWzh": "白色地鐵磚牆",
+      "JPja": "しろいメトロタイルのかべ",
+      "KRko": "하얀 메트로 타일 벽",
+      "EUru": "белая плитка из метро"
+    }
+  },
+  {
+    "id": "RoomWall_04943",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink-striped wall",
+      "EUen": "pink-striped wall",
+      "EUde": "Rosa-Streifenmustertapete",
+      "EUes": "pared banda rosa",
+      "USes": "pared banda rosa",
+      "EUfr": "mur rayures rose",
+      "USfr": "mur rayures rose",
+      "EUit": "muro a strisce rosa",
+      "EUnl": "roze gestreepte wand",
+      "CNzh": "粉红条纹壁纸",
+      "TWzh": "粉紅條紋壁紙",
+      "JPja": "ピンクストライプのかべがみ",
+      "KRko": "핑크 줄무늬 벽지",
+      "EUru": "стена в розовую полоску"
+    }
+  },
+  {
+    "id": "RoomWall_04944",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray-striped wall",
+      "EUen": "gray-striped wall",
+      "EUde": "Grau-Streifenmustertapete",
+      "EUes": "pared banda gris",
+      "USes": "pared banda gris",
+      "EUfr": "mur rayures gris",
+      "USfr": "mur rayures gris",
+      "EUit": "muro a strisce grigie",
+      "EUnl": "grijze gestreepte wand",
+      "CNzh": "单色配色条纹壁纸",
+      "TWzh": "灰階配色條紋壁紙",
+      "JPja": "モノクロストライプのかべがみ",
+      "KRko": "흑백 줄무늬 벽지",
+      "EUru": "стена в серую полоску"
+    }
+  },
+  {
+    "id": "RoomWall_04945",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue-striped wall",
+      "EUen": "blue-striped wall",
+      "EUde": "Blau-Streifenmustertapete",
+      "EUes": "pared banda celeste",
+      "USes": "pared banda celeste",
+      "EUfr": "mur rayures bleu",
+      "USfr": "mur rayures bleu",
+      "EUit": "muro a strisce azzurre",
+      "EUnl": "blauwe gestreepte wand",
+      "CNzh": "蓝色条纹壁纸",
+      "TWzh": "藍色條紋壁紙",
+      "JPja": "ブルーストライプのかべがみ",
+      "KRko": "블루 줄무늬 벽지",
+      "EUru": "стена в голубую полоску"
+    }
+  },
+  {
+    "id": "RoomWall_04946",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow-striped wall",
+      "EUen": "yellow-striped wall",
+      "EUde": "Gelb-Streifenmustertapete",
+      "EUes": "pared banda amarilla",
+      "USes": "pared banda amarilla",
+      "EUfr": "mur rayures jaune",
+      "USfr": "mur rayures jaune",
+      "EUit": "muro a strisce gialle",
+      "EUnl": "gele gestreepte wand",
+      "CNzh": "黄色条纹壁纸",
+      "TWzh": "黃色條紋壁紙",
+      "JPja": "イエローストライプのかべがみ",
+      "KRko": "옐로 줄무늬 벽지",
+      "EUru": "стена в желтую полоску"
+    }
+  },
+  {
+    "id": "RoomWall_04947",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sakura-wood wall",
+      "EUen": "sakura-wood wall",
+      "EUde": "Kirschholzverkleidung",
+      "EUes": "pared cerezo",
+      "USes": "pared cerezo",
+      "EUfr": "mur bois sakura",
+      "USfr": "mur bois sakura",
+      "EUit": "muro legno rosa",
+      "EUnl": "kersenbloesemroze wand",
+      "CNzh": "樱花木墙",
+      "TWzh": "櫻花木牆",
+      "JPja": "さくらのウッドウォール",
+      "KRko": "벚꽃색 우드 벽",
+      "EUru": "стена из вишнев. дерева"
+    }
+  },
+  {
+    "id": "RoomWall_04948",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue painted-wood wall",
+      "EUen": "blue painted-wood wall",
+      "EUde": "Blauholzwand",
+      "EUes": "panelado madera azul",
+      "USes": "pared paneles azul",
+      "EUfr": "mur en bois peint bleu",
+      "USfr": "mur en bois peint bleu",
+      "EUit": "muro a pannelli blu",
+      "EUnl": "blauwe houten wand",
+      "CNzh": "蓝色油漆木墙",
+      "TWzh": "藍色油漆木牆",
+      "JPja": "あおいペイントウッドのかべ",
+      "KRko": "파란 페인트 우드 벽",
+      "EUru": "синяя стена из дерева"
+    }
+  },
+  {
+    "id": "RoomWall_04949",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green painted-wood wall",
+      "EUen": "green painted-wood wall",
+      "EUde": "Grünholzwand",
+      "EUes": "panelado madera verde",
+      "USes": "pared paneles verde",
+      "EUfr": "mur en bois peint vert",
+      "USfr": "mur en bois peint vert",
+      "EUit": "muro a pannelli verde",
+      "EUnl": "groene houten wand",
+      "CNzh": "绿色油漆木墙",
+      "TWzh": "綠色油漆木牆",
+      "JPja": "みどりのペイントウッドのかべ",
+      "KRko": "초록 페인트 우드 벽",
+      "EUru": "зеленая стена из дерева"
+    }
+  },
+  {
+    "id": "RoomWall_05164",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mush wall",
+      "EUen": "mush wall",
+      "EUde": "Waldpilztapete",
+      "EUes": "pared hongo",
+      "USes": "pared hongo",
+      "EUfr": "mur champi",
+      "USfr": "mur champi",
+      "EUit": "muro funghetti",
+      "EUnl": "paddenstoelenwand",
+      "CNzh": "蘑菇壁纸",
+      "TWzh": "蘑菇壁紙",
+      "JPja": "キノコのかべがみ",
+      "KRko": "버섯 벽지",
+      "EUru": "стена с грибами"
+    }
+  },
+  {
+    "id": "RoomWall_05215",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mortar wall",
+      "EUen": "mortar wall",
+      "EUde": "Steinfundamentwand",
+      "EUes": "muro piedra",
+      "USes": "muro piedra",
+      "EUfr": "mur mortier",
+      "USfr": "mur mortier",
+      "EUit": "muro malta",
+      "EUnl": "gepleisterde stenen wand",
+      "CNzh": "灰泥矮墙",
+      "TWzh": "灰泥矮牆",
+      "JPja": "しっくいのへい",
+      "KRko": "기와 돌담 벽",
+      "EUru": "мурованная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05216",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stone wall",
+      "EUen": "stone wall",
+      "EUde": "Steinwand",
+      "EUes": "pared piedra",
+      "USes": "pared piedra",
+      "EUfr": "mur de pierre",
+      "USfr": "mur de pierre",
+      "EUit": "muro pietra",
+      "EUnl": "stenen wand",
+      "CNzh": "石板墙",
+      "TWzh": "石板牆",
+      "JPja": "いしのかべ",
+      "KRko": "돌담 벽",
+      "EUru": "каменная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05217",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "straw wall",
+      "EUen": "straw wall",
+      "EUde": "Strohwand",
+      "EUes": "pared cáñamo",
+      "USes": "pared cáñamo",
+      "EUfr": "mur paillasse",
+      "USfr": "mur paillasse",
+      "EUit": "muro paglia",
+      "EUnl": "strowand",
+      "CNzh": "吸管墙",
+      "TWzh": "吸管牆",
+      "JPja": "ストローなかべ",
+      "KRko": "밀짚 벽",
+      "EUru": "соломенная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05218",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "office wall",
+      "EUen": "office wall",
+      "EUde": "Fenstertapete",
+      "EUes": "pared oficina",
+      "USes": "pared oficina",
+      "EUfr": "mur pro",
+      "USfr": "mur pro",
+      "EUit": "muro ufficio",
+      "EUnl": "kantoorwand",
+      "CNzh": "办公室墙",
+      "TWzh": "辦公室牆",
+      "JPja": "オフィスのかべ",
+      "KRko": "오피스 벽",
+      "EUru": "офисная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05221",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "street-art wall",
+      "EUen": "street-art wall",
+      "EUde": "Graffitiwand",
+      "EUes": "pared arte urbano",
+      "USes": "pared arte urbano",
+      "EUfr": "mur street art",
+      "USfr": "mur art de rue",
+      "EUit": "muro arte urbana",
+      "EUnl": "graffitiwand",
+      "CNzh": "街头艺术墙",
+      "TWzh": "街頭藝術牆",
+      "JPja": "ストリートアートのかべ",
+      "KRko": "그래피티 벽",
+      "EUru": "стена с граффити"
+    }
+  },
+  {
+    "id": "RoomWall_05222",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dig-site wall",
+      "EUen": "dig-site wall",
+      "EUde": "Fossilientapete",
+      "EUes": "pared yacimiento",
+      "USes": "pared yacimiento",
+      "EUfr": "mur fossiles",
+      "USfr": "mur fossiles",
+      "EUit": "muro archeologico",
+      "EUnl": "opgravingswand",
+      "CNzh": "地层壁纸",
+      "TWzh": "地層壁紙",
+      "JPja": "ちそうのかべがみ",
+      "KRko": "지층 벽",
+      "EUru": "стена «Раскоп»"
+    }
+  },
+  {
+    "id": "RoomWall_05223",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "woodland wall",
+      "EUen": "woodland wall",
+      "EUde": "Urwaldtapete",
+      "EUes": "pared selva",
+      "USes": "pared selva",
+      "EUfr": "mur sylvestre",
+      "USfr": "mur sylvestre",
+      "EUit": "muro foresta",
+      "EUnl": "oerwoudwand",
+      "CNzh": "树海墙",
+      "TWzh": "樹海牆",
+      "JPja": "じゅかいなかべ",
+      "KRko": "울창한 숲 벽",
+      "EUru": "лесная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05224",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "imperial wall",
+      "EUen": "imperial wall",
+      "EUde": "Samuraitapete",
+      "EUes": "pared imperial",
+      "USes": "pared imperial",
+      "EUfr": "mur shogun",
+      "USfr": "mur impérial",
+      "EUit": "muro imperiale",
+      "EUnl": "keizerlijke wand",
+      "CNzh": "宫墙",
+      "TWzh": "宮牆",
+      "JPja": "おうちょうのかべ",
+      "KRko": "왕조 벽",
+      "EUru": "азиатская стена"
+    }
+  },
+  {
+    "id": "RoomWall_05225",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ramshackle wall",
+      "EUen": "ramshackle wall",
+      "EUde": "Bruchbudenwand",
+      "EUes": "pared ruinas",
+      "USes": "pared ruinas",
+      "EUfr": "mur délabré",
+      "USfr": "mur délabré",
+      "EUit": "muro diroccato",
+      "EUnl": "krakkemikkige wand",
+      "CNzh": "废墟墙",
+      "TWzh": "廢墟牆",
+      "JPja": "はいきょのかべ",
+      "KRko": "폐허 벽",
+      "EUru": "обветшавшая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05226",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "party wall",
+      "EUen": "party wall",
+      "EUde": "Partytapete",
+      "EUes": "pared fiestera",
+      "USes": "pared de fiestas",
+      "EUfr": "mur fête",
+      "USfr": "mur fête",
+      "EUit": "muro festa",
+      "EUnl": "feestwand",
+      "CNzh": "派对壁纸",
+      "TWzh": "派對壁紙",
+      "JPja": "パーティーなかべがみ",
+      "KRko": "파티 벽지",
+      "EUru": "стена «Вечеринка»"
+    }
+  },
+  {
+    "id": "RoomWall_05227",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dojo wall",
+      "EUen": "dojo wall",
+      "EUde": "Dojo-Wand",
+      "EUes": "pared gimnasio",
+      "USes": "pared gimnasio",
+      "EUfr": "mur de dojo",
+      "USfr": "mur de dojo",
+      "EUit": "muro dojo",
+      "EUnl": "dojowand",
+      "CNzh": "练功房墙",
+      "TWzh": "練功房牆",
+      "JPja": "けいこべやのかべ",
+      "KRko": "씨름판 벽",
+      "EUru": "стена «Додзё»"
+    }
+  },
+  {
+    "id": "RoomWall_05228",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ruins wall",
+      "EUen": "ruins wall",
+      "EUde": "Ruinenwand",
+      "EUes": "pared ruinas misteriosas",
+      "USes": "pared ruinas misteriosas",
+      "EUfr": "mur de ruine",
+      "USfr": "mur de ruine",
+      "EUit": "muro rovine",
+      "EUnl": "mysterieuze ruïnewand",
+      "CNzh": "遗迹墙",
+      "TWzh": "遺跡牆",
+      "JPja": "いせきのかべ",
+      "KRko": "유적 벽",
+      "EUru": "стена «Руины»"
+    }
+  },
+  {
+    "id": "RoomWall_05229",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "garbage-heap wall",
+      "EUen": "garbage-heap wall",
+      "EUde": "Müllbergtapete",
+      "EUes": "pared vertedero",
+      "USes": "pared basural",
+      "EUfr": "mur dépotoir",
+      "USfr": "mur dépotoir",
+      "EUit": "muro discarica",
+      "EUnl": "stortplaatswand",
+      "CNzh": "垃圾堆墙",
+      "TWzh": "垃圾堆牆",
+      "JPja": "ゴミのやまなかべ",
+      "KRko": "쓰레기 더미 벽",
+      "EUru": "стена «Свалка»"
+    }
+  },
+  {
+    "id": "RoomWall_05230",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Jingle wall",
+      "EUen": "Jingle wall",
+      "EUde": "Festtagstapete",
+      "EUes": "pared festiva",
+      "USes": "pared festiva",
+      "EUfr": "mur festif",
+      "USfr": "mur festif",
+      "EUit": "muro Jingle",
+      "EUnl": "feestboomwand",
+      "CNzh": "圣诞墙",
+      "TWzh": "聖誕牆",
+      "JPja": "クリスマスなかべ",
+      "KRko": "크리스마스 벽",
+      "EUru": "новогодняя стена"
+    }
+  },
+  {
+    "id": "RoomWall_05231",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day wall",
+      "EUen": "Bunny Day wall",
+      "EUde": "Häschentag-Tapete",
+      "EUes": "pared Caza del Huevo",
+      "USes": "pared Caza del Huevo",
+      "EUfr": "mur fête des œufs",
+      "USfr": "mur fête des œufs",
+      "EUit": "muro caccia all'uovo",
+      "EUnl": "eierwand",
+      "CNzh": "复活节壁纸",
+      "TWzh": "復活節壁紙",
+      "JPja": "イースターなかべがみ",
+      "KRko": "이스터 벽지",
+      "EUru": "стена «День зайцев»"
+    }
+  },
+  {
+    "id": "RoomWall_05400",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cityscape wall",
+      "EUen": "cityscape wall",
+      "EUde": "Großstadttapete",
+      "EUes": "pared urbe",
+      "USes": "pared urbe",
+      "EUfr": "mur ville",
+      "USfr": "mur ville",
+      "EUit": "muro città",
+      "EUnl": "stadsgezichtwand",
+      "CNzh": "夜景墙",
+      "TWzh": "夜景牆",
+      "JPja": "やけいのかべ",
+      "KRko": "야경 벽",
+      "EUru": "стена «Мегаполис»"
+    }
+  },
+  {
+    "id": "RoomWall_05456",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tree-lined wall",
+      "EUen": "tree-lined wall",
+      "EUde": "Baumtapete",
+      "EUes": "pared árboles",
+      "USes": "pared árboles",
+      "EUfr": "mur rangée d'arbres",
+      "USfr": "mur rangée d'arbres",
+      "EUit": "muro con alberi",
+      "EUnl": "bomenwand",
+      "CNzh": "行道树墙",
+      "TWzh": "行道樹牆",
+      "JPja": "がいろじゅのかべ",
+      "KRko": "가로수 벽",
+      "EUru": "стена «Дерево»"
+    }
+  },
+  {
+    "id": "RoomWall_05457",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jungle wall",
+      "EUen": "jungle wall",
+      "EUde": "Dschungeltapete",
+      "EUes": "pared jungla",
+      "USes": "pared jungla",
+      "EUfr": "mur jungle",
+      "USfr": "mur jungle",
+      "EUit": "muro giungla",
+      "EUnl": "junglewand",
+      "CNzh": "丛林壁纸",
+      "TWzh": "叢林壁紙",
+      "JPja": "ジャングルのかべがみ",
+      "KRko": "정글 벽",
+      "EUru": "стена «Джунгли»"
+    }
+  },
+  {
+    "id": "RoomWall_05458",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mossy-garden wall",
+      "EUen": "mossy-garden wall",
+      "EUde": "Mooswand",
+      "EUes": "pared ladrillo musgoso",
+      "USes": "pared ladrillo musgoso",
+      "EUfr": "mur moussu",
+      "USfr": "mur moussu",
+      "EUit": "muro muschioso",
+      "EUnl": "mossige tuinwand",
+      "CNzh": "青苔庭院墙",
+      "TWzh": "青苔庭園牆",
+      "JPja": "こけにわのかべ",
+      "KRko": "이끼 낀 벽",
+      "EUru": "замшелая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05481",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "backyard-fence wall",
+      "EUen": "backyard-fence wall",
+      "EUde": "Gartenzauntapete",
+      "EUes": "valla jardín",
+      "USes": "valla jardín",
+      "EUfr": "mur clôture patio",
+      "USfr": "mur clôture patio",
+      "EUit": "muro steccato",
+      "EUnl": "tuinhek",
+      "CNzh": "后院墙",
+      "TWzh": "後院牆",
+      "JPja": "うらにわのかべ",
+      "KRko": "뒷마당 벽",
+      "EUru": "стена со штакетником"
+    }
+  },
+  {
+    "id": "RoomWall_05482",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "arched-window wall",
+      "EUen": "arched-window wall",
+      "EUde": "Bogenfensterwand",
+      "EUes": "pared vidrieras",
+      "USes": "pared vidrieras",
+      "EUfr": "mur fenêtres cintrées",
+      "USfr": "mur fenêtres cintrées",
+      "EUit": "muro finestre arcuate",
+      "EUnl": "glas-in-loodraamwand",
+      "CNzh": "美丽玻璃墙",
+      "TWzh": "美麗玻璃牆",
+      "JPja": "きれいなガラスのかべ",
+      "KRko": "예쁜 창문 벽",
+      "EUru": "стена с арочными окнами"
+    }
+  },
+  {
+    "id": "RoomWall_05483",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "café-curtain wall",
+      "EUen": "café-curtain wall",
+      "EUde": "Scheibengardinenwand",
+      "EUes": "pared cafetería",
+      "USes": "pared cafetería",
+      "EUfr": "mur rideaux de café",
+      "USfr": "mur rideaux de café",
+      "EUit": "muro caffetteria",
+      "EUnl": "caféwand",
+      "CNzh": "咖啡店窗帘墙",
+      "TWzh": "咖啡店窗簾牆",
+      "JPja": "カフェカーテンのかべ",
+      "KRko": "카페 커튼 벽",
+      "EUru": "стена со шторками бистро"
+    }
+  },
+  {
+    "id": "RoomWall_05484",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "meadow vista",
+      "EUen": "meadow vista",
+      "EUde": "Alpentapete",
+      "EUes": "pared prado",
+      "USes": "pared prado",
+      "EUfr": "mur vue prairie",
+      "USfr": "mur vue prairie",
+      "EUit": "muro vista alpina",
+      "EUnl": "bergenwand",
+      "CNzh": "高原墙",
+      "TWzh": "高原牆",
+      "JPja": "こうげんなかべ",
+      "KRko": "초원 벽",
+      "EUru": "стена «Луга и горы»"
+    }
+  },
+  {
+    "id": "RoomWall_05485",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chain-link fence",
+      "EUen": "chain-link fence",
+      "EUde": "Sandplatzmauer",
+      "EUes": "cancha urbana",
+      "USes": "alambrado urbano",
+      "EUfr": "mur grillagé",
+      "USfr": "mur grillagé",
+      "EUit": "muro con recinto",
+      "EUnl": "gaashekwerk",
+      "CNzh": "空地围栏墙",
+      "TWzh": "空地圍欄牆",
+      "JPja": "あきちのかべ",
+      "KRko": "공터 벽",
+      "EUru": "стена с забором из сетки"
+    }
+  },
+  {
+    "id": "RoomWall_05486",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ocean-horizon wall",
+      "EUen": "ocean-horizon wall",
+      "EUde": "Ozeantapete",
+      "EUes": "pared horizonte",
+      "USes": "pared horizonte",
+      "EUfr": "mur horizon marin",
+      "USfr": "mur horizon marin",
+      "EUit": "muro veduta marina",
+      "EUnl": "zeegezichtwand",
+      "CNzh": "水平线墙",
+      "TWzh": "水平線牆",
+      "JPja": "すいへいせんのかべ",
+      "KRko": "수평선 벽",
+      "EUru": "стена «Океан»"
+    }
+  },
+  {
+    "id": "RoomWall_05487",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rice-paddy wall",
+      "EUen": "rice-paddy wall",
+      "EUde": "Savannentapete",
+      "EUes": "pared arrozal",
+      "USes": "pared arrozal",
+      "EUfr": "mur rizière",
+      "USfr": "mur rizière",
+      "EUit": "muro cielo risaia",
+      "EUnl": "rijstveldwand",
+      "CNzh": "田园风景墙",
+      "TWzh": "田園風景牆",
+      "JPja": "でんえんふうけいのかべ",
+      "KRko": "전원 풍경 벽",
+      "EUru": "стена «Саванна»"
+    }
+  },
+  {
+    "id": "RoomWall_05488",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "desert vista",
+      "EUen": "desert vista",
+      "EUde": "Saharatapete",
+      "EUes": "pared desierto",
+      "USes": "pared desierto",
+      "EUfr": "mur vue désert",
+      "USfr": "mur vue désert",
+      "EUit": "muro deserto",
+      "EUnl": "woestijnwand",
+      "CNzh": "沙漠墙",
+      "TWzh": "沙漠牆",
+      "JPja": "さばくなかべ",
+      "KRko": "사막 벽",
+      "EUru": "стена с дюнами"
+    }
+  },
+  {
+    "id": "RoomWall_05489",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "western vista",
+      "EUen": "western vista",
+      "EUde": "Wüstentapete",
+      "EUes": "pared Oeste",
+      "USes": "pared Oeste",
+      "EUfr": "mur vue Far West",
+      "USfr": "mur vue Far West",
+      "EUit": "muro west",
+      "EUnl": "westernwand",
+      "CNzh": "旷野墙",
+      "TWzh": "曠野牆",
+      "JPja": "こうやのかべ",
+      "KRko": "황야 벽",
+      "EUru": "стена в стиле вестерн"
+    }
+  },
+  {
+    "id": "RoomWall_05490",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "server-room wall",
+      "EUen": "server-room wall",
+      "EUde": "Serverraumwand",
+      "EUes": "pared sala de servidores",
+      "USes": "pared sala de servidores",
+      "EUfr": "mur salle des serveurs",
+      "USfr": "mur salle des serveurs",
+      "EUit": "muro sala dei server",
+      "EUnl": "serverwand",
+      "CNzh": "机房墙",
+      "TWzh": "機房牆",
+      "JPja": "サーバールームのかべ",
+      "KRko": "서버실 벽",
+      "EUru": "серверная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05491",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "security-monitors wall",
+      "EUen": "security-monitors wall",
+      "EUde": "Überwachungswand",
+      "EUes": "pared sala de seguridad",
+      "USes": "pared sala de seguridad",
+      "EUfr": "mur vidéosurveillance",
+      "USfr": "mur vidéosurveillance",
+      "EUit": "muro monitor di sicurezza",
+      "EUnl": "observatiewand",
+      "CNzh": "监控室墙",
+      "TWzh": "監控室牆",
+      "JPja": "モニタールームのかべ",
+      "KRko": "모니터 룸 벽",
+      "EUru": "стена с мониторами"
+    }
+  },
+  {
+    "id": "RoomWall_05494",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "future-tech wall",
+      "EUen": "future-tech wall",
+      "EUde": "Zukunftstechniktapete",
+      "EUes": "pared red neuronal",
+      "USes": "pared red neuronal",
+      "EUfr": "mur hypertechnologique",
+      "USfr": "mur hypertechnologique",
+      "EUit": "muro iper tecnologico",
+      "EUnl": "futuristische wand",
+      "CNzh": "超科技墙",
+      "TWzh": "超科技牆",
+      "JPja": "オーバーテクノロジーなかべ",
+      "KRko": "오버 테크놀로지 벽",
+      "EUru": "футуристическая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05495",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "laboratory wall",
+      "EUen": "laboratory wall",
+      "EUde": "Biotechnologietapete",
+      "EUes": "pared sala de estasis",
+      "USes": "pared laboratorio",
+      "EUfr": "mur laboratoire",
+      "USfr": "mur laboratoire",
+      "EUit": "muro laboratorio",
+      "EUnl": "laboratoriumwand",
+      "CNzh": "实验室墙",
+      "TWzh": "實驗室牆",
+      "JPja": "ラボのかべ",
+      "KRko": "연구실 벽",
+      "EUru": "стена «Биоинженерия»"
+    }
+  },
+  {
+    "id": "RoomWall_05498",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ski-slope wall",
+      "EUen": "ski-slope wall",
+      "EUde": "Skipistentapete",
+      "EUes": "pared esquí",
+      "USes": "pared esquí",
+      "EUfr": "mur piste de ski",
+      "USfr": "mur piste de ski",
+      "EUit": "muro pista da sci",
+      "EUnl": "skihellingwand",
+      "CNzh": "滑雪场壁纸",
+      "TWzh": "滑雪場壁紙",
+      "JPja": "ゲレンデなかべがみ",
+      "KRko": "스키장 벽",
+      "EUru": "стена «Лыжный курорт»"
+    }
+  },
+  {
+    "id": "RoomWall_05499",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stormy-night wall",
+      "EUen": "stormy-night wall",
+      "EUde": "Sturmnachttapete",
+      "EUes": "pared noche de tormenta",
+      "USes": "pared noche de tormenta",
+      "EUfr": "mur nuit d'orage",
+      "USfr": "mur nuit d'orage",
+      "EUit": "muro notte tempestosa",
+      "EUnl": "stormnachtwand",
+      "CNzh": "暴风雨夜晚墙",
+      "TWzh": "暴風雨夜晚牆",
+      "JPja": "あらしのよるのかべ",
+      "KRko": "폭풍우 벽",
+      "EUru": "стена «Ночная гроза»"
+    }
+  },
+  {
+    "id": "RoomWall_05500",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "starry-sky wall",
+      "EUen": "starry-sky wall",
+      "EUde": "Sternenhimmeltapete",
+      "EUes": "horizonte lunar",
+      "USes": "horizonte lunar",
+      "EUfr": "mur ciel étoilé",
+      "USfr": "mur ciel étoilé",
+      "EUit": "muro cielo stellato",
+      "EUnl": "heelalwand",
+      "CNzh": "星空墙",
+      "TWzh": "星空牆",
+      "JPja": "ほしぞらのかべ",
+      "KRko": "별이 빛나는 벽",
+      "EUru": "стена «Ночное небо»"
+    }
+  },
+  {
+    "id": "RoomWall_05501",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea view",
+      "EUen": "sea view",
+      "EUde": "Seeblicktapete",
+      "EUes": "vista marina",
+      "USes": "vista marina",
+      "EUfr": "mur front de mer",
+      "USfr": "mur front de mer",
+      "EUit": "muro vista mare",
+      "EUnl": "scheepsdekwand",
+      "CNzh": "汪洋大海墙",
+      "TWzh": "汪洋大海牆",
+      "JPja": "おおうなばらのかべ",
+      "KRko": "바다 벽",
+      "EUru": "стена «У моря»"
+    }
+  },
+  {
+    "id": "RoomWall_05502",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "palace wall",
+      "EUen": "palace wall",
+      "EUde": "Palasttapete",
+      "EUes": "pared palacete",
+      "USes": "pared palacio",
+      "EUfr": "mur palais",
+      "USfr": "mur palais",
+      "EUit": "muro colonne",
+      "EUnl": "paleiswand",
+      "CNzh": "宫殿墙",
+      "TWzh": "宮殿牆",
+      "JPja": "きゅうでんのかべ",
+      "KRko": "궁전 벽",
+      "EUru": "дворцовая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05503",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stadium wall",
+      "EUen": "stadium wall",
+      "EUde": "Stadiontapete",
+      "EUes": "pared graderío",
+      "USes": "pared estadio",
+      "EUfr": "mur stade",
+      "USfr": "mur stade",
+      "EUit": "muro stadio",
+      "EUnl": "stadionwand",
+      "CNzh": "体育场墙",
+      "TWzh": "體育場牆",
+      "JPja": "スタジアムのかべ",
+      "KRko": "스타디움 벽",
+      "EUru": "стена «Стадион»"
+    }
+  },
+  {
+    "id": "RoomWall_05504",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sky wall",
+      "EUen": "sky wall",
+      "EUde": "Himmelstapete",
+      "EUes": "pared cielo",
+      "USes": "pared cielo",
+      "EUfr": "mur ciel",
+      "USfr": "mur ciel",
+      "EUit": "muro cielo",
+      "EUnl": "blauwehemelwand",
+      "CNzh": "云上风景墙",
+      "TWzh": "雲上風景牆",
+      "JPja": "くものうえのかべ",
+      "KRko": "구름 위 벽",
+      "EUru": "небесная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05505",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ice wall",
+      "EUen": "ice wall",
+      "EUde": "Eistapete",
+      "EUes": "pared hielo",
+      "USes": "pared hielo",
+      "EUfr": "mur glace",
+      "USfr": "mur glace",
+      "EUit": "muro ghiaccio",
+      "EUnl": "ijswand",
+      "CNzh": "冰雪壁纸",
+      "TWzh": "冰雪壁紙",
+      "JPja": "アイスなかべがみ",
+      "KRko": "아이스 벽",
+      "EUru": "заледеневшая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05506",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "magma-cavern wall",
+      "EUen": "magma-cavern wall",
+      "EUde": "Vulkantapete",
+      "EUes": "pared volcánica",
+      "USes": "pared volcánica",
+      "EUfr": "mur volcan",
+      "USfr": "mur volcan",
+      "EUit": "muro vulcano",
+      "EUnl": "vulkanische wand",
+      "CNzh": "火山洞窟墙",
+      "TWzh": "火山洞窟牆",
+      "JPja": "かざんどうくつのかべ",
+      "KRko": "화산 동굴 벽",
+      "EUru": "вулканическая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05508",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "underwater wall",
+      "EUen": "underwater wall",
+      "EUde": "Meerestapete",
+      "EUes": "pared fondo marino",
+      "USes": "pared fondo marino",
+      "EUfr": "mur fonds marins",
+      "USfr": "mur fonds marins",
+      "EUit": "muro sottomarino",
+      "EUnl": "onderwaterwand",
+      "CNzh": "水中壁纸",
+      "TWzh": "水中壁紙",
+      "JPja": "すいちゅうのかべがみ",
+      "KRko": "바닷속 벽",
+      "EUru": "подводная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05509",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dungeon wall",
+      "EUen": "dungeon wall",
+      "EUde": "Verliestapete",
+      "EUes": "pared calabozo",
+      "USes": "pared calabozo",
+      "EUfr": "mur donjon",
+      "USfr": "mur donjon",
+      "EUit": "muro segrete",
+      "EUnl": "kerkerwand",
+      "CNzh": "地牢墙",
+      "TWzh": "地牢牆",
+      "JPja": "ちかろうのかべ",
+      "KRko": "지하 감옥 벽",
+      "EUru": "тюремная стена"
+    }
+  },
+  {
+    "id": "RoomWall_05510",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sci-fi wall",
+      "EUen": "sci-fi wall",
+      "EUde": "Raumschifftapete",
+      "EUes": "pared nave espacial",
+      "USes": "pared nave espacial",
+      "EUfr": "mur science-fiction",
+      "USfr": "mur science-fiction",
+      "EUit": "muro astronave",
+      "EUnl": "sciencefictionwand",
+      "CNzh": "太空船墙",
+      "TWzh": "太空船牆",
+      "JPja": "うちゅうせんのかべ",
+      "KRko": "우주선 벽",
+      "EUru": "стена космолета"
+    }
+  },
+  {
+    "id": "RoomWall_05512",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ringside seating",
+      "EUen": "ringside seating",
+      "EUde": "Publikumstapete",
+      "EUes": "pared boxeo",
+      "USes": "pared boxeo",
+      "EUfr": "mur gymnase",
+      "USfr": "mur gymnase",
+      "EUit": "muro con platea",
+      "EUnl": "boksringwand",
+      "CNzh": "职业摔角墙",
+      "TWzh": "職業摔角牆",
+      "JPja": "プロレスのかべ",
+      "KRko": "레슬링 경기장 벽",
+      "EUru": "стена «Фанаты»"
+    }
+  },
+  {
+    "id": "RoomWall_05513",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "summit wall",
+      "EUen": "summit wall",
+      "EUde": "Gipfeltapete",
+      "EUes": "pared cumbre",
+      "USes": "pared cumbre",
+      "EUfr": "mur montagnes",
+      "USfr": "mur montagnes",
+      "EUit": "muro montagne",
+      "EUnl": "bergtopwand",
+      "CNzh": "山顶墙",
+      "TWzh": "山頂牆",
+      "JPja": "さんちょうのかべ",
+      "KRko": "산 정상 벽",
+      "EUru": "стена «Горные кряжи»"
+    }
+  },
+  {
+    "id": "RoomWall_05514",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mangrove wall",
+      "EUen": "mangrove wall",
+      "EUde": "Mangroventapete",
+      "EUes": "pared manglar",
+      "USes": "pared manglar",
+      "EUfr": "mur mangrove",
+      "USfr": "mur mangrove",
+      "EUit": "muro mangrovie",
+      "EUnl": "mangrovewand",
+      "CNzh": "红树林墙",
+      "TWzh": "紅樹林牆",
+      "JPja": "マングローブのかべ",
+      "KRko": "맹그로브 벽",
+      "EUru": "стена «Мангры»"
+    }
+  },
+  {
+    "id": "RoomWall_05520",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skull wall",
+      "EUen": "skull wall",
+      "EUde": "Schädeltapete",
+      "EUes": "pared calaveras",
+      "USes": "pared calaveras",
+      "EUfr": "mur crânes",
+      "USfr": "mur crânes",
+      "EUit": "muro teschi",
+      "EUnl": "schedelprintwand",
+      "CNzh": "骷髅壁纸",
+      "TWzh": "骷髏壁紙",
+      "JPja": "スカルなかべがみ",
+      "KRko": "해골 벽지",
+      "EUru": "стена с черепами"
+    }
+  },
+  {
+    "id": "RoomWall_05521",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "standard tearoom wall",
+      "EUen": "standard tearoom wall",
+      "EUde": "Standard-Teezimmerwand",
+      "EUes": "pared sala de té natural",
+      "USes": "pared sala de té natural",
+      "EUfr": "mur salon de thé standard",
+      "USfr": "mur salon de thé standard",
+      "EUit": "muro sala da tè standard",
+      "EUnl": "klassieke theehuiswand",
+      "CNzh": "标准茶室墙",
+      "TWzh": "標準茶室牆",
+      "JPja": "スタンダードなちゃしつのかべ",
+      "KRko": "평범한 다도실 벽",
+      "EUru": "стена чайной"
+    }
+  },
+  {
+    "id": "RoomWall_05528",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "starry wall",
+      "EUen": "starry wall",
+      "EUde": "Sternentapete",
+      "EUes": "pared estrellas plateadas",
+      "USes": "pared estrellas plateadas",
+      "EUfr": "mur d'étoiles",
+      "USfr": "mur d'étoiles",
+      "EUit": "muro stellato",
+      "EUnl": "sterrenwand",
+      "CNzh": "星星墙",
+      "TWzh": "星星牆",
+      "JPja": "スターなかべ",
+      "KRko": "별 무늬 벽지",
+      "EUru": "стена со звездами"
+    }
+  },
+  {
+    "id": "RoomWall_05559",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "basic wall",
+      "EUen": "basic wall",
+      "EUde": "Minimalwand",
+      "EUes": "panel minimalista",
+      "USes": "panel minimalista",
+      "EUfr": "mur pans blancs",
+      "USfr": "mur blanc",
+      "EUit": "muro pannelli bianco",
+      "EUnl": "wand met witte panelen",
+      "CNzh": "简约壁板墙",
+      "TWzh": "簡約壁板牆",
+      "JPja": "シンプルパネルのかべ",
+      "KRko": "심플 패널 벽",
+      "EUru": "стена «Минимализм»"
+    }
+  },
+  {
+    "id": "RoomWall_05661",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tropical vista",
+      "EUen": "tropical vista",
+      "EUde": "Tropentapete",
+      "EUes": "pared tropical",
+      "USes": "pared tropical",
+      "EUfr": "mur vue tropiques",
+      "USfr": "mur vue tropiques",
+      "EUit": "muro tropicale",
+      "EUnl": "strandwand",
+      "CNzh": "南方海洋墙",
+      "TWzh": "南方海洋牆",
+      "JPja": "みなみのうみなかべ",
+      "KRko": "남쪽 해변 벽",
+      "EUru": "тропическая стена"
+    }
+  },
+  {
+    "id": "RoomWall_05662",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iceberg wall",
+      "EUen": "iceberg wall",
+      "EUde": "Eisbergtapete",
+      "EUes": "pared glaciar",
+      "USes": "pared glaciar",
+      "EUfr": "mur banquise",
+      "USfr": "mur banquise",
+      "EUit": "muro artico",
+      "EUnl": "ijsbergwand",
+      "CNzh": "冰山墙",
+      "TWzh": "冰山牆",
+      "JPja": "ひょうざんのかべ",
+      "KRko": "빙산 벽",
+      "EUru": "арктическая стена"
+    }
+  },
+  {
+    "id": "RoomWall_06004",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. wall",
+      "EUen": "Nook Inc. wall",
+      "EUde": "Nook-Inc.-Tapete",
+      "EUes": "pared de Nook Inc.",
+      "USes": "pared de Nook Inc.",
+      "EUfr": "mur Nook Inc.",
+      "USfr": "mur Nook Inc.",
+      "EUit": "muro Nook Inc.",
+      "EUnl": "Nook Inc.-wand",
+      "CNzh": "Nook Inc.壁纸",
+      "TWzh": "Nook Inc.壁紙",
+      "JPja": "たぬきかいはつのかべがみ",
+      "KRko": "Nook Inc. 벽지",
+      "EUru": "стена Nook Inc."
+    }
+  },
+  {
+    "id": "RoomWall_06850",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown-brick wall",
+      "EUen": "brown-brick wall",
+      "EUde": "Braunziegeltapete",
+      "EUes": "pared ladrillo marrón",
+      "USes": "pared ladrillo marrón",
+      "EUfr": "mur briques brunes",
+      "USfr": "mur briques brunes",
+      "EUit": "muro mattoni marroni",
+      "EUnl": "bruine bakstenen wand",
+      "CNzh": "茶色砖块墙",
+      "TWzh": "茶色磚塊牆",
+      "JPja": "ちゃいろいレンガのかべ",
+      "KRko": "갈색 벽돌 벽",
+      "EUru": "стена из бурого кирпича"
+    }
+  },
+  {
+    "id": "RoomWall_06851",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown-crown wall",
+      "EUen": "brown-crown wall",
+      "EUde": "Braunkronenwand",
+      "EUes": "pared realeza marrón",
+      "USes": "pared realeza marrón",
+      "EUfr": "mur motif couronnes brun",
+      "USfr": "mur motif couronnes brun",
+      "EUit": "muro con corone marrone",
+      "EUnl": "bruine kroontjeswand",
+      "CNzh": "棕色皇冠壁纸",
+      "TWzh": "棕色皇冠壁紙",
+      "JPja": "ブラウンクラウンのかべがみ",
+      "KRko": "브라운 왕관 벽지",
+      "EUru": "темная стена с коронами"
+    }
+  },
+  {
+    "id": "RoomWall_06852",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue delicate-blooms wall",
+      "EUen": "blue delicate-blooms wall",
+      "EUde": "Blau-Floraltapete",
+      "EUes": "pared flor delicada azul",
+      "USes": "pared flor delicada azul",
+      "EUfr": "mur à fleurs délicates bleu",
+      "USfr": "mur à fleurs délicates bleu",
+      "EUit": "muro a fiori delicati blu",
+      "EUnl": "blauwe rozenlambrisering",
+      "CNzh": "蓝色碎花壁纸",
+      "TWzh": "藍色碎花壁紙",
+      "JPja": "あおいこばながらのかべがみ",
+      "KRko": "파란 잔꽃무늬 벽지",
+      "EUru": "синяя стена в цветочек"
+    }
+  },
+  {
+    "id": "RoomWall_06853",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red perforated-board wall",
+      "EUen": "red perforated-board wall",
+      "EUde": "Rot-Lochplattenwand",
+      "EUes": "pared insonorizada roja",
+      "USes": "pared insonorizada roja",
+      "EUfr": "mur panneau perforé rouge",
+      "USfr": "mur panneau perforé rouge",
+      "EUit": "muro cartone forato rosso",
+      "EUnl": "rode gaatjeswand",
+      "CNzh": "红色洞洞板墙",
+      "TWzh": "紅色洞洞板牆",
+      "JPja": "あかいパンチングボードのかべ",
+      "KRko": "빨간 펀칭 보드 벽",
+      "EUru": "красная стена с дырками"
+    }
+  },
+  {
+    "id": "RoomWall_06854",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green molded-panel wall",
+      "EUen": "green molded-panel wall",
+      "EUde": "Grün-Wandvertäfelung",
+      "EUes": "pared con molduras verde",
+      "USes": "pared con molduras verde",
+      "EUfr": "mur à moulures vert",
+      "USfr": "mur à moulures vert",
+      "EUit": "muro modanature verde",
+      "EUnl": "groene lambrisering",
+      "CNzh": "绿色线板墙",
+      "TWzh": "綠色線板牆",
+      "JPja": "みどりのパネルモールドかべ",
+      "KRko": "초록 패널 몰드 벽",
+      "EUru": "зеленая лепная стена"
+    }
+  },
+  {
+    "id": "RoomWall_06855",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange camo wall",
+      "EUen": "orange camo wall",
+      "EUde": "Orange-Tarntapete",
+      "EUes": "pared camuflaje naranja",
+      "USes": "pared camuflaje naranja",
+      "EUfr": "mur camouflage rouge",
+      "USfr": "mur camouflage rouge",
+      "EUit": "muro mimetico arancione",
+      "EUnl": "oranje camouflagewand",
+      "CNzh": "橘色迷彩壁纸",
+      "TWzh": "橘色迷彩壁紙",
+      "JPja": "オレンジめいさいのかべがみ",
+      "KRko": "오렌지 밀리터리 벽지",
+      "EUru": "оранж. стена «Камуфляж»"
+    }
+  },
+  {
+    "id": "RoomWall_06856",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red two-toned tile wall",
+      "EUen": "red two-toned tile wall",
+      "EUde": "Rot-Weiß-Fliesenwand",
+      "EUes": "pared damero rojo",
+      "USes": "pared damero rojo",
+      "EUfr": "mur carrelé bicolore rouge",
+      "USfr": "mur carrelé bicolore rouge",
+      "EUit": "muro piastrelle biancorosso",
+      "EUnl": "rode tegelpatroonwand",
+      "CNzh": "红色撞色砖墙",
+      "TWzh": "紅色撞色磚牆",
+      "JPja": "あかいツートンタイルのかべ",
+      "KRko": "빨간 투톤 타일 벽",
+      "EUru": "стена с красной плиткой"
+    }
+  },
+  {
+    "id": "RoomWall_06857",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach two-toned tile wall",
+      "EUen": "peach two-toned tile wall",
+      "EUde": "Rosa-Weiß-Fliesenwand",
+      "EUes": "pared damero rosa",
+      "USes": "pared damero rosa",
+      "EUfr": "mur carrelé bicolore rose",
+      "USfr": "mur carrelé bicolore rose",
+      "EUit": "muro piastrelle biancorosa",
+      "EUnl": "roze tegelpatroonwand",
+      "CNzh": "桃红色撞色砖墙",
+      "TWzh": "桃紅色撞色磚牆",
+      "JPja": "ももいろツートンタイルのかべ",
+      "KRko": "분홍 투톤 타일 벽",
+      "EUru": "стена с розовой плиткой"
+    }
+  },
+  {
+    "id": "RoomWall_06858",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue two-toned tile wall",
+      "EUen": "blue two-toned tile wall",
+      "EUde": "Blau-Weiß-Fliesenwand",
+      "EUes": "pared damero azul",
+      "USes": "pared damero azul",
+      "EUfr": "mur carrelé bicolore bleu",
+      "USfr": "mur carrelé bicolore bleu",
+      "EUit": "muro piastrelle biancoblu",
+      "EUnl": "blauwe tegelpatroonwand",
+      "CNzh": "蓝色撞色砖墙",
+      "TWzh": "藍色撞色磚牆",
+      "JPja": "あおいツートンタイルのかべ",
+      "KRko": "파란 투톤 타일 벽",
+      "EUru": "стена с синей плиткой"
+    }
+  },
+  {
+    "id": "RoomWall_06859",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black two-toned tile wall",
+      "EUen": "black two-toned tile wall",
+      "EUde": "Schwarz-Weiß-Fliesenwand",
+      "EUes": "pared damero negro",
+      "USes": "pared damero negro",
+      "EUfr": "mur carrelé bicolore noir",
+      "USfr": "mur carrelé bicolore noir",
+      "EUit": "muro piastrelle bianconero",
+      "EUnl": "zwarte tegelpatroonwand",
+      "CNzh": "单色配色撞色砖墙",
+      "TWzh": "灰階配色撞色磚牆",
+      "JPja": "モノクロツートンタイルのかべ",
+      "KRko": "흑백 투톤 타일 벽",
+      "EUru": "стена с черной плиткой"
+    }
+  },
+  {
+    "id": "RoomWall_06861",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white hallway wall",
+      "EUen": "white hallway wall",
+      "EUde": "Weiß-Dielentapete",
+      "EUes": "pared pasillo blanca",
+      "USes": "pared pasillo blanca",
+      "EUfr": "mur hall gris",
+      "USfr": "mur hall gris",
+      "EUit": "muro albergo bianco",
+      "EUnl": "witte halwand",
+      "CNzh": "白色大厅墙",
+      "TWzh": "白色大廳牆",
+      "JPja": "しろいホールのかべ",
+      "KRko": "하얀 홀 벽",
+      "EUru": "белая стена «Холл»"
+    }
+  },
+  {
+    "id": "RoomWall_06862",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black hallway wall",
+      "EUen": "black hallway wall",
+      "EUde": "Schwarz-Dielentapete",
+      "EUes": "pared pasillo negra",
+      "USes": "pared pasillo negra",
+      "EUfr": "mur hall noir",
+      "USfr": "mur hall noir",
+      "EUit": "muro albergo nero",
+      "EUnl": "zwarte halwand",
+      "CNzh": "黑色大厅墙",
+      "TWzh": "黑色大廳牆",
+      "JPja": "くろいホールのかべ",
+      "KRko": "검정 홀 벽",
+      "EUru": "черная стена «Холл»"
+    }
+  },
+  {
+    "id": "RoomWall_06863",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "olive desert-tile wall",
+      "EUen": "olive desert-tile wall",
+      "EUde": "Oliv-Wüstenfliesenwand",
+      "EUes": "pared losa desierto caqui",
+      "USes": "pared losa desierto verde",
+      "EUfr": "mur treillis marocain kaki",
+      "USfr": "mur treillis désert vert",
+      "EUit": "muro motivo arabo kaki",
+      "EUnl": "groene oosterse tegelwand",
+      "CNzh": "黄绿色摩洛哥砖墙",
+      "TWzh": "黃綠色摩洛哥磚牆",
+      "JPja": "きみどりモロッカンタイルかべ",
+      "KRko": "옐로그린 모로칸 타일 벽",
+      "EUru": "оливковая стена «Восток»"
+    }
+  },
+  {
+    "id": "RoomWall_06864",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple desert-tile wall",
+      "EUen": "purple desert-tile wall",
+      "EUde": "Lila-Wüstenfliesenwand",
+      "EUes": "pared losa desierto lila",
+      "USes": "pared losa desierto morada",
+      "EUfr": "mur treillis marocain violet",
+      "USfr": "mur treillis désert mauve",
+      "EUit": "muro motivo arabo viola",
+      "EUnl": "paarse oosterse tegelwand",
+      "CNzh": "紫色摩洛哥砖墙",
+      "TWzh": "紫色摩洛哥磚牆",
+      "JPja": "むらさきのモロッカンタイルかべ",
+      "KRko": "퍼플 모로칸 타일 벽",
+      "EUru": "фиолет. стена «Восток»"
+    }
+  },
+  {
+    "id": "RoomWall_06865",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow playroom wall",
+      "EUen": "yellow playroom wall",
+      "EUde": "Gelb-Spieltapete",
+      "EUes": "pared barquito amarilla",
+      "USes": "pared barquito amarilla",
+      "EUfr": "mur salle de jeu jaune",
+      "USfr": "mur salle de jeu jaune",
+      "EUit": "muro stanza giochi giallo",
+      "EUnl": "gele kinderkamerwand",
+      "CNzh": "黄色儿童房壁纸",
+      "TWzh": "黃色兒童房壁紙",
+      "JPja": "きいろいキッズルームのかべがみ",
+      "KRko": "노란 놀이방 벽지",
+      "EUru": "желтая стена в детскую"
+    }
+  },
+  {
+    "id": "RoomWall_06866",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green playroom wall",
+      "EUen": "green playroom wall",
+      "EUde": "Grün-Spieltapete",
+      "EUes": "pared barquito verde",
+      "USes": "pared barquito verde",
+      "EUfr": "mur salle de jeu vert",
+      "USfr": "mur salle de jeu vert",
+      "EUit": "muro stanza giochi verde",
+      "EUnl": "groene kinderkamerwand",
+      "CNzh": "绿色儿童房壁纸",
+      "TWzh": "綠色兒童房壁紙",
+      "JPja": "みどりのキッズルームのかべがみ",
+      "KRko": "초록 놀이방 벽지",
+      "EUru": "зеленая стена в детскую"
+    }
+  },
+  {
+    "id": "RoomWall_06868",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white-rose wall",
+      "EUen": "white-rose wall",
+      "EUde": "Unschuldsrosentapete",
+      "EUes": "pared rosas rosada",
+      "USes": "pared rosas blancas",
+      "EUfr": "mur de roses blanches",
+      "USfr": "mur de roses blanches",
+      "EUit": "muro con rose bianche",
+      "EUnl": "witterozenwand",
+      "CNzh": "白色玫瑰壁纸",
+      "TWzh": "白色玫瑰壁紙",
+      "JPja": "しろいバラのかべがみ",
+      "KRko": "하얀 장미 벽지",
+      "EUru": "стена с белыми розами"
+    }
+  },
+  {
+    "id": "RoomWall_06869",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue-rose wall",
+      "EUen": "blue-rose wall",
+      "EUde": "Blaurosentapete",
+      "EUes": "pared rosas turquesa",
+      "USes": "pared rosas turquesas",
+      "EUfr": "mur de roses vert",
+      "USfr": "mur de roses vert",
+      "EUit": "muro con rose blu",
+      "EUnl": "blauwerozenwand",
+      "CNzh": "蓝色玫瑰壁纸",
+      "TWzh": "藍色玫瑰壁紙",
+      "JPja": "あおいバラのかべがみ",
+      "KRko": "파란 장미 벽지",
+      "EUru": "стена с синими розами"
+    }
+  },
+  {
+    "id": "RoomWall_06870",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red heart-pattern wall",
+      "EUen": "red heart-pattern wall",
+      "EUde": "Herz-auf-Rot-Tapete",
+      "EUes": "pared amor roja",
+      "USes": "pared amor roja",
+      "EUfr": "mur motif cœurs rouge",
+      "USfr": "mur motif cœurs rouge",
+      "EUit": "muro con cuori rosso",
+      "EUnl": "rode hartjeswand",
+      "CNzh": "红色爱心壁纸",
+      "TWzh": "紅色愛心壁紙",
+      "JPja": "レッドハートのかべがみ",
+      "KRko": "레드 하트 벽지",
+      "EUru": "красная стена с сердцами"
+    }
+  },
+  {
+    "id": "RoomWall_06871",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow heart-pattern wall",
+      "EUen": "yellow heart-pattern wall",
+      "EUde": "Herz-auf-Gelb-Tapete",
+      "EUes": "pared amor amarilla",
+      "USes": "pared amor amarilla",
+      "EUfr": "mur motif cœurs jaune",
+      "USfr": "mur motif cœurs jaune",
+      "EUit": "muro con cuori giallo",
+      "EUnl": "gele hartjeswand",
+      "CNzh": "黄色爱心壁纸",
+      "TWzh": "黃色愛心壁紙",
+      "JPja": "イエローハートのかべがみ",
+      "KRko": "옐로 하트 벽지",
+      "EUru": "желтая стена с сердцами"
+    }
+  },
+  {
+    "id": "RoomWall_06872",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow flower-print wall",
+      "EUen": "yellow flower-print wall",
+      "EUde": "Gelb-Blumentapete",
+      "EUes": "pared floral amarilla",
+      "USes": "pared floral amarilla",
+      "EUfr": "mur à fleurs jaune",
+      "USfr": "mur à fleurs jaune",
+      "EUit": "muro stampa floreale giallo",
+      "EUnl": "gele bloemenwand",
+      "CNzh": "黄色花纹壁纸",
+      "TWzh": "黃色花紋壁紙",
+      "JPja": "きいろいはながらかべがみ",
+      "KRko": "노란 꽃무늬 벽지",
+      "EUru": "желтая стена с цветами"
+    }
+  },
+  {
+    "id": "RoomWall_06873",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue flower-print wall",
+      "EUen": "blue flower-print wall",
+      "EUde": "Blau-Blumentapete",
+      "EUes": "pared floral azul",
+      "USes": "pared floral azul",
+      "EUfr": "mur à fleurs bleu",
+      "USfr": "mur à fleurs bleu",
+      "EUit": "muro stampa floreale blu",
+      "EUnl": "blauwe bloemenwand",
+      "CNzh": "蓝色花纹壁纸",
+      "TWzh": "藍色花紋壁紙",
+      "JPja": "ブルーのはながらかべがみ",
+      "KRko": "파란 꽃무늬 벽지",
+      "EUru": "синяя стена с цветами"
+    }
+  },
+  {
+    "id": "RoomWall_06874",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sepia puzzle wall",
+      "EUen": "sepia puzzle wall",
+      "EUde": "Sepia-Puzzletapete",
+      "EUes": "pared rompecabezas sepia",
+      "USes": "pared rompecabezas sepia",
+      "EUfr": "mur puzzle sépia",
+      "USfr": "mur casse-tête sépia",
+      "EUit": "muro puzzle seppia",
+      "EUnl": "sepia puzzelwand",
+      "CNzh": "棕黑色拼图壁纸",
+      "TWzh": "深褐色巧拼壁紙",
+      "JPja": "セピアパズルかべがみ",
+      "KRko": "세피아 퍼즐 벽지",
+      "EUru": "стена-пазл в сепии"
+    }
+  },
+  {
+    "id": "RoomWall_06875",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple puzzle wall",
+      "EUen": "purple puzzle wall",
+      "EUde": "Lila-Puzzletapete",
+      "EUes": "pared rompecabezas malva",
+      "USes": "pared rompecabezas uva",
+      "EUfr": "mur puzzle mauve",
+      "USfr": "mur casse-tête mauve",
+      "EUit": "muro puzzle viola",
+      "EUnl": "paarse puzzelwand",
+      "CNzh": "紫色拼图壁纸",
+      "TWzh": "紫色巧拼壁紙",
+      "JPja": "パープルパズルかべがみ",
+      "KRko": "퍼플 퍼즐 벽지",
+      "EUru": "фиолетовая стена-пазл"
+    }
+  },
+  {
+    "id": "RoomWall_06876",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "botanical-tile wall",
+      "EUen": "botanical-tile wall",
+      "EUde": "Relieffliesenwand",
+      "EUes": "pared cerámica amarilla",
+      "USes": "pared cerámica amarilla",
+      "EUfr": "mur botanique jaune",
+      "USfr": "mur botanique jaune",
+      "EUit": "muro bassorilievo giallo",
+      "EUnl": "gele patroontegelwand",
+      "CNzh": "植物图案砖墙",
+      "TWzh": "植物圖案磚牆",
+      "JPja": "ボタニカルタイルのかべ",
+      "KRko": "보태니컬 타일 벽",
+      "EUru": "желтая кафельная стена"
+    }
+  },
+  {
+    "id": "RoomWall_06877",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black botanical-tile wall",
+      "EUen": "black botanical-tile wall",
+      "EUde": "Schwarz-Relieffliesenwand",
+      "EUes": "pared cerámica negra",
+      "USes": "pared cerámica negra",
+      "EUfr": "mur botanique noir",
+      "USfr": "mur botanique noir",
+      "EUit": "muro bassorilievo nero",
+      "EUnl": "zwarte patroontegelwand",
+      "CNzh": "黑色植物图案砖墙",
+      "TWzh": "黑色植物圖案磚牆",
+      "JPja": "くろいボタニカルタイルのかべ",
+      "KRko": "블랙 보태니컬 타일 벽",
+      "EUru": "черная кафельная стена"
+    }
+  },
+  {
+    "id": "RoomWall_06878",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green intricate wall",
+      "EUen": "green intricate wall",
+      "EUde": "Grün-Filigrantapete",
+      "EUes": "pared boceto floral verde",
+      "USes": "pared boceto floral verde",
+      "EUfr": "mur entrelacs floraux vert",
+      "USfr": "mur entrelacs floraux vert",
+      "EUit": "muro filigrana verde",
+      "EUnl": "groene filigraanwand",
+      "CNzh": "绿色布墙",
+      "TWzh": "綠色布牆",
+      "JPja": "みどりのテキスタイルのかべ",
+      "KRko": "초록 텍스타일 벽",
+      "EUru": "затейливая зелен. стена"
+    }
+  },
+  {
+    "id": "RoomWall_06879",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red intricate wall",
+      "EUen": "red intricate wall",
+      "EUde": "Rot-Filigrantapete",
+      "EUes": "pared boceto floral roja",
+      "USes": "pared boceto floral roja",
+      "EUfr": "mur entrelacs floraux rouge",
+      "USfr": "mur entrelacs floraux rouge",
+      "EUit": "muro filigrana rosso",
+      "EUnl": "rode filigraanwand",
+      "CNzh": "红色布墙",
+      "TWzh": "紅色布牆",
+      "JPja": "あかいテキスタイルのかべ",
+      "KRko": "빨간 텍스타일 벽",
+      "EUru": "затейливая красная стена"
+    }
+  },
+  {
+    "id": "RoomWall_07127",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue tile wall",
+      "EUen": "blue tile wall",
+      "EUde": "Blaufliesenwand",
+      "EUes": "pared alicatada azul marino",
+      "USes": "pared azulejos azul",
+      "EUfr": "mur mosaïque bleu marine",
+      "USfr": "mur mosaïque bleu marine",
+      "EUit": "muro piastrelle blu",
+      "EUnl": "blauwe tegelwand",
+      "CNzh": "蓝色砖墙",
+      "TWzh": "藍色磚牆",
+      "JPja": "あおいタイルのかべ",
+      "KRko": "파란 타일 벽",
+      "EUru": "синяя плитка"
+    }
+  },
+  {
+    "id": "RoomWall_07187",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "forest wall",
+      "EUen": "forest wall",
+      "EUde": "Waldtapete",
+      "EUes": "pared bosque",
+      "USes": "pared bosque",
+      "EUfr": "mur forêt",
+      "USfr": "mur forêt",
+      "EUit": "muro bosco",
+      "EUnl": "boswand",
+      "CNzh": "蘑菇森林墙",
+      "TWzh": "蘑菇森林牆",
+      "JPja": "キノコのもりのかべ",
+      "KRko": "버섯숲 벽지",
+      "EUru": "стена с дремучим лесом"
+    }
+  },
+  {
+    "id": "RoomWall_07205",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry-blossom-trees wall",
+      "EUen": "cherry-blossom-trees wall",
+      "EUde": "Kirschblütenwand",
+      "EUes": "pared cerezos en flor",
+      "USes": "pared cerezos en flor",
+      "EUfr": "mur fleurs de cerisier",
+      "USfr": "mur fleurs de cerisier",
+      "EUit": "muro fiori di ciliegio",
+      "EUnl": "kersenbloesemwand",
+      "CNzh": "樱花树墙",
+      "TWzh": "櫻花樹牆",
+      "JPja": "さくらなみきのかべ",
+      "KRko": "벚나무길 벽",
+      "EUru": "стена с сакурой"
+    }
+  },
+  {
+    "id": "RoomWall_07215",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute white wall",
+      "EUen": "cute white wall",
+      "EUde": "Weiß-Niedlichwand",
+      "EUes": "pared cuqui blanca",
+      "USes": "pared adorable blanca",
+      "EUfr": "mur sobre cœurs blanc",
+      "USfr": "mur sobre cœurs blanc",
+      "EUit": "muro grazioso bianco",
+      "EUnl": "schattige witte wand",
+      "CNzh": "白色可爱墙",
+      "TWzh": "白色可愛牆",
+      "JPja": "しろいキュートなかべ",
+      "KRko": "화이트 큐트 벽",
+      "EUru": "милая белая стена"
+    }
+  },
+  {
+    "id": "RoomWall_07216",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute red wall",
+      "EUen": "cute red wall",
+      "EUde": "Rot-Niedlichwand",
+      "EUes": "pared cuqui roja",
+      "USes": "pared adorable roja",
+      "EUfr": "mur sobre cœurs rouge",
+      "USfr": "mur sobre cœurs rouge",
+      "EUit": "muro grazioso rosso",
+      "EUnl": "schattige rode wand",
+      "CNzh": "红色可爱墙",
+      "TWzh": "紅色可愛牆",
+      "JPja": "あかいキュートなかべ",
+      "KRko": "레드 큐트 벽",
+      "EUru": "милая красная стена"
+    }
+  },
+  {
+    "id": "RoomWall_07217",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute blue wall",
+      "EUen": "cute blue wall",
+      "EUde": "Blau-Niedlichwand",
+      "EUes": "pared cuqui azul",
+      "USes": "pared adorable azul",
+      "EUfr": "mur sobre cœurs bleu",
+      "USfr": "mur sobre cœurs bleu",
+      "EUit": "muro grazioso blu",
+      "EUnl": "schattige blauwe wand",
+      "CNzh": "蓝色可爱墙",
+      "TWzh": "藍色可愛牆",
+      "JPja": "ブルーなキュートのかべ",
+      "KRko": "블루 큐트 벽",
+      "EUru": "милая синяя стена"
+    }
+  },
+  {
+    "id": "RoomWall_07218",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute yellow wall",
+      "EUen": "cute yellow wall",
+      "EUde": "Gelb-Niedlichwand",
+      "EUes": "pared cuqui amarilla",
+      "USes": "pared adorable amarilla",
+      "EUfr": "mur sobre cœurs jaune",
+      "USfr": "mur sobre cœurs jaune",
+      "EUit": "muro grazioso giallo",
+      "EUnl": "schattige gele wand",
+      "CNzh": "黄色可爱墙",
+      "TWzh": "黃色可愛牆",
+      "JPja": "きいろいキュートなかべ",
+      "KRko": "옐로 큐트 벽",
+      "EUru": "милая желтая стена"
+    }
+  },
+  {
+    "id": "RoomWall_07241",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue diner wall",
+      "EUen": "blue diner wall",
+      "EUde": "Blau-Dinerwand",
+      "EUes": "pared café años 50 azul",
+      "USes": "pared café años 50 azul",
+      "EUfr": "mur années 50 bleu",
+      "USfr": "mur années 50 bleu",
+      "EUit": "muro bar anni '50 azzurro",
+      "EUnl": "blauwe restaurantwand",
+      "CNzh": "蓝色餐馆墙",
+      "TWzh": "藍色餐館牆",
+      "JPja": "あおいダイナーのかべ",
+      "KRko": "파란 다이너 벽",
+      "EUru": "голубая стена кафе"
+    }
+  },
+  {
+    "id": "RoomWall_07242",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink diner wall",
+      "EUen": "pink diner wall",
+      "EUde": "Rosa-Dinerwand",
+      "EUes": "pared café años 50 rosa",
+      "USes": "pared café años 50 rosa",
+      "EUfr": "mur années 50 pêche",
+      "USfr": "mur années 50 rose",
+      "EUit": "muro bar anni '50 rosa",
+      "EUnl": "roze restaurantwand",
+      "CNzh": "桃红色餐馆墙",
+      "TWzh": "桃紅色餐館牆",
+      "JPja": "ももいろダイナーのかべ",
+      "KRko": "분홍 다이너 벽",
+      "EUru": "розовая стена кафе"
+    }
+  },
+  {
+    "id": "RoomWall_07243",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray diner wall",
+      "EUen": "gray diner wall",
+      "EUde": "Grau-Dinerwand",
+      "EUes": "pared café años 50 gris",
+      "USes": "pared café años 50 gris",
+      "EUfr": "mur années 50 gris",
+      "USfr": "mur années 50 gris",
+      "EUit": "muro bar anni '50 grigio",
+      "EUnl": "grijze restaurantwand",
+      "CNzh": "白色餐馆墙",
+      "TWzh": "白色餐館牆",
+      "JPja": "しろいダイナーのかべ",
+      "KRko": "하얀 다이너 벽",
+      "EUru": "серая стена кафе"
+    }
+  },
+  {
+    "id": "RoomWall_07244",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown diner wall",
+      "EUen": "brown diner wall",
+      "EUde": "Braun-Dinerwand",
+      "EUes": "pared café años 50 marrón",
+      "USes": "pared café años 50 marrón",
+      "EUfr": "mur années 50 brun",
+      "USfr": "mur années 50 brun",
+      "EUit": "muro bar anni '50 cacao",
+      "EUnl": "bruine restaurantwand",
+      "CNzh": "茶色餐馆墙",
+      "TWzh": "茶色餐館牆",
+      "JPja": "ちゃいろいダイナーのかべ",
+      "KRko": "갈색 다이너 벽",
+      "EUru": "коричневая стена кафе"
+    }
+  },
+  {
+    "id": "RoomWall_07274",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink quilt wall",
+      "EUen": "pink quilt wall",
+      "EUde": "Rosa-Quiltwand",
+      "EUes": "pared patchwork rosa",
+      "USes": "pared estilo colcha rosa",
+      "EUfr": "mur patchwork rose",
+      "USfr": "mur patchwork rose",
+      "EUit": "muro patchwork rosa",
+      "EUnl": "roze quiltwand",
+      "CNzh": "粉红色拼布墙",
+      "TWzh": "粉紅色拼布牆",
+      "JPja": "ピンクキルトのかべ",
+      "KRko": "핑크 퀼트 벽",
+      "EUru": "лоскутная розовая стена"
+    }
+  },
+  {
+    "id": "RoomWall_07275",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple quilt wall",
+      "EUen": "purple quilt wall",
+      "EUde": "Lila-Quiltwand",
+      "EUes": "pared patchwork lila",
+      "USes": "pared estilo colcha morada",
+      "EUfr": "mur patchwork mauve",
+      "USfr": "mur patchwork mauve",
+      "EUit": "muro patchwork lilla",
+      "EUnl": "paarse quiltwand",
+      "CNzh": "紫色拼布墙",
+      "TWzh": "紫色拼布牆",
+      "JPja": "パープルキルトのかべ",
+      "KRko": "퍼플 퀼트 벽",
+      "EUru": "лоскутная фиолет. стена"
+    }
+  },
+  {
+    "id": "RoomWall_07276",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow quilt wall",
+      "EUen": "yellow quilt wall",
+      "EUde": "Gelb-Quiltwand",
+      "EUes": "pared patchwork amarilla",
+      "USes": "pared estilo colcha amarilla",
+      "EUfr": "mur patchwork jaune",
+      "USfr": "mur patchwork jaune",
+      "EUit": "muro patchwork giallo",
+      "EUnl": "gele quiltwand",
+      "CNzh": "黄色拼布墙",
+      "TWzh": "黃色拼布牆",
+      "JPja": "イエローキルトのかべ",
+      "KRko": "옐로 퀼트 벽",
+      "EUru": "лоскутная желтая стена"
+    }
+  },
+  {
+    "id": "RoomWall_07277",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue quilt wall",
+      "EUen": "blue quilt wall",
+      "EUde": "Blau-Quiltwand",
+      "EUes": "pared patchwork azul",
+      "USes": "pared estilo colcha azul",
+      "EUfr": "mur patchwork bleu",
+      "USfr": "mur patchwork bleu",
+      "EUit": "muro patchwork azzurro",
+      "EUnl": "blauwe quiltwand",
+      "CNzh": "蓝色拼布墙",
+      "TWzh": "藍色拼布牆",
+      "JPja": "ブルーキルトのかべ",
+      "KRko": "블루 퀼트 벽",
+      "EUru": "лоскутная голубая стена"
+    }
+  },
+  {
+    "id": "RoomWall_11176",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chic tearoom wall",
+      "EUen": "chic tearoom wall",
+      "EUde": "Schick-Teezimmerwand",
+      "EUes": "pared sala de té chic",
+      "USes": "pared sala de té chic",
+      "EUfr": "mur salon de thé chic",
+      "USfr": "mur salon de thé chic",
+      "EUit": "muro sala da tè chic",
+      "EUnl": "chique theehuiswand",
+      "CNzh": "典雅茶室墙",
+      "TWzh": "典雅茶室牆",
+      "JPja": "シックなちゃしつのかべ",
+      "KRko": "시크한 다도실 벽",
+      "EUru": "модная стена чайной"
+    }
+  },
+  {
+    "id": "RoomWall_11177",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "soothing tearoom wall",
+      "EUen": "soothing tearoom wall",
+      "EUde": "Relax-Teezimmerwand",
+      "EUes": "pared sala de té relajante",
+      "USes": "pared sala de té relajante",
+      "EUfr": "mur salon de thé apaisant",
+      "USfr": "mur salon de thé apaisant",
+      "EUit": "muro sala da tè rilassante",
+      "EUnl": "rustgevende theehuiswand",
+      "CNzh": "稳重茶室墙",
+      "TWzh": "穩重茶室牆",
+      "JPja": "おちついたちゃしつのかべ",
+      "KRko": "차분한 다도실 벽",
+      "EUru": "светлая стена чайной"
+    }
+  },
+  {
+    "id": "RoomWall_11178",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "modern tearoom wall",
+      "EUen": "modern tearoom wall",
+      "EUde": "Modern-Teezimmerwand",
+      "EUes": "pared sala de té moderna",
+      "USes": "pared sala de té moderna",
+      "EUfr": "mur salon de thé moderne",
+      "USfr": "mur salon de thé moderne",
+      "EUit": "muro sala da tè moderno",
+      "EUnl": "moderne theehuiswand",
+      "CNzh": "摩登茶室墙",
+      "TWzh": "摩登茶室牆",
+      "JPja": "モダンなちゃしつのかべ",
+      "KRko": "모던 다도실 벽",
+      "EUru": "стена современной чайной"
+    }
+  },
+  {
+    "id": "RoomWall_11180",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "harmonious wall",
+      "EUen": "harmonious wall",
+      "EUde": "Asienwand",
+      "EUes": "pared ventanas orientales",
+      "USes": "pared ventanas orientales",
+      "EUfr": "mur impérial",
+      "USfr": "mur harmonieux",
+      "EUit": "muro sala da tè orientale",
+      "EUnl": "harmonieuze wand",
+      "CNzh": "东方风墙",
+      "TWzh": "東方風牆壁",
+      "JPja": "オリエンタルなかべ",
+      "KRko": "오리엔탈 벽",
+      "EUru": "стена «Гармония»"
+    }
+  },
+  {
+    "id": "RoomWall_11915",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "misty-garden wall",
+      "EUen": "misty-garden wall",
+      "EUde": "Nieselregen-Tapete",
+      "EUes": "pared bosque lluvioso",
+      "USes": "pared bosque lluvioso",
+      "EUfr": "mur de pluie douce",
+      "USfr": "mur de pluie douce",
+      "EUit": "muro bosco piovoso",
+      "EUnl": "regenachtige wand",
+      "CNzh": "毛毛细雨墙",
+      "TWzh": "毛毛細雨牆",
+      "JPja": "こさめのふるかべ",
+      "KRko": "가랑비가 내리는 벽",
+      "EUru": "стена «Дождик»"
+    }
+  },
+  {
+    "id": "RoomWall_12461",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "wedding-party wall",
+      "EUen": "wedding-party wall",
+      "EUde": "Hochzeitsfeiertapete",
+      "EUes": "pared banquete de boda",
+      "USes": "pared banquete de boda",
+      "EUfr": "mur cérémonie de mariage",
+      "USfr": "mur cérémonie de mariage",
+      "EUit": "muro festa nuziale",
+      "EUnl": "trouwfeestwand",
+      "CNzh": "婚礼派对墙",
+      "TWzh": "婚禮派對牆",
+      "JPja": "ウェディングパーティーのかべ",
+      "KRko": "웨딩 파티 벽",
+      "EUru": "стена на свадьбу"
+    }
+  },
+  {
+    "id": "RoomWall_12466",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "white wedding wall",
+      "EUen": "white wedding wall",
+      "EUde": "Weiß-Hochzeitstapete",
+      "EUes": "pared de boda blanca",
+      "USes": "pared de boda blanca",
+      "EUfr": "mur mariage blanc",
+      "USfr": "mur mariage blanc",
+      "EUit": "muro nuziale bianco",
+      "EUnl": "witte trouwwand",
+      "CNzh": "白色婚礼墙",
+      "TWzh": "白色婚禮牆",
+      "JPja": "ウェディングなかべ・ホワイト",
+      "KRko": "하얀 웨딩 벽",
+      "EUru": "белая свадебная стена"
+    }
+  },
+  {
+    "id": "RoomWall_12468",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "brown wedding wall",
+      "EUen": "brown wedding wall",
+      "EUde": "Braun-Hochzeitstapete",
+      "EUes": "pared de boda marrón",
+      "USes": "pared de boda marrón",
+      "EUfr": "mur mariage brun",
+      "USfr": "mur mariage brun",
+      "EUit": "muro nuziale marrone",
+      "EUnl": "bruine trouwwand",
+      "CNzh": "茶色婚礼墙",
+      "TWzh": "棕色婚禮牆",
+      "JPja": "ウェディングなかべ・ブラウン",
+      "KRko": "갈색 웨딩 벽",
+      "EUru": "коричн. свадебная стена"
+    }
+  },
+  {
+    "id": "RoomWall_12469",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "green wedding wall",
+      "EUen": "green wedding wall",
+      "EUde": "Grün-Hochzeitstapete",
+      "EUes": "pared de boda verde",
+      "USes": "pared de boda verde",
+      "EUfr": "mur mariage vert",
+      "USfr": "mur mariage vert",
+      "EUit": "muro nuziale verde",
+      "EUnl": "groene trouwwand",
+      "CNzh": "绿色婚礼墙",
+      "TWzh": "綠色婚禮牆",
+      "JPja": "ウェディングなかべ・グリーン",
+      "KRko": "초록 웨딩 벽",
+      "EUru": "зеленая свадебная стена"
+    }
+  }
+]

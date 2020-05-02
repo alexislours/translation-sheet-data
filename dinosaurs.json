@@ -1,0 +1,702 @@
+[
+  {
+    "id": "Amber",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "amber",
+      "EUen": "amber",
+      "EUde": "Bernstein",
+      "EUes": "ámbar",
+      "USes": "ámbar",
+      "EUfr": "ambre",
+      "USfr": "ambre",
+      "EUit": "ambra",
+      "EUnl": "barnsteen",
+      "CNzh": "琥珀",
+      "TWzh": "琥珀",
+      "JPja": "コハク",
+      "KRko": "호박",
+      "EUru": "янтарь"
+    }
+  },
+  {
+    "id": "Ammonite",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ammonite",
+      "EUen": "ammonite",
+      "EUde": "Ammonit",
+      "EUes": "amonites",
+      "USes": "amonites",
+      "EUfr": "ammonite",
+      "USfr": "ammonite",
+      "EUit": "ammonite",
+      "EUnl": "ammoniet",
+      "CNzh": "菊石",
+      "TWzh": "菊石",
+      "JPja": "アンモナイト",
+      "KRko": "암모나이트",
+      "EUru": "аммонит"
+    }
+  },
+  {
+    "id": "Ankiro",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ankylosaurus",
+      "EUen": "Ankylosaurus",
+      "EUde": "Ankylosaurus",
+      "EUes": "anquilosaurio",
+      "USes": "anquilosaurio",
+      "EUfr": "ankylosaure",
+      "USfr": "ankylosaure",
+      "EUit": "anchilosauro",
+      "EUnl": "ankylosaurus",
+      "CNzh": "甲龙",
+      "TWzh": "甲龍",
+      "JPja": "アンキロサウルス",
+      "KRko": "안킬로사우루스",
+      "EUru": "Анкилозавр"
+    }
+  },
+  {
+    "id": "Anomalocaris",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "anomalocaris",
+      "EUen": "anomalocaris",
+      "EUde": "Anomalocaris",
+      "EUes": "anomalocaris",
+      "USes": "anomalocaris",
+      "EUfr": "anomalocaris",
+      "USfr": "anomalocaris",
+      "EUit": "anomalocaride",
+      "EUnl": "anomalocaris",
+      "CNzh": "奇虾",
+      "TWzh": "奇蝦",
+      "JPja": "アノマロカリス",
+      "KRko": "아노말로카리스",
+      "EUru": "аномалокарис"
+    }
+  },
+  {
+    "id": "Archelon",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Archelon",
+      "EUen": "Archelon",
+      "EUde": "Archelon",
+      "EUes": "archelon",
+      "USes": "archelon",
+      "EUfr": "archélon",
+      "USfr": "archélon",
+      "EUit": "archelone",
+      "EUnl": "archelon",
+      "CNzh": "帝龟",
+      "TWzh": "帝龜",
+      "JPja": "アーケロン",
+      "KRko": "아르켈론",
+      "EUru": "Архелон"
+    }
+  },
+  {
+    "id": "Archeopteryx",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "archaeopteryx",
+      "EUen": "archaeopteryx",
+      "EUde": "Archaeopteryx",
+      "EUes": "arqueoptérix",
+      "USes": "arqueoptérix",
+      "EUfr": "archéoptéryx",
+      "USfr": "archéoptéryx",
+      "EUit": "archaeopteryx",
+      "EUnl": "archeopteryx",
+      "CNzh": "始祖鸟",
+      "TWzh": "始祖鳥",
+      "JPja": "しそちょう",
+      "KRko": "시조새",
+      "EUru": "археоптерикс"
+    }
+  },
+  {
+    "id": "Australopithecus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "australopith",
+      "EUen": "australopith",
+      "EUde": "Australopithecus",
+      "EUes": "australopiteco",
+      "USes": "australopiteco",
+      "EUfr": "australopithèque",
+      "USfr": "australopithèque",
+      "EUit": "australopiteco",
+      "EUnl": "australopithecus",
+      "CNzh": "南方古猿",
+      "TWzh": "南方古猿",
+      "JPja": "アウストラロピテクス",
+      "KRko": "오스트랄로피테쿠스",
+      "EUru": "австралопитек"
+    }
+  },
+  {
+    "id": "Brachiosaurus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Brachiosaurus",
+      "EUen": "Brachiosaurus",
+      "EUde": "Brachiosaurus",
+      "EUes": "braquiosaurio",
+      "USes": "braquiosaurio",
+      "EUfr": "brachiosaure",
+      "USfr": "brachiosaure",
+      "EUit": "brachiosauro",
+      "EUnl": "brachiosaurus",
+      "CNzh": "腕龙",
+      "TWzh": "腕龍",
+      "JPja": "ブラキオサウルス",
+      "KRko": "브라키오사우루스",
+      "EUru": "Брахиозавр"
+    }
+  },
+  {
+    "id": "Brontotherium",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Megacerops",
+      "EUen": "Megacerops",
+      "EUde": "Megacerops",
+      "EUes": "brontoterio",
+      "USes": "brontoterio",
+      "EUfr": "brontothérium",
+      "USfr": "brontothérium",
+      "EUit": "brontoterio",
+      "EUnl": "brontops",
+      "CNzh": "巨角犀",
+      "TWzh": "巨角犀",
+      "JPja": "メガセロプス",
+      "KRko": "메가케롭스",
+      "EUru": "Бронтотерий"
+    }
+  },
+  {
+    "id": "Deinonychus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Deinonychus",
+      "EUen": "Deinonychus",
+      "EUde": "Deinonychus",
+      "EUes": "deinonico",
+      "USes": "deinonico",
+      "EUfr": "déinonychus",
+      "USfr": "deinonychus",
+      "EUit": "deinonico",
+      "EUnl": "deinonychus",
+      "CNzh": "恐爪龙",
+      "TWzh": "恐爪龍",
+      "JPja": "ディノニクス",
+      "KRko": "데이노니쿠스",
+      "EUru": "Дейноних"
+    }
+  },
+  {
+    "id": "Dimetro",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Dimetrodon",
+      "EUen": "Dimetrodon",
+      "EUde": "Dimetrodon",
+      "EUes": "dimetrodonte",
+      "USes": "dimetrodonte",
+      "EUfr": "dimétrodon",
+      "USfr": "dimétrodon",
+      "EUit": "dimetrodonte",
+      "EUnl": "dimetrodon",
+      "CNzh": "异齿龙",
+      "TWzh": "異齒龍",
+      "JPja": "ディメトロドン",
+      "KRko": "디메트로돈",
+      "EUru": "Диметродон"
+    }
+  },
+  {
+    "id": "Diplodocus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Diplodocus",
+      "EUen": "Diplodocus",
+      "EUde": "Diplodocus",
+      "EUes": "diplodocus",
+      "USes": "diplodocus",
+      "EUfr": "diplodocus",
+      "USfr": "diplodocus",
+      "EUit": "diplodoco",
+      "EUnl": "diplodocus",
+      "CNzh": "梁龙",
+      "TWzh": "梁龍",
+      "JPja": "ディプロドクス",
+      "KRko": "디플로도쿠스",
+      "EUru": "Диплодок"
+    }
+  },
+  {
+    "id": "Droop",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coprolite",
+      "EUen": "coprolite",
+      "EUde": "Koprolith",
+      "EUes": "coprolito",
+      "USes": "coprolito",
+      "EUfr": "coprolithe",
+      "USfr": "coprolithe",
+      "EUit": "coprolito",
+      "EUnl": "coproliet",
+      "CNzh": "粪化石",
+      "TWzh": "糞化石",
+      "JPja": "ウンコのかせき",
+      "KRko": "대변 화석",
+      "EUru": "копролит"
+    }
+  },
+  {
+    "id": "Dunkleosteus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dunkleosteus",
+      "EUen": "dunkleosteus",
+      "EUde": "Dunkleosteus",
+      "EUes": "dunkleosteo",
+      "USes": "dunkleosteo",
+      "EUfr": "dunkléostéus",
+      "USfr": "dunkléostéus",
+      "EUit": "dunkleosteus",
+      "EUnl": "dunkleosteus",
+      "CNzh": "邓氏鱼",
+      "TWzh": "鄧氏魚",
+      "JPja": "ダンクルオステウス",
+      "KRko": "둔클레오스테우스",
+      "EUru": "дунклеостей"
+    }
+  },
+  {
+    "id": "FirstAmphibian",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "eusthenopteron",
+      "EUen": "eusthenopteron",
+      "EUde": "Eusthenopteron",
+      "EUes": "eustenopteron",
+      "USes": "eustenopteron",
+      "EUfr": "eusthénoptéron",
+      "USfr": "eusthénoptéron",
+      "EUit": "eustenottero",
+      "EUnl": "eusthenopteron",
+      "CNzh": "新翼鱼",
+      "TWzh": "新翼魚",
+      "JPja": "ユーステノプテロン",
+      "KRko": "에우스테놉테론",
+      "EUru": "эустеноптерон"
+    }
+  },
+  {
+    "id": "FirstFish",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "myllokunmingia",
+      "EUen": "myllokunmingia",
+      "EUde": "Myllokunmingia",
+      "EUes": "myllokunmingia",
+      "USes": "myllokunmingia",
+      "EUfr": "myllokunmingia",
+      "USfr": "myllokunmingia",
+      "EUit": "myllokunmingia",
+      "EUnl": "myllokunmingia",
+      "CNzh": "丰娇昆明鱼",
+      "TWzh": "豐嬌昆明魚",
+      "JPja": "ミロクンミンギア",
+      "KRko": "밀로쿤밍기아",
+      "EUru": "миллокунмингия"
+    }
+  },
+  {
+    "id": "FirstFourLegs",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "acanthostega",
+      "EUen": "acanthostega",
+      "EUde": "Acanthostega",
+      "EUes": "acantostega",
+      "USes": "acantostega",
+      "EUfr": "acanthostéga",
+      "USfr": "acanthostéga",
+      "EUit": "acantostega",
+      "EUnl": "acanthostega",
+      "CNzh": "棘螈",
+      "TWzh": "棘螈",
+      "JPja": "アカントステガ",
+      "KRko": "아칸토스테가",
+      "EUru": "акантостега"
+    }
+  },
+  {
+    "id": "FirstMammal",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "juramaia",
+      "EUen": "juramaia",
+      "EUde": "Juramaia",
+      "EUes": "juramaia",
+      "USes": "juramaia",
+      "EUfr": "juramaia",
+      "USfr": "juramaia",
+      "EUit": "juramaia",
+      "EUnl": "juramaia",
+      "CNzh": "侏罗兽",
+      "TWzh": "侏羅獸",
+      "JPja": "ジュラマイア",
+      "KRko": "쥐라마이아",
+      "EUru": "юрамайя"
+    }
+  },
+  {
+    "id": "FootPrint",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dinosaur track",
+      "EUen": "dinosaur track",
+      "EUde": "Dino-Fußabdruck",
+      "EUes": "huella de dinosaurio",
+      "USes": "huella de dinosaurio",
+      "EUfr": "empreinte de dinosaure",
+      "USfr": "empreinte de dinosaure",
+      "EUit": "orma dinosauro",
+      "EUnl": "fossiele pootafdruk",
+      "CNzh": "恐龙脚印化石",
+      "TWzh": "恐龍腳印化石",
+      "JPja": "あしあとのかせき",
+      "KRko": "발자국 화석",
+      "EUru": "след динозавра"
+    }
+  },
+  {
+    "id": "Futaba",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Plesiosaurus",
+      "EUen": "Plesiosaurus",
+      "EUde": "Plesiosaurus",
+      "EUes": "plesiosaurio",
+      "USes": "plesiosaurio",
+      "EUfr": "plésiosaure",
+      "USfr": "plésiosaure",
+      "EUit": "plesiosauro",
+      "EUnl": "plesiosaurus",
+      "CNzh": "双叶铃木龙",
+      "TWzh": "雙葉鈴木龍",
+      "JPja": "フタバサウルス",
+      "KRko": "후타바사우루스",
+      "EUru": "Плезиозавр"
+    }
+  },
+  {
+    "id": "Iguanodon",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Iguanodon",
+      "EUen": "Iguanodon",
+      "EUde": "Iguanodon",
+      "EUes": "iguanodonte",
+      "USes": "iguanodonte",
+      "EUfr": "iguanodon",
+      "USfr": "iguanodon",
+      "EUit": "iguanodonte",
+      "EUnl": "iguanodon",
+      "CNzh": "禽龙",
+      "TWzh": "禽龍",
+      "JPja": "イグアノドン",
+      "KRko": "이구아노돈",
+      "EUru": "Игуанодон"
+    }
+  },
+  {
+    "id": "Mammoth",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mammoth",
+      "EUen": "Mammoth",
+      "EUde": "Mammut",
+      "EUes": "mamut",
+      "USes": "mamut",
+      "EUfr": "mammouth",
+      "USfr": "mammouth",
+      "EUit": "mammut",
+      "EUnl": "mammoet",
+      "CNzh": "长毛象",
+      "TWzh": "長毛象",
+      "JPja": "マンモス",
+      "KRko": "매머드",
+      "EUru": "Мамонт"
+    }
+  },
+  {
+    "id": "Megaloceros",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Megaloceros",
+      "EUen": "Megaloceros",
+      "EUde": "Riesenhirsch",
+      "EUes": "megaloceros",
+      "USes": "megaloceros",
+      "EUfr": "mégacéros",
+      "USfr": "mégacéros",
+      "EUit": "megalocero",
+      "EUnl": "reuzenhert",
+      "CNzh": "大角鹿",
+      "TWzh": "大角鹿",
+      "JPja": "メガロケロス",
+      "KRko": "메갈로케로스",
+      "EUru": "Гигантский олень"
+    }
+  },
+  {
+    "id": "Ophthalmosaurus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ophthalmosaurus",
+      "EUen": "Ophthalmosaurus",
+      "EUde": "Ophthalmosaurus",
+      "EUes": "oftalmosaurio",
+      "USes": "oftalmosaurio",
+      "EUfr": "ophtalmosaure",
+      "USfr": "ophtalmosaure",
+      "EUit": "oftalmosauro",
+      "EUnl": "ophthalmosaurus",
+      "CNzh": "大眼鱼龙",
+      "TWzh": "大眼魚龍",
+      "JPja": "オフタルモサウルス",
+      "KRko": "오프탈모사우루스",
+      "EUru": "Офтальмозавр"
+    }
+  },
+  {
+    "id": "Pachy",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pachycephalosaurus",
+      "EUen": "Pachycephalosaurus",
+      "EUde": "Pachycephalosaurus",
+      "EUes": "paquicefalosaurio",
+      "USes": "paquicefalosaurio",
+      "EUfr": "pachycéphalosaure",
+      "USfr": "pachycéphalosaure",
+      "EUit": "pachicefalosauro",
+      "EUnl": "pachycephalosaurus",
+      "CNzh": "厚头龙",
+      "TWzh": "厚頭龍",
+      "JPja": "パキケファロサウルス",
+      "KRko": "파키케팔로사우루스",
+      "EUru": "Пахицефалозавр"
+    }
+  },
+  {
+    "id": "Parasauro",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Parasaurolophus",
+      "EUen": "Parasaurolophus",
+      "EUde": "Parasaurolophus",
+      "EUes": "parasaurio",
+      "USes": "parasaurio",
+      "EUfr": "parasaurolophus",
+      "USfr": "parasaurolophus",
+      "EUit": "parasauro",
+      "EUnl": "parasaurolophus",
+      "CNzh": "副栉龙",
+      "TWzh": "副櫛龍",
+      "JPja": "パラサウロロフス",
+      "KRko": "파라사우롤로푸스",
+      "EUru": "Паразауролоф"
+    }
+  },
+  {
+    "id": "Pterano",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pteranodon",
+      "EUen": "Pteranodon",
+      "EUde": "Pteranodon",
+      "EUes": "pteranodonte",
+      "USes": "pteranodonte",
+      "EUfr": "ptéranodon",
+      "USfr": "ptéranodon",
+      "EUit": "pteranodonte",
+      "EUnl": "pteranodon",
+      "CNzh": "无齿翼龙",
+      "TWzh": "無齒翼龍",
+      "JPja": "プテラノドン",
+      "KRko": "프테라노돈",
+      "EUru": "Птеранодон"
+    }
+  },
+  {
+    "id": "Quetzalcoatlus",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Quetzalcoatlus",
+      "EUen": "Quetzalcoatlus",
+      "EUde": "Quetzalcoatlus",
+      "EUes": "quetzalcoatlus",
+      "USes": "quetzalcoatlus",
+      "EUfr": "quetzalcoatlus",
+      "USfr": "quetzalcoatlus",
+      "EUit": "quetzalcoatlus",
+      "EUnl": "quetzalcoatlus",
+      "CNzh": "风神翼龙",
+      "TWzh": "風神翼龍",
+      "JPja": "ケツァルコアトルス",
+      "KRko": "케찰코아틀루스",
+      "EUru": "Кетцалькоатль"
+    }
+  },
+  {
+    "id": "Shark",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shark-tooth pattern",
+      "EUen": "shark-tooth pattern",
+      "EUde": "Haizahnspirale",
+      "EUes": "mandíbula de tiburón",
+      "USes": "mandíbula de tiburón",
+      "EUfr": "mandibule d'hélicoprion",
+      "USfr": "mandibule d'hélicoprion",
+      "EUit": "mandibola di elicoprione",
+      "EUnl": "haaientandkrans",
+      "CNzh": "鲨鱼牙齿化石",
+      "TWzh": "鯊魚牙齒化石",
+      "JPja": "サメのはのかせき",
+      "KRko": "상어 이빨 화석",
+      "EUru": "зубы ископаемой акулы"
+    }
+  },
+  {
+    "id": "Smilodon",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sabertooth Tiger",
+      "EUen": "Sabertooth Tiger",
+      "EUde": "Säbelzahntiger",
+      "EUes": "tigre dientes de sable",
+      "USes": "tigre dientes de sable",
+      "EUfr": "smilodon",
+      "USfr": "smilodon",
+      "EUit": "smilodonte",
+      "EUnl": "sabeltandtijger",
+      "CNzh": "剑齿虎",
+      "TWzh": "劍齒虎",
+      "JPja": "スミロドン",
+      "KRko": "스밀로돈",
+      "EUru": "Смилодон"
+    }
+  },
+  {
+    "id": "Spino",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Spinosaurus",
+      "EUen": "Spinosaurus",
+      "EUde": "Spinosaurus",
+      "EUes": "espinosaurio",
+      "USes": "espinosaurio",
+      "EUfr": "spinosaure",
+      "USfr": "spinosaure",
+      "EUit": "spinosauro",
+      "EUnl": "spinosaurus",
+      "CNzh": "棘龙",
+      "TWzh": "棘龍",
+      "JPja": "スピノサウルス",
+      "KRko": "스피노사우루스",
+      "EUru": "Спинозавр"
+    }
+  },
+  {
+    "id": "Stego",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Stegosaurus",
+      "EUen": "Stegosaurus",
+      "EUde": "Stegosaurus",
+      "EUes": "estegosaurio",
+      "USes": "estegosaurio",
+      "EUfr": "stégosaure",
+      "USfr": "stégosaure",
+      "EUit": "stegosauro",
+      "EUnl": "stegosaurus",
+      "CNzh": "剑龙",
+      "TWzh": "劍龍",
+      "JPja": "ステゴサウルス",
+      "KRko": "스테고사우루스",
+      "EUru": "Стегозавр"
+    }
+  },
+  {
+    "id": "Trex",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "T. Rex",
+      "EUen": "T. Rex",
+      "EUde": "Tyrannosaurus Rex",
+      "EUes": "tiranosaurio",
+      "USes": "tiranosaurio",
+      "EUfr": "tyrannosaure",
+      "USfr": "tyrannosaure",
+      "EUit": "tirannosauro",
+      "EUnl": "tyrannosaurus rex",
+      "CNzh": "暴龙",
+      "TWzh": "暴龍",
+      "JPja": "Tレックス",
+      "KRko": "티렉스",
+      "EUru": "Тираннозавр"
+    }
+  },
+  {
+    "id": "Tricera",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Triceratops",
+      "EUen": "Triceratops",
+      "EUde": "Triceratops",
+      "EUes": "triceratops",
+      "USes": "triceratops",
+      "EUfr": "tricératops",
+      "USfr": "tricératops",
+      "EUit": "triceratopo",
+      "EUnl": "triceratops",
+      "CNzh": "三角龙",
+      "TWzh": "三角龍",
+      "JPja": "トリケラトプス",
+      "KRko": "트리케라톱스",
+      "EUru": "Трицератопс"
+    }
+  },
+  {
+    "id": "Trilobite",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "trilobite",
+      "EUen": "trilobite",
+      "EUde": "Trilobit",
+      "EUes": "trilobites",
+      "USes": "trilobites",
+      "EUfr": "trilobite",
+      "USfr": "trilobite",
+      "EUit": "trilobite",
+      "EUnl": "trilobiet",
+      "CNzh": "三叶虫",
+      "TWzh": "三葉蟲",
+      "JPja": "さんようちゅう",
+      "KRko": "삼엽충",
+      "EUru": "трилобит"
+    }
+  }
+]

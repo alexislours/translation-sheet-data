@@ -1,0 +1,821 @@
+[
+  {
+    "id": "BdayCupcake_02779",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "birthday cupcake",
+      "EUen": "birthday cupcake",
+      "EUde": "Geburtstags-Cupcake",
+      "EUes": "pastelito de cumpleaños",
+      "USes": "pastelito de cumpleaños",
+      "EUfr": "cupcake d'anniversaire",
+      "USfr": "cupcake de fête",
+      "EUit": "cupcake di compleanno",
+      "EUnl": "verjaardagscupcake",
+      "CNzh": "生日纸杯蛋糕",
+      "TWzh": "生日紙杯蛋糕",
+      "JPja": "バースデーカップケーキ",
+      "KRko": "생일 컵케이크",
+      "EUru": "именинный кекс"
+    }
+  },
+  {
+    "id": "BdayCupcake_02779_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "birthday cupcakes",
+      "EUen": "birthday cupcakes",
+      "EUde": "Geburtstags-Cupcakes",
+      "EUes": "pastelitos de cumpleaños",
+      "USes": "pastelitos de cumpleaños",
+      "EUfr": "cupcakes d'anniversaire",
+      "USfr": "cupcakes de fête",
+      "EUit": "cupcake di compleanno",
+      "EUnl": "verjaardagscupcakes",
+      "CNzh": "生日纸杯蛋糕",
+      "TWzh": "生日紙杯蛋糕",
+      "JPja": "バースデーカップケーキ",
+      "KRko": "생일 컵케이크",
+      "EUru": "именинные кексы"
+    }
+  },
+  {
+    "id": "EasterEgg_12509",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "earth egg",
+      "EUen": "earth egg",
+      "EUde": "Erd-Glücksei",
+      "EUes": "huevo terrestre",
+      "USes": "huevo terrestre",
+      "EUfr": "œuf terrestre",
+      "USfr": "œuf terrestre",
+      "EUit": "uovo terrestre",
+      "EUnl": "aarde-ei",
+      "CNzh": "地面蛋",
+      "TWzh": "地面蛋",
+      "JPja": "じめんのたまご",
+      "KRko": "땅 달걀",
+      "EUru": "земляное яйцо"
+    }
+  },
+  {
+    "id": "EasterEgg_12509_pl",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "earth eggs",
+      "EUen": "earth eggs",
+      "EUde": "Erd-Glückseier",
+      "EUes": "huevos terrestres",
+      "USes": "huevos terrestres",
+      "EUfr": "œufs terrestres",
+      "USfr": "œufs terrestres",
+      "EUit": "uova terrestri",
+      "EUnl": "aarde-eieren",
+      "CNzh": "地面蛋",
+      "TWzh": "地面蛋",
+      "JPja": "じめんのたまご",
+      "KRko": "땅 달걀",
+      "EUru": "земляные яйца"
+    }
+  },
+  {
+    "id": "EasterEgg_12510",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "stone egg",
+      "EUen": "stone egg",
+      "EUde": "Fels-Glücksei",
+      "EUes": "huevo rupestre",
+      "USes": "huevo rupestre",
+      "EUfr": "œuf minéral",
+      "USfr": "œuf minéral",
+      "EUit": "uovo roccioso",
+      "EUnl": "steenei",
+      "CNzh": "岩石蛋",
+      "TWzh": "岩石蛋",
+      "JPja": "いわのたまご",
+      "KRko": "바위 달걀",
+      "EUru": "каменное яйцо"
+    }
+  },
+  {
+    "id": "EasterEgg_12510_pl",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "stone eggs",
+      "EUen": "stone eggs",
+      "EUde": "Fels-Glückseier",
+      "EUes": "huevos rupestres",
+      "USes": "huevos rupestres",
+      "EUfr": "œufs minéraux",
+      "USfr": "œufs minéraux",
+      "EUit": "uova rocciose",
+      "EUnl": "steeneieren",
+      "CNzh": "岩石蛋",
+      "TWzh": "岩石蛋",
+      "JPja": "いわのたまご",
+      "KRko": "바위 달걀",
+      "EUru": "каменные яйца"
+    }
+  },
+  {
+    "id": "EasterEgg_12511",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "leaf egg",
+      "EUen": "leaf egg",
+      "EUde": "Laub-Glücksei",
+      "EUes": "huevo boscoso",
+      "USes": "huevo boscoso",
+      "EUfr": "œuf feuillu",
+      "USfr": "œuf feuillu",
+      "EUit": "uovo frondoso",
+      "EUnl": "bladei",
+      "CNzh": "叶子蛋",
+      "TWzh": "葉子蛋",
+      "JPja": "はっぱのたまご",
+      "KRko": "나뭇잎 달걀",
+      "EUru": "лиственное яйцо"
+    }
+  },
+  {
+    "id": "EasterEgg_12511_pl",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "leaf eggs",
+      "EUen": "leaf eggs",
+      "EUde": "Laub-Glückseier",
+      "EUes": "huevos boscosos",
+      "USes": "huevos boscosos",
+      "EUfr": "œufs feuillus",
+      "USfr": "œufs feuillus",
+      "EUit": "uova frondose",
+      "EUnl": "bladeieren",
+      "CNzh": "叶子蛋",
+      "TWzh": "葉子蛋",
+      "JPja": "はっぱのたまご",
+      "KRko": "나뭇잎 달걀",
+      "EUru": "лиственные яйца"
+    }
+  },
+  {
+    "id": "EasterEgg_12512",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "wood egg",
+      "EUen": "wood egg",
+      "EUde": "Holz-Glücksei",
+      "EUes": "huevo leñoso",
+      "USes": "huevo leñoso",
+      "EUfr": "œuf boisé",
+      "USfr": "œuf boisé",
+      "EUit": "uovo boscoso",
+      "EUnl": "houtei",
+      "CNzh": "森林蛋",
+      "TWzh": "森林蛋",
+      "JPja": "ウッディなたまご",
+      "KRko": "나무 달걀",
+      "EUru": "лесное яйцо"
+    }
+  },
+  {
+    "id": "EasterEgg_12512_pl",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "wood eggs",
+      "EUen": "wood eggs",
+      "EUde": "Holz-Glückseier",
+      "EUes": "huevos leñosos",
+      "USes": "huevos leñosos",
+      "EUfr": "œufs boisés",
+      "USfr": "œufs boisés",
+      "EUit": "uova boscose",
+      "EUnl": "houteieren",
+      "CNzh": "森林蛋",
+      "TWzh": "森林蛋",
+      "JPja": "ウッディなたまご",
+      "KRko": "나무 달걀",
+      "EUru": "лесные яйца"
+    }
+  },
+  {
+    "id": "EasterEgg_12513",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "sky egg",
+      "EUen": "sky egg",
+      "EUde": "Luft-Glücksei",
+      "EUes": "huevo celeste",
+      "USes": "huevo celeste",
+      "EUfr": "œuf aérien",
+      "USfr": "œuf aérien",
+      "EUit": "uovo celeste",
+      "EUnl": "luchtei",
+      "CNzh": "飞天蛋",
+      "TWzh": "飛天蛋",
+      "JPja": "そらとぶたまご",
+      "KRko": "하늘을 나는 달걀",
+      "EUru": "небесное яйцо"
+    }
+  },
+  {
+    "id": "EasterEgg_12513_pl",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "sky eggs",
+      "EUen": "sky eggs",
+      "EUde": "Luft-Glückseier",
+      "EUes": "huevos celestes",
+      "USes": "huevos celestes",
+      "EUfr": "œufs aériens",
+      "USfr": "œufs aériens",
+      "EUit": "uova celesti",
+      "EUnl": "luchteieren",
+      "CNzh": "飞天蛋",
+      "TWzh": "飛天蛋",
+      "JPja": "そらとぶたまご",
+      "KRko": "하늘을 나는 달걀",
+      "EUru": "небесные яйца"
+    }
+  },
+  {
+    "id": "EasterEgg_12514",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "water egg",
+      "EUen": "water egg",
+      "EUde": "Wasser-Glücksei",
+      "EUes": "huevo acuático",
+      "USes": "huevo acuático",
+      "EUfr": "œuf aquatique",
+      "USfr": "œuf aquatique",
+      "EUit": "uovo acquatico",
+      "EUnl": "waterei",
+      "CNzh": "鱼儿蛋",
+      "TWzh": "魚兒蛋",
+      "JPja": "サカナのたまご",
+      "KRko": "물고기 달걀",
+      "EUru": "водяное яйцо"
+    }
+  },
+  {
+    "id": "EasterEgg_12514_pl",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "water eggs",
+      "EUen": "water eggs",
+      "EUde": "Wasser-Glückseier",
+      "EUes": "huevos acuáticos",
+      "USes": "huevos acuáticos",
+      "EUfr": "œufs aquatiques",
+      "USfr": "œufs aquatiques",
+      "EUit": "uova acquatiche",
+      "EUnl": "watereieren",
+      "CNzh": "鱼儿蛋",
+      "TWzh": "魚兒蛋",
+      "JPja": "サカナのたまご",
+      "KRko": "물고기 달걀",
+      "EUru": "водяные яйца"
+    }
+  },
+  {
+    "id": "JohnnyQuest_02381",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "communicator part",
+      "EUen": "communicator part",
+      "EUde": "Fernsprecher-Teil",
+      "EUes": "pieza del comunicador",
+      "USes": "pieza del comunicador",
+      "EUfr": "circuit d'émetteur",
+      "USfr": "circuit d'émetteur",
+      "EUit": "pezzo del comunicatore",
+      "EUnl": "marifoon-onderdeel",
+      "CNzh": "通信装置零件",
+      "TWzh": "通訊裝置零件",
+      "JPja": "つうしんそうちのパーツ",
+      "KRko": "통신 장치 부품",
+      "EUru": "деталь коммуникатора"
+    }
+  },
+  {
+    "id": "JohnnyQuest_02381_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "communicator parts",
+      "EUen": "communicator parts",
+      "EUde": "Fernsprecher-Teile",
+      "EUes": "piezas del comunicador",
+      "USes": "piezas del comunicador",
+      "EUfr": "circuits d'émetteur",
+      "USfr": "circuits d'émetteur",
+      "EUit": "pezzi del comunicatore",
+      "EUnl": "marifoon-onderdelen",
+      "CNzh": "通信装置零件",
+      "TWzh": "通訊裝置零件",
+      "JPja": "つうしんそうちのパーツ",
+      "KRko": "통신 장치 부품",
+      "EUru": "детали коммуникатора"
+    }
+  },
+  {
+    "id": "JohnnyQuestDust_02389",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rusted part",
+      "EUen": "rusted part",
+      "EUde": "Rost-Bauteil",
+      "EUes": "pieza oxidada",
+      "USes": "pieza oxidada",
+      "EUfr": "circuit rouillé",
+      "USfr": "circuit rouillé",
+      "EUit": "componente arrugginito",
+      "EUnl": "roestig onderdeel",
+      "CNzh": "生锈零件",
+      "TWzh": "生鏽零件",
+      "JPja": "さびたパーツ",
+      "KRko": "녹슨 부품",
+      "EUru": "ржавая деталь"
+    }
+  },
+  {
+    "id": "JohnnyQuestDust_02389_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rusted parts",
+      "EUen": "rusted parts",
+      "EUde": "Rost-Bauteile",
+      "EUes": "piezas oxidadas",
+      "USes": "piezas oxidadas",
+      "EUfr": "circuits rouillés",
+      "USfr": "circuits rouillés",
+      "EUit": "componenti arrugginiti",
+      "EUnl": "roestige onderdelen",
+      "CNzh": "生锈零件",
+      "TWzh": "生鏽零件",
+      "JPja": "さびたパーツ",
+      "KRko": "녹슨 부품",
+      "EUru": "ржавые детали"
+    }
+  },
+  {
+    "id": "LostQuest_02374",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lost item",
+      "EUen": "lost item",
+      "EUde": "Fundsache",
+      "EUes": "objeto perdido",
+      "USes": "objeto perdido",
+      "EUfr": "objet perdu",
+      "USfr": "objet perdu",
+      "EUit": "oggetto smarrito",
+      "EUnl": "verloren voorwerp",
+      "CNzh": "遗失物",
+      "TWzh": "遺失物品",
+      "JPja": "おとしもの",
+      "KRko": "분실물",
+      "EUru": "потерянный предмет"
+    }
+  },
+  {
+    "id": "LostQuest_02375",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lost item",
+      "EUen": "lost item",
+      "EUde": "Fundsache",
+      "EUes": "objeto perdido",
+      "USes": "objeto perdido",
+      "EUfr": "objet perdu",
+      "USfr": "objet perdu",
+      "EUit": "oggetto smarrito",
+      "EUnl": "verloren voorwerp",
+      "CNzh": "遗失物",
+      "TWzh": "遺失物品",
+      "JPja": "おとしもの",
+      "KRko": "분실물",
+      "EUru": "потерянный предмет"
+    }
+  },
+  {
+    "id": "LostQuest_05426",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lost item",
+      "EUen": "lost item",
+      "EUde": "Fundsache",
+      "EUes": "objeto perdido",
+      "USes": "objeto perdido",
+      "EUfr": "objet perdu",
+      "USfr": "objet perdu",
+      "EUit": "oggetto smarrito",
+      "EUnl": "verloren voorwerp",
+      "CNzh": "遗失物",
+      "TWzh": "遺失物品",
+      "JPja": "おとしもの",
+      "KRko": "분실물",
+      "EUru": "потерянный предмет"
+    }
+  },
+  {
+    "id": "LostQuestDust_04642",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "What was this again?",
+      "EUen": "What was this again?",
+      "EUde": "Was war das...?",
+      "EUes": "¿Esto qué era?",
+      "USes": "¿Qué era esto?",
+      "EUfr": "C'est quoi, déjà ?",
+      "USfr": "C'est quoi, déjà?",
+      "EUit": "Aspetta, cos'era questo?",
+      "EUnl": "Wat was dit ook alweer?",
+      "CNzh": "这是什么来着？",
+      "TWzh": "這是什麼來著？",
+      "JPja": "なんだっけ？",
+      "KRko": "뭐였더라?",
+      "EUru": "Что это такое?"
+    }
+  },
+  {
+    "id": "LostQuestDust_04643",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "What was this again?",
+      "EUen": "What was this again?",
+      "EUde": "Was war das...?",
+      "EUes": "¿Esto qué era?",
+      "USes": "¿Qué era esto?",
+      "EUfr": "C'est quoi, déjà ?",
+      "USfr": "C'est quoi, déjà?",
+      "EUit": "Aspetta, cos'era questo?",
+      "EUnl": "Wat was dit ook alweer?",
+      "CNzh": "这是什么来着？",
+      "TWzh": "這是什麼來著？",
+      "JPja": "なんだっけ？",
+      "KRko": "뭐였더라?",
+      "EUru": "Что это такое?"
+    }
+  },
+  {
+    "id": "LostQuestDust_05427",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "What was this again?",
+      "EUen": "What was this again?",
+      "EUde": "Was war das...?",
+      "EUes": "¿Esto qué era?",
+      "USes": "¿Qué era esto?",
+      "EUfr": "C'est quoi, déjà ?",
+      "USfr": "C'est quoi, déjà?",
+      "EUit": "Aspetta, cos'era questo?",
+      "EUnl": "Wat was dit ook alweer?",
+      "CNzh": "这是什么来着？",
+      "TWzh": "這是什麼來著？",
+      "JPja": "なんだっけ？",
+      "KRko": "뭐였더라?",
+      "EUru": "Что это такое?"
+    }
+  },
+  {
+    "id": "LoveCrystal_12546",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "heart crystal",
+      "EUen": "heart crystal",
+      "EUde": "Liebeskristall",
+      "EUes": "joya amorosa",
+      "USes": "joya amorosa",
+      "EUfr": "cristal d'amour",
+      "USfr": "cristal d'amour",
+      "EUit": "gemma dell'amore",
+      "EUnl": "hartkristal",
+      "CNzh": "爱的结晶",
+      "TWzh": "愛的結晶",
+      "JPja": "あいのけっしょう",
+      "KRko": "사랑의 결정",
+      "EUru": "кристалл-сердце"
+    }
+  },
+  {
+    "id": "LoveCrystal_12546_pl",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "heart crystals",
+      "EUen": "heart crystals",
+      "EUde": "Liebeskristalle",
+      "EUes": "joyas amorosas",
+      "USes": "joyas amorosas",
+      "EUfr": "cristaux d'amour",
+      "USfr": "cristaux d'amour",
+      "EUit": "gemme dell'amore",
+      "EUnl": "hartkristallen",
+      "CNzh": "爱的结晶",
+      "TWzh": "愛的結晶",
+      "JPja": "あいのけっしょう",
+      "KRko": "사랑의 결정",
+      "EUru": "кристаллы-сердца"
+    }
+  },
+  {
+    "id": "RollanTicket_09261",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Saharah Ticket",
+      "EUen": "Saharah Ticket",
+      "EUde": "Aziza-Coupon",
+      "EUes": "cupón de Alcatifa",
+      "USes": "cupón de Alcatifa",
+      "EUfr": "ticket Sarah",
+      "USfr": "ticket Sarah",
+      "EUit": "coupon di Sahara",
+      "EUnl": "Saharah-kaartje",
+      "CNzh": "骆岚兑换券",
+      "TWzh": "駱嵐兌換券",
+      "JPja": "ローランのひきかえけん",
+      "KRko": "사하라 교환권",
+      "EUru": "ваучер Сахары"
+    }
+  },
+  {
+    "id": "RollanTicket_09261_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Saharah Tickets",
+      "EUen": "Saharah Tickets",
+      "EUde": "Aziza-Coupons",
+      "EUes": "cupones de Alcatifa",
+      "USes": "cupones de Alcatifa",
+      "EUfr": "tickets Sarah",
+      "USfr": "tickets Sarah",
+      "EUit": "coupon di Sahara",
+      "EUnl": "Saharah-kaartjes",
+      "CNzh": "骆岚兑换券",
+      "TWzh": "駱嵐兌換券",
+      "JPja": "ローランのひきかえけん",
+      "KRko": "사하라 교환권",
+      "EUru": "ваучеры Сахары"
+    }
+  },
+  {
+    "id": "SequenceOnly_03076",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "じぶんのスマホ",
+      "EUen": "じぶんのスマホ",
+      "EUde": "じぶんのスマホ",
+      "EUes": "じぶんのスマホ",
+      "USes": "じぶんのスマホ",
+      "EUfr": "じぶんのスマホ",
+      "USfr": "じぶんのスマホ",
+      "EUit": "じぶんのスマホ",
+      "EUnl": "じぶんのスマホ",
+      "CNzh": "じぶんのスマホ",
+      "TWzh": "じぶんのスマホ",
+      "JPja": "じぶんのスマホ",
+      "KRko": "じぶんのスマホ",
+      "EUru": "じぶんのスマホ"
+    }
+  },
+  {
+    "id": "SequenceOnly_03077",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "メモ",
+      "EUen": "メモ",
+      "EUde": "メモ",
+      "EUes": "メモ",
+      "USes": "メモ",
+      "EUfr": "メモ",
+      "USfr": "メモ",
+      "EUit": "メモ",
+      "EUnl": "メモ",
+      "CNzh": "メモ",
+      "TWzh": "メモ",
+      "JPja": "メモ",
+      "KRko": "メモ",
+      "EUru": "メモ"
+    }
+  },
+  {
+    "id": "SequenceOnly_06058",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ちず",
+      "EUen": "ちず",
+      "EUde": "ちず",
+      "EUes": "ちず",
+      "USes": "ちず",
+      "EUfr": "ちず",
+      "USfr": "ちず",
+      "EUit": "ちず",
+      "EUnl": "ちず",
+      "CNzh": "ちず",
+      "TWzh": "ちず",
+      "JPja": "ちず",
+      "KRko": "ちず",
+      "EUru": "ちず"
+    }
+  },
+  {
+    "id": "SequenceOnly_06895",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "",
+      "EUen": "",
+      "EUde": "",
+      "EUes": "",
+      "USes": "",
+      "EUfr": "",
+      "USfr": "",
+      "EUit": "",
+      "EUnl": "",
+      "CNzh": "",
+      "TWzh": "",
+      "JPja": "",
+      "KRko": ""
+    }
+  },
+  {
+    "id": "SequenceOnly_06896",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ー",
+      "EUen": "ー",
+      "EUde": "ー",
+      "EUes": "ー",
+      "USes": "ー",
+      "EUfr": "ー",
+      "USfr": "ー",
+      "EUit": "ー",
+      "EUnl": "ー",
+      "CNzh": "ー",
+      "TWzh": "ー",
+      "JPja": "ー",
+      "KRko": "－",
+      "EUru": "ー"
+    }
+  },
+  {
+    "id": "SequenceOnly_09283",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "汎用布地",
+      "EUen": "汎用布地",
+      "EUde": "汎用布地",
+      "EUes": "汎用布地",
+      "USes": "汎用布地",
+      "EUfr": "汎用布地",
+      "USfr": "汎用布地",
+      "EUit": "汎用布地",
+      "EUnl": "汎用布地",
+      "CNzh": "汎用布地",
+      "TWzh": "汎用布地",
+      "JPja": "汎用布地",
+      "KRko": "汎用布地",
+      "EUru": "汎用布地"
+    }
+  },
+  {
+    "id": "SequenceOnly_12212",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "デモ用たぬきマイルカード",
+      "EUen": "デモ用たぬきマイルカード",
+      "EUde": "デモ用たぬきマイルカード",
+      "EUes": "デモ用たぬきマイルカード",
+      "USes": "デモ用たぬきマイルカード",
+      "EUfr": "デモ用たぬきマイルカード",
+      "USfr": "デモ用たぬきマイルカード",
+      "EUit": "デモ用たぬきマイルカード",
+      "EUnl": "デモ用たぬきマイルカード",
+      "CNzh": "デモ用たぬきマイルカード",
+      "TWzh": "デモ用たぬきマイルカード",
+      "JPja": "デモ用たぬきマイルカード",
+      "KRko": "デモ用たぬきマイルカード",
+      "EUru": "デモ用たぬきマイルカード"
+    }
+  },
+  {
+    "id": "TailorTicket_05932",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tailors ticket",
+      "EUen": "tailors ticket",
+      "EUde": "Schneiderei-Coupon",
+      "EUes": "cupón de la sastrería",
+      "USes": "cupón del atelier",
+      "EUfr": "ticket atelier de couture",
+      "USfr": "ticket atelier de couture",
+      "EUit": "coupon della sartoria",
+      "EUnl": "kleermakersbon",
+      "CNzh": "裁缝屋优惠券",
+      "TWzh": "裁縫屋優惠券",
+      "JPja": "したてやクーポン",
+      "KRko": "옷가게 쿠폰",
+      "EUru": "талон в ателье"
+    }
+  },
+  {
+    "id": "TailorTicket_05932_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tailors tickets",
+      "EUen": "tailors tickets",
+      "EUde": "Schneiderei-Coupons",
+      "EUes": "cupones de la sastrería",
+      "USes": "cupones del atelier",
+      "EUfr": "tickets atelier de couture",
+      "USfr": "tickets atelier de couture",
+      "EUit": "coupon della sartoria",
+      "EUnl": "kleermakersbonnen",
+      "CNzh": "裁缝屋优惠券",
+      "TWzh": "裁縫屋優惠券",
+      "JPja": "したてやクーポン",
+      "KRko": "옷가게 쿠폰",
+      "EUru": "талоны в ателье"
+    }
+  },
+  {
+    "id": "TreasureQuest_02545",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "treasure",
+      "EUen": "treasure",
+      "EUde": "Schatz",
+      "EUes": "tesoro",
+      "USes": "tesoro",
+      "EUfr": "trésor",
+      "USfr": "trésor",
+      "EUit": "tesoro",
+      "EUnl": "schat",
+      "CNzh": "宝物",
+      "TWzh": "寶物",
+      "JPja": "たからもの",
+      "KRko": "보물",
+      "EUru": "сокровище"
+    }
+  },
+  {
+    "id": "TreasureQuestDust_02546",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "What was this again?",
+      "EUen": "What was this again?",
+      "EUde": "Was war das...?",
+      "EUes": "¿Esto qué era?",
+      "USes": "¿Qué era esto?",
+      "EUfr": "C'est quoi, déjà ?",
+      "USfr": "C'est quoi, déjà?",
+      "EUit": "Aspetta, cos'era questo?",
+      "EUnl": "Wat was dit ook alweer?",
+      "CNzh": "这是什么来着？",
+      "TWzh": "這是什麼來著？",
+      "JPja": "なんだっけ？",
+      "KRko": "뭐였지?",
+      "EUru": "Что это было такое?"
+    }
+  },
+  {
+    "id": "YutaroWisp_04702",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wisp spirit piece",
+      "EUen": "Wisp spirit piece",
+      "EUde": "Buhu-Seelenfragment",
+      "EUes": "voluta de Buh",
+      "USes": "voluta de Buh",
+      "EUfr": "fragment d'esprit de Follet",
+      "USfr": "fragment d'esprit de Follet",
+      "EUit": "pezzo spirituale di Spirideo",
+      "EUnl": "flard van Wisps geest",
+      "CNzh": "幽幽的魂魄",
+      "TWzh": "幽幽的靈魂",
+      "JPja": "ゆうたろうのたましい",
+      "KRko": "깨빈의 영혼",
+      "EUru": "частица духа Уиспа"
+    }
+  },
+  {
+    "id": "YutaroWisp_04702_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wisp spirit pieces",
+      "EUen": "Wisp spirit pieces",
+      "EUde": "Buhu-Seelenfragmente",
+      "EUes": "volutas de Buh",
+      "USes": "volutas de Buh",
+      "EUfr": "fragments d'esprit de Follet",
+      "USfr": "fragments d'esprit de Follet",
+      "EUit": "pezzi spirituali di Spirideo",
+      "EUnl": "flarden van Wisps geest",
+      "CNzh": "幽幽的魂魄",
+      "TWzh": "幽幽的靈魂",
+      "JPja": "ゆうたろうのたましい",
+      "KRko": "깨빈의 영혼",
+      "EUru": "частицы духа Уиспа"
+    }
+  }
+]

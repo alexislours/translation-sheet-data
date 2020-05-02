@@ -1,0 +1,342 @@
+[
+  {
+    "id": "ShellDrift_01374",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea snail",
+      "EUen": "sea snail",
+      "EUde": "Kreiselschnecke",
+      "EUes": "caracol de mar",
+      "USes": "caracol de mar",
+      "EUfr": "escargot de mer",
+      "USfr": "escargot de mer",
+      "EUit": "lumaca di mare",
+      "EUnl": "zeeslak",
+      "CNzh": "钟螺壳",
+      "TWzh": "鐘螺殼",
+      "JPja": "エビスガイ",
+      "KRko": "방석고둥",
+      "EUru": "ракушка морской улитки"
+    }
+  },
+  {
+    "id": "ShellDrift_01374_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea snails",
+      "EUen": "sea snails",
+      "EUde": "Kreiselschnecken",
+      "EUes": "caracoles de mar",
+      "USes": "caracoles de mar",
+      "EUfr": "escargots de mer",
+      "USfr": "escargots de mer",
+      "EUit": "lumache di mare",
+      "EUnl": "zeeslakken",
+      "CNzh": "钟螺壳",
+      "TWzh": "鐘螺殼",
+      "JPja": "エビスガイ",
+      "KRko": "방석고둥",
+      "EUru": "ракушки морских улиток"
+    }
+  },
+  {
+    "id": "ShellDrift_01375",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "venus comb",
+      "EUen": "venus comb",
+      "EUde": "Stachelschnecke",
+      "EUes": "peine de Venus",
+      "USes": "peine de Venus",
+      "EUfr": "peigne de Vénus",
+      "USfr": "peigne de Vénus",
+      "EUit": "pettine di Venere",
+      "EUnl": "venuskam",
+      "CNzh": "骨螺壳",
+      "TWzh": "骨螺殼",
+      "JPja": "ホネガイ",
+      "KRko": "뮤렉스조개",
+      "EUru": "ракушка мурекса"
+    }
+  },
+  {
+    "id": "ShellDrift_01375_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "venus combs",
+      "EUen": "venus combs",
+      "EUde": "Stachelschnecken",
+      "EUes": "peines de Venus",
+      "USes": "peines de Venus",
+      "EUfr": "peignes de Vénus",
+      "USfr": "peignes de Vénus",
+      "EUit": "pettini di Venere",
+      "EUnl": "venuskammen",
+      "CNzh": "骨螺壳",
+      "TWzh": "骨螺殼",
+      "JPja": "ホネガイ",
+      "KRko": "뮤렉스조개",
+      "EUru": "ракушки мурексов"
+    }
+  },
+  {
+    "id": "ShellDrift_01376",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "conch",
+      "EUen": "conch",
+      "EUde": "Tritonshorn",
+      "EUes": "neptunea",
+      "USes": "neptúnea",
+      "EUfr": "conque",
+      "USfr": "conque",
+      "EUit": "strombo",
+      "EUnl": "gewone tritonshoren",
+      "CNzh": "海螺壳",
+      "TWzh": "海螺殼",
+      "JPja": "ホラガイ",
+      "KRko": "소라고둥",
+      "EUru": "спиральная ракушка"
+    }
+  },
+  {
+    "id": "ShellDrift_01376_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "conches",
+      "EUen": "conches",
+      "EUde": "Tritonshörner",
+      "EUes": "neptuneas",
+      "USes": "neptúneas",
+      "EUfr": "conques",
+      "USfr": "conques",
+      "EUit": "strombi",
+      "EUnl": "gewone tritonshorens",
+      "CNzh": "海螺壳",
+      "TWzh": "海螺殼",
+      "JPja": "ホラガイ",
+      "KRko": "소라고둥",
+      "EUru": "спиральные ракушки"
+    }
+  },
+  {
+    "id": "ShellDrift_01379",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sand dollar",
+      "EUen": "sand dollar",
+      "EUde": "Sanddollar",
+      "EUes": "dólar de arena",
+      "USes": "dólar de arena",
+      "EUfr": "clypéastre",
+      "USfr": "clypéastre",
+      "EUit": "dollaro sabbioso",
+      "EUnl": "zanddollar",
+      "CNzh": "沙钱",
+      "TWzh": "沙錢",
+      "JPja": "サンドダラー",
+      "KRko": "연잎성게",
+      "EUru": "панцирь морского ежа"
+    }
+  },
+  {
+    "id": "ShellDrift_01379_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sand dollars",
+      "EUen": "sand dollars",
+      "EUde": "Sanddollars",
+      "EUes": "dólares de arena",
+      "USes": "dólares de arena",
+      "EUfr": "clypéastres",
+      "USfr": "clypéastres",
+      "EUit": "dollari sabbiosi",
+      "EUnl": "zanddollars",
+      "CNzh": "沙钱",
+      "TWzh": "沙錢",
+      "JPja": "サンドダラー",
+      "KRko": "연잎성게",
+      "EUru": "панцири морских ежей"
+    }
+  },
+  {
+    "id": "ShellDrift_01380",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coral",
+      "EUen": "coral",
+      "EUde": "Koralle",
+      "EUes": "coral",
+      "USes": "coral",
+      "EUfr": "branche de corail",
+      "USfr": "branche de corail",
+      "EUit": "corallo",
+      "EUnl": "stuk koraal",
+      "CNzh": "珊瑚",
+      "TWzh": "珊瑚",
+      "JPja": "サンゴ",
+      "KRko": "산호",
+      "EUru": "коралл"
+    }
+  },
+  {
+    "id": "ShellDrift_01380_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coral",
+      "EUen": "coral",
+      "EUde": "Korallen",
+      "EUes": "corales",
+      "USes": "corales",
+      "EUfr": "branches de corail",
+      "USfr": "branches de corail",
+      "EUit": "coralli",
+      "EUnl": "stukken koraal",
+      "CNzh": "珊瑚",
+      "TWzh": "珊瑚",
+      "JPja": "サンゴ",
+      "KRko": "산호",
+      "EUru": "кораллы"
+    }
+  },
+  {
+    "id": "ShellDrift_01381",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant clam",
+      "EUen": "giant clam",
+      "EUde": "Riesenmuschel",
+      "EUes": "almeja gigante",
+      "USes": "almeja gigante",
+      "EUfr": "bénitier géant",
+      "USfr": "bénitier géant",
+      "EUit": "vongola gigante",
+      "EUnl": "doopvontschelp",
+      "CNzh": "扇贝壳",
+      "TWzh": "扇貝殼",
+      "JPja": "シャコガイ",
+      "KRko": "거거",
+      "EUru": "раковина тридакны"
+    }
+  },
+  {
+    "id": "ShellDrift_01381_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant clams",
+      "EUen": "giant clams",
+      "EUde": "Riesenmuscheln",
+      "EUes": "almejas gigantes",
+      "USes": "almejas gigantes",
+      "EUfr": "bénitiers géants",
+      "USfr": "bénitiers géants",
+      "EUit": "vongole giganti",
+      "EUnl": "doopvontschelpen",
+      "CNzh": "扇贝壳",
+      "TWzh": "扇貝殼",
+      "JPja": "シャコガイ",
+      "KRko": "거거",
+      "EUru": "раковины тридакн"
+    }
+  },
+  {
+    "id": "ShellDrift_01382",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cowrie",
+      "EUen": "cowrie",
+      "EUde": "Kaurischnecke",
+      "EUes": "cauri",
+      "USes": "cauri",
+      "EUfr": "porcelaine",
+      "USfr": "porcelaine",
+      "EUit": "ciprea",
+      "EUnl": "kauri",
+      "CNzh": "宝螺壳",
+      "TWzh": "寶螺殼",
+      "JPja": "タカラガイ",
+      "KRko": "자패",
+      "EUru": "ракушка ципреи"
+    }
+  },
+  {
+    "id": "ShellDrift_01382_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cowries",
+      "EUen": "cowries",
+      "EUde": "Kaurischnecken",
+      "EUes": "cauris",
+      "USes": "cauris",
+      "EUfr": "porcelaines",
+      "USfr": "porcelaines",
+      "EUit": "cipree",
+      "EUnl": "kauri's",
+      "CNzh": "宝螺壳",
+      "TWzh": "寶螺殼",
+      "JPja": "タカラガイ",
+      "KRko": "자패",
+      "EUru": "ракушки ципрей"
+    }
+  },
+  {
+    "id": "ShellDrift_05982",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "summer shell",
+      "EUen": "summer shell",
+      "EUde": "Sommermuschel",
+      "EUes": "caracola estival",
+      "USes": "caracola estival",
+      "EUfr": "coquillage estival",
+      "USfr": "coquillage estival",
+      "EUit": "conchiglia estiva",
+      "EUnl": "zomerschelp",
+      "CNzh": "夏天贝壳",
+      "TWzh": "夏天貝殼",
+      "JPja": "なつのかいがら",
+      "KRko": "여름 조개껍데기",
+      "EUru": "летняя ракушка"
+    }
+  },
+  {
+    "id": "ShellDrift_05982_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "summer shells",
+      "EUen": "summer shells",
+      "EUde": "Sommermuscheln",
+      "EUes": "caracolas estivales",
+      "USes": "caracolas estivales",
+      "EUfr": "coquillages estivaux",
+      "USfr": "coquillages estivaux",
+      "EUit": "conchiglie estive",
+      "EUnl": "zomerschelpen",
+      "CNzh": "夏天贝壳",
+      "TWzh": "夏天貝殼",
+      "JPja": "なつのかいがら",
+      "KRko": "여름 조개껍데기",
+      "EUru": "летние ракушки"
+    }
+  },
+  {
+    "id": "ShellFish_02567",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "manila clam",
+      "EUen": "manila clam",
+      "EUde": "Teppichmuschel",
+      "EUes": "almeja japonesa",
+      "USes": "almeja japonesa",
+      "EUfr": "palourde japonaise",
+      "USfr": "palourde japonaise",
+      "EUit": "vongola filippina",
+      "EUnl": "tapijtschelp",
+      "CNzh": "蛤蜊",
+      "TWzh": "蛤蜊",
+      "JPja": "アサリ",
+      "KRko": "바지락",
+      "EUru": "венерка"
+    }
+  }
+]

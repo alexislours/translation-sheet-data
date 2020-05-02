@@ -1,0 +1,2662 @@
+[
+  {
+    "id": "Rug_07322",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink heart rug",
+      "EUen": "pink heart rug",
+      "EUde": "Rosa-Herzteppich",
+      "EUes": "alfombra amor rosa",
+      "USes": "alfombra amor rosa",
+      "EUfr": "tapis amour rose",
+      "USfr": "tapis amour rose",
+      "EUit": "tappeto amore rosa",
+      "EUnl": "roze hartjestapijt",
+      "CNzh": "粉红色爱心地毯",
+      "TWzh": "粉紅色愛心地毯",
+      "JPja": "ピンクハートのラグ",
+      "KRko": "핑크 하트 러그",
+      "EUru": "розовый ковер-сердце"
+    }
+  },
+  {
+    "id": "Rug_07323",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown wooden-deck rug",
+      "EUen": "brown wooden-deck rug",
+      "EUde": "Braun-Rustikalteppich",
+      "EUes": "alfombra tablas marrón",
+      "USes": "alfombra tablas marrón",
+      "EUfr": "tapis parquet marron",
+      "USfr": "tapis parquet marron",
+      "EUit": "tappeto legno marrone",
+      "EUnl": "bruine vlondertapijt",
+      "CNzh": "茶色仿木板地毯",
+      "TWzh": "茶色木甲板地毯",
+      "JPja": "ちゃいろいウッドデッキのラグ",
+      "KRko": "갈색 우드 덱 러그",
+      "EUru": "коричн. ковер под дерево"
+    }
+  },
+  {
+    "id": "Rug_07324",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rough rug",
+      "EUen": "rough rug",
+      "EUde": "Rau-Matte",
+      "EUes": "felpudo robusto",
+      "USes": "felpudo robusto",
+      "EUfr": "paillasson",
+      "USfr": "paillasson",
+      "EUit": "tappetino ruvido",
+      "EUnl": "ruwe tapijt",
+      "CNzh": "坚硬地垫",
+      "TWzh": "硬地墊",
+      "JPja": "ハードマット",
+      "KRko": "하드 매트",
+      "EUru": "ковер из груб. материала"
+    }
+  },
+  {
+    "id": "Rug_07325",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ivory medium round mat",
+      "EUen": "ivory medium round mat",
+      "EUde": "Creme-Rundmatte M",
+      "EUes": "alfombra redonda marfil M",
+      "USes": "alfombra redonda marfil M",
+      "EUfr": "tapis rond ivoire M",
+      "USfr": "tapis rond ivoire M",
+      "EUit": "tappetino tondo avorio M",
+      "EUnl": "ivoorwitte ronde mat",
+      "CNzh": "象牙色圆地垫M",
+      "TWzh": "中型象牙色圓地墊",
+      "JPja": "アイボリーのラウンドマット・M",
+      "KRko": "아이보리 라운드 매트 M",
+      "EUru": "круглый беж. коврик M"
+    }
+  },
+  {
+    "id": "Rug_07327",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "apple rug",
+      "EUen": "apple rug",
+      "EUde": "Apfel-Teppich",
+      "EUes": "alfombra manzana",
+      "USes": "alfombra manzana",
+      "EUfr": "tapis pomme",
+      "USfr": "tapis pomme",
+      "EUit": "tappeto mela",
+      "EUnl": "appeltapijt",
+      "CNzh": "苹果地毯",
+      "TWzh": "蘋果地毯",
+      "JPja": "リンゴのラグ",
+      "KRko": "사과 러그",
+      "EUru": "ковер-яблоко"
+    }
+  },
+  {
+    "id": "Rug_07328",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry rug",
+      "EUen": "cherry rug",
+      "EUde": "Kirsch-Teppich",
+      "EUes": "alfombra cerezas",
+      "USes": "alfombra cerezas",
+      "EUfr": "tapis cerises",
+      "USfr": "tapis cerises",
+      "EUit": "tappeto ciliegia",
+      "EUnl": "kersentapijt",
+      "CNzh": "樱桃地毯",
+      "TWzh": "櫻桃地毯",
+      "JPja": "さくらんぼのラグ",
+      "KRko": "체리 러그",
+      "EUru": "ковер-вишни"
+    }
+  },
+  {
+    "id": "Rug_07329",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fluffy rug",
+      "EUen": "fluffy rug",
+      "EUde": "Plüschteppich",
+      "EUes": "alfombra nube",
+      "USes": "alfombra nube",
+      "EUfr": "tapis nimbus",
+      "USfr": "tapis nimbus",
+      "EUit": "tappeto morbido",
+      "EUnl": "donzige tapijt",
+      "CNzh": "软软地毯",
+      "TWzh": "雲朵地毯",
+      "JPja": "もくもくのラグ",
+      "KRko": "몽실몽실 러그",
+      "EUru": "плюшевый ковер"
+    }
+  },
+  {
+    "id": "Rug_07330",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange rug",
+      "EUen": "orange rug",
+      "EUde": "Orangen-Teppich",
+      "EUes": "alfombra rodaja de naranja",
+      "USes": "alfombra rodaja de naranja",
+      "EUfr": "tapis orange",
+      "USfr": "tapis orange",
+      "EUit": "tappeto arancia",
+      "EUnl": "sinaasappeltapijt",
+      "CNzh": "橘子地毯",
+      "TWzh": "橘子地毯",
+      "JPja": "オレンジのラグ",
+      "KRko": "오렌지 러그",
+      "EUru": "ковер-апельсин"
+    }
+  },
+  {
+    "id": "Rug_07331",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach rug",
+      "EUen": "peach rug",
+      "EUde": "Pfirsich-Teppich",
+      "EUes": "alfombra melocotón",
+      "USes": "alfombra durazno",
+      "EUfr": "tapis pêche",
+      "USfr": "tapis pêche",
+      "EUit": "tappeto pesca",
+      "EUnl": "perziktapijt",
+      "CNzh": "桃子地毯",
+      "TWzh": "桃子地毯",
+      "JPja": "モモのラグ",
+      "KRko": "복숭아 러그",
+      "EUru": "ковер-персик"
+    }
+  },
+  {
+    "id": "Rug_07332",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pear rug",
+      "EUen": "pear rug",
+      "EUde": "Birnen-Teppich",
+      "EUes": "alfombra pera",
+      "USes": "alfombra pera",
+      "EUfr": "tapis poire",
+      "USfr": "tapis poire",
+      "EUit": "tappeto pera",
+      "EUnl": "peertapijt",
+      "CNzh": "梨子地毯",
+      "TWzh": "梨子地毯",
+      "JPja": "ナシのラグ",
+      "KRko": "배 러그",
+      "EUru": "ковер-груша"
+    }
+  },
+  {
+    "id": "Rug_07333",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ivory simple bath mat",
+      "EUen": "ivory simple bath mat",
+      "EUde": "Creme-Badematte",
+      "EUes": "alfombra baño marfil",
+      "USes": "alfombra baño marfil",
+      "EUfr": "tapis de bain simple ivoire",
+      "USfr": "tapis de bain simple ivoire",
+      "EUit": "tappetino bagno avorio",
+      "EUnl": "simpele ivoorwitte badmat",
+      "CNzh": "象牙色简约浴室地垫",
+      "TWzh": "象牙色簡約浴室地墊",
+      "JPja": "アイボリーのシンプルバスマット",
+      "KRko": "아이보리 심플 욕실 매트",
+      "EUru": "бежевый коврик (душ)"
+    }
+  },
+  {
+    "id": "Rug_07334",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ivory small round mat",
+      "EUen": "ivory small round mat",
+      "EUde": "Creme-Rundmatte S",
+      "EUes": "alfombra redonda marfil P",
+      "USes": "alfombra redonda marfil P",
+      "EUfr": "tapis rond ivoire S",
+      "USfr": "tapis rond ivoire P",
+      "EUit": "tappetino tondo avorio S",
+      "EUnl": "kleine ivoorwitte ronde mat",
+      "CNzh": "象牙色圆形地垫S",
+      "TWzh": "小型象牙色圓地墊",
+      "JPja": "アイボリーのラウンドマット・S",
+      "KRko": "아이보리 라운드 매트 S",
+      "EUru": "круглый беж. коврик S"
+    }
+  },
+  {
+    "id": "Rug_07335",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white simple medium mat",
+      "EUen": "white simple medium mat",
+      "EUde": "Weiß-Standardmatte M",
+      "EUes": "alfombra sencilla blanca M",
+      "USes": "alfombra sencilla blanca M",
+      "EUfr": "tapis simple ivoire M",
+      "USfr": "tapis simple ivoire M",
+      "EUit": "tappetino bianco M",
+      "EUnl": "simpele witte mat",
+      "CNzh": "白色简约地垫M",
+      "TWzh": "中型白色簡約地墊",
+      "JPja": "しろいシンプルマット・M",
+      "KRko": "하얀 심플 매트 M",
+      "EUru": "обычный бел. коврик M"
+    }
+  },
+  {
+    "id": "Rug_07336",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white simple small mat",
+      "EUen": "white simple small mat",
+      "EUde": "Weiß-Standardmatte S",
+      "EUes": "alfombra sencilla blanca P",
+      "USes": "alfombra sencilla blanca P",
+      "EUfr": "tapis simple ivoire S",
+      "USfr": "tapis simple ivoire P",
+      "EUit": "tappetino bianco S",
+      "EUnl": "simpele kleine witte mat",
+      "CNzh": "白色简约地垫S",
+      "TWzh": "小型白色簡約地墊",
+      "JPja": "しろいシンプルマット・S",
+      "KRko": "하얀 심플 매트 S",
+      "EUru": "белый коврик S"
+    }
+  },
+  {
+    "id": "Rug_07337",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iron entrance mat",
+      "EUen": "iron entrance mat",
+      "EUde": "Eisengitter-Matte",
+      "EUes": "felpudo de hierro",
+      "USes": "felpudo de hierro",
+      "EUfr": "paillasson en fer forgé",
+      "USfr": "paillasson en fer forgé",
+      "EUit": "tappetino ingresso in ferro",
+      "EUnl": "ijzeren welkomstmat",
+      "CNzh": "铸铁玄关地垫",
+      "TWzh": "鑄鐵玄關地墊",
+      "JPja": "アイアンなげんかんマット",
+      "KRko": "아이언 현관 매트",
+      "EUru": "коврик с решеткой"
+    }
+  },
+  {
+    "id": "Rug_07338",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white message mat",
+      "EUen": "white message mat",
+      "EUde": "Weiß-Textmatte",
+      "EUes": "alfombra bocadillo blanca",
+      "USes": "alfombra bocadillo blanca",
+      "EUfr": "paillasson à message blanc",
+      "USfr": "paillasson à message blanc",
+      "EUit": "tappetino benvenuto bianco",
+      "EUnl": "witte boodschapmat",
+      "CNzh": "白色信息地垫",
+      "TWzh": "白色訊息地墊",
+      "JPja": "しろいメッセージマット",
+      "KRko": "하얀 메시지 매트",
+      "EUru": "белый коврик с текстом"
+    }
+  },
+  {
+    "id": "Rug_07339",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rubber mud mat",
+      "EUen": "rubber mud mat",
+      "EUde": "Gummi-Schmutzmatte",
+      "EUes": "felpudo de caucho",
+      "USes": "felpudo de caucho",
+      "EUfr": "paillasson en caoutchouc",
+      "USfr": "paillasson en caoutchouc",
+      "EUit": "tappetino melma di gomma",
+      "EUnl": "rubberen moddermat",
+      "CNzh": "橡胶除泥地垫",
+      "TWzh": "塑膠刮泥墊",
+      "JPja": "ゴムのどろふきマット",
+      "KRko": "고무 신발 닦이 매트",
+      "EUru": "резиновый коврик"
+    }
+  },
+  {
+    "id": "Rug_07340",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red-design kitchen mat",
+      "EUen": "red-design kitchen mat",
+      "EUde": "Rotmuster-Matte",
+      "EUes": "alfombra étnica roja",
+      "USes": "alfombra étnica roja",
+      "EUfr": "tapis cuisine à motifs rouge",
+      "USfr": "tapis cuisine à motifs rouge",
+      "EUit": "tappeto cucina design rosso",
+      "EUnl": "rode designkeukenmat",
+      "CNzh": "红色图案厨房地垫",
+      "TWzh": "紅色圖案廚房地墊",
+      "JPja": "あかいパターンキッチンマット",
+      "KRko": "빨간 패턴 키친 매트",
+      "EUru": "коврик с красным узором"
+    }
+  },
+  {
+    "id": "Rug_07341",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown kitchen mat",
+      "EUen": "brown kitchen mat",
+      "EUde": "Braun-Küchenmatte",
+      "EUes": "alfombra cocina marrón",
+      "USes": "alfombra cocina marrón",
+      "EUfr": "tapis de cuisine marron",
+      "USfr": "tapis de cuisine brun",
+      "EUit": "tappetino cucina marrone",
+      "EUnl": "bruine keukenmat",
+      "CNzh": "茶色厨房地垫",
+      "TWzh": "茶色廚房地墊",
+      "JPja": "ちゃいろいキッチンマット",
+      "KRko": "갈색 키친 매트",
+      "EUru": "коричн. коврик на кухню"
+    }
+  },
+  {
+    "id": "Rug_07343",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red-and-blue checked rug",
+      "EUen": "red-and-blue checked rug",
+      "EUde": "Rot-Blau-Karoteppich",
+      "EUes": "alfombra tartán roja y azul",
+      "USes": "alfombra tartán roja y azul",
+      "EUfr": "tapis tartan rouge et bleu",
+      "USfr": "tapis tartan rouge et bleu",
+      "EUit": "tappeto tartan rosso e blu",
+      "EUnl": "rood-blauwe geruite tapijt",
+      "CNzh": "红蓝格纹布地毯",
+      "TWzh": "紅藍格紋拼布地毯",
+      "JPja": "あかあおチェックキルトのラグ",
+      "KRko": "빨강 파랑 체크 퀼트 러그",
+      "EUru": "красно-син. ковер в клетку"
+    }
+  },
+  {
+    "id": "Rug_07345",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shanty mat",
+      "EUen": "shanty mat",
+      "EUde": "Schilfteppich",
+      "EUes": "alfombra cañizo",
+      "USes": "alfombra cañizo",
+      "EUfr": "tapis de paille",
+      "USfr": "tapis de paille",
+      "EUit": "tappeto capanna",
+      "EUnl": "rietmat",
+      "CNzh": "老旧草席",
+      "TWzh": "舊草蓆",
+      "JPja": "ふるいむしろのラグ",
+      "KRko": "낡은 멍석 러그",
+      "EUru": "камышовая циновка"
+    }
+  },
+  {
+    "id": "Rug_07346",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflake rug",
+      "EUen": "snowflake rug",
+      "EUde": "Schneeflocken-Teppich",
+      "EUes": "alfombra copo de nieve",
+      "USes": "alfombra copo de nieve",
+      "EUfr": "tapis flocon",
+      "USfr": "tapis flocon",
+      "EUit": "tappeto fiocco di neve",
+      "EUnl": "sneeuwvloktapijt",
+      "CNzh": "雪花地毯",
+      "TWzh": "雪花地毯",
+      "JPja": "スノーフレークなラグ",
+      "KRko": "눈꽃 러그",
+      "EUru": "ковер со снежинкой"
+    }
+  },
+  {
+    "id": "Rug_07347",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red Persian rug",
+      "EUen": "red Persian rug",
+      "EUde": "Rot-Klassikteppich",
+      "EUes": "alfombra clásica roja",
+      "USes": "alfombra clásica roja",
+      "EUfr": "tapis persan rouge",
+      "USfr": "tapis persan rouge",
+      "EUit": "tappeto antico rosso",
+      "EUnl": "rode Perzische tapijt",
+      "CNzh": "红色波斯地毯",
+      "TWzh": "紅色波斯地毯",
+      "JPja": "あかいペルシャじゅうたん",
+      "KRko": "빨간 페르시아 융단",
+      "EUru": "красный персидск. ковер"
+    }
+  },
+  {
+    "id": "Rug_07348",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red carpet",
+      "EUen": "red carpet",
+      "EUde": "Rot-Teppich",
+      "EUes": "alfombra roja",
+      "USes": "alfombra roja",
+      "EUfr": "tapis rouge",
+      "USfr": "tapis rouge",
+      "EUit": "tappeto rosso",
+      "EUnl": "rode tapijt",
+      "CNzh": "红色地毯",
+      "TWzh": "紅地毯",
+      "JPja": "レッドカーペット",
+      "KRko": "레드 카펫",
+      "EUru": "красный ковер"
+    }
+  },
+  {
+    "id": "Rug_07349",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monochromatic dotted rug",
+      "EUen": "monochromatic dotted rug",
+      "EUde": "Monochrom-Tüpfelteppich",
+      "EUes": "alfombra pastel monocroma",
+      "USes": "alfombra pastel monocroma",
+      "EUfr": "tapis à pois monochrome",
+      "USfr": "tapis à pois monochrome",
+      "EUit": "tappeto monocromo a pois",
+      "EUnl": "zwart-witte stippentapijt",
+      "CNzh": "单色点点地毯",
+      "TWzh": "灰階配色點點地墊",
+      "JPja": "モノクロドットのラグ",
+      "KRko": "흑백 도트 러그",
+      "EUru": "монохромн. ковер в горох"
+    }
+  },
+  {
+    "id": "Rug_07350",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "modern wavy rug",
+      "EUen": "modern wavy rug",
+      "EUde": "Modern-Wellenteppich",
+      "EUes": "alfombra ondas moderna",
+      "USes": "alfombra ondas moderna",
+      "EUfr": "tapis vagues moderne",
+      "USfr": "tapis vagues moderne",
+      "EUit": "tappeto moderno a onde",
+      "EUnl": "moderne golventapijt",
+      "CNzh": "摩登波浪地毯",
+      "TWzh": "摩登波浪地毯",
+      "JPja": "モダンなウェーブのラグ",
+      "KRko": "모던 웨이브 러그",
+      "EUru": "современ. ковер «Волны»"
+    }
+  },
+  {
+    "id": "Rug_07351",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow stripes rug",
+      "EUen": "yellow stripes rug",
+      "EUde": "Gelb-Streifenteppich",
+      "EUes": "alfombra rayas amarilla",
+      "USes": "alfombra rayas amarilla",
+      "EUfr": "tapis à rayures jaunes",
+      "USfr": "tapis à rayures jaunes",
+      "EUit": "tappeto a strisce gialle",
+      "EUnl": "geel gestreepte tapijt",
+      "CNzh": "黄色粗条纹地毯",
+      "TWzh": "黃色粗橫紋地毯",
+      "JPja": "きいろボーダーのラグ",
+      "KRko": "노란 줄무늬 러그",
+      "EUru": "желтый ковер в полоску"
+    }
+  },
+  {
+    "id": "Rug_07352",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow argyle rug",
+      "EUen": "yellow argyle rug",
+      "EUde": "Gelb-Argyle-Teppich",
+      "EUes": "alfombra rombos amarilla",
+      "USes": "alfombra rombos amarilla",
+      "EUfr": "tapis argyle jaune",
+      "USfr": "tapis écossais jaune",
+      "EUit": "tappeto a rombi giallo",
+      "EUnl": "geel geruite tapijt",
+      "CNzh": "黄色菱格纹地毯",
+      "TWzh": "黃色菱格紋地毯",
+      "JPja": "きいろいアーガイルのラグ",
+      "KRko": "노란 아가일 러그",
+      "EUru": "желтый ковер аргайл"
+    }
+  },
+  {
+    "id": "Rug_07353",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "botanical rug",
+      "EUen": "botanical rug",
+      "EUde": "Botanikteppich",
+      "EUes": "alfombra botánica",
+      "USes": "alfombra botánica",
+      "EUfr": "tapis botanique",
+      "USfr": "tapis botanique",
+      "EUit": "tappeto botanico",
+      "EUnl": "botanische tapijt",
+      "CNzh": "植物图案地毯",
+      "TWzh": "植物圖案地毯",
+      "JPja": "ボタニカルなラグ",
+      "KRko": "보태니컬 러그",
+      "EUru": "ботанический ковер"
+    }
+  },
+  {
+    "id": "Rug_07354",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green shaggy rug",
+      "EUen": "green shaggy rug",
+      "EUde": "Grün-Zottelteppich",
+      "EUes": "alfombra pelusilla verde",
+      "USes": "alfombra mullida verde",
+      "EUfr": "tapis à poil long vert",
+      "USfr": "tapis à poil long vert",
+      "EUit": "tappeto peloso verde",
+      "EUnl": "groene harige tapijt",
+      "CNzh": "绿色长绒地毯",
+      "TWzh": "綠色長毛地毯",
+      "JPja": "みどりのシャギーなラグ",
+      "KRko": "초록 복슬복슬 러그",
+      "EUru": "зеленый ковер с ворсом"
+    }
+  },
+  {
+    "id": "Rug_07356",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aluminum rug",
+      "EUen": "aluminum rug",
+      "EUde": "Isomatte",
+      "EUes": "alfombra de aluminio",
+      "USes": "alfombra de aluminio",
+      "EUfr": "tapis aluminium",
+      "USfr": "tapis aluminium",
+      "EUit": "tappetino alluminio",
+      "EUnl": "aluminiumtapijt",
+      "CNzh": "铝制地垫",
+      "TWzh": "鋁箔地墊",
+      "JPja": "アルミマット",
+      "KRko": "알루미늄 매트",
+      "EUru": "алюминиевый коврик"
+    }
+  },
+  {
+    "id": "Rug_07357",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Earth rug",
+      "EUen": "Earth rug",
+      "EUde": "Weltteppich",
+      "EUes": "alfombra mundo",
+      "USes": "alfombra mundo",
+      "EUfr": "tapis Terre",
+      "USfr": "tapis Terre",
+      "EUit": "tappeto Terra",
+      "EUnl": "wereldboltapijt",
+      "CNzh": "地球地毯",
+      "TWzh": "地球地毯",
+      "JPja": "ちきゅうのラグ",
+      "KRko": "지구 러그",
+      "EUru": "ковер «Земля»"
+    }
+  },
+  {
+    "id": "Rug_07358",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tropical rug",
+      "EUen": "tropical rug",
+      "EUde": "Tropikteppich",
+      "EUes": "alfombra tropical",
+      "USes": "alfombra tropical",
+      "EUfr": "tapis tropical",
+      "USfr": "tapis tropical",
+      "EUit": "tappeto tropicale",
+      "EUnl": "tropische tapijt",
+      "CNzh": "热带岛屿地毯",
+      "TWzh": "南方小島地毯",
+      "JPja": "みなみのしまのラグ",
+      "KRko": "남쪽 섬 러그",
+      "EUru": "тропический ковер"
+    }
+  },
+  {
+    "id": "Rug_07359",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful vinyl sheet",
+      "EUen": "colorful vinyl sheet",
+      "EUde": "Bunt-Vinyltuch",
+      "EUes": "alfombra de vinilo colorida",
+      "USes": "alfombra de vinilo colorida",
+      "EUfr": "tapis vinyle coloré",
+      "USfr": "tapis vinyle coloré",
+      "EUit": "tappeto vinile colorato",
+      "EUnl": "kleurrijke vinylmat",
+      "CNzh": "彩色塑胶垫",
+      "TWzh": "彩色塑膠墊",
+      "JPja": "カラフルなビニールシート",
+      "KRko": "컬러풀 비닐 시트",
+      "EUru": "пестрый винил. коврик"
+    }
+  },
+  {
+    "id": "Rug_07360",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ladybug rug",
+      "EUen": "ladybug rug",
+      "EUde": "Marienkäferteppich",
+      "EUes": "alfombra mariquita",
+      "USes": "alfombra catarina",
+      "EUfr": "tapis coccinelle",
+      "USfr": "tapis coccinelle",
+      "EUit": "tappeto coccinella",
+      "EUnl": "lieveheersbeestjetapijt",
+      "CNzh": "瓢虫地毯",
+      "TWzh": "瓢蟲地毯",
+      "JPja": "テントウムシのラグ",
+      "KRko": "무당벌레 러그",
+      "EUru": "ковер «Божья коровка»"
+    }
+  },
+  {
+    "id": "Rug_07361",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fish rug",
+      "EUen": "fish rug",
+      "EUde": "Fischteppich",
+      "EUes": "alfombra pez",
+      "USes": "alfombra pez",
+      "EUfr": "tapis poisson",
+      "USfr": "tapis poisson",
+      "EUit": "tappeto pesce",
+      "EUnl": "vistapijt",
+      "CNzh": "鱼儿地毯",
+      "TWzh": "魚兒地毯",
+      "JPja": "おサカナのラグ",
+      "KRko": "물고기 러그",
+      "EUru": "ковер-рыба"
+    }
+  },
+  {
+    "id": "Rug_07362",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shell rug",
+      "EUen": "shell rug",
+      "EUde": "Muschelteppich",
+      "EUes": "alfombra concha",
+      "USes": "alfombra concha marina",
+      "EUfr": "tapis coquillage",
+      "USfr": "tapis coquillage",
+      "EUit": "tappeto conchiglia",
+      "EUnl": "schelptapijt",
+      "CNzh": "贝壳地毯",
+      "TWzh": "貝殼地毯",
+      "JPja": "かいがらのラグ",
+      "KRko": "조개껍데기 러그",
+      "EUru": "ковер-ракушка"
+    }
+  },
+  {
+    "id": "Rug_07363",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mush rug",
+      "EUen": "mush rug",
+      "EUde": "Pilzteppich",
+      "EUes": "alfombra setas",
+      "USes": "alfombra hongo",
+      "EUfr": "tapis champignons",
+      "USfr": "tapis champignons",
+      "EUit": "tappeto funghi",
+      "EUnl": "paddenstoelentapijt",
+      "CNzh": "蘑菇地毯",
+      "TWzh": "蘑菇地毯",
+      "JPja": "キノコのラグ",
+      "KRko": "버섯 러그",
+      "EUru": "грибной ковер"
+    }
+  },
+  {
+    "id": "Rug_07364",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. rug",
+      "EUen": "Nook Inc. rug",
+      "EUde": "Nook-Inc.-Teppich",
+      "EUes": "alfombra de Nook Inc.",
+      "USes": "alfombra de Nook Inc.",
+      "EUfr": "tapis Nook Inc.",
+      "USfr": "tapis Nook Inc.",
+      "EUit": "tappeto Nook Inc.",
+      "EUnl": "Nook Inc.-tapijt",
+      "CNzh": "Nook Inc.地毯",
+      "TWzh": "Nook Inc.地毯",
+      "JPja": "たぬきかいはつのラグ",
+      "KRko": "Nook Inc. 러그",
+      "EUru": "ковер Nook Inc."
+    }
+  },
+  {
+    "id": "Rug_07365",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink rose rug",
+      "EUen": "pink rose rug",
+      "EUde": "Rosa-Rosenteppich",
+      "EUes": "alfombra rosa rosada",
+      "USes": "alfombra rosa rosada",
+      "EUfr": "tapis rose rose",
+      "USfr": "tapis rose rose",
+      "EUit": "tappeto rosa rosa",
+      "EUnl": "rozeroostapijt",
+      "CNzh": "粉红色玫瑰地毯",
+      "TWzh": "粉紅色玫瑰地毯",
+      "JPja": "ピンクローズのラグ",
+      "KRko": "핑크 로즈 러그",
+      "EUru": "розовый ковер-роза"
+    }
+  },
+  {
+    "id": "Rug_07366",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fossil rug",
+      "EUen": "fossil rug",
+      "EUde": "Fossilienteppich",
+      "EUes": "alfombra fósil",
+      "USes": "alfombra fósil",
+      "EUfr": "tapis fossile",
+      "USfr": "tapis fossile",
+      "EUit": "tappeto fossile",
+      "EUnl": "fossieltapijt",
+      "CNzh": "化石地毯",
+      "TWzh": "化石地毯",
+      "JPja": "かせきのラグ",
+      "KRko": "화석 러그",
+      "EUru": "ковер с окаменелостями"
+    }
+  },
+  {
+    "id": "Rug_07367",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "magic-circle rug",
+      "EUen": "magic-circle rug",
+      "EUde": "Zauberkreisteppich",
+      "EUes": "alfombra vidente",
+      "USes": "alfombra vidente",
+      "EUfr": "tapis ésotérique",
+      "USfr": "tapis ésotérique",
+      "EUit": "tappeto esoterico",
+      "EUnl": "magische cirkeltapijt",
+      "CNzh": "魔法阵地毯",
+      "TWzh": "魔法陣地毯",
+      "JPja": "まほうじんのラグ",
+      "KRko": "마법진 러그",
+      "EUru": "ковер «Магический круг»"
+    }
+  },
+  {
+    "id": "Rug_07368",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lacy rug",
+      "EUen": "lacy rug",
+      "EUde": "Spitzenteppich",
+      "EUes": "alfombra encaje",
+      "USes": "alfombra encaje",
+      "EUfr": "tapis dentelle",
+      "USfr": "tapis dentelle",
+      "EUit": "tappeto merlettato",
+      "EUnl": "kanten tapijt",
+      "CNzh": "蕾丝地毯",
+      "TWzh": "蕾絲地毯",
+      "JPja": "レースのラグ",
+      "KRko": "레이스 러그",
+      "EUru": "кружевной ковер"
+    }
+  },
+  {
+    "id": "Rug_07369",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tatami mat",
+      "EUen": "tatami mat",
+      "EUde": "Tatami-Matte",
+      "EUes": "alfombra japonesa",
+      "USes": "alfombra japonesa",
+      "EUfr": "tatami",
+      "USfr": "tatami",
+      "EUit": "tappetino tatami",
+      "EUnl": "tatamimat",
+      "CNzh": "一张榻榻米",
+      "TWzh": "一張榻榻米",
+      "JPja": "いちじょうのたたみ",
+      "KRko": "일본식 짚 깔개",
+      "EUru": "коврик-татами"
+    }
+  },
+  {
+    "id": "Rug_07370",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oval entrance mat",
+      "EUen": "oval entrance mat",
+      "EUde": "Oval-Eingangsmatte",
+      "EUes": "felpudo ovalado",
+      "USes": "felpudo ovalado",
+      "EUfr": "paillasson ovale",
+      "USfr": "paillasson ovale",
+      "EUit": "tappetino ingresso ovale",
+      "EUnl": "ovalen welkomstmat",
+      "CNzh": "椭圆形玄关地垫",
+      "TWzh": "橢圓形玄關地毯",
+      "JPja": "オーバルなげんかんマット",
+      "KRko": "타원형 현관 매트",
+      "EUru": "овальн. коврик под дверь"
+    }
+  },
+  {
+    "id": "Rug_07371",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sloppy rug",
+      "EUen": "sloppy rug",
+      "EUde": "Schlamperteppich",
+      "EUes": "alfombra desorden",
+      "USes": "alfombra desorden",
+      "EUfr": "carpette négligée",
+      "USfr": "carpette négligée",
+      "EUit": "tappeto trasandato",
+      "EUnl": "slordige tapijt",
+      "CNzh": "邋遢地毯",
+      "TWzh": "邋遢地毯",
+      "JPja": "だらしないラグ",
+      "KRko": "칠칠치 못한 러그",
+      "EUru": "неопрятный ковер"
+    }
+  },
+  {
+    "id": "Rug_07380",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "natural wooden-deck rug",
+      "EUen": "natural wooden-deck rug",
+      "EUde": "Natur-Rustikalteppich",
+      "EUes": "alfombra tablas natural",
+      "USes": "alfombra tablas natural",
+      "EUfr": "tapis parquet naturel",
+      "USfr": "tapis parquet naturel",
+      "EUit": "tappeto legno naturale",
+      "EUnl": "naturel houten dek",
+      "CNzh": "自然色仿木板地毯",
+      "TWzh": "自然色木甲板地毯",
+      "JPja": "ナチュラルなウッドデッキのラグ",
+      "KRko": "내추럴 우드 덱 러그",
+      "EUru": "ковер под доски"
+    }
+  },
+  {
+    "id": "Rug_07381",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white wooden-deck rug",
+      "EUen": "white wooden-deck rug",
+      "EUde": "Weiß-Rustikalteppich",
+      "EUes": "alfombra tablas blanca",
+      "USes": "alfombra tablas blanca",
+      "EUfr": "tapis parquet blanc",
+      "USfr": "tapis parquet blanc",
+      "EUit": "tappeto legno bianco",
+      "EUnl": "witte houten dek",
+      "CNzh": "白色仿木板地毯",
+      "TWzh": "白色木甲板地毯",
+      "JPja": "しろいウッドデッキのラグ",
+      "KRko": "하얀 우드 덱 러그",
+      "EUru": "белый ковер под доски"
+    }
+  },
+  {
+    "id": "Rug_07382",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black wooden-deck rug",
+      "EUen": "black wooden-deck rug",
+      "EUde": "Schwarz-Rustikalteppich",
+      "EUes": "alfombra tablas negra",
+      "USes": "alfombra tablas negra",
+      "EUfr": "tapis parquet noir",
+      "USfr": "tapis parquet noir",
+      "EUit": "tappeto legno nero",
+      "EUnl": "zwarte houten dek",
+      "CNzh": "黑色仿木板地毯",
+      "TWzh": "黑色木甲板地毯",
+      "JPja": "くろいウッドデッキのラグ",
+      "KRko": "검정 우드 덱 러그",
+      "EUru": "черный ковер под доски"
+    }
+  },
+  {
+    "id": "Rug_07402",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's cool kitchen mat",
+      "EUen": "Mom's cool kitchen mat",
+      "EUde": "Cool-Matte von Mama",
+      "EUes": "alfombra de mamá azul",
+      "USes": "alfombra de mamá azul",
+      "EUfr": "tap. cuisine de maman bleu",
+      "USfr": "tap. cuisine de maman bleu",
+      "EUit": "tappeto spavaldo di mamma",
+      "EUnl": "mama's coole keukenmat",
+      "CNzh": "酷感妈妈的厨房地垫",
+      "TWzh": "酷感媽媽廚房地墊",
+      "JPja": "クールなははのキッチンマット",
+      "KRko": "쿨한 엄마의 키친 매트",
+      "EUru": "мамин броский ковер"
+    }
+  },
+  {
+    "id": "Rug_07403",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow vinyl sheet",
+      "EUen": "yellow vinyl sheet",
+      "EUde": "Gelb-Vinyltuch",
+      "EUes": "alfombra de vinilo amarilla",
+      "USes": "alfombra de vinilo amarilla",
+      "EUfr": "tapis vinyle jaune",
+      "USfr": "tapis vinyle jaune",
+      "EUit": "tappeto vinile giallo",
+      "EUnl": "gele vinylmat",
+      "CNzh": "黄色塑胶垫",
+      "TWzh": "黃色塑膠墊",
+      "JPja": "きいろいビニールシート",
+      "KRko": "노란 비닐 시트",
+      "EUru": "желтый винил. коврик"
+    }
+  },
+  {
+    "id": "Rug_07404",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue vinyl sheet",
+      "EUen": "blue vinyl sheet",
+      "EUde": "Blau-Vinyltuch",
+      "EUes": "alfombra de vinilo azul",
+      "USes": "alfombra de vinilo azul",
+      "EUfr": "tapis vinyle bleu",
+      "USfr": "tapis vinyle bleu",
+      "EUit": "tappeto vinile blu",
+      "EUnl": "blauwe vinylmat",
+      "CNzh": "蓝色塑胶垫",
+      "TWzh": "藍色塑膠墊",
+      "JPja": "あおいビニールシート",
+      "KRko": "파란 비닐 시트",
+      "EUru": "синий винил. коврик"
+    }
+  },
+  {
+    "id": "Rug_07405",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red vinyl sheet",
+      "EUen": "red vinyl sheet",
+      "EUde": "Rot-Vinyltuch",
+      "EUes": "alfombra de vinilo roja",
+      "USes": "alfombra de vinilo roja",
+      "EUfr": "tapis vinyle rouge",
+      "USfr": "tapis vinyle rouge",
+      "EUit": "tappeto vinile rosso",
+      "EUnl": "rode vinylmat",
+      "CNzh": "红色塑胶垫",
+      "TWzh": "紅色塑膠墊",
+      "JPja": "あかいビニールシート",
+      "KRko": "빨간 비닐 시트",
+      "EUru": "красный винил. коврик"
+    }
+  },
+  {
+    "id": "Rug_07456",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monochromatic wavy rug",
+      "EUen": "monochromatic wavy rug",
+      "EUde": "Monochrom-Wellenteppich",
+      "EUes": "alfombra ondas monocroma",
+      "USes": "alfombra ondas monocroma",
+      "EUfr": "tapis vagues monochrome",
+      "USfr": "tapis vagues monochrome",
+      "EUit": "tappeto monocromo a onde",
+      "EUnl": "zwart-witte golventapijt",
+      "CNzh": "单色波浪地毯",
+      "TWzh": "灰階配色波浪地毯",
+      "JPja": "モノクロウェーブのラグ",
+      "KRko": "흑백 웨이브 러그",
+      "EUru": "монохромн. ковер «Волны»"
+    }
+  },
+  {
+    "id": "Rug_07457",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red wavy rug",
+      "EUen": "red wavy rug",
+      "EUde": "Rot-Wellenteppich",
+      "EUes": "alfombra ondas roja",
+      "USes": "alfombra ondas roja",
+      "EUfr": "tapis vagues rouge",
+      "USfr": "tapis vagues rouge",
+      "EUit": "tappeto rosso a onde",
+      "EUnl": "rode golventapijt",
+      "CNzh": "红色波浪地毯",
+      "TWzh": "紅色波浪地毯",
+      "JPja": "あかいウェーブのラグ",
+      "KRko": "빨간 웨이브 러그",
+      "EUru": "красный ковер «Волны»"
+    }
+  },
+  {
+    "id": "Rug_07458",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue wavy rug",
+      "EUen": "blue wavy rug",
+      "EUde": "Blau-Wellenteppich",
+      "EUes": "alfombra ondas azul",
+      "USes": "alfombra ondas azul",
+      "EUfr": "tapis vagues bleu",
+      "USfr": "tapis vagues bleu",
+      "EUit": "tappeto blu a onde",
+      "EUnl": "blauwe golventapijt",
+      "CNzh": "蓝色波浪地毯",
+      "TWzh": "藍色波浪地毯",
+      "JPja": "あおいウェーブのラグ",
+      "KRko": "파란 웨이브 러그",
+      "EUru": "синий ковер «Волны»"
+    }
+  },
+  {
+    "id": "Rug_07462",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow checked rug",
+      "EUen": "yellow checked rug",
+      "EUde": "Gelb-Karoteppich",
+      "EUes": "alfombra tartán amarilla",
+      "USes": "alfombra tartán amarilla",
+      "EUfr": "tapis tartan jaune",
+      "USfr": "tapis tartan jaune",
+      "EUit": "tappeto di tartan giallo",
+      "EUnl": "gele geruite quilttapijt",
+      "CNzh": "黄色格纹布地毯",
+      "TWzh": "黃色格紋拼布地毯",
+      "JPja": "きいろいチェックキルトのラグ",
+      "KRko": "노란 체크 퀼트 러그",
+      "EUru": "желтый ковер в клетку"
+    }
+  },
+  {
+    "id": "Rug_07463",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach checked rug",
+      "EUen": "peach checked rug",
+      "EUde": "Rosa-Karoteppich",
+      "EUes": "alfombra tartán rosa",
+      "USes": "alfombra tartán rosa",
+      "EUfr": "tapis tartan rose",
+      "USfr": "tapis tartan rose",
+      "EUit": "tappeto di tartan pesca",
+      "EUnl": "roze geruite quilttapijt",
+      "CNzh": "桃红色格纹布地毯",
+      "TWzh": "桃紅色格紋拼布地毯",
+      "JPja": "ももいろチェックキルトのラグ",
+      "KRko": "분홍 체크 퀼트 러그",
+      "EUru": "розоватый ковер в клетку"
+    }
+  },
+  {
+    "id": "Rug_07464",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green checked rug",
+      "EUen": "green checked rug",
+      "EUde": "Grün-Karoteppich",
+      "EUes": "alfombra tartán verde",
+      "USes": "alfombra tartán verde",
+      "EUfr": "tapis tartan vert",
+      "USfr": "tapis tartan vert",
+      "EUit": "tappeto di tartan verde",
+      "EUnl": "groene geruite quilttapijt",
+      "CNzh": "绿色格纹布地毯",
+      "TWzh": "綠色格紋拼布地毯",
+      "JPja": "みどりのチェックキルトのラグ",
+      "KRko": "초록 체크 퀼트 러그",
+      "EUru": "зеленый ковер в клетку"
+    }
+  },
+  {
+    "id": "Rug_07465",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red dotted rug",
+      "EUen": "red dotted rug",
+      "EUde": "Rot-Tüpfelteppich",
+      "EUes": "alfombra topos pastel roja",
+      "USes": "alfombra lunares roja",
+      "EUfr": "tapis à pois rouge",
+      "USfr": "tapis à pois rouge",
+      "EUit": "tappeto rosso a pois",
+      "EUnl": "rode stippentapijt",
+      "CNzh": "红色点点地毯",
+      "TWzh": "紅色點點地墊",
+      "JPja": "レッドドットのラグ",
+      "KRko": "레드 도트 러그",
+      "EUru": "красный ковер в горох"
+    }
+  },
+  {
+    "id": "Rug_07466",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro dotted rug",
+      "EUen": "retro dotted rug",
+      "EUde": "Retro-Tüpfelteppich",
+      "EUes": "alfombra topos pastel retro",
+      "USes": "alfombra lunares retro",
+      "EUfr": "tapis à pois rétro",
+      "USfr": "tapis à pois rétro",
+      "EUit": "tappeto rétro a pois",
+      "EUnl": "retro-stippentapijt",
+      "CNzh": "复古点点地毯",
+      "TWzh": "復古點點地毯",
+      "JPja": "レトロドットのラグ",
+      "KRko": "복고풍 도트 러그",
+      "EUru": "ретро-ковер в горох"
+    }
+  },
+  {
+    "id": "Rug_07467",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue dotted rug",
+      "EUen": "blue dotted rug",
+      "EUde": "Blau-Tüpfelteppich",
+      "EUes": "alfombra topos pastel azul",
+      "USes": "alfombra lunares azul",
+      "EUfr": "tapis à pois bleu",
+      "USfr": "tapis à pois bleu",
+      "EUit": "tappeto blu a pois",
+      "EUnl": "blauw stippentapijt",
+      "CNzh": "蓝色点点地毯",
+      "TWzh": "藍色點點地墊",
+      "JPja": "ブルードットのラグ",
+      "KRko": "블루 도트 러그",
+      "EUru": "синий ковер в горох"
+    }
+  },
+  {
+    "id": "Rug_07516",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple green bath mat",
+      "EUen": "simple green bath mat",
+      "EUde": "Grün-Badematte",
+      "EUes": "alfombra baño verde",
+      "USes": "alfombra baño verde",
+      "EUfr": "tapis de bain simple vert",
+      "USfr": "tapis de bain simple vert",
+      "EUit": "tappetino bagno verde",
+      "EUnl": "simpele groene badmat",
+      "CNzh": "绿色简约浴室地垫",
+      "TWzh": "綠色簡約浴室地墊",
+      "JPja": "グリーンのシンプルバスマット",
+      "KRko": "그린 심플 욕실 매트",
+      "EUru": "зеленый коврик (душ)"
+    }
+  },
+  {
+    "id": "Rug_07517",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple pink bath mat",
+      "EUen": "simple pink bath mat",
+      "EUde": "Rosa-Badematte",
+      "EUes": "alfombra baño rosa",
+      "USes": "alfombra baño rosa",
+      "EUfr": "tapis de bain simple rose",
+      "USfr": "tapis de bain simple rose",
+      "EUit": "tappetino bagno rosa",
+      "EUnl": "simpele roze badmat",
+      "CNzh": "粉红色简约浴室地垫",
+      "TWzh": "粉紅色簡約浴室地墊",
+      "JPja": "ピンクのシンプルバスマット",
+      "KRko": "핑크 심플 욕실 매트",
+      "EUru": "розовый коврик (душ)"
+    }
+  },
+  {
+    "id": "Rug_07518",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple navy bath mat",
+      "EUen": "simple navy bath mat",
+      "EUde": "Marineblau-Badematte",
+      "EUes": "alfombra baño azul marino",
+      "USes": "alfombra baño azul marino",
+      "EUfr": "tapis de bain simple marine",
+      "USfr": "tapis de bain simple marine",
+      "EUit": "tappetino bagno blu marino",
+      "EUnl": "simpele blauwe badmat",
+      "CNzh": "海军蓝简约浴室地垫",
+      "TWzh": "海軍藍簡約浴室地墊",
+      "JPja": "ネイビーのシンプルバスマット",
+      "KRko": "네이비 심플 욕실 매트",
+      "EUru": "черно-син. коврик (душ)"
+    }
+  },
+  {
+    "id": "Rug_07519",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium brown mat",
+      "EUen": "simple medium brown mat",
+      "EUde": "Braun-Standardmatte M",
+      "EUes": "alfombra sencilla marrón M",
+      "USes": "alfombra sencilla marrón M",
+      "EUfr": "tapis simple brun M",
+      "USfr": "tapis simple brun M",
+      "EUit": "tappetino marrone M",
+      "EUnl": "simpele bruine mat",
+      "CNzh": "茶色简约地垫M",
+      "TWzh": "中型茶色簡約地墊",
+      "JPja": "ちゃいろいシンプルマット・M",
+      "KRko": "갈색 심플 매트 M",
+      "EUru": "коричневый коврик M"
+    }
+  },
+  {
+    "id": "Rug_07520",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small avocado mat",
+      "EUen": "simple small avocado mat",
+      "EUde": "Khaki-Standardmatte S",
+      "EUes": "alfombra sencilla oliva P",
+      "USes": "alfombra sencilla oliva P",
+      "EUfr": "tapis simple vert kaki S",
+      "USfr": "tapis simple vert kaki P",
+      "EUit": "tappetino verde olivastro S",
+      "EUnl": "simpele kleine kakimat",
+      "CNzh": "卡其色简约地垫S",
+      "TWzh": "小型卡其色簡約地墊",
+      "JPja": "カーキのシンプルマット・S",
+      "KRko": "카키 심플 매트 S",
+      "EUru": "коврик цвета хаки S"
+    }
+  },
+  {
+    "id": "Rug_07521",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small blue mat",
+      "EUen": "simple small blue mat",
+      "EUde": "Blau-Standardmatte S",
+      "EUes": "alfombra sencilla azul P",
+      "USes": "alfombra sencilla azul P",
+      "EUfr": "tapis simple bleu S",
+      "USfr": "tapis simple bleu P",
+      "EUit": "tappetino blu S",
+      "EUnl": "simpele kleine blauwe mat",
+      "CNzh": "蓝色简约地垫S",
+      "TWzh": "小型藍色簡約地墊",
+      "JPja": "あおいシンプルマット・S",
+      "KRko": "파란 심플 매트 S",
+      "EUru": "синий коврик S"
+    }
+  },
+  {
+    "id": "Rug_07522",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small brown mat",
+      "EUen": "simple small brown mat",
+      "EUde": "Braun-Standardmatte S",
+      "EUes": "alfombra sencilla marrón P",
+      "USes": "alfombra sencilla marrón P",
+      "EUfr": "tapis simple brun S",
+      "USfr": "tapis simple brun P",
+      "EUit": "tappetino marrone S",
+      "EUnl": "simpele kleine bruine mat",
+      "CNzh": "茶色简约地垫S",
+      "TWzh": "小型茶色簡約地墊",
+      "JPja": "ちゃいろいシンプルマット・S",
+      "KRko": "갈색 심플 매트 S",
+      "EUru": "коричневый коврик S"
+    }
+  },
+  {
+    "id": "Rug_07523",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium blue mat",
+      "EUen": "simple medium blue mat",
+      "EUde": "Blau-Standardmatte M",
+      "EUes": "alfombra sencilla azul M",
+      "USes": "alfombra sencilla azul M",
+      "EUfr": "tapis simple bleu M",
+      "USfr": "tapis simple bleu M",
+      "EUit": "tappetino blu M",
+      "EUnl": "simpele blauwe mat",
+      "CNzh": "蓝色简约地垫M",
+      "TWzh": "中型藍色簡約地墊",
+      "JPja": "あおいシンプルマット・M",
+      "KRko": "파란 심플 매트 M",
+      "EUru": "синий коврик M"
+    }
+  },
+  {
+    "id": "Rug_07524",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium avocado mat",
+      "EUen": "simple medium avocado mat",
+      "EUde": "Khaki-Standardmatte M",
+      "EUes": "alfombra sencilla oliva M",
+      "USes": "alfombra sencilla oliva M",
+      "EUfr": "tapis simple vert kaki M",
+      "USfr": "tapis simple vert kaki M",
+      "EUit": "tappetino verde olivastro M",
+      "EUnl": "simpele kakimat",
+      "CNzh": "卡其色简约地垫M",
+      "TWzh": "中型卡其色簡約地墊",
+      "JPja": "カーキのシンプルマット・M",
+      "KRko": "카키 심플 매트 M",
+      "EUru": "коврик цвета хаки M"
+    }
+  },
+  {
+    "id": "Rug_07532",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach stripes rug",
+      "EUen": "peach stripes rug",
+      "EUde": "Rosa-Streifenteppich",
+      "EUes": "alfombra rayas rosa",
+      "USes": "alfombra rayas rosa",
+      "EUfr": "tapis à rayures roses",
+      "USfr": "tapis à rayures roses",
+      "EUit": "tappeto a strisce pesca",
+      "EUnl": "roze gestreepte tapijt",
+      "CNzh": "桃红色粗条纹地毯",
+      "TWzh": "桃紅色粗橫紋地毯",
+      "JPja": "ももいろボーダーのラグ",
+      "KRko": "분홍 줄무늬 러그",
+      "EUru": "ковер в розоватую полоску"
+    }
+  },
+  {
+    "id": "Rug_07533",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue stripes rug",
+      "EUen": "blue stripes rug",
+      "EUde": "Blau-Streifenteppich",
+      "EUes": "alfombra rayas azul",
+      "USes": "alfombra rayas azul",
+      "EUfr": "tapis à rayures bleues",
+      "USfr": "tapis à rayures bleues",
+      "EUit": "tappeto a strisce blu",
+      "EUnl": "blauwe gestreepte tapijt",
+      "CNzh": "蓝色粗条纹地毯",
+      "TWzh": "藍色粗橫紋地毯",
+      "JPja": "あおボーダーのラグ",
+      "KRko": "파란 줄무늬 러그",
+      "EUru": "ковер в синюю полоску"
+    }
+  },
+  {
+    "id": "Rug_07534",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green stripes rug",
+      "EUen": "green stripes rug",
+      "EUde": "Grün-Streifenteppich",
+      "EUes": "alfombra rayas verde",
+      "USes": "alfombra rayas verde",
+      "EUfr": "tapis à rayures vertes",
+      "USfr": "tapis à rayures vertes",
+      "EUit": "tappeto a strisce verdi",
+      "EUnl": "groene gestreepte tapijt",
+      "CNzh": "绿色粗条纹地毯",
+      "TWzh": "綠色粗橫紋地毯",
+      "JPja": "みどりボーダーのラグ",
+      "KRko": "초록 줄무늬 러그",
+      "EUru": "ковер в зеленую полоску"
+    }
+  },
+  {
+    "id": "Rug_07536",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium orange mat",
+      "EUen": "simple medium orange mat",
+      "EUde": "Orange-Standardmatte M",
+      "EUes": "alfombra sencilla naranja M",
+      "USes": "alfombra sencilla naranja M",
+      "EUfr": "tapis simple orange M",
+      "USfr": "tapis simple orange M",
+      "EUit": "tappetino arancione M",
+      "EUnl": "simpele oranje mat",
+      "CNzh": "橘色简约地垫M",
+      "TWzh": "中型橘色簡約地墊",
+      "JPja": "オレンジのシンプルマット・M",
+      "KRko": "오렌지 심플 매트 M",
+      "EUru": "оранжевый коврик M"
+    }
+  },
+  {
+    "id": "Rug_07537",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small red mat",
+      "EUen": "simple small red mat",
+      "EUde": "Rot-Standardmatte S",
+      "EUes": "alfombra sencilla roja P",
+      "USes": "alfombra sencilla roja P",
+      "EUfr": "tapis simple rouge S",
+      "USfr": "tapis simple rouge P",
+      "EUit": "tappetino rosso S",
+      "EUnl": "simpele kleine rode mat",
+      "CNzh": "红色简约地垫S",
+      "TWzh": "小型紅色簡約地墊",
+      "JPja": "あかいシンプルマット・S",
+      "KRko": "빨간 심플 매트 S",
+      "EUru": "красный коврик S"
+    }
+  },
+  {
+    "id": "Rug_07538",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium purple mat",
+      "EUen": "simple medium purple mat",
+      "EUde": "Lila-Standardmatte M",
+      "EUes": "alfombra sencilla lila M",
+      "USes": "alfombra sencilla morada M",
+      "EUfr": "tapis simple mauve M",
+      "USfr": "tapis simple mauve M",
+      "EUit": "tappetino viola M",
+      "EUnl": "simpele paarse mat",
+      "CNzh": "紫色简约地垫M",
+      "TWzh": "中型紫色簡約地墊",
+      "JPja": "むらさきのシンプルマット・M",
+      "KRko": "보라 심플 매트 M",
+      "EUru": "сиреневый коврик M"
+    }
+  },
+  {
+    "id": "Rug_07539",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium black mat",
+      "EUen": "simple medium black mat",
+      "EUde": "Schwarz-Standardmatte M",
+      "EUes": "alfombra sencilla negra M",
+      "USes": "alfombra sencilla negra M",
+      "EUfr": "tapis simple noir M",
+      "USfr": "tapis simple noir M",
+      "EUit": "tappetino nero M",
+      "EUnl": "simpele zwarte mat",
+      "CNzh": "黑色简约地垫M",
+      "TWzh": "中型黑色簡約地墊",
+      "JPja": "くろいシンプルマット・M",
+      "KRko": "검정 심플 매트 M",
+      "EUru": "черный коврик M"
+    }
+  },
+  {
+    "id": "Rug_07540",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple medium red mat",
+      "EUen": "simple medium red mat",
+      "EUde": "Rot-Standardmatte M",
+      "EUes": "alfombra sencilla roja M",
+      "USes": "alfombra sencilla roja M",
+      "EUfr": "tapis simple rouge M",
+      "USfr": "tapis simple rouge M",
+      "EUit": "tappetino rosso M",
+      "EUnl": "simpele rode mat",
+      "CNzh": "红色简约地垫M",
+      "TWzh": "中型紅色簡約地墊",
+      "JPja": "あかいシンプルマット・M",
+      "KRko": "빨간 심플 매트 M",
+      "EUru": "красный коврик M"
+    }
+  },
+  {
+    "id": "Rug_07541",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small orange mat",
+      "EUen": "simple small orange mat",
+      "EUde": "Orange-Standardmatte S",
+      "EUes": "alfombra sencilla naranja P",
+      "USes": "alfombra sencilla naranja P",
+      "EUfr": "tapis simple orange S",
+      "USfr": "tapis simple orange P",
+      "EUit": "tappetino arancione S",
+      "EUnl": "simpele kleine oranje mat",
+      "CNzh": "橘色简约地垫S",
+      "TWzh": "小型橘色簡約地墊",
+      "JPja": "オレンジのシンプルマット・S",
+      "KRko": "오렌지 심플 매트 S",
+      "EUru": "оранжевый коврик S"
+    }
+  },
+  {
+    "id": "Rug_07542",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small purple mat",
+      "EUen": "simple small purple mat",
+      "EUde": "Lila-Standardmatte S",
+      "EUes": "alfombra sencilla lila P",
+      "USes": "alfombra sencilla morada P",
+      "EUfr": "tapis simple mauve S",
+      "USfr": "tapis simple mauve P",
+      "EUit": "tappetino viola S",
+      "EUnl": "simpele kleine paarse mat",
+      "CNzh": "紫色简约地垫S",
+      "TWzh": "小型紫色簡約地墊",
+      "JPja": "むらさきのシンプルマット・S",
+      "KRko": "보라 심플 매트 S",
+      "EUru": "сиреневый коврик S"
+    }
+  },
+  {
+    "id": "Rug_07543",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple small black mat",
+      "EUen": "simple small black mat",
+      "EUde": "Schwarz-Standardmatte S",
+      "EUes": "alfombra sencilla negra P",
+      "USes": "alfombra sencilla negra P",
+      "EUfr": "tapis simple noir S",
+      "USfr": "tapis simple noir P",
+      "EUit": "tappetino nero S",
+      "EUnl": "simpele kleine zwarte mat",
+      "CNzh": "黑色简约地垫S",
+      "TWzh": "小型黑色簡約地墊",
+      "JPja": "くろいシンプルマット・S",
+      "KRko": "검정 심플 매트 S",
+      "EUru": "черный коврик S"
+    }
+  },
+  {
+    "id": "Rug_07546",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day rug",
+      "EUen": "Bunny Day rug",
+      "EUde": "Häschentag-Teppich",
+      "EUes": "alfombra Caza del Huevo",
+      "USes": "alfombra Caza del Huevo",
+      "EUfr": "tapis fête des œufs",
+      "USfr": "tapis fête des œufs",
+      "EUit": "tappeto caccia all'uovo",
+      "EUnl": "eiertapijt",
+      "CNzh": "复活节地毯",
+      "TWzh": "復活節地毯",
+      "JPja": "イースターなラグ",
+      "KRko": "이스터 러그",
+      "EUru": "ковер «День зайцев»"
+    }
+  },
+  {
+    "id": "Rug_07578",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white heart rug",
+      "EUen": "white heart rug",
+      "EUde": "Weiß-Herzteppich",
+      "EUes": "alfombra amor blanca",
+      "USes": "alfombra amor blanca",
+      "EUfr": "tapis amour blanc",
+      "USfr": "tapis amour blanc",
+      "EUit": "tappeto amore bianco",
+      "EUnl": "witte hartjestapijt",
+      "CNzh": "白色爱心地毯",
+      "TWzh": "白色愛心地毯",
+      "JPja": "ホワイトハートのラグ",
+      "KRko": "화이트 하트 러그",
+      "EUru": "белый ковер-сердце"
+    }
+  },
+  {
+    "id": "Rug_07579",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "turquoise heart rug",
+      "EUen": "turquoise heart rug",
+      "EUde": "Türkis-Herzteppich",
+      "EUes": "alfombra amor turquesa",
+      "USes": "alfombra amor turquesa",
+      "EUfr": "tapis amour turquoise",
+      "USfr": "tapis amour menthe",
+      "EUit": "tappeto amore turchese",
+      "EUnl": "turquoise hartjestapijt",
+      "CNzh": "蓝色爱心地毯",
+      "TWzh": "藍色愛心地毯",
+      "JPja": "ブルーハートのラグ",
+      "KRko": "블루 하트 러그",
+      "EUru": "бирюзовый ковер-сердце"
+    }
+  },
+  {
+    "id": "Rug_07580",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple heart rug",
+      "EUen": "purple heart rug",
+      "EUde": "Lila-Herzteppich",
+      "EUes": "alfombra amor morada",
+      "USes": "alfombra amor morada",
+      "EUfr": "tapis amour mauve",
+      "USfr": "tapis amour mauve",
+      "EUit": "tappeto amore viola",
+      "EUnl": "paarse hartjestapijt",
+      "CNzh": "紫色爱心地毯",
+      "TWzh": "紫色愛心地毯",
+      "JPja": "パープルハートのラグ",
+      "KRko": "퍼플 하트 러그",
+      "EUru": "сиреневый ковер-сердце"
+    }
+  },
+  {
+    "id": "Rug_07594",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black-design kitchen mat",
+      "EUen": "black-design kitchen mat",
+      "EUde": "Schwarzmuster-Matte",
+      "EUes": "alfombra étnica negra",
+      "USes": "alfombra étnica negra",
+      "EUfr": "tapis cuisine à motifs noir",
+      "USfr": "tapis cuisine à motifs noir",
+      "EUit": "tappeto cucina design nero",
+      "EUnl": "zwarte designkeukenmat",
+      "CNzh": "黑色图案厨房地垫",
+      "TWzh": "黑色圖案廚房地墊",
+      "JPja": "くろいパターンキッチンマット",
+      "KRko": "검정 패턴 키친 매트",
+      "EUru": "коврик с черным узором"
+    }
+  },
+  {
+    "id": "Rug_07595",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue-design kitchen mat",
+      "EUen": "blue-design kitchen mat",
+      "EUde": "Blaumuster-Matte",
+      "EUes": "alfombra étnica azul",
+      "USes": "alfombra étnica azul",
+      "EUfr": "tapis cuisine à motifs bleu",
+      "USfr": "tapis cuisine à motifs bleu",
+      "EUit": "tappeto cucina design blu",
+      "EUnl": "blauwe designkeukenmat",
+      "CNzh": "蓝色图案厨房地垫",
+      "TWzh": "藍色圖案廚房地墊",
+      "JPja": "あおいパターンキッチンマット",
+      "KRko": "파란 패턴 키친 매트",
+      "EUru": "коврик с синим узором"
+    }
+  },
+  {
+    "id": "Rug_07596",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow-design kitchen mat",
+      "EUen": "yellow-design kitchen mat",
+      "EUde": "Gelbmuster-Matte",
+      "EUes": "alfombra étnica amarilla",
+      "USes": "alfombra étnica amarilla",
+      "EUfr": "tapis cuisine à motifs jaune",
+      "USfr": "tapis cuisine à motifs jaune",
+      "EUit": "tappeto cucina design giallo",
+      "EUnl": "gele designkeukenmat",
+      "CNzh": "黄色图案厨房地垫",
+      "TWzh": "黃色圖案廚房地墊",
+      "JPja": "きいろパターンキッチンマット",
+      "KRko": "노란 패턴 키친 매트",
+      "EUru": "коврик с желтым узором"
+    }
+  },
+  {
+    "id": "Rug_08035",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue Persian rug",
+      "EUen": "blue Persian rug",
+      "EUde": "Blau-Klassikteppich",
+      "EUes": "alfombra clásica azul",
+      "USes": "alfombra clásica azul",
+      "EUfr": "tapis persan bleu",
+      "USfr": "tapis persan bleu",
+      "EUit": "tappeto antico blu",
+      "EUnl": "blauwe Perzische tapijt",
+      "CNzh": "蓝色波斯地毯",
+      "TWzh": "藍色波斯地毯",
+      "JPja": "あおいペルシャじゅうたん",
+      "KRko": "파란 페르시아 융단",
+      "EUru": "синий персидский ковер"
+    }
+  },
+  {
+    "id": "Rug_08036",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow Persian rug",
+      "EUen": "yellow Persian rug",
+      "EUde": "Gelb-Klassikteppich",
+      "EUes": "alfombra clásica amarilla",
+      "USes": "alfombra clásica amarilla",
+      "EUfr": "tapis persan jaune",
+      "USfr": "tapis persan jaune",
+      "EUit": "tappeto antico giallo",
+      "EUnl": "gele Perzische tapijt",
+      "CNzh": "黄色波斯地毯",
+      "TWzh": "黃色波斯地毯",
+      "JPja": "きいろいペルシャじゅうたん",
+      "KRko": "노란 페르시아 융단",
+      "EUru": "желт. персидский ковер"
+    }
+  },
+  {
+    "id": "Rug_08037",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple Persian rug",
+      "EUen": "purple Persian rug",
+      "EUde": "Lila-Klassikteppich",
+      "EUes": "alfombra clásica morada",
+      "USes": "alfombra clásica morada",
+      "EUfr": "tapis persan mauve",
+      "USfr": "tapis persan mauve",
+      "EUit": "tappeto antico viola",
+      "EUnl": "paarse Perzische tapijt",
+      "CNzh": "紫色波斯地毯",
+      "TWzh": "紫色波斯地毯",
+      "JPja": "むらさきのペルシャじゅうたん",
+      "KRko": "보라 페르시아 융단",
+      "EUru": "сирен. персидский ковер"
+    }
+  },
+  {
+    "id": "Rug_08393",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green kitchen mat",
+      "EUen": "green kitchen mat",
+      "EUde": "Grün-Küchenmatte",
+      "EUes": "alfombra cocina verde",
+      "USes": "alfombra cocina verde",
+      "EUfr": "tapis de cuisine vert",
+      "USfr": "tapis de cuisine vert",
+      "EUit": "tappetino cucina verde",
+      "EUnl": "groene keukenmat",
+      "CNzh": "绿色厨房地垫",
+      "TWzh": "綠色廚房地墊",
+      "JPja": "みどりのキッチンマット",
+      "KRko": "초록 키친 매트",
+      "EUru": "зелен. коврик на кухню"
+    }
+  },
+  {
+    "id": "Rug_08394",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue kitchen mat",
+      "EUen": "blue kitchen mat",
+      "EUde": "Blau-Küchenmatte",
+      "EUes": "alfombra cocina azul",
+      "USes": "alfombra cocina azul",
+      "EUfr": "tapis de cuisine bleu",
+      "USfr": "tapis de cuisine bleu",
+      "EUit": "tappetino cucina blu",
+      "EUnl": "blauwe keukenmat",
+      "CNzh": "蓝色厨房地垫",
+      "TWzh": "藍色廚房地墊",
+      "JPja": "あおいキッチンマット",
+      "KRko": "파란 키친 매트",
+      "EUru": "синий коврик на кухню"
+    }
+  },
+  {
+    "id": "Rug_08395",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow kitchen mat",
+      "EUen": "yellow kitchen mat",
+      "EUde": "Gelb-Küchenmatte",
+      "EUes": "alfombra cocina amarilla",
+      "USes": "alfombra cocina amarilla",
+      "EUfr": "tapis de cuisine jaune",
+      "USfr": "tapis de cuisine jaune",
+      "EUit": "tappetino cucina giallo",
+      "EUnl": "gele keukenmat",
+      "CNzh": "黄色厨房地垫",
+      "TWzh": "黃色廚房地墊",
+      "JPja": "きいろいキッチンマット",
+      "KRko": "노란 키친 매트",
+      "EUru": "желтый коврик на кухню"
+    }
+  },
+  {
+    "id": "Rug_08466",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red argyle rug",
+      "EUen": "red argyle rug",
+      "EUde": "Rot-Argyle-Teppich",
+      "EUes": "alfombra rombos roja",
+      "USes": "alfombra rombos roja",
+      "EUfr": "tapis argyle rouge",
+      "USfr": "tapis écossais rouge",
+      "EUit": "tappeto a rombi rosso",
+      "EUnl": "rode geruite tapijt",
+      "CNzh": "红色菱格纹地毯",
+      "TWzh": "紅色菱格紋地毯",
+      "JPja": "あかいアーガイルのラグ",
+      "KRko": "빨간 아가일 러그",
+      "EUru": "красный ковер аргайл"
+    }
+  },
+  {
+    "id": "Rug_08467",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue argyle rug",
+      "EUen": "blue argyle rug",
+      "EUde": "Blau-Argyle-Teppich",
+      "EUes": "alfombra rombos azul",
+      "USes": "alfombra rombos azul",
+      "EUfr": "tapis argyle bleu",
+      "USfr": "tapis écossais bleu",
+      "EUit": "tappeto a rombi blu",
+      "EUnl": "blauwe geruite tapijt",
+      "CNzh": "蓝色菱格纹地毯",
+      "TWzh": "藍色菱格紋地毯",
+      "JPja": "あおいアーガイルのラグ",
+      "KRko": "파란 아가일 러그",
+      "EUru": "синий ковер аргайл"
+    }
+  },
+  {
+    "id": "Rug_08468",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown argyle rug",
+      "EUen": "brown argyle rug",
+      "EUde": "Braun-Argyle-Teppich",
+      "EUes": "alfombra rombos marrón",
+      "USes": "alfombra rombos marrón",
+      "EUfr": "tapis argyle brun",
+      "USfr": "tapis écossais brun",
+      "EUit": "tappeto a rombi marrone",
+      "EUnl": "bruine geruite tapijt",
+      "CNzh": "茶色菱格纹地毯",
+      "TWzh": "茶色菱格紋地毯",
+      "JPja": "ちゃいろいアーガイルのラグ",
+      "KRko": "갈색 아가일 러그",
+      "EUru": "коричневый ковер аргайл"
+    }
+  },
+  {
+    "id": "Rug_08757",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white rose rug",
+      "EUen": "white rose rug",
+      "EUde": "Weiß-Rosenteppich",
+      "EUes": "alfombra rosa blanca",
+      "USes": "alfombra rosa blanca",
+      "EUfr": "tapis rose blanche",
+      "USfr": "tapis rose blanche",
+      "EUit": "tappeto rosa bianca",
+      "EUnl": "witteroostapijt",
+      "CNzh": "白色玫瑰地毯",
+      "TWzh": "白色玫瑰地毯",
+      "JPja": "ホワイトローズのラグ",
+      "KRko": "화이트 로즈 러그",
+      "EUru": "белый ковер-роза"
+    }
+  },
+  {
+    "id": "Rug_08758",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red rose rug",
+      "EUen": "red rose rug",
+      "EUde": "Rot-Rosenteppich",
+      "EUes": "alfombra rosa roja",
+      "USes": "alfombra rosa roja",
+      "EUfr": "tapis rose rouge",
+      "USfr": "tapis rose rouge",
+      "EUit": "tappeto rosa rossa",
+      "EUnl": "roderoostapijt",
+      "CNzh": "红色玫瑰地毯",
+      "TWzh": "紅色玫瑰地毯",
+      "JPja": "レッドローズのラグ",
+      "KRko": "레드 로즈 러그",
+      "EUru": "красный ковер-роза"
+    }
+  },
+  {
+    "id": "Rug_08759",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow rose rug",
+      "EUen": "yellow rose rug",
+      "EUde": "Gelb-Rosenteppich",
+      "EUes": "alfombra rosa amarilla",
+      "USes": "alfombra rosa amarilla",
+      "EUfr": "tapis rose jaune",
+      "USfr": "tapis rose jaune",
+      "EUit": "tappeto rosa gialla",
+      "EUnl": "geleroostapijt",
+      "CNzh": "黄色玫瑰地毯",
+      "TWzh": "黃色玫瑰地毯",
+      "JPja": "イエローローズのラグ",
+      "KRko": "옐로 로즈 러그",
+      "EUru": "желтый ковер-роза"
+    }
+  },
+  {
+    "id": "Rug_09310",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue message mat",
+      "EUen": "blue message mat",
+      "EUde": "Blau-Textmatte",
+      "EUes": "alfombra bocadillo azul",
+      "USes": "alfombra bocadillo azul",
+      "EUfr": "paillasson à message bleu",
+      "USfr": "paillasson à message bleu",
+      "EUit": "tappetino benvenuto blu",
+      "EUnl": "blauwe boodschapmat",
+      "CNzh": "蓝色信息地垫",
+      "TWzh": "藍色訊息地墊",
+      "JPja": "あおいメッセージマット",
+      "KRko": "파란 메시지 매트",
+      "EUru": "синий коврик с текстом"
+    }
+  },
+  {
+    "id": "Rug_09311",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow message mat",
+      "EUen": "yellow message mat",
+      "EUde": "Gelb-Textmatte",
+      "EUes": "alfombra bocadillo amarilla",
+      "USes": "alfombra bocadillo amarilla",
+      "EUfr": "paillasson à message jaune",
+      "USfr": "paillasson à message jaune",
+      "EUit": "tappetino benvenuto giallo",
+      "EUnl": "gele boodschapmat",
+      "CNzh": "黄色信息地垫",
+      "TWzh": "黃色訊息地墊",
+      "JPja": "きいろいメッセージマット",
+      "KRko": "노란 메시지 매트",
+      "EUru": "желт. коврик с текстом"
+    }
+  },
+  {
+    "id": "Rug_09312",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red message mat",
+      "EUen": "red message mat",
+      "EUde": "Rot-Textmatte",
+      "EUes": "alfombra bocadillo roja",
+      "USes": "alfombra bocadillo roja",
+      "EUfr": "paillasson à message rouge",
+      "USfr": "paillasson à message rouge",
+      "EUit": "tappetino benvenuto rosso",
+      "EUnl": "rode boodschapmat",
+      "CNzh": "红色信息地垫",
+      "TWzh": "紅色訊息地墊",
+      "JPja": "あかいメッセージマット",
+      "KRko": "빨간 메시지 매트",
+      "EUru": "красн. коврик с текстом"
+    }
+  },
+  {
+    "id": "Rug_09313",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red kilim-style carpet",
+      "EUen": "red kilim-style carpet",
+      "EUde": "Rot-Kelimteppich",
+      "EUes": "alfombra kilim roja",
+      "USes": "alfombra kilim roja",
+      "EUfr": "tapis kilim rouge",
+      "USfr": "tapis kilim rouge",
+      "EUit": "tappeto kilim rosso",
+      "EUnl": "rode kelimtapijt",
+      "CNzh": "红色基里姆地毯",
+      "TWzh": "紅色基里姆地毯",
+      "JPja": "あかいキリムのカーペット",
+      "KRko": "빨간 킬림 카펫",
+      "EUru": "красный килим"
+    }
+  },
+  {
+    "id": "Rug_09314",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green kilim-style carpet",
+      "EUen": "green kilim-style carpet",
+      "EUde": "Grün-Kelimteppich",
+      "EUes": "alfombra kilim verde",
+      "USes": "alfombra kilim verde",
+      "EUfr": "tapis kilim vert",
+      "USfr": "tapis kilim vert",
+      "EUit": "tappeto kilim verde",
+      "EUnl": "groene kelimtapijt",
+      "CNzh": "绿色基里姆地毯",
+      "TWzh": "綠色基里姆地毯",
+      "JPja": "みどりのキリムのカーペット",
+      "KRko": "초록 킬림 카펫",
+      "EUru": "зеленый килим"
+    }
+  },
+  {
+    "id": "Rug_09315",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow kilim-style carpet",
+      "EUen": "yellow kilim-style carpet",
+      "EUde": "Gelb-Kelimteppich",
+      "EUes": "alfombra kilim ocre",
+      "USes": "alfombra kilim ocre",
+      "EUfr": "tapis kilim jaune",
+      "USfr": "tapis kilim jaune",
+      "EUit": "tappeto kilim giallo",
+      "EUnl": "gele kelimtapijt",
+      "CNzh": "黄色基里姆地毯",
+      "TWzh": "黃色基里姆地毯",
+      "JPja": "きいろいキリムのカーペット",
+      "KRko": "노란 킬림 카펫",
+      "EUru": "желтый килим"
+    }
+  },
+  {
+    "id": "Rug_09316",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue kilim-style carpet",
+      "EUen": "blue kilim-style carpet",
+      "EUde": "Blau-Kelimteppich",
+      "EUes": "alfombra kilim azul",
+      "USes": "alfombra kilim azul",
+      "EUfr": "tapis kilim bleu",
+      "USfr": "tapis kilim bleu",
+      "EUit": "tappeto kilim blu",
+      "EUnl": "blauwe kelimtapijt",
+      "CNzh": "蓝色基里姆地毯",
+      "TWzh": "藍色基里姆地毯",
+      "JPja": "あおいキリムのカーペット",
+      "KRko": "파란 킬림 카펫",
+      "EUru": "синий килим"
+    }
+  },
+  {
+    "id": "Rug_09541",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's reliable kitchen mat",
+      "EUen": "Mom's reliable kitchen mat",
+      "EUde": "Bewährt-Matte von Mama",
+      "EUes": "alfombra de mamá lila",
+      "USes": "alfombra de mamá lila",
+      "EUfr": "t. cuisine de maman mauve",
+      "USfr": "t. cuisine de maman mauve",
+      "EUit": "tappeto serio di mamma",
+      "EUnl": "mama's trouwe keukenmat",
+      "CNzh": "可靠妈妈的厨房地垫",
+      "TWzh": "可靠媽媽廚房地墊",
+      "JPja": "たよれるははのキッチンマット",
+      "KRko": "든든한 엄마의 키친 매트",
+      "EUru": "мамин любимый ковер"
+    }
+  },
+  {
+    "id": "Rug_09542",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's playful kitchen mat",
+      "EUen": "Mom's playful kitchen mat",
+      "EUde": "Verspielt-Matte von Mama",
+      "EUes": "alfombra de mamá rosa",
+      "USes": "alfombra de mamá rosa",
+      "EUfr": "tap. cuisine de maman rose",
+      "USfr": "tap. cuisine de maman rose",
+      "EUit": "tappeto buffo di mamma",
+      "EUnl": "mama's speelse keukenmat",
+      "CNzh": "天真妈妈的厨房地垫",
+      "TWzh": "調皮媽媽廚房地墊",
+      "JPja": "オチャメなははのキッチンマット",
+      "KRko": "짓궂은 엄마의 키친 매트",
+      "EUru": "мамин забавный ковер"
+    }
+  },
+  {
+    "id": "Rug_09543",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's lively kitchen mat",
+      "EUen": "Mom's lively kitchen mat",
+      "EUde": "Lebhaft-Matte von Mama",
+      "EUes": "alfombra de mamá amarilla",
+      "USes": "alfombra de mamá amarilla",
+      "EUfr": "t. cuisine de maman jaune",
+      "USfr": "t. cuisine de maman jaune",
+      "EUit": "tappeto vivace di mamma",
+      "EUnl": "mama's vrolijke keukenmat",
+      "CNzh": "活力妈妈的厨房地垫",
+      "TWzh": "活潑媽媽廚房地墊",
+      "JPja": "げんきなははのキッチンマット",
+      "KRko": "발랄한 엄마의 키친 매트",
+      "EUru": "мамин яркий ковер"
+    }
+  },
+  {
+    "id": "Rug_09544",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow medium round mat",
+      "EUen": "yellow medium round mat",
+      "EUde": "Gelb-Rundmatte M",
+      "EUes": "alfombra redonda ocre M",
+      "USes": "alfombra redonda ocre M",
+      "EUfr": "tapis rond jaune M",
+      "USfr": "tapis rond jaune M",
+      "EUit": "tappetino tondo giallo M",
+      "EUnl": "gele ronde mat",
+      "CNzh": "黄色圆形地垫M",
+      "TWzh": "中型黃色圓地墊",
+      "JPja": "きいろいラウンドマット・M",
+      "KRko": "노란 라운드 매트 M",
+      "EUru": "кругл. желтый коврик M"
+    }
+  },
+  {
+    "id": "Rug_09545",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red medium round mat",
+      "EUen": "red medium round mat",
+      "EUde": "Rot-Rundmatte M",
+      "EUes": "alfombra redonda roja M",
+      "USes": "alfombra redonda roja M",
+      "EUfr": "tapis rond rouge M",
+      "USfr": "tapis rond rouge M",
+      "EUit": "tappetino tondo rosso M",
+      "EUnl": "rode ronde mat",
+      "CNzh": "红色圆形地垫M",
+      "TWzh": "中型紅色圓地墊",
+      "JPja": "あかいラウンドマット・M",
+      "KRko": "빨간 라운드 매트 M",
+      "EUru": "кругл. красный коврик M"
+    }
+  },
+  {
+    "id": "Rug_09546",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue medium round mat",
+      "EUen": "blue medium round mat",
+      "EUde": "Blau-Rundmatte M",
+      "EUes": "alfombra redonda azul M",
+      "USes": "alfombra redonda azul M",
+      "EUfr": "tapis rond bleu M",
+      "USfr": "tapis rond bleu M",
+      "EUit": "tappetino tondo blu M",
+      "EUnl": "blauwe ronde mat",
+      "CNzh": "蓝色圆形地垫M",
+      "TWzh": "中型藍色圓地墊",
+      "JPja": "あおいラウンドマット・M",
+      "KRko": "파란 라운드 매트 M",
+      "EUru": "кругл. синий коврик M"
+    }
+  },
+  {
+    "id": "Rug_09547",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow small round mat",
+      "EUen": "yellow small round mat",
+      "EUde": "Gelb-Rundmatte S",
+      "EUes": "alfombra redonda ocre P",
+      "USes": "alfombra redonda ocre P",
+      "EUfr": "tapis rond jaune S",
+      "USfr": "tapis rond jaune P",
+      "EUit": "tappetino tondo giallo S",
+      "EUnl": "gele kleine ronde mat",
+      "CNzh": "黄色圆形地垫S",
+      "TWzh": "小型黃色圓地墊",
+      "JPja": "きいろいラウンドマット・S",
+      "KRko": "노란 라운드 매트 S",
+      "EUru": "кругл. желтый коврик S"
+    }
+  },
+  {
+    "id": "Rug_09548",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red small round mat",
+      "EUen": "red small round mat",
+      "EUde": "Rot-Rundmatte S",
+      "EUes": "alfombra redonda roja P",
+      "USes": "alfombra redonda roja P",
+      "EUfr": "tapis rond rouge S",
+      "USfr": "tapis rond rouge P",
+      "EUit": "tappetino tondo rosso S",
+      "EUnl": "rode kleine ronde mat",
+      "CNzh": "红色圆形地垫S",
+      "TWzh": "小型紅色圓地墊",
+      "JPja": "あかいラウンドマット・S",
+      "KRko": "빨간 라운드 매트 S",
+      "EUru": "кругл. красный коврик S"
+    }
+  },
+  {
+    "id": "Rug_09549",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue small round mat",
+      "EUen": "blue small round mat",
+      "EUde": "Blau-Rundmatte S",
+      "EUes": "alfombra redonda azul P",
+      "USes": "alfombra redonda azul P",
+      "EUfr": "tapis rond bleu S",
+      "USfr": "tapis rond bleu P",
+      "EUit": "tappetino tondo blu S",
+      "EUnl": "blauwe kleine ronde mat",
+      "CNzh": "蓝色圆形地垫S",
+      "TWzh": "小型藍色圓地墊",
+      "JPja": "あおいラウンドマット・S",
+      "KRko": "파란 라운드 매트 S",
+      "EUru": "кругл. синий коврик S"
+    }
+  },
+  {
+    "id": "Rug_09562",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple shaggy rug",
+      "EUen": "purple shaggy rug",
+      "EUde": "Lila-Zottelteppich",
+      "EUes": "alfombra pelusilla morada",
+      "USes": "alfombra mullida morada",
+      "EUfr": "tapis à poil long violet",
+      "USfr": "tapis à poil long mauve",
+      "EUit": "tappeto peloso viola",
+      "EUnl": "paarse harige tapijt",
+      "CNzh": "紫色长绒地毯",
+      "TWzh": "紫色長毛地毯",
+      "JPja": "むらさきのシャギーなラグ",
+      "KRko": "보라 복슬복슬 러그",
+      "EUru": "фиолет. ковер с ворсом"
+    }
+  },
+  {
+    "id": "Rug_09563",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown shaggy rug",
+      "EUen": "brown shaggy rug",
+      "EUde": "Braun-Zottelteppich",
+      "EUes": "alfombra pelusilla marrón",
+      "USes": "alfombra mullida marrón",
+      "EUfr": "tapis à poil long brun",
+      "USfr": "tapis à poil long brun",
+      "EUit": "tappeto peloso marrone",
+      "EUnl": "bruine harige tapijt",
+      "CNzh": "茶色长绒地毯",
+      "TWzh": "茶色長毛地毯",
+      "JPja": "ちゃいろいシャギーなラグ",
+      "KRko": "갈색 복슬복슬 러그",
+      "EUru": "коричн. ковер с ворсом"
+    }
+  },
+  {
+    "id": "Rug_09564",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue shaggy rug",
+      "EUen": "blue shaggy rug",
+      "EUde": "Blau-Zottelteppich",
+      "EUes": "alfombra pelusilla azul",
+      "USes": "alfombra mullida azul",
+      "EUfr": "tapis à poil long bleu",
+      "USfr": "tapis à poil long bleu",
+      "EUit": "tappeto peloso blu",
+      "EUnl": "blauwe harige tapijt",
+      "CNzh": "蓝色长绒地毯",
+      "TWzh": "藍色長毛地毯",
+      "JPja": "あおいシャギーなラグ",
+      "KRko": "파란 복슬복슬 러그",
+      "EUru": "синий ковер с ворсом"
+    }
+  },
+  {
+    "id": "Rug_11101",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red blocks rug",
+      "EUen": "red blocks rug",
+      "EUde": "Rot-Viereckmatte",
+      "EUes": "alfombra pixelada roja",
+      "USes": "alfombra pixelada roja",
+      "EUfr": "tapis à carreaux rouge",
+      "USfr": "tapis à carreaux rouge",
+      "EUit": "tappeto a blocchi rossi",
+      "EUnl": "rodeblokkentapijt",
+      "CNzh": "红色方块地毯",
+      "TWzh": "紅色磚塊地毯",
+      "JPja": "あかブロックのラグ",
+      "KRko": "빨간 블록 러그",
+      "EUru": "красный ковер с прямоуг."
+    }
+  },
+  {
+    "id": "Rug_11102",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue blocks rug",
+      "EUen": "blue blocks rug",
+      "EUde": "Blau-Viereckmatte",
+      "EUes": "alfombra pixelada azul",
+      "USes": "alfombra pixelada azul",
+      "EUfr": "tapis à carreaux bleu",
+      "USfr": "tapis à carreaux bleu",
+      "EUit": "tappeto a blocchi blu",
+      "EUnl": "blauweblokkentapijt",
+      "CNzh": "蓝色方块地毯",
+      "TWzh": "藍色磚塊地毯",
+      "JPja": "あおブロックのラグ",
+      "KRko": "파란 블록 러그",
+      "EUru": "синий ковер с прямоуг."
+    }
+  },
+  {
+    "id": "Rug_11103",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow blocks rug",
+      "EUen": "yellow blocks rug",
+      "EUde": "Gelb-Viereckmatte",
+      "EUes": "alfombra pixelada amarilla",
+      "USes": "alfombra pixelada amarilla",
+      "EUfr": "tapis à carreaux jaune",
+      "USfr": "tapis à carreaux jaune",
+      "EUit": "tappeto a blocchi gialli",
+      "EUnl": "geleblokkentapijt",
+      "CNzh": "黄色方块地毯",
+      "TWzh": "黃色磚塊地毯",
+      "JPja": "きいろブロックのラグ",
+      "KRko": "노란 블록 러그",
+      "EUru": "желтый ковер с прямоуг."
+    }
+  },
+  {
+    "id": "Rug_11104",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black blocks rug",
+      "EUen": "black blocks rug",
+      "EUde": "Schwarz-Viereckmatte",
+      "EUes": "alfombra pixelada negra",
+      "USes": "alfombra pixelada negra",
+      "EUfr": "tapis à carreaux noir",
+      "USfr": "tapis à carreaux noir",
+      "EUit": "tappeto a blocchi neri",
+      "EUnl": "zwarteblokkentapijt",
+      "CNzh": "单色方块地毯",
+      "TWzh": "灰階配色磚塊地毯",
+      "JPja": "モノクロブロックのラグ",
+      "KRko": "흑백 블록 러그",
+      "EUru": "черный ковер с прямоуг."
+    }
+  },
+  {
+    "id": "Rug_11113",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light bamboo rug",
+      "EUen": "light bamboo rug",
+      "EUde": "Hell-Bambusmatte",
+      "EUes": "alfombra bambú clara",
+      "USes": "alfombra bambú clara",
+      "EUfr": "tapis bambou clair",
+      "USfr": "tapis bambou clair",
+      "EUit": "tappeto di bambù chiaro",
+      "EUnl": "lichte bamboemat",
+      "CNzh": "浅色竹子地垫",
+      "TWzh": "淺色竹地毯",
+      "JPja": "ライトなバンブーラグ",
+      "KRko": "밝은 대나무 러그",
+      "EUru": "светлый бамбук. коврик"
+    }
+  },
+  {
+    "id": "Rug_11114",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark bamboo rug",
+      "EUen": "dark bamboo rug",
+      "EUde": "Dunkel-Bambusmatte",
+      "EUes": "alfombra bambú oscura",
+      "USes": "alfombra bambú oscura",
+      "EUfr": "tapis bambou sombre",
+      "USfr": "tapis bambou sombre",
+      "EUit": "tappeto di bambù scuro",
+      "EUnl": "donkere bamboemat",
+      "CNzh": "深色竹子地垫",
+      "TWzh": "深色竹地毯",
+      "JPja": "ダークなバンブーラグ",
+      "KRko": "어두운 대나무 러그",
+      "EUru": "темный бамбук. коврик"
+    }
+  },
+  {
+    "id": "Rug_12214",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "Bell-bag rug",
+      "EUen": "Bell-bag rug",
+      "EUde": "Sterni-Sack-Teppich",
+      "EUes": "alfombra bolsa de bayas",
+      "USes": "alfombra bolsa de bayas",
+      "EUfr": "tapis sac de clochettes",
+      "USfr": "tapis sac de clochettes",
+      "EUit": "tappeto sacco di stelline",
+      "EUnl": "klingeltapijt",
+      "CNzh": "铃钱袋地毯",
+      "TWzh": "鈴錢袋地毯",
+      "JPja": "ベルぶくろのラグ",
+      "KRko": "벨 주머니 러그",
+      "EUru": "ковер «Мешок диней»"
+    }
+  },
+  {
+    "id": "Rug_12325",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Nook Inc. botanical rug",
+      "EUen": "Nook Inc. botanical rug",
+      "EUde": "Nook-Inc.-Botanikteppich",
+      "EUes": "alfombra botánica Nook Inc.",
+      "USes": "alfombra botánica Nook Inc.",
+      "EUfr": "tapis botanique Nook Inc.",
+      "USfr": "tapis botanique Nook Inc.",
+      "EUit": "tappeto botanico Nook Inc.",
+      "EUnl": "botanische Nook Inc.-tapijt",
+      "CNzh": "Nook Inc.植物图案地毯",
+      "TWzh": "Nook Inc.植物圖案地毯",
+      "JPja": "たぬきかいはつのボタニカルラグ",
+      "KRko": "Nook Inc. 보태니컬 러그",
+      "EUru": "ботан. ковер Nook Inc."
+    }
+  },
+  {
+    "id": "Rug_12396",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Nook Inc. silk rug",
+      "EUen": "Nook Inc. silk rug",
+      "EUde": "Nook-Inc.-Viereckteppich",
+      "EUes": "felpudo de seda Nook Inc.",
+      "USes": "felpudo de seda Nook Inc.",
+      "EUfr": "tapis en soie Nook Inc.",
+      "USfr": "tapis en soie Nook Inc.",
+      "EUit": "tappeto di velluto Nook Inc.",
+      "EUnl": "zijden Nook Inc.-tapijt",
+      "CNzh": "Nook Inc.正方形地毯",
+      "TWzh": "Nook Inc.正方形地毯",
+      "JPja": "たぬきかいはつのスクエアラグ",
+      "KRko": "Nook Inc. 사각 러그",
+      "EUru": "шелк. коврик Nook Inc."
+    }
+  },
+  {
+    "id": "Rug_12462",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "blue wedding rug",
+      "EUen": "blue wedding rug",
+      "EUde": "Blau-Hochzeitsteppich",
+      "EUes": "alfombra de boda azul",
+      "USes": "alfombra de boda azul",
+      "EUfr": "tapis mariage bleu",
+      "USfr": "tapis mariage bleu",
+      "EUit": "tappeto nuziale blu",
+      "EUnl": "blauwe trouwtapijt",
+      "CNzh": "水蓝色婚礼地毯",
+      "TWzh": "藍色婚禮地毯",
+      "JPja": "ウェディングなラグ・ブルー",
+      "KRko": "하늘색 웨딩 러그",
+      "EUru": "синий свадебный ковер"
+    }
+  },
+  {
+    "id": "Rug_12464",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "white wedding rug",
+      "EUen": "white wedding rug",
+      "EUde": "Weiß-Hochzeitsteppich",
+      "EUes": "alfombra de boda blanca",
+      "USes": "alfombra de boda blanca",
+      "EUfr": "tapis mariage blanc",
+      "USfr": "tapis mariage blanc",
+      "EUit": "tappeto nuziale bianco",
+      "EUnl": "witte trouwtapijt",
+      "CNzh": "白色婚礼地毯",
+      "TWzh": "白色婚禮地毯",
+      "JPja": "ウェディングなラグ・ホワイト",
+      "KRko": "하얀 웨딩 러그",
+      "EUru": "белый свадебный ковер"
+    }
+  },
+  {
+    "id": "Rug_12465",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "red wedding rug",
+      "EUen": "red wedding rug",
+      "EUde": "Rot-Hochzeitsteppich",
+      "EUes": "alfombra de boda roja",
+      "USes": "alfombra de boda roja",
+      "EUfr": "tapis mariage rouge",
+      "USfr": "tapis mariage rouge",
+      "EUit": "tappeto nuziale rosso",
+      "EUnl": "rode trouwtapijt",
+      "CNzh": "红色婚礼地毯",
+      "TWzh": "紅色婚禮地毯",
+      "JPja": "ウェディングなラグ・レッド",
+      "KRko": "빨간 웨딩 러그",
+      "EUru": "красн. свадебный ковер"
+    }
+  },
+  {
+    "id": "RugMyDesign_08823",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "custom-design rug",
+      "EUen": "custom-design rug",
+      "EUde": "Eigenes-Design-Teppich",
+      "EUes": "alfombra personalizada",
+      "USes": "alfombra personalizada",
+      "EUfr": "tapis motif perso",
+      "USfr": "tapis motif perso",
+      "EUit": "tappeto modello pers.",
+      "EUnl": "zelfgemaakte tapijt",
+      "CNzh": "我的设计地毯",
+      "TWzh": "我的設計地毯",
+      "JPja": "マイデザインのラグ",
+      "KRko": "마이 디자인 러그",
+      "EUru": "ковер «Индивид. рисунок»"
+    }
+  }
+]

@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Capricorn",
+      "EUen": "Capricorn",
+      "EUde": "Steinbock",
+      "EUes": "capricornio",
+      "USes": "capricornio",
+      "EUfr": "Capricorne",
+      "USfr": "Capricorne",
+      "EUit": "Capricorno",
+      "EUnl": "Steenbok",
+      "CNzh": "摩羯座",
+      "TWzh": "魔羯座",
+      "JPja": "やぎ",
+      "KRko": "염소",
+      "EUru": "Козерог"
+    }
+  },
+  {
+    "id": 2,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aquarius",
+      "EUen": "Aquarius",
+      "EUde": "Wassermann",
+      "EUes": "acuario",
+      "USes": "acuario",
+      "EUfr": "Verseau",
+      "USfr": "Verseau",
+      "EUit": "Acquario",
+      "EUnl": "Waterman",
+      "CNzh": "水瓶座",
+      "TWzh": "水瓶座",
+      "JPja": "みずがめ",
+      "KRko": "물병",
+      "EUru": "Водолей"
+    }
+  },
+  {
+    "id": 3,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pisces",
+      "EUen": "Pisces",
+      "EUde": "Fische",
+      "EUes": "piscis",
+      "USes": "piscis",
+      "EUfr": "Poissons",
+      "USfr": "Poissons",
+      "EUit": "Pesci",
+      "EUnl": "Vissen",
+      "CNzh": "双鱼座",
+      "TWzh": "雙魚座",
+      "JPja": "うお",
+      "KRko": "물고기",
+      "EUru": "Рыбы"
+    }
+  },
+  {
+    "id": 4,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aries",
+      "EUen": "Aries",
+      "EUde": "Widder",
+      "EUes": "aries",
+      "USes": "aries",
+      "EUfr": "Bélier",
+      "USfr": "Bélier",
+      "EUit": "Ariete",
+      "EUnl": "Ram",
+      "CNzh": "白羊座",
+      "TWzh": "牡羊座",
+      "JPja": "おひつじ",
+      "KRko": "양",
+      "EUru": "Овен"
+    }
+  },
+  {
+    "id": 5,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Taurus",
+      "EUen": "Taurus",
+      "EUde": "Stier",
+      "EUes": "tauro",
+      "USes": "tauro",
+      "EUfr": "Taureau",
+      "USfr": "Taureau",
+      "EUit": "Toro",
+      "EUnl": "Stier",
+      "CNzh": "金牛座",
+      "TWzh": "金牛座",
+      "JPja": "おうし",
+      "KRko": "황소",
+      "EUru": "Телец"
+    }
+  },
+  {
+    "id": 6,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gemini",
+      "EUen": "Gemini",
+      "EUde": "Zwillinge",
+      "EUes": "géminis",
+      "USes": "géminis",
+      "EUfr": "Gémeaux",
+      "USfr": "Gémeaux",
+      "EUit": "Gemelli",
+      "EUnl": "Tweelingen",
+      "CNzh": "双子座",
+      "TWzh": "雙子座",
+      "JPja": "ふたご",
+      "KRko": "쌍둥이",
+      "EUru": "Близнецы"
+    }
+  },
+  {
+    "id": 7,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cancer",
+      "EUen": "Cancer",
+      "EUde": "Krebs",
+      "EUes": "cáncer",
+      "USes": "cáncer",
+      "EUfr": "Cancer",
+      "USfr": "Cancer",
+      "EUit": "Cancro",
+      "EUnl": "Kreeft",
+      "CNzh": "巨蟹座",
+      "TWzh": "巨蟹座",
+      "JPja": "かに",
+      "KRko": "게",
+      "EUru": "Рак"
+    }
+  },
+  {
+    "id": 8,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Leo",
+      "EUen": "Leo",
+      "EUde": "Löwe",
+      "EUes": "leo",
+      "USes": "leo",
+      "EUfr": "Lion",
+      "USfr": "Lion",
+      "EUit": "Leone",
+      "EUnl": "Leeuw",
+      "CNzh": "狮子座",
+      "TWzh": "獅子座",
+      "JPja": "しし",
+      "KRko": "사자",
+      "EUru": "Лев"
+    }
+  },
+  {
+    "id": 9,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Virgo",
+      "EUen": "Virgo",
+      "EUde": "Jungfrau",
+      "EUes": "virgo",
+      "USes": "virgo",
+      "EUfr": "Vierge",
+      "USfr": "Vierge",
+      "EUit": "Vergine",
+      "EUnl": "Maagd",
+      "CNzh": "处女座",
+      "TWzh": "處女座",
+      "JPja": "おとめ",
+      "KRko": "처녀",
+      "EUru": "Дева"
+    }
+  },
+  {
+    "id": 10,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Libra",
+      "EUen": "Libra",
+      "EUde": "Waage",
+      "EUes": "libra",
+      "USes": "libra",
+      "EUfr": "Balance",
+      "USfr": "Balance",
+      "EUit": "Bilancia",
+      "EUnl": "Weegschaal",
+      "CNzh": "天秤座",
+      "TWzh": "天秤座",
+      "JPja": "てんびん",
+      "KRko": "천칭",
+      "EUru": "Весы"
+    }
+  },
+  {
+    "id": 11,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Scorpio",
+      "EUen": "Scorpio",
+      "EUde": "Skorpion",
+      "EUes": "escorpio",
+      "USes": "escorpio",
+      "EUfr": "Scorpion",
+      "USfr": "Scorpion",
+      "EUit": "Scorpione",
+      "EUnl": "Schorpioen",
+      "CNzh": "天蝎座",
+      "TWzh": "天蠍座",
+      "JPja": "さそり",
+      "KRko": "전갈",
+      "EUru": "Скорпион"
+    }
+  },
+  {
+    "id": 12,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sagittarius",
+      "EUen": "Sagittarius",
+      "EUde": "Schütze",
+      "EUes": "sagitario",
+      "USes": "sagitario",
+      "EUfr": "Sagittaire",
+      "USfr": "Sagittaire",
+      "EUit": "Sagittario",
+      "EUnl": "Boogschutter",
+      "CNzh": "射手座",
+      "TWzh": "射手座",
+      "JPja": "いて",
+      "KRko": "사수",
+      "EUru": "Стрелец"
+    }
+  }
+]

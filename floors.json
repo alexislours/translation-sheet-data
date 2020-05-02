@@ -1,0 +1,3522 @@
+[
+  {
+    "id": "RoomFloor_04797",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "basement flooring",
+      "EUen": "basement flooring",
+      "EUde": "Kellerboden",
+      "EUes": "suelo sótano",
+      "USes": "suelo sótano",
+      "EUfr": "sol de cave",
+      "USfr": "sol de cave",
+      "EUit": "pavimento cantina",
+      "EUnl": "keldervloer",
+      "CNzh": "地下室地板",
+      "TWzh": "地下室地板",
+      "JPja": "ちかしつのゆか",
+      "KRko": "지하실 바닥",
+      "EUru": "пол из булыжников"
+    }
+  },
+  {
+    "id": "RoomFloor_04950",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ship deck",
+      "EUen": "ship deck",
+      "EUde": "Schiffsdeck",
+      "EUes": "suelo cubierta",
+      "USes": "suelo cubierta",
+      "EUfr": "sol pont de navire",
+      "USfr": "sol pont de navire",
+      "EUit": "pavimento ponte di nave",
+      "EUnl": "scheepsdekvloer",
+      "CNzh": "甲板地板",
+      "TWzh": "甲板地板",
+      "JPja": "かんぱんのゆか",
+      "KRko": "갑판 바닥",
+      "EUru": "корабельный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04951",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "concrete flooring",
+      "EUen": "concrete flooring",
+      "EUde": "Zementboden",
+      "EUes": "suelo hormigón",
+      "USes": "suelo cemento",
+      "EUfr": "sol en béton",
+      "USfr": "sol en béton",
+      "EUit": "pavimento grezzo",
+      "EUnl": "betonvloer",
+      "CNzh": "混凝土地板",
+      "TWzh": "混凝土地板",
+      "JPja": "コンクリートのゆか",
+      "KRko": "콘크리트 바닥",
+      "EUru": "бетонный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04952",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green rubber flooring",
+      "EUen": "green rubber flooring",
+      "EUde": "Grüngummiboden",
+      "EUes": "suelo de caucho verde",
+      "USes": "suelo de caucho verde",
+      "EUfr": "sol en caoutchouc vert",
+      "USfr": "sol en caoutchouc vert",
+      "EUit": "pavimento in gomma verde",
+      "EUnl": "groene rubbervloer",
+      "CNzh": "绿色胶地板",
+      "TWzh": "綠色塑膠地板",
+      "JPja": "グリーンラバーのゆか",
+      "KRko": "그린 고무 바닥",
+      "EUru": "зеленый резиновый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04953",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "arabesque flooring",
+      "EUen": "arabesque flooring",
+      "EUde": "Arabeskenboden",
+      "EUes": "suelo arabesco",
+      "USes": "suelo arabesco",
+      "EUfr": "sol arabesques",
+      "USfr": "sol arabesques",
+      "EUit": "pavimento arabescato",
+      "EUnl": "arabeske vloer",
+      "CNzh": "阿拉伯式地板",
+      "TWzh": "阿拉伯式地板",
+      "JPja": "アラベスクなゆか",
+      "KRko": "아라베스크 바닥",
+      "EUru": "пол с арабесками"
+    }
+  },
+  {
+    "id": "RoomFloor_04954",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue rubber flooring",
+      "EUen": "blue rubber flooring",
+      "EUde": "Blaugummiboden",
+      "EUes": "suelo de caucho azul",
+      "USes": "suelo de caucho azul",
+      "EUfr": "sol en caoutchouc bleu",
+      "USfr": "sol en caoutchouc bleu",
+      "EUit": "pavimento in gomma blu",
+      "EUnl": "blauwe rubbervloer",
+      "CNzh": "蓝色胶地板",
+      "TWzh": "藍色塑膠地板",
+      "JPja": "ブルーラバーのゆか",
+      "KRko": "블루 고무 바닥",
+      "EUru": "синий резиновый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04955",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jointed-mat flooring",
+      "EUen": "jointed-mat flooring",
+      "EUde": "Puzzlemattenboden",
+      "EUes": "suelo esterilla combinada",
+      "USes": "suelo esterilla combinada",
+      "EUfr": "sol dalles imbriquées",
+      "USfr": "sol dalles imbriquées",
+      "EUit": "pavimento a tappetini uniti",
+      "EUnl": "gecombineerde matten",
+      "CNzh": "拼接地垫地板",
+      "TWzh": "巧拼地墊地板",
+      "JPja": "ジョイントマットのゆか",
+      "KRko": "체크 매트 바닥",
+      "EUru": "пол-пазл из циновок"
+    }
+  },
+  {
+    "id": "RoomFloor_04956",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pastel puzzle flooring",
+      "EUen": "pastel puzzle flooring",
+      "EUde": "Pastell-Puzzleboden",
+      "EUes": "suelo rompecabezas pastel",
+      "USes": "suelo rompecabezas pastel",
+      "EUfr": "sol puzzle pastel",
+      "USfr": "sol casse-tête pastel",
+      "EUit": "pavimento puzzle pastello",
+      "EUnl": "pastelkleurige puzzelvloer",
+      "CNzh": "粉嫩巧拼地板",
+      "TWzh": "粉嫩巧拼地板",
+      "JPja": "パステルパズルのゆか",
+      "KRko": "파스텔 퍼즐 바닥",
+      "EUru": "пастельный пол-пазл"
+    }
+  },
+  {
+    "id": "RoomFloor_04957",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful puzzle flooring",
+      "EUen": "colorful puzzle flooring",
+      "EUde": "Bunt-Puzzleboden",
+      "EUes": "suelo rompecabezas alegre",
+      "USes": "suelo rompecabezas alegre",
+      "EUfr": "sol puzzle multicolore",
+      "USfr": "sol casse-tête multicolore",
+      "EUit": "pavimento puzzle variopinto",
+      "EUnl": "kleurrijke puzzelvloer",
+      "CNzh": "彩色巧拼地板",
+      "TWzh": "彩色巧拼地板",
+      "JPja": "カラフルパズルのゆか",
+      "KRko": "컬러풀 퍼즐 바닥",
+      "EUru": "цветной пол-пазл"
+    }
+  },
+  {
+    "id": "RoomFloor_04958",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rose flooring",
+      "EUen": "rose flooring",
+      "EUde": "Rosenblütenboden",
+      "EUes": "suelo rosas",
+      "USes": "suelo rosas",
+      "EUfr": "sol roses",
+      "USfr": "sol roses",
+      "EUit": "pavimento con rose",
+      "EUnl": "rozenvloer",
+      "CNzh": "玫瑰地毯",
+      "TWzh": "玫瑰地毯",
+      "JPja": "バラのじゅうたん",
+      "KRko": "장미 카펫 바닥",
+      "EUru": "пол с розами"
+    }
+  },
+  {
+    "id": "RoomFloor_04959",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "leopard-print flooring",
+      "EUen": "leopard-print flooring",
+      "EUde": "Leopardenmusterboden",
+      "EUes": "suelo leopardo",
+      "USes": "suelo leopardo",
+      "EUfr": "sol léopard",
+      "USfr": "sol léopard",
+      "EUit": "pavimento maculato",
+      "EUnl": "luipaardvloer",
+      "CNzh": "豹纹地板",
+      "TWzh": "豹紋地板",
+      "JPja": "レオパードなゆか",
+      "KRko": "표범 무늬 바닥",
+      "EUru": "леопардовый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04960",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "steel flooring",
+      "EUen": "steel flooring",
+      "EUde": "Eisenbelag",
+      "EUes": "suelo acero",
+      "USes": "suelo acero",
+      "EUfr": "sol en acier",
+      "USfr": "sol en acier",
+      "EUit": "pavimento acciaio",
+      "EUnl": "stalen vloer",
+      "CNzh": "铁板地板",
+      "TWzh": "鐵板地板",
+      "JPja": "てっぱんのゆか",
+      "KRko": "철판 바닥",
+      "EUru": "стальной пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04961",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giraffe-print flooring",
+      "EUen": "giraffe-print flooring",
+      "EUde": "Giraffenmusterboden",
+      "EUes": "suelo jirafa",
+      "USes": "suelo jirafa",
+      "EUfr": "sol girafe",
+      "USfr": "sol girafe",
+      "EUit": "pavimento giraffa",
+      "EUnl": "giraffevloer",
+      "CNzh": "长颈鹿纹地板",
+      "TWzh": "長頸鹿紋地板",
+      "JPja": "ジラフなゆか",
+      "KRko": "기린 무늬 바닥",
+      "EUru": "пол с пятнами жирафа"
+    }
+  },
+  {
+    "id": "RoomFloor_04962",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zebra-print flooring",
+      "EUen": "zebra-print flooring",
+      "EUde": "Zebramusterboden",
+      "EUes": "suelo cebra",
+      "USes": "suelo cebra",
+      "EUfr": "sol zèbre",
+      "USfr": "sol zèbre",
+      "EUit": "pavimento zebrato",
+      "EUnl": "zebravloer",
+      "CNzh": "斑马纹地板",
+      "TWzh": "斑馬紋地板",
+      "JPja": "ゼブラなゆか",
+      "KRko": "얼룩말 무늬 바닥",
+      "EUru": "пол с полосками зебры"
+    }
+  },
+  {
+    "id": "RoomFloor_04963",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stripe flooring",
+      "EUen": "stripe flooring",
+      "EUde": "Streifenboden",
+      "EUes": "suelo rayas",
+      "USes": "suelo rayas",
+      "EUfr": "sol rayures",
+      "USfr": "tapis rayures",
+      "EUit": "pavimento strisce",
+      "EUnl": "gestreepte vloer",
+      "CNzh": "条纹地板",
+      "TWzh": "條紋地板",
+      "JPja": "ストライプなゆか",
+      "KRko": "스트라이프 바닥",
+      "EUru": "полосатый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04964",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo flooring",
+      "EUen": "bamboo flooring",
+      "EUde": "Bambusboden",
+      "EUes": "suelo bambú",
+      "USes": "suelo bambú",
+      "EUfr": "sol en bambou",
+      "USfr": "sol en bambou",
+      "EUit": "pavimento bambù",
+      "EUnl": "bamboevloer",
+      "CNzh": "竹子地板",
+      "TWzh": "竹子地板",
+      "JPja": "バンブーなゆか",
+      "KRko": "대나무 바닥",
+      "EUru": "бамбуковый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04965",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "beige desert-tile flooring",
+      "EUen": "beige desert-tile flooring",
+      "EUde": "Beige-Wüstenfliesenboden",
+      "EUes": "losa desierto beis",
+      "USes": "suelo losa desierto beige",
+      "EUfr": "sol treillis marocain beige",
+      "USfr": "sol treillis désert beige",
+      "EUit": "pav. motivo arabo beige",
+      "EUnl": "beige oosterse tegelvloer",
+      "CNzh": "米色摩洛哥砖地板",
+      "TWzh": "米色摩洛哥磚地板",
+      "JPja": "ベージュのモロッカンタイルゆか",
+      "KRko": "베이지 모로칸 타일 바닥",
+      "EUru": "бежевый пол «Восток»"
+    }
+  },
+  {
+    "id": "RoomFloor_04966",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue desert-tile flooring",
+      "EUen": "blue desert-tile flooring",
+      "EUde": "Blau-Wüstenfliesenboden",
+      "EUes": "losa desierto azul",
+      "USes": "suelo losa desierto azul",
+      "EUfr": "sol treillis marocain bleu",
+      "USfr": "sol treillis désert bleu",
+      "EUit": "pavimento motivo arabo blu",
+      "EUnl": "blauwe oosterse tegelvloer",
+      "CNzh": "蓝色摩洛哥砖地板",
+      "TWzh": "藍色摩洛哥磚地板",
+      "JPja": "ブルーのモロッカンタイルゆか",
+      "KRko": "블루 모로칸 타일 바닥",
+      "EUru": "голубой пол «Восток»"
+    }
+  },
+  {
+    "id": "RoomFloor_04967",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rattan flooring",
+      "EUen": "rattan flooring",
+      "EUde": "Flechtboden",
+      "EUes": "suelo ratán",
+      "USes": "suelo ratán",
+      "EUfr": "sol jonc",
+      "USfr": "sol jonc",
+      "EUit": "pavimento di rattan",
+      "EUnl": "rotanvloer",
+      "CNzh": "藤编地板",
+      "TWzh": "藤編地板",
+      "JPja": "ラタンのゆか",
+      "KRko": "라탄 바닥",
+      "EUru": "тростниковый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04968",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lunar surface",
+      "EUen": "lunar surface",
+      "EUde": "Mondlandschaft",
+      "EUes": "superficie lunar",
+      "USes": "superficie lunar",
+      "EUfr": "sol lunaire",
+      "USfr": "sol lunaire",
+      "EUit": "suolo lunare",
+      "EUnl": "maanlandschap",
+      "CNzh": "月球表面地板",
+      "TWzh": "月球表面地板",
+      "JPja": "げつめんのゆか",
+      "KRko": "달표면 바닥",
+      "EUru": "лунный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04969",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cork flooring",
+      "EUen": "cork flooring",
+      "EUde": "Korkboden",
+      "EUes": "suelo corcho",
+      "USes": "suelo corcho",
+      "EUfr": "sol liège",
+      "USfr": "sol liège",
+      "EUit": "pavimento di sughero",
+      "EUnl": "kurken vloer",
+      "CNzh": "软木地板",
+      "TWzh": "軟木地板",
+      "JPja": "コルクフローリング",
+      "KRko": "코르크 바닥",
+      "EUru": "пробковый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04970",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sandy-beach flooring",
+      "EUen": "sandy-beach flooring",
+      "EUde": "Sandboden",
+      "EUes": "suelo playa tropical",
+      "USes": "suelo tropical",
+      "EUfr": "sol plage de sable",
+      "USfr": "sol plage de sable",
+      "EUit": "pavimento spiaggia",
+      "EUnl": "zandstrandvloer",
+      "CNzh": "沙滩地板",
+      "TWzh": "沙灘地板",
+      "JPja": "すなはまのゆか",
+      "KRko": "모래사장 바닥",
+      "EUru": "пляжный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04971",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "terra-cotta flooring",
+      "EUen": "terra-cotta flooring",
+      "EUde": "Terrakottaboden",
+      "EUes": "losa terracota",
+      "USes": "suelo terracota",
+      "EUfr": "sol terre cuite",
+      "USfr": "sol terre cuite",
+      "EUit": "pavimento terracotta",
+      "EUnl": "terracotta vloer",
+      "CNzh": "陶砖地板",
+      "TWzh": "陶磚地板",
+      "JPja": "テラコッタタイルのゆか",
+      "KRko": "테라코타 타일 바닥",
+      "EUru": "керамический пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04972",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hexagonal floral flooring",
+      "EUen": "hexagonal floral flooring",
+      "EUde": "Blattmusterboden",
+      "EUes": "suelo flor hexagonal",
+      "USes": "suelo flor hexagonal",
+      "EUfr": "sol hexagones floraux",
+      "USfr": "sol hexagones floraux",
+      "EUit": "pavimento esagoni floreali",
+      "EUnl": "zesbladerigebloemvloer",
+      "CNzh": "麻叶纹砖地板",
+      "TWzh": "麻葉紋磚地板",
+      "JPja": "あさのはタイルのゆか",
+      "KRko": "삼잎 타일 바닥",
+      "EUru": "пол с шестилистниками"
+    }
+  },
+  {
+    "id": "RoomFloor_04973",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "random-square-tile flooring",
+      "EUen": "random-square-tile flooring",
+      "EUde": "Rechteckfliesenboden",
+      "EUes": "losa irregular",
+      "USes": "suelo diseño aleatorio",
+      "EUfr": "sol carreaux isatis",
+      "USfr": "sol carreaux isatis",
+      "EUit": "pavimento piastrelle casuali",
+      "EUnl": "wirwartegelvloer",
+      "CNzh": "不规则方形砖地板",
+      "TWzh": "不規則方形磚地板",
+      "JPja": "ランダムスクエアタイルのゆか",
+      "KRko": "랜덤 사각 타일 바닥",
+      "EUru": "пол из плитки без узора"
+    }
+  },
+  {
+    "id": "RoomFloor_04974",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white-brick flooring",
+      "EUen": "white-brick flooring",
+      "EUde": "Weißziegelboden",
+      "EUes": "suelo ladrillo blanco",
+      "USes": "suelo ladrillo blanco",
+      "EUfr": "sol briques blanches",
+      "USfr": "sol briques blanches",
+      "EUit": "pavimento mattoni bianchi",
+      "EUnl": "witte bakstenen vloer",
+      "CNzh": "白色砖块地板",
+      "TWzh": "白色磚塊地板",
+      "JPja": "しろレンガのゆか",
+      "KRko": "하얀 벽돌 바닥",
+      "EUru": "пол из белого кирпича"
+    }
+  },
+  {
+    "id": "RoomFloor_04975",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red-brick flooring",
+      "EUen": "red-brick flooring",
+      "EUde": "Rotziegelboden",
+      "EUes": "suelo ladrillo rojo",
+      "USes": "suelo ladrillo rojo",
+      "EUfr": "sol briques rouges",
+      "USfr": "sol briques rouges",
+      "EUit": "pavimento mattoni rossi",
+      "EUnl": "rode bakstenen vloer",
+      "CNzh": "红色砖块地板",
+      "TWzh": "紅色磚塊地板",
+      "JPja": "あかレンガのゆか",
+      "KRko": "빨간 벽돌 바닥",
+      "EUru": "пол из красного кирпича"
+    }
+  },
+  {
+    "id": "RoomFloor_04976",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black-brick flooring",
+      "EUen": "black-brick flooring",
+      "EUde": "Schwarzziegelboden",
+      "EUes": "suelo ladrillo negro",
+      "USes": "suelo ladrillo negro",
+      "EUfr": "sol briques noires",
+      "USfr": "sol briques noires",
+      "EUit": "pavimento mattoni neri",
+      "EUnl": "zwarte bakstenen vloer",
+      "CNzh": "黑色砖块地板",
+      "TWzh": "黑色磚塊地板",
+      "JPja": "くろレンガのゆか",
+      "KRko": "검정 벽돌 바닥",
+      "EUru": "пол из черного кирпича"
+    }
+  },
+  {
+    "id": "RoomFloor_04977",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "floral rush-mat flooring",
+      "EUen": "floral rush-mat flooring",
+      "EUde": "Blumen-Binsenboden",
+      "EUes": "suelo estera floral",
+      "USes": "suelo estera floral",
+      "EUfr": "sol bouquets fleuris",
+      "USfr": "sol bouquets fleuris",
+      "EUit": "pavimento floreale",
+      "EUnl": "gebloemde biezen matten",
+      "CNzh": "花纹草席",
+      "TWzh": "花紋草蓆",
+      "JPja": "はなござ",
+      "KRko": "꽃무늬 돗자리 바닥",
+      "EUru": "циновка на пол с цветами"
+    }
+  },
+  {
+    "id": "RoomFloor_04978",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gravel flooring",
+      "EUen": "gravel flooring",
+      "EUde": "Kieselsteinboden",
+      "EUes": "suelo gravilla",
+      "USes": "suelo gravilla",
+      "EUfr": "sol gravier",
+      "USfr": "sol gravier",
+      "EUit": "pavimento di ghiaia",
+      "EUnl": "kiezelsteenvloer",
+      "CNzh": "碎石地板",
+      "TWzh": "碎石地板",
+      "JPja": "たまじゃりのゆか",
+      "KRko": "자갈 바닥",
+      "EUru": "гравийный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04979",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "backyard lawn",
+      "EUen": "backyard lawn",
+      "EUde": "Wiese",
+      "EUes": "suelo césped",
+      "USes": "suelo césped",
+      "EUfr": "gazon patio",
+      "USfr": "gazon patio",
+      "EUit": "moquette cortile",
+      "EUnl": "tuingazon",
+      "CNzh": "草坪地板",
+      "TWzh": "草坪地板",
+      "JPja": "しばふのゆか",
+      "KRko": "잔디밭 바닥",
+      "EUru": "пол-лужайка"
+    }
+  },
+  {
+    "id": "RoomFloor_04980",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "field flooring",
+      "EUen": "field flooring",
+      "EUde": "Feld",
+      "EUes": "suelo huerto",
+      "USes": "suelo huerta",
+      "EUfr": "sol champ",
+      "USfr": "sol champ",
+      "EUit": "pavimento orto",
+      "EUnl": "veld",
+      "CNzh": "旱田地板",
+      "TWzh": "旱田地板",
+      "JPja": "はたけのゆか",
+      "KRko": "들판 바닥",
+      "EUru": "пол-поле"
+    }
+  },
+  {
+    "id": "RoomFloor_04981",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dirt flooring",
+      "EUen": "dirt flooring",
+      "EUde": "Matschboden",
+      "EUes": "suelo choza tierra",
+      "USes": "suelo choza",
+      "EUfr": "sol terre",
+      "USfr": "sol terre",
+      "EUit": "pavimento terroso",
+      "EUnl": "aarde",
+      "CNzh": "土壤地板",
+      "TWzh": "土壤地板",
+      "JPja": "つちのゆか",
+      "KRko": "흙 바닥",
+      "EUru": "грунтовый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04982",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "boxing-ring mat",
+      "EUen": "boxing-ring mat",
+      "EUde": "Boxringboden",
+      "EUes": "moqueta boxeo",
+      "USes": "alfombra boxeo",
+      "EUfr": "sol arène de catch",
+      "USfr": "tapis de ring",
+      "EUit": "moquette ring",
+      "EUnl": "boksringmat",
+      "CNzh": "职业摔角地板",
+      "TWzh": "職業摔角地板",
+      "JPja": "プロレスのゆか",
+      "KRko": "레슬링 경기장 바닥",
+      "EUru": "пол для ринга"
+    }
+  },
+  {
+    "id": "RoomFloor_04983",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Saharah's desert",
+      "EUen": "Saharah's desert",
+      "EUde": "Saharagrund",
+      "EUes": "suelo desierto",
+      "USes": "suelo desierto",
+      "EUfr": "sol désert",
+      "USfr": "sol désert",
+      "EUit": "deserto Sahara",
+      "EUnl": "woestijnvloer",
+      "CNzh": "沙漠地板",
+      "TWzh": "沙漠地板",
+      "JPja": "さばくなゆか",
+      "KRko": "사막 바닥",
+      "EUru": "пол «Пустыня Сахары»"
+    }
+  },
+  {
+    "id": "RoomFloor_04984",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "western desert",
+      "EUen": "western desert",
+      "EUde": "Wüstengrund",
+      "EUes": "suelo Oeste",
+      "USes": "suelo Oeste",
+      "EUfr": "sol Far West",
+      "USfr": "sol Far West",
+      "EUit": "deserto west",
+      "EUnl": "westernvloer",
+      "CNzh": "旷野地板",
+      "TWzh": "曠野地板",
+      "JPja": "こうやのゆか",
+      "KRko": "황야 바닥",
+      "EUru": "пол в стиле вестерн"
+    }
+  },
+  {
+    "id": "RoomFloor_04985",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sandlot",
+      "EUen": "sandlot",
+      "EUde": "Sandplatz",
+      "EUes": "suelo cancha",
+      "USes": "suelo cancha",
+      "EUfr": "sol sable",
+      "USfr": "sol sable",
+      "EUit": "pavimento sabbia",
+      "EUnl": "zandvloer",
+      "CNzh": "空地地板",
+      "TWzh": "空地地板",
+      "JPja": "あきちのゆか",
+      "KRko": "공터 바닥",
+      "EUru": "пустырный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04986",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "money flooring",
+      "EUen": "money flooring",
+      "EUde": "Monetenboden",
+      "EUes": "suelo dinero",
+      "USes": "suelo dinero",
+      "EUfr": "sol billets de banque",
+      "USfr": "sol billets de banque",
+      "EUit": "pavimento banconote",
+      "EUnl": "poenvloer",
+      "CNzh": "金钱地板",
+      "TWzh": "金錢地板",
+      "JPja": "マネーなゆか",
+      "KRko": "돈다발 바닥",
+      "EUru": "пол с купюрами"
+    }
+  },
+  {
+    "id": "RoomFloor_04987",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cubic parquet flooring",
+      "EUen": "cubic parquet flooring",
+      "EUde": "Tafelparkett",
+      "EUes": "parqué cúbico",
+      "USes": "parquet cúbico",
+      "EUfr": "parquet cubes trompe-l'œil",
+      "USfr": "parquet cubes trompe-l'œil",
+      "EUit": "parquet cubi illusori",
+      "EUnl": "kubusparket",
+      "CNzh": "立方嵌木地板",
+      "TWzh": "立方嵌木地板",
+      "JPja": "キュービックなよせぎのゆか",
+      "KRko": "정육면체 나무 바닥",
+      "EUru": "наборный паркет"
+    }
+  },
+  {
+    "id": "RoomFloor_04988",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "paintball flooring",
+      "EUen": "paintball flooring",
+      "EUde": "Farbklecksboden",
+      "EUes": "suelo pintura",
+      "USes": "suelo pintura",
+      "EUfr": "sol paintball",
+      "USfr": "sol paintball",
+      "EUit": "pavimento atelier",
+      "EUnl": "paintballvloer",
+      "CNzh": "画室地板",
+      "TWzh": "畫室地板",
+      "JPja": "アトリエのゆか",
+      "KRko": "아틀리에 바닥",
+      "EUru": "пол с кляксами"
+    }
+  },
+  {
+    "id": "RoomFloor_04989",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ski-slope flooring",
+      "EUen": "ski-slope flooring",
+      "EUde": "Skipistenboden",
+      "EUes": "suelo esquí",
+      "USes": "suelo esquí",
+      "EUfr": "sol piste de ski",
+      "USfr": "sol piste de ski",
+      "EUit": "pavimento pista da sci",
+      "EUnl": "skihellingvloer",
+      "CNzh": "滑雪场地板",
+      "TWzh": "滑雪場地板",
+      "JPja": "ゲレンデのゆか",
+      "KRko": "스키장 바닥",
+      "EUru": "пол «Лыжный курорт»"
+    }
+  },
+  {
+    "id": "RoomFloor_04990",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colored-leaves flooring",
+      "EUen": "colored-leaves flooring",
+      "EUde": "Herbstlaubboden",
+      "EUes": "suelo otoñal",
+      "USes": "suelo otoñal",
+      "EUfr": "sol automne",
+      "USfr": "sol automne",
+      "EUit": "pavimento autunnale",
+      "EUnl": "herfstblaadjesvloer",
+      "CNzh": "枫叶地板",
+      "TWzh": "楓葉地板",
+      "JPja": "こうようのゆか",
+      "KRko": "단풍 바닥",
+      "EUru": "пол «Листопад»"
+    }
+  },
+  {
+    "id": "RoomFloor_04991",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light wood-pattern flooring",
+      "EUen": "light wood-pattern flooring",
+      "EUde": "Hellparkett",
+      "EUes": "parqué geométrico claro",
+      "USes": "parquet geométrico claro",
+      "EUfr": "sol marqueterie brun clair",
+      "USfr": "sol marqueterie brun clair",
+      "EUit": "parquet intarsiato chiaro",
+      "EUnl": "licht",
+      "CNzh": "浅色系嵌木地板",
+      "TWzh": "淺色嵌木地板",
+      "JPja": "ライトなよせぎざいくのゆか",
+      "KRko": "밝은 나무 바닥",
+      "EUru": "светлый паркетный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04992",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark wood-pattern flooring",
+      "EUen": "dark wood-pattern flooring",
+      "EUde": "Dunkelparkett",
+      "EUes": "parqué geométrico oscuro",
+      "USes": "parquet geométrico oscuro",
+      "EUfr": "sol marqueterie brun foncé",
+      "USfr": "sol marqueterie brun foncé",
+      "EUit": "parquet intarsiato scuro",
+      "EUnl": "donker",
+      "CNzh": "深色系嵌木地板",
+      "TWzh": "深色嵌木地板",
+      "JPja": "ダークなよせぎざいくのゆか",
+      "KRko": "어두운 나무 바닥",
+      "EUru": "темный паркетный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_04993",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "floral mosaic-tile flooring",
+      "EUen": "floral mosaic-tile flooring",
+      "EUde": "Mosaikfliesenboden",
+      "EUes": "suelo mosaico tradicional",
+      "USes": "suelo mosaico tradicional",
+      "EUfr": "sol mosaïque florale",
+      "USfr": "sol carrelé mosaïque",
+      "EUit": "pavimento mosaico floreale",
+      "EUnl": "bloemmozaïektegelvloer",
+      "CNzh": "花式马赛克砖地板",
+      "TWzh": "花式馬賽克磚",
+      "JPja": "フローラルなモザイクタイル",
+      "KRko": "플라워 모자이크 타일 바닥",
+      "EUru": "мозаичный пол «Цветы»"
+    }
+  },
+  {
+    "id": "RoomFloor_04994",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "argyle tile flooring",
+      "EUen": "argyle tile flooring",
+      "EUde": "Rautenfliesenboden",
+      "EUes": "losa mosaico rombos",
+      "USes": "losa mosaico rombos",
+      "EUfr": "sol carreaux et lattes",
+      "USfr": "sol carreaux et lattes",
+      "EUit": "pavimento piastrelle rombi",
+      "EUnl": "geruite tegelvloer",
+      "CNzh": "菱格纹砖地板",
+      "TWzh": "菱格紋磚地板",
+      "JPja": "アーガイルなタイルのゆか",
+      "KRko": "아가일 타일 바닥",
+      "EUru": "пол из плитки в ромбик"
+    }
+  },
+  {
+    "id": "RoomFloor_04995",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "patchwork-tile flooring",
+      "EUen": "patchwork-tile flooring",
+      "EUde": "Kunterbunt-Fliesenboden",
+      "EUes": "losa variada",
+      "USes": "suelo losa combinada",
+      "EUfr": "sol dallage patchwork",
+      "USfr": "sol dallage courtepointe",
+      "EUit": "pavimento patchwork",
+      "EUnl": "patchworktegelvloer",
+      "CNzh": "拼接砖地板",
+      "TWzh": "拼花磚地板",
+      "JPja": "パッチワークタイルのゆか",
+      "KRko": "패치워크 타일 바닥",
+      "EUru": "пол из разных плиток"
+    }
+  },
+  {
+    "id": "RoomFloor_04996",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "racetrack flooring",
+      "EUen": "racetrack flooring",
+      "EUde": "Rennbahnboden",
+      "EUes": "suelo pista de atletismo",
+      "USes": "suelo pista de atletismo",
+      "EUfr": "sol piste d'athlétisme",
+      "USfr": "sol piste d'athlétisme",
+      "EUit": "pavimento pista d'atletica",
+      "EUnl": "atletiekbaan",
+      "CNzh": "赛车赛道地板",
+      "TWzh": "賽車賽道地板",
+      "JPja": "レーストラックのゆか",
+      "KRko": "경주 트랙 바닥",
+      "EUru": "пол-ипподром"
+    }
+  },
+  {
+    "id": "RoomFloor_04997",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parking flooring",
+      "EUen": "parking flooring",
+      "EUde": "Parkplatzboden",
+      "EUes": "suelo aparcamiento",
+      "USes": "suelo estacionamiento",
+      "EUfr": "sol parking",
+      "USfr": "sol stationnement",
+      "EUit": "pavimento parcheggio",
+      "EUnl": "parkeerplaats",
+      "CNzh": "停车场地板",
+      "TWzh": "停車場地板",
+      "JPja": "パーキングのゆか",
+      "KRko": "주차장 바닥",
+      "EUru": "пол-парковка"
+    }
+  },
+  {
+    "id": "RoomFloor_04998",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "arched-brick flooring",
+      "EUen": "arched-brick flooring",
+      "EUde": "Kopfsteinpflaster",
+      "EUes": "suelo arco adoquines",
+      "USes": "suelo arco adoquines",
+      "EUfr": "sol arches briques",
+      "USfr": "sol arches briques",
+      "EUit": "pavimento sampietrini",
+      "EUnl": "kasseien vloer",
+      "CNzh": "弧形砖块地板",
+      "TWzh": "弧形磚塊地板",
+      "JPja": "アーチレンガのゆか",
+      "KRko": "아치 벽돌 바닥",
+      "EUru": "пол с арочным узором"
+    }
+  },
+  {
+    "id": "RoomFloor_04999",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "honeycomb flooring",
+      "EUen": "honeycomb flooring",
+      "EUde": "Bienenwabenboden",
+      "EUes": "suelo meloso",
+      "USes": "suelo meloso",
+      "EUfr": "sol rayons de miel",
+      "USfr": "sol rayons de miel",
+      "EUit": "pavimento alveare",
+      "EUnl": "honingraatvloer",
+      "CNzh": "蜂蜜地板",
+      "TWzh": "蜂蜜地板",
+      "JPja": "ハチミツなゆか",
+      "KRko": "벌집 바닥",
+      "EUru": "пол «Соты»"
+    }
+  },
+  {
+    "id": "RoomFloor_05000",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple red flooring",
+      "EUen": "simple red flooring",
+      "EUde": "Rotteppichboden",
+      "EUes": "suelo liso rojo",
+      "USes": "suelo liso rojo",
+      "EUfr": "moquette rouge",
+      "USfr": "moquette rouge",
+      "EUit": "pavimento semplice rosso",
+      "EUnl": "simpele rode vloer",
+      "CNzh": "红色简约地毯",
+      "TWzh": "紅色簡約地毯",
+      "JPja": "あかいシンプルカーペット",
+      "KRko": "빨간 심플 카펫 바닥",
+      "EUru": "простой красный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05001",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple blue flooring",
+      "EUen": "simple blue flooring",
+      "EUde": "Blauteppichboden",
+      "EUes": "suelo liso azul",
+      "USes": "suelo liso azul",
+      "EUfr": "moquette bleue",
+      "USfr": "moquette bleue",
+      "EUit": "pavimento semplice blu",
+      "EUnl": "simpele blauwe vloer",
+      "CNzh": "蓝色简约地毯",
+      "TWzh": "藍色簡約地毯",
+      "JPja": "あおいシンプルカーペット",
+      "KRko": "파란 심플 카펫 바닥",
+      "EUru": "простой синий пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05003",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple purple flooring",
+      "EUen": "simple purple flooring",
+      "EUde": "Lilateppichboden",
+      "EUes": "suelo liso morado",
+      "USes": "suelo liso morado",
+      "EUfr": "moquette violette",
+      "USfr": "moquette mauve",
+      "EUit": "pavimento semplice viola",
+      "EUnl": "simpele paarse vloer",
+      "CNzh": "紫色简约地毯",
+      "TWzh": "紫色簡約地毯",
+      "JPja": "むらさきのシンプルカーペット",
+      "KRko": "보라 심플 카펫 바닥",
+      "EUru": "простой фиолет. пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05004",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple white flooring",
+      "EUen": "simple white flooring",
+      "EUde": "Weißteppichboden",
+      "EUes": "suelo liso blanco",
+      "USes": "suelo liso blanco",
+      "EUfr": "moquette blanche",
+      "USfr": "moquette blanche",
+      "EUit": "pavimento semplice bianco",
+      "EUnl": "simpele witte vloer",
+      "CNzh": "白色简约地毯",
+      "TWzh": "白色簡約地毯",
+      "JPja": "しろいシンプルカーペット",
+      "KRko": "하얀 심플 카펫 바닥",
+      "EUru": "простой белый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05005",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "daisy meadow",
+      "EUen": "daisy meadow",
+      "EUde": "Alpengrund",
+      "EUes": "prado margaritas",
+      "USes": "prado margaritas",
+      "EUfr": "sol pâquerettes",
+      "USfr": "sol pâquerettes",
+      "EUit": "prato fiorito",
+      "EUnl": "madeliefjesveld",
+      "CNzh": "草原地板",
+      "TWzh": "草原地板",
+      "JPja": "そうげんのゆか",
+      "KRko": "초원 바닥",
+      "EUru": "пол с ромашками"
+    }
+  },
+  {
+    "id": "RoomFloor_05006",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wildflower meadow",
+      "EUen": "wildflower meadow",
+      "EUde": "Blumenwiese",
+      "EUes": "suelo silvestre",
+      "USes": "suelo silvestre",
+      "EUfr": "sol fleurs sauvages",
+      "USfr": "sol fleurs sauvages",
+      "EUit": "prato selvatico",
+      "EUnl": "bloemenweide",
+      "CNzh": "花草地板",
+      "TWzh": "花草地板",
+      "JPja": "くさばなのじゅうたん",
+      "KRko": "풀꽃 카펫 바닥",
+      "EUru": "пол с луговыми цветами"
+    }
+  },
+  {
+    "id": "RoomFloor_05007",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crosswalk flooring",
+      "EUen": "crosswalk flooring",
+      "EUde": "Zebrastreifenboden",
+      "EUes": "suelo paso de cebra",
+      "USes": "suelo paso de peatones",
+      "EUfr": "sol passage piéton",
+      "USfr": "sol passage piéton",
+      "EUit": "pavimento strisce pedonali",
+      "EUnl": "zebrapadvloer",
+      "CNzh": "斑马线地板",
+      "TWzh": "斑馬線地板",
+      "JPja": "おうだんほどうのゆか",
+      "KRko": "횡단보도 바닥",
+      "EUru": "пол с зеброй"
+    }
+  },
+  {
+    "id": "RoomFloor_05008",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sidewalk flooring",
+      "EUen": "sidewalk flooring",
+      "EUde": "Bürgersteigboden",
+      "EUes": "suelo acera",
+      "USes": "suelo acera",
+      "EUfr": "sol rue piétonne",
+      "USfr": "sol rue piétonne",
+      "EUit": "pavimento marciapiede",
+      "EUnl": "trottoirvloer",
+      "CNzh": "人行道地板",
+      "TWzh": "人行道地板",
+      "JPja": "ほどうのゆか",
+      "KRko": "보도블록 바닥",
+      "EUru": "пол с тротуаром"
+    }
+  },
+  {
+    "id": "RoomFloor_05009",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "train-station flooring",
+      "EUen": "train-station flooring",
+      "EUde": "Bahnsteigboden",
+      "EUes": "suelo vías ferroviarias",
+      "USes": "suelo vías ferroviarias",
+      "EUfr": "sol quai de gare",
+      "USfr": "sol quai de gare",
+      "EUit": "pavimento banchina treno",
+      "EUnl": "spoorwegvloer",
+      "CNzh": "车站月台地板",
+      "TWzh": "車站月台地板",
+      "JPja": "えきのホームなゆか",
+      "KRko": "승강장 바닥",
+      "EUru": "перрон"
+    }
+  },
+  {
+    "id": "RoomFloor_05010",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "scramble crosswalk",
+      "EUen": "scramble crosswalk",
+      "EUde": "Kreuzungsboden",
+      "EUes": "suelo paso de cebra en cruz",
+      "USes": "suelo paso peatones cruz",
+      "EUfr": "sol passages piétons",
+      "USfr": "sol intersection",
+      "EUit": "pavimento incrocio pedoni",
+      "EUnl": "kruispuntvloer",
+      "CNzh": "全向十字路口",
+      "TWzh": "全向十字路口",
+      "JPja": "スクランブルこうさてん",
+      "KRko": "대각선 횡단보도",
+      "EUru": "пол с перекрестком зебр"
+    }
+  },
+  {
+    "id": "RoomFloor_05011",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dig-site flooring",
+      "EUen": "dig-site flooring",
+      "EUde": "Fossilienboden",
+      "EUes": "suelo yacimiento",
+      "USes": "suelo yacimiento",
+      "EUfr": "sol fossiles",
+      "USfr": "sol fossiles",
+      "EUit": "pavimento archeologico",
+      "EUnl": "opgravingsvloer",
+      "CNzh": "地底地板",
+      "TWzh": "地底地板",
+      "JPja": "ちていのゆか",
+      "KRko": "땅속 바닥",
+      "EUru": "пол «Раскоп»"
+    }
+  },
+  {
+    "id": "RoomFloor_05012",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "imperial tile",
+      "EUen": "imperial tile",
+      "EUde": "Samuraiboden",
+      "EUes": "losa imperial",
+      "USes": "losa imperial",
+      "EUfr": "sol shogun",
+      "USfr": "sol impérial",
+      "EUit": "pavimento imperiale",
+      "EUnl": "keizerlijke tegelvloer",
+      "CNzh": "皇家地板",
+      "TWzh": "王朝地板",
+      "JPja": "おうちょうなゆか",
+      "KRko": "왕조 바닥",
+      "EUru": "пол в азиатском стиле"
+    }
+  },
+  {
+    "id": "RoomFloor_05013",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sumo ring",
+      "EUen": "sumo ring",
+      "EUde": "Sumoringboden",
+      "EUes": "suelo cuadrilátero de sumo",
+      "USes": "suelo cuadrilátero de sumo",
+      "EUfr": "sol sumotori",
+      "USfr": "sol sumotori",
+      "EUit": "pavimento ring di sumo",
+      "EUnl": "sumo-ring",
+      "CNzh": "相扑擂台",
+      "TWzh": "相撲擂台",
+      "JPja": "どひょう",
+      "KRko": "씨름판",
+      "EUru": "пол для сумо"
+    }
+  },
+  {
+    "id": "RoomFloor_05015",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "camo flooring",
+      "EUen": "camo flooring",
+      "EUde": "Tarnboden",
+      "EUes": "suelo camuflaje",
+      "USes": "suelo camuflaje",
+      "EUfr": "sol camouflage",
+      "USfr": "sol camouflage",
+      "EUit": "pavimento mimetico",
+      "EUnl": "camouflagevloer",
+      "CNzh": "迷彩地板",
+      "TWzh": "迷彩地板",
+      "JPja": "めいさいのゆか",
+      "KRko": "밀리터리 바닥",
+      "EUru": "пол «Камуфляж»"
+    }
+  },
+  {
+    "id": "RoomFloor_05016",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue camo flooring",
+      "EUen": "blue camo flooring",
+      "EUde": "Blau-Tarnboden",
+      "EUes": "suelo camuflaje azul",
+      "USes": "suelo camuflaje azul",
+      "EUfr": "sol camouflage bleu",
+      "USfr": "sol camouflage bleu",
+      "EUit": "pavimento mimetico blu",
+      "EUnl": "blauwe camouflagevloer",
+      "CNzh": "蓝色迷彩地板",
+      "TWzh": "藍色迷彩地板",
+      "JPja": "ブルーめいさいのゆか",
+      "KRko": "블루 밀리터리 바닥",
+      "EUru": "синий пол «Камуфляж»"
+    }
+  },
+  {
+    "id": "RoomFloor_05017",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple camo flooring",
+      "EUen": "purple camo flooring",
+      "EUde": "Lila-Tarnboden",
+      "EUes": "suelo camuflaje lila",
+      "USes": "suelo camuflaje morado",
+      "EUfr": "sol camouflage violet",
+      "USfr": "sol camouflage mauve",
+      "EUit": "pavimento mimetico viola",
+      "EUnl": "paarse camouflagevloer",
+      "CNzh": "紫色迷彩地板",
+      "TWzh": "紫色迷彩地板",
+      "JPja": "パープルめいさいのゆか",
+      "KRko": "퍼플 밀리터리 바닥",
+      "EUru": "фиолет. пол «Камуфляж»"
+    }
+  },
+  {
+    "id": "RoomFloor_05018",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "common flooring",
+      "EUen": "common flooring",
+      "EUde": "Normalboden",
+      "EUes": "suelo básico",
+      "USes": "suelo básico",
+      "EUfr": "sol ordinaire",
+      "USfr": "sol ordinaire",
+      "EUit": "pavimento comune",
+      "EUnl": "standaardvloer",
+      "CNzh": "常见地板",
+      "TWzh": "常見地板",
+      "JPja": "よくあるゆかいた",
+      "KRko": "평범한 바닥",
+      "EUru": "обычный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05019",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pine-board flooring",
+      "EUen": "pine-board flooring",
+      "EUde": "Kiefernboden",
+      "EUes": "entarimado pino",
+      "USes": "entarimado pino",
+      "EUfr": "sol lattes sapin",
+      "USfr": "sol lattes sapin",
+      "EUit": "pavimento in assi di pino",
+      "EUnl": "dennenhouten parket",
+      "CNzh": "松木地板",
+      "TWzh": "松木地板",
+      "JPja": "パインざいフローリング",
+      "KRko": "레드우드 마룻바닥",
+      "EUru": "сосновый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05020",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white mosaic-tile flooring",
+      "EUen": "white mosaic-tile flooring",
+      "EUde": "Weiß-Minifliesenboden",
+      "EUes": "suelo alicatado blanco",
+      "USes": "suelo alicatado blanco",
+      "EUfr": "sol mosaïque blanche",
+      "USfr": "sol mosaïque blanche",
+      "EUit": "pavimento mosaico bianco",
+      "EUnl": "witte mozaïektegelvloer",
+      "CNzh": "白色马赛克砖地板",
+      "TWzh": "白色馬賽克磚地板",
+      "JPja": "しろいモザイクタイルのゆか",
+      "KRko": "하얀 모자이크 타일 바닥",
+      "EUru": "белый мозаичный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05021",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "golden flooring",
+      "EUen": "golden flooring",
+      "EUde": "Goldboden",
+      "EUes": "suelo dorado",
+      "USes": "suelo dorado",
+      "EUfr": "sol d'or",
+      "USfr": "sol d'or",
+      "EUit": "pavimento d'oro",
+      "EUnl": "gouden vloer",
+      "CNzh": "黄金地板",
+      "TWzh": "黃金地板",
+      "JPja": "おうごんのゆか",
+      "KRko": "황금 바닥",
+      "EUru": "золотой пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05022",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light parquet flooring",
+      "EUen": "light parquet flooring",
+      "EUde": "Hell-Rautenparkett",
+      "EUes": "parqué rombos claro",
+      "USes": "parquet rombos claro",
+      "EUfr": "sol parquet clair",
+      "USfr": "sol parquet clair",
+      "EUit": "parquet chiaro",
+      "EUnl": "licht",
+      "CNzh": "浅色拼花地板",
+      "TWzh": "淺色拼花地板",
+      "JPja": "ライトなパーケットフローリング",
+      "KRko": "밝은 쪽모이 바닥",
+      "EUru": "щитовой паркет"
+    }
+  },
+  {
+    "id": "RoomFloor_05023",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monochromatic dot flooring",
+      "EUen": "monochromatic dot flooring",
+      "EUde": "Grau-Punktboden",
+      "EUes": "suelo topos monocromo",
+      "USes": "suelo lunares monocromo",
+      "EUfr": "moquette à pois simple",
+      "USfr": "moquette à pois simple",
+      "EUit": "pavimento a pois semplice",
+      "EUnl": "grijze stippelvloer",
+      "CNzh": "单色配色点点地毯",
+      "TWzh": "灰階配色點點地毯",
+      "JPja": "モノクロドットカーペット",
+      "KRko": "흑백 도트 카펫 바닥",
+      "EUru": "пол в горошек"
+    }
+  },
+  {
+    "id": "RoomFloor_05024",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "marine pop flooring",
+      "EUen": "marine pop flooring",
+      "EUde": "Aquaboden",
+      "EUes": "suelo olas marinas",
+      "USes": "suelo olas marinas",
+      "EUfr": "sol marin pop",
+      "USfr": "sol marin pop",
+      "EUit": "pavimento marino",
+      "EUnl": "zwiependezeevloer",
+      "CNzh": "波浪图案地板",
+      "TWzh": "波浪圖案地板",
+      "JPja": "なみもようのゆか",
+      "KRko": "물결무늬 바닥",
+      "EUru": "пол с волнами"
+    }
+  },
+  {
+    "id": "RoomFloor_05025",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark parquet flooring",
+      "EUen": "dark parquet flooring",
+      "EUde": "Dunkel-Rautenparkett",
+      "EUes": "parqué rombos oscuro",
+      "USes": "parquet rombos oscuro",
+      "EUfr": "sol parquet foncé",
+      "USfr": "sol parquet foncé",
+      "EUit": "parquet scuro",
+      "EUnl": "donker",
+      "CNzh": "深色拼花地板",
+      "TWzh": "深色拼花地板",
+      "JPja": "ダークなパーケットフローリング",
+      "KRko": "어두운 쪽모이 바닥",
+      "EUru": "темный щитовой паркет"
+    }
+  },
+  {
+    "id": "RoomFloor_05026",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mint dot flooring",
+      "EUen": "mint dot flooring",
+      "EUde": "Grün-Punktboden",
+      "EUes": "suelo topos menta",
+      "USes": "suelo lunares menta",
+      "EUfr": "moquette à pois menthe",
+      "USfr": "moquette à pois menthe",
+      "EUit": "pavimento a pois turchese",
+      "EUnl": "groene stippelvloer",
+      "CNzh": "薄荷绿点点地毯",
+      "TWzh": "薄荷綠點點地毯",
+      "JPja": "ミントドットカーペット",
+      "KRko": "민트 도트 카펫 바닥",
+      "EUru": "зеленый пол в горошек"
+    }
+  },
+  {
+    "id": "RoomFloor_05027",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red dot flooring",
+      "EUen": "red dot flooring",
+      "EUde": "Rot-Punktboden",
+      "EUes": "suelo topos rojo",
+      "USes": "suelo lunares rojo",
+      "EUfr": "moquette à pois rouge",
+      "USfr": "moquette à pois rouge",
+      "EUit": "pavimento a pois rosso",
+      "EUnl": "rode stippelvloer",
+      "CNzh": "红色点点全屋地毯",
+      "TWzh": "紅色點點地毯",
+      "JPja": "レッドドットカーペット",
+      "KRko": "레드 도트 카펫 바닥",
+      "EUru": "красный пол в горошек"
+    }
+  },
+  {
+    "id": "RoomFloor_05028",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue dot flooring",
+      "EUen": "blue dot flooring",
+      "EUde": "Blau-Punktboden",
+      "EUes": "suelo topos celeste",
+      "USes": "suelo lunares celeste",
+      "EUfr": "moquette à pois bleue",
+      "USfr": "moquette à pois bleue",
+      "EUit": "pavimento a pois blu",
+      "EUnl": "blauwe stippelvloer",
+      "CNzh": "蓝色点点全屋地毯",
+      "TWzh": "藍色點點地毯",
+      "JPja": "ブルードットカーペット",
+      "KRko": "블루 도트 카펫 바닥",
+      "EUru": "голубой пол в горошек"
+    }
+  },
+  {
+    "id": "RoomFloor_05030",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "water flooring",
+      "EUen": "water flooring",
+      "EUde": "Wasseroberfläche",
+      "EUes": "suelo fondo piscina",
+      "USes": "suelo fondo piscina",
+      "EUfr": "sol eau",
+      "USfr": "sol eau",
+      "EUit": "pavimento acqua",
+      "EUnl": "watervloer",
+      "CNzh": "水面地板",
+      "TWzh": "水面地板",
+      "JPja": "みなものゆか",
+      "KRko": "수면 바닥",
+      "EUru": "пол с прозрачной водой"
+    }
+  },
+  {
+    "id": "RoomFloor_05031",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flagstone flooring",
+      "EUen": "flagstone flooring",
+      "EUde": "Sandsteinboden",
+      "EUes": "empedrado irregular",
+      "USes": "empedrado irregular",
+      "EUfr": "sol pierre naturelle",
+      "USfr": "sol pierre naturelle",
+      "EUit": "pavimento lastricato",
+      "EUnl": "leistenen vloer",
+      "CNzh": "石板地板",
+      "TWzh": "石板地板",
+      "JPja": "フラッグストーンなゆか",
+      "KRko": "플래그스톤 바닥",
+      "EUru": "мощенный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05032",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "birch flooring",
+      "EUen": "birch flooring",
+      "EUde": "Birkenboden",
+      "EUes": "suelo abedul",
+      "USes": "suelo abedul",
+      "EUfr": "parquet bouleau",
+      "USfr": "parquet bouleau",
+      "EUit": "pavimento betulla",
+      "EUnl": "berkenhouten parket",
+      "CNzh": "原木地板",
+      "TWzh": "原木地板",
+      "JPja": "しらきのフローリング",
+      "KRko": "가공한 나무 바닥",
+      "EUru": "березовый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05033",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "natural-block flooring",
+      "EUen": "natural-block flooring",
+      "EUde": "Natur-Quadratboden",
+      "EUes": "parqué cuadriculado claro",
+      "USes": "parquet cuadriculado claro",
+      "EUfr": "sol blocs de bois naturel",
+      "USfr": "sol blocs de bois naturel",
+      "EUit": "pavimento blocchi naturali",
+      "EUnl": "naturel houten blokvloer",
+      "CNzh": "自然风地板砖块",
+      "TWzh": "自然風地板磚塊",
+      "JPja": "ナチュラルフローリングブロック",
+      "KRko": "내추럴 나무 블록 바닥",
+      "EUru": "эко-пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05034",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lobby flooring",
+      "EUen": "lobby flooring",
+      "EUde": "Lobby-Boden",
+      "EUes": "moqueta recepción",
+      "USes": "alfombra recepción",
+      "EUfr": "sol vestibule",
+      "USfr": "sol vestibule",
+      "EUit": "pavimento reception",
+      "EUnl": "lobbyvloer",
+      "CNzh": "大厅地板",
+      "TWzh": "大廳地板",
+      "JPja": "ロビーのゆか",
+      "KRko": "로비 바닥",
+      "EUru": "пол «Вестибюль»"
+    }
+  },
+  {
+    "id": "RoomFloor_05035",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark-block flooring",
+      "EUen": "dark-block flooring",
+      "EUde": "Dunkel-Quadratboden",
+      "EUes": "parqué cuadriculado oscuro",
+      "USes": "parquet cuadriculado opaco",
+      "EUfr": "sol blocs de bois sombre",
+      "USfr": "sol blocs de bois sombre",
+      "EUit": "pavimento blocchi scuri",
+      "EUnl": "donkere houten blokvloer",
+      "CNzh": "深色地板砖块",
+      "TWzh": "深色地板磚塊",
+      "JPja": "ダークなフローリングブロック",
+      "KRko": "다크 나무 블록 바닥",
+      "EUru": "темный эко-пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05036",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aqua tile flooring",
+      "EUen": "aqua tile flooring",
+      "EUde": "Türkis-Minifliesenboden",
+      "EUes": "suelo alicatado cian",
+      "USes": "suelo alicatado cian",
+      "EUfr": "sol mosaïque turquoise",
+      "USfr": "sol mosaïque turquoise",
+      "EUit": "pavimento mosaico ciano",
+      "EUnl": "turkooise mozaïektegelvloer",
+      "CNzh": "水蓝色马赛克砖地板",
+      "TWzh": "水藍色馬賽克磚地板",
+      "JPja": "みずいろモザイクタイルのゆか",
+      "KRko": "하늘색 모자이크 타일 바닥",
+      "EUru": "аквамар. мозаичный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05037",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful mosaic-tile flooring",
+      "EUen": "colorful mosaic-tile flooring",
+      "EUde": "Bunt-Minifliesenboden",
+      "EUes": "suelo alicatado multicolor",
+      "USes": "suelo alicatado multicolor",
+      "EUfr": "sol mosaïque multicolore",
+      "USfr": "sol mosaïque multicolore",
+      "EUit": "pavimento mosaico colorato",
+      "EUnl": "kleurrijke mozaïektegelvloer",
+      "CNzh": "彩色马赛克砖地板",
+      "TWzh": "彩色馬賽克磚地板",
+      "JPja": "カラフルモザイクタイルのゆか",
+      "KRko": "컬러풀 모자이크 타일 바닥",
+      "EUru": "цветной мозаичный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05038",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown honeycomb tile",
+      "EUen": "brown honeycomb tile",
+      "EUde": "Braun-Wabenfliesenboden",
+      "EUes": "suelo panal pardo",
+      "USes": "suelo panal pardo",
+      "EUfr": "sol alvéolé marron",
+      "USfr": "sol alvéolé marron",
+      "EUit": "pavimento esagoni marrone",
+      "EUnl": "bruine bijenraattegelvloer",
+      "CNzh": "棕色六角砖地板",
+      "TWzh": "棕色六角磚地板",
+      "JPja": "ブラウンハニカムタイルのゆか",
+      "KRko": "갈색 육각 타일 바닥",
+      "EUru": "коричневый пол «Cоты»"
+    }
+  },
+  {
+    "id": "RoomFloor_05039",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tatami",
+      "EUen": "tatami",
+      "EUde": "Tatamiboden",
+      "EUes": "suelo japonés",
+      "USes": "suelo japonés",
+      "EUfr": "sol tatamis",
+      "USfr": "sol tatamis",
+      "EUit": "pavimento giapponese",
+      "EUnl": "tatamimatten",
+      "CNzh": "榻榻米",
+      "TWzh": "榻榻米",
+      "JPja": "たたみ",
+      "KRko": "일본식 바닥",
+      "EUru": "татами"
+    }
+  },
+  {
+    "id": "RoomFloor_05040",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue honeycomb tile",
+      "EUen": "blue honeycomb tile",
+      "EUde": "Blau-Wabenfliesenboden",
+      "EUes": "suelo panal azul",
+      "USes": "suelo panal azul",
+      "EUfr": "sol alvéolé bleu",
+      "USfr": "sol alvéolé bleu",
+      "EUit": "pavimento esagoni blu",
+      "EUnl": "blauwe bijenraattegelvloer",
+      "CNzh": "蓝色六角砖地板",
+      "TWzh": "藍色六角磚地板",
+      "JPja": "ブルーハニカムタイルのゆか",
+      "KRko": "파란 육각 타일 바닥",
+      "EUru": "синий пол «Соты»"
+    }
+  },
+  {
+    "id": "RoomFloor_05041",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green honeycomb tile",
+      "EUen": "green honeycomb tile",
+      "EUde": "Grün-Wabenfliesenboden",
+      "EUes": "suelo panal verde",
+      "USes": "suelo panal verde",
+      "EUfr": "sol alvéolé vert",
+      "USfr": "sol alvéolé vert",
+      "EUit": "pavimento esagoni verde",
+      "EUnl": "groene bijenraattegelvloer",
+      "CNzh": "绿色六角砖地板",
+      "TWzh": "綠色六角磚地板",
+      "JPja": "グリーンハニカムタイルのゆか",
+      "KRko": "초록 육각 타일 바닥",
+      "EUru": "зеленый пол «Соты»"
+    }
+  },
+  {
+    "id": "RoomFloor_05042",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white honeycomb tile",
+      "EUen": "white honeycomb tile",
+      "EUde": "Weiß-Wabenfliesenboden",
+      "EUes": "suelo panal blanco",
+      "USes": "suelo panal blanco",
+      "EUfr": "sol alvéolé blanc",
+      "USfr": "sol alvéolé blanc",
+      "EUit": "pavimento esagoni bianco",
+      "EUnl": "witte bijenraattegelvloer",
+      "CNzh": "白色六角砖地板",
+      "TWzh": "白色六角磚地板",
+      "JPja": "ホワイトハニカムタイルのゆか",
+      "KRko": "하얀 육각 타일 바닥",
+      "EUru": "белый пол «Соты»"
+    }
+  },
+  {
+    "id": "RoomFloor_05043",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange retro flooring",
+      "EUen": "orange retro flooring",
+      "EUde": "Orange-Verandaboden",
+      "EUes": "suelo retro naranja",
+      "USes": "suelo retro naranja",
+      "EUfr": "sol rétro orange",
+      "USfr": "sol rétro orange",
+      "EUit": "pavimento arancione rétro",
+      "EUnl": "oranje retrovloer",
+      "CNzh": "橘色怀旧地板",
+      "TWzh": "橘色復古地板",
+      "JPja": "オレンジレトロなゆか",
+      "KRko": "오렌지색 복고풍 바닥",
+      "EUru": "оранжевый ретро-пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05044",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "modern wood flooring",
+      "EUen": "modern wood flooring",
+      "EUde": "Buntholzboden",
+      "EUes": "suelo listones",
+      "USes": "suelo tablas",
+      "EUfr": "sol bois moderne",
+      "USfr": "sol bois moderne",
+      "EUit": "pavimento legno",
+      "EUnl": "moderne houten vloer",
+      "CNzh": "拼木地板",
+      "TWzh": "拼木地板",
+      "JPja": "ミックスウッドのフローリング",
+      "KRko": "믹스우드 바닥",
+      "EUru": "наборный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05045",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green retro flooring",
+      "EUen": "green retro flooring",
+      "EUde": "Grün-Verandaboden",
+      "EUes": "suelo retro verde",
+      "USes": "suelo retro verde",
+      "EUfr": "sol rétro vert",
+      "USfr": "sol rétro vert",
+      "EUit": "pavimento verde rétro",
+      "EUnl": "groene retrovloer",
+      "CNzh": "绿色怀旧地板",
+      "TWzh": "綠色復古地板",
+      "JPja": "グリーンレトロなゆか",
+      "KRko": "그린 복고풍 바닥",
+      "EUru": "зеленый ретро-пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05046",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray vinyl flooring",
+      "EUen": "gray vinyl flooring",
+      "EUde": "Schachbrett-Imbissboden",
+      "EUes": "losa comedor gris",
+      "USes": "suelo losa comedor gris",
+      "EUfr": "sol dalles PVC noir/blanc",
+      "USfr": "sol dalles PVC noir/blanc",
+      "EUit": "pavimento vinile bianconero",
+      "EUnl": "zwart-witte vinylvloer",
+      "CNzh": "单色配色塑胶砖地板",
+      "TWzh": "灰階配色塑膠磚地板",
+      "JPja": "モノクロピータイル",
+      "KRko": "흑백 데코타일 바닥",
+      "EUru": "серый линолеум"
+    }
+  },
+  {
+    "id": "RoomFloor_05047",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red-and-black vinyl flooring",
+      "EUen": "red-and-black vinyl flooring",
+      "EUde": "Rot-Schwarz-Imbissboden",
+      "EUes": "losa comedor roja y negra",
+      "USes": "suelo losa comedor mixto",
+      "EUfr": "sol dalles PVC rouge/noir",
+      "USfr": "sol dalles PVC rouge/noir",
+      "EUit": "pavimento vinile rossonero",
+      "EUnl": "zwart-rode vinylvloer",
+      "CNzh": "红黑色塑胶砖地板",
+      "TWzh": "紅黑色塑膠磚地板",
+      "JPja": "あかくろピータイル",
+      "KRko": "적흑 데코타일 바닥",
+      "EUru": "черно-красн. линолеум"
+    }
+  },
+  {
+    "id": "RoomFloor_05048",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green vinyl flooring",
+      "EUen": "green vinyl flooring",
+      "EUde": "Grün-Imbissboden",
+      "EUes": "losa comedor verde",
+      "USes": "suelo losa comedor verde",
+      "EUfr": "sol dalles PVC vert/orange",
+      "USfr": "sol dalles PVC vert/orange",
+      "EUit": "pavimento vinile verde",
+      "EUnl": "groene vinylvloer",
+      "CNzh": "绿色塑胶砖地板",
+      "TWzh": "綠色塑膠磚地板",
+      "JPja": "みどりのピータイル",
+      "KRko": "초록 데코타일 바닥",
+      "EUru": "зеленый линолеум"
+    }
+  },
+  {
+    "id": "RoomFloor_05049",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden-knot flooring",
+      "EUen": "wooden-knot flooring",
+      "EUde": "Zirbenboden",
+      "EUes": "entarimado madera nudosa",
+      "USes": "entarimado madera nudosa",
+      "EUfr": "sol nœuds de bois",
+      "USfr": "sol nœuds de bois",
+      "EUit": "pavimento legno nodoso",
+      "EUnl": "houtenknoestvloer",
+      "CNzh": "木节地板",
+      "TWzh": "木節地板",
+      "JPja": "ふしありフローリング",
+      "KRko": "옹이 무늬 마룻바닥",
+      "EUru": "пол из дерева с сучками"
+    }
+  },
+  {
+    "id": "RoomFloor_05050",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark-chocolates flooring",
+      "EUen": "dark-chocolates flooring",
+      "EUde": "Bitterschokoladenboden",
+      "EUes": "suelo chocolate negro",
+      "USes": "suelo chocolate negro",
+      "EUfr": "sol chocolat noir",
+      "USfr": "sol chocolat noir",
+      "EUit": "pav. cioccolato fondente",
+      "EUnl": "purechocoladevloer",
+      "CNzh": "黑巧克力混合色地板",
+      "TWzh": "黑巧克力地板",
+      "JPja": "ビターチョコアソートなゆか",
+      "KRko": "다크 초콜릿 바닥",
+      "EUru": "темно-шоколадный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05051",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "palace tile",
+      "EUen": "palace tile",
+      "EUde": "Palastkachelboden",
+      "EUes": "losa palacete",
+      "USes": "suelo palacio",
+      "EUfr": "dallage palais",
+      "USfr": "dallage palais",
+      "EUit": "pavimento palazzo",
+      "EUnl": "paleistegelvloer",
+      "CNzh": "宫殿地板",
+      "TWzh": "宮殿地板",
+      "JPja": "きゅうでんのゆか",
+      "KRko": "궁전 바닥",
+      "EUru": "дворцовый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05052",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white-chocolates flooring",
+      "EUen": "white-chocolates flooring",
+      "EUde": "Weißschokoladenboden",
+      "EUes": "suelo chocolate blanco",
+      "USes": "suelo chocolate blanco",
+      "EUfr": "sol chocolat blanc",
+      "USfr": "sol chocolat blanc",
+      "EUit": "pav. cioccolato bianco",
+      "EUnl": "wittechocoladevloer",
+      "CNzh": "白巧克力混合色地板",
+      "TWzh": "白巧克力地板",
+      "JPja": "ホワイトチョコアソートなゆか",
+      "KRko": "화이트 초콜릿 바닥",
+      "EUru": "светло-шоколадный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05053",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "berry-chocolates flooring",
+      "EUen": "berry-chocolates flooring",
+      "EUde": "Erdbeerschokoladenboden",
+      "EUes": "suelo chocolate rosa",
+      "USes": "suelo chocolate fresas",
+      "EUfr": "sol chocolat fraise",
+      "USfr": "sol chocolat fraise",
+      "EUit": "pavimento cioccofragola",
+      "EUnl": "aardbeichocoladevloer",
+      "CNzh": "草莓巧克力混合色地板",
+      "TWzh": "草莓巧克力地板",
+      "JPja": "いちごチョコアソートなゆか",
+      "KRko": "딸기 초콜릿 바닥",
+      "EUru": "розово-шоколадный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05054",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pyramid tile",
+      "EUen": "pyramid tile",
+      "EUde": "Pyramidenboden",
+      "EUes": "losa pirámide",
+      "USes": "suelo pirámide",
+      "EUfr": "sol pyramide",
+      "USfr": "sol pyramide",
+      "EUit": "pavimento piramide",
+      "EUnl": "piramidevloer",
+      "CNzh": "金字塔地板",
+      "TWzh": "金字塔地板",
+      "JPja": "ピラミッドのゆか",
+      "KRko": "피라미드 바닥",
+      "EUru": "пол пирамиды"
+    }
+  },
+  {
+    "id": "RoomFloor_05056",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sakura-wood flooring",
+      "EUen": "sakura-wood flooring",
+      "EUde": "Kirschholzboden",
+      "EUes": "parqué cerezo",
+      "USes": "parquet cerezo",
+      "EUfr": "sol bois sakura",
+      "USfr": "sol bois sakura",
+      "EUit": "pavimento legno rosa",
+      "EUnl": "kersenbloesemroze vloer",
+      "CNzh": "粉红色木地板",
+      "TWzh": "櫻花木地板",
+      "JPja": "さくらのウッドフローリング",
+      "KRko": "벚꽃색 우드 바닥",
+      "EUru": "пол из вишневого дерева"
+    }
+  },
+  {
+    "id": "RoomFloor_05057",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue-paint flooring",
+      "EUen": "blue-paint flooring",
+      "EUde": "Blauboden",
+      "EUes": "suelo madera azul",
+      "USes": "suelo madera azul",
+      "EUfr": "sol bois peint bleu",
+      "USfr": "sol bois peint bleu",
+      "EUit": "pavimento dipinto blu",
+      "EUnl": "blauwe vloer",
+      "CNzh": "蓝色喷涂地板",
+      "TWzh": "藍色油漆地板",
+      "JPja": "あおいペイントフローリング",
+      "KRko": "파란 페인트 마룻바닥",
+      "EUru": "светло-синий пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05058",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green-paint flooring",
+      "EUen": "green-paint flooring",
+      "EUde": "Grünboden",
+      "EUes": "suelo madera verde",
+      "USes": "suelo madera verde",
+      "EUfr": "sol bois peint vert",
+      "USfr": "sol bois peint vert",
+      "EUit": "pavimento dipinto verde",
+      "EUnl": "groene vloer",
+      "CNzh": "绿色喷涂地板",
+      "TWzh": "綠色油漆地板",
+      "JPja": "みどりのペイントフローリング",
+      "KRko": "초록 페인트 마룻바닥",
+      "EUru": "зеленый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05059",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink-paint flooring",
+      "EUen": "pink-paint flooring",
+      "EUde": "Rosaboden",
+      "EUes": "suelo madera rosa",
+      "USes": "suelo madera rosa",
+      "EUfr": "sol bois peint rose",
+      "USfr": "sol bois peint rose",
+      "EUit": "pavimento dipinto rosa",
+      "EUnl": "roze vloer",
+      "CNzh": "粉红色喷涂地板",
+      "TWzh": "粉紅色油漆地板",
+      "JPja": "ピンクのペイントフローリング",
+      "KRko": "핑크 페인트 마룻바닥",
+      "EUru": "розовый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05060",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white-paint flooring",
+      "EUen": "white-paint flooring",
+      "EUde": "Weißboden",
+      "EUes": "suelo madera blanca",
+      "USes": "suelo madera blanca",
+      "EUfr": "sol bois peint blanc",
+      "USfr": "sol bois peint blanc",
+      "EUit": "pavimento dipinto bianco",
+      "EUnl": "witte vloer",
+      "CNzh": "白色喷涂地板",
+      "TWzh": "白色油漆地板",
+      "JPja": "しろいペイントフローリング",
+      "KRko": "하얀 페인트 마룻바닥",
+      "EUru": "белый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05061",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light herringbone flooring",
+      "EUen": "light herringbone flooring",
+      "EUde": "Hell-Fischgrätparkett",
+      "EUes": "parqué espiga claro",
+      "USes": "parquet espinapez marrón",
+      "EUfr": "sol chevrons bois naturel",
+      "USfr": "sol chevrons bois naturel",
+      "EUit": "pav. spina di pesce chiaro",
+      "EUnl": "licht visgraatparket",
+      "CNzh": "浅色人字斜纹地板",
+      "TWzh": "淺色人字斜紋地板",
+      "JPja": "ライトなヘリンボーンのゆか",
+      "KRko": "라이트 헤링본 바닥",
+      "EUru": "светлый пол-елочка"
+    }
+  },
+  {
+    "id": "RoomFloor_05062",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark herringbone flooring",
+      "EUen": "dark herringbone flooring",
+      "EUde": "Dunkel-Fischgrätparkett",
+      "EUes": "parqué espiga oscuro",
+      "USes": "parquet espinapez oscuro",
+      "EUfr": "sol chevrons bois acajou",
+      "USfr": "sol chevrons bois acajou",
+      "EUit": "pav. spina di pesce scuro",
+      "EUnl": "donker visgraatparket",
+      "CNzh": "深色人字斜纹地板",
+      "TWzh": "深色人字斜紋地板",
+      "JPja": "ダークなヘリンボーンのゆか",
+      "KRko": "다크 헤링본 바닥",
+      "EUru": "темный пол-елочка"
+    }
+  },
+  {
+    "id": "RoomFloor_05063",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rosewood flooring",
+      "EUen": "rosewood flooring",
+      "EUde": "Rosenholzboden",
+      "EUes": "entarimado palisandro gris",
+      "USes": "entarimado palisandro gris",
+      "EUfr": "sol palissandre",
+      "USfr": "sol palissandre",
+      "EUit": "pavimento di palissandro",
+      "EUnl": "rozenhouten parket",
+      "CNzh": "玫瑰木地板",
+      "TWzh": "玫瑰木地板",
+      "JPja": "ローズウッドのゆか",
+      "KRko": "로즈우드 바닥",
+      "EUru": "пол из палисандра"
+    }
+  },
+  {
+    "id": "RoomFloor_05064",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold iron-parquet flooring",
+      "EUen": "gold iron-parquet flooring",
+      "EUde": "Gold-Eisenboden",
+      "EUes": "parqué filigrana dorada",
+      "USes": "parquet filigrana dorada",
+      "EUfr": "parquet bois et fer doré",
+      "USfr": "parquet fer et bois doré",
+      "EUit": "parquet in ferro dorato",
+      "EUnl": "parket met goudinleg",
+      "CNzh": "金色铸铁拼花地板",
+      "TWzh": "金色鑄鐵拼花地板",
+      "JPja": "きんのアイアンパーケットのゆか",
+      "KRko": "금색 패턴 바닥",
+      "EUru": "пол из стали с золотом"
+    }
+  },
+  {
+    "id": "RoomFloor_05065",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown iron-parquet flooring",
+      "EUen": "brown iron-parquet flooring",
+      "EUde": "Silber-Eisenboden",
+      "EUes": "parqué filigrana plateada",
+      "USes": "parquet filigrana de hierro",
+      "EUfr": "parquet bois et fer argenté",
+      "USfr": "parquet fer et bois brun",
+      "EUit": "parquet in ferro argentato",
+      "EUnl": "parket met zilverinleg",
+      "CNzh": "银色铸铁拼花地板",
+      "TWzh": "銀色鑄鐵拼花地板",
+      "JPja": "ぎんのアイアンパーケットのゆか",
+      "KRko": "은색 패턴 바닥",
+      "EUru": "пол из стали с серебром"
+    }
+  },
+  {
+    "id": "RoomFloor_05066",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black iron-parquet flooring",
+      "EUen": "black iron-parquet flooring",
+      "EUde": "Schwarz-Eisenboden",
+      "EUes": "parqué filigrana metálica",
+      "USes": "parquet filigrana metálica",
+      "EUfr": "parquet bois et fer noir",
+      "USfr": "parquet fer et bois noir",
+      "EUit": "parquet in ferro nero",
+      "EUnl": "zwart",
+      "CNzh": "黑色铸铁拼花地板",
+      "TWzh": "黑色鑄鐵拼花地板",
+      "JPja": "くろいアイアンパーケットのゆか",
+      "KRko": "검정 패턴 바닥",
+      "EUru": "темный пол из стали"
+    }
+  },
+  {
+    "id": "RoomFloor_05067",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monochromatic tile flooring",
+      "EUen": "monochromatic tile flooring",
+      "EUde": "Grauplattenboden",
+      "EUes": "losa monocromo",
+      "USes": "suelo monocromo",
+      "EUfr": "moquette dalles gris foncé",
+      "USfr": "moquette dalles gris foncé",
+      "EUit": "pav. a scacchi monocromo",
+      "EUnl": "effen tapijttegels",
+      "CNzh": "单色配色拼接地毯",
+      "TWzh": "灰階配色拼接地毯",
+      "JPja": "モノクロパネルカーペット",
+      "KRko": "흑백 패널 카펫 바닥",
+      "EUru": "пол из однотон. плитки"
+    }
+  },
+  {
+    "id": "RoomFloor_05068",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful tile flooring",
+      "EUen": "colorful tile flooring",
+      "EUde": "Buntplattenboden",
+      "EUes": "losa multicolor",
+      "USes": "suelo multicolor",
+      "EUfr": "moquette dalles colorées",
+      "USfr": "moquette dalles colorées",
+      "EUit": "pav. a scacchi variopinto",
+      "EUnl": "kleurrijke tapijttegels",
+      "CNzh": "彩色拼接地毯",
+      "TWzh": "彩色拼接地毯",
+      "JPja": "カラフルパネルカーペット",
+      "KRko": "컬러풀 패널 카펫 바닥",
+      "EUru": "пол из цветной плитки"
+    }
+  },
+  {
+    "id": "RoomFloor_05069",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stone tile",
+      "EUen": "stone tile",
+      "EUde": "Steinboden",
+      "EUes": "losa piedra",
+      "USes": "suelo piedra",
+      "EUfr": "sol pavé",
+      "USfr": "sol pavé",
+      "EUit": "pavimento pietra",
+      "EUnl": "stenen tegelvloer",
+      "CNzh": "大理石地板",
+      "TWzh": "大理石地板",
+      "JPja": "だいりせきのゆか",
+      "KRko": "대리석 바닥",
+      "EUru": "пол из каменной плитки"
+    }
+  },
+  {
+    "id": "RoomFloor_05070",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute-paint flooring",
+      "EUen": "cute-paint flooring",
+      "EUde": "Niedlich-Farbholzboden",
+      "EUes": "parqué pintado adorable",
+      "USes": "parquet pintado adorable",
+      "EUfr": "parquet peint tons chauds",
+      "USfr": "parquet peint tons chauds",
+      "EUit": "pavimento grazioso dipinto",
+      "EUnl": "warmkleurig geverfde vloer",
+      "CNzh": "可爱喷涂地板",
+      "TWzh": "可愛油漆地板",
+      "JPja": "キュートなペイントフローリング",
+      "KRko": "큐트 페인트 마룻바닥",
+      "EUru": "пол милой расцветки"
+    }
+  },
+  {
+    "id": "RoomFloor_05071",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cool-paint flooring",
+      "EUen": "cool-paint flooring",
+      "EUde": "Cool-Farbholzboden",
+      "EUes": "parqué pintado refinado",
+      "USes": "parquet pintado sereno",
+      "EUfr": "parquet peint tons froids",
+      "USfr": "parquet peint tons froids",
+      "EUit": "pavimento spavaldo dipinto",
+      "EUnl": "koelkleurig geverfde vloer",
+      "CNzh": "清新喷涂地板",
+      "TWzh": "酷感油漆地板",
+      "JPja": "クールなペイントフローリング",
+      "KRko": "쿨 페인트 마룻바닥",
+      "EUru": "пол озорной расцветки"
+    }
+  },
+  {
+    "id": "RoomFloor_05073",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow floral flooring",
+      "EUen": "yellow floral flooring",
+      "EUde": "Gelb-Blütenmusterboden",
+      "EUes": "suelo floral amarillo",
+      "USes": "suelo floral amarillo",
+      "EUfr": "sol floral strié jaune",
+      "USfr": "sol floral strié jaune",
+      "EUit": "pavimento floreale giallo",
+      "EUnl": "gele bloemetjesvloer",
+      "CNzh": "黄色花朵地板",
+      "TWzh": "黃色花朵地板",
+      "JPja": "きいろいフラワーフローリング",
+      "KRko": "노란 꽃무늬 마룻바닥",
+      "EUru": "пол с цветами на желтом"
+    }
+  },
+  {
+    "id": "RoomFloor_05074",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue floral flooring",
+      "EUen": "blue floral flooring",
+      "EUde": "Blau-Blütenmusterboden",
+      "EUes": "suelo floral azul",
+      "USes": "suelo floral azul",
+      "EUfr": "sol floral strié bleu",
+      "USfr": "sol floral strié bleu",
+      "EUit": "pavimento floreale blu",
+      "EUnl": "blauwe bloemetjesvloer",
+      "CNzh": "蓝色花朵地板",
+      "TWzh": "藍色花朵地板",
+      "JPja": "あおいフラワーフローリング",
+      "KRko": "파란 꽃무늬 마룻바닥",
+      "EUru": "пол с цветами на синем"
+    }
+  },
+  {
+    "id": "RoomFloor_05075",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown floral flooring",
+      "EUen": "brown floral flooring",
+      "EUde": "Braun-Blütenmusterboden",
+      "EUes": "suelo floral marrón",
+      "USes": "suelo floral marrón",
+      "EUfr": "sol floral strié marron",
+      "USfr": "sol floral strié marron",
+      "EUit": "pavimento floreale marrone",
+      "EUnl": "bruine bloemetjesvloer",
+      "CNzh": "茶色花朵地板",
+      "TWzh": "茶色花朵地板",
+      "JPja": "ちゃいろいフラワーフローリング",
+      "KRko": "갈색 꽃무늬 마룻바닥",
+      "EUru": "пол с цветами на буром"
+    }
+  },
+  {
+    "id": "RoomFloor_05076",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kitschy tile",
+      "EUen": "kitschy tile",
+      "EUde": "70er-Kachelboden",
+      "EUes": "losa kitsch",
+      "USes": "suelo kitsch",
+      "EUfr": "carrelage kitsch",
+      "USfr": "carrelage kitsch",
+      "EUit": "pavimento kitsch",
+      "EUnl": "kitscherige tegelvloer",
+      "CNzh": "庸俗地板",
+      "TWzh": "庸俗地板",
+      "JPja": "キッチュなゆか",
+      "KRko": "어지러운 바닥",
+      "EUru": "пол из ретро-кафеля"
+    }
+  },
+  {
+    "id": "RoomFloor_05077",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tatami flooring",
+      "EUen": "tatami flooring",
+      "EUde": "Tatamibelag",
+      "EUes": "tatami cuadrado verde",
+      "USes": "tatami cuadrado verde",
+      "EUfr": "sol tatamis carrés",
+      "USfr": "sol tatamis carrés",
+      "EUit": "tatami a quadrati",
+      "EUnl": "groene tatamivloer",
+      "CNzh": "无边榻榻米",
+      "TWzh": "無邊榻榻米",
+      "JPja": "ふちなしたたみ",
+      "KRko": "일본식 돗자리 바닥",
+      "EUru": "пол-татами"
+    }
+  },
+  {
+    "id": "RoomFloor_05078",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rush tatami flooring",
+      "EUen": "rush tatami flooring",
+      "EUde": "Binsen-Tatamibelag",
+      "EUes": "tatami cuadrado beis",
+      "USes": "tatami cuadrado beige",
+      "EUfr": "sol tatamis paille de riz",
+      "USfr": "sol tatamis paille de riz",
+      "EUit": "tatami a quadrati di giunco",
+      "EUnl": "bruine tatamivloer",
+      "CNzh": "灯心草无边榻榻米",
+      "TWzh": "燈心草無邊榻榻米",
+      "JPja": "いぐさのふちなしたたみ",
+      "KRko": "바둑판무늬 일본식 바닥",
+      "EUru": "камышовый пол-татами"
+    }
+  },
+  {
+    "id": "RoomFloor_05079",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rush tatami",
+      "EUen": "rush tatami",
+      "EUde": "Binsen-Tatamiboden",
+      "EUes": "tatami tradicional",
+      "USes": "tatami tradicional",
+      "EUfr": "sol en nattes de tatami",
+      "USfr": "sol en nattes de tatami",
+      "EUit": "tatami di giunco",
+      "EUnl": "biezen tatamimatten",
+      "CNzh": "灯心草榻榻米",
+      "TWzh": "燈心草榻榻米",
+      "JPja": "いぐさのたたみ",
+      "KRko": "파란 테두리 일본식 바닥",
+      "EUru": "камышовое татами"
+    }
+  },
+  {
+    "id": "RoomFloor_05080",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray argyle-tile flooring",
+      "EUen": "gray argyle-tile flooring",
+      "EUde": "Grau-Rautenfliesenboden",
+      "EUes": "suelo rombos gris",
+      "USes": "suelo rombos gris",
+      "EUfr": "carrelage diagonal gris",
+      "USfr": "carrelage diagonal gris",
+      "EUit": "pavimento rombi grigio",
+      "EUnl": "grijze geruite tegelvloer",
+      "CNzh": "灰色菱格纹砖地板",
+      "TWzh": "灰色菱格紋磚地板",
+      "JPja": "グレーのアーガイルタイルゆか",
+      "KRko": "그레이 아가일 타일 바닥",
+      "EUru": "пол в бело-серый ромбик"
+    }
+  },
+  {
+    "id": "RoomFloor_05081",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown argyle-tile flooring",
+      "EUen": "brown argyle-tile flooring",
+      "EUde": "Braun-Rautenfliesenboden",
+      "EUes": "suelo rombos pardo",
+      "USes": "suelo rombos pardo",
+      "EUfr": "carrelage diagonal brun",
+      "USfr": "carrelage diagonal brun",
+      "EUit": "pavimento rombi marrone",
+      "EUnl": "bruine geruite tegelvloer",
+      "CNzh": "棕色菱格纹砖地板",
+      "TWzh": "棕色菱格紋磚地板",
+      "JPja": "ブラウンのアーガイルタイルゆか",
+      "KRko": "브라운 아가일 타일 바닥",
+      "EUru": "пол в бело-бурый ромбик"
+    }
+  },
+  {
+    "id": "RoomFloor_05082",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "circuit-board flooring",
+      "EUen": "circuit-board flooring",
+      "EUde": "Leiterplattenboden",
+      "EUes": "suelo circuito integrado",
+      "USes": "suelo circuito integrado",
+      "EUfr": "sol circuit imprimé",
+      "USfr": "sol circuit imprimé",
+      "EUit": "pav. circuito stampato",
+      "EUnl": "printplaatvloer",
+      "CNzh": "主机板地板",
+      "TWzh": "主機板地板",
+      "JPja": "きばんのゆか",
+      "KRko": "전자 회로 바닥",
+      "EUru": "пол-микросхема"
+    }
+  },
+  {
+    "id": "RoomFloor_05163",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rubber-tile flooring",
+      "EUen": "rubber-tile flooring",
+      "EUde": "Gummifliesenboden",
+      "EUes": "suelo caucho aislante",
+      "USes": "suelo caucho aislante",
+      "EUfr": "sol dalles caoutchouc",
+      "USfr": "sol dalles caoutchouc",
+      "EUit": "pavimento piastrelle gomma",
+      "EUnl": "rubberen tegelvloer",
+      "CNzh": "橡胶砖地板",
+      "TWzh": "橡膠磚地板",
+      "JPja": "ゴムタイルのゆか",
+      "KRko": "고무 타일 바닥",
+      "EUru": "резиновый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05232",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "artsy parquet flooring",
+      "EUen": "artsy parquet flooring",
+      "EUde": "Kunstparkett",
+      "EUes": "parqué decorativo",
+      "USes": "parquet decorativo",
+      "EUfr": "parquet marqueterie fine",
+      "USfr": "parquet marqueterie fine",
+      "EUit": "parquet artistico",
+      "EUnl": "artistiek",
+      "CNzh": "艺术嵌木地板",
+      "TWzh": "藝術嵌木地板",
+      "JPja": "アートなよせぎざいくのゆか",
+      "KRko": "화려한 나무 바닥",
+      "EUru": "пол c ковровым узором"
+    }
+  },
+  {
+    "id": "RoomFloor_05233",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "slate flooring",
+      "EUen": "slate flooring",
+      "EUde": "Schieferboden",
+      "EUes": "suelo pizarra",
+      "USes": "suelo empedrado",
+      "EUfr": "sol ardoises",
+      "USfr": "sol ardoises",
+      "EUit": "pavimento ardesia",
+      "EUnl": "leien vloer",
+      "CNzh": "不规则石板地",
+      "TWzh": "不規則石板地",
+      "JPja": "ランダムなしきいし",
+      "KRko": "마구 붙인 돌바닥",
+      "EUru": "пол из сланцевой плитки"
+    }
+  },
+  {
+    "id": "RoomFloor_05234",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mossy-garden flooring",
+      "EUen": "mossy-garden flooring",
+      "EUde": "Moosboden",
+      "EUes": "suelo musgo",
+      "USes": "suelo musgo",
+      "EUfr": "sol moussu",
+      "USfr": "sol moussu",
+      "EUit": "moquette muschio",
+      "EUnl": "mossige tuinvloer",
+      "CNzh": "青苔庭院地板",
+      "TWzh": "青苔庭園地板",
+      "JPja": "こけにわのゆか",
+      "KRko": "이끼 낀 바닥",
+      "EUru": "замшелый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05235",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "construction-site flooring",
+      "EUen": "construction-site flooring",
+      "EUde": "Baustellenboden",
+      "EUes": "suelo obras",
+      "USes": "suelo obra en construcción",
+      "EUfr": "sol chantier",
+      "USfr": "sol chantier",
+      "EUit": "pavimento cantiere",
+      "EUnl": "bouwplaatsvloer",
+      "CNzh": "施工现场地板",
+      "TWzh": "施工現場地板",
+      "JPja": "こうじげんばのゆか",
+      "KRko": "공사 현장 바닥",
+      "EUru": "строительный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05236",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "garbage-heap flooring",
+      "EUen": "garbage-heap flooring",
+      "EUde": "Müllbergboden",
+      "EUes": "suelo vertedero",
+      "USes": "suelo basural",
+      "EUfr": "sol dépotoir",
+      "USfr": "sol dépotoir",
+      "EUit": "pavimento discarica",
+      "EUnl": "stortplaatsvloer",
+      "CNzh": "房间地板",
+      "TWzh": "垃圾堆地板",
+      "JPja": "おへやのゆか",
+      "KRko": "쓰레기장 바닥",
+      "EUru": "пол «Свалка»"
+    }
+  },
+  {
+    "id": "RoomFloor_05237",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "highway flooring",
+      "EUen": "highway flooring",
+      "EUde": "Highwayboden",
+      "EUes": "suelo carretera",
+      "USes": "suelo carretera",
+      "EUfr": "sol autoroute",
+      "USfr": "sol autoroute",
+      "EUit": "pavimento strada",
+      "EUnl": "snelwegvloer",
+      "CNzh": "高速公路地板",
+      "TWzh": "高速公路地板",
+      "JPja": "ハイウェイのゆか",
+      "KRko": "고속도로 바닥",
+      "EUru": "пол-шоссе"
+    }
+  },
+  {
+    "id": "RoomFloor_05238",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "swamp flooring",
+      "EUen": "swamp flooring",
+      "EUde": "Sumpfboden",
+      "EUes": "suelo ciénaga",
+      "USes": "suelo pantano",
+      "EUfr": "sol marécage",
+      "USfr": "sol marécage",
+      "EUit": "pavimento palude",
+      "EUnl": "moerasvloer",
+      "CNzh": "泥沼地板",
+      "TWzh": "泥沼地板",
+      "JPja": "どろぬまなゆか",
+      "KRko": "진흙탕 바닥",
+      "EUru": "болотный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05239",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rocky-mountain flooring",
+      "EUen": "rocky-mountain flooring",
+      "EUde": "Hochgebirgsboden",
+      "EUes": "suelo rocoso",
+      "USes": "suelo rocoso",
+      "EUfr": "sol paroi rocheuse",
+      "USfr": "sol paroi rocheuse",
+      "EUit": "pavimento roccioso",
+      "EUnl": "rotsachtige vloer",
+      "CNzh": "岩山地板",
+      "TWzh": "岩山地板",
+      "JPja": "いわやまのゆか",
+      "KRko": "바위 산 바닥",
+      "EUru": "каменистый пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05240",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ramshackle flooring",
+      "EUen": "ramshackle flooring",
+      "EUde": "Bruchbudenboden",
+      "EUes": "suelo ruinas",
+      "USes": "suelo ruinas",
+      "EUfr": "sol délabré",
+      "USfr": "sol délabré",
+      "EUit": "pavimento diroccato",
+      "EUnl": "krakkemikkige vloer",
+      "CNzh": "废墟地板",
+      "TWzh": "廢墟地板",
+      "JPja": "はいきょのゆか",
+      "KRko": "폐허 바닥",
+      "EUru": "обветшавший пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05241",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "party flooring",
+      "EUen": "party flooring",
+      "EUde": "Partyboden",
+      "EUes": "suelo fiestero",
+      "USes": "suelo festejo",
+      "EUfr": "sol fête",
+      "USfr": "sol fête",
+      "EUit": "pavimento festa",
+      "EUnl": "feestvloer",
+      "CNzh": "派对地板",
+      "TWzh": "派對地板",
+      "JPja": "パーティーのゆか",
+      "KRko": "파티 바닥",
+      "EUru": "пол «Вечеринка»"
+    }
+  },
+  {
+    "id": "RoomFloor_05243",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crop-circles flooring",
+      "EUen": "crop-circles flooring",
+      "EUde": "Kornkreisboden",
+      "EUes": "suelo círculos en el maíz",
+      "USes": "suelo círculos en el campo",
+      "EUfr": "sol cercle de culture",
+      "USfr": "sol cercle de culture",
+      "EUit": "pavimento cerchi nel grano",
+      "EUnl": "graancirkelvloer",
+      "CNzh": "麦田圈地板",
+      "TWzh": "麥田圈地板",
+      "JPja": "ミステリーサークルなゆか",
+      "KRko": "미스터리 서클 바닥",
+      "EUru": "пол «Круги на полях»"
+    }
+  },
+  {
+    "id": "RoomFloor_05248",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skull-print flooring",
+      "EUen": "skull-print flooring",
+      "EUde": "Schädelboden",
+      "EUes": "suelo calaveras",
+      "USes": "suelo calaveras",
+      "EUfr": "sol crânes",
+      "USfr": "sol crânes",
+      "EUit": "pavimento teschi",
+      "EUnl": "schedelprintvloer",
+      "CNzh": "骷髅地板",
+      "TWzh": "骷髏地板",
+      "JPja": "スカルなゆか",
+      "KRko": "해골 바닥",
+      "EUru": "пол с черепами"
+    }
+  },
+  {
+    "id": "RoomFloor_05250",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "future-tech flooring",
+      "EUen": "future-tech flooring",
+      "EUde": "Zukunftstechnikboden",
+      "EUes": "suelo red neuronal",
+      "USes": "suelo red neuronal",
+      "EUfr": "sol hypertechnologique",
+      "USfr": "sol hypertechnologique",
+      "EUit": "pavimento iper tecnologico",
+      "EUnl": "futuristische vloer",
+      "CNzh": "超科技地板",
+      "TWzh": "超科技地板",
+      "JPja": "オーバーテクノロジーなゆか",
+      "KRko": "오버 테크놀로지 바닥",
+      "EUru": "футуристический пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05253",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iceberg flooring",
+      "EUen": "iceberg flooring",
+      "EUde": "Eisbergboden",
+      "EUes": "suelo glaciar",
+      "USes": "suelo glaciar",
+      "EUfr": "sol banquise",
+      "USfr": "sol banquise",
+      "EUit": "pavimento artico",
+      "EUnl": "ijsbergvloer",
+      "CNzh": "流冰地板",
+      "TWzh": "流冰地板",
+      "JPja": "りゅうひょうのゆか",
+      "KRko": "빙하 바닥",
+      "EUru": "арктический пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05255",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oasis flooring",
+      "EUen": "oasis flooring",
+      "EUde": "Oasenboden",
+      "EUes": "suelo oasis",
+      "USes": "suelo oasis",
+      "EUfr": "sol oasis",
+      "USfr": "sol oasis",
+      "EUit": "pavimento oasi",
+      "EUnl": "oasisvloer",
+      "CNzh": "绿洲地板",
+      "TWzh": "綠洲地板",
+      "JPja": "オアシスなゆか",
+      "KRko": "오아시스 바닥",
+      "EUru": "пол с оазисом"
+    }
+  },
+  {
+    "id": "RoomFloor_05267",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cloud flooring",
+      "EUen": "cloud flooring",
+      "EUde": "Wolkengrund",
+      "EUes": "suelo nube",
+      "USes": "suelo nube",
+      "EUfr": "sol nuages",
+      "USfr": "sol nuages",
+      "EUit": "pavimento nuvole",
+      "EUnl": "wolkenvloer",
+      "CNzh": "云上风景",
+      "TWzh": "雲上風景",
+      "JPja": "くものうえ",
+      "KRko": "구름 위",
+      "EUru": "облачный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05268",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "underwater flooring",
+      "EUen": "underwater flooring",
+      "EUde": "Meeresboden",
+      "EUes": "suelo fondo marino",
+      "USes": "suelo fondo marino",
+      "EUfr": "sol fonds marins",
+      "USfr": "sol fonds marins",
+      "EUit": "pavimento sottomarino",
+      "EUnl": "onderwatervloer",
+      "CNzh": "海底地板",
+      "TWzh": "海底地板",
+      "JPja": "うみのそこのゆか",
+      "KRko": "해저 바닥",
+      "EUru": "подводный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05269",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "galaxy flooring",
+      "EUen": "galaxy flooring",
+      "EUde": "Weltraumboden",
+      "EUes": "suelo galaxia",
+      "USes": "suelo galaxia",
+      "EUfr": "sol galaxie",
+      "USfr": "sol galaxie",
+      "EUit": "pavimento galassia",
+      "EUnl": "melkwegvloer",
+      "CNzh": "银河系地板",
+      "TWzh": "銀河系地板",
+      "JPja": "ぎんがけいのゆか",
+      "KRko": "은하계 바닥",
+      "EUru": "космический пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05270",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sci-fi flooring",
+      "EUen": "sci-fi flooring",
+      "EUde": "Raumschiffboden",
+      "EUes": "suelo nave espacial",
+      "USes": "suelo nave espacial",
+      "EUfr": "sol science-fiction",
+      "USfr": "sol science-fiction",
+      "EUit": "pavimento astronave",
+      "EUnl": "sciencefictionvloer",
+      "CNzh": "太空船地板",
+      "TWzh": "太空船地板",
+      "JPja": "うちゅうせんのゆか",
+      "KRko": "우주선 바닥",
+      "EUru": "пол космолета"
+    }
+  },
+  {
+    "id": "RoomFloor_05273",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flowing-river flooring",
+      "EUen": "flowing-river flooring",
+      "EUde": "Flussboden",
+      "EUes": "suelo deshielo",
+      "USes": "suelo deshielo",
+      "EUfr": "sol rivière",
+      "USfr": "sol rivière",
+      "EUit": "pavimento fiume",
+      "EUnl": "riviervloer",
+      "CNzh": "河流地板",
+      "TWzh": "河流地板",
+      "JPja": "かわのながれるゆか",
+      "KRko": "흐르는 강 바닥",
+      "EUru": "пол с рекой"
+    }
+  },
+  {
+    "id": "RoomFloor_05274",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lava flooring",
+      "EUen": "lava flooring",
+      "EUde": "Vulkanboden",
+      "EUes": "suelo volcánico",
+      "USes": "suelo volcánico",
+      "EUfr": "sol lave",
+      "USfr": "sol lave",
+      "EUit": "pavimento lava",
+      "EUnl": "lavavloer",
+      "CNzh": "熔岩地板",
+      "TWzh": "熔岩地板",
+      "JPja": "ようがんのゆか",
+      "KRko": "용암 바닥",
+      "EUru": "вулканический пол"
+    }
+  },
+  {
+    "id": "RoomFloor_05515",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jungle flooring",
+      "EUen": "jungle flooring",
+      "EUde": "Dschungelboden",
+      "EUes": "suelo jungla",
+      "USes": "suelo jungla",
+      "EUfr": "sol jungle",
+      "USfr": "sol jungle",
+      "EUit": "pavimento giungla",
+      "EUnl": "junglevloer",
+      "CNzh": "丛林地板",
+      "TWzh": "叢林地板",
+      "JPja": "ジャングルのゆか",
+      "KRko": "정글 바닥",
+      "EUru": "пол «Джунгли»"
+    }
+  },
+  {
+    "id": "RoomFloor_05516",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ice flooring",
+      "EUen": "ice flooring",
+      "EUde": "Eisboden",
+      "EUes": "suelo hielo",
+      "USes": "suelo hielo",
+      "EUfr": "sol glace",
+      "USfr": "sol glace",
+      "EUit": "pavimento ghiaccio",
+      "EUnl": "ijsvloer",
+      "CNzh": "冰雪地板",
+      "TWzh": "冰雪地板",
+      "JPja": "アイスなゆか",
+      "KRko": "아이스 바닥",
+      "EUru": "заледеневший пол"
+    }
+  },
+  {
+    "id": "RoomFloor_06005",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. flooring",
+      "EUen": "Nook Inc. flooring",
+      "EUde": "Nook-Inc.-Boden",
+      "EUes": "suelo de Nook Inc.",
+      "USes": "suelo de Nook Inc.",
+      "EUfr": "sol Nook Inc.",
+      "USfr": "sol Nook Inc.",
+      "EUit": "pavimento Nook Inc.",
+      "EUnl": "Nook Inc.-vloer",
+      "CNzh": "Nook Inc.地板",
+      "TWzh": "Nook Inc.地板",
+      "JPja": "たぬきかいはつのフローリング",
+      "KRko": "Nook Inc. 마룻바닥",
+      "EUru": "пол Nook Inc."
+    }
+  },
+  {
+    "id": "RoomFloor_06843",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white iron-parquet flooring",
+      "EUen": "white iron-parquet flooring",
+      "EUde": "Weiß-Eisenboden",
+      "EUes": "parqué filigrana blanca",
+      "USes": "parquet filigrana blanca",
+      "EUfr": "parquet bois et fer blanc",
+      "USfr": "parquet fer et bois blanc",
+      "EUit": "parquet in ferro bianco",
+      "EUnl": "wit",
+      "CNzh": "白色铸铁拼花地板",
+      "TWzh": "白色鑄鐵拼花地板",
+      "JPja": "しろいアイアンパーケットのゆか",
+      "KRko": "하얀 패턴 바닥",
+      "EUru": "белый стальной пол"
+    }
+  },
+  {
+    "id": "RoomFloor_06844",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cool vinyl flooring",
+      "EUen": "cool vinyl flooring",
+      "EUde": "Cool-Imbissboden",
+      "EUes": "losa comedor azul",
+      "USes": "suelo de vinilo gris",
+      "EUfr": "sol dalles PVC cool",
+      "USfr": "sol dalles PVC cool",
+      "EUit": "pavimento vinile spavaldo",
+      "EUnl": "blauwe vinylvloer",
+      "CNzh": "酷感塑胶砖地板",
+      "TWzh": "酷感塑膠磚地板",
+      "JPja": "クールなピータイル",
+      "KRko": "쿨 데코타일 바닥",
+      "EUru": "классный линолеум"
+    }
+  },
+  {
+    "id": "RoomFloor_06845",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange camo flooring",
+      "EUen": "orange camo flooring",
+      "EUde": "Orange-Tarnboden",
+      "EUes": "suelo camuflaje naranja",
+      "USes": "suelo camuflaje naranja",
+      "EUfr": "sol camouflage orange",
+      "USfr": "sol camouflage orange",
+      "EUit": "pavimento mimetico arancio",
+      "EUnl": "oranje camouflagevloer",
+      "CNzh": "橘色迷彩地板",
+      "TWzh": "橘色迷彩地板",
+      "JPja": "オレンジめいさいのゆか",
+      "KRko": "오렌지 밀리터리 바닥",
+      "EUru": "оранж. пол «Камуфляж»"
+    }
+  },
+  {
+    "id": "RoomFloor_06846",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue mosaic-tile flooring",
+      "EUen": "blue mosaic-tile flooring",
+      "EUde": "Blau-Minifliesenboden",
+      "EUes": "suelo alicatado azul marino",
+      "USes": "suelo alicatado azul marino",
+      "EUfr": "sol mosaïque bleue",
+      "USfr": "sol mosaïque bleue",
+      "EUit": "pavimento mosaico blu",
+      "EUnl": "blauwe mozaïektegelvloer",
+      "CNzh": "蓝色马赛克砖地板",
+      "TWzh": "藍色馬賽克磚地板",
+      "JPja": "ブルーモザイクタイルのゆか",
+      "KRko": "블루 모자이크 타일 바닥",
+      "EUru": "синий мозаичный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_06847",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green floral flooring",
+      "EUen": "green floral flooring",
+      "EUde": "Grün-Blütenmusterboden",
+      "EUes": "suelo floral verde",
+      "USes": "suelo floral verde",
+      "EUfr": "sol floral strié vert",
+      "USfr": "sol floral strié vert",
+      "EUit": "pavimento floreale verde",
+      "EUnl": "groene bloemetjesvloer",
+      "CNzh": "绿色花朵地板",
+      "TWzh": "綠色花朵地板",
+      "JPja": "グリーンのフラワーフローリング",
+      "KRko": "초록 꽃무늬 마룻바닥",
+      "EUru": "пол с цветами на зеленом"
+    }
+  },
+  {
+    "id": "RoomFloor_06848",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tiger-print flooring",
+      "EUen": "tiger-print flooring",
+      "EUde": "Tigermusterboden",
+      "EUes": "suelo tigre",
+      "USes": "suelo tigre",
+      "EUfr": "sol tigre",
+      "USfr": "sol tigre",
+      "EUit": "moquette tigrata",
+      "EUnl": "tijgerstreepvloer",
+      "CNzh": "老虎纹地毯",
+      "TWzh": "虎紋地毯",
+      "JPja": "タイガーなじゅうたん",
+      "KRko": "호랑이 카펫 바닥",
+      "EUru": "пол с тигровым узором"
+    }
+  },
+  {
+    "id": "RoomFloor_06849",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown-brick flooring",
+      "EUen": "brown-brick flooring",
+      "EUde": "Braunziegelboden",
+      "EUes": "suelo ladrillo marrón",
+      "USes": "suelo ladrillo marrón",
+      "EUfr": "sol briques brunes",
+      "USfr": "sol briques brunes",
+      "EUit": "pavimento mattoni marroni",
+      "EUnl": "bruine bakstenen vloer",
+      "CNzh": "茶色砖块地板",
+      "TWzh": "茶色磚塊地板",
+      "JPja": "ちゃいろいレンガのゆか",
+      "KRko": "갈색 벽돌 바닥",
+      "EUru": "пол из бурого кирпича"
+    }
+  },
+  {
+    "id": "RoomFloor_06927",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple desert-tile flooring",
+      "EUen": "purple desert-tile flooring",
+      "EUde": "Lila-Wüstenfliesenboden",
+      "EUes": "losa desierto lila",
+      "USes": "losa desierto morada",
+      "EUfr": "sol treillis marocain violet",
+      "USfr": "sol treillis désert mauve",
+      "EUit": "pav. motivo arabo viola",
+      "EUnl": "paarse oosterse tegelvloer",
+      "CNzh": "紫色摩洛哥砖地板",
+      "TWzh": "紫色摩洛哥磚地板",
+      "JPja": "むらさきのモロッカンタイルゆか",
+      "KRko": "퍼플 모로칸 타일 바닥",
+      "EUru": "фиолет. пол «Восток»"
+    }
+  },
+  {
+    "id": "RoomFloor_06928",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "olive desert-tile flooring",
+      "EUen": "olive desert-tile flooring",
+      "EUde": "Oliv-Wüstenfliesenboden",
+      "EUes": "losa desierto caqui",
+      "USes": "suelo losa desierto verde",
+      "EUfr": "sol treillis marocain kaki",
+      "USfr": "sol treillis désert vert",
+      "EUit": "pav. motivo arabo kaki",
+      "EUnl": "groene oosterse tegelvloer",
+      "CNzh": "黄绿色摩洛哥砖地板",
+      "TWzh": "黃綠色摩洛哥磚地板",
+      "JPja": "きみどりモロッカンタイルゆか",
+      "KRko": "옐로그린 모로칸 타일 바닥",
+      "EUru": "оливковый пол «Восток»"
+    }
+  },
+  {
+    "id": "RoomFloor_07184",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sepia puzzle flooring",
+      "EUen": "sepia puzzle flooring",
+      "EUde": "Sepia-Puzzleboden",
+      "EUes": "suelo rompecabezas sepia",
+      "USes": "suelo rompecabezas sepia",
+      "EUfr": "sol puzzle rétro",
+      "USfr": "sol casse-tête rétro",
+      "EUit": "pavimento puzzle seppia",
+      "EUnl": "sepia puzzelvloer",
+      "CNzh": "棕黑色巧拼地板",
+      "TWzh": "深褐色巧拼地板",
+      "JPja": "セピアパズルのゆか",
+      "KRko": "세피아 퍼즐 바닥",
+      "EUru": "пол-пазл в сепии"
+    }
+  },
+  {
+    "id": "RoomFloor_07185",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple puzzle flooring",
+      "EUen": "purple puzzle flooring",
+      "EUde": "Lila-Puzzleboden",
+      "EUes": "suelo rompecabezas malva",
+      "USes": "suelo rompecabezas uva",
+      "EUfr": "sol puzzle bleuté",
+      "USfr": "sol casse-tête bleuté",
+      "EUit": "pavimento puzzle viola",
+      "EUnl": "paarse puzzelvloer",
+      "CNzh": "紫色巧拼地板",
+      "TWzh": "紫色巧拼地板",
+      "JPja": "パープルパズルのゆか",
+      "KRko": "퍼플 퍼즐 바닥",
+      "EUru": "фиолетовый пол-пазл"
+    }
+  },
+  {
+    "id": "RoomFloor_07186",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "forest flooring",
+      "EUen": "forest flooring",
+      "EUde": "Waldboden",
+      "EUes": "suelo bosque",
+      "USes": "suelo bosque",
+      "EUfr": "sol forêt",
+      "USfr": "sol forêt",
+      "EUit": "pavimento bosco",
+      "EUnl": "bosvloer",
+      "CNzh": "蘑菇森林地板",
+      "TWzh": "蘑菇森林地板",
+      "JPja": "キノコのもりのゆか",
+      "KRko": "버섯숲 바닥",
+      "EUru": "лесной пол"
+    }
+  },
+  {
+    "id": "RoomFloor_07204",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry-blossom flooring",
+      "EUen": "cherry-blossom flooring",
+      "EUde": "Kirschblütenboden",
+      "EUes": "suelo cerezos en flor",
+      "USes": "suelo cerezos en flor",
+      "EUfr": "sol fleurs de cerisier",
+      "USfr": "sol fleurs de cerisier",
+      "EUit": "moquette fiori di ciliegio",
+      "EUnl": "kersenbloesemvloer",
+      "CNzh": "樱花地毯",
+      "TWzh": "櫻花地毯",
+      "JPja": "さくらのじゅうたん",
+      "KRko": "벚꽃 카펫 바닥",
+      "EUru": "пол с лепестками сакуры"
+    }
+  },
+  {
+    "id": "RoomFloor_07219",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute white-tile flooring",
+      "EUen": "cute white-tile flooring",
+      "EUde": "Weiß-Hübschfliesenboden",
+      "EUes": "losa cuqui blanca",
+      "USes": "suelo losa blanca adorable",
+      "EUfr": "sol sobre blanc",
+      "USfr": "sol sobre blanc",
+      "EUit": "pavimento grazioso bianco",
+      "EUnl": "sierlijke witte tegelvloer",
+      "CNzh": "白色可爱地板",
+      "TWzh": "白色可愛磁磚地板",
+      "JPja": "しろいキュートなフロアタイル",
+      "KRko": "하얀 큐트 타일 바닥",
+      "EUru": "белый пол шашечкой"
+    }
+  },
+  {
+    "id": "RoomFloor_07220",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute red-tile flooring",
+      "EUen": "cute red-tile flooring",
+      "EUde": "Rot-Hübschfliesenboden",
+      "EUes": "losa cuqui roja",
+      "USes": "suelo losa roja adorable",
+      "EUfr": "sol sobre rouge",
+      "USfr": "sol sobre rouge",
+      "EUit": "pavimento grazioso rosso",
+      "EUnl": "sierlijke rode tegelvloer",
+      "CNzh": "红色可爱地板",
+      "TWzh": "紅色可愛磁磚地板",
+      "JPja": "あかいキュートなフロアタイル",
+      "KRko": "빨간 큐트 타일 바닥",
+      "EUru": "красный пол шашечкой"
+    }
+  },
+  {
+    "id": "RoomFloor_07221",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute blue-tile flooring",
+      "EUen": "cute blue-tile flooring",
+      "EUde": "Blau-Hübschfliesenboden",
+      "EUes": "losa cuqui azul",
+      "USes": "suelo losa azul adorable",
+      "EUfr": "sol sobre bleu",
+      "USfr": "sol sobre bleu",
+      "EUit": "pavimento grazioso blu",
+      "EUnl": "sierlijke blauwe tegelvloer",
+      "CNzh": "蓝色可爱地板",
+      "TWzh": "藍色可愛磁磚地板",
+      "JPja": "ブルーのキュートなフロアタイル",
+      "KRko": "블루 큐트 타일 바닥",
+      "EUru": "синий пол шашечкой"
+    }
+  },
+  {
+    "id": "RoomFloor_07222",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute yellow-tile flooring",
+      "EUen": "cute yellow-tile flooring",
+      "EUde": "Gelb-Hübschfliesenboden",
+      "EUes": "losa cuqui amarilla",
+      "USes": "suelo losa amarilla adorable",
+      "EUfr": "sol sobre jaune",
+      "USfr": "sol sobre jaune",
+      "EUit": "pavimento grazioso giallo",
+      "EUnl": "sierlijke gele tegelvloer",
+      "CNzh": "黄色可爱地板",
+      "TWzh": "黃色可愛磁磚地板",
+      "JPja": "きいろいキュートなフロアタイル",
+      "KRko": "노란 큐트 타일 바닥",
+      "EUru": "желтый пол шашечкой"
+    }
+  },
+  {
+    "id": "RoomFloor_07239",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "starry-sands flooring",
+      "EUen": "starry-sands flooring",
+      "EUde": "Glitzersandboden",
+      "EUes": "suelo playa de arena",
+      "USes": "suelo playa de arena",
+      "EUfr": "sol plage étoilée",
+      "USfr": "sol plage étoilée",
+      "EUit": "pavimento sabbia deserto",
+      "EUnl": "glitterzandvloer",
+      "CNzh": "星星沙滩地板",
+      "TWzh": "星星沙灘地板",
+      "JPja": "ほしのすなはまのゆか",
+      "KRko": "별빛 모래사장 바닥",
+      "EUru": "блестящий пол из песка"
+    }
+  },
+  {
+    "id": "RoomFloor_12423",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day flooring",
+      "EUen": "Bunny Day flooring",
+      "EUde": "Häschentag-Boden",
+      "EUes": "suelo Caza del Huevo",
+      "USes": "suelo Caza del Huevo",
+      "EUfr": "sol fête des œufs",
+      "USfr": "sol fête des œufs",
+      "EUit": "pavimento caccia all'uovo",
+      "EUnl": "eiervloer",
+      "CNzh": "复活节地板",
+      "TWzh": "復活節地板",
+      "JPja": "イースターなゆか",
+      "KRko": "이스터 바닥",
+      "EUru": "пол «День зайцев»"
+    }
+  },
+  {
+    "id": "RoomFloor_12431",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "white wedding flooring",
+      "EUen": "white wedding flooring",
+      "EUde": "Weiß-Hochzeitsboden",
+      "EUes": "suelo de boda blanco",
+      "USes": "suelo de boda blanco",
+      "EUfr": "sol mariage blanc",
+      "USfr": "sol mariage blanc",
+      "EUit": "pavimento nuziale bianco",
+      "EUnl": "witte trouwvloer",
+      "CNzh": "白色婚礼地板",
+      "TWzh": "婚禮白色磚地板",
+      "JPja": "ウェディングなホワイトタイル",
+      "KRko": "하얀 웨딩 바닥",
+      "EUru": "белый свадебный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_12433",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "brown wedding flooring",
+      "EUen": "brown wedding flooring",
+      "EUde": "Braun-Hochzeitsboden",
+      "EUes": "suelo de boda marrón",
+      "USes": "suelo de boda marrón",
+      "EUfr": "sol mariage brun",
+      "USfr": "sol mariage brun",
+      "EUit": "pavimento nuziale marrone",
+      "EUnl": "bruine trouwvloer",
+      "CNzh": "茶色婚礼地板",
+      "TWzh": "婚禮棕色磚地板",
+      "JPja": "ウェディングなブラウンタイル",
+      "KRko": "갈색 웨딩 바닥",
+      "EUru": "коричн. свадебный пол"
+    }
+  },
+  {
+    "id": "RoomFloor_12434",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "green wedding flooring",
+      "EUen": "green wedding flooring",
+      "EUde": "Grün-Hochzeitsboden",
+      "EUes": "suelo de boda verde",
+      "USes": "suelo de boda verde",
+      "EUfr": "sol mariage vert",
+      "USfr": "sol mariage vert",
+      "EUit": "pavimento nuziale verde",
+      "EUnl": "groene trouwvloer",
+      "CNzh": "绿色婚礼地板",
+      "TWzh": "婚禮綠色磚地板",
+      "JPja": "ウェディングなグリーンタイル",
+      "KRko": "초록 웨딩 바닥",
+      "EUru": "зеленый свадебный пол"
+    }
+  }
+]

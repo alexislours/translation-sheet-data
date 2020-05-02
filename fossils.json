@@ -1,0 +1,1482 @@
+[
+  {
+    "id": "Fossil_00169",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ankylo skull",
+      "EUen": "ankylo skull",
+      "EUde": "Ankylosaurus-Schädel",
+      "EUes": "cráneo anquilosaurio",
+      "USes": "cráneo anquilosaurio",
+      "EUfr": "crâne d'ankylosaure",
+      "USfr": "crâne d'ankylosaure",
+      "EUit": "cranio anchilosauro",
+      "EUnl": "ankylosauruskop",
+      "CNzh": "甲龙的头",
+      "TWzh": "甲龍的頭",
+      "JPja": "アンキロサウルスのあたま",
+      "KRko": "안킬로사우루스의 머리",
+      "EUru": "череп анкилозавра"
+    }
+  },
+  {
+    "id": "Fossil_00170",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ankylo torso",
+      "EUen": "ankylo torso",
+      "EUde": "Ankylosaurus-Torso",
+      "EUes": "cuerpo anquilosaurio",
+      "USes": "cuerpo anquilosaurio",
+      "EUfr": "torse d'ankylosaure",
+      "USfr": "torse d'ankylosaure",
+      "EUit": "torso anchilosauro",
+      "EUnl": "ankylosaurusromp",
+      "CNzh": "甲龙的身体",
+      "TWzh": "甲龍的身體",
+      "JPja": "アンキロサウルスのからだ",
+      "KRko": "안킬로사우루스의 몸통",
+      "EUru": "торс анкилозавра"
+    }
+  },
+  {
+    "id": "Fossil_00171",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ankylo tail",
+      "EUen": "ankylo tail",
+      "EUde": "Ankylosaurus-Schwanz",
+      "EUes": "cola anquilosaurio",
+      "USes": "cola anquilosaurio",
+      "EUfr": "queue d'ankylosaure",
+      "USfr": "queue d'ankylosaure",
+      "EUit": "coda anchilosauro",
+      "EUnl": "ankylosaurusstaart",
+      "CNzh": "甲龙的尾巴",
+      "TWzh": "甲龍的尾巴",
+      "JPja": "アンキロサウルスのしっぽ",
+      "KRko": "안킬로사우루스의 꼬리",
+      "EUru": "хвост анкилозавра"
+    }
+  },
+  {
+    "id": "Fossil_00177",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "archelon skull",
+      "EUen": "archelon skull",
+      "EUde": "Archelon-Vorderteil",
+      "EUes": "cuerpo archelon",
+      "USes": "cuerpo archelon",
+      "EUfr": "crâne d'archélon",
+      "USfr": "crâne d'archélon",
+      "EUit": "cranio archelone",
+      "EUnl": "archelonkop",
+      "CNzh": "帝龟的头",
+      "TWzh": "帝龜的頭",
+      "JPja": "アーケロンのあたま",
+      "KRko": "아르켈론의 머리",
+      "EUru": "череп архелона"
+    }
+  },
+  {
+    "id": "Fossil_00178",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "archelon tail",
+      "EUen": "archelon tail",
+      "EUde": "Archelon-Hinterteil",
+      "EUes": "cola archelon",
+      "USes": "cola archelon",
+      "EUfr": "queue d'archélon",
+      "USfr": "queue d'archélon",
+      "EUit": "coda archelone",
+      "EUnl": "archelonstaart",
+      "CNzh": "帝龟的身体",
+      "TWzh": "帝龜的身體",
+      "JPja": "アーケロンのからだ",
+      "KRko": "아르켈론의 몸통",
+      "EUru": "хвост архелона"
+    }
+  },
+  {
+    "id": "Fossil_00180",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "megacero skull",
+      "EUen": "megacero skull",
+      "EUde": "Megacerops-Schädel",
+      "EUes": "cráneo brontoterio",
+      "USes": "cráneo brontoterio",
+      "EUfr": "crâne de brontothérium",
+      "USfr": "crâne de brontothérium",
+      "EUit": "cranio brontoterio",
+      "EUnl": "brontopskop",
+      "CNzh": "巨角犀的头",
+      "TWzh": "巨角犀的頭",
+      "JPja": "メガセロプスのあたま",
+      "KRko": "메가케롭스의 머리",
+      "EUru": "череп бронтотерия"
+    }
+  },
+  {
+    "id": "Fossil_00181",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "megacero torso",
+      "EUen": "megacero torso",
+      "EUde": "Megacerops-Torso",
+      "EUes": "cuerpo brontoterio",
+      "USes": "cuerpo brontoterio",
+      "EUfr": "corps de brontothérium",
+      "USfr": "corps de brontothérium",
+      "EUit": "torso brontoterio",
+      "EUnl": "brontopsromp",
+      "CNzh": "巨角犀的身体",
+      "TWzh": "巨角犀的身體",
+      "JPja": "メガセロプスのからだ",
+      "KRko": "메가케롭스의 몸통",
+      "EUru": "торс бронтотерия"
+    }
+  },
+  {
+    "id": "Fossil_00182",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "megacero tail",
+      "EUen": "megacero tail",
+      "EUde": "Megacerops-Schwanz",
+      "EUes": "cola brontoterio",
+      "USes": "cola brontoterio",
+      "EUfr": "queue de brontothérium",
+      "USfr": "queue de brontothérium",
+      "EUit": "coda brontoterio",
+      "EUnl": "brontopsstaart",
+      "CNzh": "巨角犀的尾巴",
+      "TWzh": "巨角犀的尾巴",
+      "JPja": "メガセロプスのしっぽ",
+      "KRko": "메가케롭스의 꼬리",
+      "EUru": "хвост бронтотерия"
+    }
+  },
+  {
+    "id": "Fossil_00184",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dimetrodon skull",
+      "EUen": "dimetrodon skull",
+      "EUde": "Dimetrodon-Schädel",
+      "EUes": "cráneo dimetrodonte",
+      "USes": "cráneo dimetrodonte",
+      "EUfr": "crâne de dimétrodon",
+      "USfr": "crâne de dimétrodon",
+      "EUit": "cranio dimetrodonte",
+      "EUnl": "dimetrodonkop",
+      "CNzh": "异齿龙的头",
+      "TWzh": "異齒龍的頭",
+      "JPja": "ディメトロドンのあたま",
+      "KRko": "디메트로돈의 머리",
+      "EUru": "череп диметродона"
+    }
+  },
+  {
+    "id": "Fossil_00185",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dimetrodon torso",
+      "EUen": "dimetrodon torso",
+      "EUde": "Dimetrodon-Torso",
+      "EUes": "cuerpo dimetrodonte",
+      "USes": "cuerpo dimetrodonte",
+      "EUfr": "corps de dimétrodon",
+      "USfr": "corps de dimétrodon",
+      "EUit": "torso dimetrodonte",
+      "EUnl": "dimetrodonromp",
+      "CNzh": "异齿龙的身体",
+      "TWzh": "異齒龍的身體",
+      "JPja": "ディメトロドンのからだ",
+      "KRko": "디메트로돈의 몸통",
+      "EUru": "торс диметродона"
+    }
+  },
+  {
+    "id": "Fossil_00188",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iguanodon skull",
+      "EUen": "iguanodon skull",
+      "EUde": "Iguanodon-Schädel",
+      "EUes": "cráneo iguanodonte",
+      "USes": "cráneo iguanodonte",
+      "EUfr": "crâne d'iguanodon",
+      "USfr": "crâne d'iguanodon",
+      "EUit": "cranio iguanodonte",
+      "EUnl": "iguanodonkop",
+      "CNzh": "禽龙的头",
+      "TWzh": "禽龍的頭",
+      "JPja": "イグアノドンのあたま",
+      "KRko": "이구아노돈의 머리",
+      "EUru": "череп игуанодона"
+    }
+  },
+  {
+    "id": "Fossil_00189",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iguanodon torso",
+      "EUen": "iguanodon torso",
+      "EUde": "Iguanodon-Torso",
+      "EUes": "cuerpo iguanodonte",
+      "USes": "cuerpo iguanodonte",
+      "EUfr": "torse d'iguanodon",
+      "USfr": "torse d'iguanodon",
+      "EUit": "torso iguanodonte",
+      "EUnl": "iguanodonromp",
+      "CNzh": "禽龙的身体",
+      "TWzh": "禽龍的身體",
+      "JPja": "イグアノドンのからだ",
+      "KRko": "이구아노돈의 몸통",
+      "EUru": "торс игуанодона"
+    }
+  },
+  {
+    "id": "Fossil_00190",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iguanodon tail",
+      "EUen": "iguanodon tail",
+      "EUde": "Iguanodon-Schwanz",
+      "EUes": "cola iguanodonte",
+      "USes": "cola iguanodonte",
+      "EUfr": "queue d'iguanodon",
+      "USfr": "queue d'iguanodon",
+      "EUit": "coda iguanodonte",
+      "EUnl": "iguanodonstaart",
+      "CNzh": "禽龙的尾巴",
+      "TWzh": "禽龍的尾巴",
+      "JPja": "イグアノドンのしっぽ",
+      "KRko": "이구아노돈의 꼬리",
+      "EUru": "хвост игуанодона"
+    }
+  },
+  {
+    "id": "Fossil_00192",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ophthalmo skull",
+      "EUen": "ophthalmo skull",
+      "EUde": "Ophthalmosaurus-Schädel",
+      "EUes": "cráneo oftalmosaurio",
+      "USes": "cráneo oftalmosaurio",
+      "EUfr": "crâne d'ophtalmosaure",
+      "USfr": "crâne d'ophtalmosaure",
+      "EUit": "cranio oftalmosauro",
+      "EUnl": "ophthalmosauruskop",
+      "CNzh": "大眼鱼龙的头",
+      "TWzh": "大眼魚龍的頭",
+      "JPja": "オフタルモサウルスのあたま",
+      "KRko": "오프탈모사우루스의 머리",
+      "EUru": "череп офтальмозавра"
+    }
+  },
+  {
+    "id": "Fossil_00193",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ophthalmo torso",
+      "EUen": "ophthalmo torso",
+      "EUde": "Ophthalmosaurus-Torso",
+      "EUes": "cuerpo oftalmosaurio",
+      "USes": "cuerpo oftalmosaurio",
+      "EUfr": "corps d'ophtalmosaure",
+      "USfr": "corps d'ophtalmosaure",
+      "EUit": "torso oftalmosauro",
+      "EUnl": "ophthalmosaurusstaart",
+      "CNzh": "大眼鱼龙的身体",
+      "TWzh": "大眼魚龍的身體",
+      "JPja": "オフタルモサウルスのからだ",
+      "KRko": "오프탈모사우루스의 몸통",
+      "EUru": "торс офтальмозавра"
+    }
+  },
+  {
+    "id": "Fossil_00195",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mammoth skull",
+      "EUen": "mammoth skull",
+      "EUde": "Mammut-Schädel",
+      "EUes": "cráneo mamut",
+      "USes": "cráneo mamut",
+      "EUfr": "crâne de mammouth",
+      "USfr": "crâne de mammouth",
+      "EUit": "cranio mammut",
+      "EUnl": "mammoetkop",
+      "CNzh": "长毛象的头",
+      "TWzh": "長毛象的頭",
+      "JPja": "マンモスのあたま",
+      "KRko": "매머드의 머리",
+      "EUru": "череп мамонта"
+    }
+  },
+  {
+    "id": "Fossil_00196",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mammoth torso",
+      "EUen": "mammoth torso",
+      "EUde": "Mammut-Torso",
+      "EUes": "cuerpo mamut",
+      "USes": "cuerpo mamut",
+      "EUfr": "corps de mammouth",
+      "USfr": "corps de mammouth",
+      "EUit": "torso mammut",
+      "EUnl": "mammoetromp",
+      "CNzh": "长毛象的身体",
+      "TWzh": "長毛象的身體",
+      "JPja": "マンモスのからだ",
+      "KRko": "매머드의 몸통",
+      "EUru": "торс мамонта"
+    }
+  },
+  {
+    "id": "Fossil_00198",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pachy skull",
+      "EUen": "pachysaurus skull",
+      "EUde": "Pachysaurus-Vorderteil",
+      "EUes": "cuerpo paquicefalosaurio",
+      "USes": "cuerpo paquicefalosaurio",
+      "EUfr": "crâne de pachycéphal",
+      "USfr": "crâne de pachycéphal",
+      "EUit": "cranio pachicefalosauro",
+      "EUnl": "pachycephalosauruskop",
+      "CNzh": "厚头龙的头",
+      "TWzh": "厚頭龍的頭",
+      "JPja": "パキケファロのあたま",
+      "KRko": "파키케팔로사우루스의 머리",
+      "EUru": "череп пахицефалозавра"
+    }
+  },
+  {
+    "id": "Fossil_00199",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pachy tail",
+      "EUen": "pachysaurus tail",
+      "EUde": "Pachysaurus-Hinterteil",
+      "EUes": "cola paquicefalosaurio",
+      "USes": "cola paquicefalosaurio",
+      "EUfr": "queue de pachycéphal",
+      "USfr": "queue de pachycéphal",
+      "EUit": "coda pachicefalosauro",
+      "EUnl": "pachycephalosaurusstaart",
+      "CNzh": "厚头龙的身体",
+      "TWzh": "厚頭龍的身體",
+      "JPja": "パキケファロのからだ",
+      "KRko": "파키케팔로사우루스의 몸통",
+      "EUru": "хвост пахицефалозавра"
+    }
+  },
+  {
+    "id": "Fossil_00202",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parasaur skull",
+      "EUen": "parasaur skull",
+      "EUde": "Parasaurus-Schädel",
+      "EUes": "cráneo parasaurio",
+      "USes": "cráneo parasaurio",
+      "EUfr": "crâne de parasaurolophus",
+      "USfr": "crâne de parasaurolophus",
+      "EUit": "cranio parasauro",
+      "EUnl": "parasaurolophuskop",
+      "CNzh": "副栉龙的头",
+      "TWzh": "副櫛龍的頭",
+      "JPja": "パラサウロロフスのあたま",
+      "KRko": "파라사우롤로푸스의 머리",
+      "EUru": "череп паразауролофа"
+    }
+  },
+  {
+    "id": "Fossil_00203",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parasaur torso",
+      "EUen": "parasaur torso",
+      "EUde": "Parasaurus-Torso",
+      "EUes": "cuerpo parasaurio",
+      "USes": "cuerpo parasaurio",
+      "EUfr": "torse de parasaurolophus",
+      "USfr": "torse de parasaurolophus",
+      "EUit": "torso parasauro",
+      "EUnl": "parasaurolophusromp",
+      "CNzh": "副栉龙的身体",
+      "TWzh": "副櫛龍的身體",
+      "JPja": "パラサウロロフスのからだ",
+      "KRko": "파라사우롤로푸스의 몸통",
+      "EUru": "торс паразауролофа"
+    }
+  },
+  {
+    "id": "Fossil_00204",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parasaur tail",
+      "EUen": "parasaur tail",
+      "EUde": "Parasaurus-Schwanz",
+      "EUes": "cola parasaurio",
+      "USes": "cola parasaurio",
+      "EUfr": "queue de parasaurolophus",
+      "USfr": "queue de parasaurolophus",
+      "EUit": "coda parasauro",
+      "EUnl": "parasaurolophusstaart",
+      "CNzh": "副栉龙的尾巴",
+      "TWzh": "副櫛龍的尾巴",
+      "JPja": "パラサウロロフスのしっぽ",
+      "KRko": "파라사우롤로푸스의 꼬리",
+      "EUru": "хвост паразауролофа"
+    }
+  },
+  {
+    "id": "Fossil_00206",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ptera body",
+      "EUen": "ptera body",
+      "EUde": "Pteranodon-Torso",
+      "EUes": "cuerpo pteranodonte",
+      "USes": "cuerpo pteranodonte",
+      "EUfr": "corps de ptéranodon",
+      "USfr": "corps de ptéranodon",
+      "EUit": "torso pteranodonte",
+      "EUnl": "pteranodonkop",
+      "CNzh": "无齿翼龙的头",
+      "TWzh": "無齒翼龍的頭",
+      "JPja": "プテラノドンのあたま",
+      "KRko": "프테라노돈의 머리",
+      "EUru": "торс птеранодона"
+    }
+  },
+  {
+    "id": "Fossil_00207",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "right ptera wing",
+      "EUen": "right ptera wing",
+      "EUde": "Pteranodon-Flügel",
+      "EUes": "ala derecha pteranodonte",
+      "USes": "ala derecha pteranodonte",
+      "EUfr": "aile droite de ptéranodon",
+      "USfr": "aile droite de ptéranodon",
+      "EUit": "ala destra pteranodonte",
+      "EUnl": "pteranodonvleugel (r)",
+      "CNzh": "无齿翼龙的右翼",
+      "TWzh": "無齒翼龍的右翼",
+      "JPja": "プテラノドンのうよく",
+      "KRko": "프테라노돈의 오른날개",
+      "EUru": "п. крыло птеранодона"
+    }
+  },
+  {
+    "id": "Fossil_00208",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "left ptera wing",
+      "EUen": "left ptera wing",
+      "EUde": "Pteranodon-Flügel",
+      "EUes": "ala izquierda pteranodonte",
+      "USes": "ala izquierda pteranodonte",
+      "EUfr": "aile gauche de ptéranodon",
+      "USfr": "aile gauche de ptéranodon",
+      "EUit": "ala sinistra pteranodonte",
+      "EUnl": "pteranodonvleugel (l)",
+      "CNzh": "无齿翼龙的左翼",
+      "TWzh": "無齒翼龍的左翼",
+      "JPja": "プテラノドンのさよく",
+      "KRko": "프테라노돈의 왼날개",
+      "EUru": "л. крыло птеранодона"
+    }
+  },
+  {
+    "id": "Fossil_00210",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "deinony torso",
+      "EUen": "deinony torso",
+      "EUde": "Deinonychus-Torso",
+      "EUes": "cuerpo deinonico",
+      "USes": "cuerpo deinonico",
+      "EUfr": "torse de déinonychus",
+      "USfr": "torse de déinonychus",
+      "EUit": "torso deinonico",
+      "EUnl": "deinonychuskop",
+      "CNzh": "恐爪龙的头",
+      "TWzh": "恐爪龍的頭",
+      "JPja": "ディノニクスのあたま",
+      "KRko": "데이노니쿠스의 머리",
+      "EUru": "торс дейнониха"
+    }
+  },
+  {
+    "id": "Fossil_00211",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "deinony tail",
+      "EUen": "deinony tail",
+      "EUde": "Deinonychus-Schwanz",
+      "EUes": "cola deinonico",
+      "USes": "cola deinonico",
+      "EUfr": "queue de déinonychus",
+      "USfr": "queue de deinonychus",
+      "EUit": "coda deinonico",
+      "EUnl": "deinonychusstaart",
+      "CNzh": "恐爪龙的尾巴",
+      "TWzh": "恐爪龍的尾巴",
+      "JPja": "ディノニクスのしっぽ",
+      "KRko": "데이노니쿠스의 꼬리",
+      "EUru": "хвост дейнониха"
+    }
+  },
+  {
+    "id": "Fossil_00213",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sabertooth skull",
+      "EUen": "sabertooth skull",
+      "EUde": "Säbelzahn-Vorderteil",
+      "EUes": "cuerpo tigre dientes sable",
+      "USes": "cuerpo tigre dientes sable",
+      "EUfr": "crâne de smilodon",
+      "USfr": "crâne de smilodon",
+      "EUit": "cranio smilodonte",
+      "EUnl": "sabeltandtijgerkop",
+      "CNzh": "剑齿虎的头",
+      "TWzh": "劍齒虎的頭",
+      "JPja": "スミロドンのあたま",
+      "KRko": "스밀로돈의 머리",
+      "EUru": "череп смилодона"
+    }
+  },
+  {
+    "id": "Fossil_00214",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sabertooth tail",
+      "EUen": "sabertooth tail",
+      "EUde": "Säbelzahn-Hinterteil",
+      "EUes": "cola tigre dientes sable",
+      "USes": "cola tigre dientes sable",
+      "EUfr": "queue de smilodon",
+      "USfr": "queue de smilodon",
+      "EUit": "coda smilodonte",
+      "EUnl": "sabeltandtijgerstaart",
+      "CNzh": "剑齿虎的身体",
+      "TWzh": "劍齒虎的身體",
+      "JPja": "スミロドンのからだ",
+      "KRko": "스밀로돈의 몸통",
+      "EUru": "хвост смилодона"
+    }
+  },
+  {
+    "id": "Fossil_00216",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diplo skull",
+      "EUen": "diplo skull",
+      "EUde": "Diplodocus-Schädel",
+      "EUes": "cráneo diplodocus",
+      "USes": "cráneo diplodocus",
+      "EUfr": "crâne de diplodocus",
+      "USfr": "crâne de diplodocus",
+      "EUit": "cranio diplodoco",
+      "EUnl": "diplodocuskop",
+      "CNzh": "梁龙的头",
+      "TWzh": "梁龍的頭",
+      "JPja": "ディプロドクスのあたま",
+      "KRko": "디플로도쿠스의 머리",
+      "EUru": "череп диплодока"
+    }
+  },
+  {
+    "id": "Fossil_00217",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diplo neck",
+      "EUen": "diplo neck",
+      "EUde": "Diplodocus-Hals",
+      "EUes": "cuello diplodocus",
+      "USes": "cuello diplodocus",
+      "EUfr": "cou de diplodocus",
+      "USfr": "cou de diplodocus",
+      "EUit": "collo diplodoco",
+      "EUnl": "diplodocusnek",
+      "CNzh": "梁龙的脖子",
+      "TWzh": "梁龍的脖子",
+      "JPja": "ディプロドクスのくび",
+      "KRko": "디플로도쿠스의 목",
+      "EUru": "шея диплодока"
+    }
+  },
+  {
+    "id": "Fossil_00218",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diplo chest",
+      "EUen": "diplo chest",
+      "EUde": "Diplodocus-Thorax",
+      "EUes": "tórax diplodocus",
+      "USes": "tórax diplodocus",
+      "EUfr": "torse de diplodocus",
+      "USfr": "torse de diplodocus",
+      "EUit": "torso diplodoco",
+      "EUnl": "diplodocusborstkas",
+      "CNzh": "梁龙的胸部",
+      "TWzh": "梁龍的胸部",
+      "JPja": "ディプロドクスのむね",
+      "KRko": "디플로도쿠스의 가슴",
+      "EUru": "грудь диплодока"
+    }
+  },
+  {
+    "id": "Fossil_00219",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diplo pelvis",
+      "EUen": "diplo pelvis",
+      "EUde": "Diplodocus-Becken",
+      "EUes": "pelvis diplodocus",
+      "USes": "pelvis diplodocus",
+      "EUfr": "bassin de diplodocus",
+      "USfr": "bassin de diplodocus",
+      "EUit": "bacino diplodoco",
+      "EUnl": "diplodocusbekken",
+      "CNzh": "梁龙的腰部",
+      "TWzh": "梁龍的腰部",
+      "JPja": "ディプロドクスのこし",
+      "KRko": "디플로도쿠스의 허리",
+      "EUru": "таз диплодока"
+    }
+  },
+  {
+    "id": "Fossil_00220",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diplo tail",
+      "EUen": "diplo tail",
+      "EUde": "Diplodocus-Schwanz",
+      "EUes": "cola diplodocus",
+      "USes": "cola diplodocus",
+      "EUfr": "queue de diplodocus",
+      "USfr": "queue de diplodocus",
+      "EUit": "coda diplodoco",
+      "EUnl": "diplodocusstaart",
+      "CNzh": "梁龙的尾巴",
+      "TWzh": "梁龍的尾巴",
+      "JPja": "ディプロドクスのしっぽ",
+      "KRko": "디플로도쿠스의 꼬리",
+      "EUru": "хвост диплодока"
+    }
+  },
+  {
+    "id": "Fossil_00222",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spino skull",
+      "EUen": "spino skull",
+      "EUde": "Spinosaurus-Schädel",
+      "EUes": "cráneo espinosaurio",
+      "USes": "cráneo espinosaurio",
+      "EUfr": "crâne de spinosaure",
+      "USfr": "crâne de spinosaurus",
+      "EUit": "cranio spinosauro",
+      "EUnl": "spinosauruskop",
+      "CNzh": "棘龙的头",
+      "TWzh": "棘龍的頭",
+      "JPja": "スピノサウルスのあたま",
+      "KRko": "스피노사우루스의 머리",
+      "EUru": "череп спинозавра"
+    }
+  },
+  {
+    "id": "Fossil_00223",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spino torso",
+      "EUen": "spino torso",
+      "EUde": "Spinosaurus-Torso",
+      "EUes": "cuerpo espinosaurio",
+      "USes": "cuerpo espinosaurio",
+      "EUfr": "corps de spinosaure",
+      "USfr": "corps de spinosaurus",
+      "EUit": "torso spinosauro",
+      "EUnl": "spinosaurusromp",
+      "CNzh": "棘龙的身体",
+      "TWzh": "棘龍的身體",
+      "JPja": "スピノサウルスのからだ",
+      "KRko": "스피노사우루스의 몸통",
+      "EUru": "торс спинозавра"
+    }
+  },
+  {
+    "id": "Fossil_00224",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spino tail",
+      "EUen": "spino tail",
+      "EUde": "Spinosaurus-Schwanz",
+      "EUes": "cola espinosaurio",
+      "USes": "cola espinosaurio",
+      "EUfr": "queue de spinosaure",
+      "USfr": "queue de spinosaurus",
+      "EUit": "coda spinosauro",
+      "EUnl": "spinosaurusstaart",
+      "CNzh": "棘龙的尾巴",
+      "TWzh": "棘龍的尾巴",
+      "JPja": "スピノサウルスのしっぽ",
+      "KRko": "스피노사우루스의 꼬리",
+      "EUru": "хвост спинозавра"
+    }
+  },
+  {
+    "id": "Fossil_00226",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stego skull",
+      "EUen": "stego skull",
+      "EUde": "Stegosaurus-Schädel",
+      "EUes": "cráneo estegosaurio",
+      "USes": "cráneo estegosaurio",
+      "EUfr": "crâne de stégosaure",
+      "USfr": "crâne de stégosaure",
+      "EUit": "cranio stegosauro",
+      "EUnl": "stegosauruskop",
+      "CNzh": "剑龙的头",
+      "TWzh": "劍龍的頭",
+      "JPja": "ステゴサウルスのあたま",
+      "KRko": "스테고사우루스의 머리",
+      "EUru": "череп стегозавра"
+    }
+  },
+  {
+    "id": "Fossil_00227",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stego torso",
+      "EUen": "stego torso",
+      "EUde": "Stegosaurus-Torso",
+      "EUes": "cuerpo estegosaurio",
+      "USes": "cuerpo estegosaurio",
+      "EUfr": "corps de stégosaure",
+      "USfr": "corps de stégosaure",
+      "EUit": "torso stegosauro",
+      "EUnl": "stegosaurusromp",
+      "CNzh": "剑龙的身体",
+      "TWzh": "劍龍的身體",
+      "JPja": "ステゴサウルスのからだ",
+      "KRko": "스테고사우루스의 몸통",
+      "EUru": "торс стегозавра"
+    }
+  },
+  {
+    "id": "Fossil_00228",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stego tail",
+      "EUen": "stego tail",
+      "EUde": "Stegosaurus-Schwanz",
+      "EUes": "cola estegosaurio",
+      "USes": "cola estegosaurio",
+      "EUfr": "queue de stégosaure",
+      "USfr": "queue de stégosaure",
+      "EUit": "coda stegosauro",
+      "EUnl": "stegosaurusstaart",
+      "CNzh": "剑龙的尾巴",
+      "TWzh": "劍龍的尾巴",
+      "JPja": "ステゴサウルスのしっぽ",
+      "KRko": "스테고사우루스의 꼬리",
+      "EUru": "хвост стегозавра"
+    }
+  },
+  {
+    "id": "Fossil_00234",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plesio skull",
+      "EUen": "plesio skull",
+      "EUde": "Plesiosaurus-Schädel",
+      "EUes": "cráneo plesiosaurio",
+      "USes": "cráneo plesiosaurio",
+      "EUfr": "crâne de plésiosaure",
+      "USfr": "crâne de plésiosaure",
+      "EUit": "cranio plesiosauro",
+      "EUnl": "plesiosauruskop",
+      "CNzh": "双叶铃木龙的头",
+      "TWzh": "雙葉鈴木龍的頭",
+      "JPja": "フタバサウルスのあたま",
+      "KRko": "후타바사우루스의 머리",
+      "EUru": "череп плезиозавра"
+    }
+  },
+  {
+    "id": "Fossil_00235",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plesio body",
+      "EUen": "plesio body",
+      "EUde": "Plesiosaurus-Torso",
+      "EUes": "torso plesiosaurio",
+      "USes": "torso plesiosaurio",
+      "EUfr": "corps de plésiosaure",
+      "USfr": "corps de plésiosaure",
+      "EUit": "corpo plesiosauro",
+      "EUnl": "plesiosaurusromp",
+      "CNzh": "双叶铃木龙的身体",
+      "TWzh": "雙葉鈴木龍的身體",
+      "JPja": "フタバサウルスのからだ",
+      "KRko": "후타바사우루스의 몸통",
+      "EUru": "торс плезиозавра"
+    }
+  },
+  {
+    "id": "Fossil_00236",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plesio tail",
+      "EUen": "plesio tail",
+      "EUde": "Plesiosaurus-Schwanz",
+      "EUes": "cola plesiosaurio",
+      "USes": "cola plesiosaurio",
+      "EUfr": "queue de plésiosaure",
+      "USfr": "queue de plésiosaure",
+      "EUit": "coda plesiosauro",
+      "EUnl": "plesiosaurusstaart",
+      "CNzh": "双叶铃木龙的尾巴",
+      "TWzh": "雙葉鈴木龍的尾巴",
+      "JPja": "フタバサウルスのしっぽ",
+      "KRko": "후타바사우루스의 꼬리",
+      "EUru": "хвост плезиозавра"
+    }
+  },
+  {
+    "id": "Fossil_00238",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "T. rex skull",
+      "EUen": "T. rex skull",
+      "EUde": "T-Rex-Schädel",
+      "EUes": "cráneo tiranosaurio",
+      "USes": "cráneo tiranosaurio",
+      "EUfr": "crâne de tyrannosaure",
+      "USfr": "crâne de tyrannosaure",
+      "EUit": "cranio tirannosauro",
+      "EUnl": "tyrannosauruskop",
+      "CNzh": "暴龙的头",
+      "TWzh": "暴龍的頭",
+      "JPja": "Tレックスのあたま",
+      "KRko": "티렉스의 머리",
+      "EUru": "череп тираннозавра"
+    }
+  },
+  {
+    "id": "Fossil_00239",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "T. rex torso",
+      "EUen": "T. rex torso",
+      "EUde": "T-Rex-Torso",
+      "EUes": "cuerpo tiranosaurio",
+      "USes": "cuerpo tiranosaurio",
+      "EUfr": "corps de tyrannosaure",
+      "USfr": "corps de tyrannosaure",
+      "EUit": "torso tirannosauro",
+      "EUnl": "tyrannosaurusromp",
+      "CNzh": "暴龙的身体",
+      "TWzh": "暴龍的身體",
+      "JPja": "Tレックスのからだ",
+      "KRko": "티렉스의 몸통",
+      "EUru": "торс тираннозавра"
+    }
+  },
+  {
+    "id": "Fossil_00240",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "T. rex tail",
+      "EUen": "T. rex tail",
+      "EUde": "T-Rex-Schwanz",
+      "EUes": "cola tiranosaurio",
+      "USes": "cola tiranosaurio",
+      "EUfr": "queue de tyrannosaure",
+      "USfr": "queue de tyrannosaure",
+      "EUit": "coda tirannosauro",
+      "EUnl": "tyrannosaurusstaart",
+      "CNzh": "暴龙的尾巴",
+      "TWzh": "暴龍的尾巴",
+      "JPja": "Tレックスのしっぽ",
+      "KRko": "티렉스의 꼬리",
+      "EUru": "хвост тираннозавра"
+    }
+  },
+  {
+    "id": "Fossil_00242",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tricera skull",
+      "EUen": "tricera skull",
+      "EUde": "Triceratops-Schädel",
+      "EUes": "cráneo triceratops",
+      "USes": "cráneo triceratops",
+      "EUfr": "crâne de tricératops",
+      "USfr": "crâne de tricératops",
+      "EUit": "cranio triceratopo",
+      "EUnl": "triceratopskop",
+      "CNzh": "三角龙的头",
+      "TWzh": "三角龍的頭",
+      "JPja": "トリケラトプスのあたま",
+      "KRko": "트리케라톱스의 머리",
+      "EUru": "череп трицератопса"
+    }
+  },
+  {
+    "id": "Fossil_00243",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tricera torso",
+      "EUen": "tricera torso",
+      "EUde": "Triceratops-Torso",
+      "EUes": "cuerpo triceratops",
+      "USes": "cuerpo triceratops",
+      "EUfr": "corps de tricératops",
+      "USfr": "corps de tricératops",
+      "EUit": "torso triceratopo",
+      "EUnl": "triceratopsromp",
+      "CNzh": "三角龙的身体",
+      "TWzh": "三角龍的身體",
+      "JPja": "トリケラトプスのからだ",
+      "KRko": "트리케라톱스의 몸통",
+      "EUru": "торс трицератопса"
+    }
+  },
+  {
+    "id": "Fossil_00244",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tricera tail",
+      "EUen": "tricera tail",
+      "EUde": "Triceratops-Schwanz",
+      "EUes": "cola triceratops",
+      "USes": "cola triceratops",
+      "EUfr": "queue de tricératops",
+      "USfr": "queue de tricératops",
+      "EUit": "coda triceratopo",
+      "EUnl": "triceratopsstaart",
+      "CNzh": "三角龙的尾巴",
+      "TWzh": "三角龍的尾巴",
+      "JPja": "トリケラトプスのしっぽ",
+      "KRko": "트리케라톱스의 꼬리",
+      "EUru": "хвост трицератопса"
+    }
+  },
+  {
+    "id": "Fossil_00294",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "amber",
+      "EUen": "amber",
+      "EUde": "Bernstein",
+      "EUes": "ámbar",
+      "USes": "ámbar",
+      "EUfr": "ambre",
+      "USfr": "ambre",
+      "EUit": "ambra",
+      "EUnl": "barnsteen",
+      "CNzh": "琥珀",
+      "TWzh": "琥珀",
+      "JPja": "コハク",
+      "KRko": "호박",
+      "EUru": "янтарь"
+    }
+  },
+  {
+    "id": "Fossil_00295",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ammonite",
+      "EUen": "ammonite",
+      "EUde": "Ammonit",
+      "EUes": "amonites",
+      "USes": "amonites",
+      "EUfr": "ammonite",
+      "USfr": "ammonite",
+      "EUit": "ammonite",
+      "EUnl": "ammoniet",
+      "CNzh": "菊石",
+      "TWzh": "菊石",
+      "JPja": "アンモナイト",
+      "KRko": "암모나이트",
+      "EUru": "аммонит"
+    }
+  },
+  {
+    "id": "Fossil_00296",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coprolite",
+      "EUen": "coprolite",
+      "EUde": "Koprolith",
+      "EUes": "coprolito",
+      "USes": "coprolito",
+      "EUfr": "coprolithe",
+      "USfr": "coprolithe",
+      "EUit": "coprolito",
+      "EUnl": "coproliet",
+      "CNzh": "粪化石",
+      "TWzh": "糞化石",
+      "JPja": "ウンコのかせき",
+      "KRko": "대변 화석",
+      "EUru": "копролит"
+    }
+  },
+  {
+    "id": "Fossil_00298",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "archaeopteryx",
+      "EUen": "archaeopteryx",
+      "EUde": "Archaeopteryx",
+      "EUes": "arqueoptérix",
+      "USes": "arqueoptérix",
+      "EUfr": "archéoptéryx",
+      "USfr": "archéoptéryx",
+      "EUit": "archaeopteryx",
+      "EUnl": "archeopteryx",
+      "CNzh": "始祖鸟",
+      "TWzh": "始祖鳥",
+      "JPja": "しそちょう",
+      "KRko": "시조새",
+      "EUru": "археоптерикс"
+    }
+  },
+  {
+    "id": "Fossil_00300",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dinosaur track",
+      "EUen": "dinosaur track",
+      "EUde": "Dino-Fußabdruck",
+      "EUes": "huella de dinosaurio",
+      "USes": "huella de dinosaurio",
+      "EUfr": "empreinte de dinosaure",
+      "USfr": "empreinte de dinosaure",
+      "EUit": "orma dinosauro",
+      "EUnl": "fossiele pootafdruk",
+      "CNzh": "恐龙脚印化石",
+      "TWzh": "恐龍腳印化石",
+      "JPja": "あしあとのかせき",
+      "KRko": "발자국 화석",
+      "EUru": "след динозавра"
+    }
+  },
+  {
+    "id": "Fossil_00301",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "australopith",
+      "EUen": "australopith",
+      "EUde": "Australopithecus",
+      "EUes": "australopiteco",
+      "USes": "australopiteco",
+      "EUfr": "australopithèque",
+      "USfr": "australopithèque",
+      "EUit": "australopiteco",
+      "EUnl": "australopithecus",
+      "CNzh": "南方古猿",
+      "TWzh": "南方古猿",
+      "JPja": "アウストラロピテクス",
+      "KRko": "오스트랄로피테쿠스",
+      "EUru": "австралопитек"
+    }
+  },
+  {
+    "id": "Fossil_00302",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shark-tooth pattern",
+      "EUen": "shark-tooth pattern",
+      "EUde": "Haizahnspirale",
+      "EUes": "mandíbula de tiburón",
+      "USes": "mandíbula de tiburón",
+      "EUfr": "mandibule d'hélicoprion",
+      "USfr": "mandibule d'hélicoprion",
+      "EUit": "mandibola di elicoprione",
+      "EUnl": "haaientandkrans",
+      "CNzh": "鲨鱼牙齿化石",
+      "TWzh": "鯊魚牙齒化石",
+      "JPja": "サメのはのかせき",
+      "KRko": "상어 이빨 화석",
+      "EUru": "зубы ископаемой акулы"
+    }
+  },
+  {
+    "id": "Fossil_00303",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "trilobite",
+      "EUen": "trilobite",
+      "EUde": "Trilobit",
+      "EUes": "trilobites",
+      "USes": "trilobites",
+      "EUfr": "trilobite",
+      "USfr": "trilobite",
+      "EUit": "trilobite",
+      "EUnl": "trilobiet",
+      "CNzh": "三叶虫",
+      "TWzh": "三葉蟲",
+      "JPja": "さんようちゅう",
+      "KRko": "삼엽충",
+      "EUru": "трилобит"
+    }
+  },
+  {
+    "id": "Fossil_04651",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "anomalocaris",
+      "EUen": "anomalocaris",
+      "EUde": "Anomalocaris",
+      "EUes": "anomalocaris",
+      "USes": "anomalocaris",
+      "EUfr": "anomalocaris",
+      "USfr": "anomalocaris",
+      "EUit": "anomalocaride",
+      "EUnl": "anomalocaris",
+      "CNzh": "奇虾",
+      "TWzh": "奇蝦",
+      "JPja": "アノマロカリス",
+      "KRko": "아노말로카리스",
+      "EUru": "аномалокарис"
+    }
+  },
+  {
+    "id": "Fossil_04658",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "right megalo side",
+      "EUen": "right megalo side",
+      "EUde": "Riesenhirsch-Hälfte (R)",
+      "EUes": "mitad derecha megaloceros",
+      "USes": "mitad derecha megaloceros",
+      "EUfr": "partie droite de mégacéros",
+      "USfr": "partie droite de mégacéros",
+      "EUit": "metà destra megalocero",
+      "EUnl": "reuzenhert (rechterhelft)",
+      "CNzh": "大角鹿的右半身",
+      "TWzh": "大角鹿的右半身",
+      "JPja": "メガロケロスのみぎはんしん",
+      "KRko": "메갈로케로스의 오른쪽 반신",
+      "EUru": "пр. часть гигантск. оленя"
+    }
+  },
+  {
+    "id": "Fossil_04659",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "left megalo side",
+      "EUen": "left megalo side",
+      "EUde": "Riesenhirsch-Hälfte (L)",
+      "EUes": "mitad izq. megaloceros",
+      "USes": "mitad izq. megaloceros",
+      "EUfr": "partie gauche de mégacéros",
+      "USfr": "partie gauche de mégacéros",
+      "EUit": "metà sinistra megalocero",
+      "EUnl": "reuzenhert (linkerhelft)",
+      "CNzh": "大角鹿的左半身",
+      "TWzh": "大角鹿的左半身",
+      "JPja": "メガロケロスのひだりはんしん",
+      "KRko": "메갈로케로스의 왼쪽 반신",
+      "EUru": "лев. часть гигантск. оленя"
+    }
+  },
+  {
+    "id": "Fossil_04660",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dunkleosteus",
+      "EUen": "dunkleosteus",
+      "EUde": "Dunkleosteus",
+      "EUes": "dunkleosteo",
+      "USes": "dunkleosteo",
+      "EUfr": "dunkléostéus",
+      "USfr": "dunkléostéus",
+      "EUit": "dunkleosteus",
+      "EUnl": "dunkleosteus",
+      "CNzh": "邓氏鱼",
+      "TWzh": "鄧氏魚",
+      "JPja": "ダンクルオステウス",
+      "KRko": "둔클레오스테우스",
+      "EUru": "дунклеостей"
+    }
+  },
+  {
+    "id": "Fossil_04662",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "myllokunmingia",
+      "EUen": "myllokunmingia",
+      "EUde": "Myllokunmingia",
+      "EUes": "myllokunmingia",
+      "USes": "myllokunmingia",
+      "EUfr": "myllokunmingia",
+      "USfr": "myllokunmingia",
+      "EUit": "myllokunmingia",
+      "EUnl": "myllokunmingia",
+      "CNzh": "丰娇昆明鱼",
+      "TWzh": "豐嬌昆明魚",
+      "JPja": "ミロクンミンギア",
+      "KRko": "밀로쿤밍기아",
+      "EUru": "миллокунмингия"
+    }
+  },
+  {
+    "id": "Fossil_04663",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "eusthenopteron",
+      "EUen": "eusthenopteron",
+      "EUde": "Eusthenopteron",
+      "EUes": "eustenopteron",
+      "USes": "eustenopteron",
+      "EUfr": "eusthénoptéron",
+      "USfr": "eusthénoptéron",
+      "EUit": "eustenottero",
+      "EUnl": "eusthenopteron",
+      "CNzh": "新翼鱼",
+      "TWzh": "新翼魚",
+      "JPja": "ユーステノプテロン",
+      "KRko": "에우스테놉테론",
+      "EUru": "эустеноптерон"
+    }
+  },
+  {
+    "id": "Fossil_04664",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "acanthostega",
+      "EUen": "acanthostega",
+      "EUde": "Acanthostega",
+      "EUes": "acantostega",
+      "USes": "acantostega",
+      "EUfr": "acanthostéga",
+      "USfr": "acanthostéga",
+      "EUit": "acantostega",
+      "EUnl": "acanthostega",
+      "CNzh": "棘螈",
+      "TWzh": "棘螈",
+      "JPja": "アカントステガ",
+      "KRko": "아칸토스테가",
+      "EUru": "акантостега"
+    }
+  },
+  {
+    "id": "Fossil_04665",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "juramaia",
+      "EUen": "juramaia",
+      "EUde": "Juramaia",
+      "EUes": "juramaia",
+      "USes": "juramaia",
+      "EUfr": "juramaia",
+      "USfr": "juramaia",
+      "EUit": "juramaia",
+      "EUnl": "juramaia",
+      "CNzh": "侏罗兽",
+      "TWzh": "侏羅獸",
+      "JPja": "ジュラマイア",
+      "KRko": "쥐라마이아",
+      "EUru": "юрамайя"
+    }
+  },
+  {
+    "id": "Fossil_04688",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brachio skull",
+      "EUen": "brachio skull",
+      "EUde": "Brachiosaurus-Schädel",
+      "EUes": "cráneo braquiosaurio",
+      "USes": "cráneo braquiosaurio",
+      "EUfr": "crâne de brachiosaure",
+      "USfr": "crâne de brachiosaure",
+      "EUit": "cranio brachiosauro",
+      "EUnl": "brachiosauruskop",
+      "CNzh": "腕龙的头",
+      "TWzh": "腕龍的頭",
+      "JPja": "ブラキオサウルスのあたま",
+      "KRko": "브라키오사우루스의 머리",
+      "EUru": "череп брахиозавра"
+    }
+  },
+  {
+    "id": "Fossil_04689",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brachio chest",
+      "EUen": "brachio chest",
+      "EUde": "Brachiosaurus-Thorax",
+      "EUes": "tórax braquiosaurio",
+      "USes": "tórax braquiosaurio",
+      "EUfr": "torse de brachiosaure",
+      "USfr": "torse de brachiosaure",
+      "EUit": "torace brachiosauro",
+      "EUnl": "brachiosaurusborstkas",
+      "CNzh": "腕龙的胸部",
+      "TWzh": "腕龍的胸部",
+      "JPja": "ブラキオサウルスのむね",
+      "KRko": "브라키오사우루스의 가슴",
+      "EUru": "грудь брахиозавра"
+    }
+  },
+  {
+    "id": "Fossil_04690",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brachio pelvis",
+      "EUen": "brachio pelvis",
+      "EUde": "Brachiosaurus-Becken",
+      "EUes": "pelvis braquiosaurio",
+      "USes": "pelvis braquiosaurio",
+      "EUfr": "bassin de brachiosaure",
+      "USfr": "bassin de brachiosaure",
+      "EUit": "bacino brachiosauro",
+      "EUnl": "brachiosaurusbekken",
+      "CNzh": "腕龙的腰部",
+      "TWzh": "腕龍的腰部",
+      "JPja": "ブラキオサウルスのこし",
+      "KRko": "브라키오사우루스의 허리",
+      "EUru": "таз брахиозавра"
+    }
+  },
+  {
+    "id": "Fossil_04691",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brachio tail",
+      "EUen": "brachio tail",
+      "EUde": "Brachiosaurus-Schwanz",
+      "EUes": "cola braquiosaurio",
+      "USes": "cola braquiosaurio",
+      "EUfr": "queue de brachiosaure",
+      "USfr": "queue de brachiosaure",
+      "EUit": "coda brachiosauro",
+      "EUnl": "brachiosaurusstaart",
+      "CNzh": "腕龙的尾巴",
+      "TWzh": "腕龍的尾巴",
+      "JPja": "ブラキオサウルスのしっぽ",
+      "KRko": "브라키오사우루스의 꼬리",
+      "EUru": "хвост брахиозавра"
+    }
+  },
+  {
+    "id": "Fossil_04697",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "quetzal torso",
+      "EUen": "quetzal torso",
+      "EUde": "Quetzalcoatlus-Torso",
+      "EUes": "cuerpo quetzalcoatlus",
+      "USes": "cuerpo quetzalcoatlus",
+      "EUfr": "corps de quetzal",
+      "USfr": "corps de quetzal",
+      "EUit": "torso quetzalcoatlus",
+      "EUnl": "quetzalcoatluskop",
+      "CNzh": "风神翼龙的头",
+      "TWzh": "風神翼龍的頭",
+      "JPja": "ケツァルコアトルスのあたま",
+      "KRko": "케찰코아틀루스의 머리",
+      "EUru": "торс кетцалькоатля"
+    }
+  },
+  {
+    "id": "Fossil_04698",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "right quetzal wing",
+      "EUen": "right quetzal wing",
+      "EUde": "Quetzalcoatlus-Flügel",
+      "EUes": "ala derecha quetzalcoatlus",
+      "USes": "ala derecha quetzalcoatlus",
+      "EUfr": "aile droite de quetzal",
+      "USfr": "aile droite de quetzal",
+      "EUit": "ala destra quetzalcoatlus",
+      "EUnl": "quetzalcoatlusvleugel (r)",
+      "CNzh": "风神翼龙的右翼",
+      "TWzh": "風神翼龍的右翼",
+      "JPja": "ケツァルコアトルスのうよく",
+      "KRko": "케찰코아틀루스의 오른날개",
+      "EUru": "п. крыло кетцалькоатля"
+    }
+  },
+  {
+    "id": "Fossil_04699",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "left quetzal wing",
+      "EUen": "left quetzal wing",
+      "EUde": "Quetzalcoatlus-Flügel",
+      "EUes": "ala izquierda quetzalcoatlus",
+      "USes": "ala izquierda quetzalcoatlus",
+      "EUfr": "aile gauche de quetzal",
+      "USfr": "aile gauche de quetzal",
+      "EUit": "ala sinistra quetzalcoatlus",
+      "EUnl": "quetzalcoatlusvleugel (l)",
+      "CNzh": "风神翼龙的左翼",
+      "TWzh": "風神翼龍的左翼",
+      "JPja": "ケツァルコアトルスのさよく",
+      "KRko": "케찰코아틀루스의 왼날개",
+      "EUru": "л. крыло кетцалькоатля"
+    }
+  },
+  {
+    "id": "Fossil_07251",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diplo tail tip",
+      "EUen": "diplo tail tip",
+      "EUde": "Diplodocus-Schwanzspitze",
+      "EUes": "punta de cola diplodocus",
+      "USes": "punta de cola diplodocus",
+      "EUfr": "pointe de queue de diplo",
+      "USfr": "pointe de queue de diplo",
+      "EUit": "punta di coda diplodoco",
+      "EUnl": "diplodocusstaartpunt",
+      "CNzh": "梁龙的尾巴尖",
+      "TWzh": "梁龍的尾端",
+      "JPja": "ディプロドクスのしっぽのさき",
+      "KRko": "디플로도쿠스의 꼬리 끝",
+      "EUru": "кончик хвоста диплодока"
+    }
+  },
+  {
+    "id": "FossilUnknown_02579",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fossil",
+      "EUen": "fossil",
+      "EUde": "Fossil",
+      "EUes": "fósil",
+      "USes": "fósil",
+      "EUfr": "fossile",
+      "USfr": "fossile",
+      "EUit": "fossile",
+      "EUnl": "fossiel",
+      "CNzh": "化石",
+      "TWzh": "化石",
+      "JPja": "かせき",
+      "KRko": "화석",
+      "EUru": "окаменелость"
+    }
+  }
+]

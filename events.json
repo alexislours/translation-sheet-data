@@ -1,0 +1,282 @@
+[
+  {
+    "id": "Countdown",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Countdown",
+      "EUen": "Countdown",
+      "EUde": "Countdown",
+      "EUes": "cuenta atrás",
+      "USes": "Cuenta regresiva",
+      "EUfr": "Compte à rebours",
+      "USfr": "Compte à rebours",
+      "EUit": "Conto alla rovescia",
+      "EUnl": "Aftellen",
+      "CNzh": "倒数",
+      "TWzh": "倒數",
+      "JPja": "カウントダウン",
+      "KRko": "카운트다운",
+      "EUru": "Отсчет"
+    }
+  },
+  {
+    "id": "FathersDay",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "Father's Day",
+      "EUen": "Father's Day",
+      "EUde": "Vatertag",
+      "EUes": "Día del Padre",
+      "USes": "Día del Padre",
+      "EUfr": "Fête des pères",
+      "USfr": "Fête des pères",
+      "EUit": "Festa del papà",
+      "EUnl": "Vaderdag",
+      "CNzh": "父亲节",
+      "TWzh": "世界父親節",
+      "JPja": "ちち父のひ日",
+      "KRko": "아버지날",
+      "EUru": "День отца"
+    }
+  },
+  {
+    "id": "FishingConventionAutumn",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Fall Fishing Tourney",
+      "EUen": "Fall Fishing Tourney",
+      "EUde": "Herbst-Angelturnier",
+      "EUes": "T. de Pesca de otoño",
+      "USes": "T. de Pesca de otoño",
+      "EUfr": "Tournoi de pêche (automne)",
+      "USfr": "Tournoi de pêche (automne)",
+      "EUit": "Torneo di pesca autunnale",
+      "EUnl": "Herfstvistoernooi",
+      "CNzh": "秋季钓鱼大赛",
+      "TWzh": "秋季釣魚大會",
+      "JPja": "あき秋のつ釣りたいかい大会",
+      "KRko": "가을 낚시대회",
+      "EUru": "Осенний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "id": "FishingConventionSpring",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Spring Fishing Tourney",
+      "EUen": "Spring Fishing Tourney",
+      "EUde": "Frühlings-Angelturnier",
+      "EUes": "T. de Pesca de primavera",
+      "USes": "T. de Pesca de primavera",
+      "EUfr": "Tournoi pêche (printemps)",
+      "USfr": "Tournoi pêche (printemps)",
+      "EUit": "Torneo di pesca primaverile",
+      "EUnl": "Lentevistoernooi",
+      "CNzh": "春季钓鱼大赛",
+      "TWzh": "春季釣魚大會",
+      "JPja": "はる春のつ釣りたいかい大会",
+      "KRko": "봄 낚시대회",
+      "EUru": "Весенний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "id": "FishingConventionSummer",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Summer Fishing Tourney",
+      "EUen": "Summer Fishing Tourney",
+      "EUde": "Sommer-Angelturnier",
+      "EUes": "T. de Pesca de verano",
+      "USes": "T. de Pesca de verano",
+      "EUfr": "Tournoi de pêche (été)",
+      "USfr": "Tournoi de pêche (été)",
+      "EUit": "Torneo di pesca estivo",
+      "EUnl": "Zomervistoernooi",
+      "CNzh": "夏季钓鱼大赛",
+      "TWzh": "夏季釣魚大會",
+      "JPja": "なつ夏のつ釣りたいかい大会",
+      "KRko": "여름 낚시대회",
+      "EUru": "Летний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "id": "FishingConventionWinter",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Winter Fishing Tourney",
+      "EUen": "Winter Fishing Tourney",
+      "EUde": "Winter-Angelturnier",
+      "EUes": "T. de Pesca de invierno",
+      "USes": "T. de Pesca de invierno",
+      "EUfr": "Tournoi de pêche (hiver)",
+      "USfr": "Tournoi de pêche (hiver)",
+      "EUit": "Torneo di pesca invernale",
+      "EUnl": "Wintervistoernooi",
+      "CNzh": "冬季钓鱼大赛",
+      "TWzh": "冬季釣魚大會",
+      "JPja": "ふゆ冬のつ釣りたいかい大会",
+      "KRko": "겨울 낚시대회",
+      "EUru": "Зимний турнир «Мастер удочки»"
+    }
+  },
+  {
+    "id": "InsectConvention1",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bug-Off",
+      "EUen": "Bug-Off",
+      "EUde": "Insektikus-Turnier",
+      "EUes": "Caza de Bichos",
+      "USes": "Caza de Insectos",
+      "EUfr": "Insectosafari",
+      "USfr": "Insectosafari",
+      "EUit": "Insettomania",
+      "EUnl": "Beestjesbeker",
+      "CNzh": "捕虫大赛",
+      "TWzh": "捕蟲大會",
+      "JPja": "ムシとりたいかい大会",
+      "KRko": "곤충채집대회",
+      "EUru": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "id": "InsectConvention2",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bug-Off",
+      "EUen": "Bug-Off",
+      "EUde": "Insektikus-Turnier",
+      "EUes": "Caza de Bichos",
+      "USes": "Caza de Insectos",
+      "EUfr": "Insectosafari",
+      "USfr": "Insectosafari",
+      "EUit": "Insettomania",
+      "EUnl": "Beestjesbeker",
+      "CNzh": "捕虫大赛",
+      "TWzh": "捕蟲大會",
+      "JPja": "ムシとりたいかい大会",
+      "KRko": "곤충채집대회",
+      "EUru": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "id": "InsectConvention3",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bug-Off",
+      "EUen": "Bug-Off",
+      "EUde": "Insektikus-Turnier",
+      "EUes": "Caza de Bichos",
+      "USes": "Caza de Insectos",
+      "EUfr": "Insectosafari",
+      "USfr": "Insectosafari",
+      "EUit": "Insettomania",
+      "EUnl": "Beestjesbeker",
+      "CNzh": "捕虫大赛",
+      "TWzh": "捕蟲大會",
+      "JPja": "ムシとりたいかい大会",
+      "KRko": "곤충채집대회",
+      "EUru": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "id": "InsectConvention4",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bug-Off",
+      "EUen": "Bug-Off",
+      "EUde": "Insektikus-Turnier",
+      "EUes": "Caza de Bichos",
+      "USes": "Caza de Insectos",
+      "EUfr": "Insectosafari",
+      "USfr": "Insectosafari",
+      "EUit": "Insettomania",
+      "EUnl": "Beestjesbeker",
+      "CNzh": "捕虫大赛",
+      "TWzh": "捕蟲大會",
+      "JPja": "ムシとりたいかい大会",
+      "KRko": "곤충채집대회",
+      "EUru": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "id": "MothersDay",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "Mother's Day",
+      "EUen": "Mother's Day",
+      "EUde": "Muttertag",
+      "EUes": "Día de la Madre",
+      "USes": "Día de la Madre",
+      "EUfr": "Fête des mères",
+      "USfr": "Fête des mères",
+      "EUit": "Festa della mamma",
+      "EUnl": "Moederdag",
+      "CNzh": "母亲节",
+      "TWzh": "母親節",
+      "JPja": "はは母のひ日",
+      "KRko": "어머니날",
+      "EUru": "День матери"
+    }
+  },
+  {
+    "id": "SummerSolstice",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "Summer Solstice",
+      "EUen": "Summer Solstice",
+      "EUde": "Sommersonnenwende",
+      "EUes": "Solsticio de verano",
+      "USes": "Solsticio de verano",
+      "EUfr": "Solstice d'été",
+      "USfr": "Solstice d'été",
+      "EUit": "Solstizio d'estate",
+      "EUnl": "Midzomer",
+      "CNzh": "夏至祭典",
+      "TWzh": "夏至祭典",
+      "JPja": "げしさい夏至祭",
+      "KRko": "하지",
+      "EUru": "Праздник лета"
+    }
+  },
+  {
+    "id": "WinterSolstice",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "Winter Solstice",
+      "EUen": "Winter Solstice",
+      "EUde": "Wintersonnenwende",
+      "EUes": "Solsticio de invierno",
+      "USes": "Solsticio de invierno",
+      "EUfr": "Solstice d'hiver",
+      "USfr": "Solstice d'hiver",
+      "EUit": "Solstizio d'inverno",
+      "EUnl": "Midwinter",
+      "CNzh": "冬至祭典",
+      "TWzh": "冬至祭典",
+      "JPja": "とうじさい冬至祭",
+      "KRko": "동지",
+      "EUru": "Праздник зимы"
+    }
+  },
+  {
+    "id": "WorldChild",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "International Children's Day",
+      "EUen": "International Children's Day",
+      "EUde": "Weltweiter Tag der Kinder",
+      "EUes": "Día de la Infancia",
+      "USes": "Día de la Infancia",
+      "EUfr": "Jour mondial des enfants",
+      "USfr": "Jour mondial des enfants",
+      "EUit": "Giorno mondiale dei bambini",
+      "EUnl": "Internationale Kinderdag",
+      "CNzh": "国际儿童节",
+      "TWzh": "國際兒童節",
+      "JPja": "こくさい国際こどものひ日",
+      "KRko": "국제 어린이날",
+      "EUru": "Всемирный день детей"
+    }
+  }
+]

@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "Fish_00328",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crucian carp",
+      "EUen": "crucian carp",
+      "EUde": "Karausche",
+      "EUes": "carpín",
+      "USes": "carpín",
+      "EUfr": "carassin",
+      "USfr": "carassin",
+      "EUit": "carassio",
+      "EUnl": "kroeskarper",
+      "CNzh": "鲫鱼",
+      "TWzh": "鯽魚",
+      "JPja": "フナ",
+      "KRko": "붕어",
+      "EUru": "карась"
+    }
+  },
+  {
+    "id": "Fish_00329",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "goldfish",
+      "EUen": "goldfish",
+      "EUde": "Goldfisch",
+      "EUes": "pez dorado",
+      "USes": "pez dorado",
+      "EUfr": "poisson rouge",
+      "USfr": "poisson rouge",
+      "EUit": "pesce rosso",
+      "EUnl": "goudvis",
+      "CNzh": "金鱼",
+      "TWzh": "金魚",
+      "JPja": "キンギョ",
+      "KRko": "금붕어",
+      "EUru": "золотая рыбка"
+    }
+  },
+  {
+    "id": "Fish_02215",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bitterling",
+      "EUen": "bitterling",
+      "EUde": "Bitterling",
+      "EUes": "amarguillo",
+      "USes": "amarguillo",
+      "EUfr": "bouvière",
+      "USfr": "bouvière",
+      "EUit": "rodeo",
+      "EUnl": "bittervoorn",
+      "CNzh": "红目鲫",
+      "TWzh": "紅目鯽",
+      "JPja": "タナゴ",
+      "KRko": "납줄개",
+      "EUru": "горчак"
+    }
+  },
+  {
+    "id": "Fish_02216",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pale chub",
+      "EUen": "pale chub",
+      "EUde": "Döbel",
+      "EUes": "cacho",
+      "USes": "cacho",
+      "EUfr": "chevaine",
+      "USfr": "chevaine",
+      "EUit": "zacco",
+      "EUnl": "Japanse drakenvis",
+      "CNzh": "溪哥",
+      "TWzh": "溪哥",
+      "JPja": "オイカワ",
+      "KRko": "피라미",
+      "EUru": "светлый закко"
+    }
+  },
+  {
+    "id": "Fish_02217",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dace",
+      "EUen": "dace",
+      "EUde": "Hasel",
+      "EUes": "leucisco",
+      "USes": "leucisco",
+      "EUfr": "vandoise",
+      "USfr": "vandoise",
+      "EUit": "lasca",
+      "EUnl": "serpeling",
+      "CNzh": "雅罗鱼",
+      "TWzh": "珠星三塊魚",
+      "JPja": "ウグイ",
+      "KRko": "황어",
+      "EUru": "елец"
+    }
+  },
+  {
+    "id": "Fish_02219",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "carp",
+      "EUen": "carp",
+      "EUde": "Karpfen",
+      "EUes": "carpa",
+      "USes": "carpa",
+      "EUfr": "carpe",
+      "USfr": "carpe",
+      "EUit": "carpa",
+      "EUnl": "karper",
+      "CNzh": "鲤鱼",
+      "TWzh": "鯉魚",
+      "JPja": "コイ",
+      "KRko": "잉어",
+      "EUru": "сазан"
+    }
+  },
+  {
+    "id": "Fish_02220",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "koi",
+      "EUen": "koi",
+      "EUde": "Koi-Karpfen",
+      "EUes": "koi",
+      "USes": "koi",
+      "EUfr": "carpe koï",
+      "USfr": "carpe koï",
+      "EUit": "koi",
+      "EUnl": "koikarper",
+      "CNzh": "锦鲤",
+      "TWzh": "錦鯉",
+      "JPja": "ニシキゴイ",
+      "KRko": "비단잉어",
+      "EUru": "карп кои"
+    }
+  },
+  {
+    "id": "Fish_02221",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pop-eyed goldfish",
+      "EUen": "pop-eyed goldfish",
+      "EUde": "Teleskopauge",
+      "EUes": "pez telescopio",
+      "USes": "pez telescopio",
+      "EUfr": "cyprin doré",
+      "USfr": "cyprin doré",
+      "EUit": "pesce telescopio",
+      "EUnl": "telescoopooggoudvis",
+      "CNzh": "龙睛金鱼",
+      "TWzh": "龍睛金魚",
+      "JPja": "デメキン",
+      "KRko": "툭눈금붕어",
+      "EUru": "телескоп"
+    }
+  },
+  {
+    "id": "Fish_02222",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "killifish",
+      "EUen": "killifish",
+      "EUde": "Killifisch",
+      "EUes": "killi",
+      "USes": "killi",
+      "EUfr": "fondule barré",
+      "USfr": "fondule barré",
+      "EUit": "killifish",
+      "EUnl": "killivis",
+      "CNzh": "稻田鱼",
+      "TWzh": "稻田魚",
+      "JPja": "メダカ",
+      "KRko": "송사리",
+      "EUru": "оризия"
+    }
+  },
+  {
+    "id": "Fish_02223",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crawfish",
+      "EUen": "crawfish",
+      "EUde": "Flusskrebs",
+      "EUes": "cangrejo de río",
+      "USes": "cangrejo de río",
+      "EUfr": "écrevisse",
+      "USfr": "écrevisse",
+      "EUit": "gambero",
+      "EUnl": "rode rivierkreeft",
+      "CNzh": "淡水龙虾",
+      "TWzh": "淡水龍蝦",
+      "JPja": "ザリガニ",
+      "KRko": "가재",
+      "EUru": "рак"
+    }
+  },
+  {
+    "id": "Fish_02224",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "soft-shelled turtle",
+      "EUen": "soft-shelled turtle",
+      "EUde": "Weichschildkröte",
+      "EUes": "tortuga caparazón blando",
+      "USes": "tortuga caparazón blando",
+      "EUfr": "tortue trionyx",
+      "USfr": "tortue trionyx",
+      "EUit": "apalone ferox",
+      "EUnl": "weekschildpad",
+      "CNzh": "鳖",
+      "TWzh": "鱉",
+      "JPja": "スッポン",
+      "KRko": "자라",
+      "EUru": "трионикс"
+    }
+  },
+  {
+    "id": "Fish_02225",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tadpole",
+      "EUen": "tadpole",
+      "EUde": "Kaulquappe",
+      "EUes": "renacuajo",
+      "USes": "renacuajo",
+      "EUfr": "têtard",
+      "USfr": "têtard",
+      "EUit": "girino",
+      "EUnl": "kikkervisje",
+      "CNzh": "蝌蚪",
+      "TWzh": "蝌蚪",
+      "JPja": "オタマジャクシ",
+      "KRko": "올챙이",
+      "EUru": "головастик"
+    }
+  },
+  {
+    "id": "Fish_02226",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frog",
+      "EUen": "frog",
+      "EUde": "Frosch",
+      "EUes": "rana",
+      "USes": "rana",
+      "EUfr": "grenouille",
+      "USfr": "grenouille",
+      "EUit": "rana",
+      "EUnl": "kikker",
+      "CNzh": "青蛙",
+      "TWzh": "青蛙",
+      "JPja": "カエル",
+      "KRko": "개구리",
+      "EUru": "лягушка"
+    }
+  },
+  {
+    "id": "Fish_02227",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "freshwater goby",
+      "EUen": "freshwater goby",
+      "EUde": "Flussgrundel",
+      "EUes": "gobio de río",
+      "USes": "gobio de río",
+      "EUfr": "gobie d'eau douce",
+      "USfr": "gobie d'eau douce",
+      "EUit": "ghiozzo",
+      "EUnl": "zoetwatergrondel",
+      "CNzh": "塘鳢鱼",
+      "TWzh": "塘鱧魚",
+      "JPja": "ドンコ",
+      "KRko": "동사리",
+      "EUru": "одонтобутис"
+    }
+  },
+  {
+    "id": "Fish_02228",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "loach",
+      "EUen": "loach",
+      "EUde": "Bachschmerle",
+      "EUes": "locha",
+      "USes": "locha",
+      "EUfr": "loche d'étang",
+      "USfr": "loche d'étang",
+      "EUit": "cobite",
+      "EUnl": "modderkruiper",
+      "CNzh": "泥鳅",
+      "TWzh": "泥鰍",
+      "JPja": "ドジョウ",
+      "KRko": "미꾸라지",
+      "EUru": "вьюн"
+    }
+  },
+  {
+    "id": "Fish_02229",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "catfish",
+      "EUen": "catfish",
+      "EUde": "Katzenwels",
+      "EUes": "siluro",
+      "USes": "siluro",
+      "EUfr": "silure",
+      "USfr": "barbotte",
+      "EUit": "pesce gatto",
+      "EUnl": "meerval",
+      "CNzh": "鲶鱼",
+      "TWzh": "鯰魚",
+      "JPja": "ナマズ",
+      "KRko": "메기",
+      "EUru": "сом"
+    }
+  },
+  {
+    "id": "Fish_02231",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant snakehead",
+      "EUen": "giant snakehead",
+      "EUde": "Schlangenkopf",
+      "EUes": "pez cabeza de serpiente",
+      "USes": "pez cabeza de serpiente",
+      "EUfr": "tête-de-serpent",
+      "USfr": "tête-de-serpent",
+      "EUit": "pesce serpente",
+      "EUnl": "rode slangenkopvis",
+      "CNzh": "黑鱼",
+      "TWzh": "鱧魚",
+      "JPja": "ライギョ",
+      "KRko": "가물치",
+      "EUru": "змееголов"
+    }
+  },
+  {
+    "id": "Fish_02232",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bluegill",
+      "EUen": "bluegill",
+      "EUde": "Sonnenbarsch",
+      "EUes": "pez sol",
+      "USes": "pez sol",
+      "EUfr": "crapet",
+      "USfr": "crapet",
+      "EUit": "pesce persico",
+      "EUnl": "zonnebaars",
+      "CNzh": "蓝腮太阳鱼",
+      "TWzh": "藍鰓太陽魚",
+      "JPja": "ブルーギル",
+      "KRko": "블루길",
+      "EUru": "солнечник"
+    }
+  },
+  {
+    "id": "Fish_02233",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow perch",
+      "EUen": "yellow perch",
+      "EUde": "Flussbarsch",
+      "EUes": "perca amarilla",
+      "USes": "perca amarilla",
+      "EUfr": "perche jaune",
+      "USfr": "perche jaune",
+      "EUit": "perca dorata",
+      "EUnl": "jackbaars",
+      "CNzh": "黄鲈鱼",
+      "TWzh": "黃鱸魚",
+      "JPja": "イエローパーチ",
+      "KRko": "옐로우퍼치",
+      "EUru": "желтый окунь"
+    }
+  },
+  {
+    "id": "Fish_02234",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black bass",
+      "EUen": "black bass",
+      "EUde": "Barsch",
+      "EUes": "perca",
+      "USes": "perca",
+      "EUfr": "bar",
+      "USfr": "bar",
+      "EUit": "boccalone",
+      "EUnl": "forelbaars",
+      "CNzh": "黑鲈鱼",
+      "TWzh": "黑鱸魚",
+      "JPja": "ブラックバス",
+      "KRko": "큰입배스",
+      "EUru": "большеротый окунь"
+    }
+  },
+  {
+    "id": "Fish_02235",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pike",
+      "EUen": "pike",
+      "EUde": "Hecht",
+      "EUes": "lucio",
+      "USes": "lucio",
+      "EUfr": "brochet",
+      "USfr": "brochet",
+      "EUit": "luccio nordico",
+      "EUnl": "snoek",
+      "CNzh": "白斑狗鱼",
+      "TWzh": "白斑狗魚",
+      "JPja": "パイク",
+      "KRko": "강꼬치고기",
+      "EUru": "щука"
+    }
+  },
+  {
+    "id": "Fish_02236",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pond smelt",
+      "EUen": "pond smelt",
+      "EUde": "Stint",
+      "EUes": "eperlano",
+      "USes": "eperlano",
+      "EUfr": "éperlan",
+      "USfr": "éperlan",
+      "EUit": "pingo",
+      "EUnl": "spiering",
+      "CNzh": "西太公鱼",
+      "TWzh": "西太公魚",
+      "JPja": "ワカサギ",
+      "KRko": "빙어",
+      "EUru": "малая корюшка"
+    }
+  },
+  {
+    "id": "Fish_02237",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweetfish",
+      "EUen": "sweetfish",
+      "EUde": "Ayu",
+      "EUes": "ayu",
+      "USes": "ayu",
+      "EUfr": "ayu",
+      "USfr": "ayu",
+      "EUit": "ayu",
+      "EUnl": "ayu",
+      "CNzh": "香鱼",
+      "TWzh": "香魚",
+      "JPja": "アユ",
+      "KRko": "은어",
+      "EUru": "айю"
+    }
+  },
+  {
+    "id": "Fish_02238",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry salmon",
+      "EUen": "cherry salmon",
+      "EUde": "Masulachs",
+      "EUes": "salmón japonés",
+      "USes": "salmón japonés",
+      "EUfr": "saumon masou",
+      "USfr": "saumon masou",
+      "EUit": "salmone giapponese",
+      "EUnl": "Japanse zalm",
+      "CNzh": "樱花钩吻鲑",
+      "TWzh": "櫻花鉤吻鮭",
+      "JPja": "ヤマメ",
+      "KRko": "산천어",
+      "EUru": "сима"
+    }
+  },
+  {
+    "id": "Fish_02239",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "char",
+      "EUen": "char",
+      "EUde": "Saibling",
+      "EUes": "trucha",
+      "USes": "trucha",
+      "EUfr": "omble",
+      "USfr": "omble",
+      "EUit": "salmerino alpino",
+      "EUnl": "bronforel",
+      "CNzh": "花羔红点鲑",
+      "TWzh": "花羔紅點鮭",
+      "JPja": "オオイワナ",
+      "KRko": "열목어",
+      "EUru": "голец"
+    }
+  },
+  {
+    "id": "Fish_02241",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stringfish",
+      "EUen": "stringfish",
+      "EUde": "Huchen",
+      "EUes": "taimén",
+      "USes": "taimén",
+      "EUfr": "dai yu",
+      "USfr": "dai yu",
+      "EUit": "taimen",
+      "EUnl": "Donauzalm",
+      "CNzh": "远东哲罗鱼",
+      "TWzh": "遠東哲羅魚",
+      "JPja": "イトウ",
+      "KRko": "일본연어",
+      "EUru": "таймень"
+    }
+  },
+  {
+    "id": "Fish_02242",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "salmon",
+      "EUen": "salmon",
+      "EUde": "Lachs",
+      "EUes": "salmón",
+      "USes": "salmón",
+      "EUfr": "saumon",
+      "USfr": "saumon",
+      "EUit": "salmone",
+      "EUnl": "zalm",
+      "CNzh": "鲑鱼",
+      "TWzh": "鮭魚",
+      "JPja": "サケ",
+      "KRko": "연어",
+      "EUru": "лосось"
+    }
+  },
+  {
+    "id": "Fish_02243",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "king salmon",
+      "EUen": "king salmon",
+      "EUde": "Königslachs",
+      "EUes": "salmón real",
+      "USes": "salmón real",
+      "EUfr": "saumon roi",
+      "USfr": "saumon royal",
+      "EUit": "salmone reale",
+      "EUnl": "chinookzalm",
+      "CNzh": "帝王鲑",
+      "TWzh": "帝王鮭",
+      "JPja": "キングサーモン",
+      "KRko": "왕연어",
+      "EUru": "чавыча"
+    }
+  },
+  {
+    "id": "Fish_02244",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mitten crab",
+      "EUen": "mitten crab",
+      "EUde": "Wollhandkrabbe",
+      "EUes": "cangrejo de Shanghái",
+      "USes": "cangrejo de Shanghái",
+      "EUfr": "crabe chinois",
+      "USfr": "crabe chinois",
+      "EUit": "granchio guantato",
+      "EUnl": "wolhandkrab",
+      "CNzh": "中华绒螯蟹",
+      "TWzh": "中華絨螯蟹",
+      "JPja": "シャンハイガニ",
+      "KRko": "참게",
+      "EUru": "мохнорукий краб"
+    }
+  },
+  {
+    "id": "Fish_02245",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "guppy",
+      "EUen": "guppy",
+      "EUde": "Guppy",
+      "EUes": "gupi",
+      "USes": "gupi",
+      "EUfr": "guppy",
+      "USfr": "guppy",
+      "EUit": "guppy",
+      "EUnl": "guppy",
+      "CNzh": "孔雀鱼",
+      "TWzh": "孔雀魚",
+      "JPja": "グッピー",
+      "KRko": "구피",
+      "EUru": "гуппи"
+    }
+  },
+  {
+    "id": "Fish_02246",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nibble fish",
+      "EUen": "nibble fish",
+      "EUde": "Saugbarbe",
+      "EUes": "pez doctor",
+      "USes": "pez doctor",
+      "EUfr": "poisson docteur",
+      "USfr": "poisson docteur",
+      "EUit": "garra rufa",
+      "EUnl": "knabbelvisje",
+      "CNzh": "温泉医生鱼",
+      "TWzh": "溫泉醫生魚",
+      "JPja": "ドクターフィッシュ",
+      "KRko": "닥터피시",
+      "EUru": "рыба-доктор"
+    }
+  },
+  {
+    "id": "Fish_02247",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "angelfish",
+      "EUen": "angelfish",
+      "EUde": "Skalar",
+      "EUes": "pez ángel",
+      "USes": "pez ángel",
+      "EUfr": "poisson-ange",
+      "USfr": "poisson-ange",
+      "EUit": "pesce angelo",
+      "EUnl": "maanvis",
+      "CNzh": "神仙鱼",
+      "TWzh": "神仙魚",
+      "JPja": "エンゼルフィッシュ",
+      "KRko": "천사어",
+      "EUru": "скалярия"
+    }
+  },
+  {
+    "id": "Fish_02248",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "neon tetra",
+      "EUen": "neon tetra",
+      "EUde": "Neonsalmler",
+      "EUes": "tetra neón",
+      "USes": "tetra neón",
+      "EUfr": "néon bleu",
+      "USfr": "néon bleu",
+      "EUit": "pesce neon",
+      "EUnl": "neontetra",
+      "CNzh": "霓虹灯鱼",
+      "TWzh": "霓虹燈魚",
+      "JPja": "ネオンテトラ",
+      "KRko": "네온테트라",
+      "EUru": "голубой неон"
+    }
+  },
+  {
+    "id": "Fish_02249",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "piranha",
+      "EUen": "piranha",
+      "EUde": "Piranha",
+      "EUes": "piraña",
+      "USes": "piraña",
+      "EUfr": "piranha",
+      "USfr": "piranha",
+      "EUit": "pesce piranha",
+      "EUnl": "piranha",
+      "CNzh": "食人鱼",
+      "TWzh": "食人魚",
+      "JPja": "ピラニア",
+      "KRko": "피라니아",
+      "EUru": "пиранья"
+    }
+  },
+  {
+    "id": "Fish_02250",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "arowana",
+      "EUen": "arowana",
+      "EUde": "Arowana",
+      "EUes": "arowana",
+      "USes": "arowana",
+      "EUfr": "arowana",
+      "USfr": "arowana",
+      "EUit": "arowana",
+      "EUnl": "arowana",
+      "CNzh": "骨舌鱼",
+      "TWzh": "骨舌魚",
+      "JPja": "アロワナ",
+      "KRko": "아로와나",
+      "EUru": "аравана"
+    }
+  },
+  {
+    "id": "Fish_02251",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dorado",
+      "EUen": "dorado",
+      "EUde": "Lachssalmler",
+      "EUes": "dorado",
+      "USes": "dorado",
+      "EUfr": "dorado",
+      "USfr": "dorade",
+      "EUit": "dorado",
+      "EUnl": "dorado",
+      "CNzh": "黄金河虎",
+      "TWzh": "黃金河虎",
+      "JPja": "ドラド",
+      "KRko": "황금연어",
+      "EUru": "дорадо"
+    }
+  },
+  {
+    "id": "Fish_02252",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gar",
+      "EUen": "gar",
+      "EUde": "Knochenhecht",
+      "EUes": "pez caimán",
+      "USes": "pez caimán",
+      "EUfr": "gar",
+      "USfr": "gar",
+      "EUit": "luccio",
+      "EUnl": "kaaimansnoek",
+      "CNzh": "雀鳝",
+      "TWzh": "雀鱔",
+      "JPja": "ガー",
+      "KRko": "가아",
+      "EUru": "панцирная щука"
+    }
+  },
+  {
+    "id": "Fish_02253",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "arapaima",
+      "EUen": "arapaima",
+      "EUde": "Arapaima",
+      "EUes": "pirarucú",
+      "USes": "pirarucú",
+      "EUfr": "arapaïma",
+      "USfr": "arapaïma",
+      "EUit": "pirarucù",
+      "EUnl": "arapaima",
+      "CNzh": "巨骨舌鱼",
+      "TWzh": "巨骨舌魚",
+      "JPja": "ピラルク",
+      "KRko": "피라루쿠",
+      "EUru": "арапаима"
+    }
+  },
+  {
+    "id": "Fish_02254",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "saddled bichir",
+      "EUen": "saddled bichir",
+      "EUde": "Flösselhecht",
+      "EUes": "bichir ensillado",
+      "USes": "bichir ensillado",
+      "EUfr": "bichir",
+      "USfr": "bichir",
+      "EUit": "polipteride",
+      "EUnl": "kwastsnoek",
+      "CNzh": "恩氏多鳍鱼",
+      "TWzh": "恩氏多鰭魚",
+      "JPja": "エンドリケリー",
+      "KRko": "엔드리케리",
+      "EUru": "многопер Эндлихера"
+    }
+  },
+  {
+    "id": "Fish_02255",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea butterfly",
+      "EUen": "sea butterfly",
+      "EUde": "See-Engel",
+      "EUes": "mariposa marina",
+      "USes": "mariposa marina",
+      "EUfr": "clione",
+      "USfr": "papillon de mer",
+      "EUit": "cavolinia",
+      "EUnl": "zeevlinder",
+      "CNzh": "海蝴蝶",
+      "TWzh": "海天使",
+      "JPja": "クリオネ",
+      "KRko": "클리오네",
+      "EUru": "морской ангел"
+    }
+  },
+  {
+    "id": "Fish_02256",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea horse",
+      "EUen": "sea horse",
+      "EUde": "Seepferdchen",
+      "EUes": "caballito de mar",
+      "USes": "caballito de mar",
+      "EUfr": "hippocampe",
+      "USfr": "hippocampe",
+      "EUit": "ippocampo",
+      "EUnl": "zeepaardje",
+      "CNzh": "海马",
+      "TWzh": "海馬",
+      "JPja": "タツノオトシゴ",
+      "KRko": "해마",
+      "EUru": "морской конек"
+    }
+  },
+  {
+    "id": "Fish_02257",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "clown fish",
+      "EUen": "clown fish",
+      "EUde": "Anemonenfisch",
+      "EUes": "pez payaso",
+      "USes": "pez payaso",
+      "EUfr": "poisson-clown",
+      "USfr": "poisson-clown",
+      "EUit": "pesce pagliaccio",
+      "EUnl": "clownvis",
+      "CNzh": "小丑鱼",
+      "TWzh": "小丑魚",
+      "JPja": "クマノミ",
+      "KRko": "흰동가리",
+      "EUru": "рыба-клоун"
+    }
+  },
+  {
+    "id": "Fish_02258",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "surgeonfish",
+      "EUen": "surgeonfish",
+      "EUde": "Paletten-Doktorfisch",
+      "EUes": "pez cirujano",
+      "USes": "pez cirujano",
+      "EUfr": "poisson chirurgien",
+      "USfr": "poisson-chirurgien",
+      "EUit": "pesce chirurgo",
+      "EUnl": "doktersvis",
+      "CNzh": "拟刺尾鲷",
+      "TWzh": "擬刺尾鯛",
+      "JPja": "ナンヨウハギ",
+      "KRko": "블루탱",
+      "EUru": "флаговый хирург"
+    }
+  },
+  {
+    "id": "Fish_02259",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "butterfly fish",
+      "EUen": "butterfly fish",
+      "EUde": "Falterfisch",
+      "EUes": "pez mariposa",
+      "USes": "pez mariposa",
+      "EUfr": "poisson-papillon",
+      "USfr": "poisson-papillon",
+      "EUit": "pesce farfalla",
+      "EUnl": "koraalvlinder",
+      "CNzh": "耳带蝴蝶鱼",
+      "TWzh": "耳帶蝴蝶魚",
+      "JPja": "チョウチョウウオ",
+      "KRko": "나비고기",
+      "EUru": "рыба-бабочка"
+    }
+  },
+  {
+    "id": "Fish_02260",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Napoleonfish",
+      "EUen": "Napoleonfish",
+      "EUde": "Napoleonfisch",
+      "EUes": "pez napoleón",
+      "USes": "pez napoleón",
+      "EUfr": "napoléon",
+      "USfr": "napoléon",
+      "EUit": "pesce napoleone",
+      "EUnl": "napoleonvis",
+      "CNzh": "苏眉鱼",
+      "TWzh": "蘇眉魚",
+      "JPja": "ナポレオンフィッシュ",
+      "KRko": "나폴레옹피시",
+      "EUru": "рыба-наполеон"
+    }
+  },
+  {
+    "id": "Fish_02261",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zebra turkeyfish",
+      "EUen": "zebra turkeyfish",
+      "EUde": "Rotfeuerfisch",
+      "EUes": "pez león",
+      "USes": "pez león",
+      "EUfr": "poisson-scorpion",
+      "USfr": "poisson-scorpion",
+      "EUit": "leone zebrato",
+      "EUnl": "koraalduivel",
+      "CNzh": "狮子鱼",
+      "TWzh": "獅子魚",
+      "JPja": "ミノカサゴ",
+      "KRko": "쏨뱅이",
+      "EUru": "крылатка"
+    }
+  },
+  {
+    "id": "Fish_02262",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blowfish",
+      "EUen": "blowfish",
+      "EUde": "Kugelfisch",
+      "EUes": "pez globo",
+      "USes": "pez globo",
+      "EUfr": "poisson-ballon",
+      "USfr": "poisson-globe",
+      "EUit": "pesce palla",
+      "EUnl": "kogelvis",
+      "CNzh": "河豚",
+      "TWzh": "河豚",
+      "JPja": "フグ",
+      "KRko": "복어",
+      "EUru": "бурый скалозуб"
+    }
+  },
+  {
+    "id": "Fish_02263",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "puffer fish",
+      "EUen": "puffer fish",
+      "EUde": "Igelfisch",
+      "EUes": "pez erizo",
+      "USes": "pez erizo",
+      "EUfr": "poisson-porc-épic",
+      "USfr": "poisson-porc-épic",
+      "EUit": "pesce istrice",
+      "EUnl": "egelvis",
+      "CNzh": "刺豚",
+      "TWzh": "刺河豚",
+      "JPja": "ハリセンボン",
+      "KRko": "가시복",
+      "EUru": "еж-рыба"
+    }
+  },
+  {
+    "id": "Fish_02264",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "horse mackerel",
+      "EUen": "horse mackerel",
+      "EUde": "Makrele",
+      "EUes": "jurel",
+      "USes": "jurel",
+      "EUfr": "chinchard",
+      "USfr": "chinchard",
+      "EUit": "sgombro",
+      "EUnl": "horsmakreel",
+      "CNzh": "竹荚鱼",
+      "TWzh": "竹筴魚",
+      "JPja": "アジ",
+      "KRko": "전갱이",
+      "EUru": "ставрида"
+    }
+  },
+  {
+    "id": "Fish_02265",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "barred knifejaw",
+      "EUen": "barred knifejaw",
+      "EUde": "Schnabelbarsch",
+      "EUes": "dorada japonesa",
+      "USes": "dorada japonesa",
+      "EUfr": "scarus",
+      "USfr": "scarus",
+      "EUit": "ishidai",
+      "EUnl": "kraaibek",
+      "CNzh": "条石鲷",
+      "TWzh": "條石鯛",
+      "JPja": "イシダイ",
+      "KRko": "돌돔",
+      "EUru": "полосатый оплегнат"
+    }
+  },
+  {
+    "id": "Fish_02266",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea bass",
+      "EUen": "sea bass",
+      "EUde": "Seebarsch",
+      "EUes": "lubina",
+      "USes": "lubina",
+      "EUfr": "bar commun",
+      "USfr": "bar commun",
+      "EUit": "spigola",
+      "EUnl": "zeebaars",
+      "CNzh": "鲈鱼",
+      "TWzh": "鱸魚",
+      "JPja": "スズキ",
+      "KRko": "농어",
+      "EUru": "морской судак"
+    }
+  },
+  {
+    "id": "Fish_02267",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red snapper",
+      "EUen": "red snapper",
+      "EUde": "Kaiserschnapper",
+      "EUes": "pargo rojo",
+      "USes": "pargo rojo",
+      "EUfr": "vivaneau",
+      "USfr": "vivaneau",
+      "EUit": "lutiano rosso",
+      "EUnl": "rode snapper",
+      "CNzh": "鲷鱼",
+      "TWzh": "鯛魚",
+      "JPja": "タイ",
+      "KRko": "도미",
+      "EUru": "красный луциан"
+    }
+  },
+  {
+    "id": "Fish_02268",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dab",
+      "EUen": "dab",
+      "EUde": "Kliesche",
+      "EUes": "gallo",
+      "USes": "gallo",
+      "EUfr": "limande",
+      "USfr": "limande",
+      "EUit": "platessa",
+      "EUnl": "schar",
+      "CNzh": "鲽鱼",
+      "TWzh": "鰈魚",
+      "JPja": "カレイ",
+      "KRko": "가자미",
+      "EUru": "камбала"
+    }
+  },
+  {
+    "id": "Fish_02269",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "olive flounder",
+      "EUen": "olive flounder",
+      "EUde": "Flunder",
+      "EUes": "rodaballo",
+      "USes": "rodaballo",
+      "EUfr": "cardeau",
+      "USfr": "cardeau",
+      "EUit": "sogliola",
+      "EUnl": "bot",
+      "CNzh": "比目鱼",
+      "TWzh": "比目魚",
+      "JPja": "ヒラメ",
+      "KRko": "넙치",
+      "EUru": "ложный палтус"
+    }
+  },
+  {
+    "id": "Fish_02270",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "squid",
+      "EUen": "squid",
+      "EUde": "Kalmar",
+      "EUes": "calamar",
+      "USes": "calamar",
+      "EUfr": "calmar",
+      "USfr": "calmar",
+      "EUit": "calamaro",
+      "EUnl": "pijlinktvis",
+      "CNzh": "鱿鱼",
+      "TWzh": "魷魚",
+      "JPja": "イカ",
+      "KRko": "오징어",
+      "EUru": "кальмар"
+    }
+  },
+  {
+    "id": "Fish_02271",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "moray eel",
+      "EUen": "moray eel",
+      "EUde": "Muräne",
+      "EUes": "morena",
+      "USes": "morena",
+      "EUfr": "murène",
+      "USfr": "murène",
+      "EUit": "murena",
+      "EUnl": "murene",
+      "CNzh": "裸胸鳝",
+      "TWzh": "裸胸鱔",
+      "JPja": "ウツボ",
+      "KRko": "곰치",
+      "EUru": "мурена"
+    }
+  },
+  {
+    "id": "Fish_02272",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ribbon eel",
+      "EUen": "ribbon eel",
+      "EUde": "Nasenmuräne",
+      "EUes": "anguila de listón azul",
+      "USes": "anguila de listón azul",
+      "EUfr": "murène ruban bleue",
+      "USfr": "murène ruban bleue",
+      "EUit": "murena a nastro",
+      "EUnl": "lintmurene",
+      "CNzh": "五彩鳗",
+      "TWzh": "五彩鰻",
+      "JPja": "ハナヒゲウツボ",
+      "KRko": "리본장어",
+      "EUru": "носатая мурена"
+    }
+  },
+  {
+    "id": "Fish_02273",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "football fish",
+      "EUen": "football fish",
+      "EUde": "Anglerfisch",
+      "EUes": "pez balón",
+      "USes": "pez balón",
+      "EUfr": "poisson lanterne",
+      "USfr": "poisson-lanterne",
+      "EUit": "pesce abissale",
+      "EUnl": "voetbalvis",
+      "CNzh": "灯笼鱼",
+      "TWzh": "燈籠魚",
+      "JPja": "チョウチンアンコウ",
+      "KRko": "초롱아귀",
+      "EUru": "гимантолоф"
+    }
+  },
+  {
+    "id": "Fish_02274",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tuna",
+      "EUen": "tuna",
+      "EUde": "Thunfisch",
+      "EUes": "atún",
+      "USes": "atún",
+      "EUfr": "thon",
+      "USfr": "thon",
+      "EUit": "tonno",
+      "EUnl": "tonijn",
+      "CNzh": "鲔鱼",
+      "TWzh": "鮪魚",
+      "JPja": "マグロ",
+      "KRko": "다랑어",
+      "EUru": "тунец"
+    }
+  },
+  {
+    "id": "Fish_02275",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue marlin",
+      "EUen": "blue marlin",
+      "EUde": "Marlin",
+      "EUes": "pez espada",
+      "USes": "pez espada",
+      "EUfr": "marlin bleu",
+      "USfr": "marlin bleu",
+      "EUit": "marlin blu",
+      "EUnl": "blauwe marlijn",
+      "CNzh": "旗鱼",
+      "TWzh": "旗魚",
+      "JPja": "カジキ",
+      "KRko": "청새치",
+      "EUru": "голубой марлин"
+    }
+  },
+  {
+    "id": "Fish_02276",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant trevally",
+      "EUen": "giant trevally",
+      "EUde": "Stachelmakrele",
+      "EUes": "jurel gigante",
+      "USes": "jurel gigante",
+      "EUfr": "carangue grosse tête",
+      "USfr": "carangue grosse tête",
+      "EUit": "carango gigante",
+      "EUnl": "reuzenhorsmakreel",
+      "CNzh": "白面弄鱼",
+      "TWzh": "浪人鰺",
+      "JPja": "ロウニンアジ",
+      "KRko": "무명갈전갱이",
+      "EUru": "гигантский каранкс"
+    }
+  },
+  {
+    "id": "Fish_02277",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ray",
+      "EUen": "ray",
+      "EUde": "Rochen",
+      "EUes": "raya",
+      "USes": "raya",
+      "EUfr": "raie",
+      "USfr": "raie",
+      "EUit": "razza",
+      "EUnl": "rog",
+      "CNzh": "鳐鱼",
+      "TWzh": "魟魚",
+      "JPja": "エイ",
+      "KRko": "가오리",
+      "EUru": "красный хвостокол"
+    }
+  },
+  {
+    "id": "Fish_02278",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ocean sunfish",
+      "EUen": "ocean sunfish",
+      "EUde": "Mondfisch",
+      "EUes": "pez luna",
+      "USes": "pez luna",
+      "EUfr": "lune de mer",
+      "USfr": "poisson-lune",
+      "EUit": "pesce luna",
+      "EUnl": "klompvis",
+      "CNzh": "翻车鱼",
+      "TWzh": "翻車魚",
+      "JPja": "マンボウ",
+      "KRko": "개복치",
+      "EUru": "луна-рыба"
+    }
+  },
+  {
+    "id": "Fish_02279",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hammerhead shark",
+      "EUen": "hammerhead shark",
+      "EUde": "Hammerhai",
+      "EUes": "pez martillo",
+      "USes": "pez martillo",
+      "EUfr": "requin marteau",
+      "USfr": "requin-marteau",
+      "EUit": "pesce martello",
+      "EUnl": "hamerhaai",
+      "CNzh": "双髻鲨",
+      "TWzh": "雙髻鯊",
+      "JPja": "シュモクザメ",
+      "KRko": "귀상어",
+      "EUru": "рыба-молот"
+    }
+  },
+  {
+    "id": "Fish_02280",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "great white shark",
+      "EUen": "great white shark",
+      "EUde": "Hai",
+      "EUes": "tiburón",
+      "USes": "tiburón",
+      "EUfr": "grand requin blanc",
+      "USfr": "grand requin blanc",
+      "EUit": "squalo bianco",
+      "EUnl": "witte haai",
+      "CNzh": "鲨鱼",
+      "TWzh": "鯊魚",
+      "JPja": "サメ",
+      "KRko": "상어",
+      "EUru": "большая белая акула"
+    }
+  },
+  {
+    "id": "Fish_02281",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "saw shark",
+      "EUen": "saw shark",
+      "EUde": "Sägehai",
+      "EUes": "pez sierra",
+      "USes": "pez sierra",
+      "EUfr": "requin scie",
+      "USfr": "requin-scie",
+      "EUit": "squalo sega",
+      "EUnl": "zaaghaai",
+      "CNzh": "锯鲨",
+      "TWzh": "鋸鯊",
+      "JPja": "ノコギリザメ",
+      "KRko": "톱상어",
+      "EUru": "акула-пилонос"
+    }
+  },
+  {
+    "id": "Fish_02282",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "whale shark",
+      "EUen": "whale shark",
+      "EUde": "Walhai",
+      "EUes": "tiburón ballena",
+      "USes": "tiburón ballena",
+      "EUfr": "requin-baleine",
+      "USfr": "requin-baleine",
+      "EUit": "squalo balena",
+      "EUnl": "walvishaai",
+      "CNzh": "鲸鲨",
+      "TWzh": "鯨鯊",
+      "JPja": "ジンベエザメ",
+      "KRko": "고래상어",
+      "EUru": "китовая акула"
+    }
+  },
+  {
+    "id": "Fish_02283",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oarfish",
+      "EUen": "oarfish",
+      "EUde": "Riemenfisch",
+      "EUes": "pez remo",
+      "USes": "pez remo",
+      "EUfr": "poisson-ruban",
+      "USfr": "poisson-ruban",
+      "EUit": "pesce remo",
+      "EUnl": "riemvis",
+      "CNzh": "皇带鱼",
+      "TWzh": "皇帶魚",
+      "JPja": "リュウグウノツカイ",
+      "KRko": "산갈치",
+      "EUru": "сельдяной король"
+    }
+  },
+  {
+    "id": "Fish_02284",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coelacanth",
+      "EUen": "coelacanth",
+      "EUde": "Quastenflosser",
+      "EUes": "celacanto",
+      "USes": "celacanto",
+      "EUfr": "cœlacanthe",
+      "USfr": "cœlacanthe",
+      "EUit": "celacanto",
+      "EUnl": "coelacant",
+      "CNzh": "矛尾鱼",
+      "TWzh": "矛尾魚",
+      "JPja": "シーラカンス",
+      "KRko": "실러캔스",
+      "EUru": "латимерия"
+    }
+  },
+  {
+    "id": "Fish_04189",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sturgeon",
+      "EUen": "sturgeon",
+      "EUde": "Stör",
+      "EUes": "esturión",
+      "USes": "esturión",
+      "EUfr": "esturgeon",
+      "USfr": "esturgeon",
+      "EUit": "storione",
+      "EUnl": "steur",
+      "CNzh": "鲟鱼",
+      "TWzh": "鱘魚",
+      "JPja": "チョウザメ",
+      "KRko": "철갑상어",
+      "EUru": "осетр"
+    }
+  },
+  {
+    "id": "Fish_04190",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tilapia",
+      "EUen": "tilapia",
+      "EUde": "Tilapia",
+      "EUes": "tilapia",
+      "USes": "tilapia",
+      "EUfr": "tilapia",
+      "USfr": "tilapia",
+      "EUit": "tilapia",
+      "EUnl": "tilapia",
+      "CNzh": "吴郭鱼",
+      "TWzh": "吳郭魚",
+      "JPja": "ティラピア",
+      "KRko": "틸라피아",
+      "EUru": "тилапия"
+    }
+  },
+  {
+    "id": "Fish_04191",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "betta",
+      "EUen": "betta",
+      "EUde": "Kampffisch",
+      "EUes": "betta",
+      "USes": "betta",
+      "EUfr": "combattant",
+      "USfr": "combattant",
+      "EUit": "betta",
+      "EUnl": "Siamese kempvis",
+      "CNzh": "斗鱼",
+      "TWzh": "鬥魚",
+      "JPja": "ベタ",
+      "KRko": "베타",
+      "EUru": "сиамский петушок"
+    }
+  },
+  {
+    "id": "Fish_04192",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snapping turtle",
+      "EUen": "snapping turtle",
+      "EUde": "Schnappschildkröte",
+      "EUes": "tortuga mordedora",
+      "USes": "tortuga mordedora",
+      "EUfr": "tortue serpentine",
+      "USfr": "tortue serpentine",
+      "EUit": "tartaruga azzannatrice",
+      "EUnl": "bijtschildpad",
+      "CNzh": "拟鳄龟",
+      "TWzh": "擬鱷龜",
+      "JPja": "カミツキガメ",
+      "KRko": "늑대거북",
+      "EUru": "каймановая черепаха"
+    }
+  },
+  {
+    "id": "Fish_04193",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "golden trout",
+      "EUen": "golden trout",
+      "EUde": "Goldforelle",
+      "EUes": "trucha dorada",
+      "USes": "trucha dorada",
+      "EUfr": "truite dorée",
+      "USfr": "truite dorée",
+      "EUit": "trota dorata",
+      "EUnl": "goudforel",
+      "CNzh": "金鳟",
+      "TWzh": "金鱒",
+      "JPja": "ゴールデントラウト",
+      "KRko": "금송어",
+      "EUru": "золотая форель"
+    }
+  },
+  {
+    "id": "Fish_04194",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rainbowfish",
+      "EUen": "rainbowfish",
+      "EUde": "Regenbogenfisch",
+      "EUes": "pez arcoíris",
+      "USes": "pez arcoíris",
+      "EUfr": "poisson arc-en-ciel",
+      "USfr": "poisson-arc-en-ciel",
+      "EUit": "pesce arcobaleno",
+      "EUnl": "regenboogvis",
+      "CNzh": "彩虹鱼",
+      "TWzh": "彩虹魚",
+      "JPja": "レインボーフィッシュ",
+      "KRko": "레인보우피시",
+      "EUru": "радужница"
+    }
+  },
+  {
+    "id": "Fish_04201",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "anchovy",
+      "EUen": "anchovy",
+      "EUde": "Sardelle",
+      "EUes": "boquerón",
+      "USes": "boquerón",
+      "EUfr": "anchois",
+      "USfr": "anchois",
+      "EUit": "acciuga",
+      "EUnl": "ansjovis",
+      "CNzh": "凤尾鱼",
+      "TWzh": "鳳尾魚",
+      "JPja": "アンチョビ",
+      "KRko": "멸치",
+      "EUru": "хамса"
+    }
+  },
+  {
+    "id": "Fish_04202",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mahi-mahi",
+      "EUen": "mahi-mahi",
+      "EUde": "Goldmakrele",
+      "EUes": "lampuga",
+      "USes": "lampuga",
+      "EUfr": "coryphène",
+      "USfr": "mahi-mahi",
+      "EUit": "lampuga",
+      "EUnl": "goudmakreel",
+      "CNzh": "鬼头刀",
+      "TWzh": "鬼頭刀",
+      "JPja": "シイラ",
+      "KRko": "만새기",
+      "EUru": "корифена"
+    }
+  },
+  {
+    "id": "Fish_04203",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "suckerfish",
+      "EUen": "suckerfish",
+      "EUde": "Schiffshalter",
+      "EUes": "rémora",
+      "USes": "rémora",
+      "EUfr": "rémora rayé",
+      "USfr": "rémora rayé",
+      "EUit": "remora",
+      "EUnl": "zuigvis",
+      "CNzh": "吸盘鱼",
+      "TWzh": "吸盤魚",
+      "JPja": "コバンザメ",
+      "KRko": "빨판상어",
+      "EUru": "прилипала"
+    }
+  },
+  {
+    "id": "Fish_04204",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "barreleye",
+      "EUen": "barreleye",
+      "EUde": "Glaskopffisch",
+      "EUes": "pez cabeza transparente",
+      "USes": "pez cabeza transparente",
+      "EUfr": "macropinna",
+      "USfr": "revenant",
+      "EUit": "macropinna",
+      "EUnl": "hemelkijker",
+      "CNzh": "太平洋桶眼鱼",
+      "TWzh": "太平洋桶眼魚",
+      "JPja": "デメニギス",
+      "KRko": "데메니기스",
+      "EUru": "опистопрокт"
+    }
+  },
+  {
+    "id": "Fish_05254",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ranchu goldfish",
+      "EUen": "ranchu goldfish",
+      "EUde": "Ranchu",
+      "EUes": "ranchú",
+      "USes": "ranchú",
+      "EUfr": "ranchu",
+      "USfr": "ranchu",
+      "EUit": "ranchu",
+      "EUnl": "buffelrug",
+      "CNzh": "兰寿金鱼",
+      "TWzh": "蘭壽金魚",
+      "JPja": "ランチュウ",
+      "KRko": "난주",
+      "EUru": "ранчу"
+    }
+  }
+]

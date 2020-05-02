@@ -1,0 +1,1382 @@
+[
+  {
+    "id": "AutumnLeaf_07374",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "maple leaf",
+      "EUen": "maple leaf",
+      "EUde": "Herbstblatt",
+      "EUes": "hoja de arce",
+      "USes": "hoja de arce",
+      "EUfr": "feuille d'érable",
+      "USfr": "feuille d'érable",
+      "EUit": "foglia d'acero",
+      "EUnl": "esdoornblad",
+      "CNzh": "红叶",
+      "TWzh": "楓葉",
+      "JPja": "もみじのはっぱ",
+      "KRko": "단풍잎",
+      "EUru": "кленовый лист"
+    }
+  },
+  {
+    "id": "AutumnLeaf_07374_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "maple leaves",
+      "EUen": "maple leaves",
+      "EUde": "Herbstblätter",
+      "EUes": "hojas de arce",
+      "USes": "hojas de arce",
+      "EUfr": "feuilles d'érable",
+      "USfr": "feuilles d'érable",
+      "EUit": "foglie d'acero",
+      "EUnl": "esdoornbladeren",
+      "CNzh": "红叶",
+      "TWzh": "楓葉",
+      "JPja": "もみじのはっぱ",
+      "KRko": "단풍잎",
+      "EUru": "кленовые листья"
+    }
+  },
+  {
+    "id": "CraftMaterial_02500",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tree branch",
+      "EUen": "tree branch",
+      "EUde": "Ast",
+      "EUes": "rama",
+      "USes": "rama",
+      "EUfr": "branche d'arbre",
+      "USfr": "branche d'arbre",
+      "EUit": "ramo",
+      "EUnl": "tak",
+      "CNzh": "树枝",
+      "TWzh": "樹枝",
+      "JPja": "きのえだ",
+      "KRko": "나뭇가지",
+      "EUru": "ветка"
+    }
+  },
+  {
+    "id": "CraftMaterial_02500_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tree branches",
+      "EUen": "tree branches",
+      "EUde": "Äste",
+      "EUes": "ramas",
+      "USes": "ramas",
+      "EUfr": "branches d'arbre",
+      "USfr": "branches d'arbre",
+      "EUit": "rami",
+      "EUnl": "takken",
+      "CNzh": "树枝",
+      "TWzh": "樹枝",
+      "JPja": "きのえだ",
+      "KRko": "나뭇가지",
+      "EUru": "ветки"
+    }
+  },
+  {
+    "id": "CraftMaterial_02501",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo piece",
+      "EUen": "bamboo piece",
+      "EUde": "Bambus",
+      "EUes": "tallo de bambú",
+      "USes": "tallo de bambú",
+      "EUfr": "morceau de bambou",
+      "USfr": "morceau de bambou",
+      "EUit": "pezzo di bambù",
+      "EUnl": "bamboestok",
+      "CNzh": "竹子材料",
+      "TWzh": "竹子材料",
+      "JPja": "バンブー",
+      "KRko": "대나무 토막",
+      "EUru": "часть бамбука"
+    }
+  },
+  {
+    "id": "CraftMaterial_02501_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo pieces",
+      "EUen": "bamboo pieces",
+      "EUde": "Bambus",
+      "EUes": "tallos de bambú",
+      "USes": "tallos de bambú",
+      "EUfr": "morceaux de bambou",
+      "USfr": "morceaux de bambou",
+      "EUit": "pezzi di bambù",
+      "EUnl": "bamboestokken",
+      "CNzh": "竹子材料",
+      "TWzh": "竹子材料",
+      "JPja": "バンブー",
+      "KRko": "대나무 토막",
+      "EUru": "части бамбука"
+    }
+  },
+  {
+    "id": "CraftMaterial_02767",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "softwood",
+      "EUen": "softwood",
+      "EUde": "Weichholz",
+      "EUes": "tabla flexible",
+      "USes": "tabla flexible",
+      "EUfr": "bois tendre",
+      "USfr": "bois tendre",
+      "EUit": "legno morbido",
+      "EUnl": "zachthout",
+      "CNzh": "软木材",
+      "TWzh": "軟木材",
+      "JPja": "やわらかいもくざい",
+      "KRko": "부드러운 목재",
+      "EUru": "мягкая древесина"
+    }
+  },
+  {
+    "id": "CraftMaterial_02767_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "softwood",
+      "EUen": "softwood",
+      "EUde": "Weichholz",
+      "EUes": "tablas flexibles",
+      "USes": "tablas flexibles",
+      "EUfr": "bois tendre",
+      "USfr": "bois tendre",
+      "EUit": "legna morbida",
+      "EUnl": "zachthout",
+      "CNzh": "软木材",
+      "TWzh": "軟木材",
+      "JPja": "やわらかいもくざい",
+      "KRko": "부드러운 목재",
+      "EUru": "мягкая древесина"
+    }
+  },
+  {
+    "id": "CraftMaterial_02768",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wood",
+      "EUen": "wood",
+      "EUde": "Holz",
+      "EUes": "tabla normal",
+      "USes": "tabla normal",
+      "EUfr": "bois",
+      "USfr": "bois",
+      "EUit": "legno normale",
+      "EUnl": "hout",
+      "CNzh": "木材",
+      "TWzh": "木材",
+      "JPja": "もくざい",
+      "KRko": "목재",
+      "EUru": "древесина"
+    }
+  },
+  {
+    "id": "CraftMaterial_02768_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wood",
+      "EUen": "wood",
+      "EUde": "Holz",
+      "EUes": "tablas normales",
+      "USes": "tablas normales",
+      "EUfr": "bois",
+      "USfr": "bois",
+      "EUit": "legna normale",
+      "EUnl": "hout",
+      "CNzh": "木材",
+      "TWzh": "木材",
+      "JPja": "もくざい",
+      "KRko": "목재",
+      "EUru": "древесина"
+    }
+  },
+  {
+    "id": "CraftMaterial_02769",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hardwood",
+      "EUen": "hardwood",
+      "EUde": "Hartholz",
+      "EUes": "tabla rígida",
+      "USes": "tabla rígida",
+      "EUfr": "bois dur",
+      "USfr": "bois dur",
+      "EUit": "legno duro",
+      "EUnl": "hardhout",
+      "CNzh": "硬木材",
+      "TWzh": "硬木材",
+      "JPja": "かたいもくざい",
+      "KRko": "단단한 목재",
+      "EUru": "твердая древесина"
+    }
+  },
+  {
+    "id": "CraftMaterial_02769_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hardwood",
+      "EUen": "hardwood",
+      "EUde": "Hartholz",
+      "EUes": "tablas rígidas",
+      "USes": "tablas rígidas",
+      "EUfr": "bois dur",
+      "USfr": "bois dur",
+      "EUit": "legna dura",
+      "EUnl": "hardhout",
+      "CNzh": "硬木材",
+      "TWzh": "硬木材",
+      "JPja": "かたいもくざい",
+      "KRko": "단단한 목재",
+      "EUru": "твердая древесина"
+    }
+  },
+  {
+    "id": "CraftMaterial_05727",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "acorn",
+      "EUen": "acorn",
+      "EUde": "Eichel",
+      "EUes": "bellota",
+      "USes": "bellota",
+      "EUfr": "gland",
+      "USfr": "gland",
+      "EUit": "ghianda",
+      "EUnl": "eikel",
+      "CNzh": "橡栗",
+      "TWzh": "橡栗",
+      "JPja": "どんぐり",
+      "KRko": "도토리",
+      "EUru": "желудь"
+    }
+  },
+  {
+    "id": "CraftMaterial_05727_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "acorns",
+      "EUen": "acorns",
+      "EUde": "Eicheln",
+      "EUes": "bellotas",
+      "USes": "bellotas",
+      "EUfr": "glands",
+      "USfr": "glands",
+      "EUit": "ghiande",
+      "EUnl": "eikels",
+      "CNzh": "橡栗",
+      "TWzh": "橡栗",
+      "JPja": "どんぐり",
+      "KRko": "도토리",
+      "EUru": "желуди"
+    }
+  },
+  {
+    "id": "CraftMaterial_05728",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pine cone",
+      "EUen": "pine cone",
+      "EUde": "Zapfen",
+      "EUes": "piña",
+      "USes": "piña",
+      "EUfr": "pomme de pin",
+      "USfr": "pomme de pin",
+      "EUit": "pigna",
+      "EUnl": "dennenappel",
+      "CNzh": "松果",
+      "TWzh": "松果",
+      "JPja": "まつぼっくり",
+      "KRko": "솔방울",
+      "EUru": "шишка"
+    }
+  },
+  {
+    "id": "CraftMaterial_05728_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pine cones",
+      "EUen": "pine cones",
+      "EUde": "Zapfen",
+      "EUes": "piñas",
+      "USes": "piñas",
+      "EUfr": "pommes de pin",
+      "USfr": "pommes de pin",
+      "EUit": "pigne",
+      "EUnl": "dennenappels",
+      "CNzh": "松果",
+      "TWzh": "松果",
+      "JPja": "まつぼっくり",
+      "KRko": "솔방울",
+      "EUru": "шишки"
+    }
+  },
+  {
+    "id": "CraftMaterial_05729",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "young spring bamboo",
+      "EUen": "young spring bamboo",
+      "EUde": "Frühlingsbambus",
+      "EUes": "tallo de bambú primaveral",
+      "USes": "tallo de bambú primaveral",
+      "EUfr": "jeune bambou printemps",
+      "USfr": "jeune bambou printemps",
+      "EUit": "bambù giovane primavera",
+      "EUnl": "jonge lentebamboe",
+      "CNzh": "春笋",
+      "TWzh": "春筍",
+      "JPja": "はるのわかたけ",
+      "KRko": "봄의 대나무",
+      "EUru": "весенний бамбук"
+    }
+  },
+  {
+    "id": "CraftMaterial_05729_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "young spring bamboo",
+      "EUen": "young spring bamboo",
+      "EUde": "Frühlingsbambus",
+      "EUes": "tallos de bambú primaveral",
+      "USes": "tallos de bambú primaveral",
+      "EUfr": "jeunes bambous printemps",
+      "USfr": "jeunes bambous printemps",
+      "EUit": "bambù giovani primavera",
+      "EUnl": "jonge lentebamboe",
+      "CNzh": "春笋",
+      "TWzh": "春筍",
+      "JPja": "はるのわかたけ",
+      "KRko": "봄의 대나무",
+      "EUru": "весенний бамбук"
+    }
+  },
+  {
+    "id": "CraftMaterial_05730",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red ornament",
+      "EUen": "red ornament",
+      "EUde": "Rotschmuck",
+      "EUes": "adorno rojo",
+      "USes": "adorno rojo",
+      "EUfr": "boule rouge",
+      "USfr": "boule rouge",
+      "EUit": "decorazione rossa",
+      "EUnl": "rode versiering",
+      "CNzh": "红色装饰品",
+      "TWzh": "紅色裝飾品",
+      "JPja": "あかいオーナメント",
+      "KRko": "빨간 오너먼트",
+      "EUru": "красное украшение"
+    }
+  },
+  {
+    "id": "CraftMaterial_05730_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red ornaments",
+      "EUen": "red ornaments",
+      "EUde": "Rotschmuck",
+      "EUes": "adornos rojos",
+      "USes": "adornos rojos",
+      "EUfr": "boules rouges",
+      "USfr": "boules rouges",
+      "EUit": "decorazioni rosse",
+      "EUnl": "rode versieringen",
+      "CNzh": "红色装饰品",
+      "TWzh": "紅色裝飾品",
+      "JPja": "あかいオーナメント",
+      "KRko": "빨간 오너먼트",
+      "EUru": "красные украшения"
+    }
+  },
+  {
+    "id": "CraftMaterial_05731",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue ornament",
+      "EUen": "blue ornament",
+      "EUde": "Blauschmuck",
+      "EUes": "adorno azul",
+      "USes": "adorno azul",
+      "EUfr": "boule bleue",
+      "USfr": "boule bleue",
+      "EUit": "decorazione blu",
+      "EUnl": "blauwe versiering",
+      "CNzh": "蓝色装饰品",
+      "TWzh": "藍色裝飾品",
+      "JPja": "あおいオーナメント",
+      "KRko": "파란 오너먼트",
+      "EUru": "синее украшение"
+    }
+  },
+  {
+    "id": "CraftMaterial_05731_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue ornaments",
+      "EUen": "blue ornaments",
+      "EUde": "Blauschmuck",
+      "EUes": "adornos azules",
+      "USes": "adornos azules",
+      "EUfr": "boules bleues",
+      "USfr": "boules bleues",
+      "EUit": "decorazioni blu",
+      "EUnl": "blauwe versieringen",
+      "CNzh": "蓝色装饰品",
+      "TWzh": "藍色裝飾品",
+      "JPja": "あおいオーナメント",
+      "KRko": "파란 오너먼트",
+      "EUru": "синие украшения"
+    }
+  },
+  {
+    "id": "CraftMaterial_05732",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold ornament",
+      "EUen": "gold ornament",
+      "EUde": "Goldschmuck",
+      "EUes": "adorno dorado",
+      "USes": "adorno dorado",
+      "EUfr": "boule dorée",
+      "USfr": "boule dorée",
+      "EUit": "decorazione dorata",
+      "EUnl": "gouden versiering",
+      "CNzh": "金色装饰品",
+      "TWzh": "金色裝飾品",
+      "JPja": "きんのオーナメント",
+      "KRko": "금 오너먼트",
+      "EUru": "золотое украшение"
+    }
+  },
+  {
+    "id": "CraftMaterial_05732_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold ornaments",
+      "EUen": "gold ornaments",
+      "EUde": "Goldschmuck",
+      "EUes": "adornos dorados",
+      "USes": "adornos dorados",
+      "EUfr": "boules dorées",
+      "USfr": "boules dorées",
+      "EUit": "decorazioni dorate",
+      "EUnl": "gouden versieringen",
+      "CNzh": "金色装饰品",
+      "TWzh": "金色裝飾品",
+      "JPja": "きんのオーナメント",
+      "KRko": "금 오너먼트",
+      "EUru": "золотые украшения"
+    }
+  },
+  {
+    "id": "CraftPhoneCase_08760",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "customizable phone case kit",
+      "EUen": "customizable phone case kit",
+      "EUde": "NookPhone-Gestaltungskit",
+      "EUes": "funda móvil personalizable",
+      "USes": "kit de funda personalizable",
+      "EUfr": "kit coque personnalisable",
+      "USfr": "kit coque personnalisable",
+      "EUit": "kit personaliz. Nook Phone",
+      "EUnl": "NookPhone-hoesje",
+      "CNzh": "手机壳改造工具组",
+      "TWzh": "手機殼改造工具組",
+      "JPja": "スマホケースリメイクキット",
+      "KRko": "스마트폰 케이스 리폼 키트",
+      "EUru": "набор: переделка чехла"
+    }
+  },
+  {
+    "id": "CraftRemake_02513",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "customization kit",
+      "EUen": "customization kit",
+      "EUde": "Umgestaltungsset",
+      "EUes": "kit de personalización",
+      "USes": "kit de personalización",
+      "EUfr": "kit de personnalisation",
+      "USfr": "kit de personnalisation",
+      "EUit": "kit di personalizzazione",
+      "EUnl": "aanpassingspakket",
+      "CNzh": "改造工具组",
+      "TWzh": "改造工具組",
+      "JPja": "リメイクキット",
+      "KRko": "리폼 키트",
+      "EUru": "набор для переделки"
+    }
+  },
+  {
+    "id": "CraftRemake_02513_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "customization kits",
+      "EUen": "customization kits",
+      "EUde": "Umgestaltungssets",
+      "EUes": "kits de personalización",
+      "USes": "kits de personalización",
+      "EUfr": "kits de personnalisation",
+      "USfr": "kits de personnalisation",
+      "EUit": "kit di personalizzazione",
+      "EUnl": "aanpassingspakketten",
+      "CNzh": "改造工具组",
+      "TWzh": "改造工具組",
+      "JPja": "リメイクキット",
+      "KRko": "리폼 키트",
+      "EUru": "наборы для переделки"
+    }
+  },
+  {
+    "id": "Ore_02502",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stone",
+      "EUen": "stone",
+      "EUde": "Stein",
+      "EUes": "piedra",
+      "USes": "piedra",
+      "EUfr": "pierre",
+      "USfr": "pierre",
+      "EUit": "pietra",
+      "EUnl": "steen",
+      "CNzh": "石头",
+      "TWzh": "石頭",
+      "JPja": "いし",
+      "KRko": "돌",
+      "EUru": "камень"
+    }
+  },
+  {
+    "id": "Ore_02502_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stones",
+      "EUen": "stones",
+      "EUde": "Steine",
+      "EUes": "piedras",
+      "USes": "piedras",
+      "EUfr": "pierres",
+      "USfr": "pierres",
+      "EUit": "pietre",
+      "EUnl": "stenen",
+      "CNzh": "石头",
+      "TWzh": "石頭",
+      "JPja": "いし",
+      "KRko": "돌",
+      "EUru": "камни"
+    }
+  },
+  {
+    "id": "Ore_02505",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold nugget",
+      "EUen": "gold nugget",
+      "EUde": "Golderz",
+      "EUes": "pepita de oro",
+      "USes": "pepita de oro",
+      "EUfr": "pépite d'or",
+      "USfr": "pépite d'or",
+      "EUit": "minerale d'oro",
+      "EUnl": "goudklompje",
+      "CNzh": "金矿石",
+      "TWzh": "金礦石",
+      "JPja": "きんこうせき",
+      "KRko": "금광석",
+      "EUru": "золотой самородок"
+    }
+  },
+  {
+    "id": "Ore_02505_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold nuggets",
+      "EUen": "gold nuggets",
+      "EUde": "Golderz",
+      "EUes": "pepitas de oro",
+      "USes": "pepitas de oro",
+      "EUfr": "pépites d'or",
+      "USfr": "pépites d'or",
+      "EUit": "minerali d'oro",
+      "EUnl": "goudklompjes",
+      "CNzh": "金矿石",
+      "TWzh": "金礦石",
+      "JPja": "きんこうせき",
+      "KRko": "금광석",
+      "EUru": "золотые самородки"
+    }
+  },
+  {
+    "id": "Ore_02511",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iron nugget",
+      "EUen": "iron nugget",
+      "EUde": "Eisenerz",
+      "EUes": "pepita de hierro",
+      "USes": "pepita de hierro",
+      "EUfr": "pépite de fer",
+      "USfr": "pépite de fer",
+      "EUit": "minerale di ferro",
+      "EUnl": "ijzerklompje",
+      "CNzh": "铁矿石",
+      "TWzh": "鐵礦石",
+      "JPja": "てっこうせき",
+      "KRko": "철광석",
+      "EUru": "железный самородок"
+    }
+  },
+  {
+    "id": "Ore_02511_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iron nuggets",
+      "EUen": "iron nuggets",
+      "EUde": "Eisenerz",
+      "EUes": "pepitas de hierro",
+      "USes": "pepitas de hierro",
+      "EUfr": "pépites de fer",
+      "USfr": "pépites de fer",
+      "EUit": "minerali di ferro",
+      "EUnl": "ijzerklompjes",
+      "CNzh": "铁矿石",
+      "TWzh": "鐵礦石",
+      "JPja": "てっこうせき",
+      "KRko": "철광석",
+      "EUru": "железные самородки"
+    }
+  },
+  {
+    "id": "Ore_03090",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "clay",
+      "EUen": "clay",
+      "EUde": "Lehm",
+      "EUes": "bola de arcilla",
+      "USes": "bola de arcilla",
+      "EUfr": "argile",
+      "USfr": "argile",
+      "EUit": "pezzo di argilla",
+      "EUnl": "kleihomp",
+      "CNzh": "黏土",
+      "TWzh": "黏土",
+      "JPja": "ねんど",
+      "KRko": "점토",
+      "EUru": "кусок глины"
+    }
+  },
+  {
+    "id": "Ore_03090_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "clay",
+      "EUen": "clay",
+      "EUde": "Lehm",
+      "EUes": "bolas de arcilla",
+      "USes": "bolas de arcilla",
+      "EUfr": "argile",
+      "USfr": "argile",
+      "EUit": "pezzi di argilla",
+      "EUnl": "kleihompen",
+      "CNzh": "黏土",
+      "TWzh": "黏土",
+      "JPja": "ねんど",
+      "KRko": "점토",
+      "EUru": "куски глины"
+    }
+  },
+  {
+    "id": "Sakurapetal_05859",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry-blossom petal",
+      "EUen": "cherry-blossom petal",
+      "EUde": "Kirschblüte",
+      "EUes": "pétalo de cerezo",
+      "USes": "pétalo de cerezo",
+      "EUfr": "pétale de cerisier",
+      "USfr": "pétale de cerisier",
+      "EUit": "petalo di ciliegio",
+      "EUnl": "kersenbloesemblaadje",
+      "CNzh": "樱花花瓣",
+      "TWzh": "櫻花花瓣",
+      "JPja": "さくらのはなびら",
+      "KRko": "벚꽃잎",
+      "EUru": "лепесток вишни"
+    }
+  },
+  {
+    "id": "Sakurapetal_05859_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry-blossom petals",
+      "EUen": "cherry-blossom petals",
+      "EUde": "Kirschblüten",
+      "EUes": "pétalos de cerezo",
+      "USes": "pétalos de cerezo",
+      "EUfr": "pétales de cerisier",
+      "USfr": "pétales de cerisier",
+      "EUit": "petali di ciliegio",
+      "EUnl": "kersenbloesemblaadjes",
+      "CNzh": "樱花花瓣",
+      "TWzh": "櫻花花瓣",
+      "JPja": "さくらのはなびら",
+      "KRko": "벚꽃잎",
+      "EUru": "лепестки вишни"
+    }
+  },
+  {
+    "id": "SnowCrystal_03539",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflake",
+      "EUen": "snowflake",
+      "EUde": "Schneeflocke",
+      "EUes": "copo de nieve",
+      "USes": "copo de nieve",
+      "EUfr": "flocon de neige",
+      "USfr": "flocon de neige",
+      "EUit": "fiocco di neve",
+      "EUnl": "sneeuwvlok",
+      "CNzh": "雪花",
+      "TWzh": "雪花",
+      "JPja": "ゆきのけっしょう",
+      "KRko": "눈의 결정",
+      "EUru": "снежинка"
+    }
+  },
+  {
+    "id": "SnowCrystal_03539_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflakes",
+      "EUen": "snowflakes",
+      "EUde": "Schneeflocken",
+      "EUes": "copos de nieve",
+      "USes": "copos de nieve",
+      "EUfr": "flocons de neige",
+      "USfr": "flocons de neige",
+      "EUit": "fiocchi di neve",
+      "EUnl": "sneeuwvlokken",
+      "CNzh": "雪花",
+      "TWzh": "雪花",
+      "JPja": "ゆきのけっしょう",
+      "KRko": "눈의 결정",
+      "EUru": "снежинки"
+    }
+  },
+  {
+    "id": "SnowCrystal_03540",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "large snowflake",
+      "EUen": "large snowflake",
+      "EUde": "Riesenschneeflocke",
+      "EUes": "copo de nieve XL",
+      "USes": "copo de nieve XL",
+      "EUfr": "grand flocon de neige",
+      "USfr": "grand flocon de neige",
+      "EUit": "fiocco di neve grande",
+      "EUnl": "grote sneeuwvlok",
+      "CNzh": "大雪花",
+      "TWzh": "大雪花",
+      "JPja": "ゆきのだいけっしょう",
+      "KRko": "커다란 눈의 결정",
+      "EUru": "крупная снежинка"
+    }
+  },
+  {
+    "id": "SnowCrystal_03540_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "large snowflakes",
+      "EUen": "large snowflakes",
+      "EUde": "Riesenschneeflocken",
+      "EUes": "copos de nieve XL",
+      "USes": "copos de nieve XL",
+      "EUfr": "grands flocons de neige",
+      "USfr": "grands flocons de neige",
+      "EUit": "fiocchi di neve grandi",
+      "EUnl": "grote sneeuwvlokken",
+      "CNzh": "大雪花",
+      "TWzh": "大雪花",
+      "JPja": "ゆきのだいけっしょう",
+      "KRko": "커다란 눈의 결정",
+      "EUru": "крупные снежинки"
+    }
+  },
+  {
+    "id": "StarPiece_05983",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "star fragment",
+      "EUen": "star fragment",
+      "EUde": "Sternensplitter",
+      "EUes": "fragmento de estrella",
+      "USes": "fragmento de estrella",
+      "EUfr": "fragment d'étoile",
+      "USfr": "fragment d'étoile",
+      "EUit": "frammento di stella",
+      "EUnl": "sterrenfragment",
+      "CNzh": "星星碎片",
+      "TWzh": "星星碎片",
+      "JPja": "ほしのかけら",
+      "KRko": "별의 조각",
+      "EUru": "осколок звезды"
+    }
+  },
+  {
+    "id": "StarPiece_05983_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "star fragments",
+      "EUen": "star fragments",
+      "EUde": "Sternensplitter",
+      "EUes": "fragmentos de estrella",
+      "USes": "fragmentos de estrella",
+      "EUfr": "fragments d'étoile",
+      "USfr": "fragments d'étoile",
+      "EUit": "frammenti di stella",
+      "EUnl": "sterrenfragmenten",
+      "CNzh": "星星碎片",
+      "TWzh": "星星碎片",
+      "JPja": "ほしのかけら",
+      "KRko": "별의 조각",
+      "EUru": "осколки звезды"
+    }
+  },
+  {
+    "id": "StarPiece_05984",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "large star fragment",
+      "EUen": "large star fragment",
+      "EUde": "Riesensternensplitter",
+      "EUes": "fragmento de estrella XL",
+      "USes": "fragmento de estrella XL",
+      "EUfr": "fragment de grande étoile",
+      "USfr": "fragment de grande étoile",
+      "EUit": "frammento di stella grande",
+      "EUnl": "grote sterrenfragment",
+      "CNzh": "大星星碎片",
+      "TWzh": "大星星碎片",
+      "JPja": "おおきなほしのかけら",
+      "KRko": "커다란 별의 조각",
+      "EUru": "крупный осколок звезды"
+    }
+  },
+  {
+    "id": "StarPiece_05984_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "large star fragments",
+      "EUen": "large star fragments",
+      "EUde": "Riesensternensplitter",
+      "EUes": "fragmentos de estrella XL",
+      "USes": "fragmentos de estrella XL",
+      "EUfr": "fragments de grande étoile",
+      "USfr": "fragments de grande étoile",
+      "EUit": "frammenti di stella grandi",
+      "EUnl": "grote sterrenfragmenten",
+      "CNzh": "大星星碎片",
+      "TWzh": "大星星碎片",
+      "JPja": "おおきなほしのかけら",
+      "KRko": "커다란 별의 조각",
+      "EUru": "крупные осколки звезды"
+    }
+  },
+  {
+    "id": "StarPiece_05985",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Capricorn fragment",
+      "EUen": "Capricorn fragment",
+      "EUde": "Steinbock-Splitter",
+      "EUes": "fragmento de Capricornio",
+      "USes": "fragmento de Capricornio",
+      "EUfr": "fragment de Capricorne",
+      "USfr": "fragment de Capricorne",
+      "EUit": "frammento di Capricorno",
+      "EUnl": "Steenbokfragment",
+      "CNzh": "摩羯座碎片",
+      "TWzh": "摩羯座碎片",
+      "JPja": "やぎざのかけら",
+      "KRko": "염소자리 조각",
+      "EUru": "фрагмент Козерога"
+    }
+  },
+  {
+    "id": "StarPiece_05985_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Capricorn fragments",
+      "EUen": "Capricorn fragments",
+      "EUde": "Steinbock-Splitter",
+      "EUes": "fragmentos de Capricornio",
+      "USes": "fragmentos de Capricornio",
+      "EUfr": "fragments de Capricorne",
+      "USfr": "fragments de Capricorne",
+      "EUit": "frammenti di Capricorno",
+      "EUnl": "Steenbokfragmenten",
+      "CNzh": "摩羯座碎片",
+      "TWzh": "摩羯座碎片",
+      "JPja": "やぎざのかけら",
+      "KRko": "염소자리 조각",
+      "EUru": "фрагменты Козерога"
+    }
+  },
+  {
+    "id": "StarPiece_05986",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aquarius fragment",
+      "EUen": "Aquarius fragment",
+      "EUde": "Wassermann-Splitter",
+      "EUes": "fragmento de Acuario",
+      "USes": "fragmento de Acuario",
+      "EUfr": "fragment de Verseau",
+      "USfr": "fragment de Verseau",
+      "EUit": "frammento di Acquario",
+      "EUnl": "Watermanfragment",
+      "CNzh": "水瓶座碎片",
+      "TWzh": "水瓶座碎片",
+      "JPja": "みずがめざのかけら",
+      "KRko": "물병자리 조각",
+      "EUru": "фрагмент Водолея"
+    }
+  },
+  {
+    "id": "StarPiece_05986_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aquarius fragments",
+      "EUen": "Aquarius fragments",
+      "EUde": "Wassermann-Splitter",
+      "EUes": "fragmentos de Acuario",
+      "USes": "fragmentos de Acuario",
+      "EUfr": "fragments de Verseau",
+      "USfr": "fragments de Verseau",
+      "EUit": "frammenti di Acquario",
+      "EUnl": "Watermanfragmenten",
+      "CNzh": "水瓶座碎片",
+      "TWzh": "水瓶座碎片",
+      "JPja": "みずがめざのかけら",
+      "KRko": "물병자리 조각",
+      "EUru": "фрагменты Водолея"
+    }
+  },
+  {
+    "id": "StarPiece_05987",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pisces fragment",
+      "EUen": "Pisces fragment",
+      "EUde": "Fische-Splitter",
+      "EUes": "fragmento de Piscis",
+      "USes": "fragmento de Piscis",
+      "EUfr": "fragment de Poissons",
+      "USfr": "fragment de Poissons",
+      "EUit": "frammento di Pesci",
+      "EUnl": "Vissenfragment",
+      "CNzh": "双鱼座碎片",
+      "TWzh": "雙魚座碎片",
+      "JPja": "うおざのかけら",
+      "KRko": "물고기자리 조각",
+      "EUru": "фрагмент Рыб"
+    }
+  },
+  {
+    "id": "StarPiece_05987_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pisces fragments",
+      "EUen": "Pisces fragments",
+      "EUde": "Fische-Splitter",
+      "EUes": "fragmentos de Piscis",
+      "USes": "fragmentos de Piscis",
+      "EUfr": "fragments de Poissons",
+      "USfr": "fragments de Poissons",
+      "EUit": "frammenti di Pesci",
+      "EUnl": "Vissenfragmenten",
+      "CNzh": "双鱼座碎片",
+      "TWzh": "雙魚座碎片",
+      "JPja": "うおざのかけら",
+      "KRko": "물고기자리 조각",
+      "EUru": "фрагменты Рыб"
+    }
+  },
+  {
+    "id": "StarPiece_05988",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aries fragment",
+      "EUen": "Aries fragment",
+      "EUde": "Widder-Splitter",
+      "EUes": "fragmento de Aries",
+      "USes": "fragmento de Aries",
+      "EUfr": "fragment de Bélier",
+      "USfr": "fragment de Bélier",
+      "EUit": "frammento di Ariete",
+      "EUnl": "Ramfragment",
+      "CNzh": "白羊座碎片",
+      "TWzh": "牡羊座碎片",
+      "JPja": "おひつじざのかけら",
+      "KRko": "양자리 조각",
+      "EUru": "фрагмент Овна"
+    }
+  },
+  {
+    "id": "StarPiece_05988_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aries fragments",
+      "EUen": "Aries fragments",
+      "EUde": "Widder-Splitter",
+      "EUes": "fragmentos de Aries",
+      "USes": "fragmentos de Aries",
+      "EUfr": "fragments de Bélier",
+      "USfr": "fragments de Bélier",
+      "EUit": "frammenti di Ariete",
+      "EUnl": "Ramfragmenten",
+      "CNzh": "白羊座碎片",
+      "TWzh": "牡羊座碎片",
+      "JPja": "おひつじざのかけら",
+      "KRko": "양자리 조각",
+      "EUru": "фрагменты Овна"
+    }
+  },
+  {
+    "id": "StarPiece_05989",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Taurus fragment",
+      "EUen": "Taurus fragment",
+      "EUde": "Stier-Splitter",
+      "EUes": "fragmento de Tauro",
+      "USes": "fragmento de Tauro",
+      "EUfr": "fragment de Taureau",
+      "USfr": "fragment de Taureau",
+      "EUit": "frammento di Toro",
+      "EUnl": "Stierfragment",
+      "CNzh": "金牛座碎片",
+      "TWzh": "金牛座碎片",
+      "JPja": "おうしざのかけら",
+      "KRko": "황소자리 조각",
+      "EUru": "фрагмент Тельца"
+    }
+  },
+  {
+    "id": "StarPiece_05989_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Taurus fragments",
+      "EUen": "Taurus fragments",
+      "EUde": "Stier-Splitter",
+      "EUes": "fragmentos de Tauro",
+      "USes": "fragmentos de Tauro",
+      "EUfr": "fragments de Taureau",
+      "USfr": "fragments de Taureau",
+      "EUit": "frammenti di Toro",
+      "EUnl": "Stierfragmenten",
+      "CNzh": "金牛座碎片",
+      "TWzh": "金牛座碎片",
+      "JPja": "おうしざのかけら",
+      "KRko": "황소자리 조각",
+      "EUru": "фрагменты Тельца"
+    }
+  },
+  {
+    "id": "StarPiece_05990",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gemini fragment",
+      "EUen": "Gemini fragment",
+      "EUde": "Zwillinge-Splitter",
+      "EUes": "fragmento de Géminis",
+      "USes": "fragmento de Géminis",
+      "EUfr": "fragment de Gémeaux",
+      "USfr": "fragment de Gémeaux",
+      "EUit": "frammento di Gemelli",
+      "EUnl": "Tweelingenfragment",
+      "CNzh": "双子座碎片",
+      "TWzh": "雙子座碎片",
+      "JPja": "ふたござのかけら",
+      "KRko": "쌍둥이자리 조각",
+      "EUru": "фрагмент Близнецов"
+    }
+  },
+  {
+    "id": "StarPiece_05990_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Gemini fragments",
+      "EUen": "Gemini fragments",
+      "EUde": "Zwillinge-Splitter",
+      "EUes": "fragmentos de Géminis",
+      "USes": "fragmentos de Géminis",
+      "EUfr": "fragments de Gémeaux",
+      "USfr": "fragments de Gémeaux",
+      "EUit": "frammenti di Gemelli",
+      "EUnl": "Tweelingenfragmenten",
+      "CNzh": "双子座碎片",
+      "TWzh": "雙子座碎片",
+      "JPja": "ふたござのかけら",
+      "KRko": "쌍둥이자리 조각",
+      "EUru": "фрагменты Близнецов"
+    }
+  },
+  {
+    "id": "StarPiece_05991",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cancer fragment",
+      "EUen": "Cancer fragment",
+      "EUde": "Krebs-Splitter",
+      "EUes": "fragmento de Cáncer",
+      "USes": "fragmento de Cáncer",
+      "EUfr": "fragment de Cancer",
+      "USfr": "fragment de Cancer",
+      "EUit": "frammento di Cancro",
+      "EUnl": "Kreeftfragment",
+      "CNzh": "巨蟹座碎片",
+      "TWzh": "巨蟹座碎片",
+      "JPja": "かにざのかけら",
+      "KRko": "게자리 조각",
+      "EUru": "фрагмент Рака"
+    }
+  },
+  {
+    "id": "StarPiece_05991_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Cancer fragments",
+      "EUen": "Cancer fragments",
+      "EUde": "Krebs-Splitter",
+      "EUes": "fragmentos de Cáncer",
+      "USes": "fragmentos de Cáncer",
+      "EUfr": "fragments de Cancer",
+      "USfr": "fragments de Cancer",
+      "EUit": "frammenti di Cancro",
+      "EUnl": "Kreeftfragmenten",
+      "CNzh": "巨蟹座碎片",
+      "TWzh": "巨蟹座碎片",
+      "JPja": "かにざのかけら",
+      "KRko": "게자리 조각",
+      "EUru": "фрагменты Рака"
+    }
+  },
+  {
+    "id": "StarPiece_05992",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Leo fragment",
+      "EUen": "Leo fragment",
+      "EUde": "Löwe-Splitter",
+      "EUes": "fragmento de Leo",
+      "USes": "fragmento de Leo",
+      "EUfr": "fragment de Lion",
+      "USfr": "fragment de Lion",
+      "EUit": "frammento di Leone",
+      "EUnl": "Leeuwfragment",
+      "CNzh": "狮子座碎片",
+      "TWzh": "獅子座碎片",
+      "JPja": "ししざのかけら",
+      "KRko": "사자자리 조각",
+      "EUru": "фрагмент Льва"
+    }
+  },
+  {
+    "id": "StarPiece_05992_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Leo fragments",
+      "EUen": "Leo fragments",
+      "EUde": "Löwe-Splitter",
+      "EUes": "fragmentos de Leo",
+      "USes": "fragmentos de Leo",
+      "EUfr": "fragments de Lion",
+      "USfr": "fragments de Lion",
+      "EUit": "frammenti di Leone",
+      "EUnl": "Leeuwfragmenten",
+      "CNzh": "狮子座碎片",
+      "TWzh": "獅子座碎片",
+      "JPja": "ししざのかけら",
+      "KRko": "사자자리 조각",
+      "EUru": "фрагменты Льва"
+    }
+  },
+  {
+    "id": "StarPiece_05993",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Virgo fragment",
+      "EUen": "Virgo fragment",
+      "EUde": "Jungfrau-Splitter",
+      "EUes": "fragmento de Virgo",
+      "USes": "fragmento de Virgo",
+      "EUfr": "fragment de Vierge",
+      "USfr": "fragment de Vierge",
+      "EUit": "frammento di Vergine",
+      "EUnl": "Maagdfragment",
+      "CNzh": "处女座碎片",
+      "TWzh": "處女座碎片",
+      "JPja": "おとめざのかけら",
+      "KRko": "처녀자리 조각",
+      "EUru": "фрагмент Девы"
+    }
+  },
+  {
+    "id": "StarPiece_05993_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Virgo fragments",
+      "EUen": "Virgo fragments",
+      "EUde": "Jungfrau-Splitter",
+      "EUes": "fragmentos de Virgo",
+      "USes": "fragmentos de Virgo",
+      "EUfr": "fragments de Vierge",
+      "USfr": "fragments de Vierge",
+      "EUit": "frammenti di Vergine",
+      "EUnl": "Maagdfragmenten",
+      "CNzh": "处女座碎片",
+      "TWzh": "處女座碎片",
+      "JPja": "おとめざのかけら",
+      "KRko": "처녀자리 조각",
+      "EUru": "фрагменты Девы"
+    }
+  },
+  {
+    "id": "StarPiece_05994",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Libra fragment",
+      "EUen": "Libra fragment",
+      "EUde": "Waage-Splitter",
+      "EUes": "fragmento de Libra",
+      "USes": "fragmento de Libra",
+      "EUfr": "fragment de Balance",
+      "USfr": "fragment de Balance",
+      "EUit": "frammento di Bilancia",
+      "EUnl": "Weegschaalfragment",
+      "CNzh": "天秤座碎片",
+      "TWzh": "天秤座碎片",
+      "JPja": "てんびんざのかけら",
+      "KRko": "천칭자리 조각",
+      "EUru": "фрагмент Весов"
+    }
+  },
+  {
+    "id": "StarPiece_05994_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Libra fragments",
+      "EUen": "Libra fragments",
+      "EUde": "Waage-Splitter",
+      "EUes": "fragmentos de Libra",
+      "USes": "fragmentos de Libra",
+      "EUfr": "fragments de Balance",
+      "USfr": "fragments de Balance",
+      "EUit": "frammenti di Bilancia",
+      "EUnl": "Weegschaalfragmenten",
+      "CNzh": "天秤座碎片",
+      "TWzh": "天秤座碎片",
+      "JPja": "てんびんざのかけら",
+      "KRko": "천칭자리 조각",
+      "EUru": "фрагменты Весов"
+    }
+  },
+  {
+    "id": "StarPiece_05995",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Scorpius fragment",
+      "EUen": "Scorpius fragment",
+      "EUde": "Skorpion-Splitter",
+      "EUes": "fragmento de Escorpio",
+      "USes": "fragmento de Escorpio",
+      "EUfr": "fragment de Scorpion",
+      "USfr": "fragment de Scorpion",
+      "EUit": "frammento di Scorpione",
+      "EUnl": "Schorpioenfragment",
+      "CNzh": "天蝎座碎片",
+      "TWzh": "天蠍座碎片",
+      "JPja": "さそりざのかけら",
+      "KRko": "전갈자리 조각",
+      "EUru": "фрагмент Скорпиона"
+    }
+  },
+  {
+    "id": "StarPiece_05995_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Scorpius fragments",
+      "EUen": "Scorpius fragments",
+      "EUde": "Skorpion-Splitter",
+      "EUes": "fragmentos de Escorpio",
+      "USes": "fragmentos de Escorpio",
+      "EUfr": "fragments de Scorpion",
+      "USfr": "fragments de Scorpion",
+      "EUit": "frammenti di Scorpione",
+      "EUnl": "Schorpioenfragmenten",
+      "CNzh": "天蝎座碎片",
+      "TWzh": "天蠍座碎片",
+      "JPja": "さそりざのかけら",
+      "KRko": "전갈자리 조각",
+      "EUru": "фрагменты Скорпиона"
+    }
+  },
+  {
+    "id": "StarPiece_05996",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sagittarius fragment",
+      "EUen": "Sagittarius fragment",
+      "EUde": "Schütze-Splitter",
+      "EUes": "fragmento de Sagitario",
+      "USes": "fragmento de Sagitario",
+      "EUfr": "fragment de Sagittaire",
+      "USfr": "fragment de Sagittaire",
+      "EUit": "frammento di Sagittario",
+      "EUnl": "Boogschutterfragment",
+      "CNzh": "射手座碎片",
+      "TWzh": "射手座碎片",
+      "JPja": "いてざのかけら",
+      "KRko": "사수자리 조각",
+      "EUru": "фрагмент Стрельца"
+    }
+  },
+  {
+    "id": "StarPiece_05996_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Sagittarius fragments",
+      "EUen": "Sagittarius fragments",
+      "EUde": "Schütze-Splitter",
+      "EUes": "fragmentos de Sagitario",
+      "USes": "fragmentos de Sagitario",
+      "EUfr": "fragments de Sagittaire",
+      "USfr": "fragments de Sagittaire",
+      "EUit": "frammenti di Sagittario",
+      "EUnl": "Boogschutterfragmenten",
+      "CNzh": "射手座碎片",
+      "TWzh": "射手座碎片",
+      "JPja": "いてざのかけら",
+      "KRko": "사수자리 조각",
+      "EUru": "фрагменты Стрельца"
+    }
+  }
+]

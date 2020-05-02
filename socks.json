@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 47,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stockings",
+      "EUen": "stockings",
+      "EUde": "Paar Strümpfe",
+      "EUes": "media",
+      "USes": "media",
+      "EUfr": "paire de bas",
+      "USfr": "collant",
+      "EUit": "paio di calze",
+      "EUnl": "kousen",
+      "CNzh": "丝袜",
+      "TWzh": "絲襪",
+      "JPja": "ストッキング",
+      "KRko": "스타킹",
+      "EUru": "чулки"
+    }
+  },
+  {
+    "id": 48,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fishnet tights",
+      "EUen": "fishnet tights",
+      "EUde": "Modestrumpfhose",
+      "EUes": "media de rejilla",
+      "USes": "media de rejilla",
+      "EUfr": "collant filet",
+      "USfr": "collant filet",
+      "EUit": "paio di calze a rete",
+      "EUnl": "netpanty",
+      "CNzh": "网袜",
+      "TWzh": "網襪",
+      "JPja": "あみタイツ",
+      "KRko": "망사 타이츠",
+      "EUru": "чулки в сеточку"
+    }
+  },
+  {
+    "id": 519,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "back-bow socks",
+      "EUen": "back-bow socks",
+      "EUde": "Paar Schleifchensocken",
+      "EUes": "calcetín lazo trasero",
+      "USes": "calcetín lazo trasero",
+      "EUfr": "p. de chaussettes à nœud",
+      "USfr": "p. de chaussettes à nœud",
+      "EUit": "paio di calzini con fiocco",
+      "EUnl": "sokken met een strikje",
+      "CNzh": "蝴蝶结袜子",
+      "TWzh": "蝴蝶結襪子",
+      "JPja": "リボンソックス",
+      "KRko": "리본 양말",
+      "EUru": "носки с бантиком сзади"
+    }
+  },
+  {
+    "id": 535,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "no-show socks",
+      "EUen": "no-show socks",
+      "EUde": "Paar Low-Socken",
+      "EUes": "calcetín oculto",
+      "USes": "calcetín oculto",
+      "EUfr": "paire de mini-socquettes",
+      "USfr": "p. de mini-chaussettes",
+      "EUit": "paio di calzini corti",
+      "EUnl": "sneakersokken",
+      "CNzh": "船型袜",
+      "TWzh": "船型襪",
+      "JPja": "スニーカーインソックス",
+      "KRko": "발목 양말",
+      "EUru": "невидимые носки"
+    }
+  },
+  {
+    "id": 536,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aran-knit socks",
+      "EUen": "Aran-knit socks",
+      "EUde": "Paar Aranmustersocken",
+      "EUes": "calcetín de punto trenzado",
+      "USes": "calcetín tejido trenzado",
+      "EUfr": "paire de chaussettes Aran",
+      "USfr": "paire de chaussettes Aran",
+      "EUit": "paio di calzini Aran",
+      "EUnl": "Aran-sokken",
+      "CNzh": "毛线袜",
+      "TWzh": "手編阿倫花樣針織襪",
+      "JPja": "アランニットのソックス",
+      "KRko": "아란 니트 양말",
+      "EUru": "носки аранской вязки"
+    }
+  },
+  {
+    "id": 537,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sequin leggings",
+      "EUen": "sequin leggings",
+      "EUde": "Paillettenleggings",
+      "EUes": "malla con lentejuelas",
+      "USes": "malla con lentejuelas",
+      "EUfr": "legging à sequins",
+      "USfr": "legging à sequins",
+      "EUit": "paio di legging con lustrini",
+      "EUnl": "legging met pailletten",
+      "CNzh": "亮片紧身裤",
+      "TWzh": "亮片緊身褲",
+      "JPja": "スパンコールレギンス",
+      "KRko": "스팽글 레깅스",
+      "EUru": "леггинсы с пайетками"
+    }
+  },
+  {
+    "id": 538,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stretch leggings",
+      "EUen": "stretch leggings",
+      "EUde": "Stretchleggings",
+      "EUes": "malla elástica",
+      "USes": "malla elástica",
+      "EUfr": "legging stretch",
+      "USfr": "legging stretch",
+      "EUit": "paio di legging elastici",
+      "EUnl": "stretchlegging",
+      "CNzh": "弹性紧身裤",
+      "TWzh": "彈性緊身褲",
+      "JPja": "ストレッチレギンス",
+      "KRko": "스트레치 레깅스",
+      "EUru": "эластичные леггинсы"
+    }
+  },
+  {
+    "id": 539,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "denim leggings",
+      "EUen": "denim leggings",
+      "EUde": "Jeansleggings",
+      "EUes": "malla denim",
+      "USes": "malla de jean",
+      "EUfr": "legging en jean",
+      "USfr": "legging en jean",
+      "EUit": "paio di legging di jeans",
+      "EUnl": "jegging",
+      "CNzh": "牛仔紧身裤",
+      "TWzh": "牛仔緊身褲",
+      "JPja": "デニムレギンス",
+      "KRko": "데님 레깅스",
+      "EUru": "джеггинсы"
+    }
+  },
+  {
+    "id": 540,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tube socks",
+      "EUen": "tube socks",
+      "EUde": "Paar Sportsocken",
+      "EUes": "calcetín cómodo",
+      "USes": "calcetín cómodo",
+      "EUfr": "paire de chaussettes sport",
+      "USfr": "paire de chaussettes sport",
+      "EUit": "paio di calzini con righe",
+      "EUnl": "sportsokken",
+      "CNzh": "条纹袜",
+      "TWzh": "條紋襪",
+      "JPja": "ラインソックス",
+      "KRko": "라인 양말",
+      "EUru": "носки без пятки"
+    }
+  },
+  {
+    "id": 541,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "garter socks",
+      "EUen": "garter socks",
+      "EUde": "Paar Strumpfbandstrümpfe",
+      "EUes": "calcetín con liguero",
+      "USes": "calcetín con liga",
+      "EUfr": "paire de fixe-chaussettes",
+      "USfr": "paire de fixe-chaussettes",
+      "EUit": "paio calzini con giarrettiera",
+      "EUnl": "sokken met ophouders",
+      "CNzh": "吊带袜",
+      "TWzh": "吊帶襪",
+      "JPja": "ガーターつきストッキング",
+      "KRko": "가터 스타킹",
+      "EUru": "носки с подтяжками"
+    }
+  },
+  {
+    "id": 542,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nordic socks",
+      "EUen": "nordic socks",
+      "EUde": "Paar Norwegerstrümpfe",
+      "EUes": "calcetín nórdico",
+      "USes": "calcetín nórdico",
+      "EUfr": "p. de chaussettes nordiques",
+      "USfr": "p. de chaussettes nordiques",
+      "EUit": "paio di calzini yodel",
+      "EUnl": "Scandinavische sokken",
+      "CNzh": "北欧风袜子",
+      "TWzh": "北歐風襪子",
+      "JPja": "ノルディックなソックス",
+      "KRko": "노르딕풍 양말",
+      "EUru": "северные носки"
+    }
+  },
+  {
+    "id": 543,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tabi",
+      "EUen": "tabi",
+      "EUde": "Paar Tabi-Socken",
+      "EUes": "tabi",
+      "USes": "tabi",
+      "EUfr": "paire de tabi",
+      "USfr": "paire de tabi",
+      "EUit": "paio di tabi",
+      "EUnl": "tabi",
+      "CNzh": "足袋",
+      "TWzh": "足袋",
+      "JPja": "たび",
+      "KRko": "일본풍 버선",
+      "EUru": "носки таби"
+    }
+  },
+  {
+    "id": 600,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ultra no-show socks",
+      "EUen": "ultra no-show socks",
+      "EUde": "Paar Füßlinge",
+      "EUes": "calcetín invisible",
+      "USes": "calcetín invisible",
+      "EUfr": "p. de chaussettes ballerines",
+      "USfr": "p. de chaussettes ballerines",
+      "EUit": "paio di fantasmini",
+      "EUnl": "kousenvoetjes",
+      "CNzh": "隐形袜",
+      "TWzh": "隱形襪",
+      "JPja": "フットカバー",
+      "KRko": "덧양말",
+      "EUru": "следки"
+    }
+  },
+  {
+    "id": 601,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mixed-tweed socks",
+      "EUen": "mixed-tweed socks",
+      "EUde": "Paar Mixed-Tweed-Socken",
+      "EUes": "calcetín de tweed",
+      "USes": "calcetín de tweed",
+      "EUfr": "p. de chaussettes tweed",
+      "USfr": "p. de chaussettes tweed",
+      "EUit": "paio di calzini di lana mista",
+      "EUnl": "mêleesokken",
+      "CNzh": "混色粗花呢袜",
+      "TWzh": "混色斜紋軟呢襪",
+      "JPja": "ミックスツイードソックス",
+      "KRko": "믹스 트위드 양말",
+      "EUru": "мелированные носки"
+    }
+  },
+  {
+    "id": 602,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "leg warmers",
+      "EUen": "leg warmers",
+      "EUde": "Paar Beinwärmer",
+      "EUes": "calentador",
+      "USes": "calentador",
+      "EUfr": "paire de jambières",
+      "USfr": "paire de bas réchauffement",
+      "EUit": "paio di scaldamuscoli",
+      "EUnl": "beenwarmers",
+      "CNzh": "袜套",
+      "TWzh": "保暖襪套",
+      "JPja": "レッグウォーマー",
+      "KRko": "발 토시",
+      "EUru": "гетры"
+    }
+  },
+  {
+    "id": 603,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "compression tights",
+      "EUen": "compression tights",
+      "EUde": "Kompressionsstrumpfhose",
+      "EUes": "malla de compresión",
+      "USes": "malla de compresión",
+      "EUfr": "collant de contention",
+      "USfr": "collant de contention",
+      "EUit": "paio di calze contenitive",
+      "EUnl": "compressielegging",
+      "CNzh": "压力裤袜",
+      "TWzh": "壓力褲襪",
+      "JPja": "コンプレッションタイツ",
+      "KRko": "압박 타이츠",
+      "EUru": "компрессионные чулки"
+    }
+  },
+  {
+    "id": 604,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bobby socks",
+      "EUen": "bobby socks",
+      "EUde": "Paar Bündchensocken",
+      "EUes": "calcetín sencillo",
+      "USes": "calcetín sencillo",
+      "EUfr": "paire de socquettes simples",
+      "USfr": "paire de socquettes simples",
+      "EUit": "paio di calzini con trina",
+      "EUnl": "sokken met omslag",
+      "CNzh": "三折袜",
+      "TWzh": "三折襪",
+      "JPja": "みつおりソックス",
+      "KRko": "접는 양말",
+      "EUru": "короткие белые носки"
+    }
+  },
+  {
+    "id": 605,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frilly knee-high socks",
+      "EUen": "frilly knee-high socks",
+      "EUde": "Paar Rüschenkniestrümpfe",
+      "EUes": "calcetín encaje alto",
+      "USes": "calcetín encaje alto",
+      "EUfr": "p. chauss. longues dentelle",
+      "USfr": "p. chauss. longues dentelle",
+      "EUit": "p. calzini vezzosi al ginoc.",
+      "EUnl": "kniekousen met ruches",
+      "CNzh": "蕾丝花边膝上袜",
+      "TWzh": "蕾絲花邊膝上襪",
+      "JPja": "フリルつきニーハイソックス",
+      "KRko": "프릴 니하이 삭스",
+      "EUru": "гольфы с оборками"
+    }
+  },
+  {
+    "id": 606,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lace socks",
+      "EUen": "lace socks",
+      "EUde": "Paar Spitzensöckchen",
+      "EUes": "calcetín encaje",
+      "USes": "calcetín encaje",
+      "EUfr": "paire chaussettes dentelle",
+      "USfr": "paire chaussettes dentelle",
+      "EUit": "paio di calzini merlettati",
+      "EUnl": "sokken met kant",
+      "CNzh": "蕾丝袜",
+      "TWzh": "蕾絲襪",
+      "JPja": "レースのソックス",
+      "KRko": "레이스 양말",
+      "EUru": "носки с кружевами"
+    }
+  },
+  {
+    "id": 607,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frilly socks",
+      "EUen": "frilly socks",
+      "EUde": "Paar Rüschensöckchen",
+      "EUes": "calcetín con volantes",
+      "USes": "calcetín con volados",
+      "EUfr": "paire socquettes à dentelle",
+      "USfr": "p. chaussettes à dentelle",
+      "EUit": "paio di calzini vezzosi",
+      "EUnl": "sokken met ruches",
+      "CNzh": "蕾丝花边袜",
+      "TWzh": "蕾絲花邊襪",
+      "JPja": "フリルソックス",
+      "KRko": "프릴 양말",
+      "EUru": "носки с оборками"
+    }
+  },
+  {
+    "id": 608,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "holey tights",
+      "EUen": "holey tights",
+      "EUde": "Löcher-Strumpfhose",
+      "EUes": "media raída",
+      "USes": "media raída",
+      "EUfr": "collant filé",
+      "USfr": "collant filé",
+      "EUit": "paio di calze strappate",
+      "EUnl": "panty met gaten",
+      "CNzh": "破洞裤袜",
+      "TWzh": "破洞褲襪",
+      "JPja": "あなあきタイツ",
+      "KRko": "구멍 난 타이츠",
+      "EUru": "дырявые чулки"
+    }
+  },
+  {
+    "id": 609,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "soccer socks",
+      "EUen": "soccer socks",
+      "EUde": "Paar Fußballstutzen",
+      "EUes": "media fútbol",
+      "USes": "media de fútbol",
+      "EUfr": "paire chaussettes de foot",
+      "USfr": "paire chaussettes de soccer",
+      "EUit": "paio di calzettoni da calcio",
+      "EUnl": "voetbalsokken",
+      "CNzh": "足球袜",
+      "TWzh": "足球襪",
+      "JPja": "サッカーソックス",
+      "KRko": "축구 양말",
+      "EUru": "футбольные носки"
+    }
+  },
+  {
+    "id": 610,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "holey socks",
+      "EUen": "holey socks",
+      "EUde": "Paar Loch-Socken",
+      "EUes": "calcetín raído",
+      "USes": "calcetín raído",
+      "EUfr": "paire chaussettes trouée",
+      "USfr": "paire chaussettes trouée",
+      "EUit": "paio di calzini strappati",
+      "EUnl": "sokken met gaten",
+      "CNzh": "破洞袜",
+      "TWzh": "破洞襪",
+      "JPja": "あなあきソックス",
+      "KRko": "구멍 난 양말",
+      "EUru": "дырявые носки"
+    }
+  },
+  {
+    "id": 611,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pom-pom socks",
+      "EUen": "pom-pom socks",
+      "EUde": "Paar Puschel-Socken",
+      "EUes": "calcetín con pompones",
+      "USes": "calcetín con pompones",
+      "EUfr": "paire chaussettes pompons",
+      "USfr": "paire chaussettes pompons",
+      "EUit": "paio di calzini con pon-pon",
+      "EUnl": "sokken met pompons",
+      "CNzh": "毛球袜",
+      "TWzh": "毛球襪",
+      "JPja": "ポンポンソックス",
+      "KRko": "방울 술 양말",
+      "EUru": "носки с помпонами"
+    }
+  },
+  {
+    "id": 612,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "color-blocked socks",
+      "EUen": "color-blocked socks",
+      "EUde": "Paar Bunt-Socken",
+      "EUes": "calcetín composición color",
+      "USes": "calcetín composición color",
+      "EUfr": "paire chaussettes carreaux",
+      "USfr": "paire chaussettes carreaux",
+      "EUit": "paio di calzini variopinti",
+      "EUnl": "sokken met kleurvlakken",
+      "CNzh": "多色格子袜",
+      "TWzh": "多色方塊襪",
+      "JPja": "マルチブロックソックス",
+      "KRko": "컬러 블록 양말",
+      "EUru": "носки в цветную клетку"
+    }
+  },
+  {
+    "id": 613,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "terry-cloth socks",
+      "EUen": "terry-cloth socks",
+      "EUde": "Paar Frottee-Socken",
+      "EUes": "calcetín de felpa",
+      "USes": "calcetín de felpa",
+      "EUfr": "p. chaussettes tissu éponge",
+      "USfr": "p. chaussettes tissu éponge",
+      "EUit": "paio di calzini di spugna",
+      "EUnl": "badstoffen sokken",
+      "CNzh": "毛绒袜",
+      "TWzh": "毛絨襪",
+      "JPja": "もこもこソックス",
+      "KRko": "수면 양말",
+      "EUru": "махровые носки"
+    }
+  },
+  {
+    "id": 619,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "layered socks",
+      "EUen": "layered socks",
+      "EUde": "Paar Abstrakt-Strümpfe",
+      "EUes": "calcetín múltiple",
+      "USes": "calcetín múltiple",
+      "EUfr": "p. chaussettes superposées",
+      "USfr": "p. chaussettes superposées",
+      "EUit": "paio di calzini a strati",
+      "EUnl": "laagjessokken",
+      "CNzh": "多层袜",
+      "TWzh": "多層襪",
+      "JPja": "かさねばきソックス",
+      "KRko": "레이어드 양말",
+      "EUru": "многослойные носки"
+    }
+  },
+  {
+    "id": 620,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hand-knit socks",
+      "EUen": "hand-knit socks",
+      "EUde": "Paar Stricksocken",
+      "EUes": "calcetín de punto",
+      "USes": "calcetín tejido",
+      "EUfr": "p. chauss. tricotées main",
+      "USfr": "p. chauss. tricotées main",
+      "EUit": "paio di calzini di maglia",
+      "EUnl": "handgebreide sokken",
+      "CNzh": "手工编织袜",
+      "TWzh": "手工編織襪",
+      "JPja": "てあみのソックス",
+      "KRko": "털실 양말",
+      "EUru": "вязаные носки"
+    }
+  },
+  {
+    "id": 621,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "aerobics leggings",
+      "EUen": "aerobics leggings",
+      "EUde": "Aerobic-Leggings",
+      "EUes": "malla con calentador",
+      "USes": "malla con calentador",
+      "EUfr": "legging d'aérobic",
+      "USfr": "legging d'aérobique",
+      "EUit": "paio di legging da aerobica",
+      "EUnl": "aerobicslegging",
+      "CNzh": "有氧运动紧身裤",
+      "TWzh": "有氧運動緊身褲",
+      "JPja": "エアロビレギンス",
+      "KRko": "에어로빅 레깅스",
+      "EUru": "леггинсы для аэробики"
+    }
+  },
+  {
+    "id": 622,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "puckered socks",
+      "EUen": "puckered socks",
+      "EUde": "Paar Mäusezahnsocken",
+      "EUes": "calcetín plisado",
+      "USes": "calcetín plisado",
+      "EUfr": "p. chaussettes déformées",
+      "USfr": "p. chaussettes déformées",
+      "EUit": "paio di calzini arricciati",
+      "EUnl": "gerimpelde sokken",
+      "CNzh": "泡泡袜",
+      "TWzh": "泡泡襪",
+      "JPja": "くしゅくしゅソックス",
+      "KRko": "꾸깃꾸깃한 양말",
+      "EUru": "носки пико"
+    }
+  },
+  {
+    "id": 623,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped socks",
+      "EUen": "striped socks",
+      "EUde": "Paar Ringelsocken",
+      "EUes": "calcetín a rayas",
+      "USes": "calcetín a rayas",
+      "EUfr": "paire de chaussettes rayées",
+      "USfr": "paire de chaussettes rayées",
+      "EUit": "paio di calzini a strisce",
+      "EUnl": "gestreepte sokken",
+      "CNzh": "粗横纹袜",
+      "TWzh": "粗橫紋襪",
+      "JPja": "ボーダーソックス",
+      "KRko": "가로 줄무늬 양말",
+      "EUru": "полосатые носки"
+    }
+  },
+  {
+    "id": 624,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple-accent socks",
+      "EUen": "simple-accent socks",
+      "EUde": "Paar Logo-Socken",
+      "EUes": "calcetín con detalle",
+      "USes": "calcetín con detalle",
+      "EUfr": "paire de chaussettes à logo",
+      "USfr": "paire de chaussettes à logo",
+      "EUit": "paio di calzini con logo",
+      "EUnl": "sokken met detail",
+      "CNzh": "单一图案袜",
+      "TWzh": "小圖案襪",
+      "JPja": "ワンポイントソックス",
+      "KRko": "원포인트 양말",
+      "EUru": "носки с акцентом"
+    }
+  },
+  {
+    "id": 625,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kiddie socks",
+      "EUen": "kiddie socks",
+      "EUde": "Paar Kindersöckchen",
+      "EUes": "calcetín infantil",
+      "USes": "calcetín infantil",
+      "EUfr": "paire de socquettes enfant",
+      "USfr": "paire de chaussettes enfant",
+      "EUit": "paio di calzini da bimbo",
+      "EUnl": "kindersokken",
+      "CNzh": "儿童袜",
+      "TWzh": "兒童襪",
+      "JPja": "キッズソックス",
+      "KRko": "어린이용 양말",
+      "EUru": "детские носки"
+    }
+  },
+  {
+    "id": 626,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "crocheted socks",
+      "EUen": "crocheted socks",
+      "EUde": "Paar Häkelsocken",
+      "EUes": "calcetín de croché",
+      "USes": "calcetín de crochet",
+      "EUfr": "paire chaussettes crochet",
+      "USfr": "paire chaussettes crochet",
+      "EUit": "paio di calzini all'uncinetto",
+      "EUnl": "gehaakte sokken",
+      "CNzh": "钩针编织袜",
+      "TWzh": "鉤針編織襪",
+      "JPja": "かぎばりあみソックス",
+      "KRko": "손뜨개 양말",
+      "EUru": "вязаные крючком носки"
+    }
+  },
+  {
+    "id": 627,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spider-web tights",
+      "EUen": "spider-web tights",
+      "EUde": "Spinnennetz-Strumpfhose",
+      "EUes": "media de telaraña",
+      "USes": "media de telaraña",
+      "EUfr": "collant toile d'araignée",
+      "USfr": "collant toile d'araignée",
+      "EUit": "paio di calze a ragnatela",
+      "EUnl": "spinnenwebpanty",
+      "CNzh": "蜘蛛裤袜",
+      "TWzh": "蜘蛛褲襪",
+      "JPja": "スパイダーなタイツ",
+      "KRko": "거미줄 타이츠",
+      "EUru": "чулки с узором-паутиной"
+    }
+  },
+  {
+    "id": 628,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "embroidered-flower tights",
+      "EUen": "embroidered-flower tights",
+      "EUde": "Blumenstick-Strumpfhose",
+      "EUes": "media con flores bordadas",
+      "USes": "media con flores bordadas",
+      "EUfr": "collant à fleurs brodées",
+      "USfr": "collant à fleurs brodées",
+      "EUit": "paio di calze a fiori ricamati",
+      "EUnl": "geborduurde bloemenpanty",
+      "CNzh": "花纹刺绣裤袜",
+      "TWzh": "花紋刺繡褲襪",
+      "JPja": "はながらししゅうのタイツ",
+      "KRko": "꽃무늬 자수 타이츠",
+      "EUru": "расшитые цветами чулки"
+    }
+  },
+  {
+    "id": 629,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "running tights",
+      "EUen": "running tights",
+      "EUde": "Läuferleggings",
+      "EUes": "malla para correr",
+      "USes": "malla para correr",
+      "EUfr": "collant de course à pied",
+      "USfr": "collant de course à pied",
+      "EUit": "paio di calze da corsa",
+      "EUnl": "hardlooplegging",
+      "CNzh": "跑步紧身裤",
+      "TWzh": "跑步緊身褲",
+      "JPja": "ランニングタイツ",
+      "KRko": "러닝 타이츠",
+      "EUru": "чулки для пробежек"
+    }
+  },
+  {
+    "id": 723,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "funny-face socks",
+      "EUen": "funny-face socks",
+      "EUde": "Paar Charaktersocken",
+      "EUes": "calcetín caritas",
+      "USes": "calcetín caritas",
+      "EUfr": "p. de chaussettes rigolotes",
+      "USfr": "p. de chaussettes rigolotes",
+      "EUit": "paio di calzini con faccina",
+      "EUnl": "sokken met een gezichtje",
+      "CNzh": "卡通图案袜",
+      "TWzh": "卡通圖案襪",
+      "JPja": "キャラクターソックス",
+      "KRko": "캐릭터 양말",
+      "EUru": "носки с рожицами"
+    }
+  },
+  {
+    "id": 749,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "geometric-print socks",
+      "EUen": "geometric-print socks",
+      "EUde": "Paar Chimayo-Socken",
+      "EUes": "calcetín Chimayó",
+      "USes": "calcetín étnico",
+      "EUfr": "p. de chaussettes Chimayo",
+      "USfr": "p. de chaussettes Chimayo",
+      "EUit": "paio calzini stile geometrico",
+      "EUnl": "Chimayo-sokken",
+      "CNzh": "奇马约图腾袜",
+      "TWzh": "奇馬約圖騰襪",
+      "JPja": "チマヨがらソックス",
+      "KRko": "치마요무늬 양말",
+      "EUru": "абстрактные носки"
+    }
+  },
+  {
+    "id": 879,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flowery-dot tights",
+      "EUen": "flowery-dot tights",
+      "EUde": "Blümchenstrumpfhose",
+      "EUes": "media florecitas",
+      "USes": "media florecitas",
+      "EUfr": "collant à petites fleurs",
+      "USfr": "collant à petites fleurs",
+      "EUit": "paio di calze a punti floreali",
+      "EUnl": "panty met bloemen",
+      "CNzh": "花朵点点裤袜",
+      "TWzh": "花朵點點褲襪",
+      "JPja": "フラワードットタイツ",
+      "KRko": "플라워 도트 타이츠",
+      "EUru": "чулки в цветочек"
+    }
+  },
+  {
+    "id": 880,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "argyle crew socks",
+      "EUen": "argyle crew socks",
+      "EUde": "Paar Argyle-Crew-Socken",
+      "EUes": "calcetín pijo",
+      "USes": "calcetín rombos alto",
+      "EUfr": "p. de chaussettes argyle",
+      "USfr": "p. de chaussettes écossaise",
+      "EUit": "paio di calzini a rombi",
+      "EUnl": "argyle-sokken",
+      "CNzh": "菱格纹袜",
+      "TWzh": "菱格紋襪",
+      "JPja": "アーガイルソックス",
+      "KRko": "아가일 양말",
+      "EUru": "носки аргайл"
+    }
+  },
+  {
+    "id": 886,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sheer socks",
+      "EUen": "sheer socks",
+      "EUde": "Paar Seidensocken",
+      "EUes": "calcetín traslúcido",
+      "USes": "calcetín traslúcido",
+      "EUfr": "paires de chaussettes fines",
+      "USfr": "paire de chaussettes fines",
+      "EUit": "paio di calzini traslucidi",
+      "EUnl": "doorschijnende sokken",
+      "CNzh": "透肤袜",
+      "TWzh": "透膚襪",
+      "JPja": "シースルーソックス",
+      "KRko": "시스루 양말",
+      "EUru": "тонкие носки"
+    }
+  },
+  {
+    "id": 887,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wave-print socks",
+      "EUen": "wave-print socks",
+      "EUde": "Paar Wellensöckchen",
+      "EUes": "calcetín ondas",
+      "USes": "calcetín ondas",
+      "EUfr": "paire de socquettes vagues",
+      "USfr": "p. de chaussettes vagues",
+      "EUit": "paio di calzini a squame",
+      "EUnl": "sokken met golvenprint",
+      "CNzh": "青海波袜子",
+      "TWzh": "青海波襪子",
+      "JPja": "せいがいはソックス",
+      "KRko": "파도무늬 양말",
+      "EUru": "носки с волнами"
+    }
+  },
+  {
+    "id": 926,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "country socks",
+      "EUen": "country socks",
+      "EUde": "Paar Country-Socken",
+      "EUes": "calcetín para kilt",
+      "USes": "calcetín para kilt",
+      "EUfr": "paire de chaussettes de kilt",
+      "USfr": "paire de chaussettes de kilt",
+      "EUit": "paio di calzini country",
+      "EUnl": "kiltsokken",
+      "CNzh": "英国传统服装袜子",
+      "TWzh": "英國傳統服裝襪子",
+      "JPja": "カントリーソックス",
+      "KRko": "컨트리 양말",
+      "EUru": "кантри-носки"
+    }
+  },
+  {
+    "id": 927,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped tights",
+      "EUen": "striped tights",
+      "EUde": "Streifenstrumpfhose",
+      "EUes": "media rayas",
+      "USes": "media a rayas",
+      "EUfr": "collant à rayures verticales",
+      "USfr": "collant à rayures verticales",
+      "EUit": "paio di calze a strisce",
+      "EUnl": "gestreepte panty",
+      "CNzh": "条纹袜子",
+      "TWzh": "條紋襪子",
+      "JPja": "ストライプソックス",
+      "KRko": "세로 줄무늬 양말",
+      "EUru": "полосатые чулки"
+    }
+  },
+  {
+    "id": 928,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "patterned stockings",
+      "EUen": "patterned stockings",
+      "EUde": "Paar Musterstrümpfe",
+      "EUes": "media con estampado",
+      "USes": "media con estampado",
+      "EUfr": "collant à motifs",
+      "USfr": "collant à motifs",
+      "EUit": "paio di calze decorate",
+      "EUnl": "panty met patroon",
+      "CNzh": "花纹丝袜",
+      "TWzh": "花紋絲襪",
+      "JPja": "デザインストッキング",
+      "KRko": "디자인 스타킹",
+      "EUru": "чулки с узором"
+    }
+  },
+  {
+    "id": 1002,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vivid socks",
+      "EUen": "vivid socks",
+      "EUde": "Paar Einfarb-Socken",
+      "EUes": "calcetín de color vívido",
+      "USes": "calcetín de color vívido",
+      "EUfr": "paire de socquettes vives",
+      "USfr": "p. de chaussettes simples",
+      "EUit": "paio di calzini briosi",
+      "EUnl": "felgekleurde sokken",
+      "CNzh": "鲜艳袜子",
+      "TWzh": "鮮豔襪子",
+      "JPja": "ビビッドなソックス",
+      "KRko": "비비드 양말",
+      "EUru": "яркие носки"
+    }
+  },
+  {
+    "id": 1049,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "semi-opaque tights",
+      "EUen": "semi-opaque tights",
+      "EUde": "Transparenz-Strumpfhose",
+      "EUes": "media semiopaca",
+      "USes": "media semiopaca",
+      "EUfr": "collant semi-opaque",
+      "USfr": "collant semi-opaque",
+      "EUit": "paio di calze semiopache",
+      "EUnl": "semi-doorzichtige panty",
+      "CNzh": "同色系裤袜",
+      "TWzh": "同色系褲襪",
+      "JPja": "ニュアンスタイツ",
+      "KRko": "반투명 타이츠",
+      "EUru": "полупрозрачные чулки"
+    }
+  },
+  {
+    "id": 1050,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "everyday tights",
+      "EUen": "everyday tights",
+      "EUde": "Alltagsstrumpfhose",
+      "EUes": "media de diario",
+      "USes": "media diaria",
+      "EUfr": "collant ordinaire",
+      "USfr": "collant ordinaire",
+      "EUit": "paio di calze ordinarie",
+      "EUnl": "alledaagse panty",
+      "CNzh": "通勤裤袜",
+      "TWzh": "通勤褲襪",
+      "JPja": "デイリータイツ",
+      "KRko": "데일리 타이츠",
+      "EUru": "повседневные чулки"
+    }
+  },
+  {
+    "id": 1051,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vivid tights",
+      "EUen": "vivid tights",
+      "EUde": "Einfarb-Strumpfhose",
+      "EUes": "media de color vívido",
+      "USes": "media de color vívido",
+      "EUfr": "collant vif",
+      "USfr": "collant vif",
+      "EUit": "paio di calze briose",
+      "EUnl": "felgekleurde panty",
+      "CNzh": "鲜艳裤袜",
+      "TWzh": "鮮豔褲襪",
+      "JPja": "ビビッドなタイツ",
+      "KRko": "비비드 타이츠",
+      "EUru": "яркие чулки"
+    }
+  },
+  {
+    "id": 1052,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "neon tights",
+      "EUen": "neon tights",
+      "EUde": "Neon-Strumpfhose",
+      "EUes": "media de colores neón",
+      "USes": "media de colores neón",
+      "EUfr": "collant fluo",
+      "USfr": "collant fluo",
+      "EUit": "paio di calze neon",
+      "EUnl": "neonpanty",
+      "CNzh": "荧光色裤袜",
+      "TWzh": "螢光色褲襪",
+      "JPja": "ネオンタイツ",
+      "KRko": "네온 타이츠",
+      "EUru": "неоновые чулки"
+    }
+  },
+  {
+    "id": 1053,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vivid leggings",
+      "EUen": "vivid leggings",
+      "EUde": "Einfarb-Leggings",
+      "EUes": "malla de color vívido",
+      "USes": "malla de color vívido",
+      "EUfr": "legging vif",
+      "USfr": "legging vif",
+      "EUit": "paio di legging briosi",
+      "EUnl": "felgekleurde legging",
+      "CNzh": "鲜艳紧身裤",
+      "TWzh": "鮮豔緊身褲",
+      "JPja": "ビビッドなレギンス",
+      "KRko": "비비드 레깅스",
+      "EUru": "яркие леггинсы"
+    }
+  },
+  {
+    "id": 1054,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "neon leggings",
+      "EUen": "neon leggings",
+      "EUde": "Neon-Leggings",
+      "EUes": "malla de colores neón",
+      "USes": "malla de colores neón",
+      "EUfr": "legging fluo",
+      "USfr": "legging fluo",
+      "EUit": "paio di legging neon",
+      "EUnl": "neonlegging",
+      "CNzh": "荧光色紧身裤",
+      "TWzh": "螢光色緊身褲",
+      "JPja": "ネオンレギンス",
+      "KRko": "네온 레깅스",
+      "EUru": "неоновые леггинсы"
+    }
+  },
+  {
+    "id": 1059,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "everyday socks",
+      "EUen": "everyday socks",
+      "EUde": "Paar Alltagssocken",
+      "EUes": "calcetín de diario",
+      "USes": "calcetín diario",
+      "EUfr": "p. chaussettes ordinaires",
+      "USfr": "p. chaussettes ordinaires",
+      "EUit": "paio di calzini ordinari",
+      "EUnl": "alledaagse sokken",
+      "CNzh": "通勤袜子",
+      "TWzh": "通勤襪子",
+      "JPja": "デイリーソックス",
+      "KRko": "데일리 양말",
+      "EUru": "повседневные носки"
+    }
+  },
+  {
+    "id": 1060,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "semi-opaque socks",
+      "EUen": "semi-opaque socks",
+      "EUde": "Paar Transparenz-Socken",
+      "EUes": "calcetín semiopaco",
+      "USes": "calcetín semiopaco",
+      "EUfr": "p. chauss. semi-opaques",
+      "USfr": "p. chauss. semi-opaques",
+      "EUit": "paio di calzini semiopachi",
+      "EUnl": "semi-doorzichtige sokken",
+      "CNzh": "同色系袜子",
+      "TWzh": "同色系襪子",
+      "JPja": "ニュアンスソックス",
+      "KRko": "반투명 양말",
+      "EUru": "полупрозрачные носки"
+    }
+  },
+  {
+    "id": 1133,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Labelle tights",
+      "EUen": "Labelle tights",
+      "EUde": "Samthea-Strumpfhose",
+      "EUes": "media Trini",
+      "USes": "media Trini",
+      "EUfr": "collant Maria",
+      "USfr": "collant Maria",
+      "EUit": "paio di calze Bice",
+      "EUnl": "Labelle-panty",
+      "CNzh": "凯丝的裤袜",
+      "TWzh": "凱絲褲襪",
+      "JPja": "ケイトのタイツ",
+      "KRko": "케이트의 타이츠",
+      "EUru": "чулки «Лэйблеск»"
+    }
+  },
+  {
+    "id": 1134,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Labelle socks",
+      "EUen": "Labelle socks",
+      "EUde": "Paar Samthea-Socken",
+      "EUes": "calcetín Trini",
+      "USes": "calcetín Trini",
+      "EUfr": "paire de chaussettes Maria",
+      "USfr": "paire de chaussettes Maria",
+      "EUit": "paio di calzini Bice",
+      "EUnl": "Labelle-sokken",
+      "CNzh": "凯丝的袜子",
+      "TWzh": "凱絲襪子",
+      "JPja": "ケイトのソックス",
+      "KRko": "케이트의 양말",
+      "EUru": "носки «Лэйблеск»"
+    }
+  },
+  {
+    "id": 1144,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. socks",
+      "EUen": "Nook Inc. socks",
+      "EUde": "Paar Nook-Inc.-Socken",
+      "EUes": "calcetín de Nook Inc.",
+      "USes": "calcetín de Nook Inc.",
+      "EUfr": "p. de chaussettes Nook Inc.",
+      "USfr": "p. de chaussettes Nook Inc.",
+      "EUit": "paio di calzini Nook Inc.",
+      "EUnl": "Nook Inc.-sokken",
+      "CNzh": "Nook Inc.袜子",
+      "TWzh": "Nook Inc.襪子",
+      "JPja": "たぬきかいはつソックス",
+      "KRko": "Nook Inc. 양말",
+      "EUru": "носки Nook Inc."
+    }
+  },
+  {
+    "id": 1188,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dotted knee-high socks",
+      "EUen": "dotted knee-high socks",
+      "EUde": "Paar Punkt-Kniestrümpfe",
+      "EUes": "calcetín topos alto",
+      "USes": "calcetín a lunares alto",
+      "EUfr": "p. chauss. longues à pois",
+      "USfr": "p. chauss. longues à pois",
+      "EUit": "paio di calzettoni a pois",
+      "EUnl": "kniekousen met stippen",
+      "CNzh": "点点膝上袜",
+      "TWzh": "點點膝上襪",
+      "JPja": "ドットのニーハイソックス",
+      "KRko": "도트 니하이 삭스",
+      "EUru": "гольфы в горох"
+    }
+  },
+  {
+    "id": 1189,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple knee-high socks",
+      "EUen": "simple knee-high socks",
+      "EUde": "Paar Simpel-Kniestrümpfe",
+      "EUes": "calcetín sencillo alto",
+      "USes": "calcetín sencillo alto",
+      "EUfr": "p. chauss. longues simples",
+      "USfr": "p. chauss. longues simples",
+      "EUit": "paio di calzettoni semplici",
+      "EUnl": "eenvoudige kniekousen",
+      "CNzh": "简约膝上袜",
+      "TWzh": "簡約膝上襪",
+      "JPja": "シンプルなニーハイソックス",
+      "KRko": "심플 니하이 삭스",
+      "EUru": "простые гольфы"
+    }
+  }
+]

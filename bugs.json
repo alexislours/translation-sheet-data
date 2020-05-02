@@ -1,0 +1,1602 @@
+[
+  {
+    "id": "Insect_00582",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown cicada",
+      "EUen": "brown cicada",
+      "EUde": "Braunzikade",
+      "EUes": "cigarra marrón",
+      "USes": "cigarra marrón",
+      "EUfr": "cigale cercope",
+      "USfr": "cigale cercope",
+      "EUit": "cicala marrone",
+      "EUnl": "bruine cicade",
+      "CNzh": "油蝉",
+      "TWzh": "油蟬",
+      "JPja": "アブラゼミ",
+      "KRko": "유지매미",
+      "EUru": "коричневая цикада"
+    }
+  },
+  {
+    "id": "Insect_00583",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tiger butterfly",
+      "EUen": "tiger butterfly",
+      "EUde": "Schwalbenschwanz",
+      "EUes": "mariposa tigre",
+      "USes": "mariposa tigre",
+      "EUfr": "machaon",
+      "USfr": "machaon",
+      "EUit": "farfalla tigre",
+      "EUnl": "koninginnenpage",
+      "CNzh": "凤蝶",
+      "TWzh": "鳳蝶",
+      "JPja": "アゲハチョウ",
+      "KRko": "호랑나비",
+      "EUru": "махаон"
+    }
+  },
+  {
+    "id": "Insect_00584",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Rajah Brooke's birdwing",
+      "EUen": "Rajah Brooke's birdwing",
+      "EUde": "Troides brookiana",
+      "EUes": "mariposa alas de Brooke",
+      "USes": "mariposa alas de Brooke",
+      "EUfr": "troides brookiana",
+      "USfr": "troides brookiana",
+      "EUit": "farfalla Raja Brooke",
+      "EUnl": "Rajah Brooke-vlinder",
+      "CNzh": "红颈凤蝶",
+      "TWzh": "紅頸鳳蝶",
+      "JPja": "アカエリトリバネアゲハ",
+      "KRko": "붉은목도리비단나비",
+      "EUru": "трогоноптера Брука"
+    }
+  },
+  {
+    "id": "Insect_00585",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red dragonfly",
+      "EUen": "red dragonfly",
+      "EUde": "Feuerlibelle",
+      "EUes": "libélula roja",
+      "USes": "libélula roja",
+      "EUfr": "sympetrum",
+      "USfr": "libellule rouge",
+      "EUit": "libellula rossa",
+      "EUnl": "rode libel",
+      "CNzh": "红蜻蜓",
+      "TWzh": "紅蜻蜓",
+      "JPja": "アキアカネ",
+      "KRko": "고추잠자리",
+      "EUru": "красная стрекоза"
+    }
+  },
+  {
+    "id": "Insect_00586",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Queen Alexandra's birdwing",
+      "EUen": "Queen Alexandra's birdwing",
+      "EUde": "Vogelfalter",
+      "EUes": "mariposa alas de pájaro",
+      "USes": "mariposa alas de pájaro",
+      "EUfr": "troides alexandrae",
+      "USfr": "troides alexandrae",
+      "EUit": "farfalla regina Alessandra",
+      "EUnl": "Alexandra's vogelvlinder",
+      "CNzh": "亚历山大凤蝶",
+      "TWzh": "亞歷山大鳳蝶",
+      "JPja": "アレキサンドラトリバネアゲハ",
+      "KRko": "알렉산드라비단제비나비",
+      "EUru": "птицекрылка Александры"
+    }
+  },
+  {
+    "id": "Insect_00587",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pondskater",
+      "EUen": "pondskater",
+      "EUde": "Wasserläufer",
+      "EUes": "zapatero",
+      "USes": "zapatero",
+      "EUfr": "patineur",
+      "USfr": "patineur",
+      "EUit": "gerride",
+      "EUnl": "schaatsenrijder",
+      "CNzh": "水黾",
+      "TWzh": "水黽",
+      "JPja": "アメンボ",
+      "KRko": "소금쟁이",
+      "EUru": "водомерка"
+    }
+  },
+  {
+    "id": "Insect_00588",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ant",
+      "EUen": "ant",
+      "EUde": "Ameise",
+      "EUes": "hormiga",
+      "USes": "hormiga",
+      "EUfr": "fourmi",
+      "USfr": "fourmi",
+      "EUit": "formica",
+      "EUnl": "mier",
+      "CNzh": "蚂蚁",
+      "TWzh": "螞蟻",
+      "JPja": "アリ",
+      "KRko": "개미",
+      "EUru": "муравей"
+    }
+  },
+  {
+    "id": "Insect_00590",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pill bug",
+      "EUen": "pill bug",
+      "EUde": "Kugelassel",
+      "EUes": "cochinilla",
+      "USes": "cochinilla",
+      "EUfr": "cloporte",
+      "USfr": "cloporte",
+      "EUit": "porcellino di terra",
+      "EUnl": "rolpissebed",
+      "CNzh": "鼠妇",
+      "TWzh": "鼠婦",
+      "JPja": "ダンゴムシ",
+      "KRko": "공벌레",
+      "EUru": "мокрица"
+    }
+  },
+  {
+    "id": "Insect_00591",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wharf roach",
+      "EUen": "wharf roach",
+      "EUde": "Ligia exotica",
+      "EUes": "cochinilla de arena",
+      "USes": "cochinilla de arena",
+      "EUfr": "ligie",
+      "USfr": "ligie",
+      "EUit": "ligia exotica",
+      "EUnl": "strandpissebed",
+      "CNzh": "海蟑螂",
+      "TWzh": "海蟑螂",
+      "JPja": "フナムシ",
+      "KRko": "갯강구",
+      "EUru": "морской таракан"
+    }
+  },
+  {
+    "id": "Insect_00592",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "moth",
+      "EUen": "moth",
+      "EUde": "Motte",
+      "EUes": "polilla",
+      "USes": "polilla",
+      "EUfr": "papillon de nuit",
+      "USfr": "papillon de nuit",
+      "EUit": "falena",
+      "EUnl": "mot",
+      "CNzh": "飞蛾",
+      "TWzh": "飛蛾",
+      "JPja": "ガ",
+      "KRko": "나방",
+      "EUru": "павлиноглазка"
+    }
+  },
+  {
+    "id": "Insect_00594",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diving beetle",
+      "EUen": "diving beetle",
+      "EUde": "Schwimmkäfer",
+      "EUes": "escarabajo nadador",
+      "USes": "escarabajo nadador",
+      "EUfr": "dytique",
+      "USfr": "dytique",
+      "EUit": "ditisco",
+      "EUnl": "waterroofkever",
+      "CNzh": "龙虱",
+      "TWzh": "龍蝨",
+      "JPja": "ゲンゴロウ",
+      "KRko": "물방개",
+      "EUru": "плавунец"
+    }
+  },
+  {
+    "id": "Insect_00595",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "darner dragonfly",
+      "EUen": "darner dragonfly",
+      "EUde": "Königslibelle",
+      "EUes": "libélula caballito del diablo",
+      "USes": "libélula caballito del diablo",
+      "EUfr": "anax napolitain",
+      "USfr": "anax napolitain",
+      "EUit": "libellula depressa",
+      "EUnl": "zuidelijke keizerlibel",
+      "CNzh": "绿胸晏蜓",
+      "TWzh": "綠胸晏蜓",
+      "JPja": "ギンヤンマ",
+      "KRko": "왕잠자리",
+      "EUru": "дозорщик"
+    }
+  },
+  {
+    "id": "Insect_00596",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "goliath beetle",
+      "EUen": "goliath beetle",
+      "EUde": "Goliathkäfer",
+      "EUes": "goliat",
+      "USes": "goliat",
+      "EUfr": "scarabée Goliath",
+      "USfr": "scarabée Goliath",
+      "EUit": "scarabeo Golia",
+      "EUnl": "goliathkever",
+      "CNzh": "歌利亚大角花金龟",
+      "TWzh": "哥利亞大角花金龜",
+      "JPja": "ゴライアスオオツノハナムグリ",
+      "KRko": "골리앗왕꽃무지",
+      "EUru": "жук-голиаф"
+    }
+  },
+  {
+    "id": "Insect_00597",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fly",
+      "EUen": "fly",
+      "EUde": "Fliege",
+      "EUes": "mosca",
+      "USes": "mosca",
+      "EUfr": "mouche",
+      "USfr": "mouche",
+      "EUit": "mosca",
+      "EUnl": "vlieg",
+      "CNzh": "苍蝇",
+      "TWzh": "蒼蠅",
+      "JPja": "ハエ",
+      "KRko": "파리",
+      "EUru": "муха"
+    }
+  },
+  {
+    "id": "Insect_00598",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orchid mantis",
+      "EUen": "orchid mantis",
+      "EUde": "Orchideenmantis",
+      "EUes": "mantis orquídea",
+      "USes": "mantis orquídea",
+      "EUfr": "mante orchidée",
+      "USfr": "mante orchidée",
+      "EUit": "mantide orchidea",
+      "EUnl": "orchidee-bidsprinkhaan",
+      "CNzh": "兰花螳螂",
+      "TWzh": "蘭花螳螂",
+      "JPja": "ハナカマキリ",
+      "KRko": "연꽃사마귀",
+      "EUru": "орхидейный богомол"
+    }
+  },
+  {
+    "id": "Insect_00599",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tiger beetle",
+      "EUen": "tiger beetle",
+      "EUde": "Sandlaufkäfer",
+      "EUes": "escarabajo tigre",
+      "USes": "escarabajo tigre",
+      "EUfr": "cicindèle",
+      "USfr": "cicindèle",
+      "EUit": "cicindela",
+      "EUnl": "zandloopkever",
+      "CNzh": "虎甲虫",
+      "TWzh": "虎甲蟲",
+      "JPja": "ハンミョウ",
+      "KRko": "길앞잡이",
+      "EUru": "жук-скакун"
+    }
+  },
+  {
+    "id": "Insect_00600",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "horned hercules",
+      "EUen": "horned hercules",
+      "EUde": "Herkuleskäfer",
+      "EUes": "escarabajo astado hércules",
+      "USes": "escarabajo astado hércules",
+      "EUfr": "scarabée Hercule",
+      "USfr": "scarabée Hercule",
+      "EUit": "scarabeo Ercole",
+      "EUnl": "herculeskever",
+      "CNzh": "长戟大兜虫",
+      "TWzh": "長戟大兜蟲",
+      "JPja": "ヘラクレスオオカブト",
+      "KRko": "헤라클레스장수풍뎅이",
+      "EUru": "жук-геркулес"
+    }
+  },
+  {
+    "id": "Insect_00601",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "evening cicada",
+      "EUen": "evening cicada",
+      "EUde": "Abendzikade",
+      "EUes": "cigarrilla",
+      "USes": "cigarra",
+      "EUfr": "cigale higurashi",
+      "USfr": "cigale higurashi",
+      "EUit": "cicala notturna",
+      "EUnl": "avondcicade",
+      "CNzh": "暮蝉",
+      "TWzh": "暮蟬",
+      "JPja": "ヒグラシ",
+      "KRko": "쓰르라미",
+      "EUru": "ночная цикада"
+    }
+  },
+  {
+    "id": "Insect_00602",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cyclommatus stag",
+      "EUen": "cyclommatus stag",
+      "EUde": "Cyclommatus",
+      "EUes": "esc. ciervo cyclommatus",
+      "USes": "esc. ciervo cyclommatus",
+      "EUfr": "lucane cyclommatus",
+      "USfr": "lucane cyclommatus",
+      "EUit": "coleottero cyclommatus",
+      "EUnl": "vliegend hert",
+      "CNzh": "细身赤锹形虫",
+      "TWzh": "細身赤鍬形蟲",
+      "JPja": "ホソアカクワガタ",
+      "KRko": "엘라푸스가위사슴벌레",
+      "EUru": "жук-рогач"
+    }
+  },
+  {
+    "id": "Insect_00603",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "firefly",
+      "EUen": "firefly",
+      "EUde": "Leuchtkäfer",
+      "EUes": "luciérnaga",
+      "USes": "luciérnaga",
+      "EUfr": "luciole",
+      "USfr": "luciole",
+      "EUit": "lucciola",
+      "EUnl": "vuurvliegje",
+      "CNzh": "萤火虫",
+      "TWzh": "螢火蟲",
+      "JPja": "ホタル",
+      "KRko": "반디",
+      "EUru": "светлячок"
+    }
+  },
+  {
+    "id": "Insect_00604",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dung beetle",
+      "EUen": "dung beetle",
+      "EUde": "Mistkäfer",
+      "EUes": "escarabajo pelotero",
+      "USes": "escarabajo pelotero",
+      "EUfr": "bousier",
+      "USfr": "bousier",
+      "EUit": "scarabeo stercorario",
+      "EUnl": "mestkever",
+      "CNzh": "蜣螂",
+      "TWzh": "糞金龜",
+      "JPja": "フンコロガシ",
+      "KRko": "쇠똥구리",
+      "EUru": "жук-навозник"
+    }
+  },
+  {
+    "id": "Insect_00605",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rice grasshopper",
+      "EUen": "rice grasshopper",
+      "EUde": "Heuschrecke",
+      "EUes": "langosta",
+      "USes": "langosta",
+      "EUfr": "criquet",
+      "USfr": "criquet",
+      "EUit": "locusta",
+      "EUnl": "rijstsprinkhaan",
+      "CNzh": "稻蝗",
+      "TWzh": "稻蝗",
+      "JPja": "イナゴ",
+      "KRko": "메뚜기",
+      "EUru": "рисовая кобылка"
+    }
+  },
+  {
+    "id": "Insect_00606",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mosquito",
+      "EUen": "mosquito",
+      "EUde": "Mücke",
+      "EUes": "mosquito",
+      "USes": "mosquito",
+      "EUfr": "moustique",
+      "USfr": "moustique",
+      "EUit": "zanzara",
+      "EUnl": "mug",
+      "CNzh": "蚊子",
+      "TWzh": "蚊子",
+      "JPja": "カ",
+      "KRko": "모기",
+      "EUru": "комар"
+    }
+  },
+  {
+    "id": "Insect_00607",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mantis",
+      "EUen": "mantis",
+      "EUde": "Gottesanbeterin",
+      "EUes": "mantis religiosa",
+      "USes": "mantis religiosa",
+      "EUfr": "mante religieuse",
+      "USfr": "mante religieuse",
+      "EUit": "mantide",
+      "EUnl": "bidsprinkhaan",
+      "CNzh": "螳螂",
+      "TWzh": "螳螂",
+      "JPja": "カマキリ",
+      "KRko": "사마귀",
+      "EUru": "богомол"
+    }
+  },
+  {
+    "id": "Insect_00608",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stinkbug",
+      "EUen": "stinkbug",
+      "EUde": "Stinkwanze",
+      "EUes": "chinche",
+      "USes": "chinche",
+      "EUfr": "punaise",
+      "USfr": "punaise",
+      "EUit": "cimice",
+      "EUnl": "schildwants",
+      "CNzh": "椿象",
+      "TWzh": "椿象",
+      "JPja": "カメムシ",
+      "KRko": "노린재",
+      "EUru": "щитник"
+    }
+  },
+  {
+    "id": "Insect_00609",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "citrus long-horned beetle",
+      "EUen": "citrus long-horned beetle",
+      "EUde": "Fichtenbock",
+      "EUes": "longicornio asiático",
+      "USes": "longicornio asiático",
+      "EUfr": "capricorne des agrumes",
+      "USfr": "capricorne des agrumes",
+      "EUit": "tarlo asiatico",
+      "EUnl": "Aziatische boktor",
+      "CNzh": "星天牛",
+      "TWzh": "星天牛",
+      "JPja": "ゴマダラカミキリ",
+      "KRko": "알락하늘소",
+      "EUru": "цитрусовый усач"
+    }
+  },
+  {
+    "id": "Insect_00610",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peacock butterfly",
+      "EUen": "peacock butterfly",
+      "EUde": "Ritterfalter",
+      "EUes": "mariposa bianor",
+      "USes": "mariposa bianor",
+      "EUfr": "papilio bianor",
+      "USfr": "papilio bianor",
+      "EUit": "farfalla vanessa io",
+      "EUnl": "pauwenpage",
+      "CNzh": "乌鸦凤蝶",
+      "TWzh": "烏鴉鳳蝶",
+      "JPja": "カラスアゲハ",
+      "KRko": "제비나비",
+      "EUru": "бианор"
+    }
+  },
+  {
+    "id": "Insect_00611",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snail",
+      "EUen": "snail",
+      "EUde": "Schnecke",
+      "EUes": "caracol",
+      "USes": "caracol",
+      "EUfr": "escargot",
+      "USfr": "escargot",
+      "EUit": "chiocciola",
+      "EUnl": "slak",
+      "CNzh": "蜗牛",
+      "TWzh": "蝸牛",
+      "JPja": "カタツムリ",
+      "KRko": "달팽이",
+      "EUru": "улитка"
+    }
+  },
+  {
+    "id": "Insect_00612",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "horned dynastid",
+      "EUen": "horned dynastid",
+      "EUde": "Nashornkäfer",
+      "EUes": "escarabajo astado japonés",
+      "USes": "escarabajo astado japonés",
+      "EUfr": "scarabée kabuto",
+      "USfr": "scarabée kabuto",
+      "EUit": "scarabeo kabutomushi",
+      "EUnl": "neushoornkever",
+      "CNzh": "独角仙",
+      "TWzh": "獨角仙",
+      "JPja": "カブトムシ",
+      "KRko": "장수풍뎅이",
+      "EUru": "дупляк"
+    }
+  },
+  {
+    "id": "Insect_00613",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "grasshopper",
+      "EUen": "grasshopper",
+      "EUde": "Grashüpfer",
+      "EUes": "saltamontes",
+      "USes": "saltamontes",
+      "EUfr": "sauterelle",
+      "USfr": "sauterelle",
+      "EUit": "cavalletta",
+      "EUnl": "sprinkhaan",
+      "CNzh": "蚱蜢",
+      "TWzh": "蚱蜢",
+      "JPja": "キリギリス",
+      "KRko": "여치",
+      "EUru": "кузнечик"
+    }
+  },
+  {
+    "id": "Insect_00614",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "earth-boring dung beetle",
+      "EUen": "earth-boring dung beetle",
+      "EUde": "Gold-Mistkäfer",
+      "EUes": "escarabajo geotrúpido",
+      "USes": "escarabajo geotrúpido",
+      "EUfr": "geotrupidae",
+      "USfr": "géotrupe",
+      "EUit": "geotrupidae",
+      "EUnl": "echte mestkever",
+      "CNzh": "雪隐金龟",
+      "TWzh": "雪隱金龜",
+      "JPja": "オオセンチコガネ",
+      "KRko": "보라금풍뎅이",
+      "EUru": "навозник-землерой"
+    }
+  },
+  {
+    "id": "Insect_00615",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "horned atlas",
+      "EUen": "horned atlas",
+      "EUde": "Atlaskäfer",
+      "EUes": "escarabajo astado atlas",
+      "USes": "escarabajo astado atlas",
+      "EUfr": "scarabée Atlas",
+      "USfr": "scarabée Atlas",
+      "EUit": "scarabeo atlas",
+      "EUnl": "atlaskever",
+      "CNzh": "高卡萨斯南洋大兜虫",
+      "TWzh": "高卡薩斯南洋大兜蟲",
+      "JPja": "コーカサスオオカブト",
+      "KRko": "코카서스장수풍뎅이",
+      "EUru": "жук-атлас"
+    }
+  },
+  {
+    "id": "Insect_00616",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "walking leaf",
+      "EUen": "walking leaf",
+      "EUde": "Blattschrecke",
+      "EUes": "insecto hoja",
+      "USes": "insecto hoja",
+      "EUfr": "phyllie",
+      "USfr": "phyllie",
+      "EUit": "insetto foglia",
+      "EUnl": "wandelend blad",
+      "CNzh": "叶竹节虫",
+      "TWzh": "葉竹節蟲",
+      "JPja": "コノハムシ",
+      "KRko": "잎사귀벌레",
+      "EUru": "листотел"
+    }
+  },
+  {
+    "id": "Insect_00617",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cricket",
+      "EUen": "cricket",
+      "EUde": "Grille",
+      "EUes": "grillo común",
+      "USes": "grillo común",
+      "EUfr": "grillon des prés",
+      "USfr": "grillon des prés",
+      "EUit": "grillo",
+      "EUnl": "krekel",
+      "CNzh": "蟋蟀",
+      "TWzh": "蟋蟀",
+      "JPja": "コオロギ",
+      "KRko": "귀뚜라미",
+      "EUru": "сверчок"
+    }
+  },
+  {
+    "id": "Insect_00618",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant cicada",
+      "EUen": "giant cicada",
+      "EUde": "Riesenzikade",
+      "EUes": "cigarra gigante",
+      "USes": "cigarra gigante",
+      "EUfr": "cigale géante",
+      "USfr": "cigale géante",
+      "EUit": "cicala gigante",
+      "EUnl": "reuzencicade",
+      "CNzh": "熊蝉",
+      "TWzh": "熊蟬",
+      "JPja": "クマゼミ",
+      "KRko": "곰매미",
+      "EUru": "гигантская цикада"
+    }
+  },
+  {
+    "id": "Insect_00619",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spider",
+      "EUen": "spider",
+      "EUde": "Spinne",
+      "EUes": "araña",
+      "USes": "araña",
+      "EUfr": "araignée",
+      "USfr": "araignée",
+      "EUit": "ragno",
+      "EUnl": "spin",
+      "CNzh": "蜘蛛",
+      "TWzh": "蜘蛛",
+      "JPja": "クモ",
+      "KRko": "거미",
+      "EUru": "паук"
+    }
+  },
+  {
+    "id": "Insect_00620",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "agrias butterfly",
+      "EUen": "agrias butterfly",
+      "EUde": "Agrias-Falter",
+      "EUes": "mariposa narciso",
+      "USes": "mariposa narciso",
+      "EUfr": "agrias",
+      "USfr": "agrias",
+      "EUit": "farfalla agrias",
+      "EUnl": "agriasvlinder",
+      "CNzh": "彩袄蛱蝶",
+      "TWzh": "彩襖蛺蝶",
+      "JPja": "ミイロタテハ",
+      "KRko": "아그리아스나비",
+      "EUru": "агриас клаудина"
+    }
+  },
+  {
+    "id": "Insect_00621",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "robust cicada",
+      "EUen": "robust cicada",
+      "EUde": "Hyalessa-Zikade",
+      "EUes": "cigarra oriental",
+      "USes": "cigarra oriental",
+      "EUfr": "cigale hyalessa",
+      "USfr": "cigale hyalessa",
+      "EUit": "cicala robusta",
+      "EUnl": "minmin-cicade",
+      "CNzh": "斑透翅蝉",
+      "TWzh": "斑透翅蟬",
+      "JPja": "ミンミンゼミ",
+      "KRko": "참매미",
+      "EUru": "певчая цикада"
+    }
+  },
+  {
+    "id": "Insect_00622",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bagworm",
+      "EUen": "bagworm",
+      "EUde": "Sackträger",
+      "EUes": "oruga de bolsón",
+      "USes": "oruga de bolsón",
+      "EUfr": "psyché",
+      "USfr": "psyché",
+      "EUit": "bruco dal fodero",
+      "EUnl": "zakjesdrager",
+      "CNzh": "蓑衣虫",
+      "TWzh": "蓑衣蟲",
+      "JPja": "ミノムシ",
+      "KRko": "도롱이벌레",
+      "EUru": "мешочница"
+    }
+  },
+  {
+    "id": "Insect_00623",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "honeybee",
+      "EUen": "honeybee",
+      "EUde": "Honigbiene",
+      "EUes": "abeja melífera",
+      "USes": "abeja melífera",
+      "EUfr": "abeille naine",
+      "USfr": "abeille naine",
+      "EUit": "ape operaia",
+      "EUnl": "honingbij",
+      "CNzh": "蜜蜂",
+      "TWzh": "蜜蜂",
+      "JPja": "ミツバチ",
+      "KRko": "꿀벌",
+      "EUru": "восковая пчела"
+    }
+  },
+  {
+    "id": "Insect_00624",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "miyama stag",
+      "EUen": "miyama stag",
+      "EUde": "Hirschkäfer",
+      "EUes": "escarabajo ciervo Miyama",
+      "USes": "escarabajo ciervo Miyama",
+      "EUfr": "lucane miyama",
+      "USfr": "lucane miyama",
+      "EUit": "coleottero lucanide",
+      "EUnl": "Miyama-hertkever",
+      "CNzh": "深山锹形虫",
+      "TWzh": "深山鍬形蟲",
+      "JPja": "ミヤマクワガタ",
+      "KRko": "사슴벌레",
+      "EUru": "горный жук-олень"
+    }
+  },
+  {
+    "id": "Insect_00625",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow butterfly",
+      "EUen": "yellow butterfly",
+      "EUde": "Zitronenfalter",
+      "EUes": "mariposa colias",
+      "USes": "mariposa colias",
+      "EUfr": "citrin",
+      "USfr": "citrin",
+      "EUit": "farfalla gialla",
+      "EUnl": "citroenvlinder",
+      "CNzh": "斑缘点粉蝶",
+      "TWzh": "斑緣點粉蝶",
+      "JPja": "モンキチョウ",
+      "KRko": "노랑나비",
+      "EUru": "желтушка"
+    }
+  },
+  {
+    "id": "Insect_00626",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "common butterfly",
+      "EUen": "common butterfly",
+      "EUde": "Kohlweißling",
+      "EUes": "mariposa común",
+      "USes": "mariposa común",
+      "EUfr": "piéride de la rave",
+      "USfr": "piéride de la rave",
+      "EUit": "farfalla comune",
+      "EUnl": "koolwitje",
+      "CNzh": "白粉蝶",
+      "TWzh": "白粉蝶",
+      "JPja": "モンシロチョウ",
+      "KRko": "배추흰나비",
+      "EUru": "белянка"
+    }
+  },
+  {
+    "id": "Insect_00627",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "emperor butterfly",
+      "EUen": "emperor butterfly",
+      "EUde": "Himmelsfalter",
+      "EUes": "mariposa celeste",
+      "USes": "mariposa celeste",
+      "EUfr": "morpho bleu",
+      "USfr": "morpho bleu",
+      "EUit": "farfalla morfo blu",
+      "EUnl": "blauwe morpho",
+      "CNzh": "大蓝闪蝶",
+      "TWzh": "大藍閃蝶",
+      "JPja": "モルフォチョウ",
+      "KRko": "몰포나비",
+      "EUru": "морфо менелай"
+    }
+  },
+  {
+    "id": "Insect_00628",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "centipede",
+      "EUen": "centipede",
+      "EUde": "Hundertfüßer",
+      "EUes": "ciempiés",
+      "USes": "ciempiés",
+      "EUfr": "mille-pattes",
+      "USfr": "mille-pattes",
+      "EUit": "centopiedi",
+      "EUnl": "duizendpoot",
+      "CNzh": "蜈蚣",
+      "TWzh": "蜈蚣",
+      "JPja": "ムカデ",
+      "KRko": "지네",
+      "EUru": "многоножка"
+    }
+  },
+  {
+    "id": "Insect_00630",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "walking stick",
+      "EUen": "walking stick",
+      "EUde": "Stabschrecke",
+      "EUes": "insecto palo",
+      "USes": "insecto palo",
+      "EUfr": "phasme",
+      "USfr": "phasme",
+      "EUit": "insetto stecco",
+      "EUnl": "wandelende tak",
+      "CNzh": "竹节虫",
+      "TWzh": "竹節蟲",
+      "JPja": "ナナフシ",
+      "KRko": "긴수염대벌레",
+      "EUru": "палочник"
+    }
+  },
+  {
+    "id": "Insect_00631",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rainbow stag",
+      "EUen": "rainbow stag",
+      "EUde": "Pracht-Hirschkäfer",
+      "EUes": "escarabajo ciervo arcoíris",
+      "USes": "escarabajo ciervo arcoíris",
+      "EUfr": "lucane copris irisé",
+      "USfr": "lucane copris irisé",
+      "EUit": "coleottero arcobaleno",
+      "EUnl": "regenbooghertkever",
+      "CNzh": "彩虹锹形虫",
+      "TWzh": "彩虹鍬形蟲",
+      "JPja": "ニジイロクワガタ",
+      "KRko": "뮤엘러리사슴벌레",
+      "EUru": "радужный жук-олень"
+    }
+  },
+  {
+    "id": "Insect_00632",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "saw stag",
+      "EUen": "saw stag",
+      "EUde": "Sägezahn-Hirschkäfer",
+      "EUes": "escarabajo ciervo sierra",
+      "USes": "escarabajo ciervo sierra",
+      "EUfr": "lucane inclinatus",
+      "USfr": "lucane inclinatus",
+      "EUit": "coleottero cervo",
+      "EUnl": "zaaghertkever",
+      "CNzh": "锯锹形虫",
+      "TWzh": "鋸鍬形蟲",
+      "JPja": "ノコギリクワガタ",
+      "KRko": "톱사슴벌레",
+      "EUru": "жук-олень"
+    }
+  },
+  {
+    "id": "Insect_00633",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flea",
+      "EUen": "flea",
+      "EUde": "Floh",
+      "EUes": "pulga",
+      "USes": "pulga",
+      "EUfr": "puce",
+      "USfr": "puce",
+      "EUit": "pulce",
+      "EUnl": "vlo",
+      "CNzh": "跳蚤",
+      "TWzh": "跳蚤",
+      "JPja": "ノミ",
+      "KRko": "벼룩",
+      "EUru": "блоха"
+    }
+  },
+  {
+    "id": "Insect_00634",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mole cricket",
+      "EUen": "mole cricket",
+      "EUde": "Maulwurfsgrille",
+      "EUes": "grillo cebollero",
+      "USes": "grillo cebollero",
+      "EUfr": "taupe-grillon",
+      "USfr": "taupe-grillon",
+      "EUit": "grillotalpa",
+      "EUnl": "veenmol",
+      "CNzh": "蝼蛄",
+      "TWzh": "螻蛄",
+      "JPja": "オケラ",
+      "KRko": "땅강아지",
+      "EUru": "медведка"
+    }
+  },
+  {
+    "id": "Insect_00635",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "banded dragonfly",
+      "EUen": "banded dragonfly",
+      "EUde": "Quelljungfer",
+      "EUes": "libélula tigre",
+      "USes": "libélula tigre",
+      "EUfr": "cordulégastre",
+      "USfr": "cordulégastre",
+      "EUit": "libellula striata",
+      "EUnl": "bronlibel",
+      "CNzh": "无霸勾蜓",
+      "TWzh": "無霸勾蜓",
+      "JPja": "オニヤンマ",
+      "KRko": "장수잠자리",
+      "EUru": "кордулегастер"
+    }
+  },
+  {
+    "id": "Insect_00636",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "monarch butterfly",
+      "EUen": "monarch butterfly",
+      "EUde": "Monarchfalter",
+      "EUes": "mariposa monarca",
+      "USes": "mariposa monarca",
+      "EUfr": "monarque",
+      "USfr": "monarque",
+      "EUit": "farfalla monarca",
+      "EUnl": "monarchvlinder",
+      "CNzh": "大桦斑蝶",
+      "TWzh": "大樺斑蝶",
+      "JPja": "オオカバマダラ",
+      "KRko": "왕나비",
+      "EUru": "монарх"
+    }
+  },
+  {
+    "id": "Insect_00637",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant stag",
+      "EUen": "giant stag",
+      "EUde": "Riesen-Hirschkäfer",
+      "EUes": "escarabajo ciervo gigante",
+      "USes": "escarabajo ciervo gigante",
+      "EUfr": "lucane cerf-volant",
+      "USfr": "lucane cerf-volant",
+      "EUit": "coleottero gigante",
+      "EUnl": "reuzenhertkever",
+      "CNzh": "大锹形虫",
+      "TWzh": "大鍬形蟲",
+      "JPja": "オオクワガタ",
+      "KRko": "왕사슴벌레",
+      "EUru": "гигантский жук-олень"
+    }
+  },
+  {
+    "id": "Insect_00638",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "golden stag",
+      "EUen": "golden stag",
+      "EUde": "Allotopus rosenbergi",
+      "EUes": "escarabajo ciervo tornasol",
+      "USes": "escarabajo ciervo tornasol",
+      "EUfr": "lucane lamprima",
+      "USfr": "lucane lamprima",
+      "EUit": "coleottero dorato",
+      "EUnl": "gouden hertkever",
+      "CNzh": "黄金鬼锹形虫",
+      "TWzh": "黃金鬼鍬形蟲",
+      "JPja": "オウゴンオニクワガタ",
+      "KRko": "황금사슴벌레",
+      "EUru": "ламприма"
+    }
+  },
+  {
+    "id": "Insect_00639",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "scarab beetle",
+      "EUen": "scarab beetle",
+      "EUde": "Goldskarabäus",
+      "EUes": "escarabajo oro",
+      "USes": "escarabajo oro",
+      "EUfr": "scarabée",
+      "USfr": "scarabée",
+      "EUit": "chrysina resplendens",
+      "EUnl": "scarabee",
+      "CNzh": "宝石金龟",
+      "TWzh": "寶石金龜",
+      "JPja": "プラチナコガネ",
+      "KRko": "보석풍뎅이",
+      "EUru": "золотой скарабей"
+    }
+  },
+  {
+    "id": "Insect_00640",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "scorpion",
+      "EUen": "scorpion",
+      "EUde": "Skorpion",
+      "EUes": "escorpión",
+      "USes": "escorpión",
+      "EUfr": "scorpion",
+      "USfr": "scorpion",
+      "EUit": "scorpione",
+      "EUnl": "schorpioen",
+      "CNzh": "蝎子",
+      "TWzh": "蠍子",
+      "JPja": "サソリ",
+      "KRko": "전갈",
+      "EUru": "скорпион"
+    }
+  },
+  {
+    "id": "Insect_00641",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cicada shell",
+      "EUen": "cicada shell",
+      "EUde": "Zikadenlarvenhaut",
+      "EUes": "muda de cigarra",
+      "USes": "carcasa de cigarra",
+      "EUfr": "mue de cigale",
+      "USfr": "mue de cigale",
+      "EUit": "esuvia di cicala",
+      "EUnl": "cicadehuid",
+      "CNzh": "蝉蜕",
+      "TWzh": "蟬蛻",
+      "JPja": "セミのぬけがら",
+      "KRko": "매미 허물",
+      "EUru": "кокон цикады"
+    }
+  },
+  {
+    "id": "Insect_00642",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bell cricket",
+      "EUen": "bell cricket",
+      "EUde": "Singgrille",
+      "EUes": "grillo campana",
+      "USes": "grillo campana",
+      "EUfr": "grillon du Midi",
+      "USfr": "grillon du Midi",
+      "EUit": "suzumushi",
+      "EUnl": "belkrekel",
+      "CNzh": "铃虫",
+      "TWzh": "鈴蟲",
+      "JPja": "スズムシ",
+      "KRko": "방울벌레",
+      "EUru": "домашний сверчок"
+    }
+  },
+  {
+    "id": "Insect_00643",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wasp",
+      "EUen": "wasp",
+      "EUde": "Wespe",
+      "EUes": "avispa",
+      "USes": "avispa",
+      "EUfr": "guêpe",
+      "USfr": "guêpe",
+      "EUit": "vespa",
+      "EUnl": "wesp",
+      "CNzh": "黄蜂",
+      "TWzh": "黃蜂",
+      "JPja": "ハチ",
+      "KRko": "벌",
+      "EUru": "оса"
+    }
+  },
+  {
+    "id": "Insect_00644",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "long locust",
+      "EUen": "long locust",
+      "EUde": "Nasenschrecke",
+      "EUes": "langosta alargada",
+      "USes": "langosta alargada",
+      "EUfr": "acrida cinerea",
+      "USfr": "acrida cinerea",
+      "EUit": "acrida cinerea",
+      "EUnl": "veldsprinkhaan",
+      "CNzh": "中华剑角蝗",
+      "TWzh": "中華劍角蝗",
+      "JPja": "ショウリョウバッタ",
+      "KRko": "방아깨비",
+      "EUru": "акрида"
+    }
+  },
+  {
+    "id": "Insect_00645",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "jewel beetle",
+      "EUen": "jewel beetle",
+      "EUde": "Prachtkäfer",
+      "EUes": "escarabajo joya",
+      "USes": "escarabajo joya",
+      "EUfr": "bupreste",
+      "USfr": "bupreste",
+      "EUit": "stigmodera",
+      "EUnl": "prachtkever",
+      "CNzh": "吉丁虫",
+      "TWzh": "吉丁蟲",
+      "JPja": "タマムシ",
+      "KRko": "비단벌레",
+      "EUru": "златка"
+    }
+  },
+  {
+    "id": "Insect_00646",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tarantula",
+      "EUen": "tarantula",
+      "EUde": "Vogelspinne",
+      "EUes": "tarántula",
+      "USes": "tarántula",
+      "EUfr": "tarentule",
+      "USfr": "tarentule",
+      "EUit": "tarantola",
+      "EUnl": "vogelspin",
+      "CNzh": "狼蛛",
+      "TWzh": "狼蛛",
+      "JPja": "タランチュラ",
+      "KRko": "타란툴라",
+      "EUru": "паук-птицеед"
+    }
+  },
+  {
+    "id": "Insect_00647",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ladybug",
+      "EUen": "ladybug",
+      "EUde": "Marienkäfer",
+      "EUes": "mariquita",
+      "USes": "catarina",
+      "EUfr": "coccinelle",
+      "USfr": "coccinelle",
+      "EUit": "coccinella",
+      "EUnl": "lieveheersbeestje",
+      "CNzh": "瓢虫",
+      "TWzh": "瓢蟲",
+      "JPja": "テントウムシ",
+      "KRko": "무당벌레",
+      "EUru": "божья коровка"
+    }
+  },
+  {
+    "id": "Insect_00648",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "migratory locust",
+      "EUen": "migratory locust",
+      "EUde": "Wanderschrecke",
+      "EUes": "langosta migratoria",
+      "USes": "langosta migratoria",
+      "EUfr": "criquet pèlerin",
+      "USfr": "criquet pèlerin",
+      "EUit": "locusta migratoria",
+      "EUnl": "treksprinkhaan",
+      "CNzh": "飞蝗",
+      "TWzh": "飛蝗",
+      "JPja": "トノサマバッタ",
+      "KRko": "섬풀무치",
+      "EUru": "перелетная саранча"
+    }
+  },
+  {
+    "id": "Insect_00649",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "walker cicada",
+      "EUen": "walker cicada",
+      "EUde": "Bergzikade",
+      "EUes": "cigarra común",
+      "USes": "cigarra común",
+      "EUfr": "cigale cicadelle",
+      "USfr": "cigale cicadelle",
+      "EUit": "cicala sputacchina",
+      "EUnl": "bergcicade",
+      "CNzh": "寒蝉",
+      "TWzh": "寒蟬",
+      "JPja": "ツクツクホウシ",
+      "KRko": "애매미",
+      "EUru": "горная цикада"
+    }
+  },
+  {
+    "id": "Insect_00650",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "violin beetle",
+      "EUen": "violin beetle",
+      "EUde": "Geigenkäfer",
+      "EUes": "escarabajo violín",
+      "USes": "escarabajo violín",
+      "EUfr": "mormolyce",
+      "USfr": "mormolyce",
+      "EUit": "carabo violino",
+      "EUnl": "vioolkever",
+      "CNzh": "提琴虫",
+      "TWzh": "提琴蟲",
+      "JPja": "バイオリンムシ",
+      "KRko": "바이올린벌레",
+      "EUru": "листовидная жужелица"
+    }
+  },
+  {
+    "id": "Insect_00651",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hermit crab",
+      "EUen": "hermit crab",
+      "EUde": "Einsiedlerkrebs",
+      "EUes": "cangrejo ermitaño",
+      "USes": "cangrejo ermitaño",
+      "EUfr": "bernard-l'ermite",
+      "USfr": "bernard-l'ermite",
+      "EUit": "granchio paguro",
+      "EUnl": "heremietkreeft",
+      "CNzh": "寄居蟹",
+      "TWzh": "寄居蟹",
+      "JPja": "ヤドカリ",
+      "KRko": "소라게",
+      "EUru": "рак-отшельник"
+    }
+  },
+  {
+    "id": "Insect_00652",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Atlas moth",
+      "EUen": "Atlas moth",
+      "EUde": "Atlasspinner",
+      "EUes": "polilla atlas",
+      "USes": "polilla atlas",
+      "EUfr": "attacus Atlas",
+      "USfr": "attacus Atlas",
+      "EUit": "farfalla cobra",
+      "EUnl": "atlasvlinder",
+      "CNzh": "皇蛾",
+      "TWzh": "皇蛾",
+      "JPja": "ヨナグニサン",
+      "KRko": "아틀라스나방",
+      "EUru": "павлиноглазка атлас"
+    }
+  },
+  {
+    "id": "Insect_00653",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "horned elephant",
+      "EUen": "horned elephant",
+      "EUde": "Elefantenkäfer",
+      "EUes": "escarabajo astado elefante",
+      "USes": "escarabajo astado elefante",
+      "EUfr": "scarabée éléphant",
+      "USfr": "scarabée éléphant",
+      "EUit": "scarabeo elefante",
+      "EUnl": "olifantkever",
+      "CNzh": "象兜虫",
+      "TWzh": "象兜蟲",
+      "JPja": "ゾウカブト",
+      "KRko": "코끼리장수풍뎅이",
+      "EUru": "жук-слон"
+    }
+  },
+  {
+    "id": "Insect_03477",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "common bluebottle",
+      "EUen": "common bluebottle",
+      "EUde": "Kolibrifalter",
+      "EUes": "mariposa triángulo azul",
+      "USes": "mariposa triángulo azul",
+      "EUfr": "graphium sarpedon",
+      "USfr": "graphium sarpedon",
+      "EUit": "graphium sarpedon",
+      "EUnl": "blauwe driehoek",
+      "CNzh": "青带凤蝶",
+      "TWzh": "青帶鳳蝶",
+      "JPja": "アオスジアゲハ",
+      "KRko": "청띠제비나비",
+      "EUru": "графиум сарпедон"
+    }
+  },
+  {
+    "id": "Insect_03478",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "paper kite butterfly",
+      "EUen": "paper kite butterfly",
+      "EUde": "Weiße",
+      "EUes": "mariposa cometa de papel",
+      "USes": "mariposa papel de arroz",
+      "EUfr": "grand planeur",
+      "USfr": "grand planeur",
+      "EUit": "farfalla carta di riso",
+      "EUnl": "papiervlinder",
+      "CNzh": "大白斑蝶",
+      "TWzh": "大白斑蝶",
+      "JPja": "オオゴマダラ",
+      "KRko": "왕얼룩나비",
+      "EUru": "идея левконоя"
+    }
+  },
+  {
+    "id": "Insect_03479",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "great purple emperor",
+      "EUen": "great purple emperor",
+      "EUde": "Japan-Schillerfalter",
+      "EUes": "marip. emperador japonés",
+      "USes": "marip. emperador japonés",
+      "EUfr": "sasakia charonda",
+      "USfr": "grand empereur pourpre",
+      "EUit": "farfalla imperatore viola",
+      "EUnl": "paarse keizervlinder",
+      "CNzh": "大紫蛱蝶",
+      "TWzh": "大紫蛺蝶",
+      "JPja": "オオムラサキ",
+      "KRko": "왕오색나비",
+      "EUru": "сасакия харонда"
+    }
+  },
+  {
+    "id": "Insect_03480",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "drone beetle",
+      "EUen": "drone beetle",
+      "EUde": "Japan-Rosenkäfer",
+      "EUes": "escarabajo verde japonés",
+      "USes": "escarabajo verde japonés",
+      "EUfr": "pseudotorynorrhina",
+      "USfr": "cétoine dorée",
+      "EUit": "cetonia dorata",
+      "EUnl": "bladsprietkever",
+      "CNzh": "日铜锣花金龟",
+      "TWzh": "日銅鑼花金龜",
+      "JPja": "カナブン",
+      "KRko": "풍이",
+      "EUru": "бронзовка"
+    }
+  },
+  {
+    "id": "Insect_03482",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giraffe stag",
+      "EUen": "giraffe stag",
+      "EUde": "Giraffenhirschkäfer",
+      "EUes": "escarabajo ciervo jirafa",
+      "USes": "escarabajo ciervo jirafa",
+      "EUfr": "lucane girafe",
+      "USfr": "lucane girafe",
+      "EUit": "coleottero giraffa",
+      "EUnl": "girafhertkever",
+      "CNzh": "长颈鹿锯锹形虫",
+      "TWzh": "長頸鹿鋸鍬形蟲",
+      "JPja": "ギラファノコギリクワガタ",
+      "KRko": "기라파톱사슴벌레",
+      "EUru": "рогач-жираф"
+    }
+  },
+  {
+    "id": "Insect_03483",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "man-faced stink bug",
+      "EUen": "man-faced stink bug",
+      "EUde": "Gesichtswanze",
+      "EUes": "chinche con rostro humano",
+      "USes": "chinche con rostro humano",
+      "EUfr": "catacanthus",
+      "USfr": "catacanthus",
+      "EUit": "catacanthus",
+      "EUnl": "gezichtschildwants",
+      "CNzh": "人面椿象",
+      "TWzh": "人面椿象",
+      "JPja": "ジンメンカメムシ",
+      "KRko": "인면노린재",
+      "EUru": "щитник с лицом"
+    }
+  },
+  {
+    "id": "Insect_03484",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Madagascan sunset moth",
+      "EUen": "Madagascan sunset moth",
+      "EUde": "Regenbogenfalter",
+      "EUes": "polilla crepuscular",
+      "USes": "polilla crepuscular",
+      "EUfr": "chrysiridia rhipheus",
+      "USfr": "adriandolo",
+      "EUit": "urania del Madagascar",
+      "EUnl": "adriandolo",
+      "CNzh": "日落蛾",
+      "TWzh": "日落蛾",
+      "JPja": "ニシキオオツバメガ",
+      "KRko": "마다가스카르비단제비나방",
+      "EUru": "урания мадагаскарская"
+    }
+  },
+  {
+    "id": "Insect_03485",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue weevil beetle",
+      "EUen": "blue weevil beetle",
+      "EUde": "Blaurüsselkäfer",
+      "EUes": "gorgojo azul",
+      "USes": "gorgojo azul",
+      "EUfr": "charançon bleu",
+      "USfr": "charançon bleu",
+      "EUit": "coleottero Schoenherr",
+      "EUnl": "blauwe snuitkever",
+      "CNzh": "宝石象鼻虫",
+      "TWzh": "寶石象鼻蟲",
+      "JPja": "ホウセキゾウムシ",
+      "KRko": "유포루스바구미",
+      "EUru": "синий долгоносик"
+    }
+  },
+  {
+    "id": "Insect_03487",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rosalia batesi beetle",
+      "EUen": "rosalia batesi beetle",
+      "EUde": "Alpenbock",
+      "EUes": "escarabajo rosalia batesi",
+      "USes": "escarabajo rosalia batesi",
+      "EUfr": "rosalia batesi",
+      "USfr": "rosalia batesi",
+      "EUit": "coleottero rosalia batesi",
+      "EUnl": "alpenboktor",
+      "CNzh": "琉璃星天牛",
+      "TWzh": "琉璃星天牛",
+      "JPja": "ルリボシカミキリ",
+      "KRko": "루리하늘소",
+      "EUru": "розалия"
+    }
+  },
+  {
+    "id": "Insect_05157",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "giant water bug",
+      "EUen": "giant water bug",
+      "EUde": "Riesenwanze",
+      "EUes": "chinche acuática gigante",
+      "USes": "chinche acuática gigante",
+      "EUfr": "punaise d'eau géante",
+      "USfr": "punaise d'eau géante",
+      "EUit": "cimice d'acqua gigante",
+      "EUnl": "reuzenwaterwants",
+      "CNzh": "田鳖",
+      "TWzh": "田鱉",
+      "JPja": "タガメ",
+      "KRko": "물장군",
+      "EUru": "водяной клоп-гигант"
+    }
+  },
+  {
+    "id": "Insect_05339",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "damselfly",
+      "EUen": "damselfly",
+      "EUde": "Wasserjungfer",
+      "EUes": "libélula damisela",
+      "USes": "libélula damisela",
+      "EUfr": "demoiselle",
+      "USfr": "demoiselle",
+      "EUit": "zigottero",
+      "EUnl": "juffer",
+      "CNzh": "豆娘",
+      "TWzh": "豆娘",
+      "JPja": "イトトンボ",
+      "KRko": "실잠자리",
+      "EUru": "равнокрылая стрекоза"
+    }
+  }
+]

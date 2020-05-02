@@ -1,0 +1,5802 @@
+[
+  {
+    "id": 6,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped shirt",
+      "EUen": "striped shirt",
+      "EUde": "Ringelpulli",
+      "EUes": "jersey rayas",
+      "USes": "suéter a rayas",
+      "EUfr": "pull léger rayé",
+      "USfr": "gilet léger rayé",
+      "EUit": "maglia a righe",
+      "EUnl": "gestreepte shirt",
+      "CNzh": "粗横纹T恤",
+      "TWzh": "粗橫紋T恤",
+      "JPja": "ボーダーＴシャツ",
+      "KRko": "줄무늬 티셔츠",
+      "EUru": "тельняшка-лонгслив"
+    }
+  },
+  {
+    "id": 8,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mountain parka",
+      "EUen": "mountain parka",
+      "EUde": "Bergsteigerjacke",
+      "EUes": "sudadera de montaña",
+      "USes": "sudadera de montaña",
+      "EUfr": "parka de montagne",
+      "USfr": "parka de montagne",
+      "EUit": "felpa da montagna",
+      "EUnl": "outdoorjas",
+      "CNzh": "登山连帽上衣",
+      "TWzh": "登山連帽上衣",
+      "JPja": "マウンテンパーカー",
+      "KRko": "마운틴 파카",
+      "EUru": "куртка с капюшоном"
+    }
+  },
+  {
+    "id": 13,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peacoat",
+      "EUen": "peacoat",
+      "EUde": "Dufflecoat",
+      "EUes": "trenca",
+      "USes": "abrigo grueso",
+      "EUfr": "duffel-coat",
+      "USfr": "manteau marine",
+      "EUit": "giacca montgomery",
+      "EUnl": "wollen jas",
+      "CNzh": "羊毛混纺牛角扣大衣",
+      "TWzh": "羊毛混紡牛角釦大衣",
+      "JPja": "ダッフルコート",
+      "KRko": "더플코트",
+      "EUru": "бушлат"
+    }
+  },
+  {
+    "id": 18,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "trench coat",
+      "EUen": "trench coat",
+      "EUde": "Trenchcoat",
+      "EUes": "gabardina",
+      "USes": "gabardina",
+      "EUfr": "pardessus",
+      "USfr": "imper",
+      "EUit": "trench",
+      "EUnl": "trenchcoat",
+      "CNzh": "风衣",
+      "TWzh": "風衣",
+      "JPja": "トレンチコート",
+      "KRko": "트렌치코트",
+      "EUru": "тренчкот"
+    }
+  },
+  {
+    "id": 19,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kung-fu tee",
+      "EUen": "kung-fu tee",
+      "EUde": "Kung-Fu-Hemd",
+      "EUes": "camiseta kung-fu",
+      "USes": "camiseta kung-fu",
+      "EUfr": "veste kung-fu",
+      "USfr": "manteau kung-fu",
+      "EUit": "maglietta da kung fu",
+      "EUnl": "kungfushirt",
+      "CNzh": "功夫衫",
+      "TWzh": "功夫衣服",
+      "JPja": "カンフーなふく",
+      "KRko": "쿵푸 옷",
+      "EUru": "майка для кун-фу"
+    }
+  },
+  {
+    "id": 21,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "letter jacket",
+      "EUen": "letter jacket",
+      "EUde": "Collegejacke",
+      "EUes": "cazadora",
+      "USes": "chamarra",
+      "EUfr": "veste collège",
+      "USfr": "manteau collège",
+      "EUit": "giacca college",
+      "EUnl": "sportjack",
+      "CNzh": "棒球外套",
+      "TWzh": "棒球外套",
+      "JPja": "スタジャン",
+      "KRko": "점퍼",
+      "EUru": "куртка с буквой"
+    }
+  },
+  {
+    "id": 22,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "three-ball tee",
+      "EUen": "three-ball tee",
+      "EUde": "3er-Shirt",
+      "EUes": "camiseta bola 3",
+      "USes": "camiseta bola 3",
+      "EUfr": "t-shirt nº 3",
+      "USfr": "t-shirt nº 3",
+      "EUit": "maglietta palla 3",
+      "EUnl": "3-bal-T-shirt",
+      "CNzh": "3号球上衣",
+      "TWzh": "3號球衣服",
+      "JPja": "３ばんだまのふく",
+      "KRko": "3번공 옷",
+      "EUru": "футболка «3»"
+    }
+  },
+  {
+    "id": 23,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "two-ball tee",
+      "EUen": "two-ball tee",
+      "EUde": "2er-Shirt",
+      "EUes": "camiseta bola 2",
+      "USes": "camiseta bola 2",
+      "EUfr": "t-shirt nº 2",
+      "USfr": "t-shirt nº 2",
+      "EUit": "maglietta palla 2",
+      "EUnl": "2-bal-T-shirt",
+      "CNzh": "2号球上衣",
+      "TWzh": "2號球衣服",
+      "JPja": "２ばんだまのふく",
+      "KRko": "2번공 옷",
+      "EUru": "футболка «2»"
+    }
+  },
+  {
+    "id": 25,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "layered tank",
+      "EUen": "layered tank",
+      "EUde": "Lagentop",
+      "EUes": "top con volantes",
+      "USes": "top con volados",
+      "EUfr": "débardeur à volants",
+      "USfr": "camisole à volants",
+      "EUit": "canotta a strati",
+      "EUnl": "laagjeshemdje",
+      "CNzh": "简约波浪边细肩带背心",
+      "TWzh": "簡約荷葉邊細肩帶背心",
+      "JPja": "シンプルフリルキャミソール",
+      "KRko": "심플 프릴 캐미솔",
+      "EUru": "многослойный топ"
+    }
+  },
+  {
+    "id": 26,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "silk shirt",
+      "EUen": "silk shirt",
+      "EUde": "Asia-Hemd",
+      "EUes": "blusa de seda",
+      "USes": "blusa de seda",
+      "EUfr": "veste chinoise",
+      "USfr": "manteau de soie",
+      "EUit": "giacca di seta",
+      "EUnl": "zijden shirt",
+      "CNzh": "中国风上衣",
+      "TWzh": "中華風衣服",
+      "JPja": "チャイナふく",
+      "KRko": "중국풍 옷",
+      "EUru": "шелковая рубашка"
+    }
+  },
+  {
+    "id": 27,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "raglan shirt",
+      "EUen": "raglan shirt",
+      "EUde": "Raglan-Shirt",
+      "EUes": "jersey manga raglán",
+      "USes": "suéter manga raglán",
+      "EUfr": "t-shirt raglan m. longues",
+      "USfr": "t-shirt raglan m. longues",
+      "EUit": "maglia raglan",
+      "EUnl": "raglanshirt",
+      "CNzh": "插肩T恤",
+      "TWzh": "插肩T恤",
+      "JPja": "ラグランＴシャツ",
+      "KRko": "래글런 티셔츠",
+      "EUru": "лонгслив реглан"
+    }
+  },
+  {
+    "id": 33,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "basketball tank",
+      "EUen": "basketball tank",
+      "EUde": "Basketballtrikot",
+      "EUes": "top básquet",
+      "USes": "top básquet",
+      "EUfr": "débardeur basketball",
+      "USfr": "camisole de basketball",
+      "EUit": "canotta da basket",
+      "EUnl": "basketbalshirt",
+      "CNzh": "篮球衣",
+      "TWzh": "籃球衣",
+      "JPja": "バスケシャツ",
+      "KRko": "농구복 상의",
+      "EUru": "баскетбольный топ"
+    }
+  },
+  {
+    "id": 35,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hand-knit tank",
+      "EUen": "hand-knit tank",
+      "EUde": "Stricktop",
+      "EUes": "chaleco de punto",
+      "USes": "chaleco tejido",
+      "EUfr": "débardeur tricoté main",
+      "USfr": "débardeur tricoté main",
+      "EUit": "maglione smanicato",
+      "EUnl": "handgebreide tanktop",
+      "CNzh": "无袖针织衫",
+      "TWzh": "無袖針織衫",
+      "JPja": "ノースリーブのニット",
+      "KRko": "민소매 니트",
+      "EUru": "вязаный топ"
+    }
+  },
+  {
+    "id": 37,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "down jacket",
+      "EUen": "down jacket",
+      "EUde": "Thermojacke",
+      "EUes": "chaqueta acolchada",
+      "USes": "abrigo acolchado",
+      "EUfr": "doudoune",
+      "USfr": "doudoune",
+      "EUit": "piumino",
+      "EUnl": "gewatteerde jas",
+      "CNzh": "羽绒外套",
+      "TWzh": "羽絨外套",
+      "JPja": "ダウンジャケット",
+      "KRko": "다운재킷",
+      "EUru": "пуховая куртка"
+    }
+  },
+  {
+    "id": 40,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dress shirt",
+      "EUen": "dress shirt",
+      "EUde": "Anzughemd",
+      "EUes": "camisa de vestir",
+      "USes": "camisa de vestir",
+      "EUfr": "chemise habillée",
+      "USfr": "chemise habillée",
+      "EUit": "camicia classica",
+      "EUnl": "nette overhemd",
+      "CNzh": "衬衫",
+      "TWzh": "襯衫",
+      "JPja": "ワイシャツ",
+      "KRko": "와이셔츠",
+      "EUru": "классическая рубашка"
+    }
+  },
+  {
+    "id": 42,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sailor's tee",
+      "EUen": "sailor's tee",
+      "EUde": "Marineshirt",
+      "EUes": "camiseta marinera",
+      "USes": "camiseta marinera",
+      "EUfr": "t-shirt matelot",
+      "USfr": "t-shirt matelot",
+      "EUit": "maglietta da marinaio",
+      "EUnl": "matrozenshirt",
+      "CNzh": "短袖水手服",
+      "TWzh": "短袖水手服",
+      "JPja": "はんそでセーラーふく",
+      "KRko": "세일러복",
+      "EUru": "майка моряка"
+    }
+  },
+  {
+    "id": 43,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple parka",
+      "EUen": "simple parka",
+      "EUde": "Kapuzenpulli",
+      "EUes": "sudadera con capucha",
+      "USes": "sudadera con capucha",
+      "EUfr": "sweat à capuche simple",
+      "USfr": "coton ouaté simple",
+      "EUit": "felpa semplice",
+      "EUnl": "hoody",
+      "CNzh": "简约连帽上衣",
+      "TWzh": "簡約連帽上衣",
+      "JPja": "シンプルなパーカー",
+      "KRko": "심플한 파카",
+      "EUru": "простая толстовка"
+    }
+  },
+  {
+    "id": 44,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kids' smock",
+      "EUen": "kids' smock",
+      "EUde": "Malkittel",
+      "EUes": "jersey parvulario",
+      "USes": "bata de kínder",
+      "EUfr": "blouse enfant",
+      "USfr": "blouse enfant",
+      "EUit": "maglia da scolaro",
+      "EUnl": "kinderjakje",
+      "CNzh": "儿童罩衣",
+      "TWzh": "兒童罩衣",
+      "JPja": "スモック",
+      "KRko": "유치원생 옷",
+      "EUru": "детская кофточка"
+    }
+  },
+  {
+    "id": 56,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "graduation gown",
+      "EUen": "graduation gown",
+      "EUde": "Uni-Robe",
+      "EUes": "túnica graduación",
+      "USes": "túnica graduación",
+      "EUfr": "tenue remise de diplôme",
+      "USfr": "tenue remise de diplôme",
+      "EUit": "toga da laurea",
+      "EUnl": "afstudeertoga",
+      "CNzh": "学士服",
+      "TWzh": "學士服",
+      "JPja": "がくしのふく",
+      "KRko": "학사 가운",
+      "EUru": "одеяние магистра"
+    }
+  },
+  {
+    "id": 59,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "short-sleeve dress shirt",
+      "EUen": "short-sleeve dress shirt",
+      "EUde": "Kurzarmhemd",
+      "EUes": "camisa de manga corta",
+      "USes": "camisa de manga corta",
+      "EUfr": "chemisette habillée",
+      "USfr": "chemisette habillée",
+      "EUit": "camicia a maniche corte",
+      "EUnl": "kortemouwenoverhemd",
+      "CNzh": "短袖衬衫",
+      "TWzh": "短袖襯衫",
+      "JPja": "はんそでワイシャツ",
+      "KRko": "반팔 와이셔츠",
+      "EUru": "легкая рубашка"
+    }
+  },
+  {
+    "id": 60,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeveless dress shirt",
+      "EUen": "sleeveless dress shirt",
+      "EUde": "Sommeranzughemd",
+      "EUes": "camisa sin mangas",
+      "USes": "camisa sin mangas",
+      "EUfr": "chemise sans manches",
+      "USfr": "chemise sans manches",
+      "EUit": "camicia smanicata",
+      "EUnl": "",
+      "CNzh": "无袖有领衬衫",
+      "TWzh": "無袖有領襯衫",
+      "JPja": "ノースリーブえりつきシャツ",
+      "KRko": "민소매 셔츠",
+      "EUru": "безрукавка"
+    }
+  },
+  {
+    "id": 64,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hanten jacket",
+      "EUen": "hanten jacket",
+      "EUde": "Hanten-Jacke",
+      "EUes": "bata de invierno gruesa",
+      "USes": "bata de invierno gruesa",
+      "EUfr": "veste hanten",
+      "USfr": "gilet hanten",
+      "EUit": "giacca hanten",
+      "EUnl": "hanten-jas",
+      "CNzh": "和服外套",
+      "TWzh": "日式棉襖外套",
+      "JPja": "はんてん",
+      "KRko": "방한복",
+      "EUru": "куртка хантен"
+    }
+  },
+  {
+    "id": 70,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "raincoat",
+      "EUen": "raincoat",
+      "EUde": "Regenmantel",
+      "EUes": "impermeable",
+      "USes": "impermeable",
+      "EUfr": "imperméable",
+      "USfr": "imperméable",
+      "EUit": "impermeabile",
+      "EUnl": "regenjas",
+      "CNzh": "雨衣",
+      "TWzh": "雨衣",
+      "JPja": "レインコート",
+      "KRko": "우비",
+      "EUru": "дождевик"
+    }
+  },
+  {
+    "id": 71,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "noble coat",
+      "EUen": "noble coat",
+      "EUde": "Adelsrobe",
+      "EUes": "casaca nobiliaria",
+      "USes": "casaca nobiliaria",
+      "EUfr": "redingote",
+      "USfr": "redingote",
+      "EUit": "redingote",
+      "EUnl": "aristocratenjas",
+      "CNzh": "贵族大衣",
+      "TWzh": "貴族大衣",
+      "JPja": "きぞくのコート",
+      "KRko": "귀족 코트",
+      "EUru": "сюртук вельможи"
+    }
+  },
+  {
+    "id": 72,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "polo shirt",
+      "EUen": "polo shirt",
+      "EUde": "Polohemd",
+      "EUes": "polo de dependiente",
+      "USes": "camiseta polo",
+      "EUfr": "polo",
+      "USfr": "polo",
+      "EUit": "polo",
+      "EUnl": "poloshirt",
+      "CNzh": "Polo衫",
+      "TWzh": "Polo衫",
+      "JPja": "ポロシャツ",
+      "KRko": "폴로 셔츠",
+      "EUru": "тенниска"
+    }
+  },
+  {
+    "id": 73,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "doctor's coat",
+      "EUen": "doctor's coat",
+      "EUde": "Arztkittel",
+      "EUes": "bata médica",
+      "USes": "bata médica",
+      "EUfr": "blouse de docteur",
+      "USfr": "sarrau",
+      "EUit": "camice da medico",
+      "EUnl": "doktersjas",
+      "CNzh": "医生袍",
+      "TWzh": "醫生袍",
+      "JPja": "はくい",
+      "KRko": "백의",
+      "EUru": "халат врача"
+    }
+  },
+  {
+    "id": 74,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chef's outfit",
+      "EUen": "chef's outfit",
+      "EUde": "Koch-Outfit",
+      "EUes": "uniforme de chef",
+      "USes": "uniforme de chef",
+      "EUfr": "tenue de chef",
+      "USfr": "tenue de chef",
+      "EUit": "divisa da cuoco",
+      "EUnl": "koksbuis",
+      "CNzh": "厨师服",
+      "TWzh": "廚師衣服",
+      "JPja": "コックさんのふく",
+      "KRko": "요리사 옷",
+      "EUru": "одежда повара"
+    }
+  },
+  {
+    "id": 75,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "café uniform",
+      "EUen": "café uniform",
+      "EUde": "Kellnerkleidung",
+      "EUes": "uniforme de camarero",
+      "USes": "uniforme de camarero",
+      "EUfr": "tenue de barista",
+      "USfr": "tenue de barista",
+      "EUit": "gilet da barista",
+      "EUnl": "kelnersgilet",
+      "CNzh": "咖啡店制服",
+      "TWzh": "咖啡店制服",
+      "JPja": "カフェのせいふく",
+      "KRko": "카페 유니폼",
+      "EUru": "форма официанта"
+    }
+  },
+  {
+    "id": 76,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gym tee",
+      "EUen": "gym tee",
+      "EUde": "Gymnastikshirt",
+      "EUes": "camiseta sport",
+      "USes": "camiseta sport",
+      "EUfr": "t-shirt sport",
+      "USfr": "t-shirt sport",
+      "EUit": "maglietta sportiva",
+      "EUnl": "gymnastiekshirt",
+      "CNzh": "体操服",
+      "TWzh": "體操服",
+      "JPja": "たいそうふく",
+      "KRko": "체육복",
+      "EUru": "спортивная футболка"
+    }
+  },
+  {
+    "id": 77,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tank",
+      "EUen": "tank",
+      "EUde": "Tanktop",
+      "EUes": "top básico",
+      "USes": "top básico",
+      "EUfr": "débardeur",
+      "USfr": "camisole",
+      "EUit": "canotta",
+      "EUnl": "tanktop",
+      "CNzh": "坦克背心",
+      "TWzh": "坦克背心",
+      "JPja": "タンクトップ",
+      "KRko": "탱크톱",
+      "EUru": "топ"
+    }
+  },
+  {
+    "id": 78,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "comedian's outfit",
+      "EUen": "comedian's outfit",
+      "EUde": "Komikerjacke",
+      "EUes": "chaqueta de humorista",
+      "USes": "saco de humorista",
+      "EUfr": "tenue de comique",
+      "USfr": "tenue d'humoriste",
+      "EUit": "giacca da umorista",
+      "EUnl": "komiekenjasje",
+      "CNzh": "喜剧演员服",
+      "TWzh": "諧星衣服",
+      "JPja": "コメディアンなふく",
+      "KRko": "코미디언 옷",
+      "EUru": "пиджак юмориста"
+    }
+  },
+  {
+    "id": 79,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "biker jacket",
+      "EUen": "biker jacket",
+      "EUde": "Bikerjacke",
+      "EUes": "chaqueta rock",
+      "USes": "chamarra rock",
+      "EUfr": "veste de motard",
+      "USfr": "manteau de motard",
+      "EUit": "giacca da motociclista",
+      "EUnl": "motorjack",
+      "CNzh": "机车皮外套",
+      "TWzh": "騎士皮外套",
+      "JPja": "ライダースジャケット",
+      "KRko": "라이더 재킷",
+      "EUru": "косуха"
+    }
+  },
+  {
+    "id": 80,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "garden tank",
+      "EUen": "garden tank",
+      "EUde": "Gartentop",
+      "EUes": "top flores",
+      "USes": "top flores",
+      "EUfr": "débardeur jardin",
+      "USfr": "camisole jardin",
+      "EUit": "canotta millefiori",
+      "EUnl": "gebloemde hemdje",
+      "CNzh": "花朵图案细肩带背心",
+      "TWzh": "花紋圖案細肩帶背心",
+      "JPja": "はながらのプリントキャミ",
+      "KRko": "꽃무늬 캐미솔",
+      "EUru": "летний топ"
+    }
+  },
+  {
+    "id": 81,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "denim jacket",
+      "EUen": "denim jacket",
+      "EUde": "Bluejeansjacke",
+      "EUes": "chaqueta vaquera",
+      "USes": "chamarra de jean",
+      "EUfr": "veste en jean",
+      "USfr": "manteau en jean",
+      "EUit": "giacca di jeans",
+      "EUnl": "spijkerjasje",
+      "CNzh": "牛仔外套",
+      "TWzh": "牛仔外套",
+      "JPja": "デニムジャケット",
+      "KRko": "데님 재킷",
+      "EUru": "джинсовая куртка"
+    }
+  },
+  {
+    "id": 82,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rubber apron",
+      "EUen": "rubber apron",
+      "EUde": "Kunststoffschürze",
+      "EUes": "delantal rígido",
+      "USes": "delantal rígido",
+      "EUfr": "tablier caoutchouc",
+      "USfr": "tablier caoutchouc",
+      "EUit": "grembiule di gomma",
+      "EUnl": "rubber schort",
+      "CNzh": "橡胶围裙",
+      "TWzh": "橡膠圍裙",
+      "JPja": "ゴムエプロン",
+      "KRko": "고무 앞치마",
+      "EUru": "резиновый фартук"
+    }
+  },
+  {
+    "id": 83,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fishing vest",
+      "EUen": "fishing vest",
+      "EUde": "Angelweste",
+      "EUes": "chaleco de pesca",
+      "USes": "chaleco de pesca",
+      "EUfr": "veste de pêcheur",
+      "USfr": "veste de pêcheur",
+      "EUit": "giubbotto da pesca",
+      "EUnl": "vissersvest",
+      "CNzh": "钓鱼背心",
+      "TWzh": "釣魚背心",
+      "JPja": "つりジャケット",
+      "KRko": "낚시 재킷",
+      "EUru": "жилет рыбака"
+    }
+  },
+  {
+    "id": 84,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "faux-shearling coat",
+      "EUen": "faux-shearling coat",
+      "EUde": "Kunstfelljacke",
+      "EUes": "trenca sherpa",
+      "USes": "abrigo piel sintética",
+      "EUfr": "manteau fourré",
+      "USfr": "manteau fourré",
+      "EUit": "giacca di finto montone",
+      "EUnl": "winterjas",
+      "CNzh": "麂皮大衣",
+      "TWzh": "麂皮大衣",
+      "JPja": "ムートンコート",
+      "KRko": "양가죽 코트",
+      "EUru": "пальто «под овчину»"
+    }
+  },
+  {
+    "id": 85,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flannel shirt",
+      "EUen": "flannel shirt",
+      "EUde": "Flanellhemd",
+      "EUes": "camisa de franela",
+      "USes": "camisa de franela",
+      "EUfr": "chemise en flanelle",
+      "USfr": "gilet en flanelle",
+      "EUit": "camicia di flanella",
+      "EUnl": "houthakkershemd",
+      "CNzh": "法兰绒衬衫",
+      "TWzh": "法蘭絨襯衫",
+      "JPja": "ネルシャツ",
+      "KRko": "플란넬 셔츠",
+      "EUru": "шотландка"
+    }
+  },
+  {
+    "id": 86,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "denim vest",
+      "EUen": "denim vest",
+      "EUde": "Jeansweste",
+      "EUes": "chaleco vaquero",
+      "USes": "chaleco de jean",
+      "EUfr": "veston en jean",
+      "USfr": "veste en jean",
+      "EUit": "gilet di jeans",
+      "EUnl": "",
+      "CNzh": "牛仔背心",
+      "TWzh": "牛仔背心",
+      "JPja": "そでなしＧジャン",
+      "KRko": "민소매 데님 재킷",
+      "EUru": "джинсовый жилет"
+    }
+  },
+  {
+    "id": 87,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "apron",
+      "EUen": "apron",
+      "EUde": "Kittelschürze",
+      "EUes": "delantal",
+      "USes": "delantal",
+      "EUfr": "tablier",
+      "USfr": "tablier",
+      "EUit": "grembiule",
+      "EUnl": "schort",
+      "CNzh": "围裙",
+      "TWzh": "圍裙",
+      "JPja": "エプロン",
+      "KRko": "앞치마",
+      "EUru": "фартук"
+    }
+  },
+  {
+    "id": 88,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "military uniform",
+      "EUen": "military uniform",
+      "EUde": "Militärjacke",
+      "EUes": "chaqueta militar",
+      "USes": "uniforme militar",
+      "EUfr": "veste militaire",
+      "USfr": "manteau militaire",
+      "EUit": "giacca militare",
+      "EUnl": "paleiswachtersjas",
+      "CNzh": "骑兵队制服",
+      "TWzh": "騎兵隊衣服",
+      "JPja": "へいたいのふく",
+      "KRko": "군인 옷",
+      "EUru": "военная форма"
+    }
+  },
+  {
+    "id": 90,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cavalier shirt",
+      "EUen": "cavalier shirt",
+      "EUde": "Edelmann-Hemd",
+      "EUes": "jersey de mosquetero",
+      "USes": "suéter mosquetero",
+      "EUfr": "tenue de mousquetaire",
+      "USfr": "tenue de mousquetaire",
+      "EUit": "giubba da moschettiere",
+      "EUnl": "musketierstuniek",
+      "CNzh": "候补骑士服",
+      "TWzh": "騎士衣服",
+      "JPja": "じゅうきしのふく",
+      "KRko": "기사 옷",
+      "EUru": "форма кавалериста"
+    }
+  },
+  {
+    "id": 91,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pineapple aloha shirt",
+      "EUen": "pineapple aloha shirt",
+      "EUde": "Ananas-Hawaiihemd",
+      "EUes": "camisa aloha piñas",
+      "USes": "camisa aloha piñas",
+      "EUfr": "chemisette Hawaï ananas",
+      "USfr": "chemise aloha ananas",
+      "EUit": "camicia aloha con ananas",
+      "EUnl": "ananas-hawaïshirt",
+      "CNzh": "凤梨夏威夷衬衫",
+      "TWzh": "鳳梨圖案夏威夷襯衫",
+      "JPja": "パインがらアロハシャツ",
+      "KRko": "파인애플 알로하 셔츠",
+      "EUru": "ананасная гавайка"
+    }
+  },
+  {
+    "id": 92,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lacy tank",
+      "EUen": "lacy tank",
+      "EUde": "Spitzentop",
+      "EUes": "top encaje",
+      "USes": "top encaje",
+      "EUfr": "débardeur en mousseline",
+      "USfr": "camisole en mousseline",
+      "EUit": "canotta merlettata",
+      "EUnl": "kanten hemdje",
+      "CNzh": "蕾丝细肩带背心",
+      "TWzh": "蕾絲細肩帶背心",
+      "JPja": "レースのキャミソール",
+      "KRko": "레이스 캐미솔",
+      "EUru": "легкий топ"
+    }
+  },
+  {
+    "id": 93,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "athletic jacket",
+      "EUen": "athletic jacket",
+      "EUde": "Sportjacke",
+      "EUes": "sudadera sport",
+      "USes": "sudadera sport",
+      "EUfr": "veste survêt",
+      "USfr": "haut de sport",
+      "EUit": "maglia da jogging",
+      "EUnl": "atletiekjasje",
+      "CNzh": "运动服",
+      "TWzh": "運動服",
+      "JPja": "ジャージ",
+      "KRko": "트레이닝복",
+      "EUru": "спортивная куртка"
+    }
+  },
+  {
+    "id": 94,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "western shirt",
+      "EUen": "western shirt",
+      "EUde": "Western-Hemd",
+      "EUes": "jersey de vaquero",
+      "USes": "camisa de vaquero",
+      "EUfr": "chemise western",
+      "USfr": "gilet western",
+      "EUit": "camicia da cowboy",
+      "EUnl": "westernshirt",
+      "CNzh": "西部牛仔装",
+      "TWzh": "西部牛仔衣服",
+      "JPja": "ウェスタンなふく",
+      "KRko": "웨스턴풍 옷",
+      "EUru": "рубашка из вестерна"
+    }
+  },
+  {
+    "id": 95,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "relay tank",
+      "EUen": "relay tank",
+      "EUde": "Staffellauf-Top",
+      "EUes": "top maratón",
+      "USes": "top maratón",
+      "EUfr": "débardeur marathon",
+      "USfr": "camisole marathon",
+      "EUit": "canotta da maratona",
+      "EUnl": "marathonshirt",
+      "CNzh": "接力赛服",
+      "TWzh": "接力賽衣服",
+      "JPja": "えきでんなふく",
+      "KRko": "마라토너 옷",
+      "EUru": "эстафетный топ"
+    }
+  },
+  {
+    "id": 96,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "silk floral-print shirt",
+      "EUen": "silk floral-print shirt",
+      "EUde": "Asia-Bluse",
+      "EUes": "camiseta de seda exótica",
+      "USes": "camiseta flores",
+      "EUfr": "chemisette chinoise",
+      "USfr": "chemisette florale de soie",
+      "EUit": "maglietta di seta esotica",
+      "EUnl": "gebloemde zijden shirt",
+      "CNzh": "短袖中国风上衣",
+      "TWzh": "短袖中華風衣服",
+      "JPja": "はんそでチャイナふく",
+      "KRko": "중국풍 반팔 옷",
+      "EUru": "легкая шелковая рубашка"
+    }
+  },
+  {
+    "id": 97,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "soccer-uniform top",
+      "EUen": "soccer-uniform top",
+      "EUde": "Fußballtrikot",
+      "EUes": "camiseta equipo de fútbol",
+      "USes": "camiseta equipo de fútbol",
+      "EUfr": "maillot de foot",
+      "USfr": "chandail de soccer",
+      "EUit": "maglietta da calcio",
+      "EUnl": "voetbalshirt",
+      "CNzh": "足球队服",
+      "TWzh": "足球隊服",
+      "JPja": "サッカーのユニフォーム",
+      "KRko": "축구 유니폼",
+      "EUru": "футболка"
+    }
+  },
+  {
+    "id": 98,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tiger jacket",
+      "EUen": "tiger jacket",
+      "EUde": "Tigerjacke",
+      "EUes": "cazadora tigre",
+      "USes": "chamarra tigre",
+      "EUfr": "veste tigre",
+      "USfr": "manteau tigre",
+      "EUit": "giacca tigre",
+      "EUnl": "tijgerjasje",
+      "CNzh": "虎纹飞行外套",
+      "TWzh": "虎紋飛行外套",
+      "JPja": "トラのスカジャン",
+      "KRko": "호랑이 점퍼",
+      "EUru": "куртка с тигром"
+    }
+  },
+  {
+    "id": 99,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "happi tee",
+      "EUen": "happi tee",
+      "EUde": "Happi-Jacke",
+      "EUes": "chaqueta festival",
+      "USes": "camisa festival",
+      "EUfr": "happi",
+      "USfr": "happi",
+      "EUit": "maglietta da festa",
+      "EUnl": "happi-jasje",
+      "CNzh": "祭典和服",
+      "TWzh": "祭典和服",
+      "JPja": "はっぴ",
+      "KRko": "일본풍 축제 가운",
+      "EUru": "кимоно хаппи"
+    }
+  },
+  {
+    "id": 100,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dragon jacket",
+      "EUen": "dragon jacket",
+      "EUde": "Drachenjacke",
+      "EUes": "cazadora dragón",
+      "USes": "chamarra dragón",
+      "EUfr": "veste dragon",
+      "USfr": "manteau dragon",
+      "EUit": "giacca drago",
+      "EUnl": "drakenjasje",
+      "CNzh": "龙纹飞行外套",
+      "TWzh": "龍紋飛行外套",
+      "JPja": "ドラゴンのスカジャン",
+      "KRko": "용 점퍼",
+      "EUru": "куртка с драконом"
+    }
+  },
+  {
+    "id": 101,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "camo tee",
+      "EUen": "camo tee",
+      "EUde": "Tarnshirt",
+      "EUes": "camiseta camuflaje",
+      "USes": "camiseta camuflaje",
+      "EUfr": "t-shirt camouflage",
+      "USfr": "t-shirt camouflage",
+      "EUit": "maglietta mimetica",
+      "EUnl": "camouflage-T-shirt",
+      "CNzh": "迷彩上衣",
+      "TWzh": "迷彩衣服",
+      "JPja": "めいさいなふく",
+      "KRko": "밀리터리 상의",
+      "EUru": "камуфляжная футболка"
+    }
+  },
+  {
+    "id": 102,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cycling shirt",
+      "EUen": "cycling shirt",
+      "EUde": "Radlerjacke",
+      "EUes": "maillot de ciclista",
+      "USes": "playera de ciclista",
+      "EUfr": "pull cycliste",
+      "USfr": "gilet cycliste",
+      "EUit": "maglia da ciclista",
+      "EUnl": "wielrennersshirt",
+      "CNzh": "单车运动服",
+      "TWzh": "單車運動服",
+      "JPja": "サイクルジャージ",
+      "KRko": "자전거 경주복",
+      "EUru": "веломайка"
+    }
+  },
+  {
+    "id": 103,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chick tee",
+      "EUen": "chick tee",
+      "EUde": "Kükenshirt",
+      "EUes": "camiseta pollitos",
+      "USes": "camiseta pollitos",
+      "EUfr": "t-shirt poussins",
+      "USfr": "t-shirt poussins",
+      "EUit": "maglietta pulcini",
+      "EUnl": "kuikentjes-T-shirt",
+      "CNzh": "小鸡T恤",
+      "TWzh": "小雞T恤",
+      "JPja": "ひよこがらＴシャツ",
+      "KRko": "병아리무늬 티셔츠",
+      "EUru": "футболка с цыплятами"
+    }
+  },
+  {
+    "id": 106,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "argyle vest",
+      "EUen": "argyle vest",
+      "EUde": "Argyle-Pullunder",
+      "EUes": "chaleco pijo",
+      "USes": "chaleco rombos",
+      "EUfr": "gilet écossais",
+      "USfr": "gilet écossais",
+      "EUit": "gilet a rombi",
+      "EUnl": "argyle-spencer",
+      "CNzh": "菱格纹背心",
+      "TWzh": "菱格紋背心",
+      "JPja": "アーガイルベスト",
+      "KRko": "아가일 베스트",
+      "EUru": "жилет аргайл"
+    }
+  },
+  {
+    "id": 107,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "explorer shirt",
+      "EUen": "explorer shirt",
+      "EUde": "Safarishirt",
+      "EUes": "camisa de exploración",
+      "USes": "camisa de exploración",
+      "EUfr": "chemise aventure",
+      "USfr": "chemise aventure",
+      "EUit": "camicia da esploratore",
+      "EUnl": "ontdekkingsreizigersshirt",
+      "CNzh": "探险服",
+      "TWzh": "探險衣服",
+      "JPja": "たんけんふく",
+      "KRko": "탐험복",
+      "EUru": "рубашка исследователя"
+    }
+  },
+  {
+    "id": 108,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flashy jacket",
+      "EUen": "flashy jacket",
+      "EUde": "Imponierblazer",
+      "EUes": "chaqueta cruzada llamativa",
+      "USes": "saco cruzado llamativo",
+      "EUfr": "veste tape-à-l'œil",
+      "USfr": "manteau tape-à-l'œil",
+      "EUit": "giacchetta vistosa",
+      "EUnl": "glanzende jasje",
+      "CNzh": "华丽外套",
+      "TWzh": "鮮艷外套",
+      "JPja": "ハデなジャケット",
+      "KRko": "화려한 재킷",
+      "EUru": "броский пиджак"
+    }
+  },
+  {
+    "id": 109,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "work shirt",
+      "EUen": "work shirt",
+      "EUde": "Bürohemd",
+      "EUes": "camisa con corbata",
+      "USes": "camisa con corbata",
+      "EUfr": "chemise de bureau",
+      "USfr": "chemise bureau",
+      "EUit": "camicia da ufficio",
+      "EUnl": "kantooroverhemd",
+      "CNzh": "配领带衬衫",
+      "TWzh": "領帶配襯衫",
+      "JPja": "ネクタイつきワイシャツ",
+      "KRko": "넥타이&와이셔츠",
+      "EUru": "офисная рубашка"
+    }
+  },
+  {
+    "id": 110,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sushi chef's outfit",
+      "EUen": "sushi chef's outfit",
+      "EUde": "Sushikochjacke",
+      "EUes": "chaqueta de chef de sushi",
+      "USes": "uniforme de chef sushi",
+      "EUfr": "tenue de chef sushi",
+      "USfr": "tenue de chef sushi",
+      "EUit": "giacca da chef di sushi",
+      "EUnl": "sushikoksbuis",
+      "CNzh": "日本料理厨师服",
+      "TWzh": "日本料理廚師衣服",
+      "JPja": "いたまえのふく",
+      "KRko": "일식 주방장 옷",
+      "EUru": "одежда мастера суши"
+    }
+  },
+  {
+    "id": 111,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "emblem blazer",
+      "EUen": "emblem blazer",
+      "EUde": "Blazer",
+      "EUes": "americana",
+      "USes": "saco uniforme",
+      "EUfr": "blazer emblème",
+      "USfr": "blazer emblème",
+      "EUit": "giacca con stemma",
+      "EUnl": "blazer",
+      "CNzh": "制服外套",
+      "TWzh": "制服外套",
+      "JPja": "ブレザー",
+      "KRko": "블레이저",
+      "EUru": "блейзер с эмблемой"
+    }
+  },
+  {
+    "id": 112,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "royal shirt",
+      "EUen": "royal shirt",
+      "EUde": "Königswams",
+      "EUes": "jersey real",
+      "USes": "saco real",
+      "EUfr": "manteau royal",
+      "USfr": "manteau royal",
+      "EUit": "maglia reale",
+      "EUnl": "koninklijke mantel",
+      "CNzh": "国王服",
+      "TWzh": "國王衣服",
+      "JPja": "おうさまのふく",
+      "KRko": "임금님 옷",
+      "EUru": "королевская мантия"
+    }
+  },
+  {
+    "id": 130,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "color-block dress shirt",
+      "EUen": "color-block dress shirt",
+      "EUde": "Zweifarbenhemd",
+      "EUes": "camisa bicolor",
+      "USes": "camisa bicolor",
+      "EUfr": "chemise bicolore",
+      "USfr": "chemise bicolore",
+      "EUit": "camicia bicolore",
+      "EUnl": "tweekleurige overhemd",
+      "CNzh": "撞色有领衬衫",
+      "TWzh": "撞色有領襯衫",
+      "JPja": "ツートンのエリつきシャツ",
+      "KRko": "투톤 셔츠",
+      "EUru": "двуцветная рубашка"
+    }
+  },
+  {
+    "id": 131,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "one-ball tee",
+      "EUen": "one-ball tee",
+      "EUde": "1er-Shirt",
+      "EUes": "camiseta bola 1",
+      "USes": "camiseta bola 1",
+      "EUfr": "t-shirt nº 1",
+      "USfr": "t-shirt nº 1",
+      "EUit": "maglietta palla 1",
+      "EUnl": "1-bal-T-shirt",
+      "CNzh": "1号球上衣",
+      "TWzh": "1號球衣服",
+      "JPja": "１ばんだまのふく",
+      "KRko": "1번공 옷",
+      "EUru": "футболка «1»"
+    }
+  },
+  {
+    "id": 132,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "four-ball tee",
+      "EUen": "four-ball tee",
+      "EUde": "4er-Shirt",
+      "EUes": "camiseta bola 4",
+      "USes": "camiseta bola 4",
+      "EUfr": "t-shirt nº 4",
+      "USfr": "t-shirt nº 4",
+      "EUit": "maglietta palla 4",
+      "EUnl": "4-bal-T-shirt",
+      "CNzh": "4号球上衣",
+      "TWzh": "4號球衣服",
+      "JPja": "４ばんだまのふく",
+      "KRko": "4번공 옷",
+      "EUru": "футболка «4»"
+    }
+  },
+  {
+    "id": 133,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "five-ball tee",
+      "EUen": "five-ball tee",
+      "EUde": "5er-Shirt",
+      "EUes": "camiseta bola 5",
+      "USes": "camiseta bola 5",
+      "EUfr": "t-shirt nº 5",
+      "USfr": "t-shirt nº 5",
+      "EUit": "maglietta palla 5",
+      "EUnl": "5-bal-T-shirt",
+      "CNzh": "5号球上衣",
+      "TWzh": "5號球衣服",
+      "JPja": "５ばんだまのふく",
+      "KRko": "5번공 옷",
+      "EUru": "футболка «5»"
+    }
+  },
+  {
+    "id": 134,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "six-ball tee",
+      "EUen": "six-ball tee",
+      "EUde": "6er-Shirt",
+      "EUes": "camiseta bola 6",
+      "USes": "camiseta bola 6",
+      "EUfr": "t-shirt nº 6",
+      "USfr": "t-shirt nº 6",
+      "EUit": "maglietta palla 6",
+      "EUnl": "6-bal-T-shirt",
+      "CNzh": "6号球上衣",
+      "TWzh": "6號球衣服",
+      "JPja": "６ばんだまのふく",
+      "KRko": "6번공 옷",
+      "EUru": "футболка «6»"
+    }
+  },
+  {
+    "id": 135,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "seven-ball tee",
+      "EUen": "seven-ball tee",
+      "EUde": "7er-Shirt",
+      "EUes": "camiseta bola 7",
+      "USes": "camiseta bola 7",
+      "EUfr": "t-shirt nº 7",
+      "USfr": "t-shirt nº 7",
+      "EUit": "maglietta palla 7",
+      "EUnl": "7-bal-T-shirt",
+      "CNzh": "7号球上衣",
+      "TWzh": "7號球衣服",
+      "JPja": "７ばんだまのふく",
+      "KRko": "7번공 옷",
+      "EUru": "футболка «7»"
+    }
+  },
+  {
+    "id": 136,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "eight-ball tee",
+      "EUen": "eight-ball tee",
+      "EUde": "8er-Shirt",
+      "EUes": "camiseta bola 8",
+      "USes": "camiseta bola 8",
+      "EUfr": "t-shirt nº 8",
+      "USfr": "t-shirt nº 8",
+      "EUit": "maglietta palla 8",
+      "EUnl": "8-bal-T-shirt",
+      "CNzh": "8号球上衣",
+      "TWzh": "8號球衣服",
+      "JPja": "８ばんだまのふく",
+      "KRko": "8번공 옷",
+      "EUru": "футболка «8»"
+    }
+  },
+  {
+    "id": 137,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nine-ball tee",
+      "EUen": "nine-ball tee",
+      "EUde": "9er-Shirt",
+      "EUes": "camiseta bola 9",
+      "USes": "camiseta bola 9",
+      "EUfr": "t-shirt nº 9",
+      "USfr": "t-shirt nº 9",
+      "EUit": "maglietta palla 9",
+      "EUnl": "9-bal-T-shirt",
+      "CNzh": "9号球上衣",
+      "TWzh": "9號球衣服",
+      "JPja": "９ばんだまのふく",
+      "KRko": "9번공 옷",
+      "EUru": "футболка «9»"
+    }
+  },
+  {
+    "id": 138,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweater on shirt",
+      "EUen": "sweater on shirt",
+      "EUde": "Umhängepullover",
+      "EUes": "camisa con jersey",
+      "USes": "camisa con suéter",
+      "EUfr": "pull distingué",
+      "USfr": "gilet distingué",
+      "EUit": "camicia precisina",
+      "EUnl": "blouse met omgeslagen trui",
+      "CNzh": "时髦上装",
+      "TWzh": "時髦衣服",
+      "JPja": "トレンディーなふく",
+      "KRko": "트렌디 옷",
+      "EUru": "свитер на рубашке"
+    }
+  },
+  {
+    "id": 139,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "track jacket",
+      "EUen": "track jacket",
+      "EUde": "Aufwärmjacke",
+      "EUes": "sudadera urbana",
+      "USes": "sudadera atletismo",
+      "EUfr": "veste survêt de sport",
+      "USfr": "veste de survêtement",
+      "EUit": "maglia da ginnastica",
+      "EUnl": "atletiekjack",
+      "CNzh": "健身运动服",
+      "TWzh": "健身運動服",
+      "JPja": "スポーツジャージ",
+      "KRko": "스포츠 트레이닝복",
+      "EUru": "куртка для бега"
+    }
+  },
+  {
+    "id": 143,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "waistcoat",
+      "EUen": "waistcoat",
+      "EUde": "Weste mit Hemd",
+      "EUes": "chaleco fino",
+      "USes": "chaleco fino",
+      "EUfr": "gilet de smoking",
+      "USfr": "veste de smoking",
+      "EUit": "gilet classico",
+      "EUnl": "gilet",
+      "CNzh": "配西装背心衬衫",
+      "TWzh": "西裝背心配襯衫",
+      "JPja": "ベストつきワイシャツ",
+      "KRko": "베스트&와이셔츠",
+      "EUru": "жилет"
+    }
+  },
+  {
+    "id": 147,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nurse's jacket",
+      "EUen": "nurse's jacket",
+      "EUde": "Klinikkittel",
+      "EUes": "chaqueta auxiliar de clínica",
+      "USes": "bata de auxiliar de clínica",
+      "EUfr": "blouse d'infirmier",
+      "USfr": "blouse d'infirmier",
+      "EUit": "blusa da infermiere",
+      "EUnl": "verplegersjas",
+      "CNzh": "护士外套",
+      "TWzh": "護士外套",
+      "JPja": "かんごしのジャケット",
+      "KRko": "간호사 재킷",
+      "EUru": "спецодежда медсестры"
+    }
+  },
+  {
+    "id": 151,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped tank",
+      "EUen": "striped tank",
+      "EUde": "Ringeltop",
+      "EUes": "top rayas",
+      "USes": "top a rayas",
+      "EUfr": "débardeur rayé",
+      "USfr": "camisole rayée",
+      "EUit": "canotta a righe",
+      "EUnl": "gestreepte tanktop",
+      "CNzh": "粗横纹坦克背心",
+      "TWzh": "粗橫紋坦克背心",
+      "JPja": "ボーダーのタンクトップ",
+      "KRko": "줄무늬 탱크톱",
+      "EUru": "полосатый топ"
+    }
+  },
+  {
+    "id": 156,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tuxedo jacket",
+      "EUen": "tuxedo jacket",
+      "EUde": "Smokingjackett",
+      "EUes": "esmoquin",
+      "USes": "esmoquin",
+      "EUfr": "smoking",
+      "USfr": "smoking",
+      "EUit": "giacca dello smoking",
+      "EUnl": "smokingjasje",
+      "CNzh": "无尾礼服",
+      "TWzh": "晚禮服",
+      "JPja": "タキシード",
+      "KRko": "턱시도",
+      "EUru": "смокинг"
+    }
+  },
+  {
+    "id": 159,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "morning coat",
+      "EUen": "morning coat",
+      "EUde": "Cutaway",
+      "EUes": "chaqué",
+      "USes": "saco de traje",
+      "EUfr": "jaquette",
+      "USfr": "jaquette",
+      "EUit": "giacca del tight",
+      "EUnl": "jacquet",
+      "CNzh": "晨礼服",
+      "TWzh": "晨禮服",
+      "JPja": "モーニングコート",
+      "KRko": "모닝 코트",
+      "EUru": "визитка"
+    }
+  },
+  {
+    "id": 177,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tailored jacket",
+      "EUen": "tailored jacket",
+      "EUde": "Maßjacke",
+      "EUes": "chaqueta entallada",
+      "USes": "saco entallado",
+      "EUfr": "veste sur mesure",
+      "USfr": "veste sur mesure",
+      "EUit": "giacca su misura",
+      "EUnl": "nette jasje",
+      "CNzh": "休闲西装外套",
+      "TWzh": "休閒西裝外套",
+      "JPja": "テーラードジャケット",
+      "KRko": "테일러드 재킷",
+      "EUru": "пиджак на заказ"
+    }
+  },
+  {
+    "id": 179,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweater-vest",
+      "EUen": "sweater-vest",
+      "EUde": "Pullunder mit Hemd",
+      "EUes": "chaleco con camisa",
+      "USes": "chaleco con camisa",
+      "EUfr": "gilet de laine",
+      "USfr": "débardeur de laine",
+      "EUit": "gilet di lana",
+      "EUnl": "spencer",
+      "CNzh": "配毛衣背心衬衫",
+      "TWzh": "毛衣背心配襯衫",
+      "JPja": "チョッキつきワイシャツ",
+      "KRko": "조끼&와이셔츠",
+      "EUru": "теплый жилет"
+    }
+  },
+  {
+    "id": 191,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kanji tee",
+      "EUen": "kanji tee",
+      "EUde": "Motiv-Shirt",
+      "EUes": "camiseta kanji",
+      "USes": "camiseta kanji",
+      "EUfr": "t-shirt kanji",
+      "USfr": "t-shirt kanji",
+      "EUit": "maglietta con ideogramma",
+      "EUnl": "kanji-T-shirt",
+      "CNzh": "汉字T恤",
+      "TWzh": "漢字T恤",
+      "JPja": "かんじＴシャツ",
+      "KRko": "한자 티셔츠",
+      "EUru": "футболка с кандзи"
+    }
+  },
+  {
+    "id": 194,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cardigan-shirt combo",
+      "EUen": "cardigan-shirt combo",
+      "EUde": "Strickjacke mit Hemd",
+      "EUes": "cárdigan sobre camiseta",
+      "USes": "cárdigan sobre camiseta",
+      "EUfr": "gilet avec t-shirt",
+      "USfr": "débardeur avec t-shirt",
+      "EUit": "set cardigan e maglietta",
+      "EUnl": "shirt met vest",
+      "CNzh": "针织罩衫配衬衫",
+      "TWzh": "針織罩衫&襯衫",
+      "JPja": "カーディガン&シャツ",
+      "KRko": "가디건&셔츠",
+      "EUru": "кофта с майкой"
+    }
+  },
+  {
+    "id": 195,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "argyle sweater",
+      "EUen": "argyle sweater",
+      "EUde": "Argyle-Pulli",
+      "EUes": "suéter pijo",
+      "USes": "suéter rombos",
+      "EUfr": "chandail écossais",
+      "USfr": "chandail écossais",
+      "EUit": "maglioncino a rombi",
+      "EUnl": "argyle-trui",
+      "CNzh": "菱格纹毛衣",
+      "TWzh": "菱格紋毛衣",
+      "JPja": "アーガイルのセーター",
+      "KRko": "아가일 스웨터",
+      "EUru": "свитер аргайл"
+    }
+  },
+  {
+    "id": 196,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flower sweater",
+      "EUen": "flower sweater",
+      "EUde": "Blumenpulli",
+      "EUes": "jersey florecitas",
+      "USes": "suéter florecitas",
+      "EUfr": "pull fleuri",
+      "USfr": "gilet fleuri",
+      "EUit": "maglione fiorito",
+      "EUnl": "bloementrui",
+      "CNzh": "花朵针织衫",
+      "TWzh": "花紋針織衫",
+      "JPja": "はながらのニット",
+      "KRko": "꽃무늬 니트",
+      "EUru": "свитер с цветами"
+    }
+  },
+  {
+    "id": 197,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tennis sweater",
+      "EUen": "tennis sweater",
+      "EUde": "Tennispulli",
+      "EUes": "jersey tenis",
+      "USes": "suéter tenis",
+      "EUfr": "chandail de tennis",
+      "USfr": "chandail de tennis",
+      "EUit": "maglione da tennis",
+      "EUnl": "tennistrui",
+      "CNzh": "网球毛衣",
+      "TWzh": "網球毛衣",
+      "JPja": "テニスセーター",
+      "KRko": "테니스 스웨터",
+      "EUru": "теннисный пуловер"
+    }
+  },
+  {
+    "id": 206,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yodel sweater",
+      "EUen": "yodel sweater",
+      "EUde": "Jodelpulli",
+      "EUes": "jersey nórdico",
+      "USes": "suéter nórdico",
+      "EUfr": "chandail nordique",
+      "USfr": "chandail nordique",
+      "EUit": "maglione yodel",
+      "EUnl": "Scandinavische trui",
+      "CNzh": "北欧风毛衣",
+      "TWzh": "北歐風毛衣",
+      "JPja": "ノルディックなセーター",
+      "KRko": "노르딕풍 스웨터",
+      "EUru": "северный свитер"
+    }
+  },
+  {
+    "id": 207,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowy sweater",
+      "EUen": "snowy sweater",
+      "EUde": "Winterstrickpulli",
+      "EUes": "jersey copos",
+      "USes": "suéter copos",
+      "EUfr": "chandail neige",
+      "USfr": "chandail neige",
+      "EUit": "maglione nevoso",
+      "EUnl": "sneeuwvlokkentrui",
+      "CNzh": "雪花毛衣",
+      "TWzh": "下雪毛衣",
+      "JPja": "スノーセーター",
+      "KRko": "스노 스웨터",
+      "EUru": "свитер со снежинками"
+    }
+  },
+  {
+    "id": 208,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yodel cardigan",
+      "EUen": "yodel cardigan",
+      "EUde": "Jodeljacke",
+      "EUes": "cárdigan nórdico",
+      "USes": "cárdigan nórdico",
+      "EUfr": "gilet nordique",
+      "USfr": "veste tricot nordique",
+      "EUit": "cardigan yodel",
+      "EUnl": "Scandinavische vest",
+      "CNzh": "北欧风针织罩衫",
+      "TWzh": "北歐風針織罩衫",
+      "JPja": "ノルディックなカーディガン",
+      "KRko": "노르딕풍 가디건",
+      "EUru": "северный кардиган"
+    }
+  },
+  {
+    "id": 209,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aran-knit sweater",
+      "EUen": "Aran-knit sweater",
+      "EUde": "Aranmusterpulli",
+      "EUes": "jersey de punto trenzado",
+      "USes": "suéter tejido trenzado",
+      "EUfr": "pull tricoté Aran",
+      "USfr": "gilet tricoté Aran",
+      "EUit": "maglione Aran",
+      "EUnl": "Aran-trui",
+      "CNzh": "手编阿伦花样毛衣",
+      "TWzh": "手編阿倫花樣毛衣",
+      "JPja": "アランセーター",
+      "KRko": "아란 스웨터",
+      "EUru": "свитер аранской вязки"
+    }
+  },
+  {
+    "id": 210,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dreamy sweater",
+      "EUen": "dreamy sweater",
+      "EUde": "Fantasiepulli",
+      "EUes": "jersey fantasía",
+      "USes": "suéter fantasía",
+      "EUfr": "pull joli rêve",
+      "USfr": "gilet joli rêve",
+      "EUit": "maglione sognante",
+      "EUnl": "dromerige trui",
+      "CNzh": "梦幻可爱毛衣",
+      "TWzh": "夢幻可愛毛衣",
+      "JPja": "ゆめかわなセーター",
+      "KRko": "아기자기한 스웨터",
+      "EUru": "миленький свитер"
+    }
+  },
+  {
+    "id": 212,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Aran-knit cardigan",
+      "EUen": "Aran-knit cardigan",
+      "EUde": "Aranmusterstrickjacke",
+      "EUes": "cárdigan de punto trenzado",
+      "USes": "cárdigan tejido trenzado",
+      "EUfr": "gilet tricoté Aran",
+      "USfr": "cardigan tricoté Aran",
+      "EUit": "cardigan Aran",
+      "EUnl": "Aran-vest",
+      "CNzh": "手编阿伦花样针织罩衫",
+      "TWzh": "手編阿倫花樣針織罩衫",
+      "JPja": "アランカーディガン",
+      "KRko": "아란 가디건",
+      "EUru": "кардиган аранской вязки"
+    }
+  },
+  {
+    "id": 217,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "collarless coat",
+      "EUen": "collarless coat",
+      "EUde": "Serafino-Mantel",
+      "EUes": "abrigo sin cuello",
+      "USes": "abrigo sin cuello",
+      "EUfr": "manteau à col ras",
+      "USfr": "manteau à col ras",
+      "EUit": "cappotto senza collo",
+      "EUnl": "kraagloze jas",
+      "CNzh": "无领大衣",
+      "TWzh": "無領大衣",
+      "JPja": "ノーカラーコート",
+      "KRko": "노 칼라 코트",
+      "EUru": "пальто без воротника"
+    }
+  },
+  {
+    "id": 218,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "thick-stripes shirt",
+      "EUen": "thick-stripes shirt",
+      "EUde": "Langarm-Polohemd",
+      "EUes": "jersey rayas gruesas",
+      "USes": "suéter rayas gruesas",
+      "EUfr": "polo à larges rayures",
+      "USfr": "polo à larges rayures",
+      "EUit": "maglietta a righe spesse",
+      "EUnl": "rugbyshirt",
+      "CNzh": "橄榄球衫",
+      "TWzh": "橄欖球衫",
+      "JPja": "ラガーシャツ",
+      "KRko": "럭비 셔츠",
+      "EUru": "полосатый лонгслив"
+    }
+  },
+  {
+    "id": 220,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweatshirt",
+      "EUen": "sweatshirt",
+      "EUde": "Einfarbenpulli",
+      "EUes": "sudadera sencilla",
+      "USes": "sudadera sencilla",
+      "EUfr": "sweat-shirt",
+      "USfr": "coton ouaté",
+      "EUit": "maglia semplice",
+      "EUnl": "sweatshirt",
+      "CNzh": "简约卫衣",
+      "TWzh": "簡約衛衣",
+      "JPja": "シンプルなトレーナー",
+      "KRko": "심플한 운동복",
+      "EUru": "свитшот"
+    }
+  },
+  {
+    "id": 222,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "henley shirt",
+      "EUen": "henley shirt",
+      "EUde": "Henley-Shirt",
+      "EUes": "camiseta cuello henley",
+      "USes": "camiseta cuello henley",
+      "EUfr": "chemise henley",
+      "USfr": "chemise henley",
+      "EUit": "maglia con bottoni",
+      "EUnl": "henley-shirt",
+      "CNzh": "亨利领T恤",
+      "TWzh": "亨利領T恤",
+      "JPja": "ヘンリーネックＴシャツ",
+      "KRko": "헨리넥 티셔츠",
+      "EUru": "футболка Хенли"
+    }
+  },
+  {
+    "id": 223,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gilet and shirt",
+      "EUen": "gilet and shirt",
+      "EUde": "Weste mit T-Shirt",
+      "EUes": "camiseta con chaleco",
+      "USes": "camiseta con chaleco",
+      "EUfr": "t-shirt avec veston",
+      "USfr": "t-shirt avec veston",
+      "EUit": "set gilet e maglietta",
+      "EUnl": "shirt met gilet",
+      "CNzh": "马甲搭配T恤",
+      "TWzh": "背心搭配T恤",
+      "JPja": "ジレコーデＴシャツ",
+      "KRko": "질레 티셔츠",
+      "EUru": "жилетка с футболкой"
+    }
+  },
+  {
+    "id": 224,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vertical-stripes shirt",
+      "EUen": "vertical-stripes shirt",
+      "EUde": "Längsstreifenhemd",
+      "EUes": "camisa rayas verticales",
+      "USes": "camisa rayas verticales",
+      "EUfr": "polo à stries verticales",
+      "USfr": "polo à stries verticales",
+      "EUit": "maglia a strisce verticali",
+      "EUnl": "verticaal gestreepte shirt",
+      "CNzh": "宽版条纹衬衫",
+      "TWzh": "寬版條紋襯衫",
+      "JPja": "オーバーストライプシャツ",
+      "KRko": "오버 스트라이프 셔츠",
+      "EUru": "футболка с линиями"
+    }
+  },
+  {
+    "id": 225,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coverall coat",
+      "EUen": "coverall coat",
+      "EUde": "Herbstkurzmantel",
+      "EUes": "abrigo de trabajo",
+      "USes": "abrigo de trabajo",
+      "EUfr": "manteau de travail",
+      "USfr": "manteau de travail",
+      "EUit": "cappotto pesante",
+      "EUnl": "winddichte jas",
+      "CNzh": "工作外套",
+      "TWzh": "工作外套",
+      "JPja": "カバーオール",
+      "KRko": "커버올 코트",
+      "EUru": "плотная куртка"
+    }
+  },
+  {
+    "id": 228,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "guayabera shirt",
+      "EUen": "guayabera shirt",
+      "EUde": "Guayabera-Hemd",
+      "EUes": "guayabera",
+      "USes": "guayabera",
+      "EUfr": "chemise guayabera",
+      "USfr": "chemise guayabera",
+      "EUit": "camicia guayabera",
+      "EUnl": "guayabera-shirt",
+      "CNzh": "古巴衬衫",
+      "TWzh": "古巴襯衫",
+      "JPja": "キューバシャツ",
+      "KRko": "쿠바 셔츠",
+      "EUru": "гуаябера"
+    }
+  },
+  {
+    "id": 229,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "short peacoat",
+      "EUen": "short peacoat",
+      "EUde": "Caban",
+      "EUes": "trenca corta",
+      "USes": "saco corto",
+      "EUfr": "caban court",
+      "USfr": "caban court",
+      "EUit": "caban",
+      "EUnl": "korte wollen jas",
+      "CNzh": "海军大衣",
+      "TWzh": "海軍大衣",
+      "JPja": "ピーコート",
+      "KRko": "피코트",
+      "EUru": "короткий бушлат"
+    }
+  },
+  {
+    "id": 230,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "collarless shirt",
+      "EUen": "collarless shirt",
+      "EUde": "Serafino-Hemd",
+      "EUes": "camisa cuello mao",
+      "USes": "camisa cuello mao",
+      "EUfr": "chemise à col mandarin",
+      "USfr": "chemise à col mandarin",
+      "EUit": "camicia senza collo",
+      "EUnl": "",
+      "CNzh": "无领衬衫",
+      "TWzh": "無領襯衫",
+      "JPja": "ノーカラーシャツ",
+      "KRko": "노 칼라 셔츠",
+      "EUru": "рубашка без воротника"
+    }
+  },
+  {
+    "id": 231,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "heavy-duty shirt",
+      "EUen": "heavy-duty shirt",
+      "EUde": "Arbeitshemd",
+      "EUes": "camisa de trabajo",
+      "USes": "camisa de trabajo",
+      "EUfr": "chemise inusable",
+      "USfr": "chemise inusable",
+      "EUit": "camicia da lavoro",
+      "EUnl": "werkhemd",
+      "CNzh": "工作衬衫",
+      "TWzh": "工作襯衫",
+      "JPja": "ワークシャツ",
+      "KRko": "워크 셔츠",
+      "EUru": "рубашка рабочего"
+    }
+  },
+  {
+    "id": 233,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bowling shirt",
+      "EUen": "bowling shirt",
+      "EUde": "Kegelshirt",
+      "EUes": "camisa bolera",
+      "USes": "camisa bolos",
+      "EUfr": "chemise de bowling",
+      "USfr": "chemise de bowling",
+      "EUit": "camicia da bowling",
+      "EUnl": "bowlingshirt",
+      "CNzh": "保龄球衫",
+      "TWzh": "保齡球衫",
+      "JPja": "ボウリングシャツ",
+      "KRko": "볼링 셔츠",
+      "EUru": "футболка для боулинга"
+    }
+  },
+  {
+    "id": 234,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "V-neck sweater",
+      "EUen": "V-neck sweater",
+      "EUde": "V-Ausschnitt-Pulli",
+      "EUes": "jersey cuello pico",
+      "USes": "suéter cuello en V",
+      "EUfr": "pull à col en v",
+      "USfr": "gilet à col en v",
+      "EUit": "maglia con scollo a V",
+      "EUnl": "V-halstrui",
+      "CNzh": "V领毛衣",
+      "TWzh": "V領毛衣",
+      "JPja": "Ｖネックセーター",
+      "KRko": "브이넥 스웨터",
+      "EUru": "пуловер"
+    }
+  },
+  {
+    "id": 237,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "boa fleece",
+      "EUen": "boa fleece",
+      "EUde": "Fleecejacke",
+      "EUes": "rebeca mullida",
+      "USes": "abrigo mullido",
+      "EUfr": "veste en polaire",
+      "USfr": "veste en polar",
+      "EUit": "felpa di pile boa",
+      "EUnl": "zachte fleecejasje",
+      "CNzh": "刷毛外套",
+      "TWzh": "刷毛外套",
+      "JPja": "ボアフリース",
+      "KRko": "플리스",
+      "EUru": "блузон из плюша"
+    }
+  },
+  {
+    "id": 238,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tweed jacket",
+      "EUen": "tweed jacket",
+      "EUde": "Tweedjacke",
+      "EUes": "americana de tweed",
+      "USes": "saco de tweed",
+      "EUfr": "veste en tweed",
+      "USfr": "veste en tweed",
+      "EUit": "giacca di tweed",
+      "EUnl": "tweedjasje",
+      "CNzh": "粗花呢外套",
+      "TWzh": "斜紋軟呢外套",
+      "JPja": "ツイードジャケット",
+      "KRko": "트위드 재킷",
+      "EUru": "твидовый пиджак"
+    }
+  },
+  {
+    "id": 241,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "layered shirt",
+      "EUen": "layered shirt",
+      "EUde": "Lagenshirt",
+      "EUes": "camiseta superpuesta",
+      "USes": "camiseta superpuesta",
+      "EUfr": "t-shirt dédoublé",
+      "USfr": "t-shirt dédoublé",
+      "EUit": "maglia a strati",
+      "EUnl": "laagjesshirt",
+      "CNzh": "两件式T恤",
+      "TWzh": "兩件式T恤",
+      "JPja": "かさねぎＴシャツ",
+      "KRko": "레이어드 티셔츠",
+      "EUru": "многослойный лонгслив"
+    }
+  },
+  {
+    "id": 242,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lacy shirt",
+      "EUen": "lacy shirt",
+      "EUde": "Spitzenshirt",
+      "EUes": "blusa encaje",
+      "USes": "blusa de encaje",
+      "EUfr": "t-shirt en dentelle",
+      "USfr": "t-shirt en dentelle",
+      "EUit": "maglia merlettata",
+      "EUnl": "kanten top",
+      "CNzh": "蕾丝衬衫",
+      "TWzh": "蕾絲襯衫",
+      "JPja": "レースのシャツ",
+      "KRko": "레이스 셔츠",
+      "EUru": "кружевная футболка"
+    }
+  },
+  {
+    "id": 243,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chesterfield coat",
+      "EUen": "chesterfield coat",
+      "EUde": "Chesterfield",
+      "EUes": "abrigo chesterfield",
+      "USes": "saco chesterfield",
+      "EUfr": "Chesterfield",
+      "USfr": "Chesterfield",
+      "EUit": "chesterfield",
+      "EUnl": "chesterfieldjas",
+      "CNzh": "切斯特大衣",
+      "TWzh": "切斯特大衣",
+      "JPja": "チェスターコート",
+      "KRko": "체스터 코트",
+      "EUru": "пальто Честерфилд"
+    }
+  },
+  {
+    "id": 244,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "checkered chesterfield coat",
+      "EUen": "checkered chesterfield coat",
+      "EUde": "Karo-Chesterfield",
+      "EUes": "abrigo chesterfield cuadros",
+      "USes": "saco chesterfield a cuadros",
+      "EUfr": "Chesterfield écossais",
+      "USfr": "Chesterfield écossais",
+      "EUit": "chesterfield a scacchi",
+      "EUnl": "geruite chesterfieldjas",
+      "CNzh": "格纹切斯特大衣",
+      "TWzh": "格紋切斯特大衣",
+      "JPja": "チェックのチェスターコート",
+      "KRko": "체크무늬 체스터 코트",
+      "EUru": "клетчатый Честерфилд"
+    }
+  },
+  {
+    "id": 246,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oversized shawl overshirt",
+      "EUen": "oversized shawl overshirt",
+      "EUde": "Shirt-Schal-Kombi",
+      "EUes": "camiseta con chal",
+      "USes": "camiseta con chal",
+      "EUfr": "t-shirt avec grand foulard",
+      "USfr": "t-shirt avec grand foulard",
+      "EUit": "maglietta con scialle",
+      "EUnl": "shirt met sjaal",
+      "CNzh": "大围巾T恤",
+      "TWzh": "大圍巾T恤",
+      "JPja": "おおばんストールＴシャツ",
+      "KRko": "커다란 숄 티셔츠",
+      "EUru": "футболка макси с платком"
+    }
+  },
+  {
+    "id": 249,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "young-royal shirt",
+      "EUen": "young-royal shirt",
+      "EUde": "Prinzenhemd",
+      "EUes": "camisa de aristócrata",
+      "USes": "camisa de aristócrata",
+      "EUfr": "chemise princière",
+      "USfr": "chemise princière",
+      "EUit": "camicia principesca",
+      "EUnl": "koninklijke overhemd",
+      "CNzh": "王子衬衫",
+      "TWzh": "王子襯衫",
+      "JPja": "おうじさまシャツ",
+      "KRko": "왕자님 셔츠",
+      "EUru": "королевская рубашка"
+    }
+  },
+  {
+    "id": 250,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fitness tank",
+      "EUen": "fitness tank",
+      "EUde": "Fitness-Top",
+      "EUes": "top gimnasio",
+      "USes": "top gimnasio",
+      "EUfr": "débardeur de fitness",
+      "USfr": "camisole d'exercice",
+      "EUit": "canotta da fitness",
+      "EUnl": "fitnesstanktop",
+      "CNzh": "健身坦克背心",
+      "TWzh": "運動坦克背心",
+      "JPja": "フィットネスタンクトップ",
+      "KRko": "피트니스 탱크톱",
+      "EUru": "фитнес-топ"
+    }
+  },
+  {
+    "id": 251,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flight jacket",
+      "EUen": "flight jacket",
+      "EUde": "Fliegerjacke",
+      "EUes": "chaqueta de aviación",
+      "USes": "chamarra de aviación",
+      "EUfr": "veste d'aviation",
+      "USfr": "veste d'aviation",
+      "EUit": "giacca da aviatore",
+      "EUnl": "pilotenjack",
+      "CNzh": "飞行外套",
+      "TWzh": "飛行外套",
+      "JPja": "フライトジャケット",
+      "KRko": "항공 점퍼",
+      "EUru": "летная куртка"
+    }
+  },
+  {
+    "id": 252,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tie-dye shirt",
+      "EUen": "tie-dye shirt",
+      "EUde": "Schnurbatikshirt",
+      "EUes": "camiseta teñida",
+      "USes": "camiseta teñida",
+      "EUfr": "t-shirt spirale tie and dye",
+      "USfr": "t-shirt spirale tie and dye",
+      "EUit": "maglietta batik",
+      "EUnl": "tie-dye-shirt",
+      "CNzh": "扎染T恤",
+      "TWzh": "紮染T恤",
+      "JPja": "タイダイＴシャツ",
+      "KRko": "타이다이 티셔츠",
+      "EUru": "футболка-варенка"
+    }
+  },
+  {
+    "id": 253,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fuzzy vest",
+      "EUen": "fuzzy vest",
+      "EUde": "Flauschweste",
+      "EUes": "chaleco mullido",
+      "USes": "chaleco mullido",
+      "EUfr": "veston en polaire",
+      "USfr": "veston en polar",
+      "EUit": "gilet boa",
+      "EUnl": "pluizige gilet",
+      "CNzh": "绒毛背心",
+      "TWzh": "絨毛背心",
+      "JPja": "ボアベスト",
+      "KRko": "털 조끼",
+      "EUru": "ворсистый жилет"
+    }
+  },
+  {
+    "id": 254,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "quilted down jacket",
+      "EUen": "quilted down jacket",
+      "EUde": "Thermo-Steppjacke",
+      "EUes": "abrigo acolchado",
+      "USes": "abrigo acolchonado",
+      "EUfr": "doudoune matelassée",
+      "USfr": "doudoune matelassée",
+      "EUit": "piumino trapuntato",
+      "EUnl": "dichte gewatteerde jas",
+      "CNzh": "菱格缝线羽绒外套",
+      "TWzh": "菱格縫線羽絨外套",
+      "JPja": "キルティングダウン",
+      "KRko": "퀼팅 점퍼",
+      "EUru": "стеганый пуховик"
+    }
+  },
+  {
+    "id": 266,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peasant blouse",
+      "EUen": "peasant blouse",
+      "EUde": "Landhausbluse",
+      "EUes": "blusa campesina",
+      "USes": "blusa campesina",
+      "EUfr": "blouse campagnarde",
+      "USfr": "blouse campagnarde",
+      "EUit": "blusa bucolica",
+      "EUnl": "plattelandsblouse",
+      "CNzh": "民族风刺绣罩衫",
+      "TWzh": "民族風刺繡罩衫",
+      "JPja": "ペザントブラウス",
+      "KRko": "페전트 블라우스",
+      "EUru": "сельская блузка"
+    }
+  },
+  {
+    "id": 271,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tube top",
+      "EUen": "tube top",
+      "EUde": "Bandeau-Top",
+      "EUes": "top palabra de honor",
+      "USes": "top tubo",
+      "EUfr": "haut tube",
+      "USfr": "haut tube",
+      "EUit": "top a fascia",
+      "EUnl": "bandeautop",
+      "CNzh": "无肩带背心",
+      "TWzh": "無肩帶背心",
+      "JPja": "チューブトップ",
+      "KRko": "튜브탑",
+      "EUru": "топ без бретелей"
+    }
+  },
+  {
+    "id": 281,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "muscle tank",
+      "EUen": "muscle tank",
+      "EUde": "Muskelshirt",
+      "EUes": "top pesas",
+      "USes": "top pesas",
+      "EUfr": "marcel de muscu",
+      "USfr": "camisole de musculation",
+      "EUit": "canotta da palestra",
+      "EUnl": "sportieve tanktop",
+      "CNzh": "运动坦克背心",
+      "TWzh": "健身坦克背心",
+      "JPja": "マッスルタンクトップ",
+      "KRko": "머슬 탱크톱",
+      "EUru": "топ культуриста"
+    }
+  },
+  {
+    "id": 284,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "striped tee",
+      "EUen": "striped tee",
+      "EUde": "Ringelshirt",
+      "EUes": "camiseta rayas gruesas",
+      "USes": "camiseta rayas gruesas",
+      "EUfr": "t-shirt à rayures",
+      "USfr": "t-shirt à rayures",
+      "EUit": "maglietta a righe",
+      "EUnl": "gestreepte T-shirt",
+      "CNzh": "短袖粗横纹T恤",
+      "TWzh": "短袖粗橫紋T恤",
+      "JPja": "はんそでボーダーＴシャツ",
+      "KRko": "반팔 줄무늬 티셔츠",
+      "EUru": "полосатая футболка"
+    }
+  },
+  {
+    "id": 285,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "puffy vest",
+      "EUen": "puffy vest",
+      "EUde": "Thermoweste",
+      "EUes": "chaleco acolchado",
+      "USes": "chaleco acolchonado",
+      "EUfr": "gilet molletonné",
+      "USfr": "débardeur ouaté",
+      "EUit": "piumino smanicato",
+      "EUnl": "bodywarmer",
+      "CNzh": "羽绒背心",
+      "TWzh": "羽絨背心",
+      "JPja": "ダウンベスト",
+      "KRko": "패딩 조끼",
+      "EUru": "дутый жилет"
+    }
+  },
+  {
+    "id": 288,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "nylon jacket",
+      "EUen": "nylon jacket",
+      "EUde": "Nylonjacke",
+      "EUes": "chaqueta de nailon",
+      "USes": "chamarra de nylon",
+      "EUfr": "veste en nylon",
+      "USfr": "veste en nylon",
+      "EUit": "giacca di nylon",
+      "EUnl": "nylonjas",
+      "CNzh": "教练外套",
+      "TWzh": "教練外套",
+      "JPja": "コーチジャケット",
+      "KRko": "코치 재킷",
+      "EUru": "нейлоновая кофта"
+    }
+  },
+  {
+    "id": 289,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gown coat",
+      "EUen": "gown coat",
+      "EUde": "Schalkragenmantel",
+      "EUes": "gabardina gruesa",
+      "USes": "saco largo grueso",
+      "EUfr": "manteau en flanelle",
+      "USfr": "manteau en flanelle",
+      "EUit": "vestaglia",
+      "EUnl": "kamerjas",
+      "CNzh": "长袍大衣",
+      "TWzh": "長袍大衣",
+      "JPja": "ガウンコート",
+      "KRko": "가운 코트",
+      "EUru": "солидное пальто"
+    }
+  },
+  {
+    "id": 290,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plover cardigan",
+      "EUen": "plover cardigan",
+      "EUde": "Pepita-Jacke",
+      "EUes": "cárdigan pata de gallo",
+      "USes": "cárdigan pata de gallo",
+      "EUfr": "gilet pied-de-coq",
+      "USfr": "veste pied-de-coq",
+      "EUit": "cardigan pied de poule",
+      "EUnl": "pied-de-poulevest",
+      "CNzh": "千鸟格纹针织罩衫",
+      "TWzh": "千鳥格紋針織罩衫",
+      "JPja": "ちどりのカーディガン",
+      "KRko": "하운드투스 가디건",
+      "EUru": "кардиган «Гусиная лапка»"
+    }
+  },
+  {
+    "id": 292,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pocket tee",
+      "EUen": "pocket tee",
+      "EUde": "Brusttaschenshirt",
+      "EUes": "camiseta con bolsillo",
+      "USes": "camiseta con bolsillo",
+      "EUfr": "t-shirt à poche",
+      "USfr": "t-shirt à poche",
+      "EUit": "maglietta con taschino",
+      "EUnl": "T-shirt met borstzak",
+      "CNzh": "口袋T恤",
+      "TWzh": "口袋T恤",
+      "JPja": "ポケットつきＴシャツ",
+      "KRko": "주머니 티셔츠",
+      "EUru": "футболка с карманом"
+    }
+  },
+  {
+    "id": 298,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tight-knit sweater",
+      "EUen": "tight-knit sweater",
+      "EUde": "Feinstrickpullover",
+      "EUes": "jersey ceñido de punto",
+      "USes": "suéter ceñido tejido",
+      "EUfr": "pull en maille fine",
+      "USfr": "gilet en maille fine",
+      "EUit": "maglione attillato",
+      "EUnl": "fijnmazig gebreide trui",
+      "CNzh": "紧身针织衫",
+      "TWzh": "緊身針織衫",
+      "JPja": "スリムニット",
+      "KRko": "슬림 니트",
+      "EUru": "облегающий джемпер"
+    }
+  },
+  {
+    "id": 300,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "college cardigan",
+      "EUen": "college cardigan",
+      "EUde": "Campusjacke",
+      "EUes": "cárdigan universitario",
+      "USes": "cárdigan universitario",
+      "EUfr": "gilet campus",
+      "USfr": "cardigan campus",
+      "EUit": "cardigan college",
+      "EUnl": "universiteitsvest",
+      "CNzh": "学院风针织罩衫",
+      "TWzh": "學院風針織罩衫",
+      "JPja": "カレッジカーディガン",
+      "KRko": "컬리지 가디건",
+      "EUru": "колледжский кардиган"
+    }
+  },
+  {
+    "id": 303,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "front-tie tee",
+      "EUen": "front-tie tee",
+      "EUde": "Knotenshirt",
+      "EUes": "camiseta anudada",
+      "USes": "camiseta anudada",
+      "EUfr": "t-shirt noué devant",
+      "USfr": "t-shirt noué devant",
+      "EUit": "maglietta legata davanti",
+      "EUnl": "geknoopte T-shirt",
+      "CNzh": "前绑结T恤",
+      "TWzh": "前綁結T恤",
+      "JPja": "まえむすびＴシャツ",
+      "KRko": "매듭 티셔츠",
+      "EUru": "футболка с бантом"
+    }
+  },
+  {
+    "id": 306,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold-print tee",
+      "EUen": "gold-print tee",
+      "EUde": "Goldprintshirt",
+      "EUes": "camiseta GOLD",
+      "USes": "camiseta GOLD",
+      "EUfr": "t-shirt GOLD",
+      "USfr": "t-shirt GOLD",
+      "EUit": "maglietta logo GOLD",
+      "EUnl": "T-shirt met goudprint",
+      "CNzh": "烫金图案T恤",
+      "TWzh": "燙金圖案T恤",
+      "JPja": "ゴールドプリントＴシャツ",
+      "KRko": "골드 프린트 티셔츠",
+      "EUru": "футболка GOLD"
+    }
+  },
+  {
+    "id": 316,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "text shirt",
+      "EUen": "text shirt",
+      "EUde": "Textprintpulli",
+      "EUes": "camiseta tipografía",
+      "USes": "camiseta tipografía",
+      "EUfr": "t-shirt à texte",
+      "USfr": "t-shirt à texte",
+      "EUit": "maglietta con scritte",
+      "EUnl": "shirt met tekstopdruk",
+      "CNzh": "英文字母T恤",
+      "TWzh": "英文字母T恤",
+      "JPja": "えいじＴシャツ",
+      "KRko": "영어 티셔츠",
+      "EUru": "футболка с текстом"
+    }
+  },
+  {
+    "id": 319,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hawk jacket",
+      "EUen": "hawk jacket",
+      "EUde": "Falkenjacke",
+      "EUes": "cazadora halcón",
+      "USes": "chamarra halcón",
+      "EUfr": "veste faucon",
+      "USfr": "manteau faucon",
+      "EUit": "giacca falco",
+      "EUnl": "havikjasje",
+      "CNzh": "鹰纹飞行外套",
+      "TWzh": "鷹紋飛行外套",
+      "JPja": "タカのスカジャン",
+      "KRko": "매 점퍼",
+      "EUru": "куртка с ястребом"
+    }
+  },
+  {
+    "id": 326,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "business suitcoat",
+      "EUen": "business suitcoat",
+      "EUde": "Business-Jackett",
+      "EUes": "americana de negocios",
+      "USes": "saco de negocios",
+      "EUfr": "veste sobre",
+      "USfr": "manteau sobre",
+      "EUit": "giacca da impiegato",
+      "EUnl": "directeursjasje",
+      "CNzh": "西装",
+      "TWzh": "西裝",
+      "JPja": "スーツ",
+      "KRko": "정장",
+      "EUru": "деловой пиджак"
+    }
+  },
+  {
+    "id": 328,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "school jacket",
+      "EUen": "school jacket",
+      "EUde": "Streber-Schuljacke",
+      "EUes": "chaqueta escolar",
+      "USes": "chamarra escolar",
+      "EUfr": "veste d'écolier",
+      "USfr": "veston d'écolier",
+      "EUit": "giacca da scolaro",
+      "EUnl": "schooljas",
+      "CNzh": "学生服",
+      "TWzh": "學生服",
+      "JPja": "がくせいふく",
+      "KRko": "학생복",
+      "EUru": "куртка «На уроке»"
+    }
+  },
+  {
+    "id": 329,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "after-school jacket",
+      "EUen": "after-school jacket",
+      "EUde": "Rowdy-Schuljacke",
+      "EUes": "chaqueta abierta",
+      "USes": "chamarra abierta",
+      "EUfr": "veste décontractée",
+      "USfr": "manteau décontracté",
+      "EUit": "giacca da scolaro aperta",
+      "EUnl": "openhangende schooljas",
+      "CNzh": "叛逆学生服",
+      "TWzh": "叛逆學生服",
+      "JPja": "ヤンチャながくせいふく",
+      "KRko": "불량한 학생복",
+      "EUru": "куртка «На перемене»"
+    }
+  },
+  {
+    "id": 330,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "poncho coat",
+      "EUen": "poncho coat",
+      "EUde": "Ponchomantel",
+      "EUes": "abrigo pompones",
+      "USes": "abrigo pompones",
+      "EUfr": "manteau poncho",
+      "USfr": "manteau poncho",
+      "EUit": "cappotto poncho",
+      "EUnl": "ponchojas",
+      "CNzh": "斗篷大衣",
+      "TWzh": "斗篷大衣",
+      "JPja": "ポンチョコート",
+      "KRko": "판초 코트",
+      "EUru": "пальто-пончо"
+    }
+  },
+  {
+    "id": 337,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vampire costume",
+      "EUen": "vampire costume",
+      "EUde": "Vampirkostüm",
+      "EUes": "chaqué de vampiro",
+      "USes": "disfraz de vampiro",
+      "EUfr": "costume de vampire",
+      "USfr": "costume de vampire",
+      "EUit": "costume da vampiro",
+      "EUnl": "vampierjacquet",
+      "CNzh": "吸血鬼服",
+      "TWzh": "吸血鬼服",
+      "JPja": "ヴァンパイアのふく",
+      "KRko": "뱀파이어 옷",
+      "EUru": "костюм вампира"
+    }
+  },
+  {
+    "id": 341,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bomber-style jacket",
+      "EUen": "bomber-style jacket",
+      "EUde": "Bomberjacke",
+      "EUes": "cazadora militar lisa",
+      "USes": "chamarra militar lisa",
+      "EUfr": "bomber",
+      "USfr": "manteau d'aviateur",
+      "EUit": "bomber",
+      "EUnl": "bomberjack",
+      "CNzh": "MA-1飞行外套",
+      "TWzh": "MA-1飛行外套",
+      "JPja": "ＭＡ‐１",
+      "KRko": "MA-1",
+      "EUru": "бомбер"
+    }
+  },
+  {
+    "id": 342,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "camo bomber-style jacket",
+      "EUen": "camo bomber-style jacket",
+      "EUde": "Tarnfarbenjacke",
+      "EUes": "cazadora militar camuflaje",
+      "USes": "chamarra militar camuflaje",
+      "EUfr": "bomber camouflage",
+      "USfr": "manteau d'aviateur camo",
+      "EUit": "bomber mimetico",
+      "EUnl": "camouflagejack",
+      "CNzh": "迷彩MA-1飞行外套",
+      "TWzh": "迷彩MA-1飛行外套",
+      "JPja": "めいさいのＭＡ‐１",
+      "KRko": "밀리터리 MA-1",
+      "EUru": "камуфляжный бомбер"
+    }
+  },
+  {
+    "id": 346,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sea hanten shirt",
+      "EUen": "sea hanten shirt",
+      "EUde": "Ozean-Hanten-Jacke",
+      "EUes": "abrigo hanten",
+      "USes": "bata de playa",
+      "EUfr": "chemise hanten de marin",
+      "USfr": "chemise hanten de marin",
+      "EUit": "giacca giapponese da mare",
+      "EUnl": "hanten-jas met ceintuur",
+      "CNzh": "海浪和服外套",
+      "TWzh": "海浪日式棉襖外套",
+      "JPja": "うみのはんてん",
+      "KRko": "바다 무늬 방한복",
+      "EUru": "морская куртка хантен"
+    }
+  },
+  {
+    "id": 350,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "faux-hair sweater",
+      "EUen": "faux-hair sweater",
+      "EUde": "Kunstmohair-Pullover",
+      "EUes": "jersey de punto a franjas",
+      "USes": "suéter de angora sintético",
+      "EUfr": "pull en laine synthétique",
+      "USfr": "gilet en fausse laine",
+      "EUit": "maglione in finto mohair",
+      "EUnl": "imitatiemohairtrui",
+      "CNzh": "马海毛针织衫",
+      "TWzh": "仿馬海毛針織衫",
+      "JPja": "モヘアふうニット",
+      "KRko": "모헤어풍 니트",
+      "EUru": "синтетический свитер"
+    }
+  },
+  {
+    "id": 351,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "space parka",
+      "EUen": "space parka",
+      "EUde": "Galaxien-Parka",
+      "EUes": "sudadera espacial",
+      "USes": "sudadera espacial",
+      "EUfr": "parka nébuleuse",
+      "USfr": "parka nébuleux",
+      "EUit": "felpa spaziale",
+      "EUnl": "jas met ruimteprint",
+      "CNzh": "太空连帽上衣",
+      "TWzh": "太空連帽上衣",
+      "JPja": "スペースパーカー",
+      "KRko": "우주 파카",
+      "EUru": "парка с космосом"
+    }
+  },
+  {
+    "id": 352,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "baseball shirt",
+      "EUen": "baseball shirt",
+      "EUde": "Baseballshirt",
+      "EUes": "camiseta de béisbol",
+      "USes": "camiseta de béisbol",
+      "EUfr": "maillot de base-ball",
+      "USfr": "chemise de baseball",
+      "EUit": "camicia da baseball",
+      "EUnl": "honkbalshirt",
+      "CNzh": "棒球衬衫",
+      "TWzh": "棒球襯衫",
+      "JPja": "ベースボールシャツ",
+      "KRko": "야구 셔츠",
+      "EUru": "бейсбольная рубашка"
+    }
+  },
+  {
+    "id": 353,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "parka undercoat",
+      "EUen": "parka undercoat",
+      "EUde": "Pulli-Mantel-Kombi",
+      "EUes": "parka sobre sudadera",
+      "USes": "saco con sudadera",
+      "EUfr": "manteau sur sweat capuche",
+      "USfr": "parka doublé",
+      "EUit": "giacca con felpa",
+      "EUnl": "trui met jas",
+      "CNzh": "连帽上衣配外套",
+      "TWzh": "連帽上衣配外套",
+      "JPja": "パーカーオンコート",
+      "KRko": "후드티와 코트",
+      "EUru": "парка под плащом"
+    }
+  },
+  {
+    "id": 354,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "workout top",
+      "EUen": "workout top",
+      "EUde": "Workout-Top",
+      "EUes": "top corto gimnasio",
+      "USes": "top corto gimnasio",
+      "EUfr": "débardeur court",
+      "USfr": "camisole courte",
+      "EUit": "top da ginnastica",
+      "EUnl": "work-outtop",
+      "CNzh": "运动上衣",
+      "TWzh": "運動上衣",
+      "JPja": "ワークアウトトップス",
+      "KRko": "경기복 상의",
+      "EUru": "топ для аэробики"
+    }
+  },
+  {
+    "id": 355,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mod parka",
+      "EUen": "mod parka",
+      "EUde": "Mod-Parka",
+      "EUes": "parka larga",
+      "USes": "sudadera larga",
+      "EUfr": "parka simple",
+      "USfr": "parka simple",
+      "EUit": "parka mod",
+      "EUnl": "vintagejas",
+      "CNzh": "军装风派克大衣",
+      "TWzh": "摩斯大衣",
+      "JPja": "モッズコート",
+      "KRko": "야상 점퍼",
+      "EUru": "стильная парка"
+    }
+  },
+  {
+    "id": 356,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tee-parka combo",
+      "EUen": "tee-parka combo",
+      "EUde": "Kapuzenpulli-Shirt-Kombi",
+      "EUes": "sudadera con camiseta",
+      "USes": "sudadera con camiseta",
+      "EUfr": "t-shirt sur sweat à capuche",
+      "USfr": "t-shirt et parka",
+      "EUit": "set maglietta e felpa",
+      "EUnl": "laagjestrui",
+      "CNzh": "连帽上衣配T恤",
+      "TWzh": "連帽上衣配T恤",
+      "JPja": "パーカーオンＴシャツ",
+      "KRko": "티셔츠와 후드 집업",
+      "EUru": "парка с футболкой"
+    }
+  },
+  {
+    "id": 360,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "heart apron",
+      "EUen": "heart apron",
+      "EUde": "Herzschürze",
+      "EUes": "delantal corazón",
+      "USes": "delantal corazón",
+      "EUfr": "tablier cœur",
+      "USfr": "tablier cœur",
+      "EUit": "grembiule con cuore",
+      "EUnl": "hartenschort",
+      "CNzh": "爱心围裙",
+      "TWzh": "愛心圍裙",
+      "JPja": "ハートのエプロン",
+      "KRko": "하트 앞치마",
+      "EUru": "фартук с сердечком"
+    }
+  },
+  {
+    "id": 364,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "prince's tunic",
+      "EUen": "prince's tunic",
+      "EUde": "Prinzen-Tunika",
+      "EUes": "capa de príncipe",
+      "USes": "capa de príncipe",
+      "EUfr": "tunique de prince charmant",
+      "USfr": "tunique de prince charmant",
+      "EUit": "tunica da principe",
+      "EUnl": "koninklijke tuniek",
+      "CNzh": "王子服",
+      "TWzh": "王子服",
+      "JPja": "プリンスなふく",
+      "KRko": "프린스 옷",
+      "EUru": "туника принца"
+    }
+  },
+  {
+    "id": 366,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "safety vest",
+      "EUen": "safety vest",
+      "EUde": "Sicherheitsweste",
+      "EUes": "chaleco de seguridad",
+      "USes": "chaleco de seguridad",
+      "EUfr": "gilet de sécurité",
+      "USfr": "veste de sécurité",
+      "EUit": "giubba catarifrangente",
+      "EUnl": "veiligheidshesje",
+      "CNzh": "交通疏导员服",
+      "TWzh": "交通警察服",
+      "JPja": "こうつうゆうどうのふく",
+      "KRko": "신호수 조끼",
+      "EUru": "светоотражающий жилет"
+    }
+  },
+  {
+    "id": 367,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tailcoat",
+      "EUen": "tailcoat",
+      "EUde": "Frack",
+      "EUes": "frac",
+      "USes": "frac",
+      "EUfr": "queue-de-pie",
+      "USfr": "queue-de-pie",
+      "EUit": "frac",
+      "EUnl": "pandjesjas",
+      "CNzh": "燕尾服",
+      "TWzh": "燕尾服",
+      "JPja": "えんびふく",
+      "KRko": "연미복",
+      "EUru": "фрак"
+    }
+  },
+  {
+    "id": 370,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "folk shirt",
+      "EUen": "folk shirt",
+      "EUde": "Folklorepulli",
+      "EUes": "jersey folk",
+      "USes": "suéter folk",
+      "EUfr": "pull folklorique",
+      "USfr": "gilet folklorique",
+      "EUit": "maglione folk",
+      "EUnl": "folkloristische trui",
+      "CNzh": "民族风针织衫",
+      "TWzh": "民族風針織衫",
+      "JPja": "ネイティブニット",
+      "KRko": "네이티브 니트",
+      "EUru": "фольклорный свитер"
+    }
+  },
+  {
+    "id": 371,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "football shirt",
+      "EUen": "football shirt",
+      "EUde": "Footballshirt",
+      "EUes": "camiseta fútbol americano",
+      "USes": "camiseta fútbol americano",
+      "EUfr": "maillot de foot américain",
+      "USfr": "maillot de football",
+      "EUit": "maglietta da football",
+      "EUnl": "Americanfootballshirt",
+      "CNzh": "美式足球衬衫",
+      "TWzh": "美式足球襯衫",
+      "JPja": "アメフトシャツ",
+      "KRko": "미식축구 셔츠",
+      "EUru": "американская футболка"
+    }
+  },
+  {
+    "id": 372,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skiwear",
+      "EUen": "skiwear",
+      "EUde": "Skijacke",
+      "EUes": "chaqueta de esquí",
+      "USes": "chamarra de esquí",
+      "EUfr": "veste de ski",
+      "USfr": "veste de ski",
+      "EUit": "giacca da sci",
+      "EUnl": "ski-jack",
+      "CNzh": "滑雪外套",
+      "TWzh": "滑雪外套",
+      "JPja": "スキーウェア",
+      "KRko": "스키웨어",
+      "EUru": "лыжная куртка"
+    }
+  },
+  {
+    "id": 388,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "animal-print coat",
+      "EUen": "animal-print coat",
+      "EUde": "Leopardenprintmantel",
+      "EUes": "abrigo de leopardo",
+      "USes": "abrigo de leopardo",
+      "EUfr": "manteau motif animalier",
+      "USfr": "manteau motif léopard",
+      "EUit": "cappotto maculato",
+      "EUnl": "gevlekte jas",
+      "CNzh": "仿皮草大衣",
+      "TWzh": "仿皮草大衣",
+      "JPja": "フェイクアニマルコート",
+      "KRko": "인조 털 코트",
+      "EUru": "пятнистое пальто"
+    }
+  },
+  {
+    "id": 392,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro coat",
+      "EUen": "retro coat",
+      "EUde": "Vintage-Mantel",
+      "EUes": "abrigo añejo",
+      "USes": "abrigo vintage",
+      "EUfr": "manteau vintage",
+      "USfr": "manteau vintage",
+      "EUit": "cappotto rétro",
+      "EUnl": "retrojas",
+      "CNzh": "复古大衣",
+      "TWzh": "復古大衣",
+      "JPja": "レトロなコート",
+      "KRko": "복고풍 코트",
+      "EUru": "ретро-пальто"
+    }
+  },
+  {
+    "id": 400,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hula top",
+      "EUen": "hula top",
+      "EUde": "Hula-Top",
+      "EUes": "top isla tropical",
+      "USes": "top isla tropical",
+      "EUfr": "haut de danse hula",
+      "USfr": "haut de danse hula",
+      "EUit": "top hula",
+      "EUnl": "topje met bloemenkrans",
+      "CNzh": "草裙舞上衣",
+      "TWzh": "草裙舞上衣",
+      "JPja": "フラダンスなトップス",
+      "KRko": "훌라 댄스 상의",
+      "EUru": "гавайский топ"
+    }
+  },
+  {
+    "id": 402,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "groovy tunic",
+      "EUen": "groovy tunic",
+      "EUde": "Hippie-Tunika",
+      "EUes": "chaleco paz y amor",
+      "USes": "chaleco paz y amor",
+      "EUfr": "tunique hippie",
+      "USfr": "tunique hippie",
+      "EUit": "tunica hippy",
+      "EUnl": "groovy tuniek",
+      "CNzh": "嬉皮风上装",
+      "TWzh": "嘻皮風衣服",
+      "JPja": "ヒッピーなふく",
+      "KRko": "히피 옷",
+      "EUru": "экстравагантная туника"
+    }
+  },
+  {
+    "id": 410,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "career jacket",
+      "EUen": "career jacket",
+      "EUde": "Business-Blazer",
+      "EUes": "americana de oficina",
+      "USes": "chamarra de oficina",
+      "EUfr": "veste professionnelle",
+      "USfr": "veste professionnelle",
+      "EUit": "giacca da ufficio",
+      "EUnl": "zakelijke jasje",
+      "CNzh": "职业西装外套",
+      "TWzh": "西裝外套",
+      "JPja": "キャリアなジャケット",
+      "KRko": "정장 재킷",
+      "EUru": "офисный пиджак"
+    }
+  },
+  {
+    "id": 414,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Chimayo vest",
+      "EUen": "Chimayo vest",
+      "EUde": "Chimayo-Weste",
+      "EUes": "chaleco Chimayó",
+      "USes": "chaleco Chimayó",
+      "EUfr": "veston Chimayo",
+      "USfr": "veston Chimayo",
+      "EUit": "gilet Chimayo",
+      "EUnl": "Chimayo-gilet",
+      "CNzh": "奇马约背心",
+      "TWzh": "奇馬約圖騰背心",
+      "JPja": "チマヨベスト",
+      "KRko": "치마요 베스트",
+      "EUru": "абстрактный свитер"
+    }
+  },
+  {
+    "id": 423,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kurta",
+      "EUen": "kurta",
+      "EUde": "Kurta",
+      "EUes": "kurta",
+      "USes": "kurta",
+      "EUfr": "kurta",
+      "USfr": "kurta",
+      "EUit": "kurta",
+      "EUnl": "kurta",
+      "CNzh": "印度传统长版上衣",
+      "TWzh": "印度傳統長版上衣",
+      "JPja": "クルタ",
+      "KRko": "쿠르타",
+      "EUru": "курта"
+    }
+  },
+  {
+    "id": 425,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pullover jacket",
+      "EUen": "pullover jacket",
+      "EUde": "Schlupfjacke",
+      "EUes": "sudadera semiabierta",
+      "USes": "sudadera semiabierta",
+      "EUfr": "veste pull",
+      "USfr": "veste pull",
+      "EUit": "giacca di maglia",
+      "EUnl": "pulloverjas",
+      "CNzh": "防风外套",
+      "TWzh": "防風上衣",
+      "JPja": "プルオーバーアウター",
+      "KRko": "풀오버 아우터",
+      "EUru": "куртка-пуловер"
+    }
+  },
+  {
+    "id": 428,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tweed vest",
+      "EUen": "tweed vest",
+      "EUde": "Tweedweste",
+      "EUes": "chaleco de tweed",
+      "USes": "chaleco de tweed",
+      "EUfr": "veston en tweed",
+      "USfr": "veston en tweed",
+      "EUit": "gilet di tweed",
+      "EUnl": "tweedgilet",
+      "CNzh": "粗花呢背心",
+      "TWzh": "斜紋軟呢背心",
+      "JPja": "ツイードベスト",
+      "KRko": "트위드 조끼",
+      "EUru": "твидовый жилет"
+    }
+  },
+  {
+    "id": 434,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "checkered muffler",
+      "EUen": "checkered muffler",
+      "EUde": "Pullover-Schal-Kombi",
+      "EUes": "jersey con bufanda",
+      "USes": "suéter con bufanda",
+      "EUfr": "pull avec écharpe écossaise",
+      "USfr": "gilet et écharpe écossaise",
+      "EUit": "maglione con sciarpa",
+      "EUnl": "trui met geruite sjaal",
+      "CNzh": "配格纹围巾毛衣",
+      "TWzh": "格紋圍巾配毛衣",
+      "JPja": "チェックマフラーつきセーター",
+      "KRko": "체크 목도리와 스웨터",
+      "EUru": "свитер с шарфом в клетку"
+    }
+  },
+  {
+    "id": 438,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hip-wrap shirt",
+      "EUen": "hip-wrap shirt",
+      "EUde": "Grunge-Outfit",
+      "EUes": "camiseta con camisa atada",
+      "USes": "camiseta con camisa atada",
+      "EUfr": "chemise sur les hanches",
+      "USfr": "t-shirt jupe portefeuille",
+      "EUit": "camicia legata in vita",
+      "EUnl": "shirt met omgeknoopt hemd",
+      "CNzh": "绑腰衬衫",
+      "TWzh": "綁腰襯衫",
+      "JPja": "こしまきシャツ",
+      "KRko": "허리에 두른 셔츠",
+      "EUru": "футболка вокруг пояса"
+    }
+  },
+  {
+    "id": 440,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sparkly embroidered tank",
+      "EUen": "sparkly embroidered tank",
+      "EUde": "Lamé-Top",
+      "EUes": "top labio de lentejuelas",
+      "USes": "top labios de lentejuelas",
+      "EUfr": "débardeur brodé sequins",
+      "USfr": "camisole brodée sequins",
+      "EUit": "canotta con lustrini",
+      "EUnl": "geborduurde glitterhemdje",
+      "CNzh": "亮片刺绣无袖上衣",
+      "TWzh": "亮片刺繡無袖上衣",
+      "JPja": "ラメししゅうノースリーブ",
+      "KRko": "반짝이 자수 민소매 원피스",
+      "EUru": "топ с блестящим мотивом"
+    }
+  },
+  {
+    "id": 443,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pleather trench coat",
+      "EUen": "pleather trench coat",
+      "EUde": "Kunstleder-Trenchcoat",
+      "EUes": "abrigo de polipiel",
+      "USes": "abrigo de cuero sintético",
+      "EUfr": "trench-coat en similicuir",
+      "USfr": "trench-coat en similicuir",
+      "EUit": "trench in ecopelle",
+      "EUnl": "kunstleren trenchcoat",
+      "CNzh": "皮风衣",
+      "TWzh": "皮風衣",
+      "JPja": "レザートレンチ",
+      "KRko": "가죽 트렌치코트",
+      "EUru": "тренчкот из кожзама"
+    }
+  },
+  {
+    "id": 444,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "reindeer sweater",
+      "EUen": "reindeer sweater",
+      "EUde": "Rentierpulli",
+      "EUes": "cárdigan renos",
+      "USes": "cárdigan renos",
+      "EUfr": "pull tricoté rennes",
+      "USfr": "gilet tricoté rennes",
+      "EUit": "maglione con renne",
+      "EUnl": "rendiertrui",
+      "CNzh": "驯鹿毛衣",
+      "TWzh": "馴鹿毛衣",
+      "JPja": "トナカイセーター",
+      "KRko": "루돌프 스웨터",
+      "EUru": "кофта с оленями"
+    }
+  },
+  {
+    "id": 445,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "front-tie button-down shirt",
+      "EUen": "front-tie button-down shirt",
+      "EUde": "Knotenhemd",
+      "EUes": "camisa anudada",
+      "USes": "camisa anudada",
+      "EUfr": "chemise nouée devant",
+      "USfr": "chemise nouée devant",
+      "EUit": "camicia legata davanti",
+      "EUnl": "geknoopte shirt",
+      "CNzh": "前绑结衬衫",
+      "TWzh": "前綁結襯衫",
+      "JPja": "まえむすびＹシャツ",
+      "KRko": "매듭 와이셔츠",
+      "EUru": "легкая рубашка с бантом"
+    }
+  },
+  {
+    "id": 447,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "top coat",
+      "EUen": "top coat",
+      "EUde": "Übergangsmantel",
+      "EUes": "abrigo ligero",
+      "USes": "abrigo ligero",
+      "EUfr": "surveste",
+      "USfr": "surveste",
+      "EUit": "cappotto classico",
+      "EUnl": "overjas",
+      "CNzh": "立式折领大衣",
+      "TWzh": "立領大衣",
+      "JPja": "ステンカラーコート",
+      "KRko": "스텐 칼라 코트",
+      "EUru": "пальто"
+    }
+  },
+  {
+    "id": 448,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "retro sweater",
+      "EUen": "retro sweater",
+      "EUde": "Design-Pulli",
+      "EUes": "jersey pop",
+      "USes": "suéter pop",
+      "EUfr": "pull art déco",
+      "USfr": "chandail rétro",
+      "EUit": "maglione variopinto",
+      "EUnl": "trui met print",
+      "CNzh": "品位高雅毛衣",
+      "TWzh": "品味高尚毛衣",
+      "JPja": "ハイセンスなセーター",
+      "KRko": "하이센스 스웨터",
+      "EUru": "модный свитер"
+    }
+  },
+  {
+    "id": 449,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cowboy shirt",
+      "EUen": "cowboy shirt",
+      "EUde": "Cowboyshirt",
+      "EUes": "camisa del Oeste",
+      "USes": "camisa del Oeste",
+      "EUfr": "chemise de cow-boy",
+      "USfr": "chemise de cow-boy",
+      "EUit": "camicia western",
+      "EUnl": "cowboyshirt",
+      "CNzh": "西部牛仔衬衫",
+      "TWzh": "西部牛仔襯衫",
+      "JPja": "カウボーイシャツ",
+      "KRko": "카우보이 셔츠",
+      "EUru": "ковбойская рубашка"
+    }
+  },
+  {
+    "id": 451,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sweetheart tank and shirt",
+      "EUen": "sweetheart tank and shirt",
+      "EUde": "Trägertop-Pulli-Kombi",
+      "EUes": "jersey con top tartán",
+      "USes": "suéter con top escocés",
+      "EUfr": "haut col en cœur",
+      "USfr": "haut col en cœur",
+      "EUit": "maglioncino con top tartan",
+      "EUnl": "shirt met hemdje",
+      "CNzh": "格纹细肩带背心",
+      "TWzh": "馬甲細肩帶背心",
+      "JPja": "ビスチェキャミ",
+      "KRko": "뷔스티에",
+      "EUru": "камисоль с лонгсливом"
+    }
+  },
+  {
+    "id": 461,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rainbow sweater",
+      "EUen": "rainbow sweater",
+      "EUde": "Regenbogenpulli",
+      "EUes": "jersey arcoíris",
+      "USes": "suéter arcoíris",
+      "EUfr": "pull arc-en-ciel",
+      "USfr": "gilet arc-en-ciel",
+      "EUit": "maglione arcobaleno",
+      "EUnl": "regenboogtrui",
+      "CNzh": "彩虹针织衫",
+      "TWzh": "彩虹針織衫",
+      "JPja": "レインボーなニット",
+      "KRko": "무지개 니트",
+      "EUru": "разноцветный свитер"
+    }
+  },
+  {
+    "id": 464,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "boa blouson",
+      "EUen": "boa blouson",
+      "EUde": "Fleeceblouson",
+      "EUes": "sudadera mullida",
+      "USes": "sudadera mullida",
+      "EUfr": "blouson en polaire",
+      "USfr": "blouson en flanelle",
+      "EUit": "giubbino boa",
+      "EUnl": "zachte vest",
+      "CNzh": "绒毛外套",
+      "TWzh": "絨毛外套",
+      "JPja": "ボアブルゾン",
+      "KRko": "보아 하트 집업",
+      "EUru": "пушистый блузон"
+    }
+  },
+  {
+    "id": 465,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeveless tunic",
+      "EUen": "sleeveless tunic",
+      "EUde": "Einfarbentunika",
+      "EUes": "túnica sin mangas",
+      "USes": "túnica sin mangas",
+      "EUfr": "tunique sans manches",
+      "USfr": "tunique sans manches",
+      "EUit": "tunica senza maniche",
+      "EUnl": "mouwloze tuniek",
+      "CNzh": "长版衬衫",
+      "TWzh": "長版襯衫",
+      "JPja": "チュニックシャツ",
+      "KRko": "튜닉 셔츠",
+      "EUru": "туника-безрукавка"
+    }
+  },
+  {
+    "id": 467,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "coatigan",
+      "EUen": "coatigan",
+      "EUde": "Strickmantel",
+      "EUes": "cárdigan largo",
+      "USes": "cárdigan largo",
+      "EUfr": "manteau cardigan",
+      "USfr": "manteau cardigan",
+      "EUit": "giaccone di maglia",
+      "EUnl": "vestjas",
+      "CNzh": "长版针织罩衫",
+      "TWzh": "長版針織罩衫",
+      "JPja": "コーディガン",
+      "KRko": "코트 가디건",
+      "EUru": "пальто-кардиган"
+    }
+  },
+  {
+    "id": 471,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "patchwork coat",
+      "EUen": "patchwork coat",
+      "EUde": "Patchwork-Mantel",
+      "EUes": "abrigo recortes",
+      "USes": "abrigo retazos",
+      "EUfr": "manteau patchwork",
+      "USfr": "manteau patchwork",
+      "EUit": "cappotto patchwork",
+      "EUnl": "patchworkjas",
+      "CNzh": "拼布大衣",
+      "TWzh": "拼布大衣",
+      "JPja": "パッチワークコート",
+      "KRko": "패치워크 코트",
+      "EUru": "лоскутное пальто"
+    }
+  },
+  {
+    "id": 476,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "earbuds combo",
+      "EUen": "earbuds combo",
+      "EUde": "Pulli mit Kopfhörern",
+      "EUes": "jersey con auriculares",
+      "USes": "suéter con auriculares",
+      "EUfr": "pull avec écouteurs",
+      "USfr": "gilet avec écouteurs",
+      "EUit": "maglione con auricolari",
+      "EUnl": "oortelefoonshirt",
+      "CNzh": "连耳机上衣",
+      "TWzh": "耳機穿搭",
+      "JPja": "イヤフォンコーデ",
+      "KRko": "이어폰과 티셔츠",
+      "EUru": "джемпер с наушниками"
+    }
+  },
+  {
+    "id": 479,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "colorful striped sweater",
+      "EUen": "colorful striped sweater",
+      "EUde": "Buntringelpulli",
+      "EUes": "jersey rayas de colores",
+      "USes": "suéter rayas de colores",
+      "EUfr": "pull à bandes colorées",
+      "USfr": "gilet à bandes colorées",
+      "EUit": "maglione a righe colorate",
+      "EUnl": "kleurrijke gestreepte trui",
+      "CNzh": "多色粗横纹针织衫",
+      "TWzh": "多色粗橫紋針織衫",
+      "JPja": "マルチボーダーニット",
+      "KRko": "줄무늬 니트",
+      "EUru": "свитер в цветную полоску"
+    }
+  },
+  {
+    "id": 481,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "madras plaid shirt",
+      "EUen": "madras plaid shirt",
+      "EUde": "Madras-Karohemd",
+      "EUes": "camisa tartán de madrás",
+      "USes": "camisa escocesa de madrás",
+      "EUfr": "chemisette madras",
+      "USfr": "chemisette madras",
+      "EUit": "camicia madras",
+      "EUnl": "madrasshirt",
+      "CNzh": "马德拉斯格纹衬衫",
+      "TWzh": "馬德拉斯格紋襯衫",
+      "JPja": "マドラスチェックシャツ",
+      "KRko": "마드라스 체크 셔츠",
+      "EUru": "легкая рубашка в клетку"
+    }
+  },
+  {
+    "id": 493,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "poncho-style sweater",
+      "EUen": "poncho-style sweater",
+      "EUde": "Ponchopulli",
+      "EUes": "poncho de punto",
+      "USes": "poncho tejido",
+      "EUfr": "pull style poncho",
+      "USfr": "gilet style poncho",
+      "EUit": "maglione a poncho",
+      "EUnl": "ponchotrui",
+      "CNzh": "斗篷造型针织衫",
+      "TWzh": "斗篷造型針織衫",
+      "JPja": "ポンチョふうニット",
+      "KRko": "판초풍 니트",
+      "EUru": "свитер-пончо"
+    }
+  },
+  {
+    "id": 495,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tunic tank",
+      "EUen": "tunic tank",
+      "EUde": "Langtop",
+      "EUes": "top largo",
+      "USes": "top largo",
+      "EUfr": "débardeur tunique",
+      "USfr": "camisole tunique",
+      "EUit": "tunica a canottiera",
+      "EUnl": "tanktoptuniek",
+      "CNzh": "长版坦克背心",
+      "TWzh": "長版坦克背心",
+      "JPja": "タンクトップチュニック",
+      "KRko": "탱크톱 튜닉",
+      "EUru": "туника-топ"
+    }
+  },
+  {
+    "id": 501,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ribbon-straps tank",
+      "EUen": "ribbon-straps tank",
+      "EUde": "Schleifchenträgertop",
+      "EUes": "top lunares y lacitos",
+      "USes": "top a lunares y lacitos",
+      "EUfr": "débardeur à bretelles ruban",
+      "USfr": "camisole à bretelles ruban",
+      "EUit": "toppino con fiocchi",
+      "EUnl": "gestippelde hemdje",
+      "CNzh": "蝴蝶结细肩带背心",
+      "TWzh": "蝴蝶結細肩帶背心",
+      "JPja": "リボンショルダーキャミ",
+      "KRko": "리본 오프숄더 캐미솔",
+      "EUru": "топ на бретелях"
+    }
+  },
+  {
+    "id": 506,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "printed fleece sweater",
+      "EUen": "printed fleece sweater",
+      "EUde": "Musterfleecepulli",
+      "EUes": "jersey de lana estampado",
+      "USes": "suéter de lana estampado",
+      "EUfr": "pull en polaire à motifs",
+      "USfr": "gilet en polaire à motifs",
+      "EUit": "felpa di pile con stampa",
+      "EUnl": "fleecetrui met patroon",
+      "CNzh": "图纹刷毛上衣",
+      "TWzh": "圖紋刷毛上衣",
+      "JPja": "がらものフリース",
+      "KRko": "패턴 플리스",
+      "EUru": "свитер из флиса с узором"
+    }
+  },
+  {
+    "id": 507,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "detective's coat",
+      "EUen": "detective's coat",
+      "EUde": "Detektivmantel",
+      "EUes": "traje de detective",
+      "USes": "traje de detective",
+      "EUfr": "tenue de détective",
+      "USfr": "tenue de détective",
+      "EUit": "giacca da detective",
+      "EUnl": "detectivejas",
+      "CNzh": "侦探服",
+      "TWzh": "名偵探衣服",
+      "JPja": "めいたんていのふく",
+      "KRko": "명탐정 옷",
+      "EUru": "пальто детектива"
+    }
+  },
+  {
+    "id": 513,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "baggy shirt",
+      "EUen": "baggy shirt",
+      "EUde": "Schlabbershirt",
+      "EUes": "jersey holgado",
+      "USes": "suéter holgado",
+      "EUfr": "pull déformé",
+      "USfr": "gilet déformé",
+      "EUit": "maglia larga",
+      "EUnl": "oversized shirt",
+      "CNzh": "皱衬衫",
+      "TWzh": "皺襯衫",
+      "JPja": "ヨレヨレなシャツ",
+      "KRko": "헐렁한 셔츠",
+      "EUru": "свободный лонгслив"
+    }
+  },
+  {
+    "id": 516,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "open-collar shirt",
+      "EUen": "open-collar shirt",
+      "EUde": "Reverskragenhemd",
+      "EUes": "camisa de cuello abierto",
+      "USes": "camisa de cuello abierto",
+      "EUfr": "chemise à revers cranté",
+      "USfr": "chemise à revers cranté",
+      "EUit": "camicia con colletto aperto",
+      "EUnl": "shirt met open kraag",
+      "CNzh": "翻领衬衫",
+      "TWzh": "開襟襯衫",
+      "JPja": "かいきんシャツ",
+      "KRko": "오픈 칼라 셔츠",
+      "EUru": "рубашка с лацканами"
+    }
+  },
+  {
+    "id": 518,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "meme shirt",
+      "EUen": "meme shirt",
+      "EUde": "Meme-Shirt",
+      "EUes": "camiseta gato sideral",
+      "USes": "camiseta gato sideral",
+      "EUfr": "t-shirt chat yeux laser",
+      "USfr": "t-shirt mème",
+      "EUit": "maglietta meme",
+      "EUnl": "meme-T-shirt",
+      "CNzh": "迷幻猫咪上衣",
+      "TWzh": "迷幻貓咪衣服",
+      "JPja": "ミームなふく",
+      "KRko": "밈 옷",
+      "EUru": "футболка с мемом"
+    }
+  },
+  {
+    "id": 524,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "quilted jacket",
+      "EUen": "quilted jacket",
+      "EUde": "Steppjacke",
+      "EUes": "chaquetón acolchado",
+      "USes": "chamarra acolchonada",
+      "EUfr": "veste matelassée",
+      "USfr": "manteau matelassé",
+      "EUit": "giacca trapuntata",
+      "EUnl": "open gewatteerde jas",
+      "CNzh": "菱格缝线外套",
+      "TWzh": "菱格縫線外套",
+      "JPja": "キルティングジャケット",
+      "KRko": "퀼트 재킷",
+      "EUru": "стеганая куртка"
+    }
+  },
+  {
+    "id": 531,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "down ski jacket",
+      "EUen": "down ski jacket",
+      "EUde": "Thermoskijacke",
+      "EUes": "chaquetón de esquí",
+      "USes": "abrigo de esquí",
+      "EUfr": "doudoune de ski",
+      "USfr": "doudoune de ski",
+      "EUit": "piumino da sci",
+      "EUnl": "gewatteerde ski-jack",
+      "CNzh": "滑雪羽绒外套",
+      "TWzh": "滑雪羽絨外套",
+      "JPja": "スキーダウンジャケット",
+      "KRko": "스키 다운 재킷",
+      "EUru": "пуховая лыжная куртка"
+    }
+  },
+  {
+    "id": 544,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "worker's jacket",
+      "EUen": "worker's jacket",
+      "EUde": "Arbeitsjacke",
+      "EUes": "chaqueta de trabajo",
+      "USes": "chamarra de trabajo",
+      "EUfr": "veste d'usine",
+      "USfr": "manteau d'usine",
+      "EUit": "giacca da operaio",
+      "EUnl": "arbeidersjasje",
+      "CNzh": "工作服",
+      "TWzh": "工作服",
+      "JPja": "さぎょうふく",
+      "KRko": "작업복",
+      "EUru": "куртка рабочего"
+    }
+  },
+  {
+    "id": 545,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pom-pom sweater",
+      "EUen": "pom-pom sweater",
+      "EUde": "Puschel-Pulli",
+      "EUes": "jersey de pompones",
+      "USes": "suéter de pompones",
+      "EUfr": "pull à pompons",
+      "USfr": "gilet à pompons",
+      "EUit": "maglione con pon-pon",
+      "EUnl": "pompontrui",
+      "CNzh": "毛球毛衣",
+      "TWzh": "毛球毛衣",
+      "JPja": "ポンポンセーター",
+      "KRko": "폼폼 스웨터",
+      "EUru": "свитер с помпонами"
+    }
+  },
+  {
+    "id": 547,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "humble sweater",
+      "EUen": "humble sweater",
+      "EUde": "Strickweste",
+      "EUes": "rebeca modesta",
+      "USes": "suéter modesto",
+      "EUfr": "gilet sobre",
+      "USfr": "gilet sobre",
+      "EUit": "felpa modesta",
+      "EUnl": "sobere trui",
+      "CNzh": "朴素针织衫",
+      "TWzh": "樸素針織衫",
+      "JPja": "つつましいニット",
+      "KRko": "수수한 니트",
+      "EUru": "скромный свитер"
+    }
+  },
+  {
+    "id": 548,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "anorak jacket",
+      "EUen": "anorak jacket",
+      "EUde": "Anorak",
+      "EUes": "anorak",
+      "USes": "anorak",
+      "EUfr": "anorak",
+      "USfr": "anorak",
+      "EUit": "anorak",
+      "EUnl": "anorak",
+      "CNzh": "派克大衣",
+      "TWzh": "派克大衣",
+      "JPja": "アノラック",
+      "KRko": "아노락",
+      "EUru": "анорак"
+    }
+  },
+  {
+    "id": 549,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "multipurpose vest",
+      "EUen": "multipurpose vest",
+      "EUde": "Multifunktionsweste",
+      "EUes": "chaleco multiusos",
+      "USes": "chaleco multiusos",
+      "EUfr": "gilet multi-poches",
+      "USfr": "débardeur multi-poches",
+      "EUit": "gilet multifunzione",
+      "EUnl": "praktische gilet",
+      "CNzh": "多功能背心",
+      "TWzh": "多功能背心",
+      "JPja": "たきのうベスト",
+      "KRko": "작업용 조끼",
+      "EUru": "жилет с карманами"
+    }
+  },
+  {
+    "id": 576,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "snowflake sweater",
+      "EUen": "snowflake sweater",
+      "EUde": "Schneeflockenpulli",
+      "EUes": "jersey copo de nieve",
+      "USes": "suéter copo de nieve",
+      "EUfr": "pull flocon",
+      "USfr": "gilet flocon",
+      "EUit": "maglione fiocco di neve",
+      "EUnl": "sneeuwvloktrui",
+      "CNzh": "大片雪花毛衣",
+      "TWzh": "雪花毛衣",
+      "JPja": "けっしょうのセーター",
+      "KRko": "눈의 결정 스웨터",
+      "EUru": "свитер со снежинкой"
+    }
+  },
+  {
+    "id": 577,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "thread-worn sweater",
+      "EUen": "thread-worn sweater",
+      "EUde": "Löcherpulli",
+      "EUes": "jersey deshilachado",
+      "USes": "suéter deshilachado",
+      "EUfr": "pull usé à la corde",
+      "USfr": "gilet usé à la corde",
+      "EUit": "maglione rovinato",
+      "EUnl": "versleten trui",
+      "CNzh": "破洞针织衫",
+      "TWzh": "破洞針織衫",
+      "JPja": "ダメージニット",
+      "KRko": "찢어진 니트",
+      "EUru": "потрепанный джемпер"
+    }
+  },
+  {
+    "id": 581,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "samurai shirt",
+      "EUen": "samurai shirt",
+      "EUde": "Samurairüstung",
+      "EUes": "coraza de samurái",
+      "USes": "coraza samurái",
+      "EUfr": "cuirasse de samouraï",
+      "USfr": "armure de samouraï",
+      "EUit": "armatura da samurai",
+      "EUnl": "samoeraituniek",
+      "CNzh": "盔甲",
+      "TWzh": "盔甲",
+      "JPja": "かっちゅう",
+      "KRko": "일본 무사 갑옷",
+      "EUru": "доспехи самурая"
+    }
+  },
+  {
+    "id": 583,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeved apron",
+      "EUen": "sleeved apron",
+      "EUde": "Schutzstulpenschürze",
+      "EUes": "delantal con protectores",
+      "USes": "delantal con protectores",
+      "EUfr": "tablier avec manches",
+      "USfr": "tablier avec manches",
+      "EUit": "grembiule con maniche",
+      "EUnl": "spatmouwenschort",
+      "CNzh": "连袖套围裙",
+      "TWzh": "圍裙連袖套",
+      "JPja": "うでカバーつきエプロン",
+      "KRko": "팔토시와 앞치마",
+      "EUru": "фартук с рукавами"
+    }
+  },
+  {
+    "id": 585,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "thief's costume",
+      "EUen": "thief's costume",
+      "EUde": "Räuberkostüm",
+      "EUes": "disfraz de maleante",
+      "USes": "disfraz de maleante",
+      "EUfr": "costume de cambrioleur",
+      "USfr": "costume de cambrioleur",
+      "EUit": "costume da ladro",
+      "EUnl": "bandietenkostuum",
+      "CNzh": "怪盗服",
+      "TWzh": "怪盜服",
+      "JPja": "かいとうのふく",
+      "KRko": "괴도 옷",
+      "EUru": "костюм вора"
+    }
+  },
+  {
+    "id": 616,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "energetic sweater",
+      "EUen": "energetic sweater",
+      "EUde": "Energie-Pulli",
+      "EUes": "jersey jovial",
+      "USes": "suéter jovial",
+      "EUfr": "pull décontracté",
+      "USfr": "gilet décontracté",
+      "EUit": "felpa vivace",
+      "EUnl": "energieke trui",
+      "CNzh": "活力毛衣",
+      "TWzh": "活力毛衣",
+      "JPja": "すこやかなセーター",
+      "KRko": "발랄한 스웨터",
+      "EUru": "джемпер для энергичных"
+    }
+  },
+  {
+    "id": 652,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "acid-washed jacket",
+      "EUen": "acid-washed jacket",
+      "EUde": "Bleichjeansjacke",
+      "EUes": "chaqueta desteñida",
+      "USes": "chamarra desteñida",
+      "EUfr": "veste délavée",
+      "USfr": "manteau délavé",
+      "EUit": "giacca sbiadita",
+      "EUnl": "gebleekte spijkerjack",
+      "CNzh": "刷白牛仔外套",
+      "TWzh": "刷白牛仔外套",
+      "JPja": "ケミカルデニムジャケット",
+      "KRko": "물빠진 데님 재킷",
+      "EUru": "куртка-варенка"
+    }
+  },
+  {
+    "id": 653,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "music-fest shirt",
+      "EUen": "music-fest shirt",
+      "EUde": "Festivalshirt",
+      "EUes": "camiseta festival de música",
+      "USes": "camiseta festival de música",
+      "EUfr": "t-shirt festival de musique",
+      "USfr": "t-shirt festival de musique",
+      "EUit": "maglia musicale",
+      "EUnl": "festivalshirt",
+      "CNzh": "音乐节上装",
+      "TWzh": "音樂節衣服",
+      "JPja": "ミュージックフェスなふく",
+      "KRko": "뮤직 페스티벌 옷",
+      "EUru": "фестивальный лонгслив"
+    }
+  },
+  {
+    "id": 654,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "traditional straw coat",
+      "EUen": "traditional straw coat",
+      "EUde": "Strohmantel",
+      "EUes": "abrigo de paja",
+      "USes": "abrigo de paja",
+      "EUfr": "manteau en paille",
+      "USfr": "manteau en paille",
+      "EUit": "giacca di paglia tradizionale",
+      "EUnl": "traditionele strojas",
+      "CNzh": "蓑衣",
+      "TWzh": "蓑衣",
+      "JPja": "みの",
+      "KRko": "도롱이",
+      "EUru": "соломенная накидка"
+    }
+  },
+  {
+    "id": 655,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "old-school jacket",
+      "EUen": "old-school jacket",
+      "EUde": "Rapperjacke",
+      "EUes": "chaqueta urbana",
+      "USes": "chamarra urbana",
+      "EUfr": "blouson rappeur",
+      "USfr": "blouson rappeur",
+      "EUit": "giacca hip hop",
+      "EUnl": "respect-jack",
+      "CNzh": "嘻哈风上装",
+      "TWzh": "嘻哈風衣服",
+      "JPja": "レペゼンなふく",
+      "KRko": "힙합 스타일 재킷",
+      "EUru": "куртка с цепью"
+    }
+  },
+  {
+    "id": 673,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dance-team jacket",
+      "EUen": "dance-team jacket",
+      "EUde": "Tänzerjacke",
+      "EUes": "sudadera compañía de baile",
+      "USes": "sudadera compañía de baile",
+      "EUfr": "veste d'équipe de danse",
+      "USfr": "manteau d'équipe de danse",
+      "EUit": "felpa danza",
+      "EUnl": "streetdance-jasje",
+      "CNzh": "舞蹈运动服",
+      "TWzh": "跳舞運動服",
+      "JPja": "ダンスジャージ",
+      "KRko": "댄스 트레이닝복",
+      "EUru": "куртка для подтанцовки"
+    }
+  },
+  {
+    "id": 694,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "puffy-sleeve blouse",
+      "EUen": "puffy-sleeve blouse",
+      "EUde": "Puffärmelbluse",
+      "EUes": "blusa manga abullonada",
+      "USes": "blusa manga abullonada",
+      "EUfr": "chemisier à manches ballon",
+      "USfr": "blouse à manches ballons",
+      "EUit": "camicia maniche a sbuffo",
+      "EUnl": "pofmouwenblouse",
+      "CNzh": "蓬蓬袖罩衫",
+      "TWzh": "蓬蓬袖罩衫",
+      "JPja": "フリルパフブラウス",
+      "KRko": "퍼프 소매 블라우스",
+      "EUru": "блузка с «фонариками»"
+    }
+  },
+  {
+    "id": 700,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "holiday sweater",
+      "EUen": "holiday sweater",
+      "EUde": "Festtagspulli",
+      "EUes": "jersey árbol festivo",
+      "USes": "suéter árbol festivo",
+      "EUfr": "pull sapin festif",
+      "USfr": "gilet sapin festif",
+      "EUit": "maglia festiva",
+      "EUnl": "feestboomtrui",
+      "CNzh": "圣诞毛衣",
+      "TWzh": "聖誕毛衣",
+      "JPja": "クリスマスセーター",
+      "KRko": "크리스마스 스웨터",
+      "EUru": "праздничный свитер"
+    }
+  },
+  {
+    "id": 743,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vest with binoculars",
+      "EUen": "vest with binoculars",
+      "EUde": "Weste mit Fernglas",
+      "EUes": "chaleco con prismáticos",
+      "USes": "chaleco con binoculares",
+      "EUfr": "chemise avec jumelles",
+      "USfr": "chemise avec jumelles",
+      "EUit": "gilet con binocolo",
+      "EUnl": "koekeloeroverhemd",
+      "CNzh": "连望远镜背心",
+      "TWzh": "背心連望遠鏡",
+      "JPja": "そうがんきょうつきベスト",
+      "KRko": "쌍안경과 조끼",
+      "EUru": "жилет с биноклем"
+    }
+  },
+  {
+    "id": 745,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shirt with camera",
+      "EUen": "shirt with camera",
+      "EUde": "Hemd mit Kamera",
+      "EUes": "camisa con cámara",
+      "USes": "camisa con cámara",
+      "EUfr": "chemise appareil photo",
+      "USfr": "chemise appareil photo",
+      "EUit": "camicia con fotocamera",
+      "EUnl": "overhemd met fototoestel",
+      "CNzh": "连照相机衬衫",
+      "TWzh": "襯衫連照相機",
+      "JPja": "カメラつきワイシャツ",
+      "KRko": "카메라와 와이셔츠",
+      "EUru": "рубашка с фотоаппаратом"
+    }
+  },
+  {
+    "id": 746,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "embroidered tank",
+      "EUen": "embroidered tank",
+      "EUde": "Spitzenträgertop",
+      "EUes": "top bordado",
+      "USes": "top bordado",
+      "EUfr": "débardeur brodé",
+      "USfr": "débardeur brodé",
+      "EUit": "canotta ricamata",
+      "EUnl": "geborduurde hemdje",
+      "CNzh": "刺绣细肩带背心",
+      "TWzh": "刺繡細肩帶背心",
+      "JPja": "ししゅうのキャミソール",
+      "KRko": "자수 캐미솔",
+      "EUru": "топ с вышивкой"
+    }
+  },
+  {
+    "id": 807,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sailor-style shirt",
+      "EUen": "sailor-style shirt",
+      "EUde": "Matrosenhemd",
+      "EUes": "jersey marinero",
+      "USes": "suéter marinero",
+      "EUfr": "chemise à col marin",
+      "USfr": "chemise à col marin",
+      "EUit": "camicia da marinaio",
+      "EUnl": "matrozentrui",
+      "CNzh": "水手衬衫",
+      "TWzh": "水手襯衫",
+      "JPja": "セーラーシャツ",
+      "KRko": "세일러 셔츠",
+      "EUru": "фланелевка"
+    }
+  },
+  {
+    "id": 813,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fischerhemd",
+      "EUen": "fischerhemd",
+      "EUde": "Fischerhemd",
+      "EUes": "camisa fischerhemd",
+      "USes": "camisa fischerhemd",
+      "EUfr": "fischerhemd",
+      "USfr": "fischerhemd",
+      "EUit": "camicia fischerhemd",
+      "EUnl": "visserskiel",
+      "CNzh": "西欧渔夫衬衫",
+      "TWzh": "漁夫襯衫",
+      "JPja": "フィッシャーヘムト",
+      "KRko": "어부 셔츠",
+      "EUru": "рубашка рыбака"
+    }
+  },
+  {
+    "id": 823,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flashy cardigan",
+      "EUen": "flashy cardigan",
+      "EUde": "Imponierjacke",
+      "EUes": "rebeca llamativa",
+      "USes": "cárdigan llamativo",
+      "EUfr": "gilet bariolé",
+      "USfr": "gilet bariolé",
+      "EUit": "cardigan multicolore",
+      "EUnl": "knallende vest",
+      "CNzh": "鲜艳针织罩衫",
+      "TWzh": "鮮艷針織罩衫",
+      "JPja": "ハデなカーディガン",
+      "KRko": "화려한 가디건",
+      "EUru": "яркий кардиган"
+    }
+  },
+  {
+    "id": 866,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sleeveless parka",
+      "EUen": "sleeveless parka",
+      "EUde": "Kapuzenweste",
+      "EUes": "sudadera sin mangas",
+      "USes": "sudadera sin mangas",
+      "EUfr": "parka sans manches",
+      "USfr": "parka sans manches",
+      "EUit": "felpa senza maniche",
+      "EUnl": "mouwloze jas",
+      "CNzh": "无袖连帽上衣",
+      "TWzh": "無袖連帽上衣",
+      "JPja": "ノースリーブパーカー",
+      "KRko": "민소매 파카",
+      "EUru": "парка-безрукавка"
+    }
+  },
+  {
+    "id": 901,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "staff uniform",
+      "EUen": "staff uniform",
+      "EUde": "Mitarbeitershirt",
+      "EUes": "camiseta de personal",
+      "USes": "camiseta de personal",
+      "EUfr": "t-shirt STAFF",
+      "USfr": "t-shirt STAFF",
+      "EUit": "uniforme da staff",
+      "EUnl": "personeels-T-shirt",
+      "CNzh": "工作人员制服",
+      "TWzh": "工作人員衣服",
+      "JPja": "スタッフのふく",
+      "KRko": "스태프 옷",
+      "EUru": "футболка для персонала"
+    }
+  },
+  {
+    "id": 903,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "oilskin coat",
+      "EUen": "oilskin coat",
+      "EUde": "Öljacke",
+      "EUes": "impermeable de trabajo",
+      "USes": "impermeable de trabajo",
+      "EUfr": "manteau huilé",
+      "USfr": "manteau huilé",
+      "EUit": "giacca cerata",
+      "EUnl": "oliejas",
+      "CNzh": "油布外套",
+      "TWzh": "油布外套",
+      "JPja": "オイルスキンのジャケット",
+      "KRko": "방수 재킷",
+      "EUru": "плащ-дождевик"
+    }
+  },
+  {
+    "id": 909,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "guide shirt",
+      "EUen": "guide shirt",
+      "EUde": "Armbindenhemd",
+      "EUes": "camisa con brazalete",
+      "USes": "camisa con brazalete",
+      "EUfr": "chemise de guide",
+      "USfr": "chemise de guide",
+      "EUit": "camicia da guida",
+      "EUnl": "gidsoverhemd",
+      "CNzh": "服务人员制服",
+      "TWzh": "服務人員衣服",
+      "JPja": "あんないがかりのふく",
+      "KRko": "안내원 옷",
+      "EUru": "рубашка экскурсовода"
+    }
+  },
+  {
+    "id": 911,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bulldog jacket",
+      "EUen": "bulldog jacket",
+      "EUde": "Bulldoggenjacke",
+      "EUes": "cazadora bulldog",
+      "USes": "chamarra bulldog",
+      "EUfr": "blouson bulldog",
+      "USfr": "blouson bulldog",
+      "EUit": "giacca bulldog",
+      "EUnl": "bulldogjasje",
+      "CNzh": "斗牛犬运动服",
+      "TWzh": "鬥牛犬運動服",
+      "JPja": "ブルドッグジャージ",
+      "KRko": "불독 프린트 재킷",
+      "EUru": "куртка «Бульдог»"
+    }
+  },
+  {
+    "id": 916,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "doublet",
+      "EUen": "doublet",
+      "EUde": "Kiltjackett",
+      "EUes": "chaqueta de gala para kilt",
+      "USes": "saco de gala para kilt",
+      "EUfr": "veste avec veston",
+      "USfr": "manteau avec veston",
+      "EUit": "giacca da kilt",
+      "EUnl": "Schotse jasje",
+      "CNzh": "苏格兰道布莱特外套",
+      "TWzh": "蘇格蘭道布萊特外套",
+      "JPja": "ダブレット",
+      "KRko": "더블릿",
+      "EUru": "пиджак с жилетом"
+    }
+  },
+  {
+    "id": 939,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gingham picnic shirt",
+      "EUen": "gingham picnic shirt",
+      "EUde": "Karohemd",
+      "EUes": "camisa vichy",
+      "USes": "camisa vichy",
+      "EUfr": "chemise vichy",
+      "USfr": "chemise vichy",
+      "EUit": "camicia a quadri",
+      "EUnl": "picknickshirt",
+      "CNzh": "嘉顿格纹衬衫",
+      "TWzh": "嘉頓格紋襯衫",
+      "JPja": "ギンガムチェックのシャツ",
+      "KRko": "깅엄 체크 셔츠",
+      "EUru": "клетчатая рубашка"
+    }
+  },
+  {
+    "id": 948,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sports tank",
+      "EUen": "sports tank",
+      "EUde": "Leichtathletiktrikot",
+      "EUes": "top carrera",
+      "USes": "top carrera",
+      "EUfr": "maillot d'athlétisme",
+      "USfr": "maillot d'athlétisme",
+      "EUit": "pettorina",
+      "EUnl": "sporttanktop",
+      "CNzh": "号码背心",
+      "TWzh": "號碼衣",
+      "JPja": "ビブス",
+      "KRko": "연습복",
+      "EUru": "стартовая майка"
+    }
+  },
+  {
+    "id": 1005,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "MVP tee",
+      "EUen": "MVP tee",
+      "EUde": "MVP-Shirt",
+      "EUes": "camiseta MVP",
+      "USes": "camiseta MVP",
+      "EUfr": "t-shirt MVP",
+      "USfr": "t-shirt MVP",
+      "EUit": "maglietta MVP",
+      "EUnl": "MVP-T-shirt",
+      "CNzh": "MVP T恤",
+      "TWzh": "MVP T恤",
+      "JPja": "ＭＶＰなＴシャツ",
+      "KRko": "MVP 티셔츠",
+      "EUru": "футболка MVP"
+    }
+  },
+  {
+    "id": 1006,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "No. 1 shirt",
+      "EUen": "No. 1 shirt",
+      "EUde": "Nr.-1-Shirt",
+      "EUes": "camiseta n.º 1",
+      "USes": "camiseta n.º 1",
+      "EUfr": "t-shirt 1",
+      "USfr": "t-shirt 1",
+      "EUit": "maglia nº 1",
+      "EUnl": "nummer 1-T-shirt",
+      "CNzh": "1号服",
+      "TWzh": "No.1衣服",
+      "JPja": "No.1のふく",
+      "KRko": "No.1 옷",
+      "EUru": "футболка «Первый»"
+    }
+  },
+  {
+    "id": 1021,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "danger tank",
+      "EUen": "danger tank",
+      "EUde": "Linientop",
+      "EUes": "top peligro",
+      "USes": "top peligro",
+      "EUfr": "débardeur danger",
+      "USfr": "camisole danger",
+      "EUit": "canotta ape",
+      "EUnl": "gevarentanktop",
+      "CNzh": "警示坦克背心",
+      "TWzh": "警示坦克背心",
+      "JPja": "デンジャラスなタンクトップ",
+      "KRko": "위험한 탱크톱",
+      "EUru": "топ «Опасно!»"
+    }
+  },
+  {
+    "id": 1022,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "heart sweater",
+      "EUen": "heart sweater",
+      "EUde": "Herzpulli",
+      "EUes": "jersey corazón",
+      "USes": "suéter corazón",
+      "EUfr": "pull cœur",
+      "USfr": "gilet cœur",
+      "EUit": "maglione cuore",
+      "EUnl": "hartentrui",
+      "CNzh": "爱心毛衣",
+      "TWzh": "愛心毛衣",
+      "JPja": "ハートのセーター",
+      "KRko": "하트 스웨터",
+      "EUru": "свитер с сердечком"
+    }
+  },
+  {
+    "id": 1023,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tree sweater",
+      "EUen": "tree sweater",
+      "EUde": "Baumpulli",
+      "EUes": "jersey pino",
+      "USes": "suéter pino",
+      "EUfr": "pull sapin",
+      "USfr": "gilet sapin",
+      "EUit": "maglione albero",
+      "EUnl": "dennenboomtrui",
+      "CNzh": "树木毛衣",
+      "TWzh": "樹木毛衣",
+      "JPja": "きのセーター",
+      "KRko": "나무 스웨터",
+      "EUru": "свитер с елкой"
+    }
+  },
+  {
+    "id": 1024,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frog tee",
+      "EUen": "frog tee",
+      "EUde": "Quak-Shirt",
+      "EUes": "camiseta ranita",
+      "USes": "camiseta ranita",
+      "EUfr": "t-shirt rainette",
+      "USfr": "t-shirt rainette",
+      "EUit": "maglietta rana",
+      "EUnl": "kikker-T-shirt",
+      "CNzh": "青蛙T恤",
+      "TWzh": "青蛙T恤",
+      "JPja": "かえるのＴシャツ",
+      "KRko": "개구리 그림 티셔츠",
+      "EUru": "футболка с лягушкой"
+    }
+  },
+  {
+    "id": 1025,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bear tee",
+      "EUen": "bear tee",
+      "EUde": "Teddy-Shirt",
+      "EUes": "camiseta osito",
+      "USes": "camiseta osito",
+      "EUfr": "t-shirt ours",
+      "USfr": "t-shirt ours",
+      "EUit": "maglietta orsetto",
+      "EUnl": "beren-T-shirt",
+      "CNzh": "熊熊T恤",
+      "TWzh": "熊熊T恤",
+      "JPja": "くまのＴシャツ",
+      "KRko": "곰 그림 티셔츠",
+      "EUru": "футболка с медведем"
+    }
+  },
+  {
+    "id": 1026,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rabbit tee",
+      "EUen": "rabbit tee",
+      "EUde": "Häschenshirt",
+      "EUes": "camiseta conejito",
+      "USes": "camiseta conejito",
+      "EUfr": "t-shirt lapin",
+      "USfr": "t-shirt lapin",
+      "EUit": "maglietta coniglietto",
+      "EUnl": "konijnen-T-shirt",
+      "CNzh": "兔子T恤",
+      "TWzh": "兔子T恤",
+      "JPja": "うさぎのＴシャツ",
+      "KRko": "토끼 그림 티셔츠",
+      "EUru": "футболка с зайцем"
+    }
+  },
+  {
+    "id": 1027,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "animal-stripes tee",
+      "EUen": "animal-stripes tee",
+      "EUde": "Tigerstreifenshirt",
+      "EUes": "camiseta rayas animales",
+      "USes": "camiseta guepardo",
+      "EUfr": "t-shirt tigré",
+      "USfr": "t-shirt motif animalier",
+      "EUit": "maglietta animalier",
+      "EUnl": "tijger-T-shirt",
+      "CNzh": "动物条纹T恤",
+      "TWzh": "橫條紋T恤",
+      "JPja": "しましまＴシャツ",
+      "KRko": "얼룩무늬 티셔츠",
+      "EUru": "звериная футболка"
+    }
+  },
+  {
+    "id": 1028,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "leopard tee",
+      "EUen": "leopard tee",
+      "EUde": "Leopardenshirt",
+      "EUes": "camiseta de leopardo",
+      "USes": "camiseta de leopardo",
+      "EUfr": "t-shirt léopard",
+      "USfr": "t-shirt léopard",
+      "EUit": "maglietta maculata",
+      "EUnl": "luipaard-T-shirt",
+      "CNzh": "豹纹T恤",
+      "TWzh": "豹紋T恤",
+      "JPja": "ヒョウがらＴシャツ",
+      "KRko": "표범무늬 티셔츠",
+      "EUru": "леопардовая футболка"
+    }
+  },
+  {
+    "id": 1029,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bone tee",
+      "EUen": "bone tee",
+      "EUde": "Knochenshirt",
+      "EUes": "camiseta huesito",
+      "USes": "camiseta huesito",
+      "EUfr": "t-shirt os",
+      "USfr": "t-shirt os",
+      "EUit": "maglietta osso",
+      "EUnl": "botten-T-shirt",
+      "CNzh": "骨头T恤",
+      "TWzh": "骨頭T恤",
+      "JPja": "ボーンなＴシャツ",
+      "KRko": "뼈다귀 그림 티셔츠",
+      "EUru": "футболка с костью"
+    }
+  },
+  {
+    "id": 1030,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "misty tee",
+      "EUen": "misty tee",
+      "EUde": "Nebelshirt",
+      "EUes": "camiseta bruma",
+      "USes": "camiseta bruma",
+      "EUfr": "t-shirt brume",
+      "USfr": "t-shirt brume",
+      "EUit": "maglietta nebbia",
+      "EUnl": "nevel-T-shirt",
+      "CNzh": "云雾上衣",
+      "TWzh": "雲霧衣服",
+      "JPja": "かすみのふく",
+      "KRko": "봄안개 옷",
+      "EUru": "футболка «Туман»"
+    }
+  },
+  {
+    "id": 1031,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "marble-dots tee",
+      "EUen": "marble-dots tee",
+      "EUde": "Buntpünktchenshirt",
+      "EUes": "camiseta topos multicolor",
+      "USes": "camiseta lunares multicolor",
+      "EUfr": "t-shirt à pois arlequin",
+      "USfr": "t-shirt à pois arlequin",
+      "EUit": "maglietta a pois colorati",
+      "EUnl": "discostippel-T-shirt",
+      "CNzh": "彩色波点T恤",
+      "TWzh": "圓點點T恤",
+      "JPja": "マーブルドットのＴシャツ",
+      "KRko": "마블 도트 티셔츠",
+      "EUru": "футболка в цветной горох"
+    }
+  },
+  {
+    "id": 1032,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple-dots tee",
+      "EUen": "simple-dots tee",
+      "EUde": "Unipünktchenshirt",
+      "EUes": "camiseta topos",
+      "USes": "camiseta a lunares",
+      "EUfr": "t-shirt à pois simples",
+      "USfr": "t-shirt à pois simples",
+      "EUit": "maglietta a pois semplici",
+      "EUnl": "T-shirt met stippen",
+      "CNzh": "简约波点T恤",
+      "TWzh": "簡約點點T恤",
+      "JPja": "シンプルドットのＴシャツ",
+      "KRko": "심플 도트 티셔츠",
+      "EUru": "футболка в горох"
+    }
+  },
+  {
+    "id": 1033,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zigzag shirt",
+      "EUen": "zigzag shirt",
+      "EUde": "Zickzackpulli",
+      "EUes": "jersey zigzag",
+      "USes": "suéter zigzag",
+      "EUfr": "pull zigzag",
+      "USfr": "pull zigzag",
+      "EUit": "maglietta zigzag",
+      "EUnl": "kartelshirt",
+      "CNzh": "锯齿纹T恤",
+      "TWzh": "鋸齒紋T恤",
+      "JPja": "ギザギザのＴシャツ",
+      "KRko": "뾰족뾰족 티셔츠",
+      "EUru": "лонгслив с зигзагом"
+    }
+  },
+  {
+    "id": 1034,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blossom tee",
+      "EUen": "blossom tee",
+      "EUde": "Blumenshirt",
+      "EUes": "camiseta florida",
+      "USes": "camiseta florida",
+      "EUfr": "t-shirt à imprimé floral",
+      "USfr": "t-shirt fleuri",
+      "EUit": "maglietta floreale",
+      "EUnl": "T-shirt met bloemopdruk",
+      "CNzh": "花朵T恤",
+      "TWzh": "花紋T恤",
+      "JPja": "はながらのＴシャツ",
+      "KRko": "꽃무늬 티셔츠",
+      "EUru": "футболка в цветочек"
+    }
+  },
+  {
+    "id": 1035,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bold aloha shirt",
+      "EUen": "bold aloha shirt",
+      "EUde": "Aloha-Hemd",
+      "EUes": "camisa aloha polinesia",
+      "USes": "camisa aloha polinesia",
+      "EUfr": "chemise aloha",
+      "USfr": "chemise aloha",
+      "EUit": "camicia aloha sgargiante",
+      "EUnl": "bontgekleurde hawaïshirt",
+      "CNzh": "波利尼西亚夏威夷衬衫",
+      "TWzh": "玻里尼西亞夏威夷襯衫",
+      "JPja": "ポリネシアンなアロハ",
+      "KRko": "폴리네시안 알로하 셔츠",
+      "EUru": "цветастая гавайка"
+    }
+  },
+  {
+    "id": 1036,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spider-web tee",
+      "EUen": "spider-web tee",
+      "EUde": "Spinnwebenshirt",
+      "EUes": "camiseta telaraña",
+      "USes": "camiseta telaraña",
+      "EUfr": "t-shirt toile d'araignée",
+      "USfr": "t-shirt toile d'araignée",
+      "EUit": "maglietta ragnatela",
+      "EUnl": "spinnenweb-T-shirt",
+      "CNzh": "蜘蛛网T恤",
+      "TWzh": "蜘蛛T恤",
+      "JPja": "スパイダーなＴシャツ",
+      "KRko": "스파이더 티셔츠",
+      "EUru": "футболка с паутиной"
+    }
+  },
+  {
+    "id": 1037,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "skull tee",
+      "EUen": "skull tee",
+      "EUde": "Schädelshirt",
+      "EUes": "camiseta calavera",
+      "USes": "camiseta calavera",
+      "EUfr": "t-shirt crâne",
+      "USfr": "t-shirt crâne",
+      "EUit": "maglietta teschio",
+      "EUnl": "schedel-T-shirt",
+      "CNzh": "骷髅T恤",
+      "TWzh": "骷髏T恤",
+      "JPja": "ドクロＴシャツ",
+      "KRko": "해골 티셔츠",
+      "EUru": "футболка с черепом"
+    }
+  },
+  {
+    "id": 1038,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "A tee",
+      "EUen": "A tee",
+      "EUde": "A-Shirt",
+      "EUes": "camiseta A",
+      "USes": "camiseta A",
+      "EUfr": "t-shirt A",
+      "USfr": "t-shirt A",
+      "EUit": "maglietta A",
+      "EUnl": "A-shirt",
+      "CNzh": "A字T恤",
+      "TWzh": "A字T恤",
+      "JPja": "エースのＴシャツ",
+      "KRko": "에이스 티셔츠",
+      "EUru": "футболка «А»"
+    }
+  },
+  {
+    "id": 1046,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "starry tank",
+      "EUen": "starry tank",
+      "EUde": "Sternen-Tanktop",
+      "EUes": "top estrellas",
+      "USes": "top estrellas",
+      "EUfr": "débardeur à étoiles",
+      "USfr": "camisole à étoiles",
+      "EUit": "canotta stellata",
+      "EUnl": "sterrentanktop",
+      "CNzh": "星星坦克背心",
+      "TWzh": "星星坦克背心",
+      "JPja": "ほしがらタンクトップ",
+      "KRko": "별무늬 탱크톱",
+      "EUru": "футболка со звездами"
+    }
+  },
+  {
+    "id": 1047,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flame tee",
+      "EUen": "flame tee",
+      "EUde": "Feuershirt",
+      "EUes": "camiseta fuego",
+      "USes": "camiseta fuego",
+      "EUfr": "t-shirt flamme",
+      "USfr": "t-shirt flamme",
+      "EUit": "maglietta fiamma",
+      "EUnl": "vlammenshirt",
+      "CNzh": "火焰T恤",
+      "TWzh": "火焰T恤",
+      "JPja": "ファイアーなＴシャツ",
+      "KRko": "파이어 티셔츠",
+      "EUru": "футболка с пламенем"
+    }
+  },
+  {
+    "id": 1056,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's hand-knit sweater",
+      "EUen": "Mom's hand-knit sweater",
+      "EUde": "Strickpulli von Mama",
+      "EUes": "jersey de punto de mamá",
+      "USes": "suéter tejido de mamá",
+      "EUfr": "pull tricoté par maman",
+      "USfr": "gilet tricoté par maman",
+      "EUit": "maglione di mamma",
+      "EUnl": "mama's zelfgebreide trui",
+      "CNzh": "妈妈手编毛衣",
+      "TWzh": "媽媽手編毛衣",
+      "JPja": "ははのてあみセーター",
+      "KRko": "엄마가 직접 짠 스웨터",
+      "EUru": "связанная мамой кофта"
+    }
+  },
+  {
+    "id": 1057,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Mom's handmade apron",
+      "EUen": "Mom's handmade apron",
+      "EUde": "Häkelschürze von Mama",
+      "EUes": "delantal de mamá",
+      "USes": "delantal de mamá",
+      "EUfr": "tablier cousu par maman",
+      "USfr": "tablier cousu par maman",
+      "EUit": "grembiule di mamma",
+      "EUnl": "mama's zelfgenaaide schort",
+      "CNzh": "妈妈手作围裙",
+      "TWzh": "媽媽手作圍裙",
+      "JPja": "ははのてづくりエプロン",
+      "KRko": "엄마가 직접 만든 앞치마",
+      "EUru": "сшитый мамой фартук"
+    }
+  },
+  {
+    "id": 1058,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "simple knit sweater",
+      "EUen": "simple knit sweater",
+      "EUde": "Einfarben-Strickpulli",
+      "EUes": "jersey de punto sencillo",
+      "USes": "suéter tejido sencillo",
+      "EUfr": "pull tricoté simple",
+      "USfr": "gilet tricoté simple",
+      "EUit": "maglione semplice",
+      "EUnl": "eenvoudige gebreide trui",
+      "CNzh": "简约针织衫",
+      "TWzh": "簡約針織衫",
+      "JPja": "シンプルなニット",
+      "KRko": "심플한 니트",
+      "EUru": "простой вязан. свитер"
+    }
+  },
+  {
+    "id": 1062,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "viking top",
+      "EUen": "viking top",
+      "EUde": "Wikingergewand",
+      "EUes": "cota de escamas vikinga",
+      "USes": "cota de escamas vikinga",
+      "EUfr": "armure viking",
+      "USfr": "armure viking",
+      "EUit": "maglione vichingo",
+      "EUnl": "Vikingtrui",
+      "CNzh": "维京人服",
+      "TWzh": "維京人衣服",
+      "JPja": "バイキングのふく",
+      "KRko": "바이킹 옷",
+      "EUru": "доспехи викинга"
+    }
+  },
+  {
+    "id": 1063,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dotted raincoat",
+      "EUen": "dotted raincoat",
+      "EUde": "Punkte-Regenmantel",
+      "EUes": "chubasquero lunares",
+      "USes": "impermeable a lunares",
+      "EUfr": "imperméable gouttes d'eau",
+      "USfr": "imperméable gouttes d'eau",
+      "EUit": "impermeabile a pois",
+      "EUnl": "regenjas met stippen",
+      "CNzh": "水滴雨衣",
+      "TWzh": "圓點雨衣",
+      "JPja": "みずたまレインコート",
+      "KRko": "물방울 우비",
+      "EUru": "дождевик в горох"
+    }
+  },
+  {
+    "id": 1066,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diner apron",
+      "EUen": "diner apron",
+      "EUde": "Dinerschürze",
+      "EUes": "delantal café años 50",
+      "USes": "delantal café años 50",
+      "EUfr": "tablier nostalgique",
+      "USfr": "tablier nostalgique",
+      "EUit": "grembiule bar anni '50",
+      "EUnl": "serveerdersschort",
+      "CNzh": "餐馆围裙",
+      "TWzh": "餐館圍裙",
+      "JPja": "ダイナーのエプロン",
+      "KRko": "다이너 앞치마",
+      "EUru": "фартук буфетчицы"
+    }
+  },
+  {
+    "id": 1072,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "printed layered shirt",
+      "EUen": "printed layered shirt",
+      "EUde": "Design-Lagenshirt",
+      "EUes": "camiseta serigrafiada",
+      "USes": "camiseta serigrafiada",
+      "EUfr": "t-shirt à effet superposé",
+      "USfr": "t-shirt à effet superposé",
+      "EUit": "maglia a strati con stampa",
+      "EUnl": "laagjesshirt met opdruk",
+      "CNzh": "两件式印花T恤",
+      "TWzh": "兩件式印花T恤",
+      "JPja": "かさねぎプリントＴシャツ",
+      "KRko": "레이어드 프린트 티셔츠",
+      "EUru": "лонгслив и майка (текст)"
+    }
+  },
+  {
+    "id": 1074,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "printed-sleeve sweater",
+      "EUen": "printed-sleeve sweater",
+      "EUde": "Ärmelaufdruck-Pulli",
+      "EUes": "jersey mangas serigrafiadas",
+      "USes": "suéter mangas serigrafiadas",
+      "EUfr": "pull manches imprimées",
+      "USfr": "coton ouaté sérigraphié",
+      "EUit": "maglia a maniche stampate",
+      "EUnl": "trui met mouwprint",
+      "CNzh": "袖子印花T恤",
+      "TWzh": "袖子印花T恤",
+      "JPja": "アームプリントＴシャツ",
+      "KRko": "팔 프린트 티셔츠",
+      "EUru": "лонгслив «Животные»"
+    }
+  },
+  {
+    "id": 1078,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plaid puffed-sleeve shirt",
+      "EUen": "plaid puffed-sleeve shirt",
+      "EUde": "Karo-Puffärmelhemd",
+      "EUes": "blusa tartán manga farol",
+      "USes": "blusa escocesa manga farol",
+      "EUfr": "haut à manches ballon",
+      "USfr": "haut à manches ballons",
+      "EUit": "maglia maniche a sbuffo",
+      "EUnl": "pofmouwenshirt",
+      "CNzh": "格纹蓬蓬袖上衣",
+      "TWzh": "方塊格紋蓬蓬袖上衣",
+      "JPja": "ブロックチェックのパフスリーブ",
+      "KRko": "블록 체크 퍼프 셔츠",
+      "EUru": "клетчатая летняя блузка"
+    }
+  },
+  {
+    "id": 1079,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dolly shirt",
+      "EUen": "dolly shirt",
+      "EUde": "Püppchenhemd",
+      "EUes": "blusa adorable",
+      "USes": "blusa adorable",
+      "EUfr": "chemise dolly",
+      "USfr": "chemise dolly",
+      "EUit": "maglia adorabile",
+      "EUnl": "popperige blouse",
+      "CNzh": "洋娃娃风衬衫",
+      "TWzh": "洋娃娃風襯衫",
+      "JPja": "ドーリーシャツ",
+      "KRko": "돌리 셔츠",
+      "EUru": "кукольная блузка"
+    }
+  },
+  {
+    "id": 1081,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "work apron",
+      "EUen": "work apron",
+      "EUde": "Arbeitsschürze",
+      "EUes": "delantal de trabajo",
+      "USes": "delantal de trabajo",
+      "EUfr": "tablier de travail",
+      "USfr": "tablier de travail",
+      "EUit": "grembiule da lavoro",
+      "EUnl": "werkschort",
+      "CNzh": "工作围裙",
+      "TWzh": "工作圍裙",
+      "JPja": "ワークエプロン",
+      "KRko": "작업용 앞치마",
+      "EUru": "рабочий фартук"
+    }
+  },
+  {
+    "id": 1082,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "botanical tee",
+      "EUen": "botanical tee",
+      "EUde": "Botanik-Shirt",
+      "EUes": "camiseta jardín botánico",
+      "USes": "camiseta jardín botánico",
+      "EUfr": "t-shirt botanique",
+      "USfr": "t-shirt botanique",
+      "EUit": "maglietta botanica",
+      "EUnl": "tropische T-shirt",
+      "CNzh": "植物图案T恤",
+      "TWzh": "植物圖案T恤",
+      "JPja": "ボタニカルＴシャツ",
+      "KRko": "보태니컬 티셔츠",
+      "EUru": "ботаническая футболка"
+    }
+  },
+  {
+    "id": 1083,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "groovy shirt",
+      "EUen": "groovy shirt",
+      "EUde": "Hippie-Hemd",
+      "EUes": "camisa psicodelia",
+      "USes": "camisa psicodelia",
+      "EUfr": "chemise groovy",
+      "USfr": "chemise groovy",
+      "EUit": "maglia hippy",
+      "EUnl": "groovy overhemd",
+      "CNzh": "迷幻T恤",
+      "TWzh": "迷幻T恤",
+      "JPja": "サイケデリックシャツ",
+      "KRko": "사이키델릭 셔츠",
+      "EUru": "экстравагантная рубашка"
+    }
+  },
+  {
+    "id": 1126,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Labelle knit shirt",
+      "EUen": "Labelle knit shirt",
+      "EUde": "Samthea-Jerseyhemd",
+      "EUes": "camiseta de punto Trini",
+      "USes": "camiseta tejida Trini",
+      "EUfr": "t-shirt tricoté Maria",
+      "USfr": "t-shirt tricoté Maria",
+      "EUit": "maglietta Bice",
+      "EUnl": "gebreide Labelle-T-shirt",
+      "CNzh": "凯丝的针织衫",
+      "TWzh": "凱絲針織衫",
+      "JPja": "ケイトのカットソー",
+      "KRko": "케이트의 니트 티셔츠",
+      "EUru": "вязаная майка «Лэйблеск»"
+    }
+  },
+  {
+    "id": 1127,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Labelle coat",
+      "EUen": "Labelle coat",
+      "EUde": "Samthea-Mantel",
+      "EUes": "abrigo Trini",
+      "USes": "abrigo Trini",
+      "EUfr": "manteau Maria",
+      "USfr": "manteau Maria",
+      "EUit": "cappotto Bice",
+      "EUnl": "Labelle-jas",
+      "CNzh": "凯丝的大衣",
+      "TWzh": "凱絲大衣",
+      "JPja": "ケイトのコート",
+      "KRko": "케이트의 코트",
+      "EUru": "пальто «Лэйблеск»"
+    }
+  },
+  {
+    "id": 1140,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. blouson",
+      "EUen": "Nook Inc. blouson",
+      "EUde": "Nook-Inc.-Blouson",
+      "EUes": "sudadera de Nook Inc.",
+      "USes": "sudadera de Nook Inc.",
+      "EUfr": "blouson Nook Inc.",
+      "USfr": "blouson Nook Inc.",
+      "EUit": "bomber Nook Inc.",
+      "EUnl": "Nook Inc.-jack",
+      "CNzh": "Nook Inc.外套",
+      "TWzh": "Nook Inc.外套",
+      "JPja": "たぬきかいはつブルゾン",
+      "KRko": "Nook Inc. 집업",
+      "EUru": "блузон Nook Inc."
+    }
+  },
+  {
+    "id": 1141,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. aloha shirt",
+      "EUen": "Nook Inc. aloha shirt",
+      "EUde": "Nook-Inc.-Hawaiihemd",
+      "EUes": "camisa aloha de Nook Inc.",
+      "USes": "camisa aloha de Nook Inc.",
+      "EUfr": "chemisette Hawaï Nook Inc.",
+      "USfr": "chemisette Hawaï Nook Inc.",
+      "EUit": "camicia aloha Nook Inc.",
+      "EUnl": "Nook Inc.-shirt",
+      "CNzh": "Nook Inc.夏威夷衬衫",
+      "TWzh": "Nook Inc.夏威夷襯衫",
+      "JPja": "たぬきかいはつアロハ",
+      "KRko": "Nook Inc. 알로하 셔츠",
+      "EUru": "гавайка Nook Inc."
+    }
+  },
+  {
+    "id": 1146,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "big-star tee",
+      "EUen": "big-star tee",
+      "EUde": "Nachtshirt",
+      "EUes": "camiseta estrellón",
+      "USes": "camiseta estrella enorme",
+      "EUfr": "t-shirt étoile",
+      "USfr": "t-shirt étoile",
+      "EUit": "maglietta stellona",
+      "EUnl": "stershirt",
+      "CNzh": "最闪耀星星上衣",
+      "TWzh": "最閃耀星星衣服",
+      "JPja": "いちばんぼしのふく",
+      "KRko": "큰별 옷",
+      "EUru": "футболка со звездой"
+    }
+  },
+  {
+    "id": 1149,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. tee",
+      "EUen": "Nook Inc. tee",
+      "EUde": "Nook-Inc.-Shirt",
+      "EUes": "camiseta de Nook Inc.",
+      "USes": "camiseta de Nook Inc.",
+      "EUfr": "t-shirt Nook Inc.",
+      "USfr": "t-shirt Nook Inc.",
+      "EUit": "maglietta Nook Inc.",
+      "EUnl": "Nook Inc.-T-shirt",
+      "CNzh": "Nook Inc.T恤",
+      "TWzh": "Nook Inc.T恤",
+      "JPja": "たぬきかいはつＴシャツ",
+      "KRko": "Nook Inc. 티셔츠",
+      "EUru": "футболка Nook Inc."
+    }
+  },
+  {
+    "id": 1151,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bug aloha shirt",
+      "EUen": "bug aloha shirt",
+      "EUde": "Insekten-Hawaiihemd",
+      "EUes": "camisa aloha bichos",
+      "USes": "camisa aloha insectos",
+      "EUfr": "chemisette Hawaï insectes",
+      "USfr": "chemisette Hawaï insectes",
+      "EUit": "camicia aloha insetti",
+      "EUnl": "insecten-hawaïshirt",
+      "CNzh": "虫虫夏威夷衬衫",
+      "TWzh": "昆蟲夏威夷襯衫",
+      "JPja": "インセクトアロハ",
+      "KRko": "곤충 알로하 셔츠",
+      "EUru": "гавайка с насекомыми"
+    }
+  },
+  {
+    "id": 1152,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fish-print tee",
+      "EUen": "fish-print tee",
+      "EUde": "Anglershirt",
+      "EUes": "camiseta estampada pez",
+      "USes": "camiseta estampada pez",
+      "EUfr": "t-shirt à motif poisson",
+      "USfr": "t-shirt à motif poisson",
+      "EUit": "maglietta pesce stampato",
+      "EUnl": "vissenshirt",
+      "CNzh": "鱼儿T恤",
+      "TWzh": "魚兒T恤",
+      "JPja": "さかなＴシャツ",
+      "KRko": "물고기 티셔츠",
+      "EUru": "рыбная футболка"
+    }
+  },
+  {
+    "id": 1154,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "terry-cloth nightgown",
+      "EUen": "terry-cloth nightgown",
+      "EUde": "Frottee-Nachthemd",
+      "EUes": "bata de dormir",
+      "USes": "bata de dormir",
+      "EUfr": "chemise nuit tissu éponge",
+      "USfr": "chemise nuit tissu éponge",
+      "EUit": "vestito di spugna",
+      "EUnl": "badstoffen nachtjapon",
+      "CNzh": "毛绒长袍",
+      "TWzh": "毛絨睡袍",
+      "JPja": "もこもこナイトガウン",
+      "KRko": "복슬복슬 수면 잠옷 상의",
+      "EUru": "махровая ночнушка"
+    }
+  },
+  {
+    "id": 1160,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plushie-muffler coat",
+      "EUen": "plushie-muffler coat",
+      "EUde": "Kuscheltier-Schal-Outfit",
+      "EUes": "abrigo con chal de peluche",
+      "USes": "abrigo con chal de peluche",
+      "EUfr": "caban à écharpe en peluche",
+      "USfr": "manteau foulard en peluche",
+      "EUit": "cappotto e sciarpa imbottita",
+      "EUnl": "jas met knuffelsjaal",
+      "CNzh": "玩偶围巾大衣",
+      "TWzh": "玩偶圍巾大衣",
+      "JPja": "ぬいぐるみマフラーつきコート",
+      "KRko": "인형 머플러 코트",
+      "EUru": "пальто с теплым кашне"
+    }
+  },
+  {
+    "id": 1165,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "No. 2 shirt",
+      "EUen": "No. 2 shirt",
+      "EUde": "Nr.-2-Shirt",
+      "EUes": "camiseta n.º 2",
+      "USes": "camiseta n.º 2",
+      "EUfr": "t-shirt 2",
+      "USfr": "t-shirt 2",
+      "EUit": "maglia nº 2",
+      "EUnl": "nummer 2-T-shirt",
+      "CNzh": "2号服",
+      "TWzh": "2號衣服",
+      "JPja": "No.2のふく",
+      "KRko": "No.2 옷",
+      "EUru": "футболка «Второй»"
+    }
+  },
+  {
+    "id": 1166,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "No. 3 shirt",
+      "EUen": "No. 3 shirt",
+      "EUde": "Nr.-3-Shirt",
+      "EUes": "camiseta n.º 3",
+      "USes": "camiseta n.º 3",
+      "EUfr": "t-shirt 3",
+      "USfr": "t-shirt 3",
+      "EUit": "maglia nº 3",
+      "EUnl": "nummer 3-T-shirt",
+      "CNzh": "3号服",
+      "TWzh": "3號衣服",
+      "JPja": "No.3のふく",
+      "KRko": "No.3 옷",
+      "EUru": "футболка «Третий»"
+    }
+  },
+  {
+    "id": 1167,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "No. 4 shirt",
+      "EUen": "No. 4 shirt",
+      "EUde": "Nr.-4-Shirt",
+      "EUes": "camiseta n.º 4",
+      "USes": "camiseta n.º 4",
+      "EUfr": "t-shirt 4",
+      "USfr": "t-shirt 4",
+      "EUit": "maglia nº 4",
+      "EUnl": "nummer 4-T-shirt",
+      "CNzh": "4号服",
+      "TWzh": "4號衣服",
+      "JPja": "No.4のふく",
+      "KRko": "No.4 옷",
+      "EUru": "футболка «Четвертый»"
+    }
+  },
+  {
+    "id": 1168,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "konnichiwa tee",
+      "EUen": "konnichiwa tee",
+      "EUde": "Konnichiwa-Shirt",
+      "EUes": "camiseta «konnichiwa»",
+      "USes": "camiseta \"konnichiwa\"",
+      "EUfr": "t-shirt konnichiwa",
+      "USfr": "t-shirt konnichiwa",
+      "EUit": "maglietta konnichiwa",
+      "EUnl": "konnichiwa-T-shirt",
+      "CNzh": "空尼奇瓦T恤",
+      "TWzh": "konnichiwa T恤",
+      "JPja": "こんにちはＴシャツ",
+      "KRko": "곤니치와 티셔츠",
+      "EUru": "футболка Konnichiwa"
+    }
+  },
+  {
+    "id": 1169,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bonjour tee",
+      "EUen": "bonjour tee",
+      "EUde": "Bonjour-Shirt",
+      "EUes": "camiseta «bonjour»",
+      "USes": "camiseta \"bonjour\"",
+      "EUfr": "t-shirt bonjour",
+      "USfr": "t-shirt bonjour",
+      "EUit": "maglietta bonjour",
+      "EUnl": "bonjour-T-shirt",
+      "CNzh": "甭主T恤",
+      "TWzh": "bonjour T恤",
+      "JPja": "ボンジュールＴシャツ",
+      "KRko": "봉주르 티셔츠",
+      "EUru": "футболка Bonjour"
+    }
+  },
+  {
+    "id": 1170,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hello tee",
+      "EUen": "hello tee",
+      "EUde": "Hello-Shirt",
+      "EUes": "camiseta «hello»",
+      "USes": "camiseta \"hello\"",
+      "EUfr": "t-shirt hello",
+      "USfr": "t-shirt hello",
+      "EUit": "maglietta hello",
+      "EUnl": "hello-T-shirt",
+      "CNzh": "哈罗T恤",
+      "TWzh": "hello T恤",
+      "JPja": "ハローＴシャツ",
+      "KRko": "헬로 티셔츠",
+      "EUru": "футболка Hello"
+    }
+  },
+  {
+    "id": 1171,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "annyeong tee",
+      "EUen": "annyeong tee",
+      "EUde": "Annyeong-Shirt",
+      "EUes": "camiseta «annyeong»",
+      "USes": "camiseta \"annyeong\"",
+      "EUfr": "t-shirt annyeong",
+      "USfr": "t-shirt annyeong",
+      "EUit": "maglietta annyeong",
+      "EUnl": "annyeong-T-shirt",
+      "CNzh": "阿尼哟T恤",
+      "TWzh": "annyeong T恤",
+      "JPja": "アンニョンＴシャツ",
+      "KRko": "안녕 티셔츠",
+      "EUru": "футболка Annyeong"
+    }
+  },
+  {
+    "id": 1172,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ni hao tee",
+      "EUen": "ni hao tee",
+      "EUde": "Ni-hao-Shirt",
+      "EUes": "camiseta «ni hao»",
+      "USes": "camiseta \"ni hao\"",
+      "EUfr": "t-shirt ni hao",
+      "USfr": "t-shirt ni hao",
+      "EUit": "maglietta ni hao",
+      "EUnl": "nihao-T-shirt",
+      "CNzh": "你好T恤",
+      "TWzh": "你好T恤",
+      "JPja": "ニーハオＴシャツ",
+      "KRko": "니하오 티셔츠",
+      "EUru": "футболка Ni hao"
+    }
+  },
+  {
+    "id": 1173,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hallo tee",
+      "EUen": "hallo tee",
+      "EUde": "Hallo-Shirt",
+      "EUes": "camiseta «hallo»",
+      "USes": "camiseta \"hallo\"",
+      "EUfr": "t-shirt hallo",
+      "USfr": "t-shirt hallo",
+      "EUit": "maglietta hallo",
+      "EUnl": "hallo-T-shirt",
+      "CNzh": "哈啊罗T恤",
+      "TWzh": "hallo T恤",
+      "JPja": "ハーローＴシャツ",
+      "KRko": "할로 티셔츠",
+      "EUru": "футболка Hallo"
+    }
+  },
+  {
+    "id": 1174,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ciao tee",
+      "EUen": "ciao tee",
+      "EUde": "Ciao-Shirt",
+      "EUes": "camiseta «ciao»",
+      "USes": "camiseta \"ciao\"",
+      "EUfr": "t-shirt ciao",
+      "USfr": "t-shirt ciao",
+      "EUit": "maglietta ciao",
+      "EUnl": "ciao-T-shirt",
+      "CNzh": "恰奥T恤",
+      "TWzh": "ciao T恤",
+      "JPja": "チャオＴシャツ",
+      "KRko": "챠오 티셔츠",
+      "EUru": "футболка Ciao"
+    }
+  },
+  {
+    "id": 1175,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hola tee",
+      "EUen": "hola tee",
+      "EUde": "Hola-Shirt",
+      "EUes": "camiseta «hola»",
+      "USes": "camiseta \"hola\"",
+      "EUfr": "t-shirt hola",
+      "USfr": "t-shirt hola",
+      "EUit": "maglietta hola",
+      "EUnl": "hola-T-shirt",
+      "CNzh": "噢啦T恤",
+      "TWzh": "hola T恤",
+      "JPja": "オラＴシャツ",
+      "KRko": "올라 티셔츠",
+      "EUru": "футболка Hola"
+    }
+  },
+  {
+    "id": 1176,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "privét tee",
+      "EUen": "privét tee",
+      "EUde": "Priwet-Shirt",
+      "EUes": "camiseta «privét»",
+      "USes": "camiseta \"privét\"",
+      "EUfr": "t-shirt privét",
+      "USfr": "t-shirt privét",
+      "EUit": "maglietta privét",
+      "EUnl": "privjet-T-shirt",
+      "CNzh": "普利贝T恤",
+      "TWzh": "privét T恤",
+      "JPja": "プリヴェＴシャツ",
+      "KRko": "쁘리비엣 티셔츠",
+      "EUru": "футболка «Привет»"
+    }
+  },
+  {
+    "id": 1177,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hi tee",
+      "EUen": "hi tee",
+      "EUde": "Hi-Shirt",
+      "EUes": "camiseta «hi»",
+      "USes": "camiseta \"hi\"",
+      "EUfr": "t-shirt hi",
+      "USfr": "t-shirt hai",
+      "EUit": "maglietta hi",
+      "EUnl": "hai-T-shirt",
+      "CNzh": "嗨T恤",
+      "TWzh": "嗨T恤",
+      "JPja": "ハイＴシャツ",
+      "KRko": "하이 티셔츠",
+      "EUru": "футболка Hi"
+    }
+  },
+  {
+    "id": 1178,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "hoi tee",
+      "EUen": "hoi tee",
+      "EUde": "Hoi-Shirt",
+      "EUes": "camiseta «hoi»",
+      "USes": "camiseta \"hoi\"",
+      "EUfr": "t-shirt hoi",
+      "USfr": "t-shirt hoi",
+      "EUit": "maglietta hoi",
+      "EUnl": "hoi-T-shirt",
+      "CNzh": "嚯伊T恤",
+      "TWzh": "hoi T恤",
+      "JPja": "ホーイＴシャツ",
+      "KRko": "호이 티셔츠",
+      "EUru": "футболка Hoi"
+    }
+  },
+  {
+    "id": 1179,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "DAL tee",
+      "EUen": "DAL tee",
+      "EUde": "DAL-Shirt",
+      "EUes": "camiseta de DAL",
+      "USes": "camiseta de DAL",
+      "EUfr": "t-shirt Dodo Airlines",
+      "USfr": "t-shirt Dodo Airlines",
+      "EUit": "maglietta DAL",
+      "EUnl": "DAL-T-shirt",
+      "CNzh": "DAL T恤",
+      "TWzh": "DAL T恤",
+      "JPja": "ＤＡＬのＴシャツ",
+      "KRko": "DAL 티셔츠",
+      "EUru": "футболка DAL"
+    }
+  },
+  {
+    "id": 1180,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "DAL apron",
+      "EUen": "DAL apron",
+      "EUde": "DAL-Schürze",
+      "EUes": "delantal de DAL",
+      "USes": "delantal de DAL",
+      "EUfr": "tablier Dodo Airlines",
+      "USfr": "tablier Dodo Airlines",
+      "EUit": "grembiule DAL",
+      "EUnl": "DAL-schort",
+      "CNzh": "DAL围裙",
+      "TWzh": "DAL圍裙",
+      "JPja": "ＤＡＬエプロン",
+      "KRko": "DAL 앞치마",
+      "EUru": "фартук DAL"
+    }
+  },
+  {
+    "id": 1181,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "DAL pilot jacket",
+      "EUen": "DAL pilot jacket",
+      "EUde": "DAL-Pilotenjacke",
+      "EUes": "chaqueta de piloto de DAL",
+      "USes": "chamarra comandante DAL",
+      "EUfr": "bomber Dodo Airlines",
+      "USfr": "bomber Dodo Airlines",
+      "EUit": "bomber da pilota DAL",
+      "EUnl": "DAL-pilotenjasje",
+      "CNzh": "DAL MA-1",
+      "TWzh": "DAL MA-1飛行外套",
+      "JPja": "ＤＡＬのＭＡ‐１",
+      "KRko": "DAL MA-1",
+      "EUru": "бомбер DAL"
+    }
+  },
+  {
+    "id": 1193,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "OK Motors jacket",
+      "EUen": "OK Motors jacket",
+      "EUde": "OK-Motors-Shirt",
+      "EUes": "camisa de OK Motors",
+      "USes": "camisa de OK Motors",
+      "EUfr": "uniforme OK Motors",
+      "USfr": "chemisette OK Motors",
+      "EUit": "giacchetta OK Motors",
+      "EUnl": "OK Motors-overhemd",
+      "CNzh": "OK车业夹克",
+      "TWzh": "OK車業外套",
+      "JPja": "OKモータースジャケット",
+      "KRko": "OK 모터즈 재킷",
+      "EUru": "рубашка OK Motors"
+    }
+  },
+  {
+    "id": 1194,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "camper tee",
+      "EUen": "camper tee",
+      "EUde": "Camper-Shirt",
+      "EUes": "camiseta de campista",
+      "USes": "camiseta de campista",
+      "EUfr": "t-shirt camping-car",
+      "USfr": "t-shirt camping-car",
+      "EUit": "maglietta da camperista",
+      "EUnl": "kampeer-T-shirt",
+      "CNzh": "露营车T恤",
+      "TWzh": "露營者T恤",
+      "JPja": "キャンパーのTシャツ",
+      "KRko": "캠퍼 티셔츠",
+      "EUru": "футболка туриста"
+    }
+  },
+  {
+    "id": 1220,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "handmade cape",
+      "EUen": "handmade cape",
+      "EUde": "Bastelumhang",
+      "EUes": "capa hecha a mano",
+      "USes": "capa hecha a mano",
+      "EUfr": "cape bricolée",
+      "USfr": "cape bricolée",
+      "EUit": "mantello fatto a mano",
+      "EUnl": "knutselcape",
+      "CNzh": "手工斗篷",
+      "TWzh": "手作斗篷",
+      "JPja": "てづくりのマント",
+      "KRko": "수제 망토",
+      "EUru": "самодельная накидка"
+    }
+  },
+  {
+    "id": 1246,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "winter-solstice sweater",
+      "EUen": "winter-solstice sweater",
+      "EUde": "Wintersonnenwendepulli",
+      "EUes": "jersey solsticio de invierno",
+      "USes": "suéter solsticio de invierno",
+      "EUfr": "pull solstice d'hiver",
+      "USfr": "pull solstice d'hiver",
+      "EUit": "maglione solstizio d'inverno",
+      "EUnl": "midwintertrui",
+      "CNzh": "冬至毛衣",
+      "TWzh": "冬至毛衣",
+      "JPja": "とうじのセーター",
+      "KRko": "동지 스웨터",
+      "EUru": "свитер к Празднику зимы"
+    }
+  },
+  {
+    "id": 1256,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "coral Nook Inc. aloha shirt",
+      "EUen": "coral Nook Inc. aloha shirt",
+      "EUde": "Nook-Inc.-Korallenhemd",
+      "EUes": "cam. aloha Nook Inc. coral",
+      "USes": "cam. aloha Nook Inc. coral",
+      "EUfr": "chemis. Hawaï N. Inc. corail",
+      "USfr": "chemis. Hawaï N. Inc. corail",
+      "EUit": "cam. aloha Nook Inc. rosa",
+      "EUnl": "roze Nook Inc.-shirt",
+      "CNzh": "Nook Inc.夏威夷衬衫·珊瑚红",
+      "TWzh": "Nook Inc.珊瑚紅夏威夷襯衫",
+      "JPja": "たぬきかいはつアロハ・コーラル",
+      "KRko": "Nook Inc. 알로하 코럴",
+      "EUru": "коралл. гавайка Nook Inc."
+    }
+  },
+  {
+    "id": 1257,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "green Nook Inc. aloha shirt",
+      "EUen": "green Nook Inc. aloha shirt",
+      "EUde": "Nook-Inc.-Türkishemd",
+      "EUes": "cam. aloha Nook Inc. verde",
+      "USes": "cam. aloha Nook Inc. verde",
+      "EUfr": "chemis. Hawaï N. Inc. verte",
+      "USfr": "chemis. Hawaï N. Inc. verte",
+      "EUit": "cam. aloha Nook Inc. verde",
+      "EUnl": "groen Nook Inc.-shirt",
+      "CNzh": "Nook Inc.夏威夷衬衫·绿色",
+      "TWzh": "Nook Inc.綠色夏威夷襯衫",
+      "JPja": "たぬきかいはつアロハ・グリーン",
+      "KRko": "Nook Inc. 알로하 그린",
+      "EUru": "зеленая гавайка Nook Inc."
+    }
+  }
+]

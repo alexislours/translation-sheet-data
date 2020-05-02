@@ -1,0 +1,2442 @@
+[
+  {
+    "id": "DummyCardboard_04645",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "delivery",
+      "EUen": "delivery",
+      "EUde": "Lieferung",
+      "EUes": "paquete",
+      "USes": "paquete",
+      "EUfr": "livraison",
+      "USfr": "livraison",
+      "EUit": "consegna",
+      "EUnl": "pakketje",
+      "CNzh": "包裹",
+      "TWzh": "包裹",
+      "JPja": "おとどけもの",
+      "KRko": "소포",
+      "EUru": "посылка"
+    }
+  },
+  {
+    "id": "DummyDIYRecipe_09046",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Vaulting Pole Recipe",
+      "EUen": "Vaulting Pole Recipe",
+      "EUde": "Anleitung (Sprungstab)",
+      "EUes": "proyecto pértiga",
+      "USes": "proyecto garrocha",
+      "EUfr": "plan de perche",
+      "USfr": "plan de perche",
+      "EUit": "schema asta da salto",
+      "EUnl": "polsstokplan",
+      "CNzh": "撑杆跳竿子的DIY手册",
+      "TWzh": "撐竿跳竿子的DIY方程式",
+      "JPja": "たかとびぼうのDIYレシピ",
+      "KRko": "높이뛰기 장대 DIY 레시피",
+      "EUru": "инструкция: шест"
+    }
+  },
+  {
+    "id": "DummyDIYRecipe_09047",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flimsy Shovel Recipe",
+      "EUen": "Flimsy Shovel Recipe",
+      "EUde": "Anleitung (Wackelschaufel)",
+      "EUes": "proyecto pala endeble",
+      "USes": "proyecto pala frágil",
+      "EUfr": "plan de pelle rudimentaire",
+      "USfr": "plan de pelle rudimentaire",
+      "EUit": "schema pala fragile",
+      "EUnl": "breekbare-schep-plan",
+      "CNzh": "简陋铲子的DIY手册",
+      "TWzh": "簡陋鏟子的DIY方程式",
+      "JPja": "ショボいスコップのDIYレシピ",
+      "KRko": "엉성한 삽 DIY 레시피",
+      "EUru": "инструкция: непр. лопата"
+    }
+  },
+  {
+    "id": "DummyDIYRecipe_09048",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flimsy Watering Can Recipe",
+      "EUen": "Flimsy Watering Can Recipe",
+      "EUde": "Anleitung (Wackelgießk.)",
+      "EUes": "proyecto regadera endeble",
+      "USes": "proyecto regadera frágil",
+      "EUfr": "plan d'arrosoir rudimentaire",
+      "USfr": "plan d'arrosoir rudimentaire",
+      "EUit": "schema annaffiatoio fragile",
+      "EUnl": "breekbare-gieter-plan",
+      "CNzh": "简陋浇花壶的DIY手册",
+      "TWzh": "簡陋澆花壺的DIY方程式",
+      "JPja": "ショボいジョウロのDIYレシピ",
+      "KRko": "엉성한 물뿌리개 DIY 레시피",
+      "EUru": "инструкция: непр. лейка"
+    }
+  },
+  {
+    "id": "DummyDIYRecipe_10309",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Slingshot Recipe",
+      "EUen": "Slingshot Recipe",
+      "EUde": "Anleitung (Schleuder)",
+      "EUes": "proyecto tirachinas",
+      "USes": "proyecto resortera",
+      "EUfr": "plan de lance-pierre",
+      "USfr": "plan de lance-pierre",
+      "EUit": "schema fionda",
+      "EUnl": "katapultplan",
+      "CNzh": "弹弓的DIY手册",
+      "TWzh": "彈弓的DIY方程式",
+      "JPja": "パチンコのDIYレシピ",
+      "KRko": "새총 DIY 레시피",
+      "EUru": "инструкция: рогатка"
+    }
+  },
+  {
+    "id": "DummyDIYRecipe_12294",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Flimsy Axe Recipe",
+      "EUen": "Flimsy Axe Recipe",
+      "EUde": "Anleitung (Wackelaxt)",
+      "EUes": "proyecto hacha endeble",
+      "USes": "proyecto hacha frágil",
+      "EUfr": "plan de hache rudimentaire",
+      "USfr": "plan de hache rudimentaire",
+      "EUit": "schema ascia fragile",
+      "EUnl": "breekbare-bijl-plan",
+      "CNzh": "简陋斧头的DIY手册",
+      "TWzh": "簡陋斧頭的DIY方程式",
+      "JPja": "ショボいオノのDIYレシピ",
+      "KRko": "엉성한 도끼 DIY 레시피",
+      "EUru": "инструкция: непроч. топор"
+    }
+  },
+  {
+    "id": "DummyDIYRecipe_12327",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ladder Recipe",
+      "EUen": "Ladder Recipe",
+      "EUde": "Anleitung (Leiter)",
+      "EUes": "proyecto escalera de mano",
+      "USes": "proyecto escalera de mano",
+      "EUfr": "plan d'échelle",
+      "USfr": "plan d'échelle",
+      "EUit": "schema scala a pioli",
+      "EUnl": "ladderplan",
+      "CNzh": "梯子的DIY手册",
+      "TWzh": "梯子的DIY方程式",
+      "JPja": "はしごのDIYレシピ",
+      "KRko": "사다리 DIY 레시피",
+      "EUru": "инструкция: лестница"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_09049",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Top 8 Pop Hairstyles",
+      "EUen": "Top 8 Pop Hairstyles",
+      "EUde": "Die 8 poppigsten Frisuren",
+      "EUes": "Guía de peinados pop",
+      "USes": "Guía de peinados pop",
+      "EUfr": "Le top des coiffures pop",
+      "USfr": "Le top des coiffures pop",
+      "EUit": "I migliori 8 tagli pop",
+      "EUnl": "Top 8 van populaire kapsels",
+      "CNzh": "流行！最佳发型8款",
+      "TWzh": "繽紛！頭髮造型BEST8",
+      "JPja": "ポップ！ヘアアレンジBEST8",
+      "KRko": "발랄하게! 헤어스타일 BEST 8",
+      "EUru": "8 лучших поп-причесок"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_09050",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Top 8 Cool Hairstyles",
+      "EUen": "Top 8 Cool Hairstyles",
+      "EUde": "Die 8 coolsten Frisuren",
+      "EUes": "Guía de peinados modernos",
+      "USes": "Guía de peinados modernos",
+      "EUfr": "Le top des coiffures cool",
+      "USfr": "Le top des coiffures cool",
+      "EUit": "I migliori 8 tagli moderni",
+      "EUnl": "Top 8 van coole kapsels",
+      "CNzh": "帅气！最佳发型8款",
+      "TWzh": "酷！頭髮造型BEST8",
+      "JPja": "クール！ヘアアレンジBEST8",
+      "KRko": "쿨하게! 헤어스타일 BEST 8",
+      "EUru": "8 лучших модных причесок"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_09051",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Top 8 Stylish Hair Colors",
+      "EUen": "Top 8 Stylish Hair Colors",
+      "EUde": "Die 8 schicksten Haarfarben",
+      "EUes": "Guía de tintes para el pelo",
+      "USes": "Guía de tintes para el pelo",
+      "EUfr": "Les plus belles colorations",
+      "USfr": "Les plus belles colorations",
+      "EUit": "Le 8 tinte per capelli top",
+      "EUnl": "Top 8 van haarkleuren",
+      "CNzh": "时尚！最佳发色8款",
+      "TWzh": "時尚！頭髮顏色BEST8",
+      "JPja": "おしゃれ！ヘアカラーBEST8",
+      "KRko": "화려하게! 헤어 컬러 BEST 8",
+      "EUru": "8 лучших цветов для волос"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_09052",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pocket Organization Guide",
+      "EUen": "Pocket Organization Guide",
+      "EUde": "Taschen richtig nutzen",
+      "EUes": "Organiza tus bolsillos",
+      "USes": "Organiza tus bolsillos",
+      "EUfr": "Savoir s'organiser",
+      "USfr": "Savoir s'organiser",
+      "EUit": "Guida all'uso delle tasche",
+      "EUnl": "Orde op zakken",
+      "CNzh": "口袋整理技巧",
+      "TWzh": "口袋整理技巧",
+      "JPja": "ポケットせいとんテクニック",
+      "KRko": "주머니 정리 테크닉",
+      "EUru": "Организация карманов"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_09221",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Pretty Good Tools Recipes",
+      "EUen": "Pretty Good Tools Recipes",
+      "EUde": "Alltagswerkzeuge A–Z",
+      "EUes": "Herramientas apañadas",
+      "USes": "Herramientas fantásticas",
+      "EUfr": "Fabriquer de bons outils",
+      "USfr": "Fabriquer de bons outils",
+      "EUit": "Schemi per strumenti utili",
+      "EUnl": "Sterk gereedschap maken",
+      "CNzh": "平常就能用！道具手册",
+      "TWzh": "平常就能用！道具方程式",
+      "JPja": "フツーにつかえる！どうぐレシピ",
+      "KRko": "언제나 쓸 수 있는 도구 레시피",
+      "EUru": "Неплохие инструменты"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_09616",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Tool Ring: It's Essential!",
+      "EUen": "Tool Ring: It's Essential!",
+      "EUde": "Werkzeugring: Ein Muss!",
+      "EUes": "Organiza tus herramientas",
+      "USes": "Organiza tus herramientas",
+      "EUfr": "Guide du panel d'outils",
+      "USfr": "Guide de la roue d'outils",
+      "EUit": "La ruota degli strumenti",
+      "EUnl": "De gereedschapsring rond",
+      "CNzh": "道具清清爽爽！收藏环",
+      "TWzh": "道具不再亂糟糟！收藏環",
+      "JPja": "どうぐスッキリ！おきにリング",
+      "KRko": "도구도 쉽게! 즐겨찾기",
+      "EUru": "Меню инструментов"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_11140",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Ultimate Pocket Stuffing",
+      "EUen": "Ultimate Pocket Stuffing",
+      "EUde": "Taschentricks für Profis",
+      "EUes": "Perfecciona tus bolsillos",
+      "USes": "Optimiza tus bolsillos",
+      "EUfr": "Guide du fourre-poches",
+      "USfr": "Guide du fourre-poches",
+      "EUit": "Uso avanzato delle tasche",
+      "EUnl": "Zakkenvullen voor experts",
+      "CNzh": "口袋满装诀窍",
+      "TWzh": "塞滿口袋的究極訣竅",
+      "JPja": "ポケットつめこみウルトラテク",
+      "KRko": "주머니 정리, 고수의 기술",
+      "EUru": "Как набивать карманы"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_12185",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Custom Design Pro Editor",
+      "EUen": "Custom Design Pro Editor",
+      "EUde": "Designs: Profi-Edition",
+      "EUes": "Mis diseños profesionales",
+      "USes": "Mis diseños profesionales",
+      "EUfr": "Motifs persos pour les pros",
+      "USfr": "Motifs perso pour les pros",
+      "EUit": "I miei modelli: versione pro",
+      "EUnl": "Speciaal ontwerp",
+      "CNzh": "我的设计专业版",
+      "TWzh": "我的設計專業版",
+      "JPja": "マイデザインPROエディタ",
+      "KRko": "마이 디자인 PRO 에디터",
+      "EUru": "Режим профи-рисунков"
+    }
+  },
+  {
+    "id": "DummyPresentbox_04480",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyRecipe_02695",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ダミーDIYレシピ",
+      "EUen": "ダミーDIYレシピ",
+      "EUde": "ダミーDIYレシピ",
+      "EUes": "ダミーDIYレシピ",
+      "USes": "ダミーDIYレシピ",
+      "EUfr": "ダミーDIYレシピ",
+      "USfr": "ダミーDIYレシピ",
+      "EUit": "ダミーDIYレシピ",
+      "EUnl": "ダミーDIYレシピ",
+      "CNzh": "ダミーDIYレシピ",
+      "TWzh": "ダミーDIYレシピ",
+      "JPja": "ダミーDIYレシピ",
+      "KRko": "ダミーDIYレシピ",
+      "EUru": "ダミーDIYレシピ"
+    }
+  },
+  {
+    "id": "DummyRecipe_05603",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "DIY for Beginners",
+      "EUen": "DIY for Beginners",
+      "EUde": "Mein erstes Bastelbuch",
+      "EUes": "Bricolaje para principiantes",
+      "USes": "Primeros proyectos",
+      "EUfr": "Le b.a.-ba du bricolage",
+      "USfr": "Le b.a.-ba du bricolage",
+      "EUit": "Fai da te per principianti",
+      "EUnl": "Doe-het-zelven kun je leren",
+      "CNzh": "新手DIY手册",
+      "TWzh": "第一次的DIY方程式",
+      "JPja": "はじめてのDIYレシピ",
+      "KRko": "첫 DIY 레시피",
+      "EUru": "Начала «Сделай сам»"
+    }
+  },
+  {
+    "id": "DummyRecipe_05604",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Test Your DIY Skills",
+      "EUen": "Test Your DIY Skills",
+      "EUde": "Ideen für Bastler",
+      "EUes": "Bricolaje para expertos",
+      "USes": "Proyectos para expertos",
+      "EUfr": "Bricolage tous azimuts",
+      "USfr": "Bricolage tous azimuts",
+      "EUit": "Fai da te per appassionati",
+      "EUnl": "De doe-het-zelfproef",
+      "CNzh": "挑战！DIY手册",
+      "TWzh": "挑戰！DIY方程式",
+      "JPja": "チャレンジ！DIYレシピ",
+      "KRko": "도전! DIY 레시피",
+      "EUru": "Пробы пера «Сделай сам»"
+    }
+  },
+  {
+    "id": "DummyRecipe_05605",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Wildest Dreams DIY",
+      "EUen": "Wildest Dreams DIY",
+      "EUde": "Bist du der Bastelboss?",
+      "EUes": "Bricolaje para epatar",
+      "USes": "Proyectos para deslumbrar",
+      "EUfr": "Brico foldingo",
+      "USfr": "Brico dingo",
+      "EUit": "Fai da te per esperti",
+      "EUnl": "De ultieme doe-het-zelver",
+      "CNzh": "竟然能这样？！DIY",
+      "TWzh": "這種東西也能自己做？！DIY",
+      "JPja": "こんなモノまで？！DIY",
+      "KRko": "무엇이든 뚝딱?! DIY 레시피",
+      "EUru": "«Сделай сам» без границ"
+    }
+  },
+  {
+    "id": "DummyWrapping_07699",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07700",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07701",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07702",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07703",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07704",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07705",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07706",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07707",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07708",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07709",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07710",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07711",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07712",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07713",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_07714",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "present",
+      "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "FishBait_04549",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fish bait",
+      "EUen": "fish bait",
+      "EUde": "Köder",
+      "EUes": "cebo",
+      "USes": "cebo",
+      "EUfr": "appât",
+      "USfr": "appât",
+      "EUit": "esca",
+      "EUnl": "aas",
+      "CNzh": "鱼饲料",
+      "TWzh": "魚飼料",
+      "JPja": "サカナのまきエサ",
+      "KRko": "물고기 떡밥",
+      "EUru": "наживка"
+    }
+  },
+  {
+    "id": "FishBait_04549_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fish bait",
+      "EUen": "fish bait",
+      "EUde": "Köder",
+      "EUes": "cebos",
+      "USes": "cebos",
+      "EUfr": "appâts",
+      "USfr": "appâts",
+      "EUit": "esche",
+      "EUnl": "aas",
+      "CNzh": "鱼饲料",
+      "TWzh": "魚飼料",
+      "JPja": "サカナのまきエサ",
+      "KRko": "물고기 떡밥",
+      "EUru": "наживки"
+    }
+  },
+  {
+    "id": "Honeycomb_03263",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wasp nest",
+      "EUen": "wasp nest",
+      "EUde": "Wespennest",
+      "EUes": "avispero",
+      "USes": "avispero",
+      "EUfr": "nid de guêpes",
+      "USfr": "nid de guêpes",
+      "EUit": "vespaio",
+      "EUnl": "wespennest",
+      "CNzh": "蜂巢",
+      "TWzh": "蜂巢",
+      "JPja": "ハチのす",
+      "KRko": "벌집",
+      "EUru": "осиное гнездо"
+    }
+  },
+  {
+    "id": "Honeycomb_03263_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wasp nests",
+      "EUen": "wasp nests",
+      "EUde": "Wespennester",
+      "EUes": "avisperos",
+      "USes": "avisperos",
+      "EUfr": "nids de guêpes",
+      "USfr": "nids de guêpes",
+      "EUit": "vespai",
+      "EUnl": "wespennesten",
+      "CNzh": "蜂巢",
+      "TWzh": "蜂巢",
+      "JPja": "ハチのす",
+      "KRko": "벌집",
+      "EUru": "осиные гнезда"
+    }
+  },
+  {
+    "id": "HousingKit_02750",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tent",
+      "EUen": "tent",
+      "EUde": "Zelt",
+      "EUes": "tienda de campaña",
+      "USes": "tienda de campaña",
+      "EUfr": "tente",
+      "USfr": "tente",
+      "EUit": "tenda",
+      "EUnl": "tent",
+      "CNzh": "帐篷",
+      "TWzh": "帳篷",
+      "JPja": "テント",
+      "KRko": "텐트",
+      "EUru": "палатка"
+    }
+  },
+  {
+    "id": "HousingKit_02755",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Blathers's tent marker",
+      "EUen": "Blathers's tent marker",
+      "EUde": "Markierung für Eugens Zelt",
+      "EUes": "carpa de Sócrates",
+      "USes": "carpa de Sócrates",
+      "EUfr": "site réservé par Thibou",
+      "USfr": "site réservé par Thibou",
+      "EUit": "segnatenda di Blatero",
+      "EUnl": "Blathers' tent-afbakening",
+      "CNzh": "傅达帐篷用地",
+      "TWzh": "傅達帳篷預定地",
+      "JPja": "フータさんのテントよていち",
+      "KRko": "부엉씨의 텐트 위치",
+      "EUru": "знак палатки Блезерса"
+    }
+  },
+  {
+    "id": "HousingKit_02756",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shop construction kit",
+      "EUen": "shop construction kit",
+      "EUde": "Laden-Baukit",
+      "EUes": "kit de tienda",
+      "USes": "kit de tienda",
+      "EUfr": "kit chantier boutique",
+      "USfr": "kit chantier boutique",
+      "EUit": "kit negozio",
+      "EUnl": "winkelbouwpakket",
+      "CNzh": "商店的施工告示牌",
+      "TWzh": "商店施工告示牌",
+      "JPja": "おみせのこうじかんばん",
+      "KRko": "상점 공사 키트",
+      "EUru": "набор строителя магазина"
+    }
+  },
+  {
+    "id": "HousingKit_02757",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "s tent",
+      "EUen": "s tent",
+      "EUde": "Zelt von",
+      "EUes": "tienda de",
+      "USes": "tienda",
+      "EUfr": "tente de",
+      "USfr": "tente de",
+      "EUit": "tenda di",
+      "EUnl": "tent van",
+      "CNzh": "的帐篷",
+      "TWzh": "的帳篷",
+      "JPja": "\u000en\u001e\\0のテント",
+      "KRko": "\u000en\u001e\\0의 텐트",
+      "EUru": "палатка"
+    }
+  },
+  {
+    "id": "HousingKit_03349",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "housing kit",
+      "EUen": "housing kit",
+      "EUde": "Haus-Baukit",
+      "EUes": "kit de asentamiento",
+      "USes": "kit de residencia",
+      "EUfr": "kit habitation",
+      "USfr": "kit habitation",
+      "EUit": "kit abitativo",
+      "EUnl": "huisbouwpakket",
+      "CNzh": "盖房子工具组",
+      "TWzh": "蓋房子工具組",
+      "JPja": "ハウジングキット",
+      "KRko": "하우징 키트",
+      "EUru": "набор поселенца"
+    }
+  },
+  {
+    "id": "HousingKit_04311",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "incline marker kit",
+      "EUen": "incline marker kit",
+      "EUde": "Aufgang-Planungskit",
+      "EUes": "kit de rampa",
+      "USes": "kit de rampa",
+      "EUfr": "kit emplacement rampe",
+      "USfr": "kit emplacement rampe",
+      "EUit": "kit progettazione rampa",
+      "EUnl": "hellingafbakeningspakket",
+      "CNzh": "坡道用地工具组",
+      "TWzh": "斜坡預定地工具組",
+      "JPja": "さかよていちキット",
+      "KRko": "비탈길 건축예정지 키트",
+      "EUru": "набор разметки подъема"
+    }
+  },
+  {
+    "id": "HousingKit_04411",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tailors construction kit",
+      "EUen": "tailors construction kit",
+      "EUde": "Schneiderei-Baukit",
+      "EUes": "kit de sastrería",
+      "USes": "kit de atelier",
+      "EUfr": "kit chantier atelier couture",
+      "USfr": "kit chantier atelier couture",
+      "EUit": "kit sartoria",
+      "EUnl": "kleermakerijbouwpakket",
+      "CNzh": "裁缝屋的施工告示牌",
+      "TWzh": "裁縫屋施工告示牌",
+      "JPja": "したてやのこうじかんばん",
+      "KRko": "옷가게 공사 키트",
+      "EUru": "набор строителя ателье"
+    }
+  },
+  {
+    "id": "HousingKit_05166",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "campsite construction kit",
+      "EUen": "campsite construction kit",
+      "EUde": "Campingplatz-Baukit",
+      "EUes": "kit de zona de acampada",
+      "USes": "kit de zona de campamento",
+      "EUfr": "kit camping",
+      "USfr": "kit camping",
+      "EUit": "kit area per campeggio",
+      "EUnl": "kampeerplekpakket",
+      "CNzh": "露营地施工工具组",
+      "TWzh": "露營地施工工具組",
+      "JPja": "キャンプサイトこうじキット",
+      "KRko": "캠핑장 건축예정지 키트",
+      "EUru": "набор кемпинг-строителя"
+    }
+  },
+  {
+    "id": "HousingKit_05357",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "s kit",
+      "EUen": "s kit",
+      "EUde": "Kit von",
+      "EUes": "kit de",
+      "USes": "kit de",
+      "EUfr": "kit de",
+      "USfr": "kit de",
+      "EUit": "kit di",
+      "EUnl": "pakket",
+      "CNzh": "搬迁工具组",
+      "TWzh": "搬遷工具組",
+      "JPja": "\u000en\u001e\\0・いせつキット",
+      "KRko": "\u000en\u001e\\0 이전 키트",
+      "EUru": "набор"
+    }
+  },
+  {
+    "id": "HousingKit_05358",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "moving kit",
+      "EUen": "moving kit",
+      "EUde": "Umzugskit",
+      "EUes": "kit de traslado",
+      "USes": "kit de traslado",
+      "EUfr": "kit déménagement",
+      "USfr": "kit déménagement",
+      "EUit": "kit trasloco",
+      "EUnl": "verhuispakket",
+      "CNzh": "搬迁工具组",
+      "TWzh": "搬遷工具組",
+      "JPja": "いせつキット",
+      "KRko": "이전 키트",
+      "EUru": "набор переноса дома"
+    }
+  },
+  {
+    "id": "HousingKit_05359",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tailors moving kit",
+      "EUen": "tailors moving kit",
+      "EUde": "Schneiderei-Umzugskit",
+      "EUes": "kit de traslado de sastrería",
+      "USes": "kit de traslado de atelier",
+      "EUfr": "kit déménagement couture",
+      "USfr": "kit déménagement couture",
+      "EUit": "kit trasloco sartoria",
+      "EUnl": "kleermakerijverhuispakket",
+      "CNzh": "裁缝屋搬迁工具组",
+      "TWzh": "裁縫屋搬遷工具組",
+      "JPja": "したてや・いせつキット",
+      "KRko": "옷가게 이전 키트",
+      "EUru": "набор переноса ателье"
+    }
+  },
+  {
+    "id": "HousingKit_05360",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shop moving kit",
+      "EUen": "shop moving kit",
+      "EUde": "Laden-Umzugskit",
+      "EUes": "kit de traslado de tienda",
+      "USes": "kit de traslado de tienda",
+      "EUfr": "kit déménagement boutique",
+      "USfr": "kit déménagement boutique",
+      "EUit": "kit trasloco negozio",
+      "EUnl": "winkelverhuispakket",
+      "CNzh": "商店搬迁工具组",
+      "TWzh": "商店搬遷工具組",
+      "JPja": "おみせ・いせつキット",
+      "KRko": "가게 이전 키트",
+      "EUru": "набор переноса магазина"
+    }
+  },
+  {
+    "id": "HousingKit_05361",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "museum moving kit",
+      "EUen": "museum moving kit",
+      "EUde": "Museums-Umzugskit",
+      "EUes": "kit de traslado de museo",
+      "USes": "kit de traslado de museo",
+      "EUfr": "kit déménagement musée",
+      "USfr": "kit déménagement musée",
+      "EUit": "kit trasloco museo",
+      "EUnl": "museumverhuispakket",
+      "CNzh": "博物馆搬迁工具组",
+      "TWzh": "博物館搬遷工具組",
+      "JPja": "はくぶつかん・いせつキット",
+      "KRko": "박물관 이전 키트",
+      "EUru": "набор переноса музея"
+    }
+  },
+  {
+    "id": "HousingKit_06841",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "campsite moving kit",
+      "EUen": "campsite moving kit",
+      "EUde": "Campingplatz-Umzugskit",
+      "EUes": "kit de traslado de acampada",
+      "USes": "kit de traslado campamento",
+      "EUfr": "kit déplacement camping",
+      "USfr": "kit déplacement camping",
+      "EUit": "kit trasloco area campeggio",
+      "EUnl": "kampeerplekverhuispakket",
+      "CNzh": "露营地搬迁工具组",
+      "TWzh": "露營地搬遷工具組",
+      "JPja": "キャンプサイト・いせつキット",
+      "KRko": "캠핑장 이전 키트",
+      "EUru": "набор переноса кемпинга"
+    }
+  },
+  {
+    "id": "HousingKitBirdge_04310",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bridge marker kit",
+      "EUen": "bridge marker kit",
+      "EUde": "Brücken-Planungskit",
+      "EUes": "señal de puente en obras",
+      "USes": "señal de puente en obras",
+      "EUfr": "kit emplacement pont",
+      "USfr": "kit emplacement pont",
+      "EUit": "kit progettazione ponte",
+      "EUnl": "brugafbakeningspakket",
+      "CNzh": "桥梁用地工具组",
+      "TWzh": "橋樑預定地工具組",
+      "JPja": "はしよていちキット",
+      "KRko": "다리 건축예정지 키트",
+      "EUru": "набор подготовки моста"
+    }
+  },
+  {
+    "id": "HousingKitBirdge_07211",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bridge construction kit",
+      "EUen": "bridge construction kit",
+      "EUde": "Brücken-Baukit",
+      "EUes": "kit de puente",
+      "USes": "kit de puente",
+      "EUfr": "kit pont",
+      "USfr": "kit pont",
+      "EUit": "kit creazione ponte",
+      "EUnl": "brugbouwpakket",
+      "CNzh": "桥梁施工工具组",
+      "TWzh": "橋樑施工工具組",
+      "JPja": "はしのこうじキット",
+      "KRko": "다리 공사 키트",
+      "EUru": "набор строителя моста"
+    }
+  },
+  {
+    "id": "HousingKitRcoQuest_05827",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plot 1 housing kit",
+      "EUen": "plot 1 housing kit",
+      "EUde": "Haus-1-Baukit",
+      "EUes": "kit de asentamiento: solar 1",
+      "USes": "kit de residencia: terreno 1",
+      "EUfr": "kit habitation 1",
+      "USfr": "kit habitation 1",
+      "EUit": "kit abitativo: terreno 1",
+      "EUnl": "huisbouwpakket 1",
+      "CNzh": "盖房子工具组·1号地",
+      "TWzh": "蓋房子工具組‧1號地",
+      "JPja": "ハウジングキット・1ごうち",
+      "KRko": "하우징 키트 1",
+      "EUru": "набор поселенца 1"
+    }
+  },
+  {
+    "id": "HousingKitRcoQuest_05828",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plot 2 housing kit",
+      "EUen": "plot 2 housing kit",
+      "EUde": "Haus-2-Baukit",
+      "EUes": "kit de asentamiento: solar 2",
+      "USes": "kit de residencia: terreno 2",
+      "EUfr": "kit habitation 2",
+      "USfr": "kit habitation 2",
+      "EUit": "kit abitativo: terreno 2",
+      "EUnl": "huisbouwpakket 2",
+      "CNzh": "盖房子工具组·2号地",
+      "TWzh": "蓋房子工具組‧2號地",
+      "JPja": "ハウジングキット・2ごうち",
+      "KRko": "하우징 키트 2",
+      "EUru": "набор поселенца 2"
+    }
+  },
+  {
+    "id": "HousingKitRcoQuest_05829",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "plot 3 housing kit",
+      "EUen": "plot 3 housing kit",
+      "EUde": "Haus-3-Baukit",
+      "EUes": "kit de asentamiento: solar 3",
+      "USes": "kit de residencia: terreno 3",
+      "EUfr": "kit habitation 3",
+      "USfr": "kit habitation 3",
+      "EUit": "kit abitativo: terreno 3",
+      "EUnl": "huisbouwpakket 3",
+      "CNzh": "盖房子工具组·3号地",
+      "TWzh": "蓋房子工具組‧3號地",
+      "JPja": "ハウジングキット・3ごうち",
+      "KRko": "하우징 키트 3",
+      "EUru": "набор поселенца 3"
+    }
+  },
+  {
+    "id": "LicenseItem_08773",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stone path permit",
+      "EUen": "stone path permit",
+      "EUde": "Steinweg-Lizenz",
+      "EUes": "permiso camino empedrado",
+      "USes": "permiso camino empedrado",
+      "EUfr": "permis route pavée",
+      "USfr": "permis route pavée",
+      "EUit": "licenza selciato",
+      "EUnl": "keienpadvergunning",
+      "CNzh": "道路施工许可证·石板路",
+      "TWzh": "道路施工許可證‧石板路",
+      "JPja": "どうろこうじ・いしだたみ",
+      "KRko": "돌 도로 공사",
+      "EUru": "лицензия: каменн. дорога"
+    }
+  },
+  {
+    "id": "LicenseItem_08774",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brick path permit",
+      "EUen": "brick path permit",
+      "EUde": "Ziegelweg-Lizenz",
+      "EUes": "permiso camino de ladrillo",
+      "USes": "permiso camino de ladrillo",
+      "EUfr": "permis route en briques",
+      "USfr": "permis route en briques",
+      "EUit": "licenza strada di mattoni",
+      "EUnl": "klinkerpadvergunning",
+      "CNzh": "道路施工许可证·砖块路",
+      "TWzh": "道路施工許可證‧磚塊路",
+      "JPja": "どうろこうじ・レンガのみち",
+      "KRko": "벽돌 도로 공사",
+      "EUru": "лицензия: кирп. дорога"
+    }
+  },
+  {
+    "id": "LicenseItem_08775",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "dark dirt path permit",
+      "EUen": "dark dirt path permit",
+      "EUde": "Schwarzerde-Weg-Lizenz",
+      "EUes": "permiso camino tierra negra",
+      "USes": "permiso camino tierra negra",
+      "EUfr": "permis chemin champêtre",
+      "USfr": "permis chemin champêtre",
+      "EUit": "licenza strada sterrata",
+      "EUnl": "veldpadvergunning",
+      "CNzh": "道路施工许可证·黑土路",
+      "TWzh": "道路施工許可證‧黑土路",
+      "JPja": "どうろこうじ・くろつちのみち",
+      "KRko": "짙은 흙 도로 공사",
+      "EUru": "лицензия: темная тропа"
+    }
+  },
+  {
+    "id": "LicenseItem_08776",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "arched tile path permit",
+      "EUen": "arched tile path permit",
+      "EUde": "Bogenpflasterweg-Lizenz",
+      "EUes": "permiso camino enlosado",
+      "USes": "permiso camino enlosado",
+      "EUfr": "permis pavage éventail",
+      "USfr": "permis pavage éventail",
+      "EUit": "licenza selciato ad arco",
+      "EUnl": "waaierpadvergunning",
+      "CNzh": "道路施工许可证·拱形砖路",
+      "TWzh": "道路施工許可證‧拱形磚路",
+      "JPja": "どうろこうじ・アーチタイル",
+      "KRko": "아치 타일 도로 공사",
+      "EUru": "лицензия: веерная дорога"
+    }
+  },
+  {
+    "id": "LicenseItem_08777",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sand path permit",
+      "EUen": "sand path permit",
+      "EUde": "Sandweg-Lizenz",
+      "EUes": "permiso camino de arena",
+      "USes": "permiso camino de arena",
+      "EUfr": "permis chemin sablonneux",
+      "USfr": "permis chemin sablonneux",
+      "EUit": "licenza strada di sabbia",
+      "EUnl": "zandpadvergunning",
+      "CNzh": "道路施工许可证·沙子路",
+      "TWzh": "道路施工許可證‧沙子路",
+      "JPja": "どうろこうじ・すなのみち",
+      "KRko": "모래 도로 공사",
+      "EUru": "лицензия: песчан. дорога"
+    }
+  },
+  {
+    "id": "LicenseItem_08778",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "terra-cotta tile permit",
+      "EUen": "terra-cotta tile permit",
+      "EUde": "Terrakottaweg-Lizenz",
+      "EUes": "permiso camino terracota",
+      "USes": "permiso camino terracota",
+      "EUfr": "permis pavés terracotta",
+      "USfr": "permis pavés terracotta",
+      "EUit": "licenza strada di terracotta",
+      "EUnl": "terracottapadvergunning",
+      "CNzh": "道路施工许可证·陶砖路",
+      "TWzh": "道路施工許可證‧陶磚路",
+      "JPja": "どうろこうじ・テラコッタタイル",
+      "KRko": "테라코타 타일 도로 공사",
+      "EUru": "лицензия: террак. дорога"
+    }
+  },
+  {
+    "id": "LicenseItem_08779",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden path permit",
+      "EUen": "wooden path permit",
+      "EUde": "Holzpfad-Lizenz",
+      "EUes": "permiso camino de madera",
+      "USes": "permiso camino de madera",
+      "EUfr": "permis route pavée bois",
+      "USfr": "permis route pavée bois",
+      "EUit": "licenza strada di legno",
+      "EUnl": "plankenpadvergunning",
+      "CNzh": "道路施工许可证·木板路",
+      "TWzh": "道路施工許可證‧木板路",
+      "JPja": "どうろこうじ・くみきのみち",
+      "KRko": "나무 도로 공사",
+      "EUru": "лицензия: дерев. дорога"
+    }
+  },
+  {
+    "id": "LicenseItem_08780",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "waterscaping permit",
+      "EUen": "waterscaping permit",
+      "EUde": "Gewässerlizenz",
+      "EUes": "permiso de obras fluviales",
+      "USes": "permiso de obras fluviales",
+      "EUfr": "permis cours d'eau",
+      "USfr": "permis cours d'eau",
+      "EUit": "licenza fiumi e laghi",
+      "EUnl": "watervergunning",
+      "CNzh": "河流施工许可证",
+      "TWzh": "河川施工許可證",
+      "JPja": "かせんこうじライセンス",
+      "KRko": "하천 공사 허가증",
+      "EUru": "лицензия: реки и озера"
+    }
+  },
+  {
+    "id": "LicenseItem_08781",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cliff construction permit",
+      "EUen": "cliff construction permit",
+      "EUde": "Plateaulizenz",
+      "EUes": "permiso de elevaciones",
+      "USes": "permiso de desniveles",
+      "EUfr": "permis falaise",
+      "USfr": "permis falaise",
+      "EUit": "licenza rilievi",
+      "EUnl": "klifvergunning",
+      "CNzh": "悬崖施工许可证",
+      "TWzh": "懸崖施工許可證",
+      "JPja": "がけこうじライセンス",
+      "KRko": "절벽 공사 허가증",
+      "EUru": "лицензия: скалы"
+    }
+  },
+  {
+    "id": "LicenseItem_09771",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "custom design path permit",
+      "EUen": "custom design path permit",
+      "EUde": "Eigenes-Design-Weg-Lizenz",
+      "EUes": "permiso camino de diseño",
+      "USes": "permiso camino de diseño",
+      "EUfr": "permis routes perso",
+      "USfr": "permis routes perso",
+      "EUit": "licenza strada modello pers.",
+      "EUnl": "padenontwerpvergunning",
+      "CNzh": "道路施工许可证·我的设计",
+      "TWzh": "道路施工許可證‧我的設計",
+      "JPja": "どうろこうじ・マイデザイン",
+      "KRko": "마이 디자인 도로 공사",
+      "EUru": "лицензия: индив. рисунок"
+    }
+  },
+  {
+    "id": "Medicine_02777",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "medicine",
+      "EUen": "medicine",
+      "EUde": "Medizin",
+      "EUes": "medicina",
+      "USes": "medicamento",
+      "EUfr": "remède",
+      "USfr": "remède",
+      "EUit": "medicina",
+      "EUnl": "medicijn",
+      "CNzh": "药",
+      "TWzh": "藥",
+      "JPja": "おくすり",
+      "KRko": "약",
+      "EUru": "лекарство"
+    }
+  },
+  {
+    "id": "Medicine_02777_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "medicine",
+      "EUen": "medicine",
+      "EUde": "Medizin",
+      "EUes": "medicinas",
+      "USes": "medicamentos",
+      "EUfr": "remèdes",
+      "USfr": "remèdes",
+      "EUit": "medicine",
+      "EUnl": "medicijnen",
+      "CNzh": "药",
+      "TWzh": "藥",
+      "JPja": "おくすり",
+      "KRko": "약",
+      "EUru": "лекарства"
+    }
+  },
+  {
+    "id": "MessageBottle_05793",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "message bottle",
+      "EUen": "message bottle",
+      "EUde": "Flaschenpost",
+      "EUes": "botella con mensaje",
+      "USes": "botella con mensaje",
+      "EUfr": "message en bouteille",
+      "USfr": "message en bouteille",
+      "EUit": "bottiglia con messaggio",
+      "EUnl": "postfles",
+      "CNzh": "瓶中信",
+      "TWzh": "瓶中信",
+      "JPja": "メッセージボトル",
+      "KRko": "메시지 보틀",
+      "EUru": "бутылка с письмом"
+    }
+  },
+  {
+    "id": "MessageBottle_12544",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "egg message bottle",
+      "EUen": "egg message bottle",
+      "EUde": "Ei-Flaschenpost",
+      "EUes": "botella huevo con mensaje",
+      "USes": "botella huevo con mensaje",
+      "EUfr": "message en bouteille œuf",
+      "USfr": "message en bouteille œuf",
+      "EUit": "bottiglia messaggio uovo",
+      "EUnl": "eierpostfles",
+      "CNzh": "蛋瓶中信",
+      "TWzh": "蛋瓶中信",
+      "JPja": "たまごのメッセージボトル",
+      "KRko": "달걀 메시지 보틀",
+      "EUru": "расписная бутылка"
+    }
+  },
+  {
+    "id": "MilePlaneTicket_05851",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Miles Ticket",
+      "EUen": "Nook Miles Ticket",
+      "EUde": "Meilenticket",
+      "EUes": "cupón de millas Nook",
+      "USes": "cupón de millas Nook",
+      "EUfr": "ticket Miles Nook",
+      "USfr": "ticket points Nook",
+      "EUit": "coupon miglia di Nook",
+      "EUnl": "Nook-miles-bon",
+      "CNzh": "里数旅行券",
+      "TWzh": "哩數旅行券",
+      "JPja": "マイルりょこうけん",
+      "KRko": "마일 여행권",
+      "EUru": "билет за мили Нука"
+    }
+  },
+  {
+    "id": "MilePlaneTicket_05851_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Miles Tickets",
+      "EUen": "Nook Miles Tickets",
+      "EUde": "Meilentickets",
+      "EUes": "cupones de millas",
+      "USes": "cupones de millas",
+      "EUfr": "tickets Miles Nook",
+      "USfr": "tickets points Nook",
+      "EUit": "coupon miglia di Nook",
+      "EUnl": "Nook-miles-bonnen",
+      "CNzh": "里数旅行券",
+      "TWzh": "哩數旅行券",
+      "JPja": "マイルりょこうけん",
+      "KRko": "마일 여행권",
+      "EUru": "билеты за мили Нука"
+    }
+  },
+  {
+    "id": "MilePlaneTicket_09964",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bell voucher",
+      "EUen": "Bell voucher",
+      "EUde": "Sterni-Coupon",
+      "EUes": "cupón de bayas",
+      "USes": "cupón de bayas",
+      "EUfr": "ticket clochettes",
+      "USfr": "ticket clochettes",
+      "EUit": "coupon stelline",
+      "EUnl": "klingelbon",
+      "CNzh": "铃钱兑换券",
+      "TWzh": "鈴錢兌換券",
+      "JPja": "ベルひきかえけん",
+      "KRko": "벨 교환권",
+      "EUru": "ваучер на дини"
+    }
+  },
+  {
+    "id": "MilePlaneTicket_09964_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Bell vouchers",
+      "EUen": "Bell vouchers",
+      "EUde": "Sterni-Coupons",
+      "EUes": "cupones de bayas",
+      "USes": "cupones de bayas",
+      "EUfr": "tickets clochettes",
+      "USfr": "tickets clochettes",
+      "EUit": "coupon stelline",
+      "EUnl": "klingelbonnen",
+      "CNzh": "铃钱兑换券",
+      "TWzh": "鈴錢兌換券",
+      "JPja": "ベルひきかえけん",
+      "KRko": "벨 교환권",
+      "EUru": "ваучеры на дини"
+    }
+  },
+  {
+    "id": "Ocarina_05320",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ocarina",
+      "EUen": "ocarina",
+      "EUde": "Okarina",
+      "EUes": "ocarina",
+      "USes": "ocarina",
+      "EUfr": "ocarina",
+      "USfr": "ocarina",
+      "EUit": "ocarina",
+      "EUnl": "ocarina",
+      "CNzh": "陶笛",
+      "TWzh": "陶笛",
+      "JPja": "オカリナ",
+      "KRko": "오카리나",
+      "EUru": "окарина"
+    }
+  },
+  {
+    "id": "Panflute_05517",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pan flute",
+      "EUen": "pan flute",
+      "EUde": "Panflöte",
+      "EUes": "sicu",
+      "USes": "sicu",
+      "EUfr": "flûte de pan",
+      "USfr": "flûte de pan",
+      "EUit": "flauto di Pan",
+      "EUnl": "panfluit",
+      "CNzh": "排笛",
+      "TWzh": "排笛",
+      "JPja": "パンフルート",
+      "KRko": "팬파이프",
+      "EUru": "многоствольная флейта"
+    }
+  },
+  {
+    "id": "PartyPopper_02753",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "party popper",
+      "EUen": "party popper",
+      "EUde": "Partyknaller",
+      "EUes": "cañón de confeti",
+      "USes": "cañón de confeti",
+      "EUfr": "pétard",
+      "USfr": "pétard",
+      "EUit": "sparacoriandoli",
+      "EUnl": "confettiknaller",
+      "CNzh": "拉炮",
+      "TWzh": "拉炮",
+      "JPja": "クラッカー",
+      "KRko": "파티용 폭죽",
+      "EUru": "хлопушка"
+    }
+  },
+  {
+    "id": "PartyPopper_02753_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "party poppers",
+      "EUen": "party poppers",
+      "EUde": "Partyknaller",
+      "EUes": "cañones de confeti",
+      "USes": "cañones de confeti",
+      "EUfr": "pétards",
+      "USfr": "pétards",
+      "EUit": "sparacoriandoli",
+      "EUnl": "confettiknallers",
+      "CNzh": "拉炮",
+      "TWzh": "拉炮",
+      "JPja": "クラッカー",
+      "KRko": "파티용 폭죽",
+      "EUru": "хлопушки"
+    }
+  },
+  {
+    "id": "PitFallSeed_02578",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pitfall seed",
+      "EUen": "pitfall seed",
+      "EUde": "Falle",
+      "EUes": "trampa",
+      "USes": "trampa",
+      "EUfr": "piège",
+      "USfr": "piège",
+      "EUit": "trappola",
+      "EUnl": "valkuilzaadje",
+      "CNzh": "陷阱种子",
+      "TWzh": "陷阱種子",
+      "JPja": "おとしあなのタネ",
+      "KRko": "함정 씨앗",
+      "EUru": "западня"
+    }
+  },
+  {
+    "id": "PitFallSeed_02578_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pitfall seeds",
+      "EUen": "pitfall seeds",
+      "EUde": "Fallen",
+      "EUes": "trampas",
+      "USes": "trampas",
+      "EUfr": "pièges",
+      "USfr": "pièges",
+      "EUit": "trappole",
+      "EUnl": "valkuilzaadjes",
+      "CNzh": "陷阱种子",
+      "TWzh": "陷阱種子",
+      "JPja": "おとしあなのタネ",
+      "KRko": "함정 씨앗",
+      "EUru": "западни"
+    }
+  },
+  {
+    "id": "QuestWrapping_04245",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "delivery box",
+      "EUen": "delivery box",
+      "EUde": "Paket",
+      "EUes": "paquete",
+      "USes": "paquete",
+      "EUfr": "caisse de livraison",
+      "USfr": "caisse de livraison",
+      "EUit": "pacchetto",
+      "EUnl": "bezorgdoos",
+      "CNzh": "邮寄箱",
+      "TWzh": "宅配箱",
+      "JPja": "はいたつボックス",
+      "KRko": "배달 박스",
+      "EUru": "коробка с посылкой"
+    }
+  },
+  {
+    "id": "StickLight_05741",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light stick",
+      "EUen": "light stick",
+      "EUde": "Leuchtstab",
+      "EUes": "vara de luz",
+      "USes": "vara de luz",
+      "EUfr": "baguette fluo",
+      "USfr": "baguette fluo",
+      "EUit": "bastoncino luminoso",
+      "EUnl": "lichtstaafje",
+      "CNzh": "荧光棒",
+      "TWzh": "螢光棒",
+      "JPja": "スティックライト",
+      "KRko": "형광봉",
+      "EUru": "светящаяся палочка"
+    }
+  },
+  {
+    "id": "Tambourine_05430",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tambourine",
+      "EUen": "tambourine",
+      "EUde": "Tamburin",
+      "EUes": "pandereta",
+      "USes": "pandereta",
+      "EUfr": "tambourin",
+      "USfr": "tambourin",
+      "EUit": "tamburello",
+      "EUnl": "tamboerijn",
+      "CNzh": "铃鼓",
+      "TWzh": "鈴鼓",
+      "JPja": "タンバリン",
+      "KRko": "탬버린",
+      "EUru": "бубен"
+    }
+  },
+  {
+    "id": "Trash_03466",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "empty can",
+      "EUen": "empty can",
+      "EUde": "Dose",
+      "EUes": "chatarra",
+      "USes": "chatarra",
+      "EUfr": "boîte vide",
+      "USfr": "boîte vide",
+      "EUit": "lattina vuota",
+      "EUnl": "leeg blikje",
+      "CNzh": "空罐",
+      "TWzh": "空罐",
+      "JPja": "あきカン",
+      "KRko": "빈 통조림 캔",
+      "EUru": "консервная банка"
+    }
+  },
+  {
+    "id": "Trash_03469",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "boot",
+      "EUen": "boot",
+      "EUde": "Stiefel",
+      "EUes": "bota",
+      "USes": "bota",
+      "EUfr": "godasse",
+      "USfr": "vieux soulier",
+      "EUit": "scarpone",
+      "EUnl": "laars",
+      "CNzh": "长靴",
+      "TWzh": "長靴",
+      "JPja": "ながぐつ",
+      "KRko": "장화",
+      "EUru": "башмак"
+    }
+  },
+  {
+    "id": "Trash_03470",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "old tire",
+      "EUen": "old tire",
+      "EUde": "Reifen",
+      "EUes": "neumático",
+      "USes": "neumático",
+      "EUfr": "vieux pneu",
+      "USfr": "vieux pneu",
+      "EUit": "copertone",
+      "EUnl": "oude band",
+      "CNzh": "轮胎",
+      "TWzh": "輪胎",
+      "JPja": "タイヤ",
+      "KRko": "타이어",
+      "EUru": "старая покрышка"
+    }
+  },
+  {
+    "id": "Uchiwa_09762",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "Nook Inc. uchiwa fan",
+      "EUen": "Nook Inc. uchiwa fan",
+      "EUde": "Nook-Inc.-Uchiwa-Fächer",
+      "EUes": "paipay de Nook Inc.",
+      "USes": "abanico paipay de Nook Inc.",
+      "EUfr": "éventail uchiwa Nook Inc.",
+      "USfr": "éventail uchiwa Nook Inc.",
+      "EUit": "ventaglio uchiwa Nook Inc.",
+      "EUnl": "Nook Inc.-uchiwa-waaier",
+      "CNzh": "Nook Inc.团扇",
+      "TWzh": "Nook Inc.扇子",
+      "JPja": "たぬきかいはつうちわ",
+      "KRko": "Nook Inc. 둥글부채",
+      "EUru": "веер утива Nook Inc."
+    }
+  },
+  {
+    "id": "WrappingPaper_07683",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow wrapping paper",
+      "EUen": "yellow wrapping paper",
+      "EUde": "Gelb-Geschenkpapier",
+      "EUes": "papel de regalo amarillo",
+      "USes": "papel de regalo amarillo",
+      "EUfr": "papier cadeau jaune",
+      "USfr": "papier cadeau jaune",
+      "EUit": "carta da regalo gialla",
+      "EUnl": "geel cadeaupapier",
+      "CNzh": "黄色包装纸",
+      "TWzh": "黃色包裝紙",
+      "JPja": "きいろいラッピングペーパー",
+      "KRko": "노란색 포장지",
+      "EUru": "желтая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07683_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "yellow wrapping paper",
+      "EUen": "yellow wrapping paper",
+      "EUde": "Gelb-Geschenkpapier",
+      "EUes": "papel de regalo amarillo",
+      "USes": "papel de regalo amarillo",
+      "EUfr": "papiers cadeau jaunes",
+      "USfr": "papiers cadeau jaunes",
+      "EUit": "carta da regalo gialla",
+      "EUnl": "geel cadeaupapier",
+      "CNzh": "黄色包装纸",
+      "TWzh": "黃色包裝紙",
+      "JPja": "きいろいラッピングペーパー",
+      "KRko": "노란색 포장지",
+      "EUru": "желтые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07684",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink wrapping paper",
+      "EUen": "pink wrapping paper",
+      "EUde": "Pink-Geschenkpapier",
+      "EUes": "papel de regalo rosa",
+      "USes": "papel de regalo rosa",
+      "EUfr": "papier cadeau rose",
+      "USfr": "papier cadeau rose",
+      "EUit": "carta da regalo rosa",
+      "EUnl": "roze cadeaupapier",
+      "CNzh": "粉红色包装纸",
+      "TWzh": "粉紅色包裝紙",
+      "JPja": "ピンクのラッピングペーパー",
+      "KRko": "핑크색 포장지",
+      "EUru": "розовая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07684_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pink wrapping paper",
+      "EUen": "pink wrapping paper",
+      "EUde": "Pink-Geschenkpapier",
+      "EUes": "papel de regalo rosa",
+      "USes": "papel de regalo rosa",
+      "EUfr": "papiers cadeau roses",
+      "USfr": "papiers cadeau roses",
+      "EUit": "carta da regalo rosa",
+      "EUnl": "roze cadeaupapier",
+      "CNzh": "粉红色包装纸",
+      "TWzh": "粉紅色包裝紙",
+      "JPja": "ピンクのラッピングペーパー",
+      "KRko": "핑크색 포장지",
+      "EUru": "розовые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07685",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange wrapping paper",
+      "EUen": "orange wrapping paper",
+      "EUde": "Orange-Geschenkpapier",
+      "EUes": "papel de regalo naranja",
+      "USes": "papel de regalo naranja",
+      "EUfr": "papier cadeau orange",
+      "USfr": "papier cadeau orange",
+      "EUit": "carta da regalo arancione",
+      "EUnl": "oranje cadeaupapier",
+      "CNzh": "橘色包装纸",
+      "TWzh": "橘色包裝紙",
+      "JPja": "オレンジのラッピングペーパー",
+      "KRko": "오렌지색 포장지",
+      "EUru": "оранжевая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07685_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange wrapping paper",
+      "EUen": "orange wrapping paper",
+      "EUde": "Orange-Geschenkpapier",
+      "EUes": "papel de regalo naranja",
+      "USes": "papel de regalo naranja",
+      "EUfr": "papiers cadeau orange",
+      "USfr": "papiers cadeau orange",
+      "EUit": "carta da regalo arancione",
+      "EUnl": "oranje cadeaupapier",
+      "CNzh": "橘色包装纸",
+      "TWzh": "橘色包裝紙",
+      "JPja": "オレンジのラッピングペーパー",
+      "KRko": "오렌지색 포장지",
+      "EUru": "оранжевые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07686",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chartreuse wrapping paper",
+      "EUen": "chartreuse wrapping paper",
+      "EUde": "Gelbgrün-Geschenkpapier",
+      "EUes": "papel de regalo lima",
+      "USes": "papel de regalo verdoso",
+      "EUfr": "papier cadeau jaune-vert",
+      "USfr": "papier cadeau jaune-vert",
+      "EUit": "carta da regalo gialloverde",
+      "EUnl": "groengeel cadeaupapier",
+      "CNzh": "黄绿色包装纸",
+      "TWzh": "黃綠色包裝紙",
+      "JPja": "きみどりのラッピングペーパー",
+      "KRko": "연두색 포장지",
+      "EUru": "желто-зеленая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07686_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "chartreuse wrapping paper",
+      "EUen": "chartreuse wrapping paper",
+      "EUde": "Gelbgrün-Geschenkpapier",
+      "EUes": "papel de regalo lima",
+      "USes": "papel de regalo verdoso",
+      "EUfr": "papiers cadeau jaune-vert",
+      "USfr": "papiers cadeau jaune-vert",
+      "EUit": "carta da regalo gialloverde",
+      "EUnl": "groengeel cadeaupapier",
+      "CNzh": "黄绿色包装纸",
+      "TWzh": "黃綠色包裝紙",
+      "JPja": "きみどりのラッピングペーパー",
+      "KRko": "연두색 포장지",
+      "EUru": "желто-зеленые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07687",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green wrapping paper",
+      "EUen": "green wrapping paper",
+      "EUde": "Grün-Geschenkpapier",
+      "EUes": "papel de regalo verde",
+      "USes": "papel de regalo verde",
+      "EUfr": "papier cadeau vert",
+      "USfr": "papier cadeau vert",
+      "EUit": "carta da regalo verde",
+      "EUnl": "groen cadeaupapier",
+      "CNzh": "绿色包装纸",
+      "TWzh": "綠色包裝紙",
+      "JPja": "みどりのラッピングペーパー",
+      "KRko": "초록색 포장지",
+      "EUru": "зеленая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07687_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "green wrapping paper",
+      "EUen": "green wrapping paper",
+      "EUde": "Grün-Geschenkpapier",
+      "EUes": "papel de regalo verde",
+      "USes": "papel de regalo verde",
+      "EUfr": "papiers cadeau verts",
+      "USfr": "papiers cadeau verts",
+      "EUit": "carta da regalo verde",
+      "EUnl": "groen cadeaupapier",
+      "CNzh": "绿色包装纸",
+      "TWzh": "綠色包裝紙",
+      "JPja": "みどりのラッピングペーパー",
+      "KRko": "초록색 포장지",
+      "EUru": "зеленые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07688",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mint wrapping paper",
+      "EUen": "mint wrapping paper",
+      "EUde": "Minzgrün-Geschenkpapier",
+      "EUes": "papel de regalo turquesa",
+      "USes": "papel de regalo turquesa",
+      "EUfr": "papier cadeau menthe",
+      "USfr": "papier cadeau menthe",
+      "EUit": "carta da regalo menta",
+      "EUnl": "mintgroen cadeaupapier",
+      "CNzh": "薄荷绿包装纸",
+      "TWzh": "薄荷綠包裝紙",
+      "JPja": "ミントのラッピングペーパー",
+      "KRko": "민트색 포장지",
+      "EUru": "мятная обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07688_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mint wrapping paper",
+      "EUen": "mint wrapping paper",
+      "EUde": "Minzgrün-Geschenkpapier",
+      "EUes": "papel de regalo turquesa",
+      "USes": "papel de regalo turquesa",
+      "EUfr": "papiers cadeau menthe",
+      "USfr": "papiers cadeau menthe",
+      "EUit": "carta da regalo menta",
+      "EUnl": "mintgroen cadeaupapier",
+      "CNzh": "薄荷绿包装纸",
+      "TWzh": "薄荷綠包裝紙",
+      "JPja": "ミントのラッピングペーパー",
+      "KRko": "민트색 포장지",
+      "EUru": "мятные обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07689",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light-blue wrapping paper",
+      "EUen": "light-blue wrapping paper",
+      "EUde": "Hellblau-Geschenkpapier",
+      "EUes": "papel de regalo celeste",
+      "USes": "papel de regalo celeste",
+      "EUfr": "papier cadeau bleu clair",
+      "USfr": "papier cadeau bleu clair",
+      "EUit": "carta da regalo azzurra",
+      "EUnl": "lichtblauw cadeaupapier",
+      "CNzh": "水蓝色包装纸",
+      "TWzh": "水藍色包裝紙",
+      "JPja": "みずいろのラッピングペーパー",
+      "KRko": "하늘색 포장지",
+      "EUru": "голубая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07689_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "light-blue wrapping paper",
+      "EUen": "light-blue wrapping paper",
+      "EUde": "Hellblau-Geschenkpapier",
+      "EUes": "papel de regalo celeste",
+      "USes": "papel de regalo celeste",
+      "EUfr": "papiers cadeau bleu clair",
+      "USfr": "papiers cadeau bleu clair",
+      "EUit": "carta da regalo azzurra",
+      "EUnl": "lichtblauw cadeaupapier",
+      "CNzh": "水蓝色包装纸",
+      "TWzh": "水藍色包裝紙",
+      "JPja": "みずいろのラッピングペーパー",
+      "KRko": "하늘색 포장지",
+      "EUru": "голубые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07690",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple wrapping paper",
+      "EUen": "purple wrapping paper",
+      "EUde": "Lila-Geschenkpapier",
+      "EUes": "papel de regalo violeta",
+      "USes": "papel de regalo morado",
+      "EUfr": "papier cadeau violet",
+      "USfr": "papier cadeau mauve",
+      "EUit": "carta da regalo viola",
+      "EUnl": "paars cadeaupapier",
+      "CNzh": "紫色包装纸",
+      "TWzh": "紫色包裝紙",
+      "JPja": "むらさきのラッピングペーパー",
+      "KRko": "보라색 포장지",
+      "EUru": "фиолетовая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07690_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "purple wrapping paper",
+      "EUen": "purple wrapping paper",
+      "EUde": "Lila-Geschenkpapier",
+      "EUes": "papel de regalo violeta",
+      "USes": "papel de regalo morado",
+      "EUfr": "papiers cadeau violets",
+      "USfr": "papiers cadeau mauves",
+      "EUit": "carta da regalo viola",
+      "EUnl": "paars cadeaupapier",
+      "CNzh": "紫色包装纸",
+      "TWzh": "紫色包裝紙",
+      "JPja": "むらさきのラッピングペーパー",
+      "KRko": "보라색 포장지",
+      "EUru": "фиолетовые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07691",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "navy wrapping paper",
+      "EUen": "navy wrapping paper",
+      "EUde": "Nachtblau-Geschenkpapier",
+      "EUes": "papel de regalo índigo",
+      "USes": "papel de regalo índigo",
+      "EUfr": "papier cadeau bleu marine",
+      "USfr": "papier cadeau bleu marine",
+      "EUit": "carta da regalo blu marino",
+      "EUnl": "marineblauw cadeaupapier",
+      "CNzh": "紫蓝色包装纸",
+      "TWzh": "紫藍色包裝紙",
+      "JPja": "こんいろのラッピングペーパー",
+      "KRko": "남색 포장지",
+      "EUru": "черно-синяя обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07691_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "navy wrapping paper",
+      "EUen": "navy wrapping paper",
+      "EUde": "Nachtblau-Geschenkpapier",
+      "EUes": "papel de regalo índigo",
+      "USes": "papel de regalo índigo",
+      "EUfr": "papiers cadeau bleu marine",
+      "USfr": "papiers cadeau bleu marine",
+      "EUit": "carta da regalo blu marino",
+      "EUnl": "marineblauw cadeaupapier",
+      "CNzh": "紫蓝色包装纸",
+      "TWzh": "紫藍色包裝紙",
+      "JPja": "こんいろのラッピングペーパー",
+      "KRko": "남색 포장지",
+      "EUru": "черно-синие обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07692",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue wrapping paper",
+      "EUen": "blue wrapping paper",
+      "EUde": "Blau-Geschenkpapier",
+      "EUes": "papel de regalo azul",
+      "USes": "papel de regalo azul",
+      "EUfr": "papier cadeau bleu",
+      "USfr": "papier cadeau bleu",
+      "EUit": "carta da regalo blu",
+      "EUnl": "blauw cadeaupapier",
+      "CNzh": "蓝色包装纸",
+      "TWzh": "藍色包裝紙",
+      "JPja": "あおいラッピングペーパー",
+      "KRko": "파란색 포장지",
+      "EUru": "синяя обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07692_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "blue wrapping paper",
+      "EUen": "blue wrapping paper",
+      "EUde": "Blau-Geschenkpapier",
+      "EUes": "papel de regalo azul",
+      "USes": "papel de regalo azul",
+      "EUfr": "papiers cadeau bleus",
+      "USfr": "papiers cadeau bleus",
+      "EUit": "carta da regalo blu",
+      "EUnl": "blauw cadeaupapier",
+      "CNzh": "蓝色包装纸",
+      "TWzh": "藍色包裝紙",
+      "JPja": "あおいラッピングペーパー",
+      "KRko": "파란색 포장지",
+      "EUru": "синие обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07693",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white wrapping paper",
+      "EUen": "white wrapping paper",
+      "EUde": "Weiß-Geschenkpapier",
+      "EUes": "papel de regalo blanco",
+      "USes": "papel de regalo blanco",
+      "EUfr": "papier cadeau blanc",
+      "USfr": "papier cadeau blanc",
+      "EUit": "carta da regalo bianca",
+      "EUnl": "wit cadeaupapier",
+      "CNzh": "白色包装纸",
+      "TWzh": "白色包裝紙",
+      "JPja": "しろいラッピングペーパー",
+      "KRko": "하얀색 포장지",
+      "EUru": "белая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07693_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "white wrapping paper",
+      "EUen": "white wrapping paper",
+      "EUde": "Weiß-Geschenkpapier",
+      "EUes": "papel de regalo blanco",
+      "USes": "papel de regalo blanco",
+      "EUfr": "papiers cadeau blancs",
+      "USfr": "papiers cadeau blancs",
+      "EUit": "carta da regalo bianca",
+      "EUnl": "wit cadeaupapier",
+      "CNzh": "白色包装纸",
+      "TWzh": "白色包裝紙",
+      "JPja": "しろいラッピングペーパー",
+      "KRko": "하얀색 포장지",
+      "EUru": "белые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07694",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red wrapping paper",
+      "EUen": "red wrapping paper",
+      "EUde": "Rot-Geschenkpapier",
+      "EUes": "papel de regalo rojo",
+      "USes": "papel de regalo rojo",
+      "EUfr": "papier cadeau rouge",
+      "USfr": "papier cadeau rouge",
+      "EUit": "carta da regalo rossa",
+      "EUnl": "rood cadeaupapier",
+      "CNzh": "红色包装纸",
+      "TWzh": "紅色包裝紙",
+      "JPja": "あかいラッピングペーパー",
+      "KRko": "빨간색 포장지",
+      "EUru": "красная обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07694_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "red wrapping paper",
+      "EUen": "red wrapping paper",
+      "EUde": "Rot-Geschenkpapier",
+      "EUes": "papel de regalo rojo",
+      "USes": "papel de regalo rojo",
+      "EUfr": "papiers cadeau rouges",
+      "USfr": "papiers cadeau rouges",
+      "EUit": "carta da regalo rossa",
+      "EUnl": "rood cadeaupapier",
+      "CNzh": "红色包装纸",
+      "TWzh": "紅色包裝紙",
+      "JPja": "あかいラッピングペーパー",
+      "KRko": "빨간색 포장지",
+      "EUru": "красные обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07695",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold wrapping paper",
+      "EUen": "gold wrapping paper",
+      "EUde": "Gold-Geschenkpapier",
+      "EUes": "papel de regalo dorado",
+      "USes": "papel de regalo dorado",
+      "EUfr": "papier cadeau doré",
+      "USfr": "papier cadeau doré",
+      "EUit": "carta da regalo dorata",
+      "EUnl": "gouden cadeaupapier",
+      "CNzh": "金色包装纸",
+      "TWzh": "金色包裝紙",
+      "JPja": "きんいろのラッピングペーパー",
+      "KRko": "금색 포장지",
+      "EUru": "золотая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07695_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gold wrapping paper",
+      "EUen": "gold wrapping paper",
+      "EUde": "Gold-Geschenkpapier",
+      "EUes": "papel de regalo dorado",
+      "USes": "papel de regalo dorado",
+      "EUfr": "papiers cadeau dorés",
+      "USfr": "papiers cadeau dorés",
+      "EUit": "carta da regalo dorata",
+      "EUnl": "gouden cadeaupapier",
+      "CNzh": "金色包装纸",
+      "TWzh": "金色包裝紙",
+      "JPja": "きんいろのラッピングペーパー",
+      "KRko": "금색 포장지",
+      "EUru": "золотые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07696",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown wrapping paper",
+      "EUen": "brown wrapping paper",
+      "EUde": "Braun-Geschenkpapier",
+      "EUes": "papel de regalo marrón",
+      "USes": "papel de regalo marrón",
+      "EUfr": "papier cadeau marron",
+      "USfr": "papier cadeau brun",
+      "EUit": "carta da regalo marrone",
+      "EUnl": "bruin cadeaupapier",
+      "CNzh": "茶色包装纸",
+      "TWzh": "茶色包裝紙",
+      "JPja": "ちゃいろのラッピングペーパー",
+      "KRko": "갈색 포장지",
+      "EUru": "коричневая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07696_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "brown wrapping paper",
+      "EUen": "brown wrapping paper",
+      "EUde": "Braun-Geschenkpapier",
+      "EUes": "papel de regalo marrón",
+      "USes": "papel de regalo marrón",
+      "EUfr": "papiers cadeau marron",
+      "USfr": "papiers cadeau bruns",
+      "EUit": "carta da regalo marrone",
+      "EUnl": "bruin cadeaupapier",
+      "CNzh": "茶色包装纸",
+      "TWzh": "茶色包裝紙",
+      "JPja": "ちゃいろのラッピングペーパー",
+      "KRko": "갈색 포장지",
+      "EUru": "коричневые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07697",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray wrapping paper",
+      "EUen": "gray wrapping paper",
+      "EUde": "Grau-Geschenkpapier",
+      "EUes": "papel de regalo gris",
+      "USes": "papel de regalo gris",
+      "EUfr": "papier cadeau gris",
+      "USfr": "papier cadeau gris",
+      "EUit": "carta da regalo grigia",
+      "EUnl": "grijs cadeaupapier",
+      "CNzh": "灰色包装纸",
+      "TWzh": "灰色包裝紙",
+      "JPja": "グレーのラッピングペーパー",
+      "KRko": "회색 포장지",
+      "EUru": "серая обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07697_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "gray wrapping paper",
+      "EUen": "gray wrapping paper",
+      "EUde": "Grau-Geschenkpapier",
+      "EUes": "papel de regalo gris",
+      "USes": "papel de regalo gris",
+      "EUfr": "papiers cadeau gris",
+      "USfr": "papiers cadeau gris",
+      "EUit": "carta da regalo grigia",
+      "EUnl": "grijs cadeaupapier",
+      "CNzh": "灰色包装纸",
+      "TWzh": "灰色包裝紙",
+      "JPja": "グレーのラッピングペーパー",
+      "KRko": "회색 포장지",
+      "EUru": "серые обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_07698",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black wrapping paper",
+      "EUen": "black wrapping paper",
+      "EUde": "Schwarz-Geschenkpapier",
+      "EUes": "papel de regalo negro",
+      "USes": "papel de regalo negro",
+      "EUfr": "papier cadeau noir",
+      "USfr": "papier cadeau noir",
+      "EUit": "carta da regalo nera",
+      "EUnl": "zwart cadeaupapier",
+      "CNzh": "黑色包装纸",
+      "TWzh": "黑色包裝紙",
+      "JPja": "くろいラッピングペーパー",
+      "KRko": "검은색 포장지",
+      "EUru": "черная обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_07698_pl",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "black wrapping paper",
+      "EUen": "black wrapping paper",
+      "EUde": "Schwarz-Geschenkpapier",
+      "EUes": "papel de regalo negro",
+      "USes": "papel de regalo negro",
+      "EUfr": "papiers cadeau noirs",
+      "USfr": "papiers cadeau noirs",
+      "EUit": "carta da regalo nera",
+      "EUnl": "zwart cadeaupapier",
+      "CNzh": "黑色包装纸",
+      "TWzh": "黑色包裝紙",
+      "JPja": "くろいラッピングペーパー",
+      "KRko": "검은색 포장지",
+      "EUru": "черные обертки"
+    }
+  }
+]

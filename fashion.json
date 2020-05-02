@@ -1,0 +1,222 @@
+[
+  {
+    "id": "Daily",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "everyday",
+      "EUen": "everyday",
+      "EUde": "Alltagskleidung",
+      "EUes": "todoterreno",
+      "USes": "todoterreno",
+      "EUfr": "tenue de tous les jours",
+      "USfr": "tenue de tous les jours",
+      "EUit": "per tutti i giorni",
+      "EUnl": "alledaags thema",
+      "CNzh": "日常",
+      "TWzh": "日常生活",
+      "JPja": "デイリー",
+      "KRko": "데일리",
+      "EUru": "повседневный"
+    }
+  },
+  {
+    "id": "Fairyland",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fairy tale",
+      "EUen": "fairy tale",
+      "EUde": "Märchenkleidung",
+      "EUes": "de fantasía",
+      "USes": "de fantasía",
+      "EUfr": "tenue féerique",
+      "USfr": "tenue féérique",
+      "EUit": "da fiaba",
+      "EUnl": "sprookjesthema",
+      "CNzh": "童话世界",
+      "TWzh": "童話世界",
+      "JPja": "メルヘン",
+      "KRko": "메르헨",
+      "EUru": "фантазийный"
+    }
+  },
+  {
+    "id": "Fomal",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "formal",
+      "EUen": "formal",
+      "EUde": "Formellkleidung",
+      "EUes": "formal",
+      "USes": "formal",
+      "EUfr": "tenue officielle",
+      "USfr": "tenue officielle",
+      "EUit": "formale",
+      "EUnl": "forme thema",
+      "CNzh": "正式",
+      "TWzh": "正式",
+      "JPja": "フォーマル",
+      "KRko": "포멀",
+      "EUru": "формальный"
+    }
+  },
+  {
+    "id": "Horror",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "goth",
+      "EUen": "goth",
+      "EUde": "Horrorkleidung",
+      "EUes": "gótico",
+      "USes": "gótico",
+      "EUfr": "tenue effrayante",
+      "USfr": "tenue effrayante",
+      "EUit": "horror",
+      "EUnl": "griezelthema",
+      "CNzh": "恐怖",
+      "TWzh": "恐怖",
+      "JPja": "ホラー",
+      "KRko": "호러",
+      "EUru": "готический"
+    }
+  },
+  {
+    "id": "Outdoor",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "outdoorsy",
+      "EUen": "outdoorsy",
+      "EUde": "Outdoorkleidung",
+      "EUes": "casual",
+      "USes": "de actividades al aire libre",
+      "EUfr": "tenue d'extérieur",
+      "USfr": "tenue d'extérieur",
+      "EUit": "da aria aperta",
+      "EUnl": "weersbestendig thema",
+      "CNzh": "户外",
+      "TWzh": "戶外活動",
+      "JPja": "アウトドア",
+      "KRko": "아웃도어",
+      "EUru": "походный"
+    }
+  },
+  {
+    "id": "Party",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "party",
+      "EUen": "party",
+      "EUde": "Partykleidung",
+      "EUes": "de fiesta",
+      "USes": "de fiesta",
+      "EUfr": "tenue de fête",
+      "USfr": "tenue de fête",
+      "EUit": "da festa",
+      "EUnl": "feestthema",
+      "CNzh": "派对",
+      "TWzh": "派對",
+      "JPja": "パーティー",
+      "KRko": "파티",
+      "EUru": "праздничный"
+    }
+  },
+  {
+    "id": "Relax",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "comfy",
+      "EUen": "comfy",
+      "EUde": "Freizeitkleidung",
+      "EUes": "desenfadado",
+      "USes": "desenfadado",
+      "EUfr": "tenue de détente",
+      "USfr": "tenue de détente",
+      "EUit": "confortevole",
+      "EUnl": "vrijetijdsthema",
+      "CNzh": "休闲",
+      "TWzh": "悠閒",
+      "JPja": "リラックス",
+      "KRko": "릴랙스",
+      "EUru": "удобный"
+    }
+  },
+  {
+    "id": "Sport",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sporty",
+      "EUen": "sporty",
+      "EUde": "Sportkleidung",
+      "EUes": "deportivo",
+      "USes": "deportivo",
+      "EUfr": "tenue sport",
+      "USfr": "tenue sport",
+      "EUit": "da sport",
+      "EUnl": "sportthema",
+      "CNzh": "运动",
+      "TWzh": "運動",
+      "JPja": "スポーツ",
+      "KRko": "스포츠",
+      "EUru": "спортивный"
+    }
+  },
+  {
+    "id": "Stage",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "theatrical",
+      "EUen": "theatrical",
+      "EUde": "Bühnenkleidung",
+      "EUes": "teatral",
+      "USes": "teatral",
+      "EUfr": "tenue de scène",
+      "USfr": "tenue de scène",
+      "EUit": "da teatro",
+      "EUnl": "podiumthema",
+      "CNzh": "舞台",
+      "TWzh": "舞台",
+      "JPja": "ステージ",
+      "KRko": "스테이지",
+      "EUru": "эффектный"
+    }
+  },
+  {
+    "id": "Vacation",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "vacation",
+      "EUen": "vacation",
+      "EUde": "Urlaubskleidung",
+      "EUes": "vacacional",
+      "USes": "vacacional",
+      "EUfr": "tenue de vacances",
+      "USfr": "tenue de vacances",
+      "EUit": "da vacanza",
+      "EUnl": "vakantiethema",
+      "CNzh": "度假",
+      "TWzh": "度假",
+      "JPja": "バカンス",
+      "KRko": "바캉스",
+      "EUru": "отпускной"
+    }
+  },
+  {
+    "id": "Work",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "work",
+      "EUen": "work",
+      "EUde": "Arbeitskleidung",
+      "EUes": "profesional",
+      "USes": "profesional",
+      "EUfr": "tenue professionnelle",
+      "USfr": "tenue professionnelle",
+      "EUit": "da lavoro",
+      "EUnl": "werkthema",
+      "CNzh": "工作",
+      "TWzh": "工作",
+      "JPja": "おしごと仕事",
+      "KRko": "비즈니스",
+      "EUru": "рабочий"
+    }
+  }
+]

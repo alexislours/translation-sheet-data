@@ -1,0 +1,542 @@
+[
+  {
+    "id": 1,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "iron",
+      "EUen": "iron",
+      "EUde": "Eisen",
+      "EUes": "hierro",
+      "USes": "hierro",
+      "EUfr": "fer",
+      "USfr": "fer",
+      "EUit": "ferro",
+      "EUnl": "ijzeren stijl",
+      "CNzh": "铸铁",
+      "TWzh": "鑄鐵",
+      "JPja": "アイアン",
+      "KRko": "아이언",
+      "EUru": "Железо"
+    }
+  },
+  {
+    "id": 2,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ironwood",
+      "EUen": "ironwood",
+      "EUde": "Eisen-Holz",
+      "EUes": "universidad",
+      "USes": "universidad",
+      "EUfr": "bois de fer",
+      "USfr": "bois de fer",
+      "EUit": "legno ferro",
+      "EUnl": "ijzeren-houten stijl",
+      "CNzh": "铸铁木",
+      "TWzh": "鑄鐵木",
+      "JPja": "アイアンウッド",
+      "KRko": "아이언 우드",
+      "EUru": "ДСП и сталь"
+    }
+  },
+  {
+    "id": 3,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "diner",
+      "EUen": "diner",
+      "EUde": "Diner",
+      "EUes": "años 50",
+      "USes": "años 50",
+      "EUfr": "années 50",
+      "USfr": "années 50",
+      "EUit": "anni '50",
+      "EUnl": "jaren 50-stijl",
+      "CNzh": "美式复古",
+      "TWzh": "餐館",
+      "JPja": "ダイナー",
+      "KRko": "다이너",
+      "EUru": "Бистро"
+    }
+  },
+  {
+    "id": 4,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "antique",
+      "EUen": "antique",
+      "EUde": "Antik",
+      "EUes": "antigua",
+      "USes": "antigua",
+      "EUfr": "ancienne",
+      "USfr": "ancienne",
+      "EUit": "vecchio",
+      "EUnl": "antieke stijl",
+      "CNzh": "古董",
+      "TWzh": "古董",
+      "JPja": "アンティーク",
+      "KRko": "앤티크",
+      "EUru": "Антиквариат"
+    }
+  },
+  {
+    "id": 5,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "golden",
+      "EUen": "golden",
+      "EUde": "Gold",
+      "EUes": "dorada",
+      "USes": "dorada",
+      "EUfr": "d'or",
+      "USfr": "d'or",
+      "EUit": "dorato",
+      "EUnl": "gouden stijl",
+      "CNzh": "黄金",
+      "TWzh": "黃金",
+      "JPja": "おうごん",
+      "KRko": "황금",
+      "EUru": "Золото"
+    }
+  },
+  {
+    "id": 6,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zen",
+      "EUen": "zen",
+      "EUde": "Asiatisch",
+      "EUes": "dinastía",
+      "USes": "dinastía",
+      "EUfr": "impériale",
+      "USfr": "impériale",
+      "EUit": "dinastia",
+      "EUnl": "zenstijl",
+      "CNzh": "东方风",
+      "TWzh": "東方風",
+      "JPja": "オリエンタル",
+      "KRko": "오리엔탈",
+      "EUru": "Дзен"
+    }
+  },
+  {
+    "id": 7,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shell",
+      "EUen": "shell",
+      "EUde": "Muschel",
+      "EUes": "conchas marinas",
+      "USes": "conchas marinas",
+      "EUfr": "coquillage",
+      "USfr": "coquillage",
+      "EUit": "conchiglia",
+      "EUnl": "schelpenstijl",
+      "CNzh": "贝壳",
+      "TWzh": "貝殼",
+      "JPja": "かいがら",
+      "KRko": "조개",
+      "EUru": "Ракушки"
+    }
+  },
+  {
+    "id": 8,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "mush",
+      "EUen": "mush",
+      "EUde": "Pilz",
+      "EUes": "hongo",
+      "USes": "hongo",
+      "EUfr": "champi",
+      "USfr": "champi",
+      "EUit": "fungo",
+      "EUnl": "paddenstoelenstijl",
+      "CNzh": "蘑菇",
+      "TWzh": "蘑菇",
+      "JPja": "キノコ",
+      "KRko": "버섯",
+      "EUru": "Грибы"
+    }
+  },
+  {
+    "id": 9,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cute",
+      "EUen": "cute",
+      "EUde": "Bonbon",
+      "EUes": "cuqui",
+      "USes": "adorable",
+      "EUfr": "mimi",
+      "USfr": "cute",
+      "EUit": "grazioso",
+      "EUnl": "schattige stijl",
+      "CNzh": "可爱",
+      "TWzh": "可愛",
+      "JPja": "キュート",
+      "KRko": "큐트",
+      "EUru": "Милые предметы"
+    }
+  },
+  {
+    "id": 10,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bamboo",
+      "EUen": "bamboo",
+      "EUde": "Bambus",
+      "EUes": "bambú",
+      "USes": "bambú",
+      "EUfr": "bambou",
+      "USfr": "bambou",
+      "EUit": "bambù",
+      "EUnl": "bamboestijl",
+      "CNzh": "竹子",
+      "TWzh": "竹子",
+      "JPja": "たけ",
+      "KRko": "대나무",
+      "EUru": "Бамбук"
+    }
+  },
+  {
+    "id": 11,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden block",
+      "EUen": "wooden block",
+      "EUde": "Bauklotz",
+      "EUes": "construcciones",
+      "USes": "construcciones",
+      "EUfr": "blocs de bois",
+      "USfr": "blocs de bois",
+      "EUit": "blocchi di legno",
+      "EUnl": "houtblokstijl",
+      "CNzh": "积木",
+      "TWzh": "積木",
+      "JPja": "つみき",
+      "KRko": "나무블록",
+      "EUru": "Деревянные блоки"
+    }
+  },
+  {
+    "id": 12,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "spooky",
+      "EUen": "spooky",
+      "EUde": "Kürbis",
+      "EUes": "calabaza",
+      "USes": "calabaza",
+      "EUfr": "Halloween",
+      "USfr": "Halloween",
+      "EUit": "brividi",
+      "EUnl": "halloweenstijl",
+      "CNzh": "万圣节",
+      "TWzh": "萬聖節",
+      "JPja": "ハロウィン",
+      "KRko": "할로윈",
+      "EUru": "Страшилки"
+    }
+  },
+  {
+    "id": 13,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fruits",
+      "EUen": "fruits",
+      "EUde": "Obst",
+      "EUes": "frutal",
+      "USes": "frutal",
+      "EUfr": "fruit",
+      "USfr": "fruit",
+      "EUit": "frutta",
+      "EUnl": "fruitstijl",
+      "CNzh": "水果",
+      "TWzh": "水果",
+      "JPja": "フルーツ",
+      "KRko": "프루트",
+      "EUru": "Фрукты"
+    }
+  },
+  {
+    "id": 14,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "log",
+      "EUen": "log",
+      "EUde": "Baumstamm",
+      "EUes": "leño",
+      "USes": "troncos",
+      "EUfr": "tronc",
+      "USfr": "tronc",
+      "EUit": "tronco",
+      "EUnl": "boomstamstijl",
+      "CNzh": "圆木",
+      "TWzh": "圓木",
+      "JPja": "まるた",
+      "KRko": "통나무",
+      "EUru": "Бревна"
+    }
+  },
+  {
+    "id": 15,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "wooden",
+      "EUen": "wooden",
+      "EUde": "Holz",
+      "EUes": "madera",
+      "USes": "madera",
+      "EUfr": "bois",
+      "USfr": "bois",
+      "EUit": "legno",
+      "EUnl": "houten stijl",
+      "CNzh": "木制",
+      "TWzh": "木製",
+      "JPja": "もくせい",
+      "KRko": "목제",
+      "EUru": "Дерево"
+    }
+  },
+  {
+    "id": 16,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "rattan",
+      "EUen": "rattan",
+      "EUde": "Flecht",
+      "EUes": "ratán",
+      "USes": "mimbre",
+      "EUfr": "jonc",
+      "USfr": "rotin",
+      "EUit": "rattan",
+      "EUnl": "rotanstijl",
+      "CNzh": "藤编",
+      "TWzh": "藤編",
+      "JPja": "ラタン",
+      "KRko": "라탄",
+      "EUru": "Ротанг"
+    }
+  },
+  {
+    "id": 17,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "throwback",
+      "EUen": "throwback",
+      "EUde": "Nostalgie",
+      "EUes": "fantasía",
+      "USes": "fantasía",
+      "EUfr": "nostalgie",
+      "USfr": "nostalgie",
+      "EUit": "fantasia",
+      "EUnl": "speelgoedstijl",
+      "CNzh": "玩具",
+      "TWzh": "TOY",
+      "JPja": "TOY",
+      "KRko": "TOY",
+      "EUru": "Винтаж"
+    }
+  },
+  {
+    "id": 18,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "frozen",
+      "EUen": "frozen",
+      "EUde": "Eis",
+      "EUes": "iceberg",
+      "USes": "iceberg",
+      "EUfr": "arctique",
+      "USfr": "arctique",
+      "EUit": "iceberg",
+      "EUnl": "ijsstijl",
+      "CNzh": "冰块",
+      "TWzh": "冰塊",
+      "JPja": "こおり",
+      "KRko": "얼음",
+      "EUru": "Лед"
+    }
+  },
+  {
+    "id": 19,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stars",
+      "EUen": "stars",
+      "EUde": "Stern",
+      "EUes": "estrella",
+      "USes": "estrella",
+      "EUfr": "étoile",
+      "USfr": "étoile",
+      "EUit": "stella",
+      "EUnl": "sterrenstijl",
+      "CNzh": "星星",
+      "TWzh": "星星",
+      "JPja": "ほし",
+      "KRko": "별",
+      "EUru": "Звезды"
+    }
+  },
+  {
+    "id": 20,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "flowers",
+      "EUen": "flowers",
+      "EUde": "Blumen",
+      "EUes": "flores",
+      "USes": "flores",
+      "EUfr": "fleur",
+      "USfr": "fleur",
+      "EUit": "fiori",
+      "EUnl": "bloemenstijl",
+      "CNzh": "花",
+      "TWzh": "花朵",
+      "JPja": "はな",
+      "KRko": "꽃",
+      "EUru": "Цветы"
+    }
+  },
+  {
+    "id": 21,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "tree's bounty or leaves",
+      "EUen": "tree's bounty or leaves",
+      "EUde": "Baumfrucht",
+      "EUes": "frutos del bosque y hojas",
+      "USes": "frutos del bosque y hojas",
+      "EUfr": "fruits des bois ou feuille",
+      "USfr": "fruits des bois ou feuille",
+      "EUit": "frutti dell'albero e foglie",
+      "EUnl": "herfst- en bladerenstijl",
+      "CNzh": "树果·落叶",
+      "TWzh": "樹果‧落葉",
+      "JPja": "きのみ・おちば",
+      "KRko": "나무 열매/낙엽",
+      "EUru": "Дары леса"
+    }
+  },
+  {
+    "id": 22,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry blossoms",
+      "EUen": "cherry blossoms",
+      "EUde": "Kirschblüten",
+      "EUes": "flor de cerezo",
+      "USes": "flor de cerezo",
+      "EUfr": "fleur de cerisier",
+      "USfr": "fleur de cerisier",
+      "EUit": "ciliegio",
+      "EUnl": "kersenbloesemstijl",
+      "CNzh": "樱花",
+      "TWzh": "櫻花",
+      "JPja": "さくら",
+      "KRko": "벚꽃",
+      "EUru": "Вишня в цвету"
+    }
+  },
+  {
+    "id": 24,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cardboard",
+      "EUen": "cardboard",
+      "EUde": "Karton",
+      "EUes": "cartón",
+      "USes": "cartón",
+      "EUfr": "carton",
+      "USfr": "carton",
+      "EUit": "scatolone",
+      "EUnl": "kartonnen stijl",
+      "CNzh": "纸箱",
+      "TWzh": "紙箱",
+      "JPja": "ダンボール",
+      "KRko": "박스",
+      "EUru": "Картон"
+    }
+  },
+  {
+    "id": 25,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "motherly",
+      "EUen": "motherly",
+      "EUde": "Mama",
+      "EUes": "mamá",
+      "USes": "mamá",
+      "EUfr": "de maman",
+      "USfr": "de maman",
+      "EUit": "mamma",
+      "EUnl": "mama-stijl",
+      "CNzh": "妈妈",
+      "TWzh": "媽媽",
+      "JPja": "はは",
+      "KRko": "엄마",
+      "EUru": "Мама"
+    }
+  },
+  {
+    "id": 26,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "festive",
+      "EUen": "festive",
+      "EUde": "Festtag",
+      "EUes": "festiva",
+      "USes": "festiva",
+      "EUfr": "festive",
+      "USfr": "festive",
+      "EUit": "festivo",
+      "EUnl": "feeststijl",
+      "CNzh": "圣诞节",
+      "TWzh": "聖誕節",
+      "JPja": "クリスマス",
+      "KRko": "크리스마스",
+      "EUru": "Праздник"
+    }
+  },
+  {
+    "id": 27,
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day",
+      "EUen": "Bunny Day",
+      "EUde": "Häschentag",
+      "EUes": "Caza del Huevo",
+      "USes": "Caza del Huevo",
+      "EUfr": "Fête des œufs",
+      "USfr": "Fête des œufs",
+      "EUit": "caccia all'uovo",
+      "EUnl": "eierstijl",
+      "CNzh": "复活节",
+      "TWzh": "復活節",
+      "JPja": "イースター",
+      "KRko": "이스터",
+      "EUru": "День зайцев"
+    }
+  },
+  {
+    "id": 28,
+    "version": "1.2.0",
+    "locale": {
+      "USen": "wedding",
+      "EUen": "wedding",
+      "EUde": "Hochzeit",
+      "EUes": "boda",
+      "USes": "boda",
+      "EUfr": "mariage",
+      "USfr": "mariage",
+      "EUit": "fiori d'arancio",
+      "EUnl": "trouwstijl",
+      "CNzh": "婚礼",
+      "TWzh": "婚禮",
+      "JPja": "ウェディング",
+      "KRko": "웨딩",
+      "EUru": "Свадьба"
+    }
+  }
+]
