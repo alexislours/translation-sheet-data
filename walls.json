@@ -4938,5 +4938,45 @@
       "KRko": "초록 웨딩 벽",
       "EUru": "зеленая свадебная стена"
     }
+  },
+  {
+    "id": "RoomWall_12566",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid wall",
+      "EUen": "mermaid wall",
+      "EUde": "Nixentapete",
+      "EUes": "pared sirena",
+      "USes": "pared sirena",
+      "EUfr": "mur sirène",
+      "USfr": "mur sirène",
+      "EUit": "muro sirena",
+      "EUnl": "meerminnenwand",
+      "CNzh": "人鱼壁纸",
+      "TWzh": "人魚壁紙",
+      "JPja": "マーメイドなかべがみ",
+      "KRko": "머메이드 벽지",
+      "EUru": "стена русалки"
+    }
+  },
+  {
+    "id": "RoomWall_12567",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate wall",
+      "EUen": "pirate wall",
+      "EUde": "Piratentapete",
+      "EUes": "pared pirata",
+      "USes": "pared pirata",
+      "EUfr": "mur pirate",
+      "USfr": "mur pirate",
+      "EUit": "muro pirata",
+      "EUnl": "piratenwand",
+      "CNzh": "海盗壁纸",
+      "TWzh": "海盜壁紙",
+      "JPja": "かいぞくのかべがみ",
+      "KRko": "해적 벽지",
+      "EUru": "пиратская стена"
+    }
   }
 ]

@@ -3518,5 +3518,45 @@
       "KRko": "초록 웨딩 바닥",
       "EUru": "зеленый свадебный пол"
     }
+  },
+  {
+    "id": "RoomFloor_12568",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid flooring",
+      "EUen": "mermaid flooring",
+      "EUde": "Nixenboden",
+      "EUes": "suelo sirena",
+      "USes": "suelo sirena",
+      "EUfr": "sol sirène",
+      "USfr": "sol sirène",
+      "EUit": "pavimento sirena",
+      "EUnl": "meerminnenvloer",
+      "CNzh": "人鱼地板",
+      "TWzh": "人魚地板",
+      "JPja": "マーメイドなゆか",
+      "KRko": "머메이드 바닥",
+      "EUru": "пол русалки"
+    }
+  },
+  {
+    "id": "RoomFloor_12569",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate flooring",
+      "EUen": "pirate flooring",
+      "EUde": "Piratenboden",
+      "EUes": "suelo pirata",
+      "USes": "suelo pirata",
+      "EUfr": "sol pirate",
+      "USfr": "sol pirate",
+      "EUit": "pavimento pirata",
+      "EUnl": "piratenvloer",
+      "CNzh": "海盗地板",
+      "TWzh": "海盜地板",
+      "JPja": "かいぞくのゆか",
+      "KRko": "해적 바닥",
+      "EUru": "пиратский пол"
+    }
   }
 ]

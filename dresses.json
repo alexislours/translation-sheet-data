@@ -783,8 +783,8 @@
     "id": 141,
     "version": "1.2.0",
     "locale": {
-      "USen": "cake dress",
-      "EUen": "cake dress",
+      "USen": "wedding dress",
+      "EUen": "wedding dress",
       "EUde": "Brautkleid",
       "EUes": "vestido nupcial",
       "USes": "vestido nupcial",
@@ -1957,6 +1957,26 @@
       "JPja": "みこしょうぞく",
       "KRko": "무녀 의상",
       "EUru": "наряд мико"
+    }
+  },
+  {
+    "id": 294,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate dress",
+      "EUen": "pirate dress",
+      "EUde": "Piratenkleid",
+      "EUes": "vestido de pirata",
+      "USes": "vestido de pirata",
+      "EUfr": "robe de pirate",
+      "USfr": "robe de pirate",
+      "EUit": "vestito da pirata",
+      "EUnl": "piratenjurk",
+      "CNzh": "海盗连身裙",
+      "TWzh": "海盜連身裙",
+      "JPja": "かいぞくのワンピース",
+      "KRko": "해적 원피스",
+      "EUru": "платье пиратки"
     }
   },
   {
@@ -4717,6 +4737,86 @@
       "JPja": "じゅんぱくのタキシード",
       "KRko": "순백 턱시도",
       "EUru": "свадебный смокинг"
+    }
+  },
+  {
+    "id": 1230,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate-treasure robe",
+      "EUen": "pirate-treasure robe",
+      "EUde": "Piratenschatzgewand",
+      "EUes": "casaca del tesoro pirata",
+      "USes": "casaca del tesoro pirata",
+      "EUfr": "tunique de butin pirate",
+      "USfr": "tunique trésor pirate",
+      "EUit": "costume tesoro pirata",
+      "EUnl": "piratenjas",
+      "CNzh": "海盗宝物长袍",
+      "TWzh": "海盜寶物長袍",
+      "JPja": "かいぞくのおたからローブ",
+      "KRko": "호화로운 해적 로브",
+      "EUru": "пиратский камзол"
+    }
+  },
+  {
+    "id": 1231,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate outfit",
+      "EUen": "pirate outfit",
+      "EUde": "Piraten-Outfit",
+      "EUes": "traje de pirata",
+      "USes": "traje de pirata",
+      "EUfr": "tenue de pirate",
+      "USfr": "tenue de pirate",
+      "EUit": "costume da mozzo pirata",
+      "EUnl": "piratenoutfit",
+      "CNzh": "海盗服",
+      "TWzh": "海盜服",
+      "JPja": "かいぞくのふく",
+      "KRko": "해적 옷",
+      "EUru": "пиратский наряд"
+    }
+  },
+  {
+    "id": 1244,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid fishy dress",
+      "EUen": "mermaid fishy dress",
+      "EUde": "Nixen-Fischkleid",
+      "EUes": "vestido cola de sirena",
+      "USes": "vestido cola de sirena",
+      "EUfr": "robe océane de sirène",
+      "USfr": "robe océane de sirène",
+      "EUit": "abito a scaglie sirena",
+      "EUnl": "meerminnenjurk",
+      "CNzh": "人鱼鱼儿洋装",
+      "TWzh": "人魚魚兒洋裝",
+      "JPja": "マーメイドなおさかなドレス",
+      "KRko": "머메이드 물고기 드레스",
+      "EUru": "платье русалки «Рыбка»"
+    }
+  },
+  {
+    "id": 1245,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid princess dress",
+      "EUen": "mermaid princess dress",
+      "EUde": "Nixen-Prinzessinnenkleid",
+      "EUes": "vestido princesa sirena",
+      "USes": "vestido princesa sirena",
+      "EUfr": "robe de princesse sirène",
+      "USfr": "robe de princesse sirène",
+      "EUit": "abito principessa sirena",
+      "EUnl": "meerminprinsessenjurk",
+      "CNzh": "人鱼公主洋装",
+      "TWzh": "人魚公主洋裝",
+      "JPja": "マーメイドなプリンセスドレス",
+      "KRko": "머메이드 공주 드레스",
+      "EUru": "платье русалки «Царевна»"
     }
   }
 ]

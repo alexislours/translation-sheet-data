@@ -817,5 +817,45 @@
       "KRko": "깨빈의 영혼",
       "EUru": "частицы духа Уиспа"
     }
+  },
+  {
+    "id": "PirateQuest_13105",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "communicator",
+      "EUen": "communicator",
+      "EUde": "Fernsprecher",
+      "EUes": "comunicador",
+      "USes": "comunicador",
+      "EUfr": "émetteur",
+      "USfr": "émetteur",
+      "EUit": "comunicatore",
+      "EUnl": "marifoon",
+      "CNzh": "通信装置",
+      "TWzh": "通訊裝置",
+      "JPja": "つうしんそうち",
+      "KRko": "통신 장치",
+      "EUru": "коммуникатор"
+    }
+  },
+  {
+    "id": "PirateQuest_13105_pl",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "communicators",
+      "EUen": "communicators",
+      "EUde": "Fernsprecher",
+      "EUes": "comunicadores",
+      "USes": "comunicadores",
+      "EUfr": "émetteurs",
+      "USfr": "émetteurs",
+      "EUit": "comunicatori",
+      "EUnl": "marifoons",
+      "CNzh": "通信装置",
+      "TWzh": "通訊裝置",
+      "JPja": "つうしんそうち",
+      "KRko": "통신 장치",
+      "EUru": "коммуникаторы"
+    }
   }
 ]

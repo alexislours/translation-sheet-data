@@ -2838,5 +2838,25 @@
       "KRko": "초록색 도롱이 하의",
       "EUru": "юбка из зеленых листьев"
     }
+  },
+  {
+    "id": 1227,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate pants",
+      "EUen": "pirate pants",
+      "EUde": "Piratenhose",
+      "EUes": "pantalón de pirata",
+      "USes": "pantalón de pirata",
+      "EUfr": "pantalon de pirate",
+      "USfr": "pantalon de pirate",
+      "EUit": "pantalone da pirata",
+      "EUnl": "piratenbroek",
+      "CNzh": "海盗裤",
+      "TWzh": "海盜褲",
+      "JPja": "かいぞくのズボン",
+      "KRko": "해적 바지",
+      "EUru": "пиратские штаны"
+    }
   }
 ]

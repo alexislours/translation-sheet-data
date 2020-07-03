@@ -380,6 +380,26 @@
     }
   },
   {
+    "id": "gulB",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "Gullivarrr",
+      "EUen": "Gullivarrr",
+      "EUde": "Gullivarrr",
+      "EUes": "Gullivarrr",
+      "USes": "Gullivarrr",
+      "EUfr": "Gullivarrr",
+      "USfr": "Gullivarrr",
+      "EUit": "Gullivarrr",
+      "EUnl": "Gullivarrr",
+      "CNzh": "海盗",
+      "TWzh": "海盜",
+      "JPja": "かいぞく",
+      "KRko": "해적",
+      "EUru": "Гулливарр"
+    }
+  },
+  {
     "id": "hgc",
     "version": "1.0.0",
     "locale": {

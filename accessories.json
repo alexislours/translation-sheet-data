@@ -680,6 +680,26 @@
     }
   },
   {
+    "id": 432,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "snorkel mask",
+      "EUen": "snorkel mask",
+      "EUde": "Taucherbrille",
+      "EUes": "gafa de buceo",
+      "USes": "gafa de buceo",
+      "EUfr": "masque plongée",
+      "USfr": "masque plongée",
+      "EUit": "maschera con boccaglio",
+      "EUnl": "duikbril",
+      "CNzh": "潜水镜附呼吸管",
+      "TWzh": "潛水鏡附呼吸管",
+      "JPja": "シュノーケル",
+      "KRko": "스노클",
+      "EUru": "маска для ныряния"
+    }
+  },
+  {
     "id": 433,
     "version": "1.0.0",
     "locale": {
@@ -1437,6 +1457,66 @@
       "JPja": "ＤＡＬサングラス",
       "KRko": "DAL 선글라스",
       "EUru": "солнечные очки DAL"
+    }
+  },
+  {
+    "id": 1225,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate eye patch",
+      "EUen": "pirate eye patch",
+      "EUde": "Piratenaugenklappe",
+      "EUes": "parche pirata",
+      "USes": "parche pirata",
+      "EUfr": "cache-œil de pirate",
+      "USfr": "cache-œil de pirate",
+      "EUit": "benda piratesca",
+      "EUnl": "piratenooglapje",
+      "CNzh": "海盗眼罩",
+      "TWzh": "海盜眼罩",
+      "JPja": "かいぞくのアイパッチ",
+      "KRko": "해적 안대",
+      "EUru": "пиратская повязка"
+    }
+  },
+  {
+    "id": 1226,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate beard",
+      "EUen": "pirate beard",
+      "EUde": "Piratenbart",
+      "EUes": "barba de pirata",
+      "USes": "barba de pirata",
+      "EUfr": "barbe de pirate",
+      "USfr": "barbe de pirate",
+      "EUit": "barba da pirata",
+      "EUnl": "piratenbaard",
+      "CNzh": "海盗胡子",
+      "TWzh": "海盜鬍子",
+      "JPja": "かいぞくのひげ",
+      "KRko": "해적 수염",
+      "EUru": "пиратская борода"
+    }
+  },
+  {
+    "id": 1300,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "Nook Inc. snorkel",
+      "EUen": "Nook Inc. snorkel",
+      "EUde": "Nook-Inc.-Schnorchel",
+      "EUes": "gafa de buceo Nook Inc.",
+      "USes": "gafa de buceo Nook Inc.",
+      "EUfr": "masque avec tuba Nook Inc.",
+      "USfr": "masque avec tuba Nook Inc.",
+      "EUit": "maschera mare Nook Inc.",
+      "EUnl": "Nook Inc.-duikbril",
+      "CNzh": "Nook Inc.潜水镜附呼吸管",
+      "TWzh": "Nook Inc.潛水鏡附呼吸管",
+      "JPja": "たぬきかいはつシュノーケル",
+      "KRko": "Nook Inc. 스노클",
+      "EUru": "подводная маска Nook Inc."
     }
   }
 ]

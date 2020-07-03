@@ -1738,5 +1738,45 @@
       "KRko": "순백 슈즈",
       "EUru": "свадебные туфли"
     }
+  },
+  {
+    "id": 1223,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid shoes",
+      "EUen": "mermaid shoes",
+      "EUde": "Paar Nixenschuhe",
+      "EUes": "zapato sirena",
+      "USes": "zapato sirena",
+      "EUfr": "paire de chaussures sirène",
+      "USfr": "paire de chaussures sirène",
+      "EUit": "paio scarpe sirena",
+      "EUnl": "meerminnenballerina's",
+      "CNzh": "人鱼鞋",
+      "TWzh": "人魚鞋",
+      "JPja": "マーメイドなくつ",
+      "KRko": "머메이드 구두",
+      "EUru": "туфли русалки"
+    }
+  },
+  {
+    "id": 1228,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate boots",
+      "EUen": "pirate boots",
+      "EUde": "Paar Piratenstiefel",
+      "EUes": "bota pirata",
+      "USes": "bota pirata",
+      "EUfr": "paire de bottes de pirate",
+      "USfr": "paire de bottes de pirate",
+      "EUit": "paio di stivali da pirata",
+      "EUnl": "piratenlaarzen",
+      "CNzh": "海盗靴",
+      "TWzh": "海盜靴",
+      "JPja": "かいぞくのブーツ",
+      "KRko": "해적 부츠",
+      "EUru": "пиратские сапоги"
+    }
   }
 ]

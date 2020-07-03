@@ -480,6 +480,46 @@
     }
   },
   {
+    "id": "CraftMaterial_12968",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pearl",
+      "EUen": "pearl",
+      "EUde": "Perle",
+      "EUes": "perla",
+      "USes": "perla",
+      "EUfr": "perle",
+      "USfr": "perle",
+      "EUit": "perla",
+      "EUnl": "parel",
+      "CNzh": "珍珠",
+      "TWzh": "珍珠",
+      "JPja": "しんじゅ",
+      "KRko": "진주",
+      "EUru": "жемчужина"
+    }
+  },
+  {
+    "id": "CraftMaterial_12968_pl",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pearls",
+      "EUen": "pearls",
+      "EUde": "Perlen",
+      "EUes": "perlas",
+      "USes": "perlas",
+      "EUfr": "perles",
+      "USfr": "perles",
+      "EUit": "perle",
+      "EUnl": "parels",
+      "CNzh": "珍珠",
+      "TWzh": "珍珠",
+      "JPja": "しんじゅ",
+      "KRko": "진주",
+      "EUru": "жемчужины"
+    }
+  },
+  {
     "id": "CraftPhoneCase_08760",
     "version": "1.0.0",
     "locale": {

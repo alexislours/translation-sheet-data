@@ -700,6 +700,26 @@
     }
   },
   {
+    "id": 593,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate's hat",
+      "EUen": "pirate's hat",
+      "EUde": "Piratenhut",
+      "EUes": "sombrero pirata",
+      "USes": "sombrero pirata",
+      "EUfr": "chapeau de pirate",
+      "USfr": "chapeau de pirate",
+      "EUit": "cappello da pirata",
+      "EUnl": "piratenhoed",
+      "CNzh": "海盗帽子",
+      "TWzh": "海盜帽子",
+      "JPja": "かいぞくのぼうし",
+      "KRko": "해적 모자",
+      "EUru": "пиратская двууголка"
+    }
+  },
+  {
     "id": 594,
     "version": "1.0.0",
     "locale": {
@@ -2937,6 +2957,66 @@
       "JPja": "げしさいのはなかんむり",
       "KRko": "하지 화관",
       "EUru": "корона к Празднику лета"
+    }
+  },
+  {
+    "id": 1224,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid tiara",
+      "EUen": "mermaid tiara",
+      "EUde": "Nixen-Diadem",
+      "EUes": "tiara de sirena",
+      "USes": "tiara de sirena",
+      "EUfr": "tiare de sirène",
+      "USfr": "tiare de sirène",
+      "EUit": "tiara sirena",
+      "EUnl": "meerminnentiara",
+      "CNzh": "人鱼头冠",
+      "TWzh": "人魚頭冠",
+      "JPja": "マーメイドなティアラ",
+      "KRko": "머메이드 티아라",
+      "EUru": "диадема русалки"
+    }
+  },
+  {
+    "id": 1229,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate bandanna",
+      "EUen": "pirate bandanna",
+      "EUde": "Piratenkopftuch",
+      "EUes": "pañuelo de pirata",
+      "USes": "pañuelo de pirata",
+      "EUfr": "bandeau de pirate",
+      "USfr": "bandeau de pirate",
+      "EUit": "bandana da pirata",
+      "EUnl": "piratenbandana",
+      "CNzh": "海盗头巾",
+      "TWzh": "海盜頭巾",
+      "JPja": "かいぞくのバンダナ",
+      "KRko": "해적 반다나",
+      "EUru": "пиратская бандана"
+    }
+  },
+  {
+    "id": 1255,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate-treasure crown",
+      "EUen": "pirate-treasure crown",
+      "EUde": "Piratenschatzkrone",
+      "EUes": "corona del tesoro pirata",
+      "USes": "corona del tesoro pirata",
+      "EUfr": "coiffe de butin pirate",
+      "USfr": "coiffe de butin pirate",
+      "EUit": "corona tesoro pirata",
+      "EUnl": "piratenkroon",
+      "CNzh": "海盗宝物王冠",
+      "TWzh": "海盜寶物王冠",
+      "JPja": "かいぞくのおたからおうかん",
+      "KRko": "호화로운 해적 왕관",
+      "EUru": "пиратская корона"
     }
   }
 ]

@@ -2580,6 +2580,26 @@
     }
   },
   {
+    "id": "Ftr_01182",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "bamboo grass",
+      "EUen": "bamboo grass",
+      "EUde": "Tanabata-Bambus",
+      "EUes": "caña de bambú",
+      "USes": "cesta de pícnic",
+      "EUfr": "bambou à vœux",
+      "USfr": "bambou à vœux",
+      "EUit": "pianta tradizionale",
+      "EUnl": "bamboe",
+      "CNzh": "七夕竹",
+      "TWzh": "七夕竹",
+      "JPja": "たなばたのささ",
+      "KRko": "소원성취 대나무",
+      "EUru": "ветвь бамбука"
+    }
+  },
+  {
     "id": "Ftr_01185",
     "version": "1.0.0",
     "locale": {
@@ -2997,6 +3017,46 @@
       "JPja": "たる",
       "KRko": "나무통",
       "EUru": "бочка"
+    }
+  },
+  {
+    "id": "Ftr_01268",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate-ship cannon",
+      "EUen": "pirate-ship cannon",
+      "EUde": "Piratenschiffskanone",
+      "EUes": "cañón de barco pirata",
+      "USes": "cañón de barco pirata",
+      "EUfr": "canon de bateau pirate",
+      "USfr": "canon de bateau pirate",
+      "EUit": "cannone pirata",
+      "EUnl": "piratenscheepskanon",
+      "CNzh": "海盗大炮",
+      "TWzh": "海盜大砲",
+      "JPja": "かいぞくのたいほう",
+      "KRko": "해적 대포",
+      "EUru": "пиратская пушка"
+    }
+  },
+  {
+    "id": "Ftr_01273",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate-ship helm",
+      "EUen": "pirate-ship helm",
+      "EUde": "Piratenschiffssteuerrad",
+      "EUes": "timón de barco pirata",
+      "USes": "timón de barco pirata",
+      "EUfr": "barre de bateau pirate",
+      "USfr": "barre de bateau pirate",
+      "EUit": "timone pirata",
+      "EUnl": "piratenroer",
+      "CNzh": "海盗船舵",
+      "TWzh": "海盜船舵",
+      "JPja": "かいぞくのかじ",
+      "KRko": "해적 방향키",
+      "EUru": "пиратский штурвал"
     }
   },
   {
@@ -7303,8 +7363,8 @@
     "id": "Ftr_03584",
     "version": "1.0.0",
     "locale": {
-      "USen": "writing poster",
-      "EUen": "writing poster",
+      "USen": "study poster",
+      "EUen": "study poster",
       "EUde": "Lern-Poster",
       "EUes": "cartel aprendizaje",
       "USes": "póster de aprendizaje",
@@ -7943,8 +8003,8 @@
     "id": "Ftr_03701",
     "version": "1.0.0",
     "locale": {
-      "USen": "writing desk",
-      "EUen": "writing desk",
+      "USen": "study desk",
+      "EUen": "study desk",
       "EUde": "Lern-Schreibtisch",
       "EUes": "escritorio aprendizaje",
       "USes": "escritorio de aprendizaje",
@@ -7963,8 +8023,8 @@
     "id": "Ftr_03702",
     "version": "1.0.0",
     "locale": {
-      "USen": "writing chair",
-      "EUen": "writing chair",
+      "USen": "study chair",
+      "EUen": "study chair",
       "EUde": "Lern-Stuhl",
       "EUes": "silla aprendizaje",
       "USes": "silla de aprendizaje",
@@ -16880,6 +16940,226 @@
     }
   },
   {
+    "id": "Ftr_12552",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid table",
+      "EUen": "mermaid table",
+      "EUde": "Nixentisch",
+      "EUes": "mesa sirena",
+      "USes": "mesa sirena",
+      "EUfr": "table sirène",
+      "USfr": "table sirène",
+      "EUit": "tavolo sirena",
+      "EUnl": "meerminnentafel",
+      "CNzh": "人鱼桌",
+      "TWzh": "人魚桌",
+      "JPja": "マーメイドなテーブル",
+      "KRko": "머메이드 테이블",
+      "EUru": "стол русалки"
+    }
+  },
+  {
+    "id": "Ftr_12553",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid shelf",
+      "EUen": "mermaid shelf",
+      "EUde": "Nixenregal",
+      "EUes": "estantería sirena",
+      "USes": "estantería sirena",
+      "EUfr": "étagère sirène",
+      "USfr": "étagère sirène",
+      "EUit": "scaffale sirena",
+      "EUnl": "meerminnenkastje",
+      "CNzh": "人鱼架子",
+      "TWzh": "人魚架子",
+      "JPja": "マーメイドなシェルフ",
+      "KRko": "머메이드 쉘프",
+      "EUru": "стеллаж русалки"
+    }
+  },
+  {
+    "id": "Ftr_12554",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid vanity",
+      "EUen": "mermaid vanity",
+      "EUde": "Nixenspiegel",
+      "EUes": "tocador sirena",
+      "USes": "tocador sirena",
+      "EUfr": "coiffeuse sirène",
+      "USfr": "coiffeuse sirène",
+      "EUit": "toletta sirena",
+      "EUnl": "meerminnenmake-uptafel",
+      "CNzh": "人鱼梳妆台",
+      "TWzh": "人魚梳妝台",
+      "JPja": "マーメイドなドレッサー",
+      "KRko": "머메이드 화장대",
+      "EUru": "трюмо русалки"
+    }
+  },
+  {
+    "id": "Ftr_12555",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid screen",
+      "EUen": "mermaid screen",
+      "EUde": "Nixenraumtrenner",
+      "EUes": "biombo sirena",
+      "USes": "biombo sirena",
+      "EUfr": "paravent sirène",
+      "USfr": "paravent sirène",
+      "EUit": "separé sirena",
+      "EUnl": "meerminnenscherm",
+      "CNzh": "人鱼屏风",
+      "TWzh": "人魚屏風",
+      "JPja": "マーメイドなスクリーン",
+      "KRko": "머메이드 파티션",
+      "EUru": "ширма русалки"
+    }
+  },
+  {
+    "id": "Ftr_12556",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid lamp",
+      "EUen": "mermaid lamp",
+      "EUde": "Nixenlampe",
+      "EUes": "lámpara sirena",
+      "USes": "lámpara sirena",
+      "EUfr": "lampe sirène",
+      "USfr": "lampe sirène",
+      "EUit": "lampada sirena",
+      "EUnl": "meerminnenlamp",
+      "CNzh": "人鱼灯",
+      "TWzh": "人魚燈",
+      "JPja": "マーメイドなランプ",
+      "KRko": "머메이드 램프",
+      "EUru": "торшер русалки"
+    }
+  },
+  {
+    "id": "Ftr_12557",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid wall clock",
+      "EUen": "mermaid wall clock",
+      "EUde": "Nixenwanduhr",
+      "EUes": "reloj de pared sirena",
+      "USes": "reloj de pared sirena",
+      "EUfr": "horloge murale sirène",
+      "USfr": "horloge murale sirène",
+      "EUit": "orologio a muro sirena",
+      "EUnl": "meerminnenhangklok",
+      "CNzh": "人鱼壁钟",
+      "TWzh": "人魚壁鐘",
+      "JPja": "マーメイドなウォールクロック",
+      "KRko": "머메이드 벽시계",
+      "EUru": "настенные часы русалки"
+    }
+  },
+  {
+    "id": "Ftr_12558",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid bed",
+      "EUen": "mermaid bed",
+      "EUde": "Nixenbett",
+      "EUes": "cama sirena",
+      "USes": "cama sirena",
+      "EUfr": "lit sirène",
+      "USfr": "lit sirène",
+      "EUit": "letto sirena",
+      "EUnl": "meerminnenbed",
+      "CNzh": "人鱼床铺",
+      "TWzh": "人魚床鋪",
+      "JPja": "マーメイドなベッド",
+      "KRko": "머메이드 침대",
+      "EUru": "кровать русалки"
+    }
+  },
+  {
+    "id": "Ftr_12559",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid closet",
+      "EUen": "mermaid closet",
+      "EUde": "Nixenschrank",
+      "EUes": "armario sirena",
+      "USes": "armario sirena",
+      "EUfr": "armoire sirène",
+      "USfr": "armoire sirène",
+      "EUit": "armadio sirena",
+      "EUnl": "meerminnenkledingkast",
+      "CNzh": "人鱼衣柜",
+      "TWzh": "人魚衣櫃",
+      "JPja": "マーメイドなクロゼット",
+      "KRko": "머메이드 옷장",
+      "EUru": "шкаф русалки"
+    }
+  },
+  {
+    "id": "Ftr_12560",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid sofa",
+      "EUen": "mermaid sofa",
+      "EUde": "Nixensofa",
+      "EUes": "sofá sirena",
+      "USes": "sofá sirena",
+      "EUfr": "canapé sirène",
+      "USfr": "canapé sirène",
+      "EUit": "sofà sirena",
+      "EUnl": "meerminnenbank",
+      "CNzh": "人鱼沙发",
+      "TWzh": "人魚沙發",
+      "JPja": "マーメイドなソファ",
+      "KRko": "머메이드 소파",
+      "EUru": "диван русалки"
+    }
+  },
+  {
+    "id": "Ftr_12561",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid dresser",
+      "EUen": "mermaid dresser",
+      "EUde": "Nixenkommode",
+      "EUes": "cómoda sirena",
+      "USes": "cómoda sirena",
+      "EUfr": "commode sirène",
+      "USfr": "commode sirène",
+      "EUit": "comò sirena",
+      "EUnl": "meerminnenladekast",
+      "CNzh": "人鱼矮柜",
+      "TWzh": "人魚矮櫃",
+      "JPja": "マーメイドなチェスト",
+      "KRko": "머메이드 수납장",
+      "EUru": "комод русалки"
+    }
+  },
+  {
+    "id": "Ftr_12562",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid chair",
+      "EUen": "mermaid chair",
+      "EUde": "Nixenstuh",
+      "EUes": "silla sirena",
+      "USes": "silla sirena",
+      "EUfr": "chaise sirène",
+      "USfr": "chaise sirène",
+      "EUit": "sedia sirena",
+      "EUnl": "meerminnenstoel",
+      "CNzh": "人鱼椅",
+      "TWzh": "人魚椅",
+      "JPja": "マーメイドなチェア",
+      "KRko": "머메이드 체어",
+      "EUru": "стул русалки"
+    }
+  },
+  {
     "id": "Ftr_12565",
     "version": "1.2.0",
     "locale": {
@@ -16897,6 +17177,66 @@
       "JPja": "リサとカイゾーのえざら",
       "KRko": "리사와 리포 그림 그릇",
       "EUru": "тарелка «Риз и Сайрус»"
+    }
+  },
+  {
+    "id": "Ftr_12572",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "sideways pirate barrel",
+      "EUen": "sideways pirate barrel",
+      "EUde": "Piratenfass (liegend)",
+      "EUes": "tonel pirata tumbado",
+      "USes": "tonel pirata tumbado",
+      "EUfr": "tonneau pirate couché",
+      "USfr": "tonneau pirate couché",
+      "EUit": "barile pirata in orizzontale",
+      "EUnl": "liggende piratenvat",
+      "CNzh": "横向海盗木桶",
+      "TWzh": "橫向海盜木桶",
+      "JPja": "よこむきのかいぞくのたる",
+      "KRko": "넘어진 해적 나무통",
+      "EUru": "пиратская бочка на боку"
+    }
+  },
+  {
+    "id": "Ftr_12573",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate-treasure chest",
+      "EUen": "pirate-treasure chest",
+      "EUde": "Piratenschatzkiste",
+      "EUes": "cofre del tesoro pirata",
+      "USes": "cofre del tesoro pirata",
+      "EUfr": "coffre de butin pirate",
+      "USfr": "coffre trésor pirate",
+      "EUit": "forziere pirata",
+      "EUnl": "piratenschatkist",
+      "CNzh": "海盗宝箱",
+      "TWzh": "海盜寶箱",
+      "JPja": "かいぞくのたからばこ",
+      "KRko": "해적 보물 상자",
+      "EUru": "пиратский сундук"
+    }
+  },
+  {
+    "id": "Ftr_12574",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate barrel",
+      "EUen": "pirate barrel",
+      "EUde": "Piratenfass",
+      "EUes": "tonel pirata",
+      "USes": "tonel pirata",
+      "EUfr": "tonneau pirate",
+      "USfr": "tonneau pirate",
+      "EUit": "barile pirata in verticale",
+      "EUnl": "piratenvat",
+      "CNzh": "海盗木桶",
+      "TWzh": "海盜木桶",
+      "JPja": "かいぞくのたる",
+      "KRko": "해적 나무통",
+      "EUru": "пиратская бочка"
     }
   },
   {

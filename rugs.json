@@ -2640,6 +2640,46 @@
     }
   },
   {
+    "id": "Rug_12563",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "mermaid rug",
+      "EUen": "mermaid rug",
+      "EUde": "Nixenteppich",
+      "EUes": "alfombra sirena",
+      "USes": "alfombra sirena",
+      "EUfr": "tapis sirène",
+      "USfr": "tapis sirène",
+      "EUit": "tappeto sirena",
+      "EUnl": "meerminnentapijt",
+      "CNzh": "人鱼地毯",
+      "TWzh": "人魚地毯",
+      "JPja": "マーメイドなラグ",
+      "KRko": "머메이드 러그",
+      "EUru": "ковер русалки"
+    }
+  },
+  {
+    "id": "Rug_12564",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate rug",
+      "EUen": "pirate rug",
+      "EUde": "Piratenteppich",
+      "EUes": "alfombra pirata",
+      "USes": "alfombra pirata",
+      "EUfr": "tapis pirate",
+      "USfr": "tapis pirate",
+      "EUit": "tappeto pirata",
+      "EUnl": "piratentapijt",
+      "CNzh": "海盗地毯",
+      "TWzh": "海盜地毯",
+      "JPja": "かいぞくのラグ",
+      "KRko": "해적 러그",
+      "EUru": "пиратский ковер"
+    }
+  },
+  {
     "id": "RugMyDesign_08823",
     "version": "1.0.0",
     "locale": {
