@@ -188,7 +188,7 @@
       "EUde": "Absperrhütchen",
       "EUes": "cono",
       "USes": "cono",
-      "EUfr": "cône orange",
+      "EUfr": "cône",
       "USfr": "cône",
       "EUit": "cono",
       "EUnl": "verkeerskegel",
@@ -987,7 +987,7 @@
       "EUen": "tea table",
       "EUde": "Teetischchen",
       "EUes": "mesita",
-      "USes": "mesita",
+      "USes": "mesa redonda",
       "EUfr": "table à thé",
       "USfr": "table à thé",
       "EUit": "tavolo da tè",
@@ -2195,7 +2195,7 @@
       "CNzh": "沙坑",
       "TWzh": "沙坑",
       "JPja": "すなば",
-      "KRko": "모래사장",
+      "KRko": "모래 놀이 세트",
       "EUru": "песочница"
     }
   },
@@ -3825,7 +3825,7 @@
     "locale": {
       "USen": "wooden-block chest",
       "EUen": "wooden-block chest",
-      "EUde": "Bauklotzregal",
+      "EUde": "Bauklotzkommode",
       "EUes": "cómoda construcciones",
       "USes": "cómoda construcciones",
       "EUfr": "commode blocs de bois",
@@ -4505,12 +4505,12 @@
     "locale": {
       "USen": "trash bags",
       "EUen": "trash bags",
-      "EUde": "Müll",
-      "EUes": "basura",
-      "USes": "basura",
+      "EUde": "Müllsack-Set",
+      "EUes": "par de bolsas de basura",
+      "USes": "par de bolsas de basura",
       "EUfr": "duo de sacs poubelle",
       "USfr": "duo de sacs poubelle",
-      "EUit": "spazzatura",
+      "EUit": "set sacchi per la spazzatura",
       "EUnl": "vuilniszakken",
       "CNzh": "垃圾袋",
       "TWzh": "垃圾袋",
@@ -4915,7 +4915,7 @@
       "CNzh": "签名板",
       "TWzh": "簽名板",
       "JPja": "しきし",
-      "KRko": "두꺼운 종이",
+      "KRko": "사인지",
       "EUru": "автографы"
     }
   },
@@ -5309,7 +5309,7 @@
       "EUes": "cómoda de madera",
       "USes": "cómoda de madera",
       "EUfr": "commode en bois",
-      "USfr": "coffre en bois",
+      "USfr": "commode en bois",
       "EUit": "comò di legno",
       "EUnl": "houten ladekast",
       "CNzh": "木制矮柜",
@@ -7376,7 +7376,7 @@
       "TWzh": "兒童認知海報",
       "JPja": "がくしゅうポスター",
       "KRko": "공부 포스터",
-      "EUru": "постер «Юный писарь»"
+      "EUru": "постер «Всегда учись»"
     }
   },
   {
@@ -7835,7 +7835,7 @@
       "CNzh": "纸箱",
       "TWzh": "紙箱",
       "JPja": "ダンボール",
-      "KRko": "종이 상자",
+      "KRko": "종이 박스",
       "EUru": "картонная коробка"
     }
   },
@@ -7932,8 +7932,8 @@
       "USfr": "poêle de sauna",
       "EUit": "stufa da sauna",
       "EUnl": "saunaoven",
-      "CNzh": "三温暖电暖炉",
-      "TWzh": "三溫暖電暖爐",
+      "CNzh": "三温暖暖炉",
+      "TWzh": "三溫暖暖爐",
       "JPja": "サウナストーブ",
       "KRko": "사우나 히터",
       "EUru": "печь для сауны"
@@ -8016,7 +8016,7 @@
       "TWzh": "學習書桌",
       "JPja": "がくしゅうデスク",
       "KRko": "공부 책상",
-      "EUru": "письменный стол"
+      "EUru": "стол для учебы"
     }
   },
   {
@@ -8036,7 +8036,7 @@
       "TWzh": "學習椅",
       "JPja": "がくしゅうチェア",
       "KRko": "공부 의자",
-      "EUru": "стул для письм. стола"
+      "EUru": "стул для учебы"
     }
   },
   {
@@ -8527,7 +8527,7 @@
       "EUen": "anthurium plant",
       "EUde": "Flamingoblume",
       "EUes": "flor del flamenco",
-      "USes": "planta de calas rojas",
+      "USes": "planta de calas",
       "EUfr": "anthurium",
       "USfr": "anthurium",
       "EUit": "pianta di anturio",
@@ -11656,7 +11656,7 @@
       "TWzh": "美式足球",
       "JPja": "アメフトボール",
       "KRko": "럭비공",
-      "EUru": "бейсбольный мяч"
+      "EUru": "мяч для регби"
     }
   },
   {
@@ -12527,7 +12527,7 @@
       "EUen": "firewood",
       "EUde": "Feuerholz",
       "EUes": "pila de leña",
-      "USes": "leña",
+      "USes": "pila de leña",
       "EUfr": "tas de bûches",
       "USfr": "tas de bûches",
       "EUit": "legna da ardere",
@@ -13612,8 +13612,8 @@
       "USfr": "coin neutre",
       "EUit": "angolo neutrale",
       "EUnl": "neutrale hoek",
-      "CNzh": "中性色转角",
-      "TWzh": "中性色轉角",
+      "CNzh": "中立转角",
+      "TWzh": "中立轉角",
       "JPja": "ニュートラルコーナー",
       "KRko": "뉴트럴 링 모서리",
       "EUru": "нейтральный угол"
@@ -14488,8 +14488,8 @@
       "EUde": "Blumenständer",
       "EUes": "arreglo floral con pie",
       "USes": "arreglo floral con pie",
-      "EUfr": "stand de fleurs",
-      "USfr": "stand de fleurs",
+      "EUfr": "support de fleurs",
+      "USfr": "support de fleurs",
       "EUit": "portafiori",
       "EUnl": "bloemenstaander",
       "CNzh": "立花篮",
@@ -14847,7 +14847,7 @@
       "EUen": "kitty litter box",
       "EUde": "Katzenklo",
       "EUes": "inodoro para mascotas",
-      "USes": "inodoro para mascotas",
+      "USes": "caja de arena",
       "EUfr": "bac à litière",
       "USfr": "bac à litière",
       "EUit": "lettiera per gatti",
@@ -14912,8 +14912,8 @@
       "USfr": "glacière décorée",
       "EUit": "frigo portatile",
       "EUnl": "bestickerde koelbox",
-      "CNzh": "鱿鱼型保冷箱",
-      "TWzh": "魷型保冷箱",
+      "CNzh": "有型保冷箱",
+      "TWzh": "有型保冷箱",
       "JPja": "イカすクーラーボックス",
       "KRko": "멋진 아이스박스",
       "EUru": "термоконтейнер"
@@ -15247,7 +15247,7 @@
       "EUen": "garden wagon",
       "EUde": "Blumen-Bollerwagen",
       "EUes": "carro de flores",
-      "USes": "carro de flores",
+      "USes": "carreta de flores",
       "EUfr": "brouette décorative",
       "USfr": "brouette décorative",
       "EUit": "carretto con fiori",
@@ -16874,7 +16874,7 @@
       "EUnl": "fossielenplaket",
       "CNzh": "化石挂饰",
       "TWzh": "化石壁飾",
-      "JPja": "カセキのかべかざり",
+      "JPja": "かせきのかべかざり",
       "KRko": "화석 벽장식",
       "EUru": "доска «Окаменелости»"
     }

@@ -18727,7 +18727,7 @@
       "CNzh": "排球",
       "TWzh": "排球",
       "JPja": "バレーボール",
-      "KRko": "배구봉",
+      "KRko": "배구공",
       "EUru": "Волейбольный мяч"
     }
   },
@@ -30540,7 +30540,7 @@
     "locale": {
       "USen": "No finish",
       "EUen": "No finish",
-      "EUde": "Natur",
+      "EUde": "Unbehandelt",
       "EUes": "Sin barnizar",
       "USes": "Sin barnizar",
       "EUfr": "Bois nu",
@@ -56590,7 +56590,7 @@
       "CNzh": "烂掉的石头",
       "TWzh": "爛掉的石頭",
       "JPja": "く朽ちたいし石",
-      "KRko": "부스러진 돌",
+      "KRko": "이끼 낀 돌",
       "EUru": "Замшелый камень"
     }
   },

@@ -193,7 +193,7 @@
       "EUit": "pavimento con rose",
       "EUnl": "rozenvloer",
       "CNzh": "玫瑰地毯",
-      "TWzh": "玫瑰地毯",
+      "TWzh": "玫瑰地板",
       "JPja": "バラのじゅうたん",
       "KRko": "장미 카펫 바닥",
       "EUru": "пол с розами"
@@ -369,7 +369,7 @@
       "EUes": "suelo ratán",
       "USes": "suelo ratán",
       "EUfr": "sol jonc",
-      "USfr": "sol jonc",
+      "USfr": "sol rotin",
       "EUit": "pavimento di rattan",
       "EUnl": "rotanvloer",
       "CNzh": "藤编地板",
@@ -1033,7 +1033,7 @@
       "EUit": "pavimento semplice rosso",
       "EUnl": "simpele rode vloer",
       "CNzh": "红色简约地毯",
-      "TWzh": "紅色簡約地毯",
+      "TWzh": "紅色簡約地板",
       "JPja": "あかいシンプルカーペット",
       "KRko": "빨간 심플 카펫 바닥",
       "EUru": "простой красный пол"
@@ -1053,7 +1053,7 @@
       "EUit": "pavimento semplice blu",
       "EUnl": "simpele blauwe vloer",
       "CNzh": "蓝色简约地毯",
-      "TWzh": "藍色簡約地毯",
+      "TWzh": "藍色簡約地板",
       "JPja": "あおいシンプルカーペット",
       "KRko": "파란 심플 카펫 바닥",
       "EUru": "простой синий пол"
@@ -1073,7 +1073,7 @@
       "EUit": "pavimento semplice viola",
       "EUnl": "simpele paarse vloer",
       "CNzh": "紫色简约地毯",
-      "TWzh": "紫色簡約地毯",
+      "TWzh": "紫色簡約地板",
       "JPja": "むらさきのシンプルカーペット",
       "KRko": "보라 심플 카펫 바닥",
       "EUru": "простой фиолет. пол"
@@ -1093,7 +1093,7 @@
       "EUit": "pavimento semplice bianco",
       "EUnl": "simpele witte vloer",
       "CNzh": "白色简约地毯",
-      "TWzh": "白色簡約地毯",
+      "TWzh": "白色簡約地板",
       "JPja": "しろいシンプルカーペット",
       "KRko": "하얀 심플 카펫 바닥",
       "EUru": "простой белый пол"
@@ -1453,7 +1453,7 @@
       "EUit": "pavimento a pois semplice",
       "EUnl": "grijze stippelvloer",
       "CNzh": "单色配色点点地毯",
-      "TWzh": "灰階配色點點地毯",
+      "TWzh": "灰階配色點點地板",
       "JPja": "モノクロドットカーペット",
       "KRko": "흑백 도트 카펫 바닥",
       "EUru": "пол в горошек"
@@ -1513,7 +1513,7 @@
       "EUit": "pavimento a pois turchese",
       "EUnl": "groene stippelvloer",
       "CNzh": "薄荷绿点点地毯",
-      "TWzh": "薄荷綠點點地毯",
+      "TWzh": "薄荷綠點點地板",
       "JPja": "ミントドットカーペット",
       "KRko": "민트 도트 카펫 바닥",
       "EUru": "зеленый пол в горошек"
@@ -1533,7 +1533,7 @@
       "EUit": "pavimento a pois rosso",
       "EUnl": "rode stippelvloer",
       "CNzh": "红色点点全屋地毯",
-      "TWzh": "紅色點點地毯",
+      "TWzh": "紅色點點地板",
       "JPja": "レッドドットカーペット",
       "KRko": "레드 도트 카펫 바닥",
       "EUru": "красный пол в горошек"
@@ -1553,7 +1553,7 @@
       "EUit": "pavimento a pois blu",
       "EUnl": "blauwe stippelvloer",
       "CNzh": "蓝色点点全屋地毯",
-      "TWzh": "藍色點點地毯",
+      "TWzh": "藍色點點地板",
       "JPja": "ブルードットカーペット",
       "KRko": "블루 도트 카펫 바닥",
       "EUru": "голубой пол в горошек"
@@ -2293,7 +2293,7 @@
       "EUit": "pav. a scacchi monocromo",
       "EUnl": "effen tapijttegels",
       "CNzh": "单色配色拼接地毯",
-      "TWzh": "灰階配色拼接地毯",
+      "TWzh": "灰階配色拼接地板",
       "JPja": "モノクロパネルカーペット",
       "KRko": "흑백 패널 카펫 바닥",
       "EUru": "пол из однотон. плитки"
@@ -2313,7 +2313,7 @@
       "EUit": "pav. a scacchi variopinto",
       "EUnl": "kleurrijke tapijttegels",
       "CNzh": "彩色拼接地毯",
-      "TWzh": "彩色拼接地毯",
+      "TWzh": "彩色拼接地板",
       "JPja": "カラフルパネルカーペット",
       "KRko": "컬러풀 패널 카펫 바닥",
       "EUru": "пол из цветной плитки"
@@ -3193,7 +3193,7 @@
       "EUit": "moquette tigrata",
       "EUnl": "tijgerstreepvloer",
       "CNzh": "老虎纹地毯",
-      "TWzh": "虎紋地毯",
+      "TWzh": "虎紋地板",
       "JPja": "タイガーなじゅうたん",
       "KRko": "호랑이 카펫 바닥",
       "EUru": "пол с тигровым узором"
@@ -3333,7 +3333,7 @@
       "EUit": "moquette fiori di ciliegio",
       "EUnl": "kersenbloesemvloer",
       "CNzh": "樱花地毯",
-      "TWzh": "櫻花地毯",
+      "TWzh": "櫻花地板",
       "JPja": "さくらのじゅうたん",
       "KRko": "벚꽃 카펫 바닥",
       "EUru": "пол с лепестками сакуры"
