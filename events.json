@@ -20,6 +20,26 @@
     }
   },
   {
+    "id": "CowBoyFestival",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Cowboy Festival",
+      "EUen": "Cowboy Festival",
+      "EUde": "Cowboy-Festival",
+      "EUes": "Festival de los vaqueros",
+      "USes": "Festival de los vaqueros",
+      "EUfr": "Festival des cow-boys",
+      "USfr": "Festival des cowboys",
+      "EUit": "Festival cowboy",
+      "EUnl": "Cowboyfestival",
+      "CNzh": "牛仔节",
+      "TWzh": "牛仔節",
+      "JPja": "カウボーイまつ祭り",
+      "KRko": "카우보이 축제",
+      "EUru": "Фестиваль ковбоев"
+    }
+  },
+  {
     "id": "FathersDay",
     "version": "1.2.0",
     "locale": {
@@ -120,6 +140,46 @@
     }
   },
   {
+    "id": "GrapeHarvestFestival",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Grape Harvest Festival",
+      "EUen": "Grape Harvest Festival",
+      "EUde": "Traubenlese-Festival",
+      "EUes": "La vendimia",
+      "USes": "La vendimia",
+      "EUfr": "Festival du raisin",
+      "USfr": "Festival du raisin",
+      "EUit": "Festival della vendemmia",
+      "EUnl": "Druivenoogstfestival",
+      "CNzh": "葡萄丰收节",
+      "TWzh": "葡萄豐收節",
+      "JPja": "ブドウのしゅうかくさい収穫祭",
+      "KRko": "포도 수확제",
+      "EUru": "День сбора винограда"
+    }
+  },
+  {
+    "id": "GyurouSyokujyo",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Cowherd & Weaver Girl Day",
+      "EUen": "Cowherd & Weaver Girl Day",
+      "EUde": "Kuhhirte-und-Weberin-Tag",
+      "EUes": "El pastor y la tejedora",
+      "USes": "El pastor y la tejedora",
+      "EUfr": "Le bouvier et la tisserande",
+      "USfr": "Le bouvier et la tisserande",
+      "EUit": "Il pastore e la filatrice",
+      "EUnl": "Veehoeder-en-weefsterdag",
+      "CNzh": "七夕",
+      "TWzh": "七夕",
+      "JPja": "ぎゅうろうしょくじょ牛郎織女の",
+      "KRko": "칠석",
+      "EUru": "День пастуха и ткачихи"
+    }
+  },
+  {
     "id": "InsectConvention1",
     "version": "1.0.0",
     "locale": {
@@ -197,6 +257,26 @@
       "JPja": "ムシとりたいかい大会",
       "KRko": "곤충채집대회",
       "EUru": "Турнир «Мастер сачка»"
+    }
+  },
+  {
+    "id": "MidAutumnFestival",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Moon-Viewing Day",
+      "EUen": "Moon-Viewing Day",
+      "EUde": "Mondfest",
+      "EUes": "Celebración de la Luna",
+      "USes": "Celebración de la Luna",
+      "EUfr": "Fête de la lune",
+      "USfr": "Fête de la Lune",
+      "EUit": "Festa della luna",
+      "EUnl": "Maanfeest",
+      "CNzh": "中秋节",
+      "TWzh": "中秋節",
+      "JPja": "おつきみ月見",
+      "KRko": "추석",
+      "EUru": "День луны"
     }
   },
   {
