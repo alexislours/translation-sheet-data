@@ -898,5 +898,25 @@
       "KRko": "이스터 가방",
       "EUru": "сумка на День зайцев"
     }
+  },
+  {
+    "id": 1233,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "grape-harvest basket",
+      "EUen": "grape-harvest basket",
+      "EUde": "Traubenlese-Korb",
+      "EUes": "mochila vendimia",
+      "USes": "mochila vendimia",
+      "EUfr": "hotte à raisin",
+      "USfr": "panier à raisin",
+      "EUit": "canestro da vendemmia",
+      "EUnl": "druivenoogstmand",
+      "CNzh": "葡萄采收桶",
+      "TWzh": "葡萄採收桶",
+      "JPja": "ぶどうのしゅうかくおけ",
+      "KRko": "포도 수확 바구니",
+      "EUru": "кузовок для винограда"
+    }
   }
 ]

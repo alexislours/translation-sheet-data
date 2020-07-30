@@ -2803,8 +2803,8 @@
     "id": 1187,
     "version": "1.0.0",
     "locale": {
-      "USen": "polka-dot mini skirt",
-      "EUen": "polka-dot mini skirt",
+      "USen": "polka-dot miniskirt",
+      "EUen": "polka-dot miniskirt",
       "EUde": "Pünktchen-Minirock",
       "EUes": "falda lunarcitos",
       "USes": "falda corta a lunares",
@@ -2857,6 +2857,25 @@
       "JPja": "かいぞくのズボン",
       "KRko": "해적 바지",
       "EUru": "пиратские штаны"
+    }
+  },
+  {
+    "id": "",
+    "version": "",
+    "locale": {
+      "USen": "",
+      "EUen": "",
+      "EUde": "",
+      "EUes": "",
+      "USes": "",
+      "EUfr": "",
+      "USfr": "",
+      "EUit": "",
+      "EUnl": "",
+      "CNzh": "",
+      "TWzh": "點點迷你裙",
+      "JPja": "ドットミニスカート",
+      "KRko": "도트 미니스커트"
     }
   }
 ]

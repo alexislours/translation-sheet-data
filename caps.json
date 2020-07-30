@@ -3018,5 +3018,85 @@
       "KRko": "호화로운 해적 왕관",
       "EUru": "пиратская корона"
     }
+  },
+  {
+    "id": 1108,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "bulb bopper",
+      "EUen": "bulb bopper",
+      "EUde": "Leuchtkugelreif",
+      "EUes": "diadema luciérnagas",
+      "USes": "diadema luciérnagas",
+      "EUfr": "serre-tête lumières",
+      "USfr": "serre-tête lumières",
+      "EUit": "paio antenne fluo",
+      "EUnl": "gloeilampendiadeem",
+      "CNzh": "发光球头饰",
+      "TWzh": "發光球頭飾",
+      "JPja": "ひかるボールアクセサリー",
+      "KRko": "빛나는 볼 액세서리",
+      "EUru": "ободок с лампочками"
+    }
+  },
+  {
+    "id": 1109,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "flower bopper",
+      "EUen": "flower bopper",
+      "EUde": "Leuchtblumenreif",
+      "EUes": "diadema florecillas",
+      "USes": "diadema florecitas",
+      "EUfr": "serre-tête fleurs",
+      "USfr": "serre-tête fleurs",
+      "EUit": "paio antenne fiori",
+      "EUnl": "bloemendiadeem",
+      "CNzh": "发光花朵头饰",
+      "TWzh": "發光花朵頭飾",
+      "JPja": "ひかるはなのアクセサリー",
+      "KRko": "빛나는 꽃 액세서리",
+      "EUru": "ободок с цветками"
+    }
+  },
+  {
+    "id": 1110,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "heart bopper",
+      "EUen": "heart bopper",
+      "EUde": "Leuchtherzchenreif",
+      "EUes": "diadema corazones",
+      "USes": "diadema corazones",
+      "EUfr": "serre-tête cœurs",
+      "USfr": "serre-tête cœurs",
+      "EUit": "paio antenne cuori",
+      "EUnl": "hartendiadeem",
+      "CNzh": "发光爱心头饰",
+      "TWzh": "發光愛心頭飾",
+      "JPja": "ひかるハートアクセサリー",
+      "KRko": "빛나는 하트 액세서리",
+      "EUru": "ободок с сердечками"
+    }
+  },
+  {
+    "id": 1139,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "star bopper",
+      "EUen": "star bopper",
+      "EUde": "Leuchtsternreif",
+      "EUes": "diadema estrellas",
+      "USes": "diadema estrellas",
+      "EUfr": "serre-tête étoiles",
+      "USfr": "serre-tête étoiles",
+      "EUit": "paio antenne stelle",
+      "EUnl": "sterrenhoofdband",
+      "CNzh": "发光星星头饰",
+      "TWzh": "發光星星頭飾",
+      "JPja": "ひかるスターアクセサリー",
+      "KRko": "빛나는 별 액세서리",
+      "EUru": "звездный ободок"
+    }
   }
 ]

@@ -4978,5 +4978,25 @@
       "KRko": "해적 벽지",
       "EUru": "пиратская стена"
     }
+  },
+  {
+    "id": "RoomWall_13230",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "fireworks-show wall",
+      "EUen": "fireworks-show wall",
+      "EUde": "Feuerwerk-Tapete",
+      "EUes": "pared fuegos artificiales",
+      "USes": "pared fuegos artificiales",
+      "EUfr": "mur feux d'artifice",
+      "USfr": "mur feux d'artifice",
+      "EUit": "muro fuochi d'artificio",
+      "EUnl": "vuurwerkwand",
+      "CNzh": "烟花大会墙",
+      "TWzh": "煙火大會牆",
+      "JPja": "はなびたいかいのかべ",
+      "KRko": "불꽃축제 벽",
+      "EUru": "стена с фейерверком"
+    }
   }
 ]

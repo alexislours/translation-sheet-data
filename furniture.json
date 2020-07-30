@@ -17278,5 +17278,45 @@
       "KRko": "세계 지도",
       "EUru": "карта мира"
     }
+  },
+  {
+    "id": "Ftr_12921",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "rodeo-style springy ride-on",
+      "EUen": "rodeo-style springy ride-on",
+      "EUde": "Rodeo-Federwippe",
+      "EUes": "balancín de muelle vaquero",
+      "USes": "balancín de resorte vaquero",
+      "EUfr": "animal de ranch sur ressort",
+      "USfr": "animal de ranch sur ressort",
+      "EUit": "cavallo a molla cowboy",
+      "EUnl": "meerminnenkledingkast",
+      "CNzh": "牛仔竞技风弹簧游乐器材",
+      "TWzh": "牛仔競技風彈簧遊樂器材",
+      "JPja": "ロデオふうスプリングゆうぐ",
+      "KRko": "로데오풍 스프링 놀이 기구",
+      "EUru": "родео-тренажер скакун"
+    }
+  },
+  {
+    "id": "Ftr_13221",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Luna's bed",
+      "EUen": "Luna's bed",
+      "EUde": "Serenada-Bett",
+      "EUes": "cama de Alakama",
+      "USes": "cama de Alakama",
+      "EUfr": "lit de Serena",
+      "USfr": "lit de Serena",
+      "EUit": "letto di Sonia",
+      "EUnl": "meerminnenbank",
+      "CNzh": "梦美的床铺",
+      "TWzh": "夢美的床鋪",
+      "JPja": "ゆめみのベッド",
+      "KRko": "몽셰르의 침대",
+      "EUru": "кровать Луны"
+    }
   }
 ]

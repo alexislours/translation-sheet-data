@@ -4818,5 +4818,45 @@
       "KRko": "머메이드 공주 드레스",
       "EUru": "платье русалки «Царевна»"
     }
+  },
+  {
+    "id": 1301,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Orihime outfit",
+      "EUen": "Orihime outfit",
+      "EUde": "Orihime-Outfit",
+      "EUes": "atuendo de Orihime",
+      "USes": "atuendo de Orihime",
+      "EUfr": "tenue d'Orihime",
+      "USfr": "tenue d'Orihime",
+      "EUit": "vestito Orihime",
+      "EUnl": "meerminprinsessenjurk",
+      "CNzh": "织女服",
+      "TWzh": "織女服",
+      "JPja": "おりひめのふく",
+      "KRko": "직녀 옷",
+      "EUru": "наряд Орихимэ"
+    }
+  },
+  {
+    "id": 1302,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Hikoboshi outfit",
+      "EUen": "Hikoboshi outfit",
+      "EUde": "Hikoboshi-Outfit",
+      "EUes": "atuendo de Hikoboshi",
+      "USes": "atuendo de Hikoboshi",
+      "EUfr": "tenue d'Hikoboshi",
+      "USfr": "tenue d'Hikoboshi",
+      "EUit": "vestito Hikoboshi",
+      "EUnl": "Orihime-kostuum",
+      "CNzh": "牛郎服",
+      "TWzh": "牛郎服",
+      "JPja": "ひこぼしのふく",
+      "KRko": "견우 옷",
+      "EUru": "наряд Хикобоси"
+    }
   }
 ]

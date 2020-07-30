@@ -2438,5 +2438,365 @@
       "KRko": "검은색 포장지",
       "EUru": "черные обертки"
     }
+  },
+  {
+    "id": "Balloon_07869",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "blue balloon",
+      "EUen": "blue balloon",
+      "EUde": "Ballon (blau)",
+      "EUes": "globo azul",
+      "USes": "globo azul",
+      "EUfr": "ballon de baudruche bleu",
+      "USfr": "ballon bleu",
+      "EUit": "palloncino blu",
+      "EUnl": "blauwe ballon",
+      "CNzh": "蓝色气球",
+      "TWzh": "藍色氣球",
+      "JPja": "あおいふうせん",
+      "KRko": "파란색 풍선",
+      "EUru": "синий шарик"
+    }
+  },
+  {
+    "id": "Balloon_13123",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "red balloon",
+      "EUen": "red balloon",
+      "EUde": "Ballon (rot)",
+      "EUes": "globo rojo",
+      "USes": "globo rojo",
+      "EUfr": "ballon de baudruche rouge",
+      "USfr": "ballon rouge",
+      "EUit": "palloncino rosso",
+      "EUnl": "rode ballon",
+      "CNzh": "红色气球",
+      "TWzh": "紅色氣球",
+      "JPja": "あかいふうせん",
+      "KRko": "빨간색 풍선",
+      "EUru": "красный шарик"
+    }
+  },
+  {
+    "id": "Balloon_13124",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "yellow balloon",
+      "EUen": "yellow balloon",
+      "EUde": "Ballon (gelb)",
+      "EUes": "globo amarillo",
+      "USes": "globo amarillo",
+      "EUfr": "ballon de baudruche jaune",
+      "USfr": "ballon jaune",
+      "EUit": "palloncino giallo",
+      "EUnl": "gele ballon",
+      "CNzh": "黄色气球",
+      "TWzh": "黃色氣球",
+      "JPja": "きいろのふうせん",
+      "KRko": "노란색 풍선",
+      "EUru": "желтый шарик"
+    }
+  },
+  {
+    "id": "Balloon_13125",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "green balloon",
+      "EUen": "green balloon",
+      "EUde": "Ballon (grün)",
+      "EUes": "globo verde",
+      "USes": "globo verde",
+      "EUfr": "ballon de baudruche vert",
+      "USfr": "ballon vert",
+      "EUit": "palloncino verde",
+      "EUnl": "groene ballon",
+      "CNzh": "绿色气球",
+      "TWzh": "綠色氣球",
+      "JPja": "みどりのふうせん",
+      "KRko": "초록색 풍선",
+      "EUru": "зеленый шарик"
+    }
+  },
+  {
+    "id": "Balloon_13126",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "pink balloon",
+      "EUen": "pink balloon",
+      "EUde": "Ballon (rosa)",
+      "EUes": "globo rosa",
+      "USes": "globo rosa",
+      "EUfr": "ballon de baudruche rose",
+      "USfr": "ballon rose",
+      "EUit": "palloncino rosa",
+      "EUnl": "roze ballon",
+      "CNzh": "粉红色气球",
+      "TWzh": "粉紅色氣球",
+      "JPja": "ピンクのふうせん",
+      "KRko": "핑크색 풍선",
+      "EUru": "розовый шарик"
+    }
+  },
+  {
+    "id": "BlowBubble_04386",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "bubble blower",
+      "EUen": "bubble blower",
+      "EUde": "Seifenblasenset",
+      "EUes": "lanzapompas",
+      "USes": "lanzaburbujas",
+      "EUfr": "lance-bulles",
+      "USfr": "lance-bulles",
+      "EUit": "sparabolle",
+      "EUnl": "flesje bellenblaas",
+      "CNzh": "肥皂泡",
+      "TWzh": "肥皂泡",
+      "JPja": "シャボンだま",
+      "KRko": "비눗방울",
+      "EUru": "набор для пузырей"
+    }
+  },
+  {
+    "id": "BlowBubble_04386_pl",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "bubble blowers",
+      "EUen": "bubble blowers",
+      "EUde": "Seifenblasensets",
+      "EUes": "lanzapompas",
+      "USes": "lanzaburbujas",
+      "EUfr": "lance-bulles",
+      "USfr": "lance-bulles",
+      "EUit": "sparabolle",
+      "EUnl": "flesjes bellenblaas",
+      "CNzh": "肥皂泡",
+      "TWzh": "肥皂泡",
+      "JPja": "シャボンだま",
+      "KRko": "비눗방울",
+      "EUru": "наборы для пузырей"
+    }
+  },
+  {
+    "id": "FierworkHand_05743",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "red sparkler",
+      "EUen": "red sparkler",
+      "EUde": "Rot-Wunderkerze",
+      "EUes": "bengala roja",
+      "USes": "bengala roja",
+      "EUfr": "cierge magique rouge",
+      "USfr": "bougie magique rouge",
+      "EUit": "stella filante rossa",
+      "EUnl": "rood de sterretje",
+      "CNzh": "红色烟花棒",
+      "TWzh": "紅色仙女棒",
+      "JPja": "あかいてもちはなび",
+      "KRko": "빨간색 스파클러",
+      "EUru": "красн. бенгальский огонь"
+    }
+  },
+  {
+    "id": "FierworkHand_05743_pl",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "red sparklers",
+      "EUen": "red sparklers",
+      "EUde": "Rot-Wunderkerzen",
+      "EUes": "bengalas rojas",
+      "USes": "bengalas rojas",
+      "EUfr": "cierges magiques rouges",
+      "USfr": "bougies magiques rouges",
+      "EUit": "stelle filanti rosse",
+      "EUnl": "rode sterretjes",
+      "CNzh": "红色烟花棒",
+      "TWzh": "紅色仙女棒",
+      "JPja": "あかいてもちはなび",
+      "KRko": "빨간색 스파클러",
+      "EUru": "красн. бенгальские огни"
+    }
+  },
+  {
+    "id": "FierworkHand_12974",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "blue sparkler",
+      "EUen": "blue sparkler",
+      "EUde": "Blau-Wunderkerze",
+      "EUes": "bengala azul",
+      "USes": "bengala azul",
+      "EUfr": "cierge magique bleu",
+      "USfr": "bougie magique bleue",
+      "EUit": "stella filante blu",
+      "EUnl": "blauw sterretje",
+      "CNzh": "蓝色烟花棒",
+      "TWzh": "藍色仙女棒",
+      "JPja": "あおいてもちはなび",
+      "KRko": "파란색 스파클러",
+      "EUru": "син. бенгальский огонь"
+    }
+  },
+  {
+    "id": "FierworkHand_12974_pl",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "blue sparklers",
+      "EUen": "blue sparklers",
+      "EUde": "Blau-Wunderkerzen",
+      "EUes": "bengalas azules",
+      "USes": "bengalas azules",
+      "EUfr": "cierges magiques bleus",
+      "USfr": "bougies magiques bleues",
+      "EUit": "stelle filanti blu",
+      "EUnl": "blauwe sterretjes",
+      "CNzh": "蓝色烟花棒",
+      "TWzh": "藍色仙女棒",
+      "JPja": "あおいてもちはなび",
+      "KRko": "파란색 스파클러",
+      "EUru": "синие бенгальские огни"
+    }
+  },
+  {
+    "id": "FireworkM_13106",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "fountain firework",
+      "EUen": "fountain firework",
+      "EUde": "Fontäne",
+      "EUes": "bengala de tubo",
+      "USes": "bengala de tubo",
+      "EUfr": "feu d'artifice fontaine",
+      "USfr": "feu d'artifice fontaine",
+      "EUit": "fuoco d'artificio",
+      "EUnl": "sterretjesfontein",
+      "CNzh": "地面烟花筒",
+      "TWzh": "地面煙火筒",
+      "JPja": "おきはなび",
+      "KRko": "분수 불꽃",
+      "EUru": "фейерверк-фонтан"
+    }
+  },
+  {
+    "id": "HandheldPennant_13128",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Nook Inc. handheld pennant",
+      "EUen": "Nook Inc. handheld pennant",
+      "EUde": "Nook-Inc.-Fähnchen",
+      "EUes": "banderín Nook Inc. portátil",
+      "USes": "banderín Nook Inc. portátil",
+      "EUfr": "fanion portable Nook Inc.",
+      "USfr": "fanion portable Nook Inc.",
+      "EUit": "gagliardetto Nook Inc.",
+      "EUnl": "Nook Inc.-vlaggetje",
+      "CNzh": "Nook Inc.手持三角旗",
+      "TWzh": "Nook Inc.手持三角旗",
+      "JPja": "たぬきかいはつのてもちペナント",
+      "KRko": "Nook Inc. 손 깃발",
+      "EUru": "флажок Nook Inc."
+    }
+  },
+  {
+    "id": "MilePlaneTicket_13228",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Dream Bell exchange ticket",
+      "EUen": "Dream Bell exchange ticket",
+      "EUde": "Traumsterni-Coupon",
+      "EUes": "cupón de bayas onírico",
+      "USes": "cupón de bayas onírico",
+      "EUfr": "ticket rêve de clochettes",
+      "USfr": "ticket rêve de clochettes",
+      "EUit": "coupon onirico",
+      "EUnl": "droomklingelbon",
+      "CNzh": "梦境铃钱兑换券",
+      "TWzh": "夢境鈴錢兌換券",
+      "JPja": "ゆめのベルひきかえけん",
+      "KRko": "꿈의 벨 교환권",
+      "EUru": "чек за сон"
+    }
+  },
+  {
+    "id": "MilePlaneTicket_13228_pl",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "Dream Bell exchange tickets",
+      "EUen": "Dream Bell exchange tickets",
+      "EUde": "Traumsterni-Coupons",
+      "EUes": "cupones de bayas oníricos",
+      "USes": "cupones de bayas oníricos",
+      "EUfr": "tickets rêve de clochettes",
+      "USfr": "tickets rêve de clochettes",
+      "EUit": "coupon onirici",
+      "EUnl": "droomklingelbonnen",
+      "CNzh": "梦境铃钱兑换券",
+      "TWzh": "夢境鈴錢兌換券",
+      "JPja": "ゆめのベルひきかえけん",
+      "KRko": "꿈의 벨 교환권",
+      "EUru": "чеки за сон"
+    }
+  },
+  {
+    "id": "Partyhorn_05742",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "tweeter",
+      "EUen": "tweeter",
+      "EUde": "Tröte",
+      "EUes": "matasuegras",
+      "USes": "espantasuegras",
+      "EUfr": "sans-gêne",
+      "USfr": "sifflet déroulant",
+      "EUit": "trombetta di Capodanno",
+      "EUnl": "roltong",
+      "CNzh": "派对吹笛",
+      "TWzh": "派對吹笛",
+      "JPja": "ふきもどし",
+      "KRko": "코끼리 피리",
+      "EUru": "пищалка"
+    }
+  },
+  {
+    "id": "Trash_13107",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "used fountain firework",
+      "EUen": "used fountain firework",
+      "EUde": "Fontäne (abgebrannt)",
+      "EUes": "bengala de tubo usada",
+      "USes": "bengala de tubo usada",
+      "EUfr": "feu d'artifice fontaine usagé",
+      "USfr": "feu d'artifice fontaine usagé",
+      "EUit": "fuoco d'artificio esaurito",
+      "EUnl": "gebruikte sterretjesfontein",
+      "CNzh": "地面烟花筒的灰烬",
+      "TWzh": "地面煙火筒灰燼",
+      "JPja": "おきはなびのもえかす",
+      "KRko": "분수 불꽃의 재",
+      "EUru": "б/у фейерверк-фонтан"
+    }
+  },
+  {
+    "id": "Windmill_05744",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "pinwheel",
+      "EUen": "pinwheel",
+      "EUde": "Windrädchen",
+      "EUes": "molinete",
+      "USes": "molinito",
+      "EUfr": "moulin",
+      "USfr": "moulin",
+      "EUit": "girandola",
+      "EUnl": "windmolentje",
+      "CNzh": "纸风车",
+      "TWzh": "紙風車",
+      "JPja": "かざぐるま",
+      "KRko": "바람개비",
+      "EUru": "вертушка"
+    }
   }
 ]

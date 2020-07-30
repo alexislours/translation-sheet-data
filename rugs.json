@@ -2698,5 +2698,24 @@
       "KRko": "마이 디자인 러그",
       "EUru": "ковер «Индивид. рисунок»"
     }
+  },
+  {
+    "id": "Rug_13287",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "moon rug",
+      "EUen": "moon rug",
+      "EUde": "Mondteppich",
+      "EUes": "alfombra luna",
+      "USes": "alfombra luna",
+      "EUfr": "tapis lune",
+      "USfr": "tapis lune",
+      "EUit": "tappeto luna",
+      "EUnl": "maantapijt",
+      "CNzh": "月之地毯",
+      "TWzh": "月之地毯",
+      "JPja": "つきのラグ",
+      "KRko": "보름달 러그"
+    }
   }
 ]

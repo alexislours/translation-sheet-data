@@ -1238,5 +1238,25 @@
       "KRko": "별님 머리",
       "EUru": "звездный шлем"
     }
+  },
+  {
+    "id": 790,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "King Tut mask",
+      "EUen": "King Tut mask",
+      "EUde": "Pharaomaske",
+      "EUes": "máscara egipcia",
+      "USes": "máscara egipcia",
+      "EUfr": "masque de pharaon",
+      "USfr": "masque de pharaon",
+      "EUit": "maschera Re Tut",
+      "EUnl": "faraomasker",
+      "CNzh": "图坦卡门面具",
+      "TWzh": "圖坦卡門面具",
+      "JPja": "ツタンカーメン",
+      "KRko": "투탕카멘",
+      "EUru": "маска фараона Тута"
+    }
   }
 ]
