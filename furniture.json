@@ -785,7 +785,7 @@
     "locale": {
       "USen": "Tower of Pisa",
       "EUen": "Tower of Pisa",
-      "EUde": "Turm",
+      "EUde": "Turm von Pisa",
       "EUes": "Torre de Pisa",
       "USes": "Torre de Pisa",
       "EUfr": "Tour de Pise",
@@ -6385,7 +6385,7 @@
     "locale": {
       "USen": "small cardboard boxes",
       "EUen": "small cardboard boxes",
-      "EUde": "Umzugskistenset",
+      "EUde": "Umzugskistenset (S)",
       "EUes": "lote pequeño de cajas",
       "USes": "set de cajas pequeño",
       "EUfr": "tas de cartons S",
@@ -6405,7 +6405,7 @@
     "locale": {
       "USen": "medium cardboard boxes",
       "EUen": "medium cardboard boxes",
-      "EUde": "Umzugskistenset",
+      "EUde": "Umzugskistenset (M)",
       "EUes": "lote mediano de cajas",
       "USes": "set de cajas mediano",
       "EUfr": "tas de cartons M",
@@ -6425,7 +6425,7 @@
     "locale": {
       "USen": "large cardboard boxes",
       "EUen": "large cardboard boxes",
-      "EUde": "Umzugskistenset",
+      "EUde": "Umzugskistenset (L)",
       "EUes": "lote grande de cajas",
       "USes": "set de cajas grande",
       "EUfr": "tas de cartons L",
@@ -11485,7 +11485,7 @@
     "locale": {
       "USen": "green-leaf pile",
       "EUen": "green-leaf pile",
-      "EUde": "Laubhaufen",
+      "EUde": "Laubhaufen in Grün",
       "EUes": "pila de hojas verdes",
       "USes": "pila de hojas verdes",
       "EUfr": "tas de feuilles vertes",
@@ -11505,7 +11505,7 @@
     "locale": {
       "USen": "yellow-leaf pile",
       "EUen": "yellow-leaf pile",
-      "EUde": "Laubhaufen",
+      "EUde": "Laubhaufen in Gelb",
       "EUes": "pila de hojas amarillas",
       "USes": "pila de hojas amarillas",
       "EUfr": "tas de feuilles jaunes",
@@ -11525,7 +11525,7 @@
     "locale": {
       "USen": "red-leaf pile",
       "EUen": "red-leaf pile",
-      "EUde": "Laubhaufen",
+      "EUde": "Laubhaufen in Rot",
       "EUes": "pila de hojas rojas",
       "USes": "pila de hojas rojas",
       "EUfr": "tas de feuilles rouges",

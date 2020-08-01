@@ -465,7 +465,7 @@
     "locale": {
       "USen": "right ptera wing",
       "EUen": "right ptera wing",
-      "EUde": "Pteranodon-Flügel",
+      "EUde": "Pteranodon-Flügel (R)",
       "EUes": "ala derecha pteranodonte",
       "USes": "ala derecha pteranodonte",
       "EUfr": "aile droite de ptéranodon",
@@ -485,7 +485,7 @@
     "locale": {
       "USen": "left ptera wing",
       "EUen": "left ptera wing",
-      "EUde": "Pteranodon-Flügel",
+      "EUde": "Pteranodon-Flügel (L)",
       "EUes": "ala izquierda pteranodonte",
       "USes": "ala izquierda pteranodonte",
       "EUfr": "aile gauche de ptéranodon",
@@ -1405,7 +1405,7 @@
     "locale": {
       "USen": "right quetzal wing",
       "EUen": "right quetzal wing",
-      "EUde": "Quetzalcoatlus-Flügel",
+      "EUde": "Quetzalcoatlus-Flügel (R)",
       "EUes": "ala derecha quetzalcoatlus",
       "USes": "ala derecha quetzalcoatlus",
       "EUfr": "aile droite de quetzal",
@@ -1425,7 +1425,7 @@
     "locale": {
       "USen": "left quetzal wing",
       "EUen": "left quetzal wing",
-      "EUde": "Quetzalcoatlus-Flügel",
+      "EUde": "Quetzalcoatlus-Flügel (L)",
       "EUes": "ala izquierda quetzalcoatlus",
       "USes": "ala izquierda quetzalcoatlus",
       "EUfr": "aile gauche de quetzal",
