@@ -2120,6 +2120,26 @@
     }
   },
   {
+    "id": "Uchiwa_05319",
+    "version": "1.4.0",
+    "locale": {
+      "USen": "uchiwa fan",
+      "EUen": "uchiwa fan",
+      "EUde": "Uchiwa-Fächer",
+      "EUes": "paipay",
+      "USes": "abanico paipay",
+      "EUfr": "éventail uchiwa",
+      "USfr": "éventail uchiwa",
+      "EUit": "ventaglio uchiwa",
+      "EUnl": "uchiwa-waaier",
+      "CNzh": "扇子",
+      "TWzh": "扇子",
+      "JPja": "うちわ",
+      "KRko": "둥글부채",
+      "EUru": "веер утива"
+    }
+  },
+  {
     "id": "Uchiwa_09762",
     "version": "1.0.0",
     "locale": {
