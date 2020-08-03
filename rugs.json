@@ -2680,26 +2680,6 @@
     }
   },
   {
-    "id": "RugMyDesign_08823",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "custom-design rug",
-      "EUen": "custom-design rug",
-      "EUde": "Eigenes-Design-Teppich",
-      "EUes": "alfombra personalizada",
-      "USes": "alfombra personalizada",
-      "EUfr": "tapis motif perso",
-      "USfr": "tapis motif perso",
-      "EUit": "tappeto modello pers.",
-      "EUnl": "zelfgemaakte tapijt",
-      "CNzh": "我的设计地毯",
-      "TWzh": "我的設計地毯",
-      "JPja": "マイデザインのラグ",
-      "KRko": "마이 디자인 러그",
-      "EUru": "ковер «Индивид. рисунок»"
-    }
-  },
-  {
     "id": "Rug_13287",
     "version": "1.4.0",
     "locale": {
@@ -2717,6 +2697,26 @@
       "JPja": "つきのラグ",
       "KRko": "보름달 러그",
       "EUru": "лунный пол"
+    }
+  },
+  {
+    "id": "RugMyDesign_08823",
+    "version": "1.0.0",
+    "locale": {
+      "USen": "custom-design rug",
+      "EUen": "custom-design rug",
+      "EUde": "Eigenes-Design-Teppich",
+      "EUes": "alfombra personalizada",
+      "USes": "alfombra personalizada",
+      "EUfr": "tapis motif perso",
+      "USfr": "tapis motif perso",
+      "EUit": "tappeto modello pers.",
+      "EUnl": "zelfgemaakte tapijt",
+      "CNzh": "我的设计地毯",
+      "TWzh": "我的設計地毯",
+      "JPja": "マイデザインのラグ",
+      "KRko": "마이 디자인 러그",
+      "EUru": "ковер «Индивид. рисунок»"
     }
   }
 ]
