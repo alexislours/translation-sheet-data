@@ -5,7 +5,7 @@
     "locale": {
       "USen": "beak",
       "EUen": "beak",
-      "EUde": "Schnabels",
+      "EUde": "Schnabel",
       "EUes": "pico",
       "USes": "pico",
       "EUfr": "bec",
@@ -25,7 +25,7 @@
     "locale": {
       "USen": "handlebar mustache",
       "EUen": "handlebar mustache",
-      "EUde": "Zwirbelbarts",
+      "EUde": "Zwirbelbart",
       "EUes": "bigote inglés",
       "USes": "bigote artista",
       "EUfr": "moustache en guidon",
@@ -245,7 +245,7 @@
     "locale": {
       "USen": "shattered glasses",
       "EUen": "shattered glasses",
-      "EUde": "Kaputten",
+      "EUde": "Kaputte Brille",
       "EUes": "gafa rota",
       "USes": "par de lentes rotos",
       "EUfr": "monture à verres brisés",
@@ -285,7 +285,7 @@
     "locale": {
       "USen": "doctor's mask",
       "EUen": "doctor's mask",
-      "EUde": "Mundschutzes",
+      "EUde": "Mundschutz",
       "EUes": "mascarilla quirúrgica",
       "USes": "máscara cirujano",
       "EUfr": "masque chirurgical",
@@ -305,7 +305,7 @@
     "locale": {
       "USen": "post-op patch",
       "EUen": "post-op patch",
-      "EUde": "Augenverbands",
+      "EUde": "Augenverband",
       "EUes": "parche médico",
       "USes": "parche médico",
       "EUfr": "pansement oculaire",
@@ -485,7 +485,7 @@
     "locale": {
       "USen": "monocle",
       "EUen": "monocle",
-      "EUde": "Monokels",
+      "EUde": "Monokel",
       "EUes": "monóculo",
       "USes": "monóculo",
       "EUfr": "monocle",
@@ -885,7 +885,7 @@
     "locale": {
       "USen": "sticky rice",
       "EUen": "sticky rice",
-      "EUde": "Reisrests",
+      "EUde": "Reisrest",
       "EUes": "resto de arroz",
       "USes": "resto de arroz",
       "EUfr": "reste de riz",
@@ -965,7 +965,7 @@
     "locale": {
       "USen": "curly mustache",
       "EUen": "curly mustache",
-      "EUde": "Schnauzbarts",
+      "EUde": "Schnauzbart",
       "EUes": "bigote de artista",
       "USes": "bigote de artista",
       "EUfr": "moustache élégante",
@@ -985,7 +985,7 @@
     "locale": {
       "USen": "goatee",
       "EUen": "goatee",
-      "EUde": "Ziegenbarts",
+      "EUde": "Ziegenbart",
       "EUes": "perilla",
       "USes": "barba de chivo",
       "EUfr": "barbiche",
@@ -1005,7 +1005,7 @@
     "locale": {
       "USen": "bandage",
       "EUen": "bandage",
-      "EUde": "Pflasters",
+      "EUde": "Pflaster",
       "EUes": "par de tiritas",
       "USes": "par de curitas",
       "EUfr": "lot de pansements",
@@ -1045,7 +1045,7 @@
     "locale": {
       "USen": "rounded beard",
       "EUen": "rounded beard",
-      "EUde": "Rundbarts",
+      "EUde": "Rundbart",
       "EUes": "barba perfilada",
       "USes": "barba perfilada",
       "EUfr": "collier de barbe",
@@ -1145,7 +1145,7 @@
     "locale": {
       "USen": "HMD",
       "EUen": "HMD",
-      "EUde": "Cyberhelmes",
+      "EUde": "Cyberhelm",
       "EUes": "visor 3D",
       "USes": "visor 3D",
       "EUfr": "visiocasque",
@@ -1305,7 +1305,7 @@
     "locale": {
       "USen": "food mess",
       "EUen": "food mess",
-      "EUde": "Essensrests",
+      "EUde": "Essensrest",
       "EUes": "resto de pasta",
       "USes": "resto de pasta",
       "EUfr": "vestige de repas",
@@ -1325,7 +1325,7 @@
     "locale": {
       "USen": "reflector",
       "EUen": "reflector",
-      "EUde": "Arztspiegels",
+      "EUde": "Arztspiegel",
       "EUes": "espejo médico",
       "USes": "espejo médico",
       "EUfr": "réflecteur de dentiste",
@@ -1365,7 +1365,7 @@
     "locale": {
       "USen": "pacifier",
       "EUen": "pacifier",
-      "EUde": "Schnullers",
+      "EUde": "Schnuller",
       "EUes": "chupete",
       "USes": "chupete",
       "EUfr": "tétine",

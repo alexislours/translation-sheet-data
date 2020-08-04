@@ -65,7 +65,7 @@
     "locale": {
       "USen": "vertical-board fencing",
       "EUen": "vertical-board fencing",
-      "EUde": "Bretterzauns",
+      "EUde": "Bretterzaun",
       "EUes": "vallas de tablones",
       "USes": "vallas de tablas",
       "EUfr": "clôture lattes verticales",
@@ -105,7 +105,7 @@
     "locale": {
       "USen": "bamboo lattice fencing",
       "EUen": "bamboo lattice fencing",
-      "EUde": "Bambuszauns",
+      "EUde": "Bambuszaun",
       "EUes": "vallas celosía de bambú",
       "USes": "vallas celosía de bambú",
       "EUfr": "clôture bambou à treillis",
@@ -205,7 +205,7 @@
     "locale": {
       "USen": "rope fence",
       "EUen": "rope fence",
-      "EUde": "Seilzauns",
+      "EUde": "Seilzaun",
       "EUes": "valla cordón",
       "USes": "valla de soga",
       "EUfr": "clôture de corde",
