@@ -538,5 +538,45 @@
       "KRko": "웨딩",
       "EUru": "Свадьба"
     }
+  },
+  {
+    "id": 29,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "pirate",
+      "EUen": "pirate",
+      "EUde": "Piraten",
+      "EUes": "pirata",
+      "USes": "pirata",
+      "EUfr": "pirate",
+      "USfr": "pirate",
+      "EUit": "pirata",
+      "EUnl": "piratenstijl",
+      "CNzh": "海盗",
+      "TWzh": "海盜",
+      "JPja": "かいぞく",
+      "KRko": "해적",
+      "EUru": "Пират"
+    }
+  },
+  {
+    "id": 30,
+    "version": "",
+    "locale": {
+      "USen": "mermaid",
+      "EUen": "mermaid",
+      "EUde": "Nixen",
+      "EUes": "sirena",
+      "USes": "sirena",
+      "EUfr": "sirène",
+      "USfr": "sirène",
+      "EUit": "sirena",
+      "EUnl": "meerminnenstijl",
+      "CNzh": "人鱼",
+      "TWzh": "人魚",
+      "JPja": "マーメイド",
+      "KRko": "머메이드",
+      "EUru": "Русалка"
+    }
   }
 ]

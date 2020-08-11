@@ -1,0 +1,382 @@
+[
+  {
+    "id": 2,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "stone",
+      "EUen": "stone",
+      "EUde": "Stein",
+      "EUes": "piedra",
+      "USes": "piedra",
+      "EUfr": "pierre",
+      "USfr": "pierre",
+      "EUit": "pietra",
+      "EUnl": "stenen set",
+      "CNzh": "石头",
+      "TWzh": "石頭",
+      "JPja": "いし",
+      "KRko": "돌",
+      "EUru": "Камень"
+    }
+  },
+  {
+    "id": 3,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "office",
+      "EUen": "office",
+      "EUde": "Büro",
+      "EUes": "oficina",
+      "USes": "oficina",
+      "EUfr": "pro",
+      "USfr": "pro",
+      "EUit": "ufficio",
+      "EUnl": "kantoorset",
+      "CNzh": "办公室",
+      "TWzh": "辦公室",
+      "JPja": "オフィス",
+      "KRko": "오피스",
+      "EUru": "Офис"
+    }
+  },
+  {
+    "id": 4,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "study",
+      "EUen": "study",
+      "EUde": "Lernen",
+      "EUes": "aprendizaje",
+      "USes": "aprendizaje",
+      "EUfr": "études",
+      "USfr": "études",
+      "EUit": "studio",
+      "EUnl": "huiswerkset",
+      "CNzh": "学习",
+      "TWzh": "學習",
+      "JPja": "がくしゅう",
+      "KRko": "학습",
+      "EUru": "Учеба"
+    }
+  },
+  {
+    "id": 5,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "lecture hall",
+      "EUen": "lecture hall",
+      "EUde": "Hörsaal",
+      "EUes": "aula",
+      "USes": "aula",
+      "EUfr": "amphi",
+      "USfr": "salle de lecture",
+      "EUit": "aula",
+      "EUnl": "collegezaalset",
+      "CNzh": "大讲堂",
+      "TWzh": "大講堂",
+      "JPja": "こうぎしつ",
+      "KRko": "강의실",
+      "EUru": "Аудитория"
+    }
+  },
+  {
+    "id": 6,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "den",
+      "EUen": "den",
+      "EUde": "Studierzimmer",
+      "EUes": "notario",
+      "USes": "notario",
+      "EUfr": "ministre",
+      "USfr": "ministre",
+      "EUit": "presidente",
+      "EUnl": "notarisset",
+      "CNzh": "书房",
+      "TWzh": "書房",
+      "JPja": "しょさい",
+      "KRko": "서재",
+      "EUru": "Кабинет"
+    }
+  },
+  {
+    "id": 7,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "birthday",
+      "EUen": "birthday",
+      "EUde": "Geburtstag",
+      "EUes": "cumpleaños",
+      "USes": "cumpleaños",
+      "EUfr": "anniversaire",
+      "USfr": "fête",
+      "EUit": "compleanno",
+      "EUnl": "verjaardagsset",
+      "CNzh": "生日",
+      "TWzh": "生日",
+      "JPja": "バースデー",
+      "KRko": "생일",
+      "EUru": "Именины"
+    }
+  },
+  {
+    "id": 8,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "apple",
+      "EUen": "apple",
+      "EUde": "Apfel",
+      "EUes": "manzana",
+      "USes": "manzana",
+      "EUfr": "pomme",
+      "USfr": "pomme",
+      "EUit": "mela",
+      "EUnl": "appelset",
+      "CNzh": "苹果",
+      "TWzh": "蘋果",
+      "JPja": "リンゴ",
+      "KRko": "사과",
+      "EUru": "Яблоко"
+    }
+  },
+  {
+    "id": 9,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "peach",
+      "EUen": "peach",
+      "EUde": "Pfirsich",
+      "EUes": "melocotón",
+      "USes": "durazno",
+      "EUfr": "pêche",
+      "USfr": "pêche",
+      "EUit": "pesca",
+      "EUnl": "perzikset",
+      "CNzh": "桃子",
+      "TWzh": "桃子",
+      "JPja": "モモ",
+      "KRko": "복숭아",
+      "EUru": "Персик"
+    }
+  },
+  {
+    "id": 10,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "cherry",
+      "EUen": "cherry",
+      "EUde": "Kirsch",
+      "EUes": "cereza",
+      "USes": "cereza",
+      "EUfr": "cerise",
+      "USfr": "cerise",
+      "EUit": "ciliegia",
+      "EUnl": "kersenset",
+      "CNzh": "樱桃",
+      "TWzh": "櫻桃",
+      "JPja": "さくらんぼ",
+      "KRko": "체리",
+      "EUru": "Вишня"
+    }
+  },
+  {
+    "id": 11,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "orange",
+      "EUen": "orange",
+      "EUde": "Orange",
+      "EUes": "naranja",
+      "USes": "naranja",
+      "EUfr": "orange",
+      "USfr": "orange",
+      "EUit": "arancia",
+      "EUnl": "sinaasappelset",
+      "CNzh": "橘子",
+      "TWzh": "橘子",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Апельсин"
+    }
+  },
+  {
+    "id": 12,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pear",
+      "EUen": "pear",
+      "EUde": "Birne",
+      "EUes": "pera",
+      "USes": "pera",
+      "EUfr": "poire",
+      "USfr": "poire",
+      "EUit": "pera",
+      "EUnl": "perenset",
+      "CNzh": "梨子",
+      "TWzh": "梨子",
+      "JPja": "ナシ",
+      "KRko": "배",
+      "EUru": "Груша"
+    }
+  },
+  {
+    "id": 13,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "school",
+      "EUen": "school",
+      "EUde": "Schule",
+      "EUes": "escuela",
+      "USes": "escuela",
+      "EUfr": "école",
+      "USfr": "école",
+      "EUit": "scuola",
+      "EUnl": "schoolset",
+      "CNzh": "学校",
+      "TWzh": "學校",
+      "JPja": "がっこう",
+      "KRko": "학교",
+      "EUru": "Школа"
+    }
+  },
+  {
+    "id": 14,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "imperial dining",
+      "EUen": "imperial dining",
+      "EUde": "Asia-Restaurant",
+      "EUes": "restaurante oriental",
+      "USes": "restaurante oriental",
+      "EUfr": "restaurant chinois",
+      "USfr": "impérial",
+      "EUit": "ristorante cinese",
+      "EUnl": "keizerlijke eetset",
+      "CNzh": "中华",
+      "TWzh": "中華",
+      "JPja": "ちゅうか",
+      "KRko": "중국풍",
+      "EUru": "Обед в азиатском стиле"
+    }
+  },
+  {
+    "id": 15,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "panda",
+      "EUen": "panda",
+      "EUde": "Panda",
+      "EUes": "panda",
+      "USes": "panda",
+      "EUfr": "panda",
+      "USfr": "panda",
+      "EUit": "panda",
+      "EUnl": "pandaset",
+      "CNzh": "熊猫",
+      "TWzh": "熊貓",
+      "JPja": "パンダ",
+      "KRko": "판다",
+      "EUru": "Панды"
+    }
+  },
+  {
+    "id": 16,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bear",
+      "EUen": "bear",
+      "EUde": "Bär",
+      "EUes": "osito",
+      "USes": "osito",
+      "EUfr": "ours",
+      "USfr": "ours",
+      "EUit": "orso",
+      "EUnl": "berenset",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": 17,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "standee",
+      "EUen": "standee",
+      "EUde": "Pappaufsteller",
+      "EUes": "atrezo",
+      "USes": "utilería",
+      "EUfr": "décor en carton",
+      "USfr": "décor en carton",
+      "EUit": "sagoma",
+      "EUnl": "kartonnen decoratieset",
+      "CNzh": "纸扎",
+      "TWzh": "佈景板",
+      "JPja": "ハリボテ",
+      "KRko": "종이 공예",
+      "EUru": "Бутафория"
+    }
+  },
+  {
+    "id": 18,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "natural",
+      "EUen": "natural",
+      "EUde": "Funktional",
+      "EUes": "madera natural",
+      "USes": "madera natural",
+      "EUfr": "naturelle",
+      "USfr": "naturelle",
+      "EUit": "naturale",
+      "EUnl": "natuurlijke set",
+      "CNzh": "自然",
+      "TWzh": "自然",
+      "JPja": "ナチュラル",
+      "KRko": "내추럴",
+      "EUru": "Обычный садовый"
+    }
+  },
+  {
+    "id": 19,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "pet",
+      "EUen": "pet",
+      "EUde": "Haustier",
+      "EUes": "mascota",
+      "USes": "mascota",
+      "EUfr": "animal",
+      "USfr": "animal",
+      "EUit": "animali",
+      "EUnl": "huisdierenset",
+      "CNzh": "宠物",
+      "TWzh": "寵物",
+      "JPja": "ペット",
+      "KRko": "펫",
+      "EUru": "Все для питомца"
+    }
+  },
+  {
+    "id": 20,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "sports ring",
+      "EUen": "sports ring",
+      "EUde": "Boxring",
+      "EUes": "ring de boxeo",
+      "USes": "ring de boxeo",
+      "EUfr": "ring de boxe",
+      "USfr": "ring de boxe",
+      "EUit": "ring da boxe",
+      "EUnl": "boksringset",
+      "CNzh": "圆环",
+      "TWzh": "圓環",
+      "JPja": "リング",
+      "KRko": "링",
+      "EUru": "Ринг"
+    }
+  }
+]

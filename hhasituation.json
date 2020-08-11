@@ -1,0 +1,482 @@
+[
+  {
+    "id": 1,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "outdoors",
+      "EUen": "outdoors",
+      "EUde": "Outdoor",
+      "EUes": "al aire libre",
+      "USes": "al aire libre",
+      "EUfr": "extérieur",
+      "USfr": "extérieur",
+      "EUit": "all'aria aperta",
+      "EUnl": "de buitenlucht",
+      "CNzh": "户外",
+      "TWzh": "戶外",
+      "JPja": "アウトドア",
+      "KRko": "아웃도어",
+      "EUru": "Пикник"
+    }
+  },
+  {
+    "id": 2,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "ocean",
+      "EUen": "ocean",
+      "EUde": "Meer",
+      "EUes": "en el mar",
+      "USes": "en el mar",
+      "EUfr": "océanique",
+      "USfr": "océanique",
+      "EUit": "nell'oceano",
+      "EUnl": "de oceaan",
+      "CNzh": "大海",
+      "TWzh": "大海",
+      "JPja": "うみ",
+      "KRko": "바다",
+      "EUru": "Океан"
+    }
+  },
+  {
+    "id": 3,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "office",
+      "EUen": "office",
+      "EUde": "Büro",
+      "EUes": "en una oficina",
+      "USes": "en una oficina",
+      "EUfr": "bureau",
+      "USfr": "bureau",
+      "EUit": "in un ufficio",
+      "EUnl": "een kantoor",
+      "CNzh": "办公室",
+      "TWzh": "辦公室",
+      "JPja": "オフィス",
+      "KRko": "오피스",
+      "EUru": "Офис"
+    }
+  },
+  {
+    "id": 4,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "shop",
+      "EUen": "shop",
+      "EUde": "Laden",
+      "EUes": "en un negocio",
+      "USes": "en un negocio",
+      "EUfr": "magasin",
+      "USfr": "magasin",
+      "EUit": "in un negozio",
+      "EUnl": "een winkel",
+      "CNzh": "商店",
+      "TWzh": "商店",
+      "JPja": "おみせ",
+      "KRko": "가게",
+      "EUru": "Магазин"
+    }
+  },
+  {
+    "id": 5,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "music",
+      "EUen": "music",
+      "EUde": "Musik",
+      "EUes": "en un conservatorio",
+      "USes": "en un conservatorio",
+      "EUfr": "musical",
+      "USfr": "musical",
+      "EUit": "a teatro",
+      "EUnl": "muziek",
+      "CNzh": "音乐",
+      "TWzh": "音樂",
+      "JPja": "おんがく",
+      "KRko": "음악",
+      "EUru": "Музыка"
+    }
+  },
+  {
+    "id": 6,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "school",
+      "EUen": "school",
+      "EUde": "Schule",
+      "EUes": "en una escuela",
+      "USes": "en una escuela",
+      "EUfr": "école",
+      "USfr": "école",
+      "EUit": "in una scuola",
+      "EUnl": "een school",
+      "CNzh": "学校",
+      "TWzh": "學校",
+      "JPja": "がっこう",
+      "KRko": "학교",
+      "EUru": "Школа"
+    }
+  },
+  {
+    "id": 7,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "garage",
+      "EUen": "garage",
+      "EUde": "Werkstatt",
+      "EUes": "en un taller",
+      "USes": "en un taller",
+      "EUfr": "garage",
+      "USfr": "garage",
+      "EUit": "in un garage",
+      "EUnl": "een garage",
+      "CNzh": "车库",
+      "TWzh": "車庫",
+      "JPja": "ガレージ",
+      "KRko": "차고",
+      "EUru": "Гараж"
+    }
+  },
+  {
+    "id": 8,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "kitchen",
+      "EUen": "kitchen",
+      "EUde": "Küche",
+      "EUes": "en una cocina",
+      "USes": "en una cocina",
+      "EUfr": "cuisine",
+      "USfr": "cuisine",
+      "EUit": "in una cucina",
+      "EUnl": "een keuken",
+      "CNzh": "厨房",
+      "TWzh": "廚房",
+      "JPja": "キッチン",
+      "KRko": "부엌",
+      "EUru": "Кухня"
+    }
+  },
+  {
+    "id": 9,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "child's room",
+      "EUen": "child's room",
+      "EUde": "Kinderzimmer",
+      "EUes": "en un cuarto infantil",
+      "USes": "en un cuarto infantil",
+      "EUfr": "chambre d'enfant",
+      "USfr": "chambre d'enfant",
+      "EUit": "nella cameretta di un bimbo",
+      "EUnl": "een kinderkamer",
+      "CNzh": "儿童房",
+      "TWzh": "兒童房",
+      "JPja": "こどもべや",
+      "KRko": "놀이방",
+      "EUru": "Детская"
+    }
+  },
+  {
+    "id": 10,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "facility",
+      "EUen": "facility",
+      "EUde": "Stadtgebäude",
+      "EUes": "en una instalación pública",
+      "USes": "en un mercado de pulgas",
+      "EUfr": "institution",
+      "USfr": "institution",
+      "EUit": "in un edificio pubblico",
+      "EUnl": "een publieke ruimte",
+      "CNzh": "设施",
+      "TWzh": "設施",
+      "JPja": "しせつ",
+      "KRko": "시설",
+      "EUru": "Учреждение"
+    }
+  },
+  {
+    "id": 11,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "den",
+      "EUen": "den",
+      "EUde": "Studierzimmer",
+      "EUes": "en un despacho",
+      "USes": "en un despacho",
+      "EUfr": "ministre",
+      "USfr": "ministre",
+      "EUit": "in uno studio",
+      "EUnl": "een studiekamer",
+      "CNzh": "书房",
+      "TWzh": "書房",
+      "JPja": "しょさい",
+      "KRko": "서재",
+      "EUru": "Кабинет"
+    }
+  },
+  {
+    "id": 12,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "zen-style",
+      "EUen": "zen-style",
+      "EUde": "Fernost",
+      "EUes": "en Oriente",
+      "USes": "en el Oriente",
+      "EUfr": "oriental",
+      "USfr": "oriental",
+      "EUit": "in una casa orientale",
+      "EUnl": "de stijl zen",
+      "CNzh": "东洋风",
+      "TWzh": "東洋風",
+      "JPja": "とうようふう",
+      "KRko": "동양풍",
+      "EUru": "Дзен-стиль"
+    }
+  },
+  {
+    "id": 13,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "party",
+      "EUen": "party",
+      "EUde": "Party",
+      "EUes": "en una fiesta",
+      "USes": "en una fiesta",
+      "EUfr": "festif",
+      "USfr": "festif",
+      "EUit": "a una festa",
+      "EUnl": "een feest",
+      "CNzh": "派对",
+      "TWzh": "派對",
+      "JPja": "パーティー",
+      "KRko": "파티",
+      "EUru": "Вечеринка"
+    }
+  },
+  {
+    "id": 14,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "bathroom",
+      "EUen": "bathroom",
+      "EUde": "Badezimmer",
+      "EUes": "en un cuarto de baño",
+      "USes": "en un cuarto de baño",
+      "EUfr": "salle de bains",
+      "USfr": "salle de bains",
+      "EUit": "in una stanza da bagno",
+      "EUnl": "een badkamer",
+      "CNzh": "浴室·厕所",
+      "TWzh": "浴室‧廁所",
+      "JPja": "バス・トイレ",
+      "KRko": "욕실/화장실",
+      "EUru": "Ванная"
+    }
+  },
+  {
+    "id": 15,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fitness",
+      "EUen": "fitness",
+      "EUde": "Fitness",
+      "EUes": "en un gimnasio",
+      "USes": "en un gimnasio",
+      "EUfr": "fitness",
+      "USfr": "fitness",
+      "EUit": "in una palestra",
+      "EUnl": "een sportschool",
+      "CNzh": "健身",
+      "TWzh": "健身",
+      "JPja": "フィットネス",
+      "KRko": "피트니스",
+      "EUru": "Фитнес"
+    }
+  },
+  {
+    "id": 16,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "freezing cold",
+      "EUen": "freezing cold",
+      "EUde": "Eiseskälte",
+      "EUes": "en el Polo",
+      "USes": "en el Polo",
+      "EUfr": "glacial",
+      "USfr": "glacial",
+      "EUit": "su un ghiacciaio",
+      "EUnl": "de vrieskou",
+      "CNzh": "严寒",
+      "TWzh": "嚴寒",
+      "JPja": "ごっかん",
+      "KRko": "혹한",
+      "EUru": "Мороз"
+    }
+  },
+  {
+    "id": 17,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "concert",
+      "EUen": "concert",
+      "EUde": "Konzert",
+      "EUes": "en un concierto",
+      "USes": "en un concierto",
+      "EUfr": "concert",
+      "USfr": "concert",
+      "EUit": "a un concerto",
+      "EUnl": "een concert",
+      "CNzh": "演唱会",
+      "TWzh": "演唱會",
+      "JPja": "ライブ",
+      "KRko": "라이브",
+      "EUru": "Концерт"
+    }
+  },
+  {
+    "id": 18,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "living room",
+      "EUen": "living room",
+      "EUde": "Wohnzimmer",
+      "EUes": "en una sala de estar",
+      "USes": "en una sala de estar",
+      "EUfr": "salon",
+      "USfr": "salon",
+      "EUit": "in un soggiorno",
+      "EUnl": "een woonkamer",
+      "CNzh": "客厅",
+      "TWzh": "客廳",
+      "JPja": "リビング",
+      "KRko": "거실",
+      "EUru": "Гостиная"
+    }
+  },
+  {
+    "id": 20,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "space",
+      "EUen": "space",
+      "EUde": "Weltraum",
+      "EUes": "en el espacio",
+      "USes": "en el espacio",
+      "EUfr": "spatial",
+      "USfr": "spatial",
+      "EUit": "nello spazio",
+      "EUnl": "het heelal",
+      "CNzh": "宇宙",
+      "TWzh": "宇宙",
+      "JPja": "うちゅう",
+      "KRko": "우주",
+      "EUru": "Космос"
+    }
+  },
+  {
+    "id": 21,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "folk art",
+      "EUen": "folk art",
+      "EUde": "Volkskunst",
+      "EUes": "en un museo",
+      "USes": "en un museo",
+      "EUfr": "folk art",
+      "USfr": "folk art",
+      "EUit": "in un quadro",
+      "EUnl": "folklore",
+      "CNzh": "民间工艺",
+      "TWzh": "民藝",
+      "JPja": "みんげい",
+      "KRko": "전통 예술",
+      "EUru": "Фольклор"
+    }
+  },
+  {
+    "id": 22,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "horror",
+      "EUen": "horror",
+      "EUde": "Horror",
+      "EUes": "en una peli de miedo",
+      "USes": "en una película de miedo",
+      "EUfr": "effrayant",
+      "USfr": "effrayant",
+      "EUit": "in un incubo",
+      "EUnl": "een horrorfilm",
+      "CNzh": "恐怖",
+      "TWzh": "恐怖",
+      "JPja": "ホラー",
+      "KRko": "호러",
+      "EUru": "Ужасы"
+    }
+  },
+  {
+    "id": 23,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "garden",
+      "EUen": "garden",
+      "EUde": "Garten",
+      "EUes": "en un jardín",
+      "USes": "en un jardín",
+      "EUfr": "jardin",
+      "USfr": "jardin",
+      "EUit": "in giardino",
+      "EUnl": "een tuin",
+      "CNzh": "庭院",
+      "TWzh": "庭園",
+      "JPja": "にわ",
+      "KRko": "정원",
+      "EUru": "Сад"
+    }
+  },
+  {
+    "id": 24,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "expensive",
+      "EUen": "expensive",
+      "EUde": "Luxus",
+      "EUes": "en una mansión",
+      "USes": "en una mansión",
+      "EUfr": "luxueux",
+      "USfr": "luxueux",
+      "EUit": "nel lusso sfrenato",
+      "EUnl": "luxe",
+      "CNzh": "富裕",
+      "TWzh": "富裕",
+      "JPja": "リッチ",
+      "KRko": "리치",
+      "EUru": "Роскошь"
+    }
+  },
+  {
+    "id": 25,
+    "version": "1.0.0",
+    "locale": {
+      "USen": "fancy",
+      "EUen": "fancy",
+      "EUde": "Putzig",
+      "EUes": "en un mundo de fantasía",
+      "USes": "en un mundo de fantasía",
+      "EUfr": "mignon",
+      "USfr": "cute",
+      "EUit": "in un mondo fantastico",
+      "EUnl": "elegantie",
+      "CNzh": "奇幻",
+      "TWzh": "奇幻",
+      "JPja": "ファンシー",
+      "KRko": "팬시",
+      "EUru": "Фантазия"
+    }
+  }
+]
