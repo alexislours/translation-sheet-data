@@ -6661,20 +6661,20 @@
     "Cloth Name": "zigzag shirt",
     "variant_id": "1033_Tops_08204",
     "locale": {
-      "USen": "Red",
-      "EUen": "green & gold",
-      "EUde": "Red",
-      "EUes": "green & gold",
-      "USes": "Rot-grün-gold",
-      "EUfr": "Rojo",
-      "USfr": "verde y dorado",
-      "EUit": "Rojo",
-      "EUnl": "verde y dorado",
-      "CNzh": "Rouge",
-      "TWzh": "vert et doré",
-      "JPja": "Rouge",
-      "KRko": "vert et doré",
-      "EUru": "Rosso"
+      "USen": "Red, green & gold",
+      "EUen": "Red, green & gold",
+      "EUde": "Rot-grün-gold",
+      "EUes": "Rojo, verde y dorado",
+      "USes": "Rojo, verde y dorado",
+      "EUfr": "Rouge, vert et doré",
+      "USfr": "Rouge, vert et doré",
+      "EUit": "Rosso, verde e oro",
+      "EUnl": "Rood-groen-goud",
+      "CNzh": "虹彩色",
+      "TWzh": "黃綠紅",
+      "JPja": "ラスタカラー",
+      "KRko": "레드×그린×골드",
+      "EUru": "Красно-зеленый с золотом"
     }
   },
   {
@@ -12155,7 +12155,7 @@
       "TWzh": "黃色×海軍藍",
       "JPja": "イエロー×ネイビー",
       "KRko": "옐로×네이비",
-      "EUru": "Желтый"
+      "EUru": "Желтый, темно-синий"
     }
   },
   {
@@ -12176,7 +12176,7 @@
       "TWzh": "綠色×海 軍藍",
       "JPja": "グリーン×ネイビー",
       "KRko": "그린×네이비",
-      "EUru": "Зеленый"
+      "EUru": "Зеленый, темно-синий"
     }
   },
   {
@@ -12197,7 +12197,7 @@
       "TWzh": "酒紅色×海軍藍",
       "JPja": "ワインレッド×ネイビー",
       "KRko": "와인 레드×네이비",
-      "EUru": "Красный"
+      "EUru": "Красный, темно-синий"
     }
   },
   {
@@ -12215,16 +12215,10 @@
       "EUit": "Beige e blu marino",
       "EUnl": "Beige-marineblauw",
       "CNzh": "米色×海军蓝",
-      "TWzh": "米色×"
-    }
-  },
-  {
-    "id": "ベージュ×ネイビー",
-    "Cloth Name": "베이지×네이비",
-    "variant_id": "海軍藍",
-    "locale": {
-      "USen": "Бежевый",
-      "EUen": "темно-синий"
+      "TWzh": "米色×海軍藍",
+      "JPja": "ベージュ×ネイビー",
+      "KRko": "베이지×네이비",
+      "EUru": "Бежевый, темно-синий"
     }
   },
   {
@@ -12245,7 +12239,7 @@
       "TWzh": "綠色×紫色",
       "JPja": "グリーン×パープル",
       "KRko": "그린× 퍼플",
-      "EUru": "Зеленый"
+      "EUru": "Зеленый, фиолетовый"
     }
   },
   {
@@ -12266,7 +12260,7 @@
       "TWzh": "黃色×紅色",
       "JPja": "イエロー×レッド",
       "KRko": "옐로×레드",
-      "EUru": "Желтый"
+      "EUru": "Желтый, красный"
     }
   },
   {
@@ -12287,7 +12281,7 @@
       "TWzh": "海軍藍×灰色",
       "JPja": "ネイビー×グレー",
       "KRko": "네이비×그레이",
-      "EUru": "Темно-синий"
+      "EUru": "Темно-синий, серый"
     }
   },
   {
@@ -12308,7 +12302,7 @@
       "TWzh": "淺藍色×黑色",
       "JPja": "ライトブルー×ブラック",
       "KRko": "라이트 블루×블랙",
-      "EUru": "Голубой"
+      "EUru": "Голубой, черный"
     }
   },
   {
@@ -20191,20 +20185,20 @@
     "Cloth Name": "colorful striped sweater",
     "variant_id": "479_Tops_04613",
     "locale": {
-      "USen": "Navy",
-      "EUen": "light blue & pink",
-      "EUde": "Navy",
-      "EUes": "light blue & pink",
-      "USes": "Marineblau-hellblau-rosa",
-      "EUfr": "Azul marino",
-      "USfr": "celeste y rosa",
-      "EUit": "Azul marino",
-      "EUnl": "celeste y rosa",
-      "CNzh": "Marine",
-      "TWzh": "bleu ciel",
-      "JPja": "rose",
-      "KRko": "Marine",
-      "EUru": "bleu ciel"
+      "USen": "Navy, light blue & pink",
+      "EUen": "Navy, light blue & pink",
+      "EUde": "Marineblau-hellblau-rosa",
+      "EUes": "Azul marino, celeste y rosa",
+      "USes": "Azul marino, celeste y rosa",
+      "EUfr": "Marine, bleu ciel, rose",
+      "USfr": "Marine, bleu ciel, rose",
+      "EUit": "Blu marino, blu chiaro, rosa",
+      "EUnl": "Blauw-lichtblauw-roze",
+      "CNzh": "海军蓝×浅蓝色×粉红色",
+      "TWzh": "海軍藍×淺藍色×粉紅色",
+      "JPja": "ネイビー×ライトブルー×ピンク",
+      "KRko": "네이비×라이트 블루×핑크",
+      "EUru": "Черно-синий, голуб., роз."
     }
   },
   {
@@ -20212,20 +20206,20 @@
     "Cloth Name": "colorful striped sweater",
     "variant_id": "479_Tops_07639",
     "locale": {
-      "USen": "White",
-      "EUen": "blue & green",
-      "EUde": "White",
-      "EUes": "blue & green",
-      "USes": "Weiß-blau-grün",
-      "EUfr": "Blanco",
-      "USfr": "azul y verde",
-      "EUit": "Blanco",
-      "EUnl": "azul y verde",
-      "CNzh": "Blanc",
-      "TWzh": "bleu",
-      "JPja": "vert",
-      "KRko": "Blanc",
-      "EUru": "bleu"
+      "USen": "White, blue & green",
+      "EUen": "White, blue & green",
+      "EUde": "Weiß-blau-grün",
+      "EUes": "Blanco, azul y verde",
+      "USes": "Blanco, azul y verde",
+      "EUfr": "Blanc, bleu, vert",
+      "USfr": "Blanc, bleu, vert",
+      "EUit": "Bianco, blu e verde",
+      "EUnl": "Wit-blauw-groen",
+      "CNzh": "白色×蓝色×绿色",
+      "TWzh": "白色×藍色×綠色",
+      "JPja": "ホワイト×ブルー×グリーン",
+      "KRko": "화이트×블루×그린",
+      "EUru": "Белый, синий, зеленый"
     }
   },
   {
@@ -20233,20 +20227,20 @@
     "Cloth Name": "colorful striped sweater",
     "variant_id": "479_Tops_07640",
     "locale": {
-      "USen": "White",
-      "EUen": "yellow & red",
-      "EUde": "White",
-      "EUes": "yellow & red",
-      "USes": "Weiß-gelb-rot",
-      "EUfr": "Blanco",
-      "USfr": "amarillo y rojo",
-      "EUit": "Blanco",
-      "EUnl": "amarillo y rojo",
-      "CNzh": "Blanc",
-      "TWzh": "jaune",
-      "JPja": "rouge",
-      "KRko": "Blanc",
-      "EUru": "jaune"
+      "USen": "White, yellow & red",
+      "EUen": "White, yellow & red",
+      "EUde": "Weiß-gelb-rot",
+      "EUes": "Blanco, amarillo y rojo",
+      "USes": "Blanco, amarillo y rojo",
+      "EUfr": "Blanc, jaune, rouge",
+      "USfr": "Blanc, jaune, rouge",
+      "EUit": "Bianco, giallo e rosso",
+      "EUnl": "Wit-geel-rood",
+      "CNzh": "白色×黄色×红色",
+      "TWzh": "白色×黃色×綠色",
+      "JPja": "ホワイト×イエロー×レッド",
+      "KRko": "화이트×옐로×레드",
+      "EUru": "Белый, желтый, красный"
     }
   },
   {
@@ -20254,20 +20248,20 @@
     "Cloth Name": "colorful striped sweater",
     "variant_id": "479_Tops_07641",
     "locale": {
-      "USen": "Black",
-      "EUen": "coral & pink",
-      "EUde": "Black",
-      "EUes": "coral & pink",
-      "USes": "Schwarz-koralle-rosa",
-      "EUfr": "Negro",
-      "USfr": "salmón y rosa",
-      "EUit": "Negro",
-      "EUnl": "salmón y rosa",
-      "CNzh": "Noir",
-      "TWzh": "corail",
-      "JPja": "rose",
-      "KRko": "Noir",
-      "EUru": "corail"
+      "USen": "Black, coral & pink",
+      "EUen": "Black, coral & pink",
+      "EUde": "Schwarz-koralle-rosa",
+      "EUes": "Negro, salmón y rosa",
+      "USes": "Negro, salmón y rosa",
+      "EUfr": "Noir, corail, rose",
+      "USfr": "Noir, corail, rose",
+      "EUit": "Nero, corallo e rosa",
+      "EUnl": "Zwart-koraalrood-roze",
+      "CNzh": "黑色×珊瑚红×粉红色",
+      "TWzh": "黑色×珊瑚紅×粉紅色",
+      "JPja": "ブラック×コーラル×ピンク",
+      "KRko": "블랙×코랄×핑크",
+      "EUru": "Черный, коралловый, роз."
     }
   },
   {
@@ -20275,20 +20269,20 @@
     "Cloth Name": "colorful striped sweater",
     "variant_id": "479_Tops_07642",
     "locale": {
-      "USen": "Orange",
-      "EUen": "yellow & black",
-      "EUde": "Orange",
-      "EUes": "yellow & black",
-      "USes": "Orange-gelb-schwarz",
-      "EUfr": "Naranja",
-      "USfr": "amarillo y negro",
-      "EUit": "Naranja",
-      "EUnl": "amarillo y negro",
-      "CNzh": "Orange",
-      "TWzh": "jaune",
-      "JPja": "noir",
-      "KRko": "Orange",
-      "EUru": "jaune"
+      "USen": "Orange, yellow & black",
+      "EUen": "Orange, yellow & black",
+      "EUde": "Orange-gelb-schwarz",
+      "EUes": "Naranja, amarillo y negro",
+      "USes": "Naranja, amarillo y negro",
+      "EUfr": "Orange, jaune, noir",
+      "USfr": "Orange, jaune, noir",
+      "EUit": "Arancione, giallo e nero",
+      "EUnl": "Oranje-geel-zwart",
+      "CNzh": "橘色×黄色×黑色",
+      "TWzh": "橘色×黃色×黑色",
+      "JPja": "オレンジ×イエロー×ブラック",
+      "KRko": "오렌지×옐로×블랙",
+      "EUru": "Оранжевый, желтый, черн."
     }
   },
   {
@@ -20296,20 +20290,20 @@
     "Cloth Name": "colorful striped sweater",
     "variant_id": "479_Tops_07643",
     "locale": {
-      "USen": "Gray",
-      "EUen": "white & light blue",
-      "EUde": "Gray",
-      "EUes": "white & light blue",
-      "USes": "Grau-weiß-hellblau",
-      "EUfr": "Gris",
-      "USfr": "blanco y celeste",
-      "EUit": "Gris",
-      "EUnl": "blanco y celeste",
-      "CNzh": "Gris",
-      "TWzh": "blanc",
-      "JPja": "bleu ciel",
-      "KRko": "Gris",
-      "EUru": "blanc"
+      "USen": "Gray, white & light blue",
+      "EUen": "Gray, white & light blue",
+      "EUde": "Grau-weiß-hellblau",
+      "EUes": "Gris, blanco y celeste",
+      "USes": "Gris, blanco y celeste",
+      "EUfr": "Gris, blanc, bleu ciel",
+      "USfr": "Gris, blanc, bleu ciel",
+      "EUit": "Grigio, bianco e blu chiaro",
+      "EUnl": "Grijs-wit-lichtblauw",
+      "CNzh": "灰色×白色×浅蓝色",
+      "TWzh": "灰色×白色×淺藍色",
+      "JPja": "グレー×ホワイト×ライトブルー",
+      "KRko": "그레이×화이트×라이트 블루",
+      "EUru": "Серый, белый, голубой"
     }
   },
   {

@@ -10116,14 +10116,10 @@
       "EUnl": "Bladgoud",
       "CNzh": "金箔",
       "TWzh": "金箔",
-      "JPja": "きんぱ"
+      "JPja": "きんぱく",
+      "KRko": "금박",
+      "EUru": "Карамель"
     }
-  },
-  {
-    "id": "금박",
-    "Cloth Name": "Карамель",
-    "variant_id": "く",
-    "locale": {}
   },
   {
     "id": 10837,
