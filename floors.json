@@ -3558,5 +3558,25 @@
       "KRko": "해적 바닥",
       "EUru": "пиратский пол"
     }
+  },
+  {
+    "id": "RoomFloor_13225",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky flooring",
+      "EUen": "spooky flooring",
+      "EUde": "Kürbisboden",
+      "EUes": "suelo calabaza",
+      "USes": "suelo calabaza",
+      "EUfr": "sol Halloween",
+      "USfr": "sol Halloween",
+      "EUit": "pavimento brividi",
+      "EUnl": "pompoenvloer",
+      "CNzh": "万圣节地板",
+      "TWzh": "萬聖節地板",
+      "JPja": "ハロウィンなゆか",
+      "KRko": "할로윈 바닥",
+      "EUru": "жуткий пол"
+    }
   }
 ]

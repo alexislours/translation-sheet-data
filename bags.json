@@ -918,5 +918,25 @@
       "KRko": "포도 수확 바구니",
       "EUru": "кузовок для винограда"
     }
+  },
+  {
+    "id": 1268,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "impish wings",
+      "EUen": "impish wings",
+      "EUde": "Dämonenflügel-Rucksack",
+      "EUes": "par de alas de diablillo",
+      "USes": "par de alas de diablito",
+      "EUfr": "paire d'ailes de diablotin",
+      "USfr": "paire d'ailes de diablotin",
+      "EUit": "paio di ali da diavoletto",
+      "EUnl": "duivelse vleugelrugzak",
+      "CNzh": "小恶魔翅膀背包",
+      "TWzh": "小惡魔翅膀包包",
+      "JPja": "こあくまなつばさバッグ",
+      "KRko": "꼬마 악마 날개 가방",
+      "EUru": "крылышки бесенка"
+    }
   }
 ]

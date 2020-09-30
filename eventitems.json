@@ -40,6 +40,86 @@
     }
   },
   {
+    "id": "Candy_13196",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "lollipop",
+      "EUen": "lollipop",
+      "EUde": "Lolli",
+      "EUes": "piruleta",
+      "USes": "paleta",
+      "EUfr": "sucette",
+      "USfr": "suçon",
+      "EUit": "lecca-lecca",
+      "EUnl": "lolly",
+      "CNzh": "棒棒糖",
+      "TWzh": "棒棒糖",
+      "JPja": "ロリポップ",
+      "KRko": "롤리팝",
+      "EUru": "леденец на палочке"
+    }
+  },
+  {
+    "id": "Candy_13196_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "lollipops",
+      "EUen": "lollipops",
+      "EUde": "Lollis",
+      "EUes": "piruletas",
+      "USes": "paletas",
+      "EUfr": "sucettes",
+      "USfr": "suçons",
+      "EUit": "lecca-lecca",
+      "EUnl": "lolly's",
+      "CNzh": "棒棒糖",
+      "TWzh": "棒棒糖",
+      "JPja": "ロリポップ",
+      "KRko": "롤리팝",
+      "EUru": "леденцы на палочке"
+    }
+  },
+  {
+    "id": "Candy_13197",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "candy",
+      "EUen": "candy",
+      "EUde": "Bonbon",
+      "EUes": "chuche",
+      "USes": "dulce",
+      "EUfr": "bonbon",
+      "USfr": "bonbon",
+      "EUit": "dolcetto",
+      "EUnl": "snoepje",
+      "CNzh": "糖果",
+      "TWzh": "糖果",
+      "JPja": "アメ",
+      "KRko": "사탕",
+      "EUru": "конфета"
+    }
+  },
+  {
+    "id": "Candy_13197_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "candy",
+      "EUen": "candy",
+      "EUde": "Bonbons",
+      "EUes": "chuches",
+      "USes": "dulces",
+      "EUfr": "bonbons",
+      "USfr": "bonbons",
+      "EUit": "dolcetti",
+      "EUnl": "snoepjes",
+      "CNzh": "糖果",
+      "TWzh": "糖果",
+      "JPja": "アメ",
+      "KRko": "사탕",
+      "EUru": "конфеты"
+    }
+  },
+  {
     "id": "EasterEgg_12509",
     "version": "1.1.0",
     "locale": {
@@ -520,6 +600,46 @@
     }
   },
   {
+    "id": "PirateQuest_13105",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "communicator",
+      "EUen": "communicator",
+      "EUde": "Fernsprecher",
+      "EUes": "comunicador",
+      "USes": "comunicador",
+      "EUfr": "émetteur",
+      "USfr": "émetteur",
+      "EUit": "comunicatore",
+      "EUnl": "marifoon",
+      "CNzh": "通信装置",
+      "TWzh": "通訊裝置",
+      "JPja": "つうしんそうち",
+      "KRko": "통신 장치",
+      "EUru": "коммуникатор"
+    }
+  },
+  {
+    "id": "PirateQuest_13105_pl",
+    "version": "1.3.0",
+    "locale": {
+      "USen": "communicators",
+      "EUen": "communicators",
+      "EUde": "Fernsprecher",
+      "EUes": "comunicadores",
+      "USes": "comunicadores",
+      "EUfr": "émetteurs",
+      "USfr": "émetteurs",
+      "EUit": "comunicatori",
+      "EUnl": "marifoons",
+      "CNzh": "通信装置",
+      "TWzh": "通訊裝置",
+      "JPja": "つうしんそうち",
+      "KRko": "통신 장치",
+      "EUru": "коммуникаторы"
+    }
+  },
+  {
     "id": "RollanTicket_09261",
     "version": "1.0.0",
     "locale": {
@@ -816,46 +936,6 @@
       "JPja": "ゆうたろうのたましい",
       "KRko": "깨빈의 영혼",
       "EUru": "частицы духа Уиспа"
-    }
-  },
-  {
-    "id": "PirateQuest_13105",
-    "version": "1.3.0",
-    "locale": {
-      "USen": "communicator",
-      "EUen": "communicator",
-      "EUde": "Fernsprecher",
-      "EUes": "comunicador",
-      "USes": "comunicador",
-      "EUfr": "émetteur",
-      "USfr": "émetteur",
-      "EUit": "comunicatore",
-      "EUnl": "marifoon",
-      "CNzh": "通信装置",
-      "TWzh": "通訊裝置",
-      "JPja": "つうしんそうち",
-      "KRko": "통신 장치",
-      "EUru": "коммуникатор"
-    }
-  },
-  {
-    "id": "PirateQuest_13105_pl",
-    "version": "1.3.0",
-    "locale": {
-      "USen": "communicators",
-      "EUen": "communicators",
-      "EUde": "Fernsprecher",
-      "EUes": "comunicadores",
-      "USes": "comunicadores",
-      "EUfr": "émetteurs",
-      "USfr": "émetteurs",
-      "EUit": "comunicatori",
-      "EUnl": "marifoons",
-      "CNzh": "通信装置",
-      "TWzh": "通訊裝置",
-      "JPja": "つうしんそうち",
-      "KRko": "통신 장치",
-      "EUru": "коммуникаторы"
     }
   }
 ]

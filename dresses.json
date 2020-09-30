@@ -4820,6 +4820,86 @@
     }
   },
   {
+    "id": 1261,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "Jack's robe",
+      "EUen": "Jack's robe",
+      "EUde": "Jakob-Gewand",
+      "EUes": "túnica de Soponcio",
+      "USes": "túnica de Soponcio",
+      "EUfr": "robe de Jacqu'O",
+      "USfr": "robe de Jacqu'O",
+      "EUit": "tunica di Fifonio",
+      "EUnl": "gewaad van Jack",
+      "CNzh": "南瓜王长袍",
+      "TWzh": "南瓜王長袍",
+      "JPja": "パンプキングローブ",
+      "KRko": "펌킹 로브",
+      "EUru": "одеяние Джека"
+    }
+  },
+  {
+    "id": 1262,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "raggedy outfit",
+      "EUen": "raggedy outfit",
+      "EUde": "Landstreicher-Outfit",
+      "EUes": "traje andrajoso",
+      "USes": "traje andrajoso",
+      "EUfr": "tenue haillons",
+      "USfr": "tenue haillons",
+      "EUit": "costume cencioso",
+      "EUnl": "haveloze outfit",
+      "CNzh": "破烂服",
+      "TWzh": "破舊服",
+      "JPja": "ボロボロなふく",
+      "KRko": "찢어진 옷",
+      "EUru": "изношенный наряд"
+    }
+  },
+  {
+    "id": 1263,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "mage's dress",
+      "EUen": "mage's dress",
+      "EUde": "Hexenkleid",
+      "EUes": "vestido de hechicería",
+      "USes": "vestido de hechicería",
+      "EUfr": "robe de mage",
+      "USfr": "robe de mage",
+      "EUit": "costume stregonesco",
+      "EUnl": "heksenjurk",
+      "CNzh": "魔法师洋装",
+      "TWzh": "魔法師洋裝",
+      "JPja": "まほうつかいのドレス",
+      "KRko": "마법사 드레스",
+      "EUru": "платье колдуньи"
+    }
+  },
+  {
+    "id": 1264,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "flashy animal costume",
+      "EUen": "flashy animal costume",
+      "EUde": "Tierkostüm",
+      "EUes": "disfraz de animal",
+      "USes": "disfraz de animal",
+      "EUfr": "costume d'animal flashy",
+      "USfr": "costume d'animal flashy",
+      "EUit": "costume da animale",
+      "EUnl": "dierenkostuum",
+      "CNzh": "鲜艳动物玩偶服",
+      "TWzh": "鮮豔動物玩偶裝",
+      "JPja": "ハデなアニマルきぐるみ",
+      "KRko": "화려한 동물 인형 옷",
+      "EUru": "броский зверин. костюм"
+    }
+  },
+  {
     "id": 1301,
     "version": "1.4.0",
     "locale": {
@@ -4857,6 +4937,26 @@
       "JPja": "ひこぼしのふく",
       "KRko": "견우 옷",
       "EUru": "наряд Хикобоси"
+    }
+  },
+  {
+    "id": 1315,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "magic-academy robe",
+      "EUen": "magic-academy robe",
+      "EUde": "Zauberlehrlingsrobe",
+      "EUes": "túnica escuela de magia",
+      "USes": "túnica escuela de magia",
+      "EUfr": "robe école de magie",
+      "USfr": "robe école de magie",
+      "EUit": "vestito da scuola di magia",
+      "EUnl": "tovenaarsleerlinggewaad",
+      "CNzh": "魔法学校长袍",
+      "TWzh": "魔法學校長袍",
+      "JPja": "まほうスクールのローブ",
+      "KRko": "마법 학교 로브",
+      "EUru": "наряд академии магов"
     }
   }
 ]

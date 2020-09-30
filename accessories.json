@@ -1500,6 +1500,26 @@
     }
   },
   {
+    "id": 1271,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "animal nose",
+      "EUen": "animal nose",
+      "EUde": "Tiernase",
+      "EUes": "nariz de animal",
+      "USes": "nariz de animal",
+      "EUfr": "nez d'animal",
+      "USfr": "nez d'animal",
+      "EUit": "muso animale",
+      "EUnl": "dierensnuit",
+      "CNzh": "动物假鼻子",
+      "TWzh": "動物鼻子道具",
+      "JPja": "アニマルなつけばな",
+      "KRko": "동물 코",
+      "EUru": "звериная мордочка"
+    }
+  },
+  {
     "id": 1300,
     "version": "1.3.0",
     "locale": {

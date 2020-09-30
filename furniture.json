@@ -10580,6 +10580,166 @@
     }
   },
   {
+    "id": "Ftr_04083",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky arch",
+      "EUen": "spooky arch",
+      "EUde": "Kürbistor",
+      "EUes": "arco calabaza",
+      "USes": "arco calabaza",
+      "EUfr": "arche Halloween",
+      "USfr": "arche frisson",
+      "EUit": "arco brividi",
+      "EUnl": "pompoenpoort",
+      "CNzh": "万圣节拱门",
+      "TWzh": "萬聖節拱門",
+      "JPja": "ハロウィンなアーチ",
+      "KRko": "할로윈 아치",
+      "EUru": "жуткая арка"
+    }
+  },
+  {
+    "id": "Ftr_04084",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky scarecrow",
+      "EUen": "spooky scarecrow",
+      "EUde": "Kürbisvogelscheuche",
+      "EUes": "espantapájaros calabaza",
+      "USes": "espantapájaros calabaza",
+      "EUfr": "épouvantail Halloween",
+      "USfr": "épouvantail frisson",
+      "EUit": "spaventapasseri brividi",
+      "EUnl": "pompoenvogelverschrikker",
+      "CNzh": "万圣节稻草人",
+      "TWzh": "萬聖節稻草人",
+      "JPja": "ハロウィンなかかし",
+      "KRko": "할로윈 허수아비",
+      "EUru": "жуткое пугало"
+    }
+  },
+  {
+    "id": "Ftr_04086",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky tower",
+      "EUen": "spooky tower",
+      "EUde": "Kürbisturm",
+      "EUes": "torre calabaza",
+      "USes": "torre calabaza",
+      "EUfr": "pile de citrouilles Halloween",
+      "USfr": "pile de citrouilles frisson",
+      "EUit": "torre brividi",
+      "EUnl": "pompoentoren",
+      "CNzh": "万圣节塔",
+      "TWzh": "萬聖節塔",
+      "JPja": "ハロウィンなタワー",
+      "KRko": "할로윈 타워",
+      "EUru": "жуткая башенка"
+    }
+  },
+  {
+    "id": "Ftr_04087",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky carriage",
+      "EUen": "spooky carriage",
+      "EUde": "Kürbiskutsche",
+      "EUes": "carruaje calabaza",
+      "USes": "carruaje calabaza",
+      "EUfr": "calèche Halloween",
+      "USfr": "calèche frisson",
+      "EUit": "carro brividi",
+      "EUnl": "pompoenkoets",
+      "CNzh": "万圣节马车",
+      "TWzh": "萬聖節馬車",
+      "JPja": "ハロウィンなばしゃ",
+      "KRko": "할로윈 마차",
+      "EUru": "жуткая карета"
+    }
+  },
+  {
+    "id": "Ftr_04088",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky lantern",
+      "EUen": "spooky lantern",
+      "EUde": "Kürbislaterne",
+      "EUes": "farol calabaza",
+      "USes": "farol calabaza",
+      "EUfr": "lanterne Halloween",
+      "USfr": "lanterne frisson",
+      "EUit": "lanterna brividi",
+      "EUnl": "pompoenlantaarn",
+      "CNzh": "万圣节灯笼",
+      "TWzh": "萬聖節燈籠",
+      "JPja": "ハロウィンなランタン",
+      "KRko": "할로윈 랜턴",
+      "EUru": "жуткий светильник"
+    }
+  },
+  {
+    "id": "Ftr_04089",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky chair",
+      "EUen": "spooky chair",
+      "EUde": "Kürbisstuhl",
+      "EUes": "taburete calabaza",
+      "USes": "taburete calabaza",
+      "EUfr": "siège Halloween",
+      "USfr": "siège frisson",
+      "EUit": "sedia brividi",
+      "EUnl": "pompoenkruk",
+      "CNzh": "万圣节椅",
+      "TWzh": "萬聖節椅",
+      "JPja": "ハロウィンなチェア",
+      "KRko": "할로윈 체어",
+      "EUru": "жуткий табурет-тыква"
+    }
+  },
+  {
+    "id": "Ftr_04090",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky table",
+      "EUen": "spooky table",
+      "EUde": "Kürbistisch",
+      "EUes": "mesa grande calabaza",
+      "USes": "mesa grande calabaza",
+      "EUfr": "table Halloween",
+      "USfr": "table frisson",
+      "EUit": "tavolo brividi",
+      "EUnl": "pompoentafel",
+      "CNzh": "万圣节桌",
+      "TWzh": "萬聖節桌",
+      "JPja": "ハロウィンなテーブル",
+      "KRko": "할로윈 테이블",
+      "EUru": "жуткий стол-тыква"
+    }
+  },
+  {
+    "id": "Ftr_04092",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky lantern set",
+      "EUen": "spooky lantern set",
+      "EUde": "Kürbislaternenset",
+      "EUes": "set de faroles calabaza",
+      "USes": "set de faroles calabaza",
+      "EUfr": "set de lanternes Halloween",
+      "USfr": "lanternes frisson",
+      "EUit": "set di lanterne brividi",
+      "EUnl": "pompoenlantaarns",
+      "CNzh": "万圣节灯笼组合",
+      "TWzh": "萬聖節燈籠組合",
+      "JPja": "ハロウィンなランタンセット",
+      "KRko": "할로윈 랜턴 세트",
+      "EUru": "жуткие светильники"
+    }
+  },
+  {
     "id": "Ftr_04093",
     "version": "1.0.0",
     "locale": {
@@ -12240,26 +12400,6 @@
     }
   },
   {
-    "id": "Ftr_05884",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "とたけけのスツール",
-      "EUen": "とたけけのスツール",
-      "EUde": "とたけけのスツール",
-      "EUes": "とたけけのスツール",
-      "USes": "とたけけのスツール",
-      "EUfr": "とたけけのスツール",
-      "USfr": "とたけけのスツール",
-      "EUit": "とたけけのスツール",
-      "EUnl": "とたけけのスツール",
-      "CNzh": "とたけけのスツール",
-      "TWzh": "とたけけのスツール",
-      "JPja": "とたけけのスツール",
-      "KRko": "とたけけのスツール",
-      "EUru": "とたけけのスツール"
-    }
-  },
-  {
     "id": "Ftr_05931",
     "version": "1.0.0",
     "locale": {
@@ -12857,26 +12997,6 @@
       "JPja": "きのみのアーチ",
       "KRko": "나무 열매 아치",
       "EUru": "арка из даров леса"
-    }
-  },
-  {
-    "id": "Ftr_06813",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "とたけけライブのイス",
-      "EUen": "とたけけライブのイス",
-      "EUde": "とたけけライブのイス",
-      "EUes": "とたけけライブのイス",
-      "USes": "とたけけライブのイス",
-      "EUfr": "とたけけライブのイス",
-      "USfr": "とたけけライブのイス",
-      "EUit": "とたけけライブのイス",
-      "EUnl": "とたけけライブのイス",
-      "CNzh": "とたけけライブのイス",
-      "TWzh": "とたけけライブのイス",
-      "JPja": "とたけけライブのイス",
-      "KRko": "とたけけライブのイス",
-      "EUru": "とたけけライブのイス"
     }
   },
   {
@@ -16000,26 +16120,6 @@
     }
   },
   {
-    "id": "Ftr_12201",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "ひろばのベンチ",
-      "EUen": "ひろばのベンチ",
-      "EUde": "ひろばのベンチ",
-      "EUes": "ひろばのベンチ",
-      "USes": "ひろばのベンチ",
-      "EUfr": "ひろばのベンチ",
-      "USfr": "ひろばのベンチ",
-      "EUit": "ひろばのベンチ",
-      "EUnl": "ひろばのベンチ",
-      "CNzh": "ひろばのベンチ",
-      "TWzh": "ひろばのベンチ",
-      "JPja": "ひろばのベンチ",
-      "KRko": "ひろばのベンチ",
-      "EUru": "ひろばのベンチ"
-    }
-  },
-  {
     "id": "Ftr_12206",
     "version": "1.0.0",
     "locale": {
@@ -16077,66 +16177,6 @@
       "JPja": "こけむしたにわいし",
       "KRko": "이끼 낀 바위",
       "EUru": "садовый камень с мхом"
-    }
-  },
-  {
-    "id": "Ftr_12209",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "パニエルのせんたくおけ",
-      "EUen": "パニエルのせんたくおけ",
-      "EUde": "パニエルのせんたくおけ",
-      "EUes": "パニエルのせんたくおけ",
-      "USes": "パニエルのせんたくおけ",
-      "EUfr": "パニエルのせんたくおけ",
-      "USfr": "パニエルのせんたくおけ",
-      "EUit": "パニエルのせんたくおけ",
-      "EUnl": "パニエルのせんたくおけ",
-      "CNzh": "パニエルのせんたくおけ",
-      "TWzh": "パニエルのせんたくおけ",
-      "JPja": "パニエルのせんたくおけ",
-      "KRko": "パニエルのせんたくおけ",
-      "EUru": "パニエルのせんたくおけ"
-    }
-  },
-  {
-    "id": "Ftr_12210",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "パニエルのものほしロープ",
-      "EUen": "パニエルのものほしロープ",
-      "EUde": "パニエルのものほしロープ",
-      "EUes": "パニエルのものほしロープ",
-      "USes": "パニエルのものほしロープ",
-      "EUfr": "パニエルのものほしロープ",
-      "USfr": "パニエルのものほしロープ",
-      "EUit": "パニエルのものほしロープ",
-      "EUnl": "パニエルのものほしロープ",
-      "CNzh": "パニエルのものほしロープ",
-      "TWzh": "パニエルのものほしロープ",
-      "JPja": "パニエルのものほしロープ",
-      "KRko": "パニエルのものほしロープ",
-      "EUru": "パニエルのものほしロープ"
-    }
-  },
-  {
-    "id": "Ftr_12229",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "パニエルのいしがま",
-      "EUen": "パニエルのいしがま",
-      "EUde": "パニエルのいしがま",
-      "EUes": "パニエルのいしがま",
-      "USes": "パニエルのいしがま",
-      "EUfr": "パニエルのいしがま",
-      "USfr": "パニエルのいしがま",
-      "EUit": "パニエルのいしがま",
-      "EUnl": "パニエルのいしがま",
-      "CNzh": "パニエルのいしがま",
-      "TWzh": "パニエルのいしがま",
-      "JPja": "パニエルのいしがま",
-      "KRko": "パニエルのいしがま",
-      "EUru": "パニエルのいしがま"
     }
   },
   {
@@ -17300,6 +17340,46 @@
     }
   },
   {
+    "id": "Ftr_12949",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky standing lamp",
+      "EUen": "spooky standing lamp",
+      "EUde": "Kürbis-Stehlampe",
+      "EUes": "farol colgante calabaza",
+      "USes": "farol colgante calabaza",
+      "EUfr": "lampadaire Halloween",
+      "USfr": "lampadaire frisson",
+      "EUit": "piantana brividi",
+      "EUnl": "staande pompoenlamp",
+      "CNzh": "万圣节落地灯",
+      "TWzh": "萬聖節落地燈",
+      "JPja": "ハロウィンなスタンド",
+      "KRko": "할로윈 스탠드",
+      "EUru": "жуткий торшер"
+    }
+  },
+  {
+    "id": "Ftr_12951",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky candy set",
+      "EUen": "spooky candy set",
+      "EUde": "Kürbis-Süßigkeiten-Set",
+      "EUes": "bandeja chuches calabaza",
+      "USes": "bandeja dulces calabaza",
+      "EUfr": "lot de bonbons Halloween",
+      "USfr": "lot de bonbons frisson",
+      "EUit": "set di dolcetti brividi",
+      "EUnl": "pompoensnoepset",
+      "CNzh": "万圣节甜点盘",
+      "TWzh": "萬聖節甜點盤",
+      "JPja": "ハロウィンなおかしプレート",
+      "KRko": "할로윈 사탕 플레이트",
+      "EUru": "жуткий набор сластей"
+    }
+  },
+  {
     "id": "Ftr_13221",
     "version": "1.4.0",
     "locale": {
@@ -17317,6 +17397,86 @@
       "JPja": "ゆめみのベッド",
       "KRko": "몽셰르의 침대",
       "EUru": "кровать Луны"
+    }
+  },
+  {
+    "id": "Ftr_13222",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky garland",
+      "EUen": "spooky garland",
+      "EUde": "Kürbis-Girlande",
+      "EUes": "guirnalda calabaza",
+      "USes": "guirnalda calabaza",
+      "EUfr": "guirlande Halloween",
+      "USfr": "guirlande frisson",
+      "EUit": "festone brividi",
+      "EUnl": "pompoenslinger",
+      "CNzh": "梦美的床铺",
+      "TWzh": "夢美的床鋪",
+      "JPja": "ゆめみのベッド",
+      "KRko": "몽셰르의 침대",
+      "EUru": "жуткая гирлянда"
+    }
+  },
+  {
+    "id": "Ftr_13223",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky table setting",
+      "EUen": "spooky table setting",
+      "EUde": "Kürbis-Tischgedeck",
+      "EUes": "servicio de mesa calabaza",
+      "USes": "servicio de mesa calabaza",
+      "EUfr": "déco de table Halloween",
+      "USfr": "déco de table frisson",
+      "EUit": "set da tavola brividi",
+      "EUnl": "pompoenservies",
+      "CNzh": "万圣节挂饰",
+      "TWzh": "萬聖節掛旗",
+      "JPja": "ハロウィンなガーランド",
+      "KRko": "할로윈 가랜드",
+      "EUru": "жуткая сервировка"
+    }
+  },
+  {
+    "id": "Ftr_13293",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "Ring-Con",
+      "EUen": "Ring-Con",
+      "EUde": "Ring-Con",
+      "EUes": "Ring-Con",
+      "USes": "Ring-Con",
+      "EUfr": "Ring-Con",
+      "USfr": "Ring-Con",
+      "EUit": "Ring-Con",
+      "EUnl": "Ring-Con",
+      "CNzh": "Ring-Con",
+      "TWzh": "Ring-Con",
+      "JPja": "リングコン",
+      "KRko": "링콘",
+      "EUru": "аксессуар Ring-Con"
+    }
+  },
+  {
+    "id": "Ftr_13353",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "Jack's portrait",
+      "EUen": "Jack's portrait",
+      "EUde": "Porträt von Jakob",
+      "EUes": "retrato de Soponcio",
+      "USes": "retrato de Soponcio",
+      "EUfr": "portrait de Jacqu'O",
+      "USfr": "portrait de Jacqu'O",
+      "EUit": "ritratto di Fifonio",
+      "EUnl": "portret van Jack",
+      "CNzh": "南瓜王的肖像画",
+      "TWzh": "南瓜王肖像畫",
+      "JPja": "パンプキングのしょうぞうが",
+      "KRko": "펌킹의 초상화",
+      "EUru": "портрет Джека"
     }
   }
 ]

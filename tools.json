@@ -1218,5 +1218,25 @@
       "KRko": "높이뛰기 장대",
       "EUru": "шест"
     }
+  },
+  {
+    "id": "ChangeStick_13237",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky wand",
+      "EUen": "spooky wand",
+      "EUde": "Kürbisstab",
+      "EUes": "varita calabaza",
+      "USes": "varita calabaza",
+      "EUfr": "baguette Halloween",
+      "USfr": "baguette Halloween",
+      "EUit": "bacchetta brividi",
+      "EUnl": "pompoenstaf",
+      "CNzh": "万圣节棒",
+      "TWzh": "萬聖節棒",
+      "JPja": "ハロウィンなステッキ",
+      "KRko": "할로윈 지팡이",
+      "EUru": "жуткая палочка"
+    }
   }
 ]

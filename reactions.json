@@ -20,6 +20,46 @@
     }
   },
   {
+    "id": "AddPrank",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "Scare",
+      "EUen": "Scare",
+      "EUde": "Erschrecken",
+      "EUes": "Susto",
+      "USes": "Susto",
+      "EUfr": "Épouvante",
+      "USfr": "Épouvante",
+      "EUit": "Spavento",
+      "EUnl": "Bang maken",
+      "CNzh": "吓唬",
+      "TWzh": "驚嚇",
+      "JPja": "おどかす",
+      "KRko": "왁!",
+      "EUru": "Устрашение"
+    }
+  },
+  {
+    "id": "AddScaring",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "Haunt",
+      "EUen": "Haunt",
+      "EUde": "Schocken",
+      "EUes": "Espanto",
+      "USes": "Espanto",
+      "EUfr": "Envoûtement",
+      "USfr": "Envoûtement",
+      "EUit": "Terrore",
+      "EUnl": "Spoken",
+      "CNzh": "惊吓",
+      "TWzh": "嚇人",
+      "JPja": "こわがらせる",
+      "KRko": "겁주기",
+      "EUru": "Испуг"
+    }
+  },
+  {
     "id": "Aha",
     "version": "1.0.0",
     "locale": {

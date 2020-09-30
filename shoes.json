@@ -1778,5 +1778,45 @@
       "KRko": "해적 부츠",
       "EUru": "пиратские сапоги"
     }
+  },
+  {
+    "id": 1269,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "flashy animal boots",
+      "EUen": "flashy animal boots",
+      "EUde": "Paar Tierkostüm-Schuhe",
+      "EUes": "bota de animal",
+      "USes": "bota de animal",
+      "EUfr": "p. de bottes animal flashy",
+      "USfr": "p. de bottes animal flashy",
+      "EUit": "paio di stivali da animale",
+      "EUnl": "dierenlaarzen",
+      "CNzh": "鲜艳动物玩偶服靴子",
+      "TWzh": "鮮豔動物玩偶裝靴子",
+      "JPja": "ハデなアニマルきぐるみブーツ",
+      "KRko": "화려한 동물 인형 옷 부츠",
+      "EUru": "броские звериные сапоги"
+    }
+  },
+  {
+    "id": 1270,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "mage's boots",
+      "EUen": "mage's boots",
+      "EUde": "Paar Zauberschuhe",
+      "EUes": "bota de hechicería",
+      "USes": "bota de hechicería",
+      "EUfr": "paire de bottes de mage",
+      "USfr": "paire de bottes de mage",
+      "EUit": "paio di stivali stregoneschi",
+      "EUnl": "heksenlaarzen",
+      "CNzh": "魔法师靴子",
+      "TWzh": "魔法師靴子",
+      "JPja": "まほうつかいのブーツ",
+      "KRko": "마법사 부츠",
+      "EUru": "полусапоги мага"
+    }
   }
 ]

@@ -4980,6 +4980,26 @@
     }
   },
   {
+    "id": "RoomWall_13224",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky wall",
+      "EUen": "spooky wall",
+      "EUde": "Kürbistapete",
+      "EUes": "pared calabaza",
+      "USes": "pared calabaza",
+      "EUfr": "mur Halloween",
+      "USfr": "mur Halloween",
+      "EUit": "muro brividi",
+      "EUnl": "pompoenwand",
+      "CNzh": "万圣节墙",
+      "TWzh": "萬聖節牆",
+      "JPja": "ハロウィンなかべ",
+      "KRko": "할로윈 벽",
+      "EUru": "жуткая стена"
+    }
+  },
+  {
     "id": "RoomWall_13230",
     "version": "1.4.0",
     "locale": {

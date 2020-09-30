@@ -640,6 +640,26 @@
     }
   },
   {
+    "id": 790,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "King Tut mask",
+      "EUen": "King Tut mask",
+      "EUde": "Pharaomaske",
+      "EUes": "máscara egipcia",
+      "USes": "máscara egipcia",
+      "EUfr": "masque de pharaon",
+      "USfr": "masque de pharaon",
+      "EUit": "maschera Re Tut",
+      "EUnl": "faraomasker",
+      "CNzh": "图坦卡门面具",
+      "TWzh": "圖坦卡門面具",
+      "JPja": "ツタンカーメン",
+      "KRko": "투탕카멘",
+      "EUru": "маска фараона Тута"
+    }
+  },
+  {
     "id": 822,
     "version": "1.0.0",
     "locale": {
@@ -1240,23 +1260,43 @@
     }
   },
   {
-    "id": 790,
-    "version": "1.4.0",
+    "id": 1265,
+    "version": "1.5.0",
     "locale": {
-      "USen": "King Tut mask",
-      "EUen": "King Tut mask",
-      "EUde": "Pharaomaske",
-      "EUes": "máscara egipcia",
-      "USes": "máscara egipcia",
-      "EUfr": "masque de pharaon",
-      "USfr": "masque de pharaon",
-      "EUit": "maschera Re Tut",
-      "EUnl": "faraomasker",
-      "CNzh": "图坦卡门面具",
-      "TWzh": "圖坦卡門面具",
-      "JPja": "ツタンカーメン",
-      "KRko": "투탕카멘",
-      "EUru": "маска фараона Тута"
+      "USen": "magic-academy hood",
+      "EUen": "magic-academy hood",
+      "EUde": "Zauberlehrlingskapuze",
+      "EUes": "capucha escuela de magia",
+      "USes": "capucha escuela de magia",
+      "EUfr": "capuche école de magie",
+      "USfr": "capuche école de magie",
+      "EUit": "cappuccio scuola di magia",
+      "EUnl": "tovenaarsleerlingkap",
+      "CNzh": "魔法学校兜帽",
+      "TWzh": "魔法學校兜帽",
+      "JPja": "まほうスクールのフード",
+      "KRko": "마법 학교 후드",
+      "EUru": "капюшон академии магов"
+    }
+  },
+  {
+    "id": 1266,
+    "version": "1.5.0",
+    "locale": {
+      "USen": "Jack's face",
+      "EUen": "Jack's face",
+      "EUde": "Jakob-Maske",
+      "EUes": "máscara de Soponcio",
+      "USes": "máscara de Soponcio",
+      "EUfr": "masque Jacqu'O",
+      "USfr": "masque Jacqu'O",
+      "EUit": "maschera di Fifonio",
+      "EUnl": "masker van Jack",
+      "CNzh": "南瓜王头套",
+      "TWzh": "南瓜王面孔",
+      "JPja": "パンプキングフェイス",
+      "KRko": "펌킹 페이스",
+      "EUru": "шлем Джека"
     }
   }
 ]

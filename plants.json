@@ -9380,6 +9380,46 @@
     }
   },
   {
+    "id": "VegeSeedling_13227",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "pumpkin start",
+      "EUen": "pumpkin start",
+      "EUde": "Kürbissetzling",
+      "EUes": "calabaza de vivero",
+      "USes": "calabaza de vivero",
+      "EUfr": "pousse de citrouille",
+      "USfr": "pousse de citrouille",
+      "EUit": "piantina di zucca",
+      "EUnl": "pompoenzaailing",
+      "CNzh": "南瓜苗",
+      "TWzh": "南瓜苗",
+      "JPja": "かぼちゃのなえ",
+      "KRko": "호박 모종",
+      "EUru": "побег тыквы"
+    }
+  },
+  {
+    "id": "VegeSeedling_13227_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "pumpkin starts",
+      "EUen": "pumpkin starts",
+      "EUde": "Kürbissetzlinge",
+      "EUes": "calabazas de vivero",
+      "USes": "calabazas de vivero",
+      "EUfr": "pousses de citrouilles",
+      "USfr": "pousses de citrouilles",
+      "EUit": "piantine di zucca",
+      "EUnl": "pompoenzaailingen",
+      "CNzh": "南瓜苗",
+      "TWzh": "南瓜苗",
+      "JPja": "かぼちゃのなえ",
+      "KRko": "호박 모종",
+      "EUru": "побеги тыквы"
+    }
+  },
+  {
     "id": "Vegetable_02295",
     "version": "1.0.0",
     "locale": {
@@ -9417,6 +9457,546 @@
       "JPja": "たけのこ",
       "KRko": "죽순",
       "EUru": "побеги бамбука"
+    }
+  },
+  {
+    "id": "Vegetable_04525",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "orange pumpkin",
+      "EUen": "orange pumpkin",
+      "EUde": "Orangekürbis",
+      "EUes": "calabaza naranja",
+      "USes": "calabaza naranja",
+      "EUfr": "citrouille orange",
+      "USfr": "citrouille orange",
+      "EUit": "zucca arancione",
+      "EUnl": "oranje pompoen",
+      "CNzh": "橘色南瓜",
+      "TWzh": "橘色南瓜",
+      "JPja": "オレンジのかぼちゃ",
+      "KRko": "주황색 호박",
+      "EUru": "оранжевая тыква"
+    }
+  },
+  {
+    "id": "Vegetable_04525_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "orange pumpkins",
+      "EUen": "orange pumpkins",
+      "EUde": "Orangekürbisse",
+      "EUes": "calabazas naranjas",
+      "USes": "calabazas naranjas",
+      "EUfr": "citrouilles orange",
+      "USfr": "citrouilles orange",
+      "EUit": "zucche arancioni",
+      "EUnl": "oranje pompoenen",
+      "CNzh": "橘色南瓜",
+      "TWzh": "橘色南瓜",
+      "JPja": "オレンジのかぼちゃ",
+      "KRko": "주황색 호박",
+      "EUru": "оранжевые тыквы"
+    }
+  },
+  {
+    "id": "Vegetable_04526",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "yellow pumpkin",
+      "EUen": "yellow pumpkin",
+      "EUde": "Gelbkürbis",
+      "EUes": "calabaza amarilla",
+      "USes": "calabaza amarilla",
+      "EUfr": "citrouille jaune",
+      "USfr": "citrouille jaune",
+      "EUit": "zucca gialla",
+      "EUnl": "gele pompoen",
+      "CNzh": "黄色南瓜",
+      "TWzh": "黃色南瓜",
+      "JPja": "きいろいかぼちゃ",
+      "KRko": "노란 호박",
+      "EUru": "желтая тыква"
+    }
+  },
+  {
+    "id": "Vegetable_04526_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "yellow pumpkins",
+      "EUen": "yellow pumpkins",
+      "EUde": "Gelbkürbisse",
+      "EUes": "calabazas amarillas",
+      "USes": "calabazas amarillas",
+      "EUfr": "citrouilles jaunes",
+      "USfr": "citrouilles jaunes",
+      "EUit": "zucche gialle",
+      "EUnl": "gele pompoenen",
+      "CNzh": "黄色南瓜",
+      "TWzh": "黃色南瓜",
+      "JPja": "きいろいかぼちゃ",
+      "KRko": "노란 호박",
+      "EUru": "желтые тыквы"
+    }
+  },
+  {
+    "id": "Vegetable_04527",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "green pumpkin",
+      "EUen": "green pumpkin",
+      "EUde": "Grünkürbis",
+      "EUes": "calabaza verde",
+      "USes": "calabaza verde",
+      "EUfr": "citrouille verte",
+      "USfr": "citrouille verte",
+      "EUit": "zucca verde",
+      "EUnl": "groene pompoen",
+      "CNzh": "绿色南瓜",
+      "TWzh": "綠色南瓜",
+      "JPja": "みどりのかぼちゃ",
+      "KRko": "초록색 호박",
+      "EUru": "зеленая тыква"
+    }
+  },
+  {
+    "id": "Vegetable_04527_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "green pumpkins",
+      "EUen": "green pumpkins",
+      "EUde": "Grünkürbisse",
+      "EUes": "calabazas verdes",
+      "USes": "calabazas verdes",
+      "EUfr": "citrouilles vertes",
+      "USfr": "citrouilles vertes",
+      "EUit": "zucche verdi",
+      "EUnl": "groene pompoenen",
+      "CNzh": "绿色南瓜",
+      "TWzh": "綠色南瓜",
+      "JPja": "みどりのかぼちゃ",
+      "KRko": "초록색 호박",
+      "EUru": "зеленые тыквы"
+    }
+  },
+  {
+    "id": "Vegetable_04528",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "white pumpkin",
+      "EUen": "white pumpkin",
+      "EUde": "Weißkürbis",
+      "EUes": "calabaza blanca",
+      "USes": "calabaza blanca",
+      "EUfr": "citrouille blanche",
+      "USfr": "citrouille blanche",
+      "EUit": "zucca bianca",
+      "EUnl": "witte pompoen",
+      "CNzh": "白色南瓜",
+      "TWzh": "白色南瓜",
+      "JPja": "しろいかぼちゃ",
+      "KRko": "하얀 호박",
+      "EUru": "белая тыква"
+    }
+  },
+  {
+    "id": "Vegetable_04528_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "white pumpkins",
+      "EUen": "white pumpkins",
+      "EUde": "Weißkürbisse",
+      "EUes": "calabazas blancas",
+      "USes": "calabazas blancas",
+      "EUfr": "citrouilles blanches",
+      "USfr": "citrouilles blanches",
+      "EUit": "zucche bianche",
+      "EUnl": "witte pompoenen",
+      "CNzh": "白色南瓜",
+      "TWzh": "白色南瓜",
+      "JPja": "しろいかぼちゃ",
+      "KRko": "하얀 호박",
+      "EUru": "белые тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_03052",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "small pumpkin sprout",
+      "EUen": "small pumpkin sprout",
+      "EUde": "Kürbis S (Spross)",
+      "EUes": "calabaza joven",
+      "USes": "calabaza joven",
+      "EUfr": "germe de citrouille S",
+      "USfr": "germe de citrouille S",
+      "EUit": "pianta di zucca S",
+      "EUnl": "pompoenzaailing",
+      "CNzh": "南瓜茎S",
+      "TWzh": "南瓜莖S",
+      "JPja": "かぼちゃのくきS",
+      "KRko": "호박 줄기 S",
+      "EUru": "низкая поросль тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_03053",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "medium pumpkin sprout",
+      "EUen": "medium pumpkin sprout",
+      "EUde": "Kürbis M (Spross)",
+      "EUes": "calabaza pequeña",
+      "USes": "calabaza pequeña",
+      "EUfr": "germe de citrouille M",
+      "USfr": "germe de citrouille M",
+      "EUit": "pianta di zucca M",
+      "EUnl": "kleine pompoenplant",
+      "CNzh": "南瓜茎M",
+      "TWzh": "南瓜莖M",
+      "JPja": "かぼちゃのくきM",
+      "KRko": "호박 줄기 M",
+      "EUru": "средняя поросль тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04362",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "large pumpkin sprout",
+      "EUen": "large pumpkin sprout",
+      "EUde": "Kürbis L (Spross)",
+      "EUes": "calabaza mediana",
+      "USes": "calabaza mediana",
+      "EUfr": "germe de citrouille L",
+      "USfr": "germe de citrouille L",
+      "EUit": "pianta di zucca L",
+      "EUnl": "grote pompoenplant",
+      "CNzh": "南瓜茎L",
+      "TWzh": "南瓜莖L",
+      "JPja": "かぼちゃのくきL",
+      "KRko": "호박 줄기 L",
+      "EUru": "высокая поросль тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04529",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "s. orange-pumpkin sprout",
+      "EUen": "s. orange-pumpkin sprout",
+      "EUde": "Orangekürbis S (Spross)",
+      "EUes": "calabaza naranja joven",
+      "USes": "calabaza naranja joven",
+      "EUfr": "germe citrouille orange S",
+      "USfr": "germe citrouille orange S",
+      "EUit": "pianta di zucca arancione S",
+      "EUnl": "oranje-pompoenzaailing",
+      "CNzh": "橘色南瓜茎S",
+      "TWzh": "橘色南瓜莖S",
+      "JPja": "オレンジのかぼちゃのくきS",
+      "KRko": "주황색 호박 줄기 S",
+      "EUru": "низк. поросль ор. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04530",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "m. orange-pumpkin sprout",
+      "EUen": "m. orange-pumpkin sprout",
+      "EUde": "Orangekürbis M (Spross)",
+      "EUes": "calabaza naranja pequeña",
+      "USes": "calabaza naranja pequeña",
+      "EUfr": "germe citrouille orange M",
+      "USfr": "germe citrouille orange M",
+      "EUit": "pianta di zucca arancione M",
+      "EUnl": "kleine oranje-pompoenplant",
+      "CNzh": "橘色南瓜茎M",
+      "TWzh": "橘色南瓜莖M",
+      "JPja": "オレンジのかぼちゃのくきM",
+      "KRko": "주황색 호박 줄기 M",
+      "EUru": "ср. поросль оранж. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04531",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "lg. orange-pumpkin sprout",
+      "EUen": "lg. orange-pumpkin sprout",
+      "EUde": "Orangekürbis L (Spross)",
+      "EUes": "calabaza naranja mediana",
+      "USes": "calabaza naranja mediana",
+      "EUfr": "germe citrouille orange L",
+      "USfr": "germe citrouille orange L",
+      "EUit": "pianta di zucca arancione L",
+      "EUnl": "grote oranje-pompoenplant",
+      "CNzh": "橘色南瓜茎L",
+      "TWzh": "橘色南瓜莖L",
+      "JPja": "オレンジのかぼちゃのくきL",
+      "KRko": "주황색 호박 줄기 L",
+      "EUru": "выс. поросль ор. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04532",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "ripe orange-pumpkin plant",
+      "EUen": "ripe orange-pumpkin plant",
+      "EUde": "Orangekürbis (reif)",
+      "EUes": "calabaza naranja madura",
+      "USes": "calabaza naranja madura",
+      "EUfr": "citrouille orange mûre",
+      "USfr": "citrouille orange mûre",
+      "EUit": "pianta zucca aranc. matura",
+      "EUnl": "rijpe oranje-pompoenplant",
+      "CNzh": "成熟的橘色南瓜",
+      "TWzh": "成熟的橘色南瓜",
+      "JPja": "そだったオレンジのかぼちゃ",
+      "KRko": "다 자란 주황색 호박",
+      "EUru": "взрослая оранжев. тыква"
+    }
+  },
+  {
+    "id": "VegeTree_04533",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "s. yellow-pumpkin sprout",
+      "EUen": "s. yellow-pumpkin sprout",
+      "EUde": "Gelbkürbis S (Spross)",
+      "EUes": "calabaza amarilla joven",
+      "USes": "calabaza amarilla joven",
+      "EUfr": "germe citrouille jaune S",
+      "USfr": "germe citrouille jaune S",
+      "EUit": "pianta di zucca gialla S",
+      "EUnl": "gele-pompoenzaailing",
+      "CNzh": "黄色南瓜茎S",
+      "TWzh": "黃色南瓜莖S",
+      "JPja": "きいろいかぼちゃのくきS",
+      "KRko": "노란 호박 줄기 S",
+      "EUru": "низк. поросль желт. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04534",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "m. yellow-pumpkin sprout",
+      "EUen": "m. yellow-pumpkin sprout",
+      "EUde": "Gelbkürbis M (Spross)",
+      "EUes": "calabaza amarilla pequeña",
+      "USes": "calabaza amarilla pequeña",
+      "EUfr": "germe citrouille jaune M",
+      "USfr": "germe citrouille jaune M",
+      "EUit": "pianta di zucca gialla M",
+      "EUnl": "kleine gele-pompoenplant",
+      "CNzh": "黄色南瓜茎M",
+      "TWzh": "黃色南瓜莖M",
+      "JPja": "きいろいかぼちゃのくきM",
+      "KRko": "노란 호박 줄기 M",
+      "EUru": "ср. поросль желтой тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04535",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "lg. yellow-pumpkin sprout",
+      "EUen": "lg. yellow-pumpkin sprout",
+      "EUde": "Gelbkürbis L (Spross)",
+      "EUes": "calabaza amarilla mediana",
+      "USes": "calabaza amarilla mediana",
+      "EUfr": "germe citrouille jaune L",
+      "USfr": "germe citrouille jaune L",
+      "EUit": "pianta di zucca gialla L",
+      "EUnl": "grote gele-pompoenplant",
+      "CNzh": "黄色南瓜茎L",
+      "TWzh": "黃色南瓜莖L",
+      "JPja": "きいろいかぼちゃのくきL",
+      "KRko": "노란 호박 줄기 L",
+      "EUru": "выс. поросль желт. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04536",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "ripe yellow-pumpkin plant",
+      "EUen": "ripe yellow-pumpkin plant",
+      "EUde": "Gelbkürbis (reif)",
+      "EUes": "calabaza amarilla madura",
+      "USes": "calabaza amarilla madura",
+      "EUfr": "citrouille jaune mûre",
+      "USfr": "citrouille jaune mûre",
+      "EUit": "pianta zucca gialla matura",
+      "EUnl": "rijpe gele-pompoenplant",
+      "CNzh": "成熟的黄色南瓜",
+      "TWzh": "成熟的黃色南瓜",
+      "JPja": "そだったきいろいかぼちゃ",
+      "KRko": "다 자란 노란 호박",
+      "EUru": "взрослая желтая тыква"
+    }
+  },
+  {
+    "id": "VegeTree_04537",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "s. green-pumpkin sprout",
+      "EUen": "s. green-pumpkin sprout",
+      "EUde": "Grünkürbis S (Spross)",
+      "EUes": "calabaza verde joven",
+      "USes": "calabaza verde joven",
+      "EUfr": "germe citrouille verte S",
+      "USfr": "germe citrouille verte S",
+      "EUit": "pianta di zucca verde S",
+      "EUnl": "groene-pompoenzaailing",
+      "CNzh": "绿色南瓜茎S",
+      "TWzh": "綠色南瓜莖S",
+      "JPja": "みどりのかぼちゃのくきS",
+      "KRko": "초록색 호박 줄기 S",
+      "EUru": "низк. поросль зел. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04538",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "m. green-pumpkin sprout",
+      "EUen": "m. green-pumpkin sprout",
+      "EUde": "Grünkürbis M (Spross)",
+      "EUes": "calabaza verde pequeña",
+      "USes": "calabaza verde pequeña",
+      "EUfr": "germe citrouille verte M",
+      "USfr": "germe citrouille verte M",
+      "EUit": "pianta di zucca verde M",
+      "EUnl": "kl. groene-pompoenplant",
+      "CNzh": "绿色南瓜茎M",
+      "TWzh": "綠色南瓜莖M",
+      "JPja": "みどりのかぼちゃのくきM",
+      "KRko": "초록색 호박 줄기 M",
+      "EUru": "ср. поросль зелен. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04539",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "lg. green-pumpkin sprout",
+      "EUen": "lg. green-pumpkin sprout",
+      "EUde": "Grünkürbis L (Spross)",
+      "EUes": "calabaza verde mediana",
+      "USes": "calabaza verde mediana",
+      "EUfr": "germe citrouille verte L",
+      "USfr": "germe citrouille verte L",
+      "EUit": "pianta di zucca verde L",
+      "EUnl": "grote groene-pompoenplant",
+      "CNzh": "绿色南瓜茎L",
+      "TWzh": "綠色南瓜莖L",
+      "JPja": "みどりのかぼちゃのくきL",
+      "KRko": "초록색 호박 줄기 L",
+      "EUru": "выс. поросль зелен. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04540",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "ripe green-pumpkin plant",
+      "EUen": "ripe green-pumpkin plant",
+      "EUde": "Grünkürbis (reif)",
+      "EUes": "calabaza verde madura",
+      "USes": "calabaza verde madura",
+      "EUfr": "citrouille verte mûre",
+      "USfr": "citrouille verte mûre",
+      "EUit": "pianta zucca verde matura",
+      "EUnl": "rijpe groene-pompoenplant",
+      "CNzh": "成熟的绿色南瓜",
+      "TWzh": "成熟的綠色南瓜",
+      "JPja": "そだったみどりのかぼちゃ",
+      "KRko": "다 자란 초록색 호박",
+      "EUru": "взрослая зеленая тыква"
+    }
+  },
+  {
+    "id": "VegeTree_04541",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "s. white-pumpkin sprout",
+      "EUen": "s. white-pumpkin sprout",
+      "EUde": "Weißkürbis S (Spross)",
+      "EUes": "calabaza blanca joven",
+      "USes": "calabaza blanca joven",
+      "EUfr": "germe citrouille blanche S",
+      "USfr": "germe citrouille blanche S",
+      "EUit": "pianta di zucca bianca S",
+      "EUnl": "witte-pompoenzaailing",
+      "CNzh": "白色南瓜茎S",
+      "TWzh": "白色南瓜莖S",
+      "JPja": "しろいかぼちゃのくきS",
+      "KRko": "하얀 호박 줄기 S",
+      "EUru": "низк. поросль бел. тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04542",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "m. white-pumpkin sprout",
+      "EUen": "m. white-pumpkin sprout",
+      "EUde": "Weißkürbis M (Spross)",
+      "EUes": "calabaza blanca pequeña",
+      "USes": "calabaza blanca pequeña",
+      "EUfr": "germe citrouille blanche M",
+      "USfr": "germe citrouille blanche M",
+      "EUit": "pianta di zucca bianca M",
+      "EUnl": "kleine witte-pompoenplant",
+      "CNzh": "白色南瓜茎M",
+      "TWzh": "白色南瓜莖M",
+      "JPja": "しろいかぼちゃのくきM",
+      "KRko": "하얀 호박 줄기 M",
+      "EUru": "ср. поросль белой тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04543",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "lg. white-pumpkin sprout",
+      "EUen": "lg. white-pumpkin sprout",
+      "EUde": "Weißkürbis L (Spross)",
+      "EUes": "calabaza blanca mediana",
+      "USes": "calabaza blanca mediana",
+      "EUfr": "germe citrouille blanche L",
+      "USfr": "germe citrouille blanche L",
+      "EUit": "pianta di zucca bianca L",
+      "EUnl": "grote witte-pompoenplant",
+      "CNzh": "白色南瓜茎L",
+      "TWzh": "白色南瓜莖L",
+      "JPja": "しろいかぼちゃのくきL",
+      "KRko": "하얀 호박 줄기 L",
+      "EUru": "выс. поросль белой тыквы"
+    }
+  },
+  {
+    "id": "VegeTree_04544",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "ripe white-pumpkin plant",
+      "EUen": "ripe white-pumpkin plant",
+      "EUde": "Weißkürbis (reif)",
+      "EUes": "calabaza blanca madura",
+      "USes": "calabaza blanca madura",
+      "EUfr": "citrouille blanche mûre",
+      "USfr": "citrouille blanche mûre",
+      "EUit": "pianta zucca bianca matura",
+      "EUnl": "rijpe witte-pompoenplant",
+      "CNzh": "成熟的白色南瓜",
+      "TWzh": "成熟的白色南瓜",
+      "JPja": "そだったしろいかぼちゃ",
+      "KRko": "다 자란 하얀 호박",
+      "EUru": "взрослая белая тыква"
     }
   },
   {

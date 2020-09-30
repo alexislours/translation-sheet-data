@@ -1640,6 +1640,26 @@
     }
   },
   {
+    "id": "Rug_07545",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky rug",
+      "EUen": "spooky rug",
+      "EUde": "Kürbisteppich",
+      "EUes": "alfombra calabaza",
+      "USes": "alfombra calabaza",
+      "EUfr": "tapis Halloween",
+      "USfr": "tapis frisson",
+      "EUit": "tappeto brividi",
+      "EUnl": "pompoentapijt",
+      "CNzh": "万圣节地毯",
+      "TWzh": "萬聖節地毯",
+      "JPja": "ハロウィンなラグ",
+      "KRko": "할로윈 러그",
+      "EUru": "жуткий ковер"
+    }
+  },
+  {
     "id": "Rug_07546",
     "version": "1.1.0",
     "locale": {

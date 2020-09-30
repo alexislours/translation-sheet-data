@@ -640,46 +640,6 @@
     }
   },
   {
-    "id": "Fence_12285",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "コミューン島専用柵",
-      "EUen": "コミューン島専用柵",
-      "EUde": "コミューン島専用柵",
-      "EUes": "コミューン島専用柵",
-      "USes": "コミューン島専用柵",
-      "EUfr": "コミューン島専用柵",
-      "USfr": "コミューン島専用柵",
-      "EUit": "コミューン島専用柵",
-      "EUnl": "コミューン島専用柵",
-      "CNzh": "コミューン島専用柵",
-      "TWzh": "コミューン島専用柵",
-      "JPja": "コミューン島専用柵",
-      "KRko": "コミューン島専用柵",
-      "EUru": "コミューン島専用柵"
-    }
-  },
-  {
-    "id": "Fence_12285_pl",
-    "version": "1.0.0",
-    "locale": {
-      "USen": "コミューン島専用柵",
-      "EUen": "コミューン島専用柵",
-      "EUde": "コミューン島専用柵",
-      "EUes": "コミューン島専用柵",
-      "USes": "コミューン島専用柵",
-      "EUfr": "コミューン島専用柵",
-      "USfr": "コミューン島専用柵",
-      "EUit": "コミューン島専用柵",
-      "EUnl": "コミューン島専用柵",
-      "CNzh": "コミューン島専用柵",
-      "TWzh": "コミューン島専用柵",
-      "JPja": "コミューン島専用柵",
-      "KRko": "コミューン島専用柵",
-      "EUru": "コミューン島専用柵"
-    }
-  },
-  {
     "id": "Fence_12630",
     "version": "1.1.0",
     "locale": {
@@ -797,6 +757,46 @@
       "JPja": "ウェディングなさく",
       "KRko": "웨딩 울타리",
       "EUru": "свадебные заборы"
+    }
+  },
+  {
+    "id": "Fence_13275",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky fence",
+      "EUen": "spooky fence",
+      "EUde": "Kürbiszaun",
+      "EUes": "valla calabaza",
+      "USes": "valla calabaza",
+      "EUfr": "clôture Halloween",
+      "USfr": "clôture Halloween",
+      "EUit": "recinzione brividi",
+      "EUnl": "pompoenhek",
+      "CNzh": "万圣节栅栏",
+      "TWzh": "萬聖節柵欄",
+      "JPja": "ハロウィンなさく",
+      "KRko": "할로윈 울타리",
+      "EUru": "жуткий забор"
+    }
+  },
+  {
+    "id": "Fence_13275_pl",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky fencing",
+      "EUen": "spooky fencing",
+      "EUde": "Kürbiszaun",
+      "EUes": "vallas calabaza",
+      "USes": "vallas calabaza",
+      "EUfr": "clôture Halloween",
+      "USfr": "clôture Halloween",
+      "EUit": "recinzioni brividi",
+      "EUnl": "pompoenhek",
+      "CNzh": "万圣节栅栏",
+      "TWzh": "萬聖節柵欄",
+      "JPja": "ハロウィンなさく",
+      "KRko": "할로윈 울타리",
+      "EUru": "жуткие заборы"
     }
   }
 ]

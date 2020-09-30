@@ -2340,6 +2340,66 @@
     }
   },
   {
+    "id": 1108,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "bulb bopper",
+      "EUen": "bulb bopper",
+      "EUde": "Leuchtkugelreif",
+      "EUes": "diadema luciérnagas",
+      "USes": "diadema luciérnagas",
+      "EUfr": "serre-tête lumières",
+      "USfr": "serre-tête lumières",
+      "EUit": "paio antenne fluo",
+      "EUnl": "gloeilampendiadeem",
+      "CNzh": "发光球头饰",
+      "TWzh": "發光球頭飾",
+      "JPja": "ひかるボールアクセサリー",
+      "KRko": "빛나는 볼 액세서리",
+      "EUru": "ободок с лампочками"
+    }
+  },
+  {
+    "id": 1109,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "flower bopper",
+      "EUen": "flower bopper",
+      "EUde": "Leuchtblumenreif",
+      "EUes": "diadema florecillas",
+      "USes": "diadema florecitas",
+      "EUfr": "serre-tête fleurs",
+      "USfr": "serre-tête fleurs",
+      "EUit": "paio antenne fiori",
+      "EUnl": "bloemendiadeem",
+      "CNzh": "发光花朵头饰",
+      "TWzh": "發光花朵頭飾",
+      "JPja": "ひかるはなのアクセサリー",
+      "KRko": "빛나는 꽃 액세서리",
+      "EUru": "ободок с цветками"
+    }
+  },
+  {
+    "id": 1110,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "heart bopper",
+      "EUen": "heart bopper",
+      "EUde": "Leuchtherzchenreif",
+      "EUes": "diadema corazones",
+      "USes": "diadema corazones",
+      "EUfr": "serre-tête cœurs",
+      "USfr": "serre-tête cœurs",
+      "EUit": "paio antenne cuori",
+      "EUnl": "hartendiadeem",
+      "CNzh": "发光爱心头饰",
+      "TWzh": "發光愛心頭飾",
+      "JPja": "ひかるハートアクセサリー",
+      "KRko": "빛나는 하트 액세서리",
+      "EUru": "ободок с сердечками"
+    }
+  },
+  {
     "id": 1111,
     "version": "1.0.0",
     "locale": {
@@ -2597,6 +2657,26 @@
       "JPja": "ケイトのぼうし",
       "KRko": "케이트의 모자",
       "EUru": "шляпа «Лэйблеск»"
+    }
+  },
+  {
+    "id": 1139,
+    "version": "1.4.0",
+    "locale": {
+      "USen": "star bopper",
+      "EUen": "star bopper",
+      "EUde": "Leuchtsternreif",
+      "EUes": "diadema estrellas",
+      "USes": "diadema estrellas",
+      "EUfr": "serre-tête étoiles",
+      "USfr": "serre-tête étoiles",
+      "EUit": "paio antenne stelle",
+      "EUnl": "sterrenhoofdband",
+      "CNzh": "发光星星头饰",
+      "TWzh": "發光星星頭飾",
+      "JPja": "ひかるスターアクセサリー",
+      "KRko": "빛나는 별 액세서리",
+      "EUru": "звездный ободок"
     }
   },
   {
@@ -3020,83 +3100,83 @@
     }
   },
   {
-    "id": 1108,
-    "version": "1.4.0",
+    "id": 1267,
+    "version": "1.5.0",
     "locale": {
-      "USen": "bulb bopper",
-      "EUen": "bulb bopper",
-      "EUde": "Leuchtkugelreif",
-      "EUes": "diadema luciérnagas",
-      "USes": "diadema luciérnagas",
-      "EUfr": "serre-tête lumières",
-      "USfr": "serre-tête lumières",
-      "EUit": "paio antenne fluo",
-      "EUnl": "gloeilampendiadeem",
-      "CNzh": "发光球头饰",
-      "TWzh": "發光球頭飾",
-      "JPja": "ひかるボールアクセサリー",
-      "KRko": "빛나는 볼 액세서리",
-      "EUru": "ободок с лампочками"
+      "USen": "mage's striped hat",
+      "EUen": "mage's striped hat",
+      "EUde": "Streifen-Zauberhut",
+      "EUes": "sombrero hechicería rayas",
+      "USes": "sombrero hechicería rayas",
+      "EUfr": "chapeau de mage rayé",
+      "USfr": "chapeau de mage rayé",
+      "EUit": "capp. stregonesco a strisce",
+      "EUnl": "gestreepte heksenhoed",
+      "CNzh": "魔法师条纹帽",
+      "TWzh": "魔法師條紋帽",
+      "JPja": "まほうつかいのストライプぼう",
+      "KRko": "줄무늬 마법사 모자",
+      "EUru": "колпак мага в полоску"
     }
   },
   {
-    "id": 1109,
-    "version": "1.4.0",
+    "id": 1272,
+    "version": "1.5.0",
     "locale": {
-      "USen": "flower bopper",
-      "EUen": "flower bopper",
-      "EUde": "Leuchtblumenreif",
-      "EUes": "diadema florecillas",
-      "USes": "diadema florecitas",
-      "EUfr": "serre-tête fleurs",
-      "USfr": "serre-tête fleurs",
-      "EUit": "paio antenne fiori",
-      "EUnl": "bloemendiadeem",
-      "CNzh": "发光花朵头饰",
-      "TWzh": "發光花朵頭飾",
-      "JPja": "ひかるはなのアクセサリー",
-      "KRko": "빛나는 꽃 액세서리",
-      "EUru": "ободок с цветками"
+      "USen": "impish horns",
+      "EUen": "impish horns",
+      "EUde": "Dämonenhornreif",
+      "EUes": "par de cuernos de diablillo",
+      "USes": "par de cuernos de diablito",
+      "EUfr": "coiffe cornes de diablotin",
+      "USfr": "coiffe cornes de diablotin",
+      "EUit": "cappello corna diavoletto",
+      "EUnl": "duivelse hoorntjes",
+      "CNzh": "小恶魔角",
+      "TWzh": "小惡魔角",
+      "JPja": "こあくまなツノ",
+      "KRko": "꼬마 악마 뿔",
+      "EUru": "рожки бесенка"
     }
   },
   {
-    "id": 1110,
-    "version": "1.4.0",
+    "id": 1273,
+    "version": "1.5.0",
     "locale": {
-      "USen": "heart bopper",
-      "EUen": "heart bopper",
-      "EUde": "Leuchtherzchenreif",
-      "EUes": "diadema corazones",
-      "USes": "diadema corazones",
-      "EUfr": "serre-tête cœurs",
-      "USfr": "serre-tête cœurs",
-      "EUit": "paio antenne cuori",
-      "EUnl": "hartendiadeem",
-      "CNzh": "发光爱心头饰",
-      "TWzh": "發光愛心頭飾",
-      "JPja": "ひかるハートアクセサリー",
-      "KRko": "빛나는 하트 액세서리",
-      "EUru": "ободок с сердечками"
+      "USen": "flashy pointy-ear animal hat",
+      "EUen": "flashy pointy-ear animal hat",
+      "EUde": "Spitzohren-Tierhut",
+      "EUes": "gorro orejas puntiagudas",
+      "USes": "gorro orejas puntiagudas",
+      "EUfr": "coiffe oreill. triangle flashy",
+      "USfr": "coiffe oreill. triangle flashy",
+      "EUit": "cappello orecchie a punta",
+      "EUnl": "puntige-dierenorenmuts",
+      "CNzh": "鲜艳动物三角耳朵帽",
+      "TWzh": "鮮豔動物三角耳朵帽",
+      "JPja": "ハデなアニマルさんかくみみぼう",
+      "KRko": "화려한 삼각 동물 귀 모자",
+      "EUru": "броская остроухая шапка"
     }
   },
   {
-    "id": 1139,
-    "version": "1.4.0",
+    "id": 1274,
+    "version": "1.5.0",
     "locale": {
-      "USen": "star bopper",
-      "EUen": "star bopper",
-      "EUde": "Leuchtsternreif",
-      "EUes": "diadema estrellas",
-      "USes": "diadema estrellas",
-      "EUfr": "serre-tête étoiles",
-      "USfr": "serre-tête étoiles",
-      "EUit": "paio antenne stelle",
-      "EUnl": "sterrenhoofdband",
-      "CNzh": "发光星星头饰",
-      "TWzh": "發光星星頭飾",
-      "JPja": "ひかるスターアクセサリー",
-      "KRko": "빛나는 별 액세서리",
-      "EUru": "звездный ободок"
+      "USen": "flashy round-ear animal hat",
+      "EUen": "flashy round-ear animal hat",
+      "EUde": "Rundohren-Tierhut",
+      "EUes": "gorro orejas redondeadas",
+      "USes": "gorro orejas redondeadas",
+      "EUfr": "coiffe oreilles rondes flashy",
+      "USfr": "coiffe oreilles rondes flashy",
+      "EUit": "cappello orecchie tonde",
+      "EUnl": "ronde-dierenorenmuts",
+      "CNzh": "鲜艳动物圆耳朵帽",
+      "TWzh": "鮮豔動物圓耳朵帽",
+      "JPja": "ハデなアニマルまるみみぼう",
+      "KRko": "화려한 동글 동물 귀 모자",
+      "EUru": "броская круглоух. шапка"
     }
   }
 ]
