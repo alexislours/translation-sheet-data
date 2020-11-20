@@ -1,5 +1,25 @@
 [
   {
+    "id": "ChinaNewYear",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's Day",
+      "EUen": "New Year's Day",
+      "EUde": "Neujahr",
+      "EUes": "Año Nuevo",
+      "USes": "Año Nuevo",
+      "EUfr": "Jour de l'an",
+      "USfr": "Jour de l'An",
+      "EUit": "Capodanno",
+      "EUnl": "Nieuwjaarsdag",
+      "CNzh": "新年",
+      "TWzh": "新年",
+      "JPja": "しょうがつ正月",
+      "KRko": "새해",
+      "EUru": "Новый год"
+    }
+  },
+  {
     "id": "Countdown",
     "version": "1.0.0",
     "locale": {
@@ -260,6 +280,26 @@
     }
   },
   {
+    "id": "KoreaNewYear",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's Day",
+      "EUen": "New Year's Day",
+      "EUde": "Neujahr",
+      "EUes": "Año Nuevo",
+      "USes": "Año Nuevo",
+      "EUfr": "Jour de l'an",
+      "USfr": "Jour de l'An",
+      "EUit": "Capodanno",
+      "EUnl": "Nieuwjaarsdag",
+      "CNzh": "新年",
+      "TWzh": "新年",
+      "JPja": "しょうがつ正月",
+      "KRko": "새해",
+      "EUru": "Новый год"
+    }
+  },
+  {
     "id": "MidAutumnFestival",
     "version": "1.4.0",
     "locale": {
@@ -280,6 +320,26 @@
     }
   },
   {
+    "id": "Midwinter",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Winter Solstice",
+      "EUen": "Winter Solstice",
+      "EUde": "Mittwinter",
+      "EUes": "Solsticio de invierno",
+      "USes": "Solsticio de invierno",
+      "EUfr": "Solstice d'hiver",
+      "USfr": "Solstice d'hiver",
+      "EUit": "Solstizio d'inverno",
+      "EUnl": "Midwinter",
+      "CNzh": "冬至",
+      "TWzh": "冬至",
+      "JPja": "とうじ冬至",
+      "KRko": "동지",
+      "EUru": "Зимнее солнцестояние"
+    }
+  },
+  {
     "id": "MothersDay",
     "version": "1.2.0",
     "locale": {
@@ -297,6 +357,186 @@
       "JPja": "はは母のひ日",
       "KRko": "어머니날",
       "EUru": "День матери"
+    }
+  },
+  {
+    "id": "NewYearsEveGermany",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Silvester",
+      "EUen": "Silvester",
+      "EUde": "Silvester",
+      "EUes": "Silvester",
+      "USes": "Silvester",
+      "EUfr": "Silvester",
+      "USfr": "Silvester",
+      "EUit": "Silvester",
+      "EUnl": "Silvester",
+      "CNzh": "New Year's Eve",
+      "TWzh": "New Year's Eve",
+      "JPja": "New Year's Eve",
+      "KRko": "질베스터",
+      "EUru": "Сильвестр"
+    }
+  },
+  {
+    "id": "NewYearsEveSpain",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Nochevieja",
+      "EUen": "Nochevieja",
+      "EUde": "Nochevieja",
+      "EUes": "Nochevieja",
+      "USes": "Nochevieja",
+      "EUfr": "Nochevieja",
+      "USfr": "Nochevieja",
+      "EUit": "Nochevieja",
+      "EUnl": "Nochevieja",
+      "CNzh": "New Year's Eve",
+      "TWzh": "New Year's Eve",
+      "JPja": "New Year's Eve",
+      "KRko": "노체 비에하",
+      "EUru": "Ночевьеха"
+    }
+  },
+  {
+    "id": "NewYearsEveWorld",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's Eve",
+      "EUen": "New Year's Eve",
+      "EUde": "Neujahrsabend",
+      "EUes": "Fin de año",
+      "USes": "Fin de año",
+      "EUfr": "Réveillon du nouvel an",
+      "USfr": "Réveillon du Nouvel An",
+      "EUit": "Ultimo dell'anno",
+      "EUnl": "Oudejaarsavond",
+      "CNzh": "New Year's Eve",
+      "TWzh": "New Year's Eve",
+      "JPja": "New Year's Eve",
+      "KRko": "새해 전야",
+      "EUru": "Канун Нового года"
+    }
+  },
+  {
+    "id": "Oomisoka",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Ōmisoka",
+      "EUen": "Ōmisoka",
+      "EUde": "Ōmisoka",
+      "EUes": "Ōmisoka",
+      "USes": "Ōmisoka",
+      "EUfr": "Ōmisoka",
+      "USfr": "Ōmisoka",
+      "EUit": "Ōmisoka",
+      "EUnl": "Ōmisoka",
+      "CNzh": "跨年夜",
+      "TWzh": "跨年夜",
+      "JPja": "おおみそか大晦日",
+      "KRko": "오미소카",
+      "EUru": "Омисока"
+    }
+  },
+  {
+    "id": "RegionNewYear",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Shōgatsu",
+      "EUen": "Shōgatsu",
+      "EUde": "Shōgatsu",
+      "EUes": "Shōgatsu",
+      "USes": "Shōgatsu",
+      "EUfr": "Shōgatsu",
+      "USfr": "Shōgatsu",
+      "EUit": "Shōgatsu",
+      "EUnl": "Shōgatsu",
+      "CNzh": "新年",
+      "TWzh": "新年",
+      "JPja": "しょうがつ正月",
+      "KRko": "새해",
+      "EUru": "Сёгацу"
+    }
+  },
+  {
+    "id": "RegionNewYear2",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Shōgatsu",
+      "EUen": "Shōgatsu",
+      "EUde": "Shōgatsu",
+      "EUes": "Shōgatsu",
+      "USes": "Shōgatsu",
+      "EUfr": "Shōgatsu",
+      "USfr": "Shōgatsu",
+      "EUit": "Shōgatsu",
+      "EUnl": "Shōgatsu",
+      "CNzh": "新年",
+      "TWzh": "新年",
+      "JPja": "しょうがつ正月",
+      "KRko": "새해",
+      "EUru": "Сёгацу"
+    }
+  },
+  {
+    "id": "RegionNewYear3",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Shōgatsu",
+      "EUen": "Shōgatsu",
+      "EUde": "Shōgatsu",
+      "EUes": "Shōgatsu",
+      "USes": "Shōgatsu",
+      "EUfr": "Shōgatsu",
+      "USfr": "Shōgatsu",
+      "EUit": "Shōgatsu",
+      "EUnl": "Shōgatsu",
+      "CNzh": "新年",
+      "TWzh": "新年",
+      "JPja": "しょうがつ正月",
+      "KRko": "새해",
+      "EUru": "Сёгацу"
+    }
+  },
+  {
+    "id": "RoshiaNewYear",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's Day",
+      "EUen": "New Year's Day",
+      "EUde": "Neujahr",
+      "EUes": "Año Nuevo",
+      "USes": "Año Nuevo",
+      "EUfr": "Jour de l'an",
+      "USfr": "Jour de l'An",
+      "EUit": "Capodanno",
+      "EUnl": "Nieuwjaarsdag",
+      "CNzh": "New Year",
+      "TWzh": "New Year",
+      "JPja": "New Year",
+      "KRko": "새해",
+      "EUru": "Новый год"
+    }
+  },
+  {
+    "id": "SouthernMidwinter",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Summer Solstice",
+      "EUen": "Summer Solstice",
+      "EUde": "Mittsommer",
+      "EUes": "Solsticio de verano",
+      "USes": "Solsticio de verano",
+      "EUfr": "Solstice d'été",
+      "USfr": "Solstice d'été",
+      "EUit": "Solstizio d'estate",
+      "EUnl": "Midzomer",
+      "CNzh": "夏至",
+      "TWzh": "夏至",
+      "JPja": "げし夏至",
+      "KRko": "하지",
+      "EUru": "Летнее солнцестояние"
     }
   },
   {
@@ -357,6 +597,26 @@
       "JPja": "こくさい国際こどものひ日",
       "KRko": "국제 어린이날",
       "EUru": "Всемирный день детей"
+    }
+  },
+  {
+    "id": "WorldNewYear",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's Day",
+      "EUen": "New Year's Day",
+      "EUde": "Neujahr",
+      "EUes": "Año Nuevo",
+      "USes": "Año Nuevo",
+      "EUfr": "Jour de l'an",
+      "USfr": "Jour de l'An",
+      "EUit": "Capodanno",
+      "EUnl": "Nieuwjaarsdag",
+      "CNzh": "New Year",
+      "TWzh": "New Year",
+      "JPja": "New Year",
+      "KRko": "새해",
+      "EUru": "Новый год"
     }
   }
 ]
