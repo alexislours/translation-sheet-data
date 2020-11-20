@@ -100,6 +100,26 @@
     }
   },
   {
+    "id": "BigbagPresent_13836",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "magic bag",
+      "EUen": "magic bag",
+      "EUde": "Geschenkesack",
+      "EUes": "saco de regalos",
+      "USes": "bolsa de regalos",
+      "EUfr": "sac à cadeaux",
+      "USfr": "sac à cadeaux",
+      "EUit": "sacco dei regali",
+      "EUnl": "pakjeszak",
+      "CNzh": "礼物袋",
+      "TWzh": "禮物袋",
+      "JPja": "プレゼントぶくろ",
+      "KRko": "선물 보따리",
+      "EUru": "волшебный мешок"
+    }
+  },
+  {
     "id": "BlowBubble_04386",
     "version": "1.4.0",
     "locale": {
@@ -480,6 +500,46 @@
     }
   },
   {
+    "id": "DummyHowtoBook_13610",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Hip Reaction Collection",
+      "EUen": "Hip Reaction Collection",
+      "EUde": "Hippe Emotionen",
+      "EUes": "Emociones y actividades",
+      "USes": "Emociones y actividades",
+      "EUfr": "Mimiques sans micmacs",
+      "USfr": "Fanatique des mimiques",
+      "EUit": "Collezione Gran Emozione",
+      "EUnl": "Gevoel voor emoties",
+      "CNzh": "时下最潮！反应图鉴",
+      "TWzh": "時下最熱門！表情圖鑑",
+      "JPja": "ナウい！リアクションずかん",
+      "KRko": "최신 유행! 리액션 도감",
+      "EUru": "Реакции в тренде"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_13766",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Top 6 Stylish Hairstyles",
+      "EUen": "Top 6 Stylish Hairstyles",
+      "EUde": "Die 6 trendigsten Frisuren",
+      "EUes": "6 peinados revolucionarios",
+      "USes": "6 peinados revolucionarios",
+      "EUfr": "6 coiffures qui décoiffent",
+      "USfr": "6 coiffures qui décoiffent",
+      "EUit": "I migliori 6 tagli top",
+      "EUnl": "Top 6 van stijlvolle kapsels",
+      "CNzh": "更多！发型×6",
+      "TWzh": "更多！頭髮造型×6",
+      "JPja": "もっと！ヘアアレンジ×6",
+      "KRko": "조금 더! 헤어스타일×6",
+      "EUru": "Топ 6 стильных причесок"
+    }
+  },
+  {
     "id": "DummyPresentbox_04480",
     "version": "1.0.0",
     "locale": {
@@ -577,6 +637,26 @@
       "JPja": "こんなモノまで？！DIY",
       "KRko": "무엇이든 뚝딱?! DIY 레시피",
       "EUru": "«Сделай сам» без границ"
+    }
+  },
+  {
+    "id": "DummyRecipe_13787",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Cozy Turkey Day DIY",
+      "EUen": "Cozy Turkey Day DIY",
+      "EUde": "Schlemmfest-Bastelbuch",
+      "EUes": "Bricolaje Día del Pavo",
+      "USes": "Proyecto Día del Pavo",
+      "EUfr": "Bricolages du partage",
+      "USfr": "Bricolages du partage",
+      "EUit": "Fai da te primizie",
+      "EUnl": "Doe-het-zelf: Smakenfestijn",
+      "CNzh": "多彩多姿感恩节DIY",
+      "TWzh": "多彩多姿感恩節DIY",
+      "JPja": "いろどりサンクスギビングDIY",
+      "KRko": "삶에 풍요를! 하베스트 DIY 레시피",
+      "EUru": "«Сделай сам»: изобилие"
     }
   },
   {
@@ -885,6 +965,26 @@
     "locale": {
       "USen": "present",
       "EUen": "present",
+      "EUde": "Geschenk",
+      "EUes": "regalo",
+      "USes": "regalo",
+      "EUfr": "cadeau",
+      "USfr": "cadeau",
+      "EUit": "regalo",
+      "EUnl": "cadeau",
+      "CNzh": "礼物",
+      "TWzh": "禮物",
+      "JPja": "プレゼント",
+      "KRko": "선물",
+      "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrapping_13793",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "gift",
+      "EUen": "gift",
       "EUde": "Geschenk",
       "EUes": "regalo",
       "USes": "regalo",
@@ -1380,6 +1480,26 @@
     }
   },
   {
+    "id": "HousingKit_13346",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "transfer kit",
+      "EUen": "transfer kit",
+      "EUde": "Transferkit",
+      "EUes": "kit de transferencia",
+      "USes": "kit de transferencia",
+      "EUfr": "kit déménagement musée",
+      "USfr": "kit déménagement musée",
+      "EUit": "kit trasferimento",
+      "EUnl": "eilandverhuispakket",
+      "CNzh": "转移工具组",
+      "TWzh": "轉移工具組",
+      "JPja": "ひっこしキット",
+      "KRko": "이사 키트",
+      "EUru": "набор для переезда"
+    }
+  },
+  {
     "id": "HousingKitBirdge_04310",
     "version": "1.0.0",
     "locale": {
@@ -1477,6 +1597,26 @@
       "JPja": "ハウジングキット・3ごうち",
       "KRko": "하우징 키트 3",
       "EUru": "набор поселенца 3"
+    }
+  },
+  {
+    "id": "JuiceFuzzyapple_13835",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "sparkling cider",
+      "EUen": "fizzy apple juice",
+      "EUde": "Apfelschorle",
+      "EUes": "zumo de manzana",
+      "USes": "jugo de manzana",
+      "EUfr": "boisson pétillante festive",
+      "USfr": "boisson pétillante festive",
+      "EUit": "cocktail alla frutta",
+      "EUnl": "glas appelsap met prik",
+      "CNzh": "气泡饮料",
+      "TWzh": "氣泡飲料",
+      "JPja": "スパークリングサイダー",
+      "KRko": "스파클링 사이다",
+      "EUru": "игристый напиток"
     }
   },
   {
@@ -2017,6 +2157,26 @@
       "JPja": "おとしあなのタネ",
       "KRko": "함정 씨앗",
       "EUru": "западни"
+    }
+  },
+  {
+    "id": "QuestChristmasPresentbox_13869",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "someone's gift",
+      "EUen": "someone's gift",
+      "EUde": "Geschenk (unbekannt)",
+      "EUes": "regalo de alguien",
+      "USes": "regalo de alguien",
+      "EUfr": "cadeau de quelqu'un",
+      "USfr": "cadeau de quelqu'un",
+      "EUit": "regalo da qualcuno",
+      "EUnl": "cadeau van iemand",
+      "CNzh": "某人的礼物",
+      "TWzh": "某人的禮物",
+      "JPja": "だれかのプレゼント",
+      "KRko": "누군가의 선물",
+      "EUru": "чьего-то подарок"
     }
   },
   {
@@ -2857,6 +3017,46 @@
       "JPja": "くろいラッピングペーパー",
       "KRko": "검은색 포장지",
       "EUru": "черные обертки"
+    }
+  },
+  {
+    "id": "WrappingPaper_13792",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "festive wrapping paper",
+      "EUen": "festive wrapping paper",
+      "EUde": "Festtagsgeschenkpapier",
+      "EUes": "papel de regalo festivo",
+      "USes": "papel de regalo festivo",
+      "EUfr": "papier cadeau festif",
+      "USfr": "papier cadeau festif",
+      "EUit": "carta da regalo festiva",
+      "EUnl": "speelgoeddagcadeaupapier",
+      "CNzh": "圣诞包装纸",
+      "TWzh": "聖誕包裝紙",
+      "JPja": "クリスマスなラッピングペーパー",
+      "KRko": "크리스마스 포장지",
+      "EUru": "новогодняя обертка"
+    }
+  },
+  {
+    "id": "WrappingPaper_13792_pl",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "festive wrapping paper",
+      "EUen": "festive wrapping paper",
+      "EUde": "Festtagsgeschenkpapier",
+      "EUes": "papel de regalo festivo",
+      "USes": "papel de regalo festivo",
+      "EUfr": "papiers cadeau festifs",
+      "USfr": "papiers cadeau festifs",
+      "EUit": "carta da regalo festiva",
+      "EUnl": "speelgoeddagcadeaupapier",
+      "CNzh": "圣诞包装纸",
+      "TWzh": "聖誕包裝紙",
+      "JPja": "クリスマスなラッピングペーパー",
+      "KRko": "크리스마스 포장지",
+      "EUru": "новогодние обертки"
     }
   }
 ]

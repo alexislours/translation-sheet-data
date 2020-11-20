@@ -858,5 +858,45 @@
       "KRko": "이스터 리스",
       "EUru": "венок на День зайцев"
     }
+  },
+  {
+    "id": "DoorDeco_13357",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "festive wreath",
+      "EUen": "festive wreath",
+      "EUde": "Festtagskranz",
+      "EUes": "corona festiva",
+      "USes": "corona festiva",
+      "EUfr": "couronne de sapin",
+      "USfr": "couronne de sapin",
+      "EUit": "ghirlanda festiva",
+      "EUnl": "feestkrans",
+      "CNzh": "圣诞节花环",
+      "TWzh": "聖誕節花圈",
+      "JPja": "クリスマスリース",
+      "KRko": "크리스마스 리스",
+      "EUru": "новогодний венок"
+    }
+  },
+  {
+    "id": "DoorDeco_13501",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's shimekazari",
+      "EUen": "New Year's shimekazari",
+      "EUde": "Neujahrs-Shimekazari",
+      "EUes": "shimekazari de Año Nuevo",
+      "USes": "shimekazari de Año Nuevo",
+      "EUfr": "shimekazari de nouvel an",
+      "USfr": "shimekazari de Nouvel An",
+      "EUit": "shimekazari di Capodanno",
+      "EUnl": "nieuwjaars-shimekazari",
+      "CNzh": "注连绳装饰",
+      "TWzh": "注連繩裝飾",
+      "JPja": "しめかざり",
+      "KRko": "일본 금줄 장식",
+      "EUru": "новогодний симэкадзари"
+    }
   }
 ]

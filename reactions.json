@@ -20,6 +20,86 @@
     }
   },
   {
+    "id": "AddExcited",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Excited",
+      "EUen": "Excited",
+      "EUde": "Aufregung",
+      "EUes": "Alegría",
+      "USes": "Alegría",
+      "EUfr": "Enthousiasme",
+      "USfr": "Enthousiasme",
+      "EUit": "Entusiasmo",
+      "EUnl": "Voorpret",
+      "CNzh": "期待",
+      "TWzh": "期待",
+      "JPja": "ワクワク",
+      "KRko": "두근두근",
+      "EUru": "Предвкушение"
+    }
+  },
+  {
+    "id": "AddGymnastics",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Work Out",
+      "EUen": "Work Out",
+      "EUde": "Trainieren",
+      "EUes": "Gimnasia",
+      "USes": "Gimnasia",
+      "EUfr": "Gymnastique",
+      "USfr": "Gymnastique",
+      "EUit": "Allenamento",
+      "EUnl": "Rekken en strekken",
+      "CNzh": "体操",
+      "TWzh": "體操",
+      "JPja": "たいそう",
+      "KRko": "체조",
+      "EUru": "Тренировка"
+    }
+  },
+  {
+    "id": "AddHereYouGo",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Here You Go",
+      "EUen": "Here You Go",
+      "EUde": "Bitte schön",
+      "EUes": "Para ti",
+      "USes": "Para ti",
+      "EUfr": "Et voilà !",
+      "USfr": "Et voilà!",
+      "EUit": "Ecco qua",
+      "EUnl": "Alsjeblieft",
+      "CNzh": "请",
+      "TWzh": "請",
+      "JPja": "さぁどうぞ",
+      "KRko": "자 여기!",
+      "EUru": "Подарок"
+    }
+  },
+  {
+    "id": "AddPraise",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Ta-da",
+      "EUen": "Ta-da",
+      "EUde": "Loben",
+      "EUes": "Entusiasmo",
+      "USes": "Entusiasmo",
+      "EUfr": "Ta-daaa !",
+      "USfr": "Ta-daaa!",
+      "EUit": "Lode",
+      "EUnl": "Prijzen",
+      "CNzh": "夸奖",
+      "TWzh": "誇獎",
+      "JPja": "たたえる",
+      "KRko": "대단해!",
+      "EUru": "Вуаля"
+    }
+  },
+  {
     "id": "AddPrank",
     "version": "1.5.0",
     "locale": {
@@ -57,6 +137,106 @@
       "JPja": "こわがらせる",
       "KRko": "겁주기",
       "EUru": "Испуг"
+    }
+  },
+  {
+    "id": "AddSitDown",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Sit Down",
+      "EUen": "Sit Down",
+      "EUde": "Hinsetzen",
+      "EUes": "Asiento",
+      "USes": "Asiento",
+      "EUfr": "S'asseoir",
+      "USfr": "S'asseoir",
+      "EUit": "Sedersi",
+      "EUnl": "Zitten",
+      "CNzh": "坐",
+      "TWzh": "坐",
+      "JPja": "すわる",
+      "KRko": "앉기",
+      "EUru": "Сидение"
+    }
+  },
+  {
+    "id": "AddSmell",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Sniff Sniff",
+      "EUen": "Sniff Sniff",
+      "EUde": "Schnüffeln",
+      "EUes": "Olfateo",
+      "USes": "Olfateo",
+      "EUfr": "Snif snif",
+      "USfr": "Snif snif",
+      "EUit": "Annusare",
+      "EUnl": "Ruiken",
+      "CNzh": "闻闻",
+      "TWzh": "聞",
+      "JPja": "クンクン",
+      "KRko": "킁킁",
+      "EUru": "Принюхивание"
+    }
+  },
+  {
+    "id": "AddTakePictures",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Take a Picture",
+      "EUen": "Take a Picture",
+      "EUde": "Fotografieren",
+      "EUes": "Fotografías",
+      "USes": "Fotografías",
+      "EUfr": "Photo",
+      "USfr": "Photo",
+      "EUit": "Foto",
+      "EUnl": "Foto's maken",
+      "CNzh": "拍照",
+      "TWzh": "拍照",
+      "JPja": "パシャリ",
+      "KRko": "찰칵!",
+      "EUru": "Фотосъемка"
+    }
+  },
+  {
+    "id": "AddWaveHands",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Wave Goodbye",
+      "EUen": "Wave Goodbye",
+      "EUde": "Verabschieden",
+      "EUes": "Despedida",
+      "USes": "Despedida",
+      "EUfr": "Bye bye",
+      "USfr": "Bye bye",
+      "EUit": "Arrivederci",
+      "EUnl": "Uitzwaaien",
+      "CNzh": "再见",
+      "TWzh": "掰掰",
+      "JPja": "バイバイ",
+      "KRko": "바이바이",
+      "EUru": "Прощание"
+    }
+  },
+  {
+    "id": "AddYoga",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Yoga",
+      "EUen": "Yoga",
+      "EUde": "Yoga",
+      "EUes": "Yoga",
+      "USes": "Yoga",
+      "EUfr": "Yoga",
+      "USfr": "Yoga",
+      "EUit": "Yoga",
+      "EUnl": "Yoga",
+      "CNzh": "瑜伽姿势",
+      "TWzh": "瑜珈姿勢",
+      "JPja": "ヨガのポーズ",
+      "KRko": "요가",
+      "EUru": "Йога"
     }
   },
   {

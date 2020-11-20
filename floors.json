@@ -3578,5 +3578,25 @@
       "KRko": "할로윈 바닥",
       "EUru": "жуткий пол"
     }
+  },
+  {
+    "id": "RoomFloor_13319",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day flooring",
+      "EUen": "Turkey Day flooring",
+      "EUde": "Schlemmfest-Boden",
+      "EUes": "suelo Día del Pavo",
+      "USes": "suelo Día del Pavo",
+      "EUfr": "sol fête du partage",
+      "USfr": "sol fête du partage",
+      "EUit": "pavimento primizie",
+      "EUnl": "smakenfestijnvloer",
+      "CNzh": "感恩节地板",
+      "TWzh": "感恩節地板",
+      "JPja": "サンクスギビングなゆか",
+      "KRko": "하베스트 바닥",
+      "EUru": "пол «День изобилия»"
+    }
   }
 ]

@@ -420,6 +420,26 @@
     }
   },
   {
+    "id": 62,
+    "version": "1.3.0",
+    "locale": {
+      "USen": "sea captain's coat",
+      "EUen": "sea captain's coat",
+      "EUde": "Piratenmantel",
+      "EUes": "casaca pirata",
+      "USes": "casaca pirata",
+      "EUfr": "manteau de pirate",
+      "USfr": "manteau de pirate",
+      "EUit": "giaccone da pirata",
+      "EUnl": "kapiteinsjas",
+      "CNzh": "海盗大衣",
+      "TWzh": "海盜大衣",
+      "JPja": "かいぞくのコート",
+      "KRko": "해적 코트",
+      "EUru": "сюртук капитана"
+    }
+  },
+  {
     "id": 64,
     "version": "1.0.0",
     "locale": {
@@ -1517,6 +1537,26 @@
       "JPja": "タキシード",
       "KRko": "턱시도",
       "EUru": "смокинг"
+    }
+  },
+  {
+    "id": 157,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Santa coat",
+      "EUen": "Santa coat",
+      "EUde": "Weihnachtsmannjacke",
+      "EUes": "chaquetón Papá Noel",
+      "USes": "saco Papá Noel",
+      "EUfr": "manteau de père Noël",
+      "USfr": "manteau de père Noël",
+      "EUit": "maglia da Babbo Natale",
+      "EUnl": "kerstmanjas",
+      "CNzh": "圣诞老人外套",
+      "TWzh": "聖誕老人外套",
+      "JPja": "サンタのジャケット",
+      "KRko": "산타 재킷",
+      "EUru": "куртка Санты"
     }
   },
   {
@@ -5743,8 +5783,8 @@
     "id": 1246,
     "version": "1.2.0",
     "locale": {
-      "USen": "winter-solstice sweater",
-      "EUen": "winter-solstice sweater",
+      "USen": "midwinter sweater",
+      "EUen": "midwinter sweater",
       "EUde": "Wintersonnenwendepulli",
       "EUes": "jersey solsticio de invierno",
       "USes": "suéter solsticio de invierno",
@@ -5797,26 +5837,6 @@
       "JPja": "たぬきかいはつアロハ・グリーン",
       "KRko": "Nook Inc. 알로하 그린",
       "EUru": "зеленая гавайка Nook Inc."
-    }
-  },
-  {
-    "id": 62,
-    "version": "1.3.0",
-    "locale": {
-      "USen": "sea captain's coat",
-      "EUen": "sea captain's coat",
-      "EUde": "Piratenmantel",
-      "EUes": "casaca pirata",
-      "USes": "casaca pirata",
-      "EUfr": "manteau de pirate",
-      "USfr": "manteau de pirate",
-      "EUit": "giaccone da pirata",
-      "EUnl": "kapiteinsjas",
-      "CNzh": "海盗大衣",
-      "TWzh": "海盜大衣",
-      "JPja": "かいぞくのコート",
-      "KRko": "해적 코트",
-      "EUru": "сюртук капитана"
     }
   }
 ]

@@ -360,6 +360,26 @@
     }
   },
   {
+    "id": 158,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Santa pants",
+      "EUen": "Santa pants",
+      "EUde": "Weihnachtsmannhose",
+      "EUes": "pantalón Papá Noel",
+      "USes": "pantalón Papá Noel",
+      "EUfr": "pantalon père Noël",
+      "USfr": "pantalon père Noël",
+      "EUit": "pantalone da Babbo Natale",
+      "EUnl": "kerstmanbroek",
+      "CNzh": "圣诞裤",
+      "TWzh": "聖誕褲",
+      "JPja": "サンタのズボン",
+      "KRko": "산타 바지",
+      "EUru": "штаны Санты"
+    }
+  },
+  {
     "id": 160,
     "version": "1.0.0",
     "locale": {

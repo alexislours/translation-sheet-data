@@ -7818,5 +7818,25 @@
       "KRko": "차둘의 사진",
       "EUru": "фото Дома"
     }
+  },
+  {
+    "id": "Bromide_13862",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Jingle's photo",
+      "EUen": "Jingle's photo",
+      "EUde": "Foto von Chris",
+      "EUes": "foto de Renato",
+      "USes": "foto de Renato",
+      "EUfr": "photo de Rodolphe",
+      "USfr": "photo de Rodolphe",
+      "EUit": "foto di Jingle",
+      "EUnl": "foto van Jingle",
+      "CNzh": "铃铃鹿的照片",
+      "TWzh": "鈴鈴鹿的照片",
+      "JPja": "ジングルのしゃしん",
+      "KRko": "루돌의 사진",
+      "EUru": "фото Джингла"
+    }
   }
 ]

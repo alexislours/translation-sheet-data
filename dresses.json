@@ -2660,6 +2660,26 @@
     }
   },
   {
+    "id": 416,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "reindeer costume",
+      "EUen": "reindeer costume",
+      "EUde": "Rentierkostüm",
+      "EUes": "disfraz de reno",
+      "USes": "disfraz de reno",
+      "EUfr": "costume de renne",
+      "USfr": "costume de renne",
+      "EUit": "costume da renna",
+      "EUnl": "rendierpak",
+      "CNzh": "驯鹿装",
+      "TWzh": "馴鹿服",
+      "JPja": "トナカイなふく",
+      "KRko": "루돌프 의상",
+      "EUru": "костюм оленя"
+    }
+  },
+  {
     "id": 424,
     "version": "1.0.0",
     "locale": {

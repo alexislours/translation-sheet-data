@@ -1640,6 +1640,26 @@
     }
   },
   {
+    "id": "Rug_07544",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "festive rug",
+      "EUen": "festive rug",
+      "EUde": "Festtagsteppich",
+      "EUes": "alfombra festiva",
+      "USes": "alfombra festiva",
+      "EUfr": "tapis de fêtes",
+      "USfr": "tapis des Fêtes",
+      "EUit": "tappeto festivo",
+      "EUnl": "feesttapijt",
+      "CNzh": "圣诞节地毯",
+      "TWzh": "聖誕節地毯",
+      "JPja": "クリスマスなラグ",
+      "KRko": "크리스마스 러그",
+      "EUru": "ковер «Новый год»"
+    }
+  },
+  {
     "id": "Rug_07545",
     "version": "1.5.0",
     "locale": {
@@ -2560,6 +2580,26 @@
     }
   },
   {
+    "id": "Rug_12217",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "summer-shell rug",
+      "EUen": "summer-shell rug",
+      "EUde": "Sommer-Muschelteppich",
+      "EUes": "alfombra concha veraniega",
+      "USes": "alfombra veraniega",
+      "EUfr": "tapis coquillage estival",
+      "USfr": "tapis coquillage estival",
+      "EUit": "tappeto conchiglia estivo",
+      "EUnl": "zomerschelptapijt",
+      "CNzh": "夏天贝壳地毯",
+      "TWzh": "夏天貝殼地毯",
+      "JPja": "なつのかいがらのラグ",
+      "KRko": "여름 조개껍데기 러그",
+      "EUru": "летний ковер-ракушка"
+    }
+  },
+  {
     "id": "Rug_12325",
     "version": "1.1.0",
     "locale": {
@@ -2717,6 +2757,46 @@
       "JPja": "つきのラグ",
       "KRko": "보름달 러그",
       "EUru": "лунный пол"
+    }
+  },
+  {
+    "id": "Rug_13525",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day rug",
+      "EUen": "Turkey Day rug",
+      "EUde": "Schlemmfest-Teppich",
+      "EUes": "alfombra Día del Pavo",
+      "USes": "alfombra Día del Pavo",
+      "EUfr": "tapis fête du partage",
+      "USfr": "tapis fête du partage",
+      "EUit": "tappeto primizie",
+      "EUnl": "smakenfestijntapijt",
+      "CNzh": "感恩节地毯",
+      "TWzh": "感恩節地毯",
+      "JPja": "サンクスギビングなラグ",
+      "KRko": "하베스트 러그",
+      "EUru": "ковер «День изобилия»"
+    }
+  },
+  {
+    "id": "Rug_13596",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "sunflower rug",
+      "EUen": "sunflower rug",
+      "EUde": "Sonnenblumenteppich",
+      "EUes": "alfombra girasol",
+      "USes": "alfombra girasol",
+      "EUfr": "tapis tournesol",
+      "USfr": "tapis tournesol",
+      "EUit": "tappeto girasole",
+      "EUnl": "zonnebloemtapijt",
+      "CNzh": "向日葵地毯",
+      "TWzh": "向日葵地毯",
+      "JPja": "ひまわりのラグ",
+      "KRko": "해바라기 러그",
+      "EUru": "подсолнуховый ковер"
     }
   },
   {

@@ -360,6 +360,166 @@
     }
   },
   {
+    "id": "HarvestDish_13779",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "fish meunière",
+      "EUen": "fish meunière",
+      "EUde": "Bratfisch",
+      "EUes": "pescado a la molinera",
+      "USes": "pescado al limón",
+      "EUfr": "poisson meunière",
+      "USfr": "poisson meunière",
+      "EUit": "pesce alla mugnaia",
+      "EUnl": "vis met botersaus",
+      "CNzh": "法式煎鱼排",
+      "TWzh": "法式煎魚排",
+      "JPja": "サカナのムニエル",
+      "KRko": "생선 뫼니에르",
+      "EUru": "жареная рыба"
+    }
+  },
+  {
+    "id": "HarvestDish_13780",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "gratin",
+      "EUen": "gratin",
+      "EUde": "Gratin",
+      "EUes": "gratinado",
+      "USes": "gratinado",
+      "EUfr": "gratin",
+      "USfr": "gratin",
+      "EUit": "sformato",
+      "EUnl": "gegratineerde schotel",
+      "CNzh": "奶汁烤菜",
+      "TWzh": "焗烤",
+      "JPja": "グラタン",
+      "KRko": "그라탱",
+      "EUru": "запеканка"
+    }
+  },
+  {
+    "id": "HarvestDish_13781",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "clam chowder",
+      "EUen": "clam chowder",
+      "EUde": "Muschelsuppe",
+      "EUes": "sopa de almejas",
+      "USes": "sopa de almejas",
+      "EUfr": "potée de palourdes",
+      "USfr": "chaudrée de palourdes",
+      "EUit": "zuppa di vongole",
+      "EUnl": "vissoep",
+      "CNzh": "蛤蜊浓汤",
+      "TWzh": "蛤蜊巧達湯",
+      "JPja": "クラムチャウダー",
+      "KRko": "클램 차우더",
+      "EUru": "похлебка из моллюсков"
+    }
+  },
+  {
+    "id": "HarvestDish_13782",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "pumpkin pie",
+      "EUen": "pumpkin pie",
+      "EUde": "Kürbiskuchen",
+      "EUes": "pastel de calabaza",
+      "USes": "pastel de calabaza",
+      "EUfr": "tarte à la citrouille",
+      "USfr": "tarte à la citrouille",
+      "EUit": "crostata di zucca",
+      "EUnl": "pompoentaart",
+      "CNzh": "南瓜派",
+      "TWzh": "南瓜派",
+      "JPja": "パンプキンパイ",
+      "KRko": "호박파이",
+      "EUru": "тыквенный пирог"
+    }
+  },
+  {
+    "id": "HarvestDish_13800",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "クラムチャウダーHaPu",
+      "EUen": "クラムチャウダーHaPu",
+      "EUde": "クラムチャウダーHaPu",
+      "EUes": "クラムチャウダーHaPu",
+      "USes": "クラムチャウダーHaPu",
+      "EUfr": "クラムチャウダーHaPu",
+      "USfr": "クラムチャウダーHaPu",
+      "EUit": "クラムチャウダーHaPu",
+      "EUnl": "クラムチャウダーHaPu",
+      "CNzh": "クラムチャウダーHaPu",
+      "TWzh": "クラムチャウダーHaPu",
+      "JPja": "クラムチャウダーHaPu",
+      "KRko": "クラムチャウダーHaPu",
+      "EUru": "クラムチャウダーHaPu"
+    }
+  },
+  {
+    "id": "HarvestDish_13801",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "パンプキンパイHaPu",
+      "EUen": "パンプキンパイHaPu",
+      "EUde": "パンプキンパイHaPu",
+      "EUes": "パンプキンパイHaPu",
+      "USes": "パンプキンパイHaPu",
+      "EUfr": "パンプキンパイHaPu",
+      "USfr": "パンプキンパイHaPu",
+      "EUit": "パンプキンパイHaPu",
+      "EUnl": "パンプキンパイHaPu",
+      "CNzh": "パンプキンパイHaPu",
+      "TWzh": "パンプキンパイHaPu",
+      "JPja": "パンプキンパイHaPu",
+      "KRko": "パンプキンパイHaPu",
+      "EUru": "パンプキンパイHaPu"
+    }
+  },
+  {
+    "id": "HarvestDish_13802",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "サカナのムニエルHaPu",
+      "EUen": "サカナのムニエルHaPu",
+      "EUde": "サカナのムニエルHaPu",
+      "EUes": "サカナのムニエルHaPu",
+      "USes": "サカナのムニエルHaPu",
+      "EUfr": "サカナのムニエルHaPu",
+      "USfr": "サカナのムニエルHaPu",
+      "EUit": "サカナのムニエルHaPu",
+      "EUnl": "サカナのムニエルHaPu",
+      "CNzh": "サカナのムニエルHaPu",
+      "TWzh": "サカナのムニエルHaPu",
+      "JPja": "サカナのムニエルHaPu",
+      "KRko": "サカナのムニエルHaPu",
+      "EUru": "サカナのムニエルHaPu"
+    }
+  },
+  {
+    "id": "HarvestDish_13803",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "グラタンHaPu",
+      "EUen": "グラタンHaPu",
+      "EUde": "グラタンHaPu",
+      "EUes": "グラタンHaPu",
+      "USes": "グラタンHaPu",
+      "EUfr": "グラタンHaPu",
+      "USfr": "グラタンHaPu",
+      "EUit": "グラタンHaPu",
+      "EUnl": "グラタンHaPu",
+      "CNzh": "グラタンHaPu",
+      "TWzh": "グラタンHaPu",
+      "JPja": "グラタンHaPu",
+      "KRko": "グラタンHaPu",
+      "EUru": "グラタンHaPu"
+    }
+  },
+  {
     "id": "JohnnyQuest_02381",
     "version": "1.0.0",
     "locale": {

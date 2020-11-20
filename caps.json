@@ -1400,6 +1400,26 @@
     }
   },
   {
+    "id": 666,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Santa hat",
+      "EUen": "Santa hat",
+      "EUde": "Weihnachtsmannmütze",
+      "EUes": "gorro Papá Noel",
+      "USes": "gorro Papá Noel",
+      "EUfr": "bonnet de père Noël",
+      "USfr": "tuque de père Noël",
+      "EUit": "cappello da Babbo Natale",
+      "EUnl": "kerstmanmuts",
+      "CNzh": "圣诞帽",
+      "TWzh": "聖誕帽",
+      "JPja": "サンタのぼうし",
+      "KRko": "산타 모자",
+      "EUru": "колпак Санты"
+    }
+  },
+  {
     "id": 667,
     "version": "1.0.0",
     "locale": {
@@ -3023,8 +3043,8 @@
     "id": 1222,
     "version": "1.2.0",
     "locale": {
-      "USen": "summer-solstice crown",
-      "EUen": "summer-solstice crown",
+      "USen": "sunflower crown",
+      "EUen": "sunflower crown",
       "EUde": "Sommersonnenwendekrone",
       "EUes": "corona de girasoles",
       "USes": "tiara de girasoles",

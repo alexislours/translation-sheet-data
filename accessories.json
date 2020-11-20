@@ -580,6 +580,26 @@
     }
   },
   {
+    "id": 406,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Santa beard",
+      "EUen": "Santa beard",
+      "EUde": "Weihnachtsmannbart",
+      "EUes": "barba Papá Noel",
+      "USes": "barba Papá Noel",
+      "EUfr": "barbe de père Noël",
+      "USfr": "barbe de père Noël",
+      "EUit": "barba da Babbo Natale",
+      "EUnl": "kerstmanbaard",
+      "CNzh": "圣诞老人胡子",
+      "TWzh": "聖誕老人鬍子",
+      "JPja": "サンタのヒゲ",
+      "KRko": "산타 수염",
+      "EUru": "борода Санты"
+    }
+  },
+  {
     "id": 407,
     "version": "1.0.0",
     "locale": {

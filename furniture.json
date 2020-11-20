@@ -1620,6 +1620,26 @@
     }
   },
   {
+    "id": "Ftr_00931",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "cornucopia",
+      "EUen": "cornucopia",
+      "EUde": "Füllhorn",
+      "EUes": "cornucopia",
+      "USes": "cornucopia",
+      "EUfr": "corne d'abondance",
+      "USfr": "corne d'abondance",
+      "EUit": "cornucopia",
+      "EUnl": "hoorn des overvloeds",
+      "CNzh": "丰饶之角",
+      "TWzh": "豐饒之角",
+      "JPja": "ほうじょうのつの",
+      "KRko": "풍요의 뿔",
+      "EUru": "рог изобилия"
+    }
+  },
+  {
     "id": "Ftr_00937",
     "version": "1.0.0",
     "locale": {
@@ -1857,6 +1877,46 @@
       "JPja": "アイランドキッチン",
       "KRko": "아일랜드 키친",
       "EUru": "кухонный островок"
+    }
+  },
+  {
+    "id": "Ftr_01004",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "kadomatsu",
+      "EUen": "kadomatsu",
+      "EUde": "Kadomatsu",
+      "EUes": "kadomatsu",
+      "USes": "kadomatsu",
+      "EUfr": "kadomatsu",
+      "USfr": "kadomatsu",
+      "EUit": "kadomatsu",
+      "EUnl": "bamboe-ornament",
+      "CNzh": "门松",
+      "TWzh": "門松",
+      "JPja": "かどまつ",
+      "KRko": "새해맞이 대나무",
+      "EUru": "кадомацу"
+    }
+  },
+  {
+    "id": "Ftr_01005",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "kagamimochi",
+      "EUen": "kagamimochi",
+      "EUde": "Kagami-Mochi",
+      "EUes": "kagamimochi",
+      "USes": "kagamimochi",
+      "EUfr": "kagamimochi",
+      "USfr": "kagamimochi",
+      "EUit": "kagamimochi",
+      "EUnl": "kagami-mochi",
+      "CNzh": "镜饼",
+      "TWzh": "鏡餅",
+      "JPja": "かがみもち",
+      "KRko": "새해맞이 찰떡",
+      "EUru": "кагами моти"
     }
   },
   {
@@ -17440,6 +17500,246 @@
     }
   },
   {
+    "id": "Ftr_13241",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Toy Day sleigh",
+      "EUen": "Toy Day sleigh",
+      "EUde": "Spielzeugtag-Schlitten",
+      "EUes": "trineo de Renato",
+      "USes": "trineo de Renato",
+      "EUfr": "traîneau jour des cadeaux",
+      "USfr": "traîneau jour des cadeaux",
+      "EUit": "slitta Giorno dei giocattoli",
+      "EUnl": "speelgoeddagslee",
+      "CNzh": "圣诞雪橇",
+      "TWzh": "聖誕雪橇",
+      "JPja": "クリスマスなそり",
+      "KRko": "크리스마스 썰매",
+      "EUru": "сани ко Дню игрушек"
+    }
+  },
+  {
+    "id": "Ftr_13242",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "RC helicopter",
+      "EUen": "RC helicopter",
+      "EUde": "Fernsteuer-Hubschrauber",
+      "EUes": "helicóptero teledirigido",
+      "USes": "helicóptero teledirigido",
+      "EUfr": "hélicoptère téléguidé",
+      "USfr": "hélicoptère téléguidé",
+      "EUit": "elicottero telecomandato",
+      "EUnl": "helicopterspeeltje",
+      "CNzh": "遥控直升机",
+      "TWzh": "遙控直升機",
+      "JPja": "ラジコンヘリコプター",
+      "KRko": "RC 헬리콥터",
+      "EUru": "радиовертолет"
+    }
+  },
+  {
+    "id": "Ftr_13243",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "puppy plushie",
+      "EUen": "puppy plushie",
+      "EUde": "Plüschhündchen",
+      "EUes": "cachorro de peluche",
+      "USes": "cachorro de peluche",
+      "EUfr": "peluche de chiot",
+      "USfr": "peluche de chiot",
+      "EUit": "cagnolino di peluche",
+      "EUnl": "puppyknuffel",
+      "CNzh": "狗狗玩偶",
+      "TWzh": "狗狗玩偶",
+      "JPja": "いぬのぬいぐるみ",
+      "KRko": "강아지 인형",
+      "EUru": "плюшевый щенок"
+    }
+  },
+  {
+    "id": "Ftr_13244",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "gift pile",
+      "EUen": "gift pile",
+      "EUde": "Geschenkeberg",
+      "EUes": "montón de regalos",
+      "USes": "montón de regalos",
+      "EUfr": "pile de cadeaux",
+      "USfr": "pile de cadeaux",
+      "EUit": "mucchio di regali",
+      "EUnl": "stapel cadeautjes",
+      "CNzh": "礼物堆",
+      "TWzh": "禮物堆",
+      "JPja": "プレゼントのやま",
+      "KRko": "선물 더미",
+      "EUru": "груда подарков"
+    }
+  },
+  {
+    "id": "Ftr_13245",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Yule log",
+      "EUen": "Yule log",
+      "EUde": "Bûche de Noël",
+      "EUes": "tronco dulce festivo",
+      "USes": "tronco dulce festivo",
+      "EUfr": "bûche de Noël",
+      "USfr": "bûche au chocolat",
+      "EUit": "rotolo dolce",
+      "EUnl": "boomstamdessert",
+      "CNzh": "圣诞树干蛋糕",
+      "TWzh": "聖誕樹幹蛋糕",
+      "JPja": "ブッシュ・ド・ノエル",
+      "KRko": "부쉬 드 노엘",
+      "EUru": "рождественское полено"
+    }
+  },
+  {
+    "id": "Ftr_13246",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "pop-up book",
+      "EUen": "pop-up book",
+      "EUde": "Aufklapp-Bilderbuch",
+      "EUes": "libro animado",
+      "USes": "libro animado",
+      "EUfr": "livre animé",
+      "USfr": "livre animé",
+      "EUit": "libro 3D",
+      "EUnl": "pop-upboek",
+      "CNzh": "立体绘本",
+      "TWzh": "立體繪本",
+      "JPja": "しかけえほん",
+      "KRko": "입체 그림책",
+      "EUru": "книжка-раскладушка"
+    }
+  },
+  {
+    "id": "Ftr_13247",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "tin robot",
+      "EUen": "tin robot",
+      "EUde": "Blechroboter",
+      "EUes": "robot de hojalata",
+      "USes": "robot de hojalata",
+      "EUfr": "robot en métal",
+      "USfr": "robot en métal",
+      "EUit": "robot di latta",
+      "EUnl": "tinnen robot",
+      "CNzh": "铁皮机器人",
+      "TWzh": "白鐵機器人",
+      "JPja": "ブリキのロボット",
+      "KRko": "양철 로봇",
+      "EUru": "жестяной робот"
+    }
+  },
+  {
+    "id": "Ftr_13248",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Toy Day stockings",
+      "EUen": "Toy Day stockings",
+      "EUde": "Spielzeugtagsocken-Set",
+      "EUes": "lote de calcetines Renato",
+      "USes": "set de calcetines de Renato",
+      "EUfr": "lot de chaussettes festives",
+      "USfr": "lot de bas décoratifs",
+      "EUit": "set di calze Jingle",
+      "EUnl": "speelgoeddagsokkenset",
+      "CNzh": "圣诞壁挂式袜子",
+      "TWzh": "聖誕節壁掛式襪子",
+      "JPja": "クリスマスなかべかけソックス",
+      "KRko": "크리스마스 벽걸이 양말",
+      "EUru": "носки ко Дню игрушек"
+    }
+  },
+  {
+    "id": "Ftr_13249",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "kids' tent",
+      "EUen": "kids' tent",
+      "EUde": "Kinderzelt",
+      "EUes": "tienda de campaña infantil",
+      "USes": "tienda de campaña infantil",
+      "EUfr": "tente pour enfants",
+      "USfr": "tente pour enfants",
+      "EUit": "tenda per bambini",
+      "EUnl": "kindertent",
+      "CNzh": "儿童帐篷",
+      "TWzh": "兒童帳篷",
+      "JPja": "キッズテント",
+      "KRko": "어린이용 텐트",
+      "EUru": "детская палатка"
+    }
+  },
+  {
+    "id": "Ftr_13250",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "mini circuit",
+      "EUen": "mini circuit",
+      "EUde": "Autorennbahn",
+      "EUes": "circuito en miniatura",
+      "USes": "circuito en miniatura",
+      "EUfr": "circuit miniature",
+      "USfr": "circuit miniature",
+      "EUit": "pista giocattolo",
+      "EUnl": "kleine racebaan",
+      "CNzh": "迷你赛车场",
+      "TWzh": "迷你賽車場",
+      "JPja": "ミニサーキット",
+      "KRko": "미니카 서킷",
+      "EUru": "мини-трек"
+    }
+  },
+  {
+    "id": "Ftr_13251",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "dinosaur toy",
+      "EUen": "dinosaur toy",
+      "EUde": "Spielzeug-Dino",
+      "EUes": "dinosaurio de juguete",
+      "USes": "dinosaurio de juguete",
+      "EUfr": "dinosaure jouet",
+      "USfr": "jouet dinosaure",
+      "EUit": "dinosauro giocattolo",
+      "EUnl": "dinosaurusspeeltje",
+      "CNzh": "恐龙玩具",
+      "TWzh": "恐龍玩具",
+      "JPja": "きょうりゅうのおもちゃ",
+      "KRko": "공룡 장난감",
+      "EUru": "игрушечный динозавр"
+    }
+  },
+  {
+    "id": "Ftr_13252",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "dollhouse",
+      "EUen": "dollhouse",
+      "EUde": "Puppenhaus",
+      "EUes": "casa de muñecas",
+      "USes": "casa de muñecas",
+      "EUfr": "maison de poupée",
+      "USfr": "maison de poupée",
+      "EUit": "casa delle bambole",
+      "EUnl": "poppenhuis",
+      "CNzh": "娃娃屋",
+      "TWzh": "娃娃屋",
+      "JPja": "ドールハウス",
+      "KRko": "인형의 집",
+      "EUru": "кукольный домик"
+    }
+  },
+  {
     "id": "Ftr_13293",
     "version": "1.5.0",
     "locale": {
@@ -17477,6 +17777,326 @@
       "JPja": "パンプキングのしょうぞうが",
       "KRko": "펌킹의 초상화",
       "EUru": "портрет Джека"
+    }
+  },
+  {
+    "id": "Ftr_13447",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day garden stand",
+      "EUen": "Turkey Day garden stand",
+      "EUde": "Schlemmfest-Sockel",
+      "EUes": "pedestal Día del Pavo",
+      "USes": "pedestal Día del Pavo",
+      "EUfr": "socle fête du partage",
+      "USfr": "socle fête du partage",
+      "EUit": "piedistallo primizie",
+      "EUnl": "smakenfestijnsokkel",
+      "CNzh": "感恩节盆栽架",
+      "TWzh": "感恩節盆栽架",
+      "JPja": "サンクスギビングベーススタンド",
+      "KRko": "하베스트 가든 스탠드",
+      "EUru": "стойка «День изобилия»"
+    }
+  },
+  {
+    "id": "Ftr_13448",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day hearth",
+      "EUen": "Turkey Day hearth",
+      "EUde": "Schlemmfest-Kamin",
+      "EUes": "chimenea Día del Pavo",
+      "USes": "chimenea Día del Pavo",
+      "EUfr": "âtre fête du partage",
+      "USfr": "âtre fête du partage",
+      "EUit": "caminetto primizie",
+      "EUnl": "smakenfestijnhaard",
+      "CNzh": "感恩节壁炉",
+      "TWzh": "感恩節壁爐",
+      "JPja": "サンクスギビングなだんろ",
+      "KRko": "하베스트 난로",
+      "EUru": "камин «День изобилия»"
+    }
+  },
+  {
+    "id": "Ftr_13449",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day decorations",
+      "EUen": "Turkey Day decorations",
+      "EUde": "Schlemmfest-Dekoration",
+      "EUes": "decoración Día del Pavo",
+      "USes": "decoración Día del Pavo",
+      "EUfr": "déco fête du partage",
+      "USfr": "déco fête du partage",
+      "EUit": "decorazione primizie",
+      "EUnl": "smakenfestijn-decoratieset",
+      "CNzh": "感恩节装饰",
+      "TWzh": "感恩節裝飾",
+      "JPja": "サンクスギビングデコレーション",
+      "KRko": "하베스트 데코레이션",
+      "EUru": "декор ко Дню изобилия"
+    }
+  },
+  {
+    "id": "Ftr_13450",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day chair",
+      "EUen": "Turkey Day chair",
+      "EUde": "Schlemmfest-Stuhl",
+      "EUes": "silla Día del Pavo",
+      "USes": "silla Día del Pavo",
+      "EUfr": "chaise fête du partage",
+      "USfr": "chaise fête du partage",
+      "EUit": "sedia primizie",
+      "EUnl": "smakenfestijnstoel",
+      "CNzh": "感恩节椅",
+      "TWzh": "感恩節椅",
+      "JPja": "サンクスギビングなチェア",
+      "KRko": "하베스트 체어",
+      "EUru": "стул «День изобилия»"
+    }
+  },
+  {
+    "id": "Ftr_13453",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day table",
+      "EUen": "Turkey Day table",
+      "EUde": "Schlemmfest-Tisch",
+      "EUes": "mesa comedor Día del Pavo",
+      "USes": "mesa comedor Día del Pavo",
+      "EUfr": "table fête du partage",
+      "USfr": "table fête du partage",
+      "EUit": "tavolo primizie",
+      "EUnl": "smakenfestijntafel",
+      "CNzh": "感恩节桌",
+      "TWzh": "感恩節桌",
+      "JPja": "サンクスギビングなテーブル",
+      "KRko": "하베스트 테이블",
+      "EUru": "стол «День изобилия»"
+    }
+  },
+  {
+    "id": "Ftr_13459",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Yut Nori",
+      "EUen": "Yut Nori",
+      "EUde": "Yut-Nori-Spiel",
+      "EUes": "juego del iut",
+      "USes": "juego del iut",
+      "EUfr": "yut nori",
+      "USfr": "yut nori",
+      "EUit": "Yut nori",
+      "EUnl": "Yut-Nori-spel",
+      "CNzh": "掷柶游戏",
+      "TWzh": "擲柶遊戲",
+      "JPja": "ユンノリ",
+      "KRko": "윷놀이",
+      "EUru": "ют-нори"
+    }
+  },
+  {
+    "id": "Ftr_13462",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "twelve-grape dish",
+      "EUen": "twelve-grape dish",
+      "EUde": "12-Trauben-Schälchen",
+      "EUes": "plato con doce uvas",
+      "USes": "plato con doce uvas",
+      "EUfr": "plat de raisins",
+      "USfr": "plat de raisins",
+      "EUit": "piatto con dodici acini d'uva",
+      "EUnl": "bordje met twaalf druiven",
+      "CNzh": "12粒葡萄",
+      "TWzh": "12粒葡萄",
+      "JPja": "12つぶのぶどう",
+      "KRko": "포도알 12개",
+      "EUru": "12 виноградин удачи"
+    }
+  },
+  {
+    "id": "Ftr_13463",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "berliner",
+      "EUen": "berliner",
+      "EUde": "Berliner-Teller",
+      "EUes": "plato de berlinesas",
+      "USes": "plato de berlinesas",
+      "EUfr": "beignet",
+      "USfr": "beigne",
+      "EUit": "piatto di krapfen",
+      "EUnl": "Berlijnse bollen",
+      "CNzh": "柏林果酱面包",
+      "TWzh": "柏林果醬麵包",
+      "JPja": "ベルリーナー",
+      "KRko": "베를리너",
+      "EUru": "берлинский пончик"
+    }
+  },
+  {
+    "id": "Ftr_13490",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "zodiac ox figurine",
+      "EUen": "zodiac ox figurine",
+      "EUde": "Büffel-Sternzeichen",
+      "EUes": "figura zodiacal de buey",
+      "USes": "figura zodiacal de buey",
+      "EUfr": "figurine année du buffle",
+      "USfr": "figurine année du buffle",
+      "EUit": "statuetta del segno del bue",
+      "EUnl": "os-dierenriembeeldje",
+      "CNzh": "牛摆饰",
+      "TWzh": "牛擺飾",
+      "JPja": "うしのおきもの",
+      "KRko": "소띠 장식품",
+      "EUru": "фигурка «Телец»"
+    }
+  },
+  {
+    "id": "Ftr_13543",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "2021 celebratory arch",
+      "EUen": "2021 celebratory arch",
+      "EUde": "2021-Festtagsbogen",
+      "EUes": "arco de bienvenida al 2021",
+      "USes": "arco de bienvenida al 2021",
+      "EUfr": "arche nouvel an 2021",
+      "USfr": "arche Nouvel An 2021",
+      "EUit": "arco buon anno 2021",
+      "EUnl": "2021-feestboog",
+      "CNzh": "2021年拱门",
+      "TWzh": "2021年拱門",
+      "JPja": "2021ねんのアーチ",
+      "KRko": "2021년 아치",
+      "EUru": "новогодняя арка 2021"
+    }
+  },
+  {
+    "id": "Ftr_13797",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "New Year's noodles",
+      "EUen": "New Year's noodles",
+      "EUde": "Neujahrsnudeln",
+      "EUes": "sopa de Año Nuevo",
+      "USes": "sopa de Año Nuevo",
+      "EUfr": "soupe du nouvel an",
+      "USfr": "soupe du Nouvel An",
+      "EUit": "zuppa di Capodanno",
+      "EUnl": "nieuwjaarsnoodles",
+      "CNzh": "跨年荞麦面",
+      "TWzh": "跨年蕎麥麵",
+      "JPja": "としこしそば",
+      "KRko": "새해맞이 국수",
+      "EUru": "новогодняя лапша"
+    }
+  },
+  {
+    "id": "Ftr_13799",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Olivier salad",
+      "EUen": "Olivier salad",
+      "EUde": "Olivier-Salat",
+      "EUes": "ensalada Olivier",
+      "USes": "ensalada rusa",
+      "EUfr": "salade Olivier",
+      "USfr": "salade Olivier",
+      "EUit": "insalata russa",
+      "EUnl": "huzarensalade",
+      "CNzh": "奥利维耶沙拉",
+      "TWzh": "奧利維耶沙拉",
+      "JPja": "オリビエサラダ",
+      "KRko": "올리비에 샐러드",
+      "EUru": "салат Оливье"
+    }
+  },
+  {
+    "id": "Ftr_13818",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day casserole",
+      "EUen": "Turkey Day casserole",
+      "EUde": "Schlemmfest-Bräter",
+      "EUes": "cazuela Día del Pavo",
+      "USes": "cazuela Día del Pavo",
+      "EUfr": "plat à gratin jour du partage",
+      "USfr": "plat à gratin jour du partage",
+      "EUit": "casseruola primizie",
+      "EUnl": "smakenfestijnpan",
+      "CNzh": "感恩节砂锅炖菜",
+      "TWzh": "感恩節砂鍋燉菜",
+      "JPja": "サンクスギビングなキャセロール",
+      "KRko": "하베스트 캐서롤",
+      "EUru": "утятница «День изобилия»"
+    }
+  },
+  {
+    "id": "Ftr_13819",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day wheat decor",
+      "EUen": "Turkey Day wheat decor",
+      "EUde": "Schlemmfest-Getreidedeko",
+      "EUes": "adorno trigo Día del Pavo",
+      "USes": "adorno trigo Día del Pavo",
+      "EUfr": "décor de blé du partage",
+      "USfr": "décor de blé du partage",
+      "EUit": "ornamento primizie",
+      "EUnl": "smakenfestijn-tarwebundel",
+      "CNzh": "感恩节麦子装饰",
+      "TWzh": "感恩節麥子裝飾",
+      "JPja": "サンクスギビングなむぎかざり",
+      "KRko": "하베스트 밀 장식",
+      "EUru": "пшеница ко Дню изобилия"
+    }
+  },
+  {
+    "id": "Ftr_13820",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day table setting",
+      "EUen": "Turkey Day table setting",
+      "EUde": "Schlemmfest-Tischgedeck",
+      "EUes": "servicio mesa Día del Pavo",
+      "USes": "servicio mesa Día del Pavo",
+      "EUfr": "service fête du partage",
+      "USfr": "service fête du partage",
+      "EUit": "set da tavola primizie",
+      "EUnl": "smakenfestijnservies",
+      "CNzh": "感恩节桌上布置",
+      "TWzh": "感恩節桌上布置",
+      "JPja": "サンクスギビングテーブルウェア",
+      "KRko": "하베스트 테이블 세팅",
+      "EUru": "посуда ко Дню изобилия"
+    }
+  },
+  {
+    "id": "Ftr_13930",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "set of stockings",
+      "EUen": "set of stockings",
+      "EUde": "Wunschsocken-Set",
+      "EUes": "lote de calcetines de pared",
+      "USes": "set de calcetines de pared",
+      "EUfr": "lot de chaussettes déco",
+      "USfr": "lot de bas décoratifs",
+      "EUit": "set di calze per regali",
+      "EUnl": "sokkenset",
+      "CNzh": "壁挂式袜子",
+      "TWzh": "壁掛式襪子",
+      "JPja": "かべかけソックス",
+      "KRko": "벽걸이 양말",
+      "EUru": "набор носков"
     }
   }
 ]

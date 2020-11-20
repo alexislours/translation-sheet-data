@@ -561,7 +561,7 @@
   },
   {
     "id": 30,
-    "version": "",
+    "version": "1.4.0",
     "locale": {
       "USen": "mermaid",
       "EUen": "mermaid",
@@ -577,6 +577,26 @@
       "JPja": "マーメイド",
       "KRko": "머메이드",
       "EUru": "Русалка"
+    }
+  },
+  {
+    "id": 32,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day",
+      "EUen": "Turkey Day",
+      "EUde": "Schlemmfest",
+      "EUes": "Día del Pavo",
+      "USes": "Día del Pavo",
+      "EUfr": "Fête du partage",
+      "USfr": "Fête du partage",
+      "EUit": "festival delle primizie",
+      "EUnl": "smakenfestijnstijl",
+      "CNzh": "感恩节",
+      "TWzh": "感恩節",
+      "JPja": "サンクスギビング",
+      "KRko": "하베스트",
+      "EUru": "День изобилия"
     }
   }
 ]

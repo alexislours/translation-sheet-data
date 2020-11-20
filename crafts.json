@@ -540,6 +540,26 @@
     }
   },
   {
+    "id": "CraftPhoneCase_13439",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Pocket Camp phone case",
+      "EUen": "Pocket Camp phone case",
+      "EUde": "Pocket Camp-Hülle",
+      "EUes": "funda móvil Pocket Camp",
+      "USes": "funda teléfono Pocket Camp",
+      "EUfr": "coque Pocket Camp",
+      "USfr": "coque Pocket Camp",
+      "EUit": "custodia Pocket Camp",
+      "EUnl": "Pocket Camp-hoesje",
+      "CNzh": "口袋露营广场手机壳",
+      "TWzh": "口袋露營廣場手機殼",
+      "JPja": "ポケットキャンプのスマホケース",
+      "KRko": "포켓 캠프 스마트폰 케이스",
+      "EUru": "чехол Pocket Camp"
+    }
+  },
+  {
     "id": "CraftRemake_02513",
     "version": "1.0.0",
     "locale": {

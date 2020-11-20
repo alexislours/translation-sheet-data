@@ -5018,5 +5018,65 @@
       "KRko": "불꽃축제 벽",
       "EUru": "стена с фейерверком"
     }
+  },
+  {
+    "id": "RoomWall_13318",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "Turkey Day wall",
+      "EUen": "Turkey Day wall",
+      "EUde": "Schlemmfest-Tapete",
+      "EUes": "pared Día del Pavo",
+      "USes": "pared Día del Pavo",
+      "EUfr": "mur fête du partage",
+      "USfr": "mur fête du partage",
+      "EUit": "muro primizie",
+      "EUnl": "smakenfestijnwand",
+      "CNzh": "感恩节墙",
+      "TWzh": "感恩節牆",
+      "JPja": "サンクスギビングなかべ",
+      "KRko": "하베스트 벽",
+      "EUru": "стена «День изобилия»"
+    }
+  },
+  {
+    "id": "RoomWall_13603",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "falling-snow wall",
+      "EUen": "falling-snow wall",
+      "EUde": "Schneefall-Tapete",
+      "EUes": "pared noche nevada",
+      "USes": "pared noche nevada",
+      "EUfr": "mur chute de neige",
+      "USfr": "mur chute de neige",
+      "EUit": "muro nevicata",
+      "EUnl": "sneeuwvalwand",
+      "CNzh": "下雪墙",
+      "TWzh": "下雪牆",
+      "JPja": "ゆきのふるかべ",
+      "KRko": "눈 내리는 벽",
+      "EUru": "стена со снегопадом"
+    }
+  },
+  {
+    "id": "RoomWall_13609",
+    "version": "1.6.0",
+    "locale": {
+      "USen": "aurora wall",
+      "EUen": "aurora wall",
+      "EUde": "Aurora-Tapete",
+      "EUes": "pared aurora",
+      "USes": "pared aurora",
+      "EUfr": "mur aurore polaire",
+      "USfr": "mur aurore polaire",
+      "EUit": "muro aurora boreale",
+      "EUnl": "poollichtwand",
+      "CNzh": "极光墙",
+      "TWzh": "極光牆",
+      "JPja": "オーロラのかべ",
+      "KRko": "오로라 벽",
+      "EUru": "стена с полярным сиянием"
+    }
   }
 ]

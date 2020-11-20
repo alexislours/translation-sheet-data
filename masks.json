@@ -600,6 +600,26 @@
     }
   },
   {
+    "id": 750,
+    "version": "1.6.0",
+    "locale": {
+      "USen": "reindeer hat",
+      "EUen": "reindeer hat",
+      "EUde": "Rentiermütze",
+      "EUes": "gorro de reno",
+      "USes": "sombrero de reno",
+      "EUfr": "coiffe de renne",
+      "USfr": "coiffe de renne",
+      "EUit": "cappello da renna",
+      "EUnl": "rendiermuts",
+      "CNzh": "驯鹿帽子",
+      "TWzh": "馴鹿帽子",
+      "JPja": "トナカイのぼうし",
+      "KRko": "루돌프 모자",
+      "EUru": "шапка оленя"
+    }
+  },
+  {
     "id": 758,
     "version": "1.0.0",
     "locale": {
