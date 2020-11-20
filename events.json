@@ -305,18 +305,18 @@
     "locale": {
       "USen": "Summer Solstice",
       "EUen": "Summer Solstice",
-      "EUde": "Sommersonnenwende",
+      "EUde": "Mittsommer",
       "EUes": "Solsticio de verano",
       "USes": "Solsticio de verano",
       "EUfr": "Solstice d'été",
       "USfr": "Solstice d'été",
       "EUit": "Solstizio d'estate",
       "EUnl": "Midzomer",
-      "CNzh": "夏至祭典",
-      "TWzh": "夏至祭典",
+      "CNzh": "夏至",
+      "TWzh": "夏至",
       "JPja": "げしさい夏至祭",
-      "KRko": "하지 축제",
-      "EUru": "Праздник лета"
+      "KRko": "하지",
+      "EUru": "Летнее солнцестояние"
     }
   },
   {
@@ -325,18 +325,18 @@
     "locale": {
       "USen": "Winter Solstice",
       "EUen": "Winter Solstice",
-      "EUde": "Wintersonnenwende",
+      "EUde": "Mittwinter",
       "EUes": "Solsticio de invierno",
       "USes": "Solsticio de invierno",
       "EUfr": "Solstice d'hiver",
       "USfr": "Solstice d'hiver",
       "EUit": "Solstizio d'inverno",
       "EUnl": "Midwinter",
-      "CNzh": "冬至祭典",
-      "TWzh": "冬至祭典",
+      "CNzh": "冬至",
+      "TWzh": "冬至",
       "JPja": "とうじさい冬至祭",
-      "KRko": "동지 축제",
-      "EUru": "Праздник зимы"
+      "KRko": "동지",
+      "EUru": "Зимнее солнцестояние"
     }
   },
   {
