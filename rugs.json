@@ -2800,6 +2800,26 @@
     }
   },
   {
+    "id": "Rug_13904",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "football rug",
+      "EUen": "football rug",
+      "EUde": "Football-Teppich",
+      "EUes": "alfombra final deportiva",
+      "USes": "alfombra final deportiva",
+      "EUfr": "tapis football américain",
+      "USfr": "tapis ballon de football",
+      "EUit": "tappeto football",
+      "EUnl": "Americanfootballtapijt",
+      "CNzh": "美式足球地毯",
+      "TWzh": "美式足球地毯",
+      "JPja": "アメフトのラグ",
+      "KRko": "미식축구 러그",
+      "EUru": "футбольный ковер"
+    }
+  },
+  {
     "id": "RugMyDesign_08823",
     "version": "1.0.0",
     "locale": {

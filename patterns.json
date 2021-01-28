@@ -2,7 +2,7 @@
   {
     "id": "Ftr_00725",
     "variant_id": "Ftr_00725_0",
-    "furniture_name": "paper lantern",
+    "ftr_name": "paper lantern",
     "locale": {
       "USen": "Plain",
       "EUen": "Plain",
@@ -15,7 +15,7 @@
       "EUnl": "Kaal",
       "CNzh": "无图案",
       "TWzh": "無圖案",
-      "JPja": "むじ無地",
+      "JPja": "無地",
       "KRko": "무지",
       "EUru": "Стандарт"
     }
@@ -23,7 +23,7 @@
   {
     "id": "Ftr_00725",
     "variant_id": "Ftr_00725_1",
-    "furniture_name": "paper lantern",
+    "ftr_name": "paper lantern",
     "locale": {
       "USen": "Spring",
       "EUen": "Spring",
@@ -36,7 +36,7 @@
       "EUnl": "Lente",
       "CNzh": "春",
       "TWzh": "春",
-      "JPja": "はる春",
+      "JPja": "春",
       "KRko": "봄",
       "EUru": "Весна"
     }
@@ -44,7 +44,7 @@
   {
     "id": "Ftr_00725",
     "variant_id": "Ftr_00725_2",
-    "furniture_name": "paper lantern",
+    "ftr_name": "paper lantern",
     "locale": {
       "USen": "Summer",
       "EUen": "Summer",
@@ -57,7 +57,7 @@
       "EUnl": "Zomer",
       "CNzh": "夏",
       "TWzh": "夏",
-      "JPja": "なつ夏",
+      "JPja": "夏",
       "KRko": "여름",
       "EUru": "Лето"
     }
@@ -65,7 +65,7 @@
   {
     "id": "Ftr_00725",
     "variant_id": "Ftr_00725_3",
-    "furniture_name": "paper lantern",
+    "ftr_name": "paper lantern",
     "locale": {
       "USen": "Fall",
       "EUen": "Fall",
@@ -78,7 +78,7 @@
       "EUnl": "Herfst",
       "CNzh": "秋",
       "TWzh": "秋",
-      "JPja": "あき秋",
+      "JPja": "秋",
       "KRko": "가을",
       "EUru": "Осень"
     }
@@ -86,7 +86,7 @@
   {
     "id": "Ftr_00725",
     "variant_id": "Ftr_00725_4",
-    "furniture_name": "paper lantern",
+    "ftr_name": "paper lantern",
     "locale": {
       "USen": "Winter",
       "EUen": "Winter",
@@ -99,7 +99,7 @@
       "EUnl": "Winter",
       "CNzh": "冬",
       "TWzh": "冬",
-      "JPja": "ふゆ冬",
+      "JPja": "冬",
       "KRko": "겨울",
       "EUru": "Зима"
     }
@@ -107,7 +107,7 @@
   {
     "id": "Ftr_00833",
     "variant_id": "Ftr_00833_0",
-    "furniture_name": "upright locker",
+    "ftr_name": "upright locker",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -128,7 +128,7 @@
   {
     "id": "Ftr_00833",
     "variant_id": "Ftr_00833_1",
-    "furniture_name": "upright locker",
+    "ftr_name": "upright locker",
     "locale": {
       "USen": "Cool",
       "EUen": "Cool",
@@ -149,7 +149,7 @@
   {
     "id": "Ftr_00833",
     "variant_id": "Ftr_00833_2",
-    "furniture_name": "upright locker",
+    "ftr_name": "upright locker",
     "locale": {
       "USen": "Cute",
       "EUen": "Cute",
@@ -170,7 +170,7 @@
   {
     "id": "Ftr_00833",
     "variant_id": "Ftr_00833_3",
-    "furniture_name": "upright locker",
+    "ftr_name": "upright locker",
     "locale": {
       "USen": "Pop",
       "EUen": "Pop",
@@ -191,7 +191,7 @@
   {
     "id": "Ftr_00833",
     "variant_id": "Ftr_00833_4",
-    "furniture_name": "upright locker",
+    "ftr_name": "upright locker",
     "locale": {
       "USen": "Notes",
       "EUen": "Notes",
@@ -210,9 +210,450 @@
     }
   },
   {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_0",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "Ninguna",
+      "USes": "Ninguna",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Простая"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_1",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Familiar logo",
+      "EUen": "Familiar logo",
+      "EUde": "Logo",
+      "EUes": "Marca",
+      "USes": "Marca",
+      "EUfr": "Marque",
+      "USfr": "Autocollant",
+      "EUit": "Familiare",
+      "EUnl": "Bekend",
+      "CNzh": "熟悉的标志",
+      "TWzh": "熟悉Logo",
+      "JPja": "おなじみのロゴ",
+      "KRko": "친숙한 로고",
+      "EUru": "Знакомый логотип"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_2",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Chic logo",
+      "EUen": "Chic logo",
+      "EUde": "Schick",
+      "EUes": "Chic",
+      "USes": "Chic",
+      "EUfr": "Chic",
+      "USfr": "Chic",
+      "EUit": "Chic",
+      "EUnl": "Chic",
+      "CNzh": "典雅的标志",
+      "TWzh": "典雅Logo",
+      "JPja": "シックなロゴ",
+      "KRko": "시크한 로고",
+      "EUru": "Шикарный логотип"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_3",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Rock logo",
+      "EUen": "Rock logo",
+      "EUde": "Hard Rock",
+      "EUes": "Rock duro",
+      "USes": "Rock pesado",
+      "EUfr": "Hard rock",
+      "USfr": "Hard rock",
+      "EUit": "Hard rock",
+      "EUnl": "Rock",
+      "CNzh": "坚硬的标志",
+      "TWzh": "硬派Logo",
+      "JPja": "ハードなロゴ",
+      "KRko": "과격한 로고",
+      "EUru": "Рок-логотип"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_4",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Emblem logo",
+      "EUen": "Emblem logo",
+      "EUde": "Wappen",
+      "EUes": "Emblema",
+      "USes": "Emblema",
+      "EUfr": "Emblème",
+      "USfr": "Emblème",
+      "EUit": "Emblema",
+      "EUnl": "Embleem",
+      "CNzh": "纹章的标志",
+      "TWzh": "徽章Logo",
+      "JPja": "エンブレムなロゴ",
+      "KRko": "엠블렘 로고",
+      "EUru": "Герб"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_5",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Handwritten logo",
+      "EUen": "Handwritten logo",
+      "EUde": "Unterschrift",
+      "EUes": "Firma",
+      "USes": "Firma",
+      "EUfr": "Signature",
+      "USfr": "Signature",
+      "EUit": "Foglietto di carta",
+      "EUnl": "Handgeschreven",
+      "CNzh": "手写体的标志",
+      "TWzh": "手寫風Logo",
+      "JPja": "スクリプトなロゴ",
+      "KRko": "스크립트 로고",
+      "EUru": "Надпись от руки"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_6",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Pop logo",
+      "EUen": "Pop logo",
+      "EUde": "Pop",
+      "EUes": "Pop",
+      "USes": "Pop",
+      "EUfr": "Pop",
+      "USfr": "Pop",
+      "EUit": "Pop",
+      "EUnl": "Populair",
+      "CNzh": "流行的标志",
+      "TWzh": "繽紛Logo",
+      "JPja": "ポップなロゴ",
+      "KRko": "팝 로고",
+      "EUru": "Популярный логотип"
+    }
+  },
+  {
+    "id": "Ftr_00941",
+    "variant_id": "Ftr_00941_7",
+    "ftr_name": "DJ's turntable",
+    "locale": {
+      "USen": "Cute logo",
+      "EUen": "Cute logo",
+      "EUde": "Niedlich",
+      "EUes": "Adorable",
+      "USes": "Adorable",
+      "EUfr": "Mignon",
+      "USfr": "Mignon",
+      "EUit": "Grazioso",
+      "EUnl": "Schattig",
+      "CNzh": "可爱的标志",
+      "TWzh": "可愛Logo",
+      "JPja": "キュートなロゴ",
+      "KRko": "큐트 로고",
+      "EUru": "Милый логотип"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_0",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "Ninguna",
+      "USes": "Ninguna",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Простая"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_1",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Familiar logo",
+      "EUen": "Familiar logo",
+      "EUde": "Logo",
+      "EUes": "Marca",
+      "USes": "Marca",
+      "EUfr": "Marque",
+      "USfr": "Autocollant",
+      "EUit": "Familiare",
+      "EUnl": "Bekend",
+      "CNzh": "熟悉的标志",
+      "TWzh": "熟悉Logo",
+      "JPja": "おなじみのロゴ",
+      "KRko": "친숙한 로고",
+      "EUru": "Знакомый логотип"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_2",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Chic logo",
+      "EUen": "Chic logo",
+      "EUde": "Schick",
+      "EUes": "Chic",
+      "USes": "Chic",
+      "EUfr": "Chic",
+      "USfr": "Chic",
+      "EUit": "Chic",
+      "EUnl": "Chic",
+      "CNzh": "典雅的标志",
+      "TWzh": "典雅Logo",
+      "JPja": "シックなロゴ",
+      "KRko": "시크한 로고",
+      "EUru": "Шикарный логотип"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_3",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Rock logo",
+      "EUen": "Rock logo",
+      "EUde": "Hard Rock",
+      "EUes": "Rock duro",
+      "USes": "Rock pesado",
+      "EUfr": "Hard rock",
+      "USfr": "Hard rock",
+      "EUit": "Hard rock",
+      "EUnl": "Rock",
+      "CNzh": "坚硬的标志",
+      "TWzh": "硬派Logo",
+      "JPja": "ハードなロゴ",
+      "KRko": "과격한 로고",
+      "EUru": "Рок-логотип"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_4",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Emblem logo",
+      "EUen": "Emblem logo",
+      "EUde": "Wappen",
+      "EUes": "Emblema",
+      "USes": "Emblema",
+      "EUfr": "Emblème",
+      "USfr": "Emblème",
+      "EUit": "Emblema",
+      "EUnl": "Embleem",
+      "CNzh": "纹章的标志",
+      "TWzh": "徽章Logo",
+      "JPja": "エンブレムなロゴ",
+      "KRko": "엠블렘 로고",
+      "EUru": "Герб"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_5",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Handwritten logo",
+      "EUen": "Handwritten logo",
+      "EUde": "Unterschrift",
+      "EUes": "Firma",
+      "USes": "Firma",
+      "EUfr": "Signature",
+      "USfr": "Signature",
+      "EUit": "Foglietto di carta",
+      "EUnl": "Handgeschreven",
+      "CNzh": "手写体的标志",
+      "TWzh": "手寫風Logo",
+      "JPja": "スクリプトなロゴ",
+      "KRko": "스크립트 로고",
+      "EUru": "Надпись от руки"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_6",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Pop logo",
+      "EUen": "Pop logo",
+      "EUde": "Pop",
+      "EUes": "Pop",
+      "USes": "Pop",
+      "EUfr": "Pop",
+      "USfr": "Pop",
+      "EUit": "Pop",
+      "EUnl": "Populair",
+      "CNzh": "流行的标志",
+      "TWzh": "繽紛Logo",
+      "JPja": "ポップなロゴ",
+      "KRko": "팝 로고",
+      "EUru": "Популярный логотип"
+    }
+  },
+  {
+    "id": "Ftr_00950",
+    "variant_id": "Ftr_00950_7",
+    "ftr_name": "effects rack",
+    "locale": {
+      "USen": "Cute logo",
+      "EUen": "Cute logo",
+      "EUde": "Niedlich",
+      "EUes": "Adorable",
+      "USes": "Adorable",
+      "EUfr": "Mignon",
+      "USfr": "Mignon",
+      "EUit": "Grazioso",
+      "EUnl": "Schattig",
+      "CNzh": "可爱的标志",
+      "TWzh": "可愛Logo",
+      "JPja": "キュートなロゴ",
+      "KRko": "큐트 로고",
+      "EUru": "Милый логотип"
+    }
+  },
+  {
+    "id": "Ftr_01029",
+    "variant_id": "Ftr_01029_0",
+    "ftr_name": "low screen",
+    "locale": {
+      "USen": "Plain",
+      "EUen": "Plain",
+      "EUde": "Schlicht",
+      "EUes": "Sencillo",
+      "USes": "Sencillo",
+      "EUfr": "Uni",
+      "USfr": "Uni",
+      "EUit": "Semplice",
+      "EUnl": "Kaal",
+      "CNzh": "无图案",
+      "TWzh": "無圖案",
+      "JPja": "無地",
+      "KRko": "무지",
+      "EUru": "Стандарт"
+    }
+  },
+  {
+    "id": "Ftr_01029",
+    "variant_id": "Ftr_01029_1",
+    "ftr_name": "low screen",
+    "locale": {
+      "USen": "Spring",
+      "EUen": "Spring",
+      "EUde": "Frühling",
+      "EUes": "Primavera",
+      "USes": "Primavera",
+      "EUfr": "Printemps",
+      "USfr": "Printemps",
+      "EUit": "Primavera",
+      "EUnl": "Lente",
+      "CNzh": "春",
+      "TWzh": "春",
+      "JPja": "春",
+      "KRko": "봄",
+      "EUru": "Весна"
+    }
+  },
+  {
+    "id": "Ftr_01029",
+    "variant_id": "Ftr_01029_2",
+    "ftr_name": "low screen",
+    "locale": {
+      "USen": "Summer",
+      "EUen": "Summer",
+      "EUde": "Sommer",
+      "EUes": "Verano",
+      "USes": "Verano",
+      "EUfr": "Été",
+      "USfr": "Été",
+      "EUit": "Estate",
+      "EUnl": "Zomer",
+      "CNzh": "夏",
+      "TWzh": "夏",
+      "JPja": "夏",
+      "KRko": "여름",
+      "EUru": "Лето"
+    }
+  },
+  {
+    "id": "Ftr_01029",
+    "variant_id": "Ftr_01029_3",
+    "ftr_name": "low screen",
+    "locale": {
+      "USen": "Fall",
+      "EUen": "Fall",
+      "EUde": "Herbst",
+      "EUes": "Otoño",
+      "USes": "Otoño",
+      "EUfr": "Automne",
+      "USfr": "Automne",
+      "EUit": "Autunno",
+      "EUnl": "Herfst",
+      "CNzh": "秋",
+      "TWzh": "秋",
+      "JPja": "秋",
+      "KRko": "가을",
+      "EUru": "Осень"
+    }
+  },
+  {
+    "id": "Ftr_01029",
+    "variant_id": "Ftr_01029_4",
+    "ftr_name": "low screen",
+    "locale": {
+      "USen": "Winter",
+      "EUen": "Winter",
+      "EUde": "Winter",
+      "EUes": "Invierno",
+      "USes": "Invierno",
+      "EUfr": "Hiver",
+      "USfr": "Hiver",
+      "EUit": "Inverno",
+      "EUnl": "Winter",
+      "CNzh": "冬",
+      "TWzh": "冬",
+      "JPja": "冬",
+      "KRko": "겨울",
+      "EUru": "Зима"
+    }
+  },
+  {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_0",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Café",
       "EUen": "Café",
@@ -233,7 +674,7 @@
   {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_1",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Travel",
       "EUen": "Travel",
@@ -254,7 +695,7 @@
   {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_2",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Fashion",
       "EUen": "Fashion",
@@ -275,7 +716,7 @@
   {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_3",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Sports",
       "EUen": "Sports",
@@ -296,7 +737,7 @@
   {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_4",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Comics",
       "EUen": "Comics",
@@ -317,7 +758,7 @@
   {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_5",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Kids",
       "EUen": "Kids",
@@ -338,7 +779,7 @@
   {
     "id": "Ftr_01032",
     "variant_id": "Ftr_01032_6",
-    "furniture_name": "magazine rack",
+    "ftr_name": "magazine rack",
     "locale": {
       "USen": "Weekly news",
       "EUen": "Weekly news",
@@ -351,7 +792,7 @@
       "EUnl": "Wekelijks nieuws",
       "CNzh": "周刊",
       "TWzh": "週刊",
-      "JPja": "しゅうかんし週刊誌",
+      "JPja": "週刊誌",
       "KRko": "주간지",
       "EUru": "Новости недели"
     }
@@ -359,7 +800,91 @@
   {
     "id": "Ftr_01499",
     "variant_id": "Ftr_01499_0",
-    "furniture_name": "Papa bear",
+    "ftr_name": "Papa bear",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без банта"
+    }
+  },
+  {
+    "id": "Ftr_01499",
+    "variant_id": "Ftr_01499_1",
+    "ftr_name": "Papa bear",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_01499",
+    "variant_id": "Ftr_01499_2",
+    "ftr_name": "Papa bear",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_01499",
+    "variant_id": "Ftr_01499_3",
+    "ftr_name": "Papa bear",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_01500",
+    "variant_id": "Ftr_01500_0",
+    "ftr_name": "Mama bear",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -380,7 +905,7 @@
   {
     "id": "Ftr_01500",
     "variant_id": "Ftr_01500_1",
-    "furniture_name": "Mama bear",
+    "ftr_name": "Mama bear",
     "locale": {
       "USen": "Red stripes",
       "EUen": "Red stripes",
@@ -401,7 +926,7 @@
   {
     "id": "Ftr_01500",
     "variant_id": "Ftr_01500_2",
-    "furniture_name": "Mama bear",
+    "ftr_name": "Mama bear",
     "locale": {
       "USen": "Blue stripes",
       "EUen": "Blue stripes",
@@ -422,7 +947,7 @@
   {
     "id": "Ftr_01500",
     "variant_id": "Ftr_01500_3",
-    "furniture_name": "Mama bear",
+    "ftr_name": "Mama bear",
     "locale": {
       "USen": "Yellow stripes",
       "EUen": "Yellow stripes",
@@ -442,8 +967,29 @@
   },
   {
     "id": "Ftr_01501",
+    "variant_id": "Ftr_01501_0",
+    "ftr_name": "Baby bear",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без банта"
+    }
+  },
+  {
+    "id": "Ftr_01501",
     "variant_id": "Ftr_01501_1",
-    "furniture_name": "Baby bear",
+    "ftr_name": "Baby bear",
     "locale": {
       "USen": "Heart",
       "EUen": "Heart",
@@ -464,7 +1010,7 @@
   {
     "id": "Ftr_01501",
     "variant_id": "Ftr_01501_2",
-    "furniture_name": "Baby bear",
+    "ftr_name": "Baby bear",
     "locale": {
       "USen": "Fish",
       "EUen": "Fish",
@@ -485,7 +1031,7 @@
   {
     "id": "Ftr_01501",
     "variant_id": "Ftr_01501_3",
-    "furniture_name": "Baby bear",
+    "ftr_name": "Baby bear",
     "locale": {
       "USen": "Star",
       "EUen": "Star",
@@ -505,8 +1051,29 @@
   },
   {
     "id": "Ftr_01504",
+    "variant_id": "Ftr_01504_0",
+    "ftr_name": "giant teddy bear",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без банта"
+    }
+  },
+  {
+    "id": "Ftr_01504",
     "variant_id": "Ftr_01504_1",
-    "furniture_name": "giant teddy bear",
+    "ftr_name": "giant teddy bear",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -527,7 +1094,7 @@
   {
     "id": "Ftr_01504",
     "variant_id": "Ftr_01504_2",
-    "furniture_name": "giant teddy bear",
+    "ftr_name": "giant teddy bear",
     "locale": {
       "USen": "Giant dots",
       "EUen": "Giant dots",
@@ -548,7 +1115,7 @@
   {
     "id": "Ftr_01504",
     "variant_id": "Ftr_01504_3",
-    "furniture_name": "giant teddy bear",
+    "ftr_name": "giant teddy bear",
     "locale": {
       "USen": "Giant stripes",
       "EUen": "Giant stripes",
@@ -569,7 +1136,7 @@
   {
     "id": "Ftr_01620",
     "variant_id": "Ftr_01620_0",
-    "furniture_name": "hammock",
+    "ftr_name": "hammock",
     "locale": {
       "USen": "Colorful",
       "EUen": "Colorful",
@@ -590,7 +1157,7 @@
   {
     "id": "Ftr_01620",
     "variant_id": "Ftr_01620_1",
-    "furniture_name": "hammock",
+    "ftr_name": "hammock",
     "locale": {
       "USen": "Camouflage",
       "EUen": "Camouflage",
@@ -611,7 +1178,7 @@
   {
     "id": "Ftr_01620",
     "variant_id": "Ftr_01620_2",
-    "furniture_name": "hammock",
+    "ftr_name": "hammock",
     "locale": {
       "USen": "Hibiscus flowers",
       "EUen": "Hibiscus flowers",
@@ -632,7 +1199,7 @@
   {
     "id": "Ftr_01620",
     "variant_id": "Ftr_01620_3",
-    "furniture_name": "hammock",
+    "ftr_name": "hammock",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -653,7 +1220,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_0",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -674,7 +1241,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_1",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "Familiar logo",
       "EUen": "Familiar logo",
@@ -695,7 +1262,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_2",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "Chic logo",
       "EUen": "Chic logo",
@@ -716,7 +1283,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_3",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "Rock logo",
       "EUen": "Rock logo",
@@ -737,7 +1304,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_4",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "Emblem logo",
       "EUen": "Emblem logo",
@@ -758,7 +1325,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_5",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "Handwritten logo",
       "EUen": "Handwritten logo",
@@ -779,7 +1346,7 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_6",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
     "locale": {
       "USen": "Pop logo",
       "EUen": "Pop logo",
@@ -800,7 +1367,175 @@
   {
     "id": "Ftr_01644",
     "variant_id": "Ftr_01644_7",
-    "furniture_name": "rock guitar",
+    "ftr_name": "rock guitar",
+    "locale": {
+      "USen": "Cute logo",
+      "EUen": "Cute logo",
+      "EUde": "Niedlich",
+      "EUes": "Adorable",
+      "USes": "Adorable",
+      "EUfr": "Mignon",
+      "USfr": "Mignon",
+      "EUit": "Grazioso",
+      "EUnl": "Schattig",
+      "CNzh": "可爱的标志",
+      "TWzh": "可愛Logo",
+      "JPja": "キュートなロゴ",
+      "KRko": "큐트 로고",
+      "EUru": "Милый логотип"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_0",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "Ninguna",
+      "USes": "Ninguna",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Простая"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_1",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "Familiar logo",
+      "EUen": "Familiar logo",
+      "EUde": "Logo",
+      "EUes": "Marca",
+      "USes": "Marca",
+      "EUfr": "Marque",
+      "USfr": "Autocollant",
+      "EUit": "Familiare",
+      "EUnl": "Bekend",
+      "CNzh": "熟悉的标志",
+      "TWzh": "熟悉Logo",
+      "JPja": "おなじみのロゴ",
+      "KRko": "친숙한 로고",
+      "EUru": "Знакомый логотип"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_2",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "Chic logo",
+      "EUen": "Chic logo",
+      "EUde": "Schick",
+      "EUes": "Chic",
+      "USes": "Chic",
+      "EUfr": "Chic",
+      "USfr": "Chic",
+      "EUit": "Chic",
+      "EUnl": "Chic",
+      "CNzh": "典雅的标志",
+      "TWzh": "典雅Logo",
+      "JPja": "シックなロゴ",
+      "KRko": "시크한 로고",
+      "EUru": "Шикарный логотип"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_3",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "Rock logo",
+      "EUen": "Rock logo",
+      "EUde": "Hard Rock",
+      "EUes": "Rock duro",
+      "USes": "Rock pesado",
+      "EUfr": "Hard rock",
+      "USfr": "Hard rock",
+      "EUit": "Hard rock",
+      "EUnl": "Rock",
+      "CNzh": "坚硬的标志",
+      "TWzh": "硬派Logo",
+      "JPja": "ハードなロゴ",
+      "KRko": "과격한 로고",
+      "EUru": "Рок-логотип"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_4",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "Emblem logo",
+      "EUen": "Emblem logo",
+      "EUde": "Wappen",
+      "EUes": "Emblema",
+      "USes": "Emblema",
+      "EUfr": "Emblème",
+      "USfr": "Emblème",
+      "EUit": "Emblema",
+      "EUnl": "Embleem",
+      "CNzh": "纹章的标志",
+      "TWzh": "徽章Logo",
+      "JPja": "エンブレムなロゴ",
+      "KRko": "엠블렘 로고",
+      "EUru": "Герб"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_5",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "Handwritten logo",
+      "EUen": "Handwritten logo",
+      "EUde": "Unterschrift",
+      "EUes": "Firma",
+      "USes": "Firma",
+      "EUfr": "Signature",
+      "USfr": "Signature",
+      "EUit": "Foglietto di carta",
+      "EUnl": "Handgeschreven",
+      "CNzh": "手写体的标志",
+      "TWzh": "手寫風Logo",
+      "JPja": "スクリプトなロゴ",
+      "KRko": "스크립트 로고",
+      "EUru": "Надпись от руки"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_6",
+    "ftr_name": "electric guitar",
+    "locale": {
+      "USen": "Pop logo",
+      "EUen": "Pop logo",
+      "EUde": "Pop",
+      "EUes": "Pop",
+      "USes": "Pop",
+      "EUfr": "Pop",
+      "USfr": "Pop",
+      "EUit": "Pop",
+      "EUnl": "Populair",
+      "CNzh": "流行的标志",
+      "TWzh": "繽紛Logo",
+      "JPja": "ポップなロゴ",
+      "KRko": "팝 로고",
+      "EUru": "Популярный логотип"
+    }
+  },
+  {
+    "id": "Ftr_01645",
+    "variant_id": "Ftr_01645_7",
+    "ftr_name": "electric guitar",
     "locale": {
       "USen": "Cute logo",
       "EUen": "Cute logo",
@@ -821,7 +1556,7 @@
   {
     "id": "Ftr_01750",
     "variant_id": "Ftr_01750_0",
-    "furniture_name": "document stack",
+    "ftr_name": "document stack",
     "locale": {
       "USen": "Resource documents",
       "EUen": "Resource documents",
@@ -834,7 +1569,7 @@
       "EUnl": "Dataoverzichten",
       "CNzh": "资料",
       "TWzh": "資料",
-      "JPja": "しりょう資料",
+      "JPja": "資料",
       "KRko": "자료",
       "EUru": "Списки ресурсов"
     }
@@ -842,7 +1577,7 @@
   {
     "id": "Ftr_01750",
     "variant_id": "Ftr_01750_1",
-    "furniture_name": "document stack",
+    "ftr_name": "document stack",
     "locale": {
       "USen": "Text documents",
       "EUen": "Text documents",
@@ -855,7 +1590,7 @@
       "EUnl": "Teksten",
       "CNzh": "文本资料",
       "TWzh": "文字資料",
-      "JPja": "テキストしりょう資料",
+      "JPja": "テキスト資料",
       "KRko": "텍스트 자료",
       "EUru": "Тексты"
     }
@@ -863,7 +1598,7 @@
   {
     "id": "Ftr_01750",
     "variant_id": "Ftr_01750_2",
-    "furniture_name": "document stack",
+    "ftr_name": "document stack",
     "locale": {
       "USen": "Exam papers",
       "EUen": "Exam papers",
@@ -876,7 +1611,7 @@
       "EUnl": "Examens",
       "CNzh": "答题纸",
       "TWzh": "答案紙",
-      "JPja": "かいとうようし解答用紙",
+      "JPja": "解答用紙",
       "KRko": "답안지",
       "EUru": "Экзаменационные билеты"
     }
@@ -884,7 +1619,7 @@
   {
     "id": "Ftr_01750",
     "variant_id": "Ftr_01750_3",
-    "furniture_name": "document stack",
+    "ftr_name": "document stack",
     "locale": {
       "USen": "Storyboards",
       "EUen": "Storyboards",
@@ -897,7 +1632,7 @@
       "EUnl": "Storyboards",
       "CNzh": "分镜",
       "TWzh": "分鏡",
-      "JPja": "え絵コンテ",
+      "JPja": "絵コンテ",
       "KRko": "콘티",
       "EUru": "Раскадровки"
     }
@@ -905,7 +1640,7 @@
   {
     "id": "Ftr_01778",
     "variant_id": "Ftr_01778_0",
-    "furniture_name": "clothesline pole",
+    "ftr_name": "clothesline pole",
     "locale": {
       "USen": "Plain",
       "EUen": "Plain",
@@ -918,7 +1653,7 @@
       "EUnl": "Kaal",
       "CNzh": "无图案",
       "TWzh": "沒有東西",
-      "JPja": "むじ無地",
+      "JPja": "無地",
       "KRko": "무지",
       "EUru": "Без рисунка"
     }
@@ -926,7 +1661,7 @@
   {
     "id": "Ftr_01778",
     "variant_id": "Ftr_01778_1",
-    "furniture_name": "clothesline pole",
+    "ftr_name": "clothesline pole",
     "locale": {
       "USen": "PE shirt",
       "EUen": "PE shirt",
@@ -939,7 +1674,7 @@
       "EUnl": "Sportshirt",
       "CNzh": "运动服",
       "TWzh": "體育服",
-      "JPja": "たいそうぎ体操着",
+      "JPja": "体操着",
       "KRko": "체육복",
       "EUru": "С красной окантовкой"
     }
@@ -947,7 +1682,7 @@
   {
     "id": "Ftr_01778",
     "variant_id": "Ftr_01778_2",
-    "furniture_name": "clothesline pole",
+    "ftr_name": "clothesline pole",
     "locale": {
       "USen": "Fish",
       "EUen": "Fish",
@@ -968,7 +1703,7 @@
   {
     "id": "Ftr_01778",
     "variant_id": "Ftr_01778_3",
-    "furniture_name": "clothesline pole",
+    "ftr_name": "clothesline pole",
     "locale": {
       "USen": "Carrot",
       "EUen": "Carrot",
@@ -987,9 +1722,177 @@
     }
   },
   {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_0",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_1",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_2",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_3",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_4",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_5",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_6",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Light green",
+      "EUen": "Light green",
+      "EUde": "Hellgrün",
+      "EUes": "Verde claro",
+      "USes": "Verde claro",
+      "EUfr": "Vert clair",
+      "USfr": "Vert clair",
+      "EUit": "Verde chiaro",
+      "EUnl": "Lichtgroen",
+      "CNzh": "浅绿色",
+      "TWzh": "淺綠色",
+      "JPja": "ライトグリーン",
+      "KRko": "라이트 그린",
+      "EUru": "Светло-зеленый"
+    }
+  },
+  {
+    "id": "Ftr_01779",
+    "variant_id": "Ftr_01779_7",
+    "ftr_name": "table with cloth",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
     "id": "Ftr_01783",
     "variant_id": "Ftr_01783_0",
-    "furniture_name": "corkboard",
+    "ftr_name": "corkboard",
     "locale": {
       "USen": "Apple",
       "EUen": "Apple",
@@ -1010,7 +1913,7 @@
   {
     "id": "Ftr_01783",
     "variant_id": "Ftr_01783_1",
-    "furniture_name": "corkboard",
+    "ftr_name": "corkboard",
     "locale": {
       "USen": "Fish",
       "EUen": "Fish",
@@ -1031,7 +1934,7 @@
   {
     "id": "Ftr_01783",
     "variant_id": "Ftr_01783_2",
-    "furniture_name": "corkboard",
+    "ftr_name": "corkboard",
     "locale": {
       "USen": "Flower",
       "EUen": "Flower",
@@ -1052,7 +1955,7 @@
   {
     "id": "Ftr_01792",
     "variant_id": "Ftr_01792_0",
-    "furniture_name": "cushion",
+    "ftr_name": "cushion",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -1073,7 +1976,7 @@
   {
     "id": "Ftr_01792",
     "variant_id": "Ftr_01792_1",
-    "furniture_name": "cushion",
+    "ftr_name": "cushion",
     "locale": {
       "USen": "Floral",
       "EUen": "Floral",
@@ -1094,7 +1997,7 @@
   {
     "id": "Ftr_01792",
     "variant_id": "Ftr_01792_2",
-    "furniture_name": "cushion",
+    "ftr_name": "cushion",
     "locale": {
       "USen": "Alphabet",
       "EUen": "Alphabet",
@@ -1115,7 +2018,7 @@
   {
     "id": "Ftr_01792",
     "variant_id": "Ftr_01792_3",
-    "furniture_name": "cushion",
+    "ftr_name": "cushion",
     "locale": {
       "USen": "Paisley",
       "EUen": "Paisley",
@@ -1136,7 +2039,7 @@
   {
     "id": "Ftr_01792",
     "variant_id": "Ftr_01792_4",
-    "furniture_name": "cushion",
+    "ftr_name": "cushion",
     "locale": {
       "USen": "Rainbow colors",
       "EUen": "Rainbow colors",
@@ -1157,7 +2060,7 @@
   {
     "id": "Ftr_01792",
     "variant_id": "Ftr_01792_5",
-    "furniture_name": "cushion",
+    "ftr_name": "cushion",
     "locale": {
       "USen": "Pop",
       "EUen": "Pop",
@@ -1178,7 +2081,7 @@
   {
     "id": "Ftr_01802",
     "variant_id": "Ftr_01802_0",
-    "furniture_name": "drink machine",
+    "ftr_name": "drink machine",
     "locale": {
       "USen": "Orange juice",
       "EUen": "Orange juice",
@@ -1199,7 +2102,7 @@
   {
     "id": "Ftr_01802",
     "variant_id": "Ftr_01802_1",
-    "furniture_name": "drink machine",
+    "ftr_name": "drink machine",
     "locale": {
       "USen": "Sports drink",
       "EUen": "Sports drink",
@@ -1220,7 +2123,7 @@
   {
     "id": "Ftr_01802",
     "variant_id": "Ftr_01802_2",
-    "furniture_name": "drink machine",
+    "ftr_name": "drink machine",
     "locale": {
       "USen": "Sale",
       "EUen": "Sale",
@@ -1241,7 +2144,7 @@
   {
     "id": "Ftr_01802",
     "variant_id": "Ftr_01802_3",
-    "furniture_name": "drink machine",
+    "ftr_name": "drink machine",
     "locale": {
       "USen": "Cute",
       "EUen": "Cute",
@@ -1262,7 +2165,7 @@
   {
     "id": "Ftr_01803",
     "variant_id": "Ftr_01803_0",
-    "furniture_name": "drum set",
+    "ftr_name": "drum set",
     "locale": {
       "USen": "Smooth white",
       "EUen": "Smooth white",
@@ -1283,7 +2186,7 @@
   {
     "id": "Ftr_01803",
     "variant_id": "Ftr_01803_1",
-    "furniture_name": "drum set",
+    "ftr_name": "drum set",
     "locale": {
       "USen": "Glossy black",
       "EUen": "Glossy black",
@@ -1304,7 +2207,7 @@
   {
     "id": "Ftr_01803",
     "variant_id": "Ftr_01803_2",
-    "furniture_name": "drum set",
+    "ftr_name": "drum set",
     "locale": {
       "USen": "Black with logo",
       "EUen": "Black with logo",
@@ -1325,7 +2228,7 @@
   {
     "id": "Ftr_01803",
     "variant_id": "Ftr_01803_3",
-    "furniture_name": "drum set",
+    "ftr_name": "drum set",
     "locale": {
       "USen": "White with logo",
       "EUen": "White with logo",
@@ -1346,7 +2249,7 @@
   {
     "id": "Ftr_01803",
     "variant_id": "Ftr_01803_4",
-    "furniture_name": "drum set",
+    "ftr_name": "drum set",
     "locale": {
       "USen": "Rock logo",
       "EUen": "Rock logo",
@@ -1367,7 +2270,7 @@
   {
     "id": "Ftr_01803",
     "variant_id": "Ftr_01803_5",
-    "furniture_name": "drum set",
+    "ftr_name": "drum set",
     "locale": {
       "USen": "Vintage logo",
       "EUen": "Vintage logo",
@@ -1386,9 +2289,261 @@
     }
   },
   {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_0",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_1",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_2",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_3",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_4",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_5",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_6",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_01816",
+    "variant_id": "Ftr_01816_7",
+    "ftr_name": "changing room",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_01838",
+    "variant_id": "Ftr_01838_0",
+    "ftr_name": "ironing set",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_01838",
+    "variant_id": "Ftr_01838_1",
+    "ftr_name": "ironing set",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_01838",
+    "variant_id": "Ftr_01838_2",
+    "ftr_name": "ironing set",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_01838",
+    "variant_id": "Ftr_01838_3",
+    "ftr_name": "ironing set",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
     "id": "Ftr_01849",
     "variant_id": "Ftr_01849_0",
-    "furniture_name": "kotatsu",
+    "ftr_name": "kotatsu",
     "locale": {
       "USen": "Tic-tac-toe pattern",
       "EUen": "Tic-tac-toe pattern",
@@ -1401,7 +2556,7 @@
       "EUnl": "Hekjes",
       "CNzh": "井字框",
       "TWzh": "井字型",
-      "JPja": "いげた井桁",
+      "JPja": "井桁",
       "KRko": "우물 정자 무늬",
       "EUru": "Решетка"
     }
@@ -1409,7 +2564,7 @@
   {
     "id": "Ftr_01849",
     "variant_id": "Ftr_01849_1",
-    "furniture_name": "kotatsu",
+    "ftr_name": "kotatsu",
     "locale": {
       "USen": "Flowers",
       "EUen": "Flowers",
@@ -1422,7 +2577,7 @@
       "EUnl": "Bloemen",
       "CNzh": "花",
       "TWzh": "花",
-      "JPja": "はな花",
+      "JPja": "花",
       "KRko": "꽃",
       "EUru": "Цветы"
     }
@@ -1430,7 +2585,7 @@
   {
     "id": "Ftr_01849",
     "variant_id": "Ftr_01849_2",
-    "furniture_name": "kotatsu",
+    "ftr_name": "kotatsu",
     "locale": {
       "USen": "Checkered",
       "EUen": "Checkered",
@@ -1443,7 +2598,7 @@
       "EUnl": "Hanenvoeten",
       "CNzh": "格子",
       "TWzh": "格紋",
-      "JPja": "こうし格子",
+      "JPja": "格子",
       "KRko": "체크",
       "EUru": "Гусиная лапка"
     }
@@ -1451,7 +2606,7 @@
   {
     "id": "Ftr_01849",
     "variant_id": "Ftr_01849_3",
-    "furniture_name": "kotatsu",
+    "ftr_name": "kotatsu",
     "locale": {
       "USen": "Stripes",
       "EUen": "Stripes",
@@ -1464,15 +2619,99 @@
       "EUnl": "Strepen",
       "CNzh": "条纹",
       "TWzh": "條紋",
-      "JPja": "しま縞",
+      "JPja": "縞",
       "KRko": "줄무늬",
       "EUru": "Полоски"
     }
   },
   {
     "id": "Ftr_01850",
+    "variant_id": "Ftr_01850_0",
+    "ftr_name": "laptop",
+    "locale": {
+      "USen": "Desktop",
+      "EUen": "Desktop",
+      "EUde": "Benutzeroberfläche",
+      "EUes": "Fondo de escritorio",
+      "USes": "Fondo de escritorio",
+      "EUfr": "Fond d'écran",
+      "USfr": "Fond d'écran",
+      "EUit": "Desktop",
+      "EUnl": "Bureaublad",
+      "CNzh": "桌面",
+      "TWzh": "桌面",
+      "JPja": "デスクトップ",
+      "KRko": "데스크톱",
+      "EUru": "Рабочий стол"
+    }
+  },
+  {
+    "id": "Ftr_01850",
+    "variant_id": "Ftr_01850_1",
+    "ftr_name": "laptop",
+    "locale": {
+      "USen": "Search engine",
+      "EUen": "Search engine",
+      "EUde": "Suchmaschine",
+      "EUes": "Buscador",
+      "USes": "Buscador",
+      "EUfr": "Moteur de recherche",
+      "USfr": "Moteur de recherche",
+      "EUit": "Motore di ricerca",
+      "EUnl": "Zoekmachine",
+      "CNzh": "搜索引擎",
+      "TWzh": "搜尋引擎",
+      "JPja": "サーチエンジン",
+      "KRko": "검색 엔진",
+      "EUru": "Поисковая машина"
+    }
+  },
+  {
+    "id": "Ftr_01850",
+    "variant_id": "Ftr_01850_2",
+    "ftr_name": "laptop",
+    "locale": {
+      "USen": "Calculations",
+      "EUen": "Calculations",
+      "EUde": "Statistiken",
+      "EUes": "Hojas de cálculo",
+      "USes": "Hojas de cálculo",
+      "EUfr": "Statistiques",
+      "USfr": "Statistiques",
+      "EUit": "Statistiche",
+      "EUnl": "Berekeningen",
+      "CNzh": "计算器",
+      "TWzh": "試算表",
+      "JPja": "表計算",
+      "KRko": "표 계산",
+      "EUru": "Вычисления"
+    }
+  },
+  {
+    "id": "Ftr_01850",
+    "variant_id": "Ftr_01850_3",
+    "ftr_name": "laptop",
+    "locale": {
+      "USen": "Web browsing",
+      "EUen": "Web browsing",
+      "EUde": "Internetbrowser",
+      "EUes": "Navegador de internet",
+      "USes": "Navegador de internet",
+      "EUfr": "Navigateur Internet",
+      "USfr": "Navigateur Internet",
+      "EUit": "Internet",
+      "EUnl": "Internetsurfen",
+      "CNzh": "互联网",
+      "TWzh": "網路",
+      "JPja": "インターネット",
+      "KRko": "인터넷",
+      "EUru": "Просмотр веб-сайтов"
+    }
+  },
+  {
+    "id": "Ftr_01850",
     "variant_id": "Ftr_01850_4",
-    "furniture_name": "laptop",
+    "ftr_name": "laptop",
     "locale": {
       "USen": "Online shopping",
       "EUen": "Online shopping",
@@ -1485,7 +2724,7 @@
       "EUnl": "Onlineshopping",
       "CNzh": "网络购物",
       "TWzh": "網購",
-      "JPja": "ネットつうはん通販",
+      "JPja": "ネット通販",
       "KRko": "인터넷 쇼핑",
       "EUru": "Онлайн-шопинг"
     }
@@ -1493,7 +2732,7 @@
   {
     "id": "Ftr_01850",
     "variant_id": "Ftr_01850_5",
-    "furniture_name": "laptop",
+    "ftr_name": "laptop",
     "locale": {
       "USen": "Chat tool",
       "EUen": "Chat tool",
@@ -1514,7 +2753,7 @@
   {
     "id": "Ftr_01861",
     "variant_id": "Ftr_01861_0",
-    "furniture_name": "stacked magazines",
+    "ftr_name": "stacked magazines",
     "locale": {
       "USen": "Gardening",
       "EUen": "Gardening",
@@ -1527,15 +2766,141 @@
       "EUnl": "Tuinieren",
       "CNzh": "园艺",
       "TWzh": "園藝",
-      "JPja": "えんげい園芸",
+      "JPja": "園芸",
       "KRko": "원예",
       "EUru": "Садоводство"
     }
   },
   {
+    "id": "Ftr_01861",
+    "variant_id": "Ftr_01861_1",
+    "ftr_name": "stacked magazines",
+    "locale": {
+      "USen": "Travel",
+      "EUen": "Travel",
+      "EUde": "Reisen",
+      "EUes": "De viaje",
+      "USes": "De viaje",
+      "EUfr": "Voyage",
+      "USfr": "Voyage",
+      "EUit": "Viaggi",
+      "EUnl": "Reizen",
+      "CNzh": "旅游",
+      "TWzh": "旅遊",
+      "JPja": "トラベル",
+      "KRko": "여행",
+      "EUru": "Путешествия"
+    }
+  },
+  {
+    "id": "Ftr_01861",
+    "variant_id": "Ftr_01861_2",
+    "ftr_name": "stacked magazines",
+    "locale": {
+      "USen": "Fashion",
+      "EUen": "Fashion",
+      "EUde": "Mode",
+      "EUes": "De moda",
+      "USes": "De moda",
+      "EUfr": "Mode",
+      "USfr": "Mode",
+      "EUit": "Moda",
+      "EUnl": "Mode",
+      "CNzh": "时尚",
+      "TWzh": "時尚",
+      "JPja": "ファッション",
+      "KRko": "패션",
+      "EUru": "Мода"
+    }
+  },
+  {
+    "id": "Ftr_01861",
+    "variant_id": "Ftr_01861_3",
+    "ftr_name": "stacked magazines",
+    "locale": {
+      "USen": "Sports",
+      "EUen": "Sports",
+      "EUde": "Sport",
+      "EUes": "Deportes",
+      "USes": "Deportes",
+      "EUfr": "Sport",
+      "USfr": "Sport",
+      "EUit": "Sport",
+      "EUnl": "Sport",
+      "CNzh": "体育",
+      "TWzh": "體育",
+      "JPja": "スポーツ",
+      "KRko": "스포츠",
+      "EUru": "Спорт"
+    }
+  },
+  {
+    "id": "Ftr_01861",
+    "variant_id": "Ftr_01861_4",
+    "ftr_name": "stacked magazines",
+    "locale": {
+      "USen": "Comics",
+      "EUen": "Comics",
+      "EUde": "Comics",
+      "EUes": "Cómics",
+      "USes": "Cómics",
+      "EUfr": "People",
+      "USfr": "Bédés",
+      "EUit": "Fumetti",
+      "EUnl": "Strips",
+      "CNzh": "漫画",
+      "TWzh": "漫畫",
+      "JPja": "マガジン",
+      "KRko": "만화 잡지",
+      "EUru": "Комиксы"
+    }
+  },
+  {
+    "id": "Ftr_01861",
+    "variant_id": "Ftr_01861_5",
+    "ftr_name": "stacked magazines",
+    "locale": {
+      "USen": "Kids",
+      "EUen": "Kids",
+      "EUde": "Kinder",
+      "EUes": "Infantiles",
+      "USes": "Infantiles",
+      "EUfr": "Enfants",
+      "USfr": "Enfants",
+      "EUit": "Per bambini",
+      "EUnl": "Kids",
+      "CNzh": "儿童",
+      "TWzh": "兒童",
+      "JPja": "キッズ",
+      "KRko": "아동",
+      "EUru": "Дети"
+    }
+  },
+  {
+    "id": "Ftr_01861",
+    "variant_id": "Ftr_01861_6",
+    "ftr_name": "stacked magazines",
+    "locale": {
+      "USen": "Weekly news",
+      "EUen": "Weekly news",
+      "EUde": "Nachrichten",
+      "EUes": "Actualidad",
+      "USes": "Actualidad",
+      "EUfr": "Actualité",
+      "USfr": "Actualité",
+      "EUit": "Settimanale",
+      "EUnl": "Wekelijks nieuws",
+      "CNzh": "周刊",
+      "TWzh": "週刊",
+      "JPja": "週刊誌",
+      "KRko": "주간지",
+      "EUru": "Новости недели"
+    }
+  },
+  {
     "id": "Ftr_01870",
     "variant_id": "Ftr_01870_0",
-    "furniture_name": "mug",
+    "ftr_name": "mug",
     "locale": {
       "USen": "Plain",
       "EUen": "Plain",
@@ -1556,7 +2921,7 @@
   {
     "id": "Ftr_01870",
     "variant_id": "Ftr_01870_1",
-    "furniture_name": "mug",
+    "ftr_name": "mug",
     "locale": {
       "USen": "Square logo",
       "EUen": "Square logo",
@@ -1577,7 +2942,7 @@
   {
     "id": "Ftr_01870",
     "variant_id": "Ftr_01870_2",
-    "furniture_name": "mug",
+    "ftr_name": "mug",
     "locale": {
       "USen": "Round logo",
       "EUen": "Round logo",
@@ -1598,7 +2963,7 @@
   {
     "id": "Ftr_01870",
     "variant_id": "Ftr_01870_3",
-    "furniture_name": "mug",
+    "ftr_name": "mug",
     "locale": {
       "USen": "Fish",
       "EUen": "Fish",
@@ -1619,7 +2984,7 @@
   {
     "id": "Ftr_01870",
     "variant_id": "Ftr_01870_4",
-    "furniture_name": "mug",
+    "ftr_name": "mug",
     "locale": {
       "USen": "Carrot",
       "EUen": "Carrot",
@@ -1640,7 +3005,7 @@
   {
     "id": "Ftr_01870",
     "variant_id": "Ftr_01870_5",
-    "furniture_name": "mug",
+    "ftr_name": "mug",
     "locale": {
       "USen": "Cheese",
       "EUen": "Cheese",
@@ -1661,7 +3026,7 @@
   {
     "id": "Ftr_01899",
     "variant_id": "Ftr_01899_0",
-    "furniture_name": "autograph cards",
+    "ftr_name": "autograph cards",
     "locale": {
       "USen": "Musician's signature",
       "EUen": "Musician's signature",
@@ -1682,7 +3047,7 @@
   {
     "id": "Ftr_01899",
     "variant_id": "Ftr_01899_1",
-    "furniture_name": "autograph cards",
+    "ftr_name": "autograph cards",
     "locale": {
       "USen": "Comedian's signature",
       "EUen": "Comedian's signature",
@@ -1703,7 +3068,7 @@
   {
     "id": "Ftr_02020",
     "variant_id": "Ftr_02020_0",
-    "furniture_name": "director's chair",
+    "ftr_name": "director's chair",
     "locale": {
       "USen": "Natural white",
       "EUen": "Natural white",
@@ -1724,7 +3089,7 @@
   {
     "id": "Ftr_02020",
     "variant_id": "Ftr_02020_1",
-    "furniture_name": "director's chair",
+    "ftr_name": "director's chair",
     "locale": {
       "USen": "Director black",
       "EUen": "Director black",
@@ -1745,7 +3110,7 @@
   {
     "id": "Ftr_02020",
     "variant_id": "Ftr_02020_2",
-    "furniture_name": "director's chair",
+    "ftr_name": "director's chair",
     "locale": {
       "USen": "Chic pleather",
       "EUen": "Chic pleather",
@@ -1765,8 +3130,92 @@
   },
   {
     "id": "Ftr_02561",
+    "variant_id": "Ftr_02561_0",
+    "ftr_name": "floor lamp",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_02561",
+    "variant_id": "Ftr_02561_1",
+    "ftr_name": "floor lamp",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": "Ftr_02561",
+    "variant_id": "Ftr_02561_2",
+    "ftr_name": "floor lamp",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_02561",
+    "variant_id": "Ftr_02561_3",
+    "ftr_name": "floor lamp",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": "Ftr_02561",
     "variant_id": "Ftr_02561_4",
-    "furniture_name": "floor lamp",
+    "ftr_name": "floor lamp",
     "locale": {
       "USen": "Yellow design",
       "EUen": "Yellow design",
@@ -1787,7 +3236,7 @@
   {
     "id": "Ftr_02561",
     "variant_id": "Ftr_02561_5",
-    "furniture_name": "floor lamp",
+    "ftr_name": "floor lamp",
     "locale": {
       "USen": "Green design",
       "EUen": "Green design",
@@ -1808,7 +3257,7 @@
   {
     "id": "Ftr_02561",
     "variant_id": "Ftr_02561_6",
-    "furniture_name": "floor lamp",
+    "ftr_name": "floor lamp",
     "locale": {
       "USen": "Orange design",
       "EUen": "Orange design",
@@ -1829,7 +3278,7 @@
   {
     "id": "Ftr_02561",
     "variant_id": "Ftr_02561_7",
-    "furniture_name": "floor lamp",
+    "ftr_name": "floor lamp",
     "locale": {
       "USen": "Navy design",
       "EUen": "Navy design",
@@ -1850,7 +3299,7 @@
   {
     "id": "Ftr_02605",
     "variant_id": "Ftr_02605_0",
-    "furniture_name": "wooden simple bed",
+    "ftr_name": "wooden simple bed",
     "locale": {
       "USen": "Orange",
       "EUen": "Orange",
@@ -1871,7 +3320,7 @@
   {
     "id": "Ftr_02605",
     "variant_id": "Ftr_02605_1",
-    "furniture_name": "wooden simple bed",
+    "ftr_name": "wooden simple bed",
     "locale": {
       "USen": "Pink",
       "EUen": "Pink",
@@ -1892,7 +3341,7 @@
   {
     "id": "Ftr_02605",
     "variant_id": "Ftr_02605_2",
-    "furniture_name": "wooden simple bed",
+    "ftr_name": "wooden simple bed",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -1913,7 +3362,7 @@
   {
     "id": "Ftr_02605",
     "variant_id": "Ftr_02605_3",
-    "furniture_name": "wooden simple bed",
+    "ftr_name": "wooden simple bed",
     "locale": {
       "USen": "Green",
       "EUen": "Green",
@@ -1934,7 +3383,7 @@
   {
     "id": "Ftr_02713",
     "variant_id": "Ftr_02713_0",
-    "furniture_name": "refrigerator",
+    "ftr_name": "refrigerator",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -1955,7 +3404,7 @@
   {
     "id": "Ftr_02713",
     "variant_id": "Ftr_02713_1",
-    "furniture_name": "refrigerator",
+    "ftr_name": "refrigerator",
     "locale": {
       "USen": "Cute",
       "EUen": "Cute",
@@ -1976,7 +3425,7 @@
   {
     "id": "Ftr_02713",
     "variant_id": "Ftr_02713_2",
-    "furniture_name": "refrigerator",
+    "ftr_name": "refrigerator",
     "locale": {
       "USen": "Rock",
       "EUen": "Rock",
@@ -1997,7 +3446,7 @@
   {
     "id": "Ftr_02713",
     "variant_id": "Ftr_02713_3",
-    "furniture_name": "refrigerator",
+    "ftr_name": "refrigerator",
     "locale": {
       "USen": "Fruits",
       "EUen": "Fruits",
@@ -2018,7 +3467,7 @@
   {
     "id": "Ftr_02713",
     "variant_id": "Ftr_02713_4",
-    "furniture_name": "refrigerator",
+    "ftr_name": "refrigerator",
     "locale": {
       "USen": "Notices",
       "EUen": "Notices",
@@ -2031,7 +3480,7 @@
       "EUnl": "Briefjes",
       "CNzh": "告示物",
       "TWzh": "告示貼紙",
-      "JPja": "けいじぶつ掲示物",
+      "JPja": "掲示物",
       "KRko": "게시물",
       "EUru": "Заметки"
     }
@@ -2039,7 +3488,7 @@
   {
     "id": "Ftr_03200",
     "variant_id": "Ftr_03200_0",
-    "furniture_name": "ironwood bed",
+    "ftr_name": "ironwood bed",
     "locale": {
       "USen": "Navy",
       "EUen": "Navy",
@@ -2060,7 +3509,7 @@
   {
     "id": "Ftr_03200",
     "variant_id": "Ftr_03200_1",
-    "furniture_name": "ironwood bed",
+    "ftr_name": "ironwood bed",
     "locale": {
       "USen": "Blue-gray",
       "EUen": "Blue-gray",
@@ -2081,7 +3530,7 @@
   {
     "id": "Ftr_03200",
     "variant_id": "Ftr_03200_2",
-    "furniture_name": "ironwood bed",
+    "ftr_name": "ironwood bed",
     "locale": {
       "USen": "Brown",
       "EUen": "Brown",
@@ -2102,7 +3551,7 @@
   {
     "id": "Ftr_03229",
     "variant_id": "Ftr_03229_0",
-    "furniture_name": "clothesline",
+    "ftr_name": "clothesline",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -2123,7 +3572,7 @@
   {
     "id": "Ftr_03229",
     "variant_id": "Ftr_03229_1",
-    "furniture_name": "clothesline",
+    "ftr_name": "clothesline",
     "locale": {
       "USen": "Well-used",
       "EUen": "Well-used",
@@ -2144,7 +3593,7 @@
   {
     "id": "Ftr_03229",
     "variant_id": "Ftr_03229_2",
-    "furniture_name": "clothesline",
+    "ftr_name": "clothesline",
     "locale": {
       "USen": "Blue stripes",
       "EUen": "Blue stripes",
@@ -2165,7 +3614,7 @@
   {
     "id": "Ftr_03229",
     "variant_id": "Ftr_03229_3",
-    "furniture_name": "clothesline",
+    "ftr_name": "clothesline",
     "locale": {
       "USen": "Red plaid",
       "EUen": "Red plaid",
@@ -2186,7 +3635,7 @@
   {
     "id": "Ftr_03229",
     "variant_id": "Ftr_03229_4",
-    "furniture_name": "clothesline",
+    "ftr_name": "clothesline",
     "locale": {
       "USen": "Green plaid",
       "EUen": "Green plaid",
@@ -2207,7 +3656,7 @@
   {
     "id": "Ftr_03230",
     "variant_id": "Ftr_03230_0",
-    "furniture_name": "futon",
+    "ftr_name": "futon",
     "locale": {
       "USen": "Red",
       "EUen": "Red",
@@ -2220,7 +3669,7 @@
       "EUnl": "Rood",
       "CNzh": "红色",
       "TWzh": "紅",
-      "JPja": "あか赤",
+      "JPja": "赤",
       "KRko": "빨간색",
       "EUru": "Красный"
     }
@@ -2228,7 +3677,7 @@
   {
     "id": "Ftr_03230",
     "variant_id": "Ftr_03230_1",
-    "furniture_name": "futon",
+    "ftr_name": "futon",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -2241,7 +3690,7 @@
       "EUnl": "Blauw",
       "CNzh": "蓝色",
       "TWzh": "藍",
-      "JPja": "あお青",
+      "JPja": "青",
       "KRko": "파란색",
       "EUru": "Синий"
     }
@@ -2249,7 +3698,7 @@
   {
     "id": "Ftr_03230",
     "variant_id": "Ftr_03230_2",
-    "furniture_name": "futon",
+    "ftr_name": "futon",
     "locale": {
       "USen": "Orange",
       "EUen": "Orange",
@@ -2262,7 +3711,7 @@
       "EUnl": "Oranje",
       "CNzh": "橘色",
       "TWzh": "橘",
-      "JPja": "だいだい橙",
+      "JPja": "橙",
       "KRko": "주황색",
       "EUru": "Оранжевый"
     }
@@ -2270,7 +3719,7 @@
   {
     "id": "Ftr_03230",
     "variant_id": "Ftr_03230_3",
-    "furniture_name": "futon",
+    "ftr_name": "futon",
     "locale": {
       "USen": "Green",
       "EUen": "Green",
@@ -2283,7 +3732,7 @@
       "EUnl": "Groen",
       "CNzh": "绿色",
       "TWzh": "綠",
-      "JPja": "みどり緑",
+      "JPja": "緑",
       "KRko": "초록색",
       "EUru": "Зеленый"
     }
@@ -2291,7 +3740,7 @@
   {
     "id": "Ftr_03305",
     "variant_id": "Ftr_03305_0",
-    "furniture_name": "baby chair",
+    "ftr_name": "baby chair",
     "locale": {
       "USen": "Bear",
       "EUen": "Bear",
@@ -2312,7 +3761,7 @@
   {
     "id": "Ftr_03305",
     "variant_id": "Ftr_03305_1",
-    "furniture_name": "baby chair",
+    "ftr_name": "baby chair",
     "locale": {
       "USen": "Strawberry",
       "EUen": "Strawberry",
@@ -2333,7 +3782,7 @@
   {
     "id": "Ftr_03305",
     "variant_id": "Ftr_03305_2",
-    "furniture_name": "baby chair",
+    "ftr_name": "baby chair",
     "locale": {
       "USen": "Butterfly",
       "EUen": "Butterfly",
@@ -2354,7 +3803,7 @@
   {
     "id": "Ftr_03305",
     "variant_id": "Ftr_03305_3",
-    "furniture_name": "baby chair",
+    "ftr_name": "baby chair",
     "locale": {
       "USen": "Train",
       "EUen": "Train",
@@ -2367,7 +3816,7 @@
       "EUnl": "Trein",
       "CNzh": "火车",
       "TWzh": "火車",
-      "JPja": "きしゃ汽車",
+      "JPja": "汽車",
       "KRko": "기차",
       "EUru": "Поезд"
     }
@@ -2375,7 +3824,7 @@
   {
     "id": "Ftr_03305",
     "variant_id": "Ftr_03305_4",
-    "furniture_name": "baby chair",
+    "ftr_name": "baby chair",
     "locale": {
       "USen": "Paw print",
       "EUen": "Paw print",
@@ -2396,7 +3845,7 @@
   {
     "id": "Ftr_03307",
     "variant_id": "Ftr_03307_0",
-    "furniture_name": "digital scale",
+    "ftr_name": "digital scale",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -2417,7 +3866,7 @@
   {
     "id": "Ftr_03307",
     "variant_id": "Ftr_03307_1",
-    "furniture_name": "digital scale",
+    "ftr_name": "digital scale",
     "locale": {
       "USen": "Floral",
       "EUen": "Floral",
@@ -2438,7 +3887,7 @@
   {
     "id": "Ftr_03307",
     "variant_id": "Ftr_03307_2",
-    "furniture_name": "digital scale",
+    "ftr_name": "digital scale",
     "locale": {
       "USen": "Polka dots",
       "EUen": "Polka dots",
@@ -2459,7 +3908,7 @@
   {
     "id": "Ftr_03307",
     "variant_id": "Ftr_03307_3",
-    "furniture_name": "digital scale",
+    "ftr_name": "digital scale",
     "locale": {
       "USen": "Black stripes",
       "EUen": "Black stripes",
@@ -2480,7 +3929,7 @@
   {
     "id": "Ftr_03307",
     "variant_id": "Ftr_03307_4",
-    "furniture_name": "digital scale",
+    "ftr_name": "digital scale",
     "locale": {
       "USen": "Wood",
       "EUen": "Wood",
@@ -2501,7 +3950,7 @@
   {
     "id": "Ftr_03439",
     "variant_id": "Ftr_03439_0",
-    "furniture_name": "wooden table",
+    "ftr_name": "wooden table",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -2520,9 +3969,93 @@
     }
   },
   {
+    "id": "Ftr_03439",
+    "variant_id": "Ftr_03439_1",
+    "ftr_name": "wooden table",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_03439",
+    "variant_id": "Ftr_03439_2",
+    "ftr_name": "wooden table",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_03439",
+    "variant_id": "Ftr_03439_3",
+    "ftr_name": "wooden table",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_03439",
+    "variant_id": "Ftr_03439_4",
+    "ftr_name": "wooden table",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
     "id": "Ftr_03444",
     "variant_id": "Ftr_03444_0",
-    "furniture_name": "wheelchair",
+    "ftr_name": "wheelchair",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -2543,7 +4076,7 @@
   {
     "id": "Ftr_03444",
     "variant_id": "Ftr_03444_1",
-    "furniture_name": "wheelchair",
+    "ftr_name": "wheelchair",
     "locale": {
       "USen": "Red plaid",
       "EUen": "Red plaid",
@@ -2564,7 +4097,7 @@
   {
     "id": "Ftr_03444",
     "variant_id": "Ftr_03444_2",
-    "furniture_name": "wheelchair",
+    "ftr_name": "wheelchair",
     "locale": {
       "USen": "Green plaid",
       "EUen": "Green plaid",
@@ -2585,7 +4118,7 @@
   {
     "id": "Ftr_03444",
     "variant_id": "Ftr_03444_3",
-    "furniture_name": "wheelchair",
+    "ftr_name": "wheelchair",
     "locale": {
       "USen": "Beige",
       "EUen": "Beige",
@@ -2606,7 +4139,7 @@
   {
     "id": "Ftr_03444",
     "variant_id": "Ftr_03444_4",
-    "furniture_name": "wheelchair",
+    "ftr_name": "wheelchair",
     "locale": {
       "USen": "Colorful",
       "EUen": "Colorful",
@@ -2627,7 +4160,7 @@
   {
     "id": "Ftr_03445",
     "variant_id": "Ftr_03445_0",
-    "furniture_name": "standard umbrella stand",
+    "ftr_name": "standard umbrella stand",
     "locale": {
       "USen": "Stripes",
       "EUen": "Stripes",
@@ -2648,7 +4181,7 @@
   {
     "id": "Ftr_03445",
     "variant_id": "Ftr_03445_1",
-    "furniture_name": "standard umbrella stand",
+    "ftr_name": "standard umbrella stand",
     "locale": {
       "USen": "Dots",
       "EUen": "Dots",
@@ -2669,7 +4202,7 @@
   {
     "id": "Ftr_03445",
     "variant_id": "Ftr_03445_2",
-    "furniture_name": "standard umbrella stand",
+    "ftr_name": "standard umbrella stand",
     "locale": {
       "USen": "Navy",
       "EUen": "Navy",
@@ -2690,7 +4223,7 @@
   {
     "id": "Ftr_03445",
     "variant_id": "Ftr_03445_3",
-    "furniture_name": "standard umbrella stand",
+    "ftr_name": "standard umbrella stand",
     "locale": {
       "USen": "Red, white, and blue",
       "EUen": "Red, white, and blue",
@@ -2709,9 +4242,198 @@
     }
   },
   {
+    "id": "Ftr_03449",
+    "variant_id": "Ftr_03449_0",
+    "ftr_name": "wooden stool",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "Ninguno",
+      "USes": "Ninguno",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Nessuno",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без скатерти"
+    }
+  },
+  {
+    "id": "Ftr_03449",
+    "variant_id": "Ftr_03449_1",
+    "ftr_name": "wooden stool",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_03449",
+    "variant_id": "Ftr_03449_2",
+    "ftr_name": "wooden stool",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_03449",
+    "variant_id": "Ftr_03449_3",
+    "ftr_name": "wooden stool",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_03449",
+    "variant_id": "Ftr_03449_4",
+    "ftr_name": "wooden stool",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_03467",
+    "variant_id": "Ftr_03467_0",
+    "ftr_name": "tea set",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_03467",
+    "variant_id": "Ftr_03467_1",
+    "ftr_name": "tea set",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_03467",
+    "variant_id": "Ftr_03467_2",
+    "ftr_name": "tea set",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_03467",
+    "variant_id": "Ftr_03467_3",
+    "ftr_name": "tea set",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_0",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "Cyan zigzags",
       "EUen": "Cyan zigzags",
@@ -2732,7 +4454,7 @@
   {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_1",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "Red stripes",
       "EUen": "Red stripes",
@@ -2753,7 +4475,7 @@
   {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_2",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "Colorful",
       "EUen": "Colorful",
@@ -2774,7 +4496,7 @@
   {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_3",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "Shells",
       "EUen": "Shells",
@@ -2795,7 +4517,7 @@
   {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_4",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -2816,7 +4538,7 @@
   {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_5",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "Yellow",
       "EUen": "Yellow",
@@ -2837,7 +4559,7 @@
   {
     "id": "Ftr_03468",
     "variant_id": "Ftr_03468_6",
-    "furniture_name": "beach towel",
+    "ftr_name": "beach towel",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -2856,9 +4578,93 @@
     }
   },
   {
+    "id": "Ftr_03502",
+    "variant_id": "Ftr_03502_0",
+    "ftr_name": "frozen bed",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": "Ftr_03502",
+    "variant_id": "Ftr_03502_1",
+    "ftr_name": "frozen bed",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanche",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_03502",
+    "variant_id": "Ftr_03502_2",
+    "ftr_name": "frozen bed",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": "Ftr_03502",
+    "variant_id": "Ftr_03502_3",
+    "ftr_name": "frozen bed",
+    "locale": {
+      "USen": "Dark brown",
+      "EUen": "Dark brown",
+      "EUde": "Dunkelbraun",
+      "EUes": "Marrón oscuro",
+      "USes": "Marrón oscuro",
+      "EUfr": "Brun foncé",
+      "USfr": "Brun foncé",
+      "EUit": "Marrone scuro",
+      "EUnl": "Donkerbruin",
+      "CNzh": "深棕色",
+      "TWzh": "深棕色",
+      "JPja": "ダークブラウン",
+      "KRko": "다크 브라운",
+      "EUru": "Темно-коричневый"
+    }
+  },
+  {
     "id": "Ftr_03561",
     "variant_id": "Ftr_03561_0",
-    "furniture_name": "iron hanger stand",
+    "ftr_name": "iron hanger stand",
     "locale": {
       "USen": "Navy",
       "EUen": "Navy",
@@ -2879,7 +4685,7 @@
   {
     "id": "Ftr_03561",
     "variant_id": "Ftr_03561_1",
-    "furniture_name": "iron hanger stand",
+    "ftr_name": "iron hanger stand",
     "locale": {
       "USen": "Shell pink",
       "EUen": "Shell pink",
@@ -2900,7 +4706,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_0",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Food",
       "EUen": "Food",
@@ -2921,7 +4727,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_1",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Cars",
       "EUen": "Cars",
@@ -2942,7 +4748,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_2",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Fashion",
       "EUen": "Fashion",
@@ -2963,7 +4769,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_3",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Outdoors",
       "EUen": "Outdoors",
@@ -2984,7 +4790,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_4",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Resorts",
       "EUen": "Resorts",
@@ -3005,7 +4811,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_5",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Music",
       "EUen": "Music",
@@ -3026,7 +4832,7 @@
   {
     "id": "Ftr_03586",
     "variant_id": "Ftr_03586_6",
-    "furniture_name": "magazine",
+    "ftr_name": "magazine",
     "locale": {
       "USen": "Pop stars",
       "EUen": "Pop stars",
@@ -3047,7 +4853,7 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_0",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Desktop",
       "EUen": "Desktop",
@@ -3068,7 +4874,7 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_1",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Search engine",
       "EUen": "Search engine",
@@ -3089,7 +4895,7 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_2",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Calculations",
       "EUen": "Calculations",
@@ -3102,7 +4908,7 @@
       "EUnl": "Berekeningen",
       "CNzh": "计算器",
       "TWzh": "試算表",
-      "JPja": "ひょうけいさん表計算",
+      "JPja": "表計算",
       "KRko": "표 계산",
       "EUru": "Вычисления"
     }
@@ -3110,15 +4916,15 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_3",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Web browsing",
       "EUen": "Web browsing",
       "EUde": "Internetbrowser",
       "EUes": "Navegador de internet",
       "USes": "Navegador de internet",
-      "EUfr": "Navigateur internet",
-      "USfr": "Navigateur internet",
+      "EUfr": "Navigateur Internet",
+      "USfr": "Navigateur Internet",
       "EUit": "Internet",
       "EUnl": "Internetsurfen",
       "CNzh": "互联网",
@@ -3131,7 +4937,7 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_4",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Programming",
       "EUen": "Programming",
@@ -3152,7 +4958,7 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_5",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Art program",
       "EUen": "Art program",
@@ -3173,7 +4979,7 @@
   {
     "id": "Ftr_03590",
     "variant_id": "Ftr_03590_6",
-    "furniture_name": "desktop computer",
+    "ftr_name": "desktop computer",
     "locale": {
       "USen": "Digital audio workstation",
       "EUen": "Digital audio workstation",
@@ -3194,7 +5000,7 @@
   {
     "id": "Ftr_03617",
     "variant_id": "Ftr_03617_0",
-    "furniture_name": "stall",
+    "ftr_name": "stall",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -3215,7 +5021,7 @@
   {
     "id": "Ftr_03617",
     "variant_id": "Ftr_03617_1",
-    "furniture_name": "stall",
+    "ftr_name": "stall",
     "locale": {
       "USen": "Green stripes",
       "EUen": "Green stripes",
@@ -3236,7 +5042,7 @@
   {
     "id": "Ftr_03617",
     "variant_id": "Ftr_03617_2",
-    "furniture_name": "stall",
+    "ftr_name": "stall",
     "locale": {
       "USen": "Red stripes",
       "EUen": "Red stripes",
@@ -3257,7 +5063,7 @@
   {
     "id": "Ftr_03617",
     "variant_id": "Ftr_03617_3",
-    "furniture_name": "stall",
+    "ftr_name": "stall",
     "locale": {
       "USen": "Colorful",
       "EUen": "Colorful",
@@ -3278,7 +5084,7 @@
   {
     "id": "Ftr_03617",
     "variant_id": "Ftr_03617_4",
-    "furniture_name": "stall",
+    "ftr_name": "stall",
     "locale": {
       "USen": "Waves",
       "EUen": "Waves",
@@ -3297,9 +5103,198 @@
     }
   },
   {
+    "id": "Ftr_03618",
+    "variant_id": "Ftr_03618_0",
+    "ftr_name": "cutting board",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_03618",
+    "variant_id": "Ftr_03618_1",
+    "ftr_name": "cutting board",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_03618",
+    "variant_id": "Ftr_03618_2",
+    "ftr_name": "cutting board",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_03621",
+    "variant_id": "Ftr_03621_0",
+    "ftr_name": "loft bed with desk",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_03621",
+    "variant_id": "Ftr_03621_1",
+    "ftr_name": "loft bed with desk",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_03621",
+    "variant_id": "Ftr_03621_2",
+    "ftr_name": "loft bed with desk",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": "Ftr_03621",
+    "variant_id": "Ftr_03621_3",
+    "ftr_name": "loft bed with desk",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_03621",
+    "variant_id": "Ftr_03621_4",
+    "ftr_name": "loft bed with desk",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_03621",
+    "variant_id": "Ftr_03621_5",
+    "ftr_name": "loft bed with desk",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
     "id": "Ftr_03621",
     "variant_id": "Ftr_03621_6",
-    "furniture_name": "loft bed with desk",
+    "ftr_name": "loft bed with desk",
     "locale": {
       "USen": "Green stripes",
       "EUen": "Green stripes",
@@ -3320,7 +5315,7 @@
   {
     "id": "Ftr_03621",
     "variant_id": "Ftr_03621_7",
-    "furniture_name": "loft bed with desk",
+    "ftr_name": "loft bed with desk",
     "locale": {
       "USen": "Red stripes",
       "EUen": "Red stripes",
@@ -3341,7 +5336,7 @@
   {
     "id": "Ftr_03622",
     "variant_id": "Ftr_03622_0",
-    "furniture_name": "floor seat",
+    "ftr_name": "floor seat",
     "locale": {
       "USen": "Pale grass green",
       "EUen": "Pale grass green",
@@ -3354,7 +5349,7 @@
       "EUnl": "Dor grasgroen",
       "CNzh": "草绿色",
       "TWzh": "青草色",
-      "JPja": "くさいろ草色",
+      "JPja": "草色",
       "KRko": "풀색",
       "EUru": "Светло-зеленый"
     }
@@ -3362,7 +5357,7 @@
   {
     "id": "Ftr_03622",
     "variant_id": "Ftr_03622_1",
-    "furniture_name": "floor seat",
+    "ftr_name": "floor seat",
     "locale": {
       "USen": "Mustard yellow",
       "EUen": "Mustard yellow",
@@ -3375,7 +5370,7 @@
       "EUnl": "Mosterdgeel",
       "CNzh": "芥末绿",
       "TWzh": "芥末黃",
-      "JPja": "からし\u000e\\0\\0\b\u0002\u0004いろ色",
+      "JPja": "からし色",
       "KRko": "겨자색",
       "EUru": "Горчично-желтый"
     }
@@ -3383,7 +5378,7 @@
   {
     "id": "Ftr_03622",
     "variant_id": "Ftr_03622_2",
-    "furniture_name": "floor seat",
+    "ftr_name": "floor seat",
     "locale": {
       "USen": "Peach",
       "EUen": "Peach",
@@ -3396,7 +5391,7 @@
       "EUnl": "Perzikkleur",
       "CNzh": "桃红色",
       "TWzh": "桃紅色",
-      "JPja": "ももいろ桃色",
+      "JPja": "桃色",
       "KRko": "분홍색",
       "EUru": "Персиковый"
     }
@@ -3404,7 +5399,7 @@
   {
     "id": "Ftr_03622",
     "variant_id": "Ftr_03622_3",
-    "furniture_name": "floor seat",
+    "ftr_name": "floor seat",
     "locale": {
       "USen": "Deep blue",
       "EUen": "Deep blue",
@@ -3417,7 +5412,7 @@
       "EUnl": "Diepblauw",
       "CNzh": "蓝紫色",
       "TWzh": "紫藍色",
-      "JPja": "こんいろ紺色",
+      "JPja": "紺色",
       "KRko": "진청색",
       "EUru": "Темно-синий"
     }
@@ -3425,7 +5420,7 @@
   {
     "id": "Ftr_03692",
     "variant_id": "Ftr_03692_0",
-    "furniture_name": "plain wooden shop sign",
+    "ftr_name": "plain wooden shop sign",
     "locale": {
       "USen": "Pet",
       "EUen": "Pet",
@@ -3446,7 +5441,7 @@
   {
     "id": "Ftr_03692",
     "variant_id": "Ftr_03692_1",
-    "furniture_name": "plain wooden shop sign",
+    "ftr_name": "plain wooden shop sign",
     "locale": {
       "USen": "Wanted",
       "EUen": "Wanted",
@@ -3467,7 +5462,7 @@
   {
     "id": "Ftr_03692",
     "variant_id": "Ftr_03692_2",
-    "furniture_name": "plain wooden shop sign",
+    "ftr_name": "plain wooden shop sign",
     "locale": {
       "USen": "Ad",
       "EUen": "Ad",
@@ -3480,7 +5475,7 @@
       "EUnl": "Reclame",
       "CNzh": "广告",
       "TWzh": "廣告",
-      "JPja": "こうこく広告",
+      "JPja": "広告",
       "KRko": "광고",
       "EUru": "Реклама"
     }
@@ -3488,7 +5483,7 @@
   {
     "id": "Ftr_03692",
     "variant_id": "Ftr_03692_3",
-    "furniture_name": "plain wooden shop sign",
+    "ftr_name": "plain wooden shop sign",
     "locale": {
       "USen": "Warning",
       "EUen": "Warning",
@@ -3501,7 +5496,7 @@
       "EUnl": "Waarschuwing",
       "CNzh": "警告",
       "TWzh": "警告",
-      "JPja": "けいこく警告",
+      "JPja": "警告",
       "KRko": "경고",
       "EUru": "Предупреждение"
     }
@@ -3509,7 +5504,7 @@
   {
     "id": "Ftr_03702",
     "variant_id": "Ftr_03702_0",
-    "furniture_name": "writing chair",
+    "ftr_name": "study chair",
     "locale": {
       "USen": "Yellow",
       "EUen": "Yellow",
@@ -3530,7 +5525,7 @@
   {
     "id": "Ftr_03702",
     "variant_id": "Ftr_03702_1",
-    "furniture_name": "writing chair",
+    "ftr_name": "study chair",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -3551,7 +5546,7 @@
   {
     "id": "Ftr_03702",
     "variant_id": "Ftr_03702_2",
-    "furniture_name": "writing chair",
+    "ftr_name": "study chair",
     "locale": {
       "USen": "Pink",
       "EUen": "Pink",
@@ -3572,7 +5567,7 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_0",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -3593,7 +5588,7 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_1",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
     "locale": {
       "USen": "Black",
       "EUen": "Black",
@@ -3614,7 +5609,7 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_2",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
     "locale": {
       "USen": "Green",
       "EUen": "Green",
@@ -3635,7 +5630,7 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_3",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -3656,7 +5651,7 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_4",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
     "locale": {
       "USen": "Orange",
       "EUen": "Orange",
@@ -3677,7 +5672,7 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_5",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
     "locale": {
       "USen": "Light wood",
       "EUen": "Light wood",
@@ -3698,7 +5693,154 @@
   {
     "id": "Ftr_03946",
     "variant_id": "Ftr_03946_6",
-    "furniture_name": "outdoor table",
+    "ftr_name": "outdoor table",
+    "locale": {
+      "USen": "Dark wood",
+      "EUen": "Dark wood",
+      "EUde": "Dunkles Holz",
+      "EUes": "Madera oscura",
+      "USes": "Madera oscura",
+      "EUfr": "Bois foncé",
+      "USfr": "Bois foncé",
+      "EUit": "Legno scuro",
+      "EUnl": "Donker hout",
+      "CNzh": "深木色",
+      "TWzh": "黑木色",
+      "JPja": "ダークウッド",
+      "KRko": "다크 우드",
+      "EUru": "Темное дерево"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_0",
+    "ftr_name": "outdoor bench",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_1",
+    "ftr_name": "outdoor bench",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_2",
+    "ftr_name": "outdoor bench",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_3",
+    "ftr_name": "outdoor bench",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_4",
+    "ftr_name": "outdoor bench",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_5",
+    "ftr_name": "outdoor bench",
+    "locale": {
+      "USen": "Light wood",
+      "EUen": "Light wood",
+      "EUde": "Helles Holz",
+      "EUes": "Madera clara",
+      "USes": "Madera clara",
+      "EUfr": "Bois clair",
+      "USfr": "Bois clair",
+      "EUit": "Legno chiaro",
+      "EUnl": "Licht hout",
+      "CNzh": "浅木色",
+      "TWzh": "淺木色",
+      "JPja": "ライトウッド",
+      "KRko": "라이트 우드",
+      "EUru": "Светлое дерево"
+    }
+  },
+  {
+    "id": "Ftr_03947",
+    "variant_id": "Ftr_03947_6",
+    "ftr_name": "outdoor bench",
     "locale": {
       "USen": "Dark wood",
       "EUen": "Dark wood",
@@ -3719,7 +5861,7 @@
   {
     "id": "Ftr_03965",
     "variant_id": "Ftr_03965_0",
-    "furniture_name": "painting set",
+    "ftr_name": "painting set",
     "locale": {
       "USen": "Blank",
       "EUen": "Blank",
@@ -3732,7 +5874,7 @@
       "EUnl": "Leeg",
       "CNzh": "白纸",
       "TWzh": "白紙",
-      "JPja": "はくし白紙",
+      "JPja": "白紙",
       "KRko": "백지",
       "EUru": "Чистый лист"
     }
@@ -3740,7 +5882,7 @@
   {
     "id": "Ftr_03965",
     "variant_id": "Ftr_03965_1",
-    "furniture_name": "painting set",
+    "ftr_name": "painting set",
     "locale": {
       "USen": "Smile",
       "EUen": "Smile",
@@ -3753,7 +5895,7 @@
       "EUnl": "Glimlach",
       "CNzh": "笑脸",
       "TWzh": "笑容",
-      "JPja": "えがお笑顔",
+      "JPja": "笑顔",
       "KRko": "미소",
       "EUru": "Улыбка"
     }
@@ -3761,7 +5903,7 @@
   {
     "id": "Ftr_03965",
     "variant_id": "Ftr_03965_2",
-    "furniture_name": "painting set",
+    "ftr_name": "painting set",
     "locale": {
       "USen": "Bug",
       "EUen": "Bug",
@@ -3782,7 +5924,7 @@
   {
     "id": "Ftr_03965",
     "variant_id": "Ftr_03965_3",
-    "furniture_name": "painting set",
+    "ftr_name": "painting set",
     "locale": {
       "USen": "Still life",
       "EUen": "Still life",
@@ -3795,7 +5937,7 @@
       "EUnl": "Stilleven",
       "CNzh": "静物画",
       "TWzh": "靜物畫",
-      "JPja": "せいぶつが静物画",
+      "JPja": "静物画",
       "KRko": "정물화",
       "EUru": "Натюрморт"
     }
@@ -3803,7 +5945,7 @@
   {
     "id": "Ftr_04034",
     "variant_id": "Ftr_04034_0",
-    "furniture_name": "scattered papers",
+    "ftr_name": "scattered papers",
     "locale": {
       "USen": "Essays",
       "EUen": "Essays",
@@ -3816,7 +5958,7 @@
       "EUnl": "Essays",
       "CNzh": "文件",
       "TWzh": "文件",
-      "JPja": "ぶんしょ文書",
+      "JPja": "文書",
       "KRko": "문서",
       "EUru": "Эссе"
     }
@@ -3824,7 +5966,7 @@
   {
     "id": "Ftr_04034",
     "variant_id": "Ftr_04034_1",
-    "furniture_name": "scattered papers",
+    "ftr_name": "scattered papers",
     "locale": {
       "USen": "Manuscript paper",
       "EUen": "Manuscript paper",
@@ -3837,7 +5979,7 @@
       "EUnl": "Ruitjespapier",
       "CNzh": "原稿纸",
       "TWzh": "原稿紙",
-      "JPja": "げんこうようし原稿用紙",
+      "JPja": "原稿用紙",
       "KRko": "원고지",
       "EUru": "Линованная бумага"
     }
@@ -3845,7 +5987,7 @@
   {
     "id": "Ftr_04034",
     "variant_id": "Ftr_04034_2",
-    "furniture_name": "scattered papers",
+    "ftr_name": "scattered papers",
     "locale": {
       "USen": "Illustrations",
       "EUen": "Illustrations",
@@ -3866,7 +6008,7 @@
   {
     "id": "Ftr_04034",
     "variant_id": "Ftr_04034_3",
-    "furniture_name": "scattered papers",
+    "ftr_name": "scattered papers",
     "locale": {
       "USen": "Plans",
       "EUen": "Plans",
@@ -3879,7 +6021,7 @@
       "EUnl": "Plannen",
       "CNzh": "设计图",
       "TWzh": "設計圖",
-      "JPja": "せっけいず設計図",
+      "JPja": "設計図",
       "KRko": "설계도",
       "EUru": "Схемы"
     }
@@ -3887,7 +6029,7 @@
   {
     "id": "Ftr_04035",
     "variant_id": "Ftr_04035_0",
-    "furniture_name": "log garden lounge",
+    "ftr_name": "log garden lounge",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -3908,7 +6050,7 @@
   {
     "id": "Ftr_04035",
     "variant_id": "Ftr_04035_1",
-    "furniture_name": "log garden lounge",
+    "ftr_name": "log garden lounge",
     "locale": {
       "USen": "Southwestern flair",
       "EUen": "Southwestern flair",
@@ -3929,7 +6071,7 @@
   {
     "id": "Ftr_04035",
     "variant_id": "Ftr_04035_2",
-    "furniture_name": "log garden lounge",
+    "ftr_name": "log garden lounge",
     "locale": {
       "USen": "Geometric print",
       "EUen": "Geometric print",
@@ -3950,7 +6092,7 @@
   {
     "id": "Ftr_04035",
     "variant_id": "Ftr_04035_3",
-    "furniture_name": "log garden lounge",
+    "ftr_name": "log garden lounge",
     "locale": {
       "USen": "Bears",
       "EUen": "Bears",
@@ -3971,7 +6113,7 @@
   {
     "id": "Ftr_04035",
     "variant_id": "Ftr_04035_4",
-    "furniture_name": "log garden lounge",
+    "ftr_name": "log garden lounge",
     "locale": {
       "USen": "Quilted",
       "EUen": "Quilted",
@@ -3990,9 +6132,723 @@
     }
   },
   {
+    "id": "Ftr_04036",
+    "variant_id": "Ftr_04036_0",
+    "ftr_name": "log decorative shelves",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без подушки"
+    }
+  },
+  {
+    "id": "Ftr_04036",
+    "variant_id": "Ftr_04036_1",
+    "ftr_name": "log decorative shelves",
+    "locale": {
+      "USen": "Southwestern flair",
+      "EUen": "Southwestern flair",
+      "EUde": "Kelim",
+      "EUes": "Diseño exótico",
+      "USes": "Diseño exótico",
+      "EUfr": "Kilim",
+      "USfr": "Kilim",
+      "EUit": "Kilim",
+      "EUnl": "Kelim",
+      "CNzh": "基里姆",
+      "TWzh": "基里姆",
+      "JPja": "キリム",
+      "KRko": "킬림",
+      "EUru": "Теплые цвета"
+    }
+  },
+  {
+    "id": "Ftr_04036",
+    "variant_id": "Ftr_04036_2",
+    "ftr_name": "log decorative shelves",
+    "locale": {
+      "USen": "Geometric print",
+      "EUen": "Geometric print",
+      "EUde": "Geometrie-Muster",
+      "EUes": "Diseño étnico",
+      "USes": "Diseño étnico",
+      "EUfr": "Chimayo",
+      "USfr": "Chimayo",
+      "EUit": "Stampa geometrica",
+      "EUnl": "Chimayo",
+      "CNzh": "奇马约",
+      "TWzh": "奇約馬",
+      "JPja": "チマヨ",
+      "KRko": "치마요",
+      "EUru": "Геометрический узор"
+    }
+  },
+  {
+    "id": "Ftr_04036",
+    "variant_id": "Ftr_04036_3",
+    "ftr_name": "log decorative shelves",
+    "locale": {
+      "USen": "Bears",
+      "EUen": "Bears",
+      "EUde": "Bären",
+      "EUes": "Osos",
+      "USes": "Osos",
+      "EUfr": "Ours",
+      "USfr": "Ours",
+      "EUit": "Orsi",
+      "EUnl": "Beren",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": "Ftr_04036",
+    "variant_id": "Ftr_04036_4",
+    "ftr_name": "log decorative shelves",
+    "locale": {
+      "USen": "Quilted",
+      "EUen": "Quilted",
+      "EUde": "Quilt",
+      "EUes": "Patchwork",
+      "USes": "Retazos",
+      "EUfr": "Patchwork",
+      "USfr": "Patchwork",
+      "EUit": "Patchwork",
+      "EUnl": "Quilt",
+      "CNzh": "拼布",
+      "TWzh": "拼布",
+      "JPja": "キルト",
+      "KRko": "퀼트",
+      "EUru": "Лоскутный материал"
+    }
+  },
+  {
+    "id": "Ftr_04039",
+    "variant_id": "Ftr_04039_0",
+    "ftr_name": "log chair",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без подушки"
+    }
+  },
+  {
+    "id": "Ftr_04039",
+    "variant_id": "Ftr_04039_1",
+    "ftr_name": "log chair",
+    "locale": {
+      "USen": "Southwestern flair",
+      "EUen": "Southwestern flair",
+      "EUde": "Kelim",
+      "EUes": "Diseño exótico",
+      "USes": "Diseño exótico",
+      "EUfr": "Kilim",
+      "USfr": "Kilim",
+      "EUit": "Kilim",
+      "EUnl": "Kelim",
+      "CNzh": "基里姆",
+      "TWzh": "基里姆",
+      "JPja": "キリム",
+      "KRko": "킬림",
+      "EUru": "Теплые цвета"
+    }
+  },
+  {
+    "id": "Ftr_04039",
+    "variant_id": "Ftr_04039_2",
+    "ftr_name": "log chair",
+    "locale": {
+      "USen": "Geometric print",
+      "EUen": "Geometric print",
+      "EUde": "Geometrie-Muster",
+      "EUes": "Diseño étnico",
+      "USes": "Diseño étnico",
+      "EUfr": "Chimayo",
+      "USfr": "Chimayo",
+      "EUit": "Stampa geometrica",
+      "EUnl": "Chimayo",
+      "CNzh": "奇马约",
+      "TWzh": "奇約馬",
+      "JPja": "チマヨ",
+      "KRko": "치마요",
+      "EUru": "Геометрический узор"
+    }
+  },
+  {
+    "id": "Ftr_04039",
+    "variant_id": "Ftr_04039_3",
+    "ftr_name": "log chair",
+    "locale": {
+      "USen": "Bears",
+      "EUen": "Bears",
+      "EUde": "Bären",
+      "EUes": "Osos",
+      "USes": "Osos",
+      "EUfr": "Ours",
+      "USfr": "Ours",
+      "EUit": "Orsi",
+      "EUnl": "Beren",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": "Ftr_04039",
+    "variant_id": "Ftr_04039_4",
+    "ftr_name": "log chair",
+    "locale": {
+      "USen": "Quilted",
+      "EUen": "Quilted",
+      "EUde": "Quilt",
+      "EUes": "Patchwork",
+      "USes": "Retazos",
+      "EUfr": "Patchwork",
+      "USfr": "Patchwork",
+      "EUit": "Patchwork",
+      "EUnl": "Quilt",
+      "CNzh": "拼布",
+      "TWzh": "拼布",
+      "JPja": "キルト",
+      "KRko": "퀼트",
+      "EUru": "Лоскутный материал"
+    }
+  },
+  {
+    "id": "Ftr_04040",
+    "variant_id": "Ftr_04040_0",
+    "ftr_name": "log dining table",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без подушки"
+    }
+  },
+  {
+    "id": "Ftr_04040",
+    "variant_id": "Ftr_04040_1",
+    "ftr_name": "log dining table",
+    "locale": {
+      "USen": "Southwestern flair",
+      "EUen": "Southwestern flair",
+      "EUde": "Kelim",
+      "EUes": "Diseño exótico",
+      "USes": "Diseño exótico",
+      "EUfr": "Kilim",
+      "USfr": "Kilim",
+      "EUit": "Kilim",
+      "EUnl": "Kelim",
+      "CNzh": "基里姆",
+      "TWzh": "基里姆",
+      "JPja": "キリム",
+      "KRko": "킬림",
+      "EUru": "Теплые цвета"
+    }
+  },
+  {
+    "id": "Ftr_04040",
+    "variant_id": "Ftr_04040_2",
+    "ftr_name": "log dining table",
+    "locale": {
+      "USen": "Geometric print",
+      "EUen": "Geometric print",
+      "EUde": "Geometrie-Muster",
+      "EUes": "Diseño étnico",
+      "USes": "Diseño étnico",
+      "EUfr": "Chimayo",
+      "USfr": "Chimayo",
+      "EUit": "Stampa geometrica",
+      "EUnl": "Chimayo",
+      "CNzh": "奇马约",
+      "TWzh": "奇約馬",
+      "JPja": "チマヨ",
+      "KRko": "치마요",
+      "EUru": "Геометрический узор"
+    }
+  },
+  {
+    "id": "Ftr_04040",
+    "variant_id": "Ftr_04040_3",
+    "ftr_name": "log dining table",
+    "locale": {
+      "USen": "Bears",
+      "EUen": "Bears",
+      "EUde": "Bären",
+      "EUes": "Osos",
+      "USes": "Osos",
+      "EUfr": "Ours",
+      "USfr": "Ours",
+      "EUit": "Orsi",
+      "EUnl": "Beren",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": "Ftr_04040",
+    "variant_id": "Ftr_04040_4",
+    "ftr_name": "log dining table",
+    "locale": {
+      "USen": "Quilted",
+      "EUen": "Quilted",
+      "EUde": "Quilt",
+      "EUes": "Patchwork",
+      "USes": "Retazos",
+      "EUfr": "Patchwork",
+      "USfr": "Patchwork",
+      "EUit": "Patchwork",
+      "EUnl": "Quilt",
+      "CNzh": "拼布",
+      "TWzh": "拼布",
+      "JPja": "キルト",
+      "KRko": "퀼트",
+      "EUru": "Лоскутный материал"
+    }
+  },
+  {
+    "id": "Ftr_04041",
+    "variant_id": "Ftr_04041_0",
+    "ftr_name": "log bed",
+    "locale": {
+      "USen": "Southwestern flair",
+      "EUen": "Southwestern flair",
+      "EUde": "Kelim",
+      "EUes": "Diseño exótico",
+      "USes": "Diseño exótico",
+      "EUfr": "Kilim",
+      "USfr": "Kilim",
+      "EUit": "Kilim",
+      "EUnl": "Kelim",
+      "CNzh": "基里姆",
+      "TWzh": "基里姆",
+      "JPja": "キリム",
+      "KRko": "킬림",
+      "EUru": "Теплые цвета"
+    }
+  },
+  {
+    "id": "Ftr_04041",
+    "variant_id": "Ftr_04041_1",
+    "ftr_name": "log bed",
+    "locale": {
+      "USen": "Geometric print",
+      "EUen": "Geometric print",
+      "EUde": "Geometrie-Muster",
+      "EUes": "Diseño étnico",
+      "USes": "Diseño étnico",
+      "EUfr": "Chimayo",
+      "USfr": "Chimayo",
+      "EUit": "Stampa geometrica",
+      "EUnl": "Chimayo",
+      "CNzh": "奇马约",
+      "TWzh": "奇約馬",
+      "JPja": "チマヨ",
+      "KRko": "치마요",
+      "EUru": "Геометрический узор"
+    }
+  },
+  {
+    "id": "Ftr_04041",
+    "variant_id": "Ftr_04041_2",
+    "ftr_name": "log bed",
+    "locale": {
+      "USen": "Bears",
+      "EUen": "Bears",
+      "EUde": "Bären",
+      "EUes": "Osos",
+      "USes": "Osos",
+      "EUfr": "Ours",
+      "USfr": "Ours",
+      "EUit": "Orsi",
+      "EUnl": "Beren",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": "Ftr_04041",
+    "variant_id": "Ftr_04041_3",
+    "ftr_name": "log bed",
+    "locale": {
+      "USen": "Quilted",
+      "EUen": "Quilted",
+      "EUde": "Quilt",
+      "EUes": "Patchwork",
+      "USes": "Retazos",
+      "EUfr": "Patchwork",
+      "USfr": "Patchwork",
+      "EUit": "Patchwork",
+      "EUnl": "Quilt",
+      "CNzh": "拼布",
+      "TWzh": "拼布",
+      "JPja": "キルト",
+      "KRko": "퀼트",
+      "EUru": "Лоскутный материал"
+    }
+  },
+  {
+    "id": "Ftr_04043",
+    "variant_id": "Ftr_04043_0",
+    "ftr_name": "log round table",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без подушки"
+    }
+  },
+  {
+    "id": "Ftr_04043",
+    "variant_id": "Ftr_04043_1",
+    "ftr_name": "log round table",
+    "locale": {
+      "USen": "Southwestern flair",
+      "EUen": "Southwestern flair",
+      "EUde": "Kelim",
+      "EUes": "Diseño exótico",
+      "USes": "Diseño exótico",
+      "EUfr": "Kilim",
+      "USfr": "Kilim",
+      "EUit": "Kilim",
+      "EUnl": "Kelim",
+      "CNzh": "基里姆",
+      "TWzh": "基里姆",
+      "JPja": "キリム",
+      "KRko": "킬림",
+      "EUru": "Теплые цвета"
+    }
+  },
+  {
+    "id": "Ftr_04043",
+    "variant_id": "Ftr_04043_2",
+    "ftr_name": "log round table",
+    "locale": {
+      "USen": "Geometric print",
+      "EUen": "Geometric print",
+      "EUde": "Geometrie-Muster",
+      "EUes": "Diseño étnico",
+      "USes": "Diseño étnico",
+      "EUfr": "Chimayo",
+      "USfr": "Chimayo",
+      "EUit": "Stampa geometrica",
+      "EUnl": "Chimayo",
+      "CNzh": "奇马约",
+      "TWzh": "奇約馬",
+      "JPja": "チマヨ",
+      "KRko": "치마요",
+      "EUru": "Геометрический узор"
+    }
+  },
+  {
+    "id": "Ftr_04043",
+    "variant_id": "Ftr_04043_3",
+    "ftr_name": "log round table",
+    "locale": {
+      "USen": "Bears",
+      "EUen": "Bears",
+      "EUde": "Bären",
+      "EUes": "Osos",
+      "USes": "Osos",
+      "EUfr": "Ours",
+      "USfr": "Ours",
+      "EUit": "Orsi",
+      "EUnl": "Beren",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": "Ftr_04043",
+    "variant_id": "Ftr_04043_4",
+    "ftr_name": "log round table",
+    "locale": {
+      "USen": "Quilted",
+      "EUen": "Quilted",
+      "EUde": "Quilt",
+      "EUes": "Patchwork",
+      "USes": "Retazos",
+      "EUfr": "Patchwork",
+      "USfr": "Patchwork",
+      "EUit": "Patchwork",
+      "EUnl": "Quilt",
+      "CNzh": "拼布",
+      "TWzh": "拼布",
+      "JPja": "キルト",
+      "KRko": "퀼트",
+      "EUru": "Лоскутный материал"
+    }
+  },
+  {
+    "id": "Ftr_04044",
+    "variant_id": "Ftr_04044_0",
+    "ftr_name": "log extra-long sofa",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "No tiene",
+      "USes": "No tiene",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Senza",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без подушки"
+    }
+  },
+  {
+    "id": "Ftr_04044",
+    "variant_id": "Ftr_04044_1",
+    "ftr_name": "log extra-long sofa",
+    "locale": {
+      "USen": "Southwestern flair",
+      "EUen": "Southwestern flair",
+      "EUde": "Kelim",
+      "EUes": "Diseño exótico",
+      "USes": "Diseño exótico",
+      "EUfr": "Kilim",
+      "USfr": "Kilim",
+      "EUit": "Kilim",
+      "EUnl": "Kelim",
+      "CNzh": "基里姆",
+      "TWzh": "基里姆",
+      "JPja": "キリム",
+      "KRko": "킬림",
+      "EUru": "Теплые цвета"
+    }
+  },
+  {
+    "id": "Ftr_04044",
+    "variant_id": "Ftr_04044_2",
+    "ftr_name": "log extra-long sofa",
+    "locale": {
+      "USen": "Geometric print",
+      "EUen": "Geometric print",
+      "EUde": "Geometrie-Muster",
+      "EUes": "Diseño étnico",
+      "USes": "Diseño étnico",
+      "EUfr": "Chimayo",
+      "USfr": "Chimayo",
+      "EUit": "Stampa geometrica",
+      "EUnl": "Chimayo",
+      "CNzh": "奇马约",
+      "TWzh": "奇約馬",
+      "JPja": "チマヨ",
+      "KRko": "치마요",
+      "EUru": "Геометрический узор"
+    }
+  },
+  {
+    "id": "Ftr_04044",
+    "variant_id": "Ftr_04044_3",
+    "ftr_name": "log extra-long sofa",
+    "locale": {
+      "USen": "Bears",
+      "EUen": "Bears",
+      "EUde": "Bären",
+      "EUes": "Osos",
+      "USes": "Osos",
+      "EUfr": "Ours",
+      "USfr": "Ours",
+      "EUit": "Orsi",
+      "EUnl": "Beren",
+      "CNzh": "熊",
+      "TWzh": "熊",
+      "JPja": "クマ",
+      "KRko": "곰",
+      "EUru": "Медведи"
+    }
+  },
+  {
+    "id": "Ftr_04044",
+    "variant_id": "Ftr_04044_4",
+    "ftr_name": "log extra-long sofa",
+    "locale": {
+      "USen": "Quilted",
+      "EUen": "Quilted",
+      "EUde": "Quilt",
+      "EUes": "Patchwork",
+      "USes": "Retazos",
+      "EUfr": "Patchwork",
+      "USfr": "Patchwork",
+      "EUit": "Patchwork",
+      "EUnl": "Quilt",
+      "CNzh": "拼布",
+      "TWzh": "拼布",
+      "JPja": "キルト",
+      "KRko": "퀼트",
+      "EUru": "Лоскутный материал"
+    }
+  },
+  {
+    "id": "Ftr_04068",
+    "variant_id": "Ftr_04068_0",
+    "ftr_name": "table setting",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_04068",
+    "variant_id": "Ftr_04068_1",
+    "ftr_name": "table setting",
+    "locale": {
+      "USen": "Navy blue",
+      "EUen": "Navy blue",
+      "EUde": "Marineblau",
+      "EUes": "Azul marino",
+      "USes": "Azul marino",
+      "EUfr": "Bleu marine",
+      "USfr": "Bleu marine",
+      "EUit": "Blu marino",
+      "EUnl": "Marineblauw",
+      "CNzh": "海军蓝",
+      "TWzh": "海軍藍",
+      "JPja": "ネイビー",
+      "KRko": "네이비",
+      "EUru": "Черно-синий"
+    }
+  },
+  {
+    "id": "Ftr_04068",
+    "variant_id": "Ftr_04068_2",
+    "ftr_name": "table setting",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_04068",
+    "variant_id": "Ftr_04068_3",
+    "ftr_name": "table setting",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_04068",
+    "variant_id": "Ftr_04068_4",
+    "ftr_name": "table setting",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_0",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -4013,7 +6869,7 @@
   {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_1",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "Black",
       "EUen": "Black",
@@ -4034,7 +6890,7 @@
   {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_2",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "Red flowers",
       "EUen": "Red flowers",
@@ -4055,7 +6911,7 @@
   {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_3",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "Blue flowers",
       "EUen": "Blue flowers",
@@ -4076,7 +6932,7 @@
   {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_4",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "Green flowers",
       "EUen": "Green flowers",
@@ -4097,7 +6953,7 @@
   {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_5",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "Yellow flowers",
       "EUen": "Yellow flowers",
@@ -4118,7 +6974,7 @@
   {
     "id": "Ftr_04069",
     "variant_id": "Ftr_04069_6",
-    "furniture_name": "table lamp",
+    "ftr_name": "table lamp",
     "locale": {
       "USen": "Pink flowers",
       "EUen": "Pink flowers",
@@ -4139,7 +6995,7 @@
   {
     "id": "Ftr_04101",
     "variant_id": "Ftr_04101_0",
-    "furniture_name": "fax machine",
+    "ftr_name": "fax machine",
     "locale": {
       "USen": "Document",
       "EUen": "Document",
@@ -4152,7 +7008,7 @@
       "EUnl": "Document",
       "CNzh": "文件",
       "TWzh": "文件",
-      "JPja": "ぶんしょ文書",
+      "JPja": "文書",
       "KRko": "문서",
       "EUru": "Документ"
     }
@@ -4160,7 +7016,7 @@
   {
     "id": "Ftr_04101",
     "variant_id": "Ftr_04101_1",
-    "furniture_name": "fax machine",
+    "ftr_name": "fax machine",
     "locale": {
       "USen": "Graph",
       "EUen": "Graph",
@@ -4181,7 +7037,7 @@
   {
     "id": "Ftr_04101",
     "variant_id": "Ftr_04101_2",
-    "furniture_name": "fax machine",
+    "ftr_name": "fax machine",
     "locale": {
       "USen": "Illustration",
       "EUen": "Illustration",
@@ -4202,7 +7058,7 @@
   {
     "id": "Ftr_04101",
     "variant_id": "Ftr_04101_3",
-    "furniture_name": "fax machine",
+    "ftr_name": "fax machine",
     "locale": {
       "USen": "Written note",
       "EUen": "Written note",
@@ -4221,9 +7077,114 @@
     }
   },
   {
+    "id": "Ftr_04102",
+    "variant_id": "Ftr_04102_0",
+    "ftr_name": "poolside bed",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_04102",
+    "variant_id": "Ftr_04102_1",
+    "ftr_name": "poolside bed",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_04102",
+    "variant_id": "Ftr_04102_2",
+    "ftr_name": "poolside bed",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_04102",
+    "variant_id": "Ftr_04102_3",
+    "ftr_name": "poolside bed",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_04102",
+    "variant_id": "Ftr_04102_4",
+    "ftr_name": "poolside bed",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
     "id": "Ftr_04122",
     "variant_id": "Ftr_04122_0",
-    "furniture_name": "cartoonist's set",
+    "ftr_name": "cartoonist's set",
     "locale": {
       "USen": "Blank",
       "EUen": "Blank",
@@ -4236,7 +7197,7 @@
       "EUnl": "Leeg",
       "CNzh": "白纸",
       "TWzh": "白紙",
-      "JPja": "はくし白紙",
+      "JPja": "白紙",
       "KRko": "백지",
       "EUru": "Чистый лист"
     }
@@ -4244,7 +7205,7 @@
   {
     "id": "Ftr_04122",
     "variant_id": "Ftr_04122_1",
-    "furniture_name": "cartoonist's set",
+    "ftr_name": "cartoonist's set",
     "locale": {
       "USen": "Comic storyboard",
       "EUen": "Comic storyboard",
@@ -4265,7 +7226,7 @@
   {
     "id": "Ftr_04122",
     "variant_id": "Ftr_04122_2",
-    "furniture_name": "cartoonist's set",
+    "ftr_name": "cartoonist's set",
     "locale": {
       "USen": "Gag comic",
       "EUen": "Gag comic",
@@ -4284,156 +7245,9 @@
     }
   },
   {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_0",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_1",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_2",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_3",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "Light blue",
-      "EUen": "Light blue",
-      "EUde": "Hellblau",
-      "EUes": "Celeste",
-      "USes": "Celeste",
-      "EUfr": "Bleu clair",
-      "USfr": "Bleu pâle",
-      "EUit": "Blu chiaro",
-      "EUnl": "Lichtblauw",
-      "CNzh": "浅蓝色",
-      "TWzh": "淺藍色",
-      "JPja": "ライトブルー",
-      "KRko": "라이트 블루",
-      "EUru": "Голубой"
-    }
-  },
-  {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_4",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_5",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": "Ftr_04138",
-    "variant_id": "Ftr_04138_6",
-    "furniture_name": "diner counter chair",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
     "id": "Ftr_04140",
     "variant_id": "Ftr_04140_0",
-    "furniture_name": "retro gas pump",
+    "ftr_name": "retro gas pump",
     "locale": {
       "USen": "Yellow oil",
       "EUen": "Yellow oil",
@@ -4454,7 +7268,7 @@
   {
     "id": "Ftr_04140",
     "variant_id": "Ftr_04140_1",
-    "furniture_name": "retro gas pump",
+    "ftr_name": "retro gas pump",
     "locale": {
       "USen": "Green with animal",
       "EUen": "Green with animal",
@@ -4475,7 +7289,7 @@
   {
     "id": "Ftr_04140",
     "variant_id": "Ftr_04140_2",
-    "furniture_name": "retro gas pump",
+    "ftr_name": "retro gas pump",
     "locale": {
       "USen": "Black retro",
       "EUen": "Black retro",
@@ -4496,7 +7310,7 @@
   {
     "id": "Ftr_04144",
     "variant_id": "Ftr_04144_0",
-    "furniture_name": "diner neon clock",
+    "ftr_name": "diner neon clock",
     "locale": {
       "USen": "Red lines",
       "EUen": "Red lines",
@@ -4517,7 +7331,7 @@
   {
     "id": "Ftr_04144",
     "variant_id": "Ftr_04144_1",
-    "furniture_name": "diner neon clock",
+    "ftr_name": "diner neon clock",
     "locale": {
       "USen": "Blue bee",
       "EUen": "Blue bee",
@@ -4538,7 +7352,7 @@
   {
     "id": "Ftr_04144",
     "variant_id": "Ftr_04144_2",
-    "furniture_name": "diner neon clock",
+    "ftr_name": "diner neon clock",
     "locale": {
       "USen": "B & W numeral",
       "EUen": "B & W numeral",
@@ -4559,7 +7373,7 @@
   {
     "id": "Ftr_04308",
     "variant_id": "Ftr_04308_0",
-    "furniture_name": "unfinished puzzle",
+    "ftr_name": "unfinished puzzle",
     "locale": {
       "USen": "Sunset",
       "EUen": "Sunset",
@@ -4580,7 +7394,7 @@
   {
     "id": "Ftr_04308",
     "variant_id": "Ftr_04308_1",
-    "furniture_name": "unfinished puzzle",
+    "ftr_name": "unfinished puzzle",
     "locale": {
       "USen": "Light Through the Trees",
       "EUen": "Light Through the Trees",
@@ -4601,7 +7415,7 @@
   {
     "id": "Ftr_04308",
     "variant_id": "Ftr_04308_2",
-    "furniture_name": "unfinished puzzle",
+    "ftr_name": "unfinished puzzle",
     "locale": {
       "USen": "Snow",
       "EUen": "Snow",
@@ -4622,7 +7436,7 @@
   {
     "id": "Ftr_04308",
     "variant_id": "Ftr_04308_3",
-    "furniture_name": "unfinished puzzle",
+    "ftr_name": "unfinished puzzle",
     "locale": {
       "USen": "Sepia art",
       "EUen": "Sepia art",
@@ -4643,7 +7457,7 @@
   {
     "id": "Ftr_04308",
     "variant_id": "Ftr_04308_4",
-    "furniture_name": "unfinished puzzle",
+    "ftr_name": "unfinished puzzle",
     "locale": {
       "USen": "Castle",
       "EUen": "Castle",
@@ -4662,9 +7476,93 @@
     }
   },
   {
+    "id": "Ftr_04445",
+    "variant_id": "Ftr_04445_0",
+    "ftr_name": "vintage TV tray",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_04445",
+    "variant_id": "Ftr_04445_1",
+    "ftr_name": "vintage TV tray",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_04445",
+    "variant_id": "Ftr_04445_2",
+    "ftr_name": "vintage TV tray",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": "Ftr_04445",
+    "variant_id": "Ftr_04445_3",
+    "ftr_name": "vintage TV tray",
+    "locale": {
+      "USen": "Natural wood",
+      "EUen": "Natural wood",
+      "EUde": "Naturholz",
+      "EUes": "Madera natural",
+      "USes": "Madera natural",
+      "EUfr": "Bois naturel",
+      "USfr": "Bois naturel",
+      "EUit": "Legno naturale",
+      "EUnl": "Naturel hout",
+      "CNzh": "自然木色",
+      "TWzh": "自然木色",
+      "JPja": "ナチュラルウッド",
+      "KRko": "내추럴 우드",
+      "EUru": "Натуральное дерево"
+    }
+  },
+  {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_0",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Plain panel",
       "EUen": "Plain panel",
@@ -4677,7 +7575,7 @@
       "EUnl": "Eenvoudig",
       "CNzh": "纯色壁板",
       "TWzh": "無圖案板子",
-      "JPja": "むじ無地パネル",
+      "JPja": "無地パネル",
       "KRko": "무지 패널",
       "EUru": "Простая панель"
     }
@@ -4685,7 +7583,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_1",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Lined panel",
       "EUen": "Lined panel",
@@ -4706,7 +7604,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_2",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Pegboard",
       "EUen": "Pegboard",
@@ -4727,7 +7625,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_3",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Horizontal planks",
       "EUen": "Horizontal planks",
@@ -4740,7 +7638,7 @@
       "EUnl": "Houten planken",
       "CNzh": "横条壁板",
       "TWzh": "橫條板子",
-      "JPja": "よこ横いた板ば張り",
+      "JPja": "横板張り",
       "KRko": "가로 판자",
       "EUru": "Дощатая панель"
     }
@@ -4748,7 +7646,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_4",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Lattice",
       "EUen": "Lattice",
@@ -4761,7 +7659,7 @@
       "EUnl": "Rasterwerk",
       "CNzh": "格子",
       "TWzh": "格子",
-      "JPja": "こうし格子",
+      "JPja": "格子",
       "KRko": "격자무늬",
       "EUru": "Решетка"
     }
@@ -4769,7 +7667,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_5",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Mud wall",
       "EUen": "Mud wall",
@@ -4782,7 +7680,7 @@
       "EUnl": "Leem",
       "CNzh": "土墙",
       "TWzh": "土牆",
-      "JPja": "つちかべ土壁",
+      "JPja": "土壁",
       "KRko": "토벽",
       "EUru": "Глинобитная панель"
     }
@@ -4790,7 +7688,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_6",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Concrete",
       "EUen": "Concrete",
@@ -4811,7 +7709,7 @@
   {
     "id": "Ftr_05338",
     "variant_id": "Ftr_05338_7",
-    "furniture_name": "simple panel",
+    "ftr_name": "simple panel",
     "locale": {
       "USen": "Gold",
       "EUen": "Gold",
@@ -4832,7 +7730,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_0",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Deep blue",
       "EUen": "Deep blue",
@@ -4845,7 +7743,7 @@
       "EUnl": "Diepblauw",
       "CNzh": "蓝紫色",
       "TWzh": "紫藍",
-      "JPja": "こん紺",
+      "JPja": "紺",
       "KRko": "진청색",
       "EUru": "Темно-синий"
     }
@@ -4853,7 +7751,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_1",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Indigo",
       "EUen": "Indigo",
@@ -4866,7 +7764,7 @@
       "EUnl": "Indigo",
       "CNzh": "蓝色",
       "TWzh": "藍",
-      "JPja": "あい藍",
+      "JPja": "藍",
       "KRko": "쪽빛",
       "EUru": "Индиго"
     }
@@ -4874,7 +7772,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_2",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Azuki red",
       "EUen": "Azuki red",
@@ -4887,7 +7785,7 @@
       "EUnl": "Azukirood",
       "CNzh": "红豆",
       "TWzh": "紅豆",
-      "JPja": "あずき小豆",
+      "JPja": "小豆",
       "KRko": "팥색",
       "EUru": "Красно-коричневый"
     }
@@ -4895,7 +7793,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_3",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Deep green",
       "EUen": "Deep green",
@@ -4908,7 +7806,7 @@
       "EUnl": "Diepgroen",
       "CNzh": "深绿色",
       "TWzh": "深綠",
-      "JPja": "ふかみどり深緑",
+      "JPja": "深緑",
       "KRko": "진녹색",
       "EUru": "Темно-зеленый"
     }
@@ -4916,7 +7814,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_4",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Goldfish",
       "EUen": "Goldfish",
@@ -4929,7 +7827,7 @@
       "EUnl": "Goudvis",
       "CNzh": "金鱼",
       "TWzh": "金魚",
-      "JPja": "きんぎょ金魚",
+      "JPja": "金魚",
       "KRko": "금붕어",
       "EUru": "Золотая рыбка"
     }
@@ -4937,7 +7835,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_5",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Crane",
       "EUen": "Crane",
@@ -4950,7 +7848,7 @@
       "EUnl": "Kraanvogel",
       "CNzh": "鹤",
       "TWzh": "鶴",
-      "JPja": "つる鶴",
+      "JPja": "鶴",
       "KRko": "학",
       "EUru": "Журавль"
     }
@@ -4958,7 +7856,7 @@
   {
     "id": "Ftr_07047",
     "variant_id": "Ftr_07047_6",
-    "furniture_name": "zen cushion",
+    "ftr_name": "zen cushion",
     "locale": {
       "USen": "Gold",
       "EUen": "Gold",
@@ -4971,15 +7869,351 @@
       "EUnl": "Goud",
       "CNzh": "金色",
       "TWzh": "金",
-      "JPja": "きん金",
+      "JPja": "金",
       "KRko": "금색",
       "EUru": "Золотой"
     }
   },
   {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_0",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Deep blue",
+      "EUen": "Deep blue",
+      "EUde": "Tiefblau",
+      "EUes": "Azul oscuro",
+      "USes": "Azul oscuro",
+      "EUfr": "Bleu roi",
+      "USfr": "Bleu roi",
+      "EUit": "Blu scuro",
+      "EUnl": "Diepblauw",
+      "CNzh": "蓝紫色",
+      "TWzh": "紫藍",
+      "JPja": "紺",
+      "KRko": "진청색",
+      "EUru": "Темно-синий"
+    }
+  },
+  {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_1",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Indigo",
+      "EUen": "Indigo",
+      "EUde": "Indigo",
+      "EUes": "Índigo",
+      "USes": "Índigo",
+      "EUfr": "Indigo",
+      "USfr": "Indigo",
+      "EUit": "Indaco",
+      "EUnl": "Indigo",
+      "CNzh": "蓝色",
+      "TWzh": "藍",
+      "JPja": "藍",
+      "KRko": "쪽빛",
+      "EUru": "Индиго"
+    }
+  },
+  {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_2",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Azuki red",
+      "EUen": "Azuki red",
+      "EUde": "Bordeauxrot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge bordeaux",
+      "USfr": "Rouge bordeaux",
+      "EUit": "Rosso bordeaux",
+      "EUnl": "Azukirood",
+      "CNzh": "红豆",
+      "TWzh": "紅豆",
+      "JPja": "小豆",
+      "KRko": "팥색",
+      "EUru": "Красно-коричневый"
+    }
+  },
+  {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_3",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Deep green",
+      "EUen": "Deep green",
+      "EUde": "Dunkelgrün",
+      "EUes": "Verde oscuro",
+      "USes": "Verde oscuro",
+      "EUfr": "Vert bouteille",
+      "USfr": "Vert bouteille",
+      "EUit": "Verde scuro",
+      "EUnl": "Diepgroen",
+      "CNzh": "深绿色",
+      "TWzh": "深綠",
+      "JPja": "深緑",
+      "KRko": "진녹색",
+      "EUru": "Темно-зеленый"
+    }
+  },
+  {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_4",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Goldfish",
+      "EUen": "Goldfish",
+      "EUde": "Goldfisch",
+      "EUes": "Carpas",
+      "USes": "Carpas",
+      "EUfr": "Poissons rouges",
+      "USfr": "Poissons rouges",
+      "EUit": "Pesci rossi",
+      "EUnl": "Goudvis",
+      "CNzh": "金鱼",
+      "TWzh": "金魚",
+      "JPja": "金魚",
+      "KRko": "금붕어",
+      "EUru": "Золотая рыбка"
+    }
+  },
+  {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_5",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Crane",
+      "EUen": "Crane",
+      "EUde": "Kranich",
+      "EUes": "Grulla",
+      "USes": "Grulla",
+      "EUfr": "Grues",
+      "USfr": "Grues",
+      "EUit": "Gru",
+      "EUnl": "Kraanvogel",
+      "CNzh": "鹤",
+      "TWzh": "鶴",
+      "JPja": "鶴",
+      "KRko": "학",
+      "EUru": "Журавль"
+    }
+  },
+  {
+    "id": "Ftr_07048",
+    "variant_id": "Ftr_07048_6",
+    "ftr_name": "pile of zen cushions",
+    "locale": {
+      "USen": "Gold",
+      "EUen": "Gold",
+      "EUde": "Gold",
+      "EUes": "Dorado",
+      "USes": "Dorado",
+      "EUfr": "Doré",
+      "USfr": "Doré",
+      "EUit": "Oro",
+      "EUnl": "Goud",
+      "CNzh": "金色",
+      "TWzh": "金",
+      "JPja": "金",
+      "KRko": "금색",
+      "EUru": "Золотой"
+    }
+  },
+  {
+    "id": "Ftr_07132",
+    "variant_id": "Ftr_07132_0",
+    "ftr_name": "wooden double bed",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_07132",
+    "variant_id": "Ftr_07132_1",
+    "ftr_name": "wooden double bed",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_07132",
+    "variant_id": "Ftr_07132_2",
+    "ftr_name": "wooden double bed",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_07132",
+    "variant_id": "Ftr_07132_3",
+    "ftr_name": "wooden double bed",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_07133",
+    "variant_id": "Ftr_07133_0",
+    "ftr_name": "wooden mini table",
+    "locale": {
+      "USen": "None",
+      "EUen": "None",
+      "EUde": "Ohne",
+      "EUes": "Ninguno",
+      "USes": "Ninguno",
+      "EUfr": "Sans",
+      "USfr": "Sans",
+      "EUit": "Nessuno",
+      "EUnl": "Geen",
+      "CNzh": "无",
+      "TWzh": "無",
+      "JPja": "なし",
+      "KRko": "없음",
+      "EUru": "Без скатерти"
+    }
+  },
+  {
+    "id": "Ftr_07133",
+    "variant_id": "Ftr_07133_1",
+    "ftr_name": "wooden mini table",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": "Ftr_07133",
+    "variant_id": "Ftr_07133_2",
+    "ftr_name": "wooden mini table",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": "Ftr_07133",
+    "variant_id": "Ftr_07133_3",
+    "ftr_name": "wooden mini table",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_07133",
+    "variant_id": "Ftr_07133_4",
+    "ftr_name": "wooden mini table",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
     "id": "Ftr_07150",
     "variant_id": "Ftr_07150_0",
-    "furniture_name": "blue corner",
+    "ftr_name": "blue corner",
     "locale": {
       "USen": "Green",
       "EUen": "Green",
@@ -5000,7 +8234,7 @@
   {
     "id": "Ftr_07150",
     "variant_id": "Ftr_07150_1",
-    "furniture_name": "blue corner",
+    "ftr_name": "blue corner",
     "locale": {
       "USen": "Red",
       "EUen": "Red",
@@ -5021,7 +8255,7 @@
   {
     "id": "Ftr_07150",
     "variant_id": "Ftr_07150_2",
-    "furniture_name": "blue corner",
+    "ftr_name": "blue corner",
     "locale": {
       "USen": "Blue",
       "EUen": "Blue",
@@ -5042,7 +8276,7 @@
   {
     "id": "Ftr_07150",
     "variant_id": "Ftr_07150_3",
-    "furniture_name": "blue corner",
+    "ftr_name": "blue corner",
     "locale": {
       "USen": "Black",
       "EUen": "Black",
@@ -5063,7 +8297,217 @@
   {
     "id": "Ftr_07150",
     "variant_id": "Ftr_07150_4",
-    "furniture_name": "blue corner",
+    "ftr_name": "blue corner",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_07151",
+    "variant_id": "Ftr_07151_0",
+    "ftr_name": "red corner",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_07151",
+    "variant_id": "Ftr_07151_1",
+    "ftr_name": "red corner",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_07151",
+    "variant_id": "Ftr_07151_2",
+    "ftr_name": "red corner",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_07151",
+    "variant_id": "Ftr_07151_3",
+    "ftr_name": "red corner",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_07151",
+    "variant_id": "Ftr_07151_4",
+    "ftr_name": "red corner",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_07152",
+    "variant_id": "Ftr_07152_0",
+    "ftr_name": "neutral corner",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_07152",
+    "variant_id": "Ftr_07152_1",
+    "ftr_name": "neutral corner",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_07152",
+    "variant_id": "Ftr_07152_2",
+    "ftr_name": "neutral corner",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": "Ftr_07152",
+    "variant_id": "Ftr_07152_3",
+    "ftr_name": "neutral corner",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_07152",
+    "variant_id": "Ftr_07152_4",
+    "ftr_name": "neutral corner",
     "locale": {
       "USen": "Yellow",
       "EUen": "Yellow",
@@ -5084,7 +8528,7 @@
   {
     "id": "Ftr_07282",
     "variant_id": "Ftr_07282_0",
-    "furniture_name": "hanging scroll",
+    "ftr_name": "hanging scroll",
     "locale": {
       "USen": "Calligraphy",
       "EUen": "Calligraphy",
@@ -5097,7 +8541,7 @@
       "EUnl": "Kalligrafie",
       "CNzh": "书法",
       "TWzh": "書法",
-      "JPja": "しょ書",
+      "JPja": "書",
       "KRko": "서예",
       "EUru": "Каллиграфия"
     }
@@ -5105,7 +8549,7 @@
   {
     "id": "Ftr_07282",
     "variant_id": "Ftr_07282_1",
-    "furniture_name": "hanging scroll",
+    "ftr_name": "hanging scroll",
     "locale": {
       "USen": "Mountains",
       "EUen": "Mountains",
@@ -5118,7 +8562,7 @@
       "EUnl": "Bergen",
       "CNzh": "山水",
       "TWzh": "山水",
-      "JPja": "やま山",
+      "JPja": "山",
       "KRko": "산",
       "EUru": "Горы"
     }
@@ -5126,7 +8570,7 @@
   {
     "id": "Ftr_07282",
     "variant_id": "Ftr_07282_2",
-    "furniture_name": "hanging scroll",
+    "ftr_name": "hanging scroll",
     "locale": {
       "USen": "Fish",
       "EUen": "Fish",
@@ -5139,7 +8583,7 @@
       "EUnl": "Vis",
       "CNzh": "鱼",
       "TWzh": "魚",
-      "JPja": "さかな魚",
+      "JPja": "魚",
       "KRko": "물고기",
       "EUru": "Рыба"
     }
@@ -5147,7 +8591,7 @@
   {
     "id": "Ftr_07282",
     "variant_id": "Ftr_07282_3",
-    "furniture_name": "hanging scroll",
+    "ftr_name": "hanging scroll",
     "locale": {
       "USen": "Bird",
       "EUen": "Bird",
@@ -5160,7 +8604,7 @@
       "EUnl": "Vogel",
       "CNzh": "鸡",
       "TWzh": "雞",
-      "JPja": "とり鶏",
+      "JPja": "鶏",
       "KRko": "닭",
       "EUru": "Птица"
     }
@@ -5168,7 +8612,7 @@
   {
     "id": "Ftr_07282",
     "variant_id": "Ftr_07282_4",
-    "furniture_name": "hanging scroll",
+    "ftr_name": "hanging scroll",
     "locale": {
       "USen": "Flower",
       "EUen": "Flower",
@@ -5181,7 +8625,7 @@
       "EUnl": "Bloem",
       "CNzh": "花",
       "TWzh": "花",
-      "JPja": "はな花",
+      "JPja": "花",
       "KRko": "꽃",
       "EUru": "Цветок"
     }
@@ -5189,7 +8633,7 @@
   {
     "id": "Ftr_07531",
     "variant_id": "Ftr_07531_0",
-    "furniture_name": "ironing board",
+    "ftr_name": "ironing board",
     "locale": {
       "USen": "Stripes",
       "EUen": "Stripes",
@@ -5210,7 +8654,7 @@
   {
     "id": "Ftr_07531",
     "variant_id": "Ftr_07531_1",
-    "furniture_name": "ironing board",
+    "ftr_name": "ironing board",
     "locale": {
       "USen": "Checkered",
       "EUen": "Checkered",
@@ -5231,7 +8675,7 @@
   {
     "id": "Ftr_07531",
     "variant_id": "Ftr_07531_2",
-    "furniture_name": "ironing board",
+    "ftr_name": "ironing board",
     "locale": {
       "USen": "Dots",
       "EUen": "Dots",
@@ -5252,7 +8696,7 @@
   {
     "id": "Ftr_07531",
     "variant_id": "Ftr_07531_3",
-    "furniture_name": "ironing board",
+    "ftr_name": "ironing board",
     "locale": {
       "USen": "Leaves",
       "EUen": "Leaves",
@@ -5273,7 +8717,7 @@
   {
     "id": "Ftr_07531",
     "variant_id": "Ftr_07531_4",
-    "furniture_name": "ironing board",
+    "ftr_name": "ironing board",
     "locale": {
       "USen": "Triangles",
       "EUen": "Triangles",
@@ -5294,7 +8738,7 @@
   {
     "id": "Ftr_07681",
     "variant_id": "Ftr_07681_0",
-    "furniture_name": "loom",
+    "ftr_name": "loom",
     "locale": {
       "USen": "Checkered",
       "EUen": "Checkered",
@@ -5307,7 +8751,7 @@
       "EUnl": "Geruit",
       "CNzh": "格子",
       "TWzh": "格紋",
-      "JPja": "こうし格子",
+      "JPja": "格子",
       "KRko": "격자무늬",
       "EUru": "Шахматный узор"
     }
@@ -5315,7 +8759,7 @@
   {
     "id": "Ftr_07681",
     "variant_id": "Ftr_07681_1",
-    "furniture_name": "loom",
+    "ftr_name": "loom",
     "locale": {
       "USen": "Goldfish",
       "EUen": "Goldfish",
@@ -5328,7 +8772,7 @@
       "EUnl": "Goudvis",
       "CNzh": "金鱼",
       "TWzh": "金魚",
-      "JPja": "きんぎょ金魚",
+      "JPja": "金魚",
       "KRko": "금붕어",
       "EUru": "Золотая рыбка"
     }
@@ -5336,7 +8780,7 @@
   {
     "id": "Ftr_07681",
     "variant_id": "Ftr_07681_2",
-    "furniture_name": "loom",
+    "ftr_name": "loom",
     "locale": {
       "USen": "Camellia",
       "EUen": "Camellia",
@@ -5349,7 +8793,7 @@
       "EUnl": "Camellia",
       "CNzh": "山茶",
       "TWzh": "山茶花",
-      "JPja": "つばき椿",
+      "JPja": "椿",
       "KRko": "동백나무",
       "EUru": "Камелия"
     }
@@ -5357,7 +8801,7 @@
   {
     "id": "Ftr_07681",
     "variant_id": "Ftr_07681_3",
-    "furniture_name": "loom",
+    "ftr_name": "loom",
     "locale": {
       "USen": "Chain print",
       "EUen": "Chain print",
@@ -5370,7 +8814,91 @@
       "EUnl": "Ketens",
       "CNzh": "锁",
       "TWzh": "鎖",
-      "JPja": "くさり鎖",
+      "JPja": "鎖",
+      "KRko": "사슬",
+      "EUru": "Цепи"
+    }
+  },
+  {
+    "id": "Ftr_07682",
+    "variant_id": "Ftr_07682_0",
+    "ftr_name": "kimono stand",
+    "locale": {
+      "USen": "Checkered",
+      "EUen": "Checkered",
+      "EUde": "Karos",
+      "EUes": "Cuadros",
+      "USes": "Cuadros",
+      "EUfr": "À carreaux",
+      "USfr": "À carreaux",
+      "EUit": "Quadri",
+      "EUnl": "Geruit",
+      "CNzh": "格子",
+      "TWzh": "格紋",
+      "JPja": "格子",
+      "KRko": "격자무늬",
+      "EUru": "Шахматный узор"
+    }
+  },
+  {
+    "id": "Ftr_07682",
+    "variant_id": "Ftr_07682_1",
+    "ftr_name": "kimono stand",
+    "locale": {
+      "USen": "Goldfish",
+      "EUen": "Goldfish",
+      "EUde": "Goldfisch",
+      "EUes": "Carpas",
+      "USes": "Carpas",
+      "EUfr": "Poissons",
+      "USfr": "Poissons",
+      "EUit": "Pesci rossi",
+      "EUnl": "Goudvis",
+      "CNzh": "金鱼",
+      "TWzh": "金魚",
+      "JPja": "金魚",
+      "KRko": "금붕어",
+      "EUru": "Золотая рыбка"
+    }
+  },
+  {
+    "id": "Ftr_07682",
+    "variant_id": "Ftr_07682_2",
+    "ftr_name": "kimono stand",
+    "locale": {
+      "USen": "Camellia",
+      "EUen": "Camellia",
+      "EUde": "Kamelie",
+      "EUes": "Camelia",
+      "USes": "Camelia",
+      "EUfr": "Camélias",
+      "USfr": "Camélias",
+      "EUit": "Camelie",
+      "EUnl": "Camellia",
+      "CNzh": "山茶",
+      "TWzh": "山茶花",
+      "JPja": "椿",
+      "KRko": "동백나무",
+      "EUru": "Камелия"
+    }
+  },
+  {
+    "id": "Ftr_07682",
+    "variant_id": "Ftr_07682_3",
+    "ftr_name": "kimono stand",
+    "locale": {
+      "USen": "Chain print",
+      "EUen": "Chain print",
+      "EUde": "Ketten",
+      "EUes": "Cadenas",
+      "USes": "Cadenas",
+      "EUfr": "Motif chaînes",
+      "USfr": "Motif chaînes",
+      "EUit": "Catene",
+      "EUnl": "Ketens",
+      "CNzh": "锁",
+      "TWzh": "鎖",
+      "JPja": "鎖",
       "KRko": "사슬",
       "EUru": "Цепи"
     }
@@ -5378,7 +8906,7 @@
   {
     "id": "Ftr_07802",
     "variant_id": "Ftr_07802_0",
-    "furniture_name": "pet bed",
+    "ftr_name": "pet bed",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -5399,7 +8927,7 @@
   {
     "id": "Ftr_07802",
     "variant_id": "Ftr_07802_1",
-    "furniture_name": "pet bed",
+    "ftr_name": "pet bed",
     "locale": {
       "USen": "Moss green",
       "EUen": "Moss green",
@@ -5420,7 +8948,7 @@
   {
     "id": "Ftr_07802",
     "variant_id": "Ftr_07802_2",
-    "furniture_name": "pet bed",
+    "ftr_name": "pet bed",
     "locale": {
       "USen": "Polka dots",
       "EUen": "Polka dots",
@@ -5433,7 +8961,7 @@
       "EUnl": "Polkadots",
       "CNzh": "圆点图案",
       "TWzh": "圓點圖案",
-      "JPja": "みずたまがら水玉柄",
+      "JPja": "水玉柄",
       "KRko": "물방울무늬",
       "EUru": "Горошек"
     }
@@ -5441,7 +8969,7 @@
   {
     "id": "Ftr_07802",
     "variant_id": "Ftr_07802_3",
-    "furniture_name": "pet bed",
+    "ftr_name": "pet bed",
     "locale": {
       "USen": "Checkered",
       "EUen": "Checkered",
@@ -5454,7 +8982,7 @@
       "EUnl": "Geruit",
       "CNzh": "格子图案",
       "TWzh": "格子圖案",
-      "JPja": "チェックがら柄",
+      "JPja": "チェック柄",
       "KRko": "체크무늬",
       "EUru": "Шахматный узор"
     }
@@ -5462,7 +8990,7 @@
   {
     "id": "Ftr_07802",
     "variant_id": "Ftr_07802_4",
-    "furniture_name": "pet bed",
+    "ftr_name": "pet bed",
     "locale": {
       "USen": "Floral",
       "EUen": "Floral",
@@ -5475,7 +9003,7 @@
       "EUnl": "Gebloemd",
       "CNzh": "小花图案",
       "TWzh": "碎花圖案",
-      "JPja": "こはながら子花柄",
+      "JPja": "子花柄",
       "KRko": "잔꽃무늬",
       "EUru": "Цветы"
     }
@@ -5483,7 +9011,7 @@
   {
     "id": "Ftr_08096",
     "variant_id": "Ftr_08096_0",
-    "furniture_name": "record box",
+    "ftr_name": "record box",
     "locale": {
       "USen": "None",
       "EUen": "None",
@@ -5504,7 +9032,7 @@
   {
     "id": "Ftr_08096",
     "variant_id": "Ftr_08096_1",
-    "furniture_name": "record box",
+    "ftr_name": "record box",
     "locale": {
       "USen": "Logo",
       "EUen": "Logo",
@@ -5525,7 +9053,7 @@
   {
     "id": "Ftr_08096",
     "variant_id": "Ftr_08096_2",
-    "furniture_name": "record box",
+    "ftr_name": "record box",
     "locale": {
       "USen": "Sunset",
       "EUen": "Sunset",
@@ -5546,7 +9074,7 @@
   {
     "id": "Ftr_08096",
     "variant_id": "Ftr_08096_3",
-    "furniture_name": "record box",
+    "ftr_name": "record box",
     "locale": {
       "USen": "Various",
       "EUen": "Various",
@@ -5567,7 +9095,7 @@
   {
     "id": "Ftr_08298",
     "variant_id": "Ftr_08298_0",
-    "furniture_name": "bunk bed",
+    "ftr_name": "bunk bed",
     "locale": {
       "USen": "White",
       "EUen": "White",
@@ -5588,7 +9116,7 @@
   {
     "id": "Ftr_08298",
     "variant_id": "Ftr_08298_1",
-    "furniture_name": "bunk bed",
+    "ftr_name": "bunk bed",
     "locale": {
       "USen": "Striped",
       "EUen": "Striped",
@@ -5609,7 +9137,7 @@
   {
     "id": "Ftr_08298",
     "variant_id": "Ftr_08298_2",
-    "furniture_name": "bunk bed",
+    "ftr_name": "bunk bed",
     "locale": {
       "USen": "Checkered",
       "EUen": "Checkered",
@@ -5630,7 +9158,7 @@
   {
     "id": "Ftr_08298",
     "variant_id": "Ftr_08298_3",
-    "furniture_name": "bunk bed",
+    "ftr_name": "bunk bed",
     "locale": {
       "USen": "Space",
       "EUen": "Space",
@@ -5651,7 +9179,7 @@
   {
     "id": "Ftr_08298",
     "variant_id": "Ftr_08298_4",
-    "furniture_name": "bunk bed",
+    "ftr_name": "bunk bed",
     "locale": {
       "USen": "Colorful lines",
       "EUen": "Colorful lines",
@@ -5672,7 +9200,7 @@
   {
     "id": "Ftr_12410",
     "variant_id": "Ftr_12410_0",
-    "furniture_name": "wedding welcome board",
+    "ftr_name": "wedding welcome board",
     "locale": {
       "USen": "Message",
       "EUen": "Message",
@@ -5693,7 +9221,7 @@
   {
     "id": "Ftr_12410",
     "variant_id": "Ftr_12410_1",
-    "furniture_name": "wedding welcome board",
+    "ftr_name": "wedding welcome board",
     "locale": {
       "USen": "Reese & Cyrus",
       "EUen": "Reese & Cyrus",

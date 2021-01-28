@@ -180,6 +180,26 @@
     }
   },
   {
+    "id": "GroundhogDay",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Groundhog Day",
+      "EUen": "Groundhog Day",
+      "EUde": "Murmeltiertag",
+      "EUes": "Día de la Marmota",
+      "USes": "Día de la Marmota",
+      "EUfr": "Jour de la marmotte",
+      "USfr": "Jour de la marmotte",
+      "EUit": "Dì della marmotta",
+      "EUnl": "Bosmarmottendag",
+      "CNzh": "土拨鼠日",
+      "TWzh": "土撥鼠日",
+      "JPja": "グラウンドホッグデー",
+      "KRko": "그라운드호그 데이",
+      "EUru": "День сурка"
+    }
+  },
+  {
     "id": "GyurouSyokujyo",
     "version": "1.4.0",
     "locale": {
@@ -440,6 +460,86 @@
     }
   },
   {
+    "id": "RegionBigGame",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Big Game Celebration",
+      "EUen": "Big Game Celebration",
+      "EUde": "Football-Finale",
+      "EUes": "Gran final deportiva",
+      "USes": "Gran final deportiva",
+      "EUfr": "Match au sommet",
+      "USfr": "Soir de finale",
+      "EUit": "Notte della grande partita",
+      "EUnl": "Americanfootballfeest",
+      "CNzh": "大比赛",
+      "TWzh": "Big Game",
+      "JPja": "ビッグゲーム",
+      "KRko": "빅 게임",
+      "EUru": "Решающий матч"
+    }
+  },
+  {
+    "id": "RegionBigGame2",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Big Game Celebration",
+      "EUen": "Big Game Celebration",
+      "EUde": "Football-Finale",
+      "EUes": "Gran final deportiva",
+      "USes": "Gran final deportiva",
+      "EUfr": "Match au sommet",
+      "USfr": "Soir de finale",
+      "EUit": "Notte della grande partita",
+      "EUnl": "Americanfootballfeest",
+      "CNzh": "大比赛",
+      "TWzh": "Big Game",
+      "JPja": "ビッグゲーム",
+      "KRko": "빅 게임",
+      "EUru": "Решающий матч"
+    }
+  },
+  {
+    "id": "RegionLunarNewYearAsia",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Lunar New Year",
+      "EUen": "Lunar New Year",
+      "EUde": "Mondneujahr",
+      "EUes": "Año Nuevo Lunar",
+      "USes": "Año Nuevo Lunar",
+      "EUfr": "Nouvel an lunaire",
+      "USfr": "Nouvel An lunaire",
+      "EUit": "Capodanno lunare",
+      "EUnl": "Maannieuwjaar",
+      "CNzh": "春节",
+      "TWzh": "春節",
+      "JPja": "春節",
+      "KRko": "춘절",
+      "EUru": "Лунный Новый год"
+    }
+  },
+  {
+    "id": "RegionLunarNewYearKR",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Seollal",
+      "EUen": "Seollal",
+      "EUde": "Seollal",
+      "EUes": "Seollal",
+      "USes": "Seollal",
+      "EUfr": "Seollal",
+      "USfr": "Seollal",
+      "EUit": "Seollal",
+      "EUnl": "Seollal",
+      "CNzh": "韩国新年",
+      "TWzh": "韓國新年",
+      "JPja": "ソルラル",
+      "KRko": "설날",
+      "EUru": "Соллаль"
+    }
+  },
+  {
     "id": "RegionNewYear",
     "version": "1.6.0",
     "locale": {
@@ -500,6 +600,26 @@
     }
   },
   {
+    "id": "RegionValentine",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Valentine's Day",
+      "EUen": "Valentine's Day",
+      "EUde": "Valentinstag",
+      "EUes": "Día de los Enamorados",
+      "USes": "Día de los Enamorados",
+      "EUfr": "Saint-Valentin",
+      "USfr": "Saint-Valentin",
+      "EUit": "San Valentino",
+      "EUnl": "Valentijnsdag",
+      "CNzh": "情人节",
+      "TWzh": "情人節",
+      "JPja": "バレンタインデー",
+      "KRko": "밸런타인 데이",
+      "EUru": "День Валентина"
+    }
+  },
+  {
     "id": "RoshiaNewYear",
     "version": "1.6.0",
     "locale": {
@@ -517,6 +637,26 @@
       "JPja": "New Year",
       "KRko": "새해",
       "EUru": "Новый год"
+    }
+  },
+  {
+    "id": "Setsubun",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Setsubun",
+      "EUen": "Setsubun",
+      "EUde": "Setsubun",
+      "EUes": "Setsubun",
+      "USes": "Setsubun",
+      "EUfr": "Setsubun",
+      "USfr": "Setsubun",
+      "EUit": "Setsubun",
+      "EUnl": "Setsubun",
+      "CNzh": "节分",
+      "TWzh": "節分",
+      "JPja": "節分",
+      "KRko": "세츠분",
+      "EUru": "Сэцубун"
     }
   },
   {

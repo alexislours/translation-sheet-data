@@ -798,5 +798,45 @@
       "KRko": "할로윈 울타리",
       "EUru": "жуткие заборы"
     }
+  },
+  {
+    "id": "Fence_14278",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "mermaid fence",
+      "EUen": "mermaid fence",
+      "EUde": "Nixenzaun",
+      "EUes": "valla sirena",
+      "USes": "valla sirena",
+      "EUfr": "clôture sirène",
+      "USfr": "clôture sirène",
+      "EUit": "recinzione sirena",
+      "EUnl": "meerminnenhek",
+      "CNzh": "人鱼栅栏",
+      "TWzh": "人魚柵欄",
+      "JPja": "マーメイドなさく",
+      "KRko": "머메이드 울타리",
+      "EUru": "забор русалки"
+    }
+  },
+  {
+    "id": "Fence_14278_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "mermaid fencing",
+      "EUen": "mermaid fencing",
+      "EUde": "Nixenzaun",
+      "EUes": "vallas sirena",
+      "USes": "vallas sirena",
+      "EUfr": "clôture sirène",
+      "USfr": "clôture sirène",
+      "EUit": "recinzioni sirena",
+      "EUnl": "meerminnenhek",
+      "CNzh": "人鱼栅栏",
+      "TWzh": "人魚柵欄",
+      "JPja": "マーメイドなさく",
+      "KRko": "머메이드 울타리",
+      "EUru": "заборы русалки"
+    }
   }
 ]

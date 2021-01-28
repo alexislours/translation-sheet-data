@@ -1,175 +1,7 @@
 [
   {
-    "id": 7511,
-    "Cloth Name": "knitted-grass backpack",
-    "variant_id": "1000_Bag_07511",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 7512,
-    "Cloth Name": "hard-shell backpack",
-    "variant_id": "1001_Bag_07512",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 10184,
-    "Cloth Name": "hard-shell backpack",
-    "variant_id": "1001_Bag_10184",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 11946,
-    "Cloth Name": "hard-shell backpack",
-    "variant_id": "1001_Bag_11946",
-    "locale": {
-      "USen": "Silver",
-      "EUen": "Silver",
-      "EUde": "Silber",
-      "EUes": "Plateado",
-      "USes": "Plateado",
-      "EUfr": "Argent",
-      "USfr": "Argent",
-      "EUit": "Argentato",
-      "EUnl": "Zilver",
-      "CNzh": "银色",
-      "TWzh": "銀色",
-      "JPja": "シルバー",
-      "KRko": "실버",
-      "EUru": "Серебряный"
-    }
-  },
-  {
-    "id": 9761,
-    "Cloth Name": "Nook Inc. knapsack",
-    "variant_id": "1150_Bag_09761",
-    "locale": {
-      "USen": "Brown",
-      "EUen": "Brown",
-      "EUde": "Braun",
-      "EUes": "Marrón",
-      "USes": "Marrón",
-      "EUfr": "Brun",
-      "USfr": "Brun",
-      "EUit": "Marrone",
-      "EUnl": "Bruin",
-      "CNzh": "棕色",
-      "TWzh": "棕色",
-      "JPja": "ブラウン",
-      "KRko": "브라운",
-      "EUru": "Коричневый"
-    }
-  },
-  {
-    "id": 12131,
-    "Cloth Name": "DAL backpack",
-    "variant_id": "1185_Bag_12131",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 12447,
-    "Cloth Name": "Bunny Day bag",
-    "variant_id": "1203_Bag_12447",
-    "locale": {
-      "USen": "Colorful",
-      "EUen": "Colorful",
-      "EUde": "Bunt",
-      "EUes": "Multicolor",
-      "USes": "Multicolor",
-      "EUfr": "Multicolore",
-      "USfr": "Multicolore",
-      "EUit": "Variopinto",
-      "EUnl": "Veelkleurig",
-      "CNzh": "彩色",
-      "TWzh": "彩色",
-      "JPja": "カラフル",
-      "KRko": "컬러풀",
-      "EUru": "Яркий"
-    }
-  },
-  {
-    "id": 12797,
-    "Cloth Name": "grape-harvest basket",
-    "variant_id": "1233_Bag_12797",
-    "locale": {
-      "USen": "Brown",
-      "EUen": "Brown",
-      "EUde": "Braun",
-      "EUes": "Marrón",
-      "USes": "Marrón",
-      "EUfr": "Brun",
-      "USfr": "Brun",
-      "EUit": "Marrone",
-      "EUnl": "Bruin",
-      "CNzh": "棕色",
-      "TWzh": "棕色",
-      "JPja": "ブラウン",
-      "KRko": "브라운",
-      "EUru": "Коричневый"
-    }
-  },
-  {
-    "id": 6838,
-    "Cloth Name": "town backpack",
+    "id": 957,
+    "cloth_name": "town backpack",
     "variant_id": "957_Bag_06838",
     "locale": {
       "USen": "Green",
@@ -189,8 +21,8 @@
     }
   },
   {
-    "id": 6839,
-    "Cloth Name": "town backpack",
+    "id": 957,
+    "cloth_name": "town backpack",
     "variant_id": "957_Bag_06839",
     "locale": {
       "USen": "Orange",
@@ -210,8 +42,8 @@
     }
   },
   {
-    "id": 11944,
-    "Cloth Name": "town backpack",
+    "id": 957,
+    "cloth_name": "town backpack",
     "variant_id": "957_Bag_11944",
     "locale": {
       "USen": "Blue",
@@ -231,8 +63,8 @@
     }
   },
   {
-    "id": 11945,
-    "Cloth Name": "town backpack",
+    "id": 957,
+    "cloth_name": "town backpack",
     "variant_id": "957_Bag_11945",
     "locale": {
       "USen": "Red",
@@ -252,8 +84,8 @@
     }
   },
   {
-    "id": 2550,
-    "Cloth Name": "travel pouch",
+    "id": 958,
+    "cloth_name": "travel pouch",
     "variant_id": "958_Bag_02550",
     "locale": {
       "USen": "Pink",
@@ -273,8 +105,8 @@
     }
   },
   {
-    "id": 12000,
-    "Cloth Name": "travel pouch",
+    "id": 958,
+    "cloth_name": "travel pouch",
     "variant_id": "958_Bag_12000",
     "locale": {
       "USen": "Green",
@@ -294,8 +126,8 @@
     }
   },
   {
-    "id": 12001,
-    "Cloth Name": "travel pouch",
+    "id": 958,
+    "cloth_name": "travel pouch",
     "variant_id": "958_Bag_12001",
     "locale": {
       "USen": "Light blue",
@@ -315,8 +147,8 @@
     }
   },
   {
-    "id": 12002,
-    "Cloth Name": "travel pouch",
+    "id": 958,
+    "cloth_name": "travel pouch",
     "variant_id": "958_Bag_12002",
     "locale": {
       "USen": "Purple",
@@ -336,8 +168,8 @@
     }
   },
   {
-    "id": 7470,
-    "Cloth Name": "messenger bag",
+    "id": 962,
+    "cloth_name": "messenger bag",
     "variant_id": "962_Bag_07470",
     "locale": {
       "USen": "Green",
@@ -357,8 +189,8 @@
     }
   },
   {
-    "id": 11978,
-    "Cloth Name": "messenger bag",
+    "id": 962,
+    "cloth_name": "messenger bag",
     "variant_id": "962_Bag_11978",
     "locale": {
       "USen": "Orange",
@@ -378,8 +210,8 @@
     }
   },
   {
-    "id": 11979,
-    "Cloth Name": "messenger bag",
+    "id": 962,
+    "cloth_name": "messenger bag",
     "variant_id": "962_Bag_11979",
     "locale": {
       "USen": "Black",
@@ -399,8 +231,8 @@
     }
   },
   {
-    "id": 7471,
-    "Cloth Name": "dry bag",
+    "id": 963,
+    "cloth_name": "dry bag",
     "variant_id": "963_Bag_07471",
     "locale": {
       "USen": "Yellow",
@@ -420,8 +252,8 @@
     }
   },
   {
-    "id": 11964,
-    "Cloth Name": "dry bag",
+    "id": 963,
+    "cloth_name": "dry bag",
     "variant_id": "963_Bag_11964",
     "locale": {
       "USen": "Blue",
@@ -441,8 +273,8 @@
     }
   },
   {
-    "id": 7476,
-    "Cloth Name": "pleather shoulder bag",
+    "id": 964,
+    "cloth_name": "pleather shoulder bag",
     "variant_id": "964_Bag_07476",
     "locale": {
       "USen": "Brown",
@@ -462,8 +294,8 @@
     }
   },
   {
-    "id": 12009,
-    "Cloth Name": "pleather shoulder bag",
+    "id": 964,
+    "cloth_name": "pleather shoulder bag",
     "variant_id": "964_Bag_12009",
     "locale": {
       "USen": "Navy blue",
@@ -483,8 +315,8 @@
     }
   },
   {
-    "id": 7477,
-    "Cloth Name": "fish pochette",
+    "id": 965,
+    "cloth_name": "fish pochette",
     "variant_id": "965_Bag_07477",
     "locale": {
       "USen": "Blue",
@@ -504,8 +336,8 @@
     }
   },
   {
-    "id": 7478,
-    "Cloth Name": "tackle bag",
+    "id": 966,
+    "cloth_name": "tackle bag",
     "variant_id": "966_Bag_07478",
     "locale": {
       "USen": "Blue",
@@ -525,8 +357,8 @@
     }
   },
   {
-    "id": 7479,
-    "Cloth Name": "bug cage",
+    "id": 967,
+    "cloth_name": "bug cage",
     "variant_id": "967_Bag_07479",
     "locale": {
       "USen": "Green",
@@ -546,8 +378,8 @@
     }
   },
   {
-    "id": 7480,
-    "Cloth Name": "faux-fur bag",
+    "id": 968,
+    "cloth_name": "faux-fur bag",
     "variant_id": "968_Bag_07480",
     "locale": {
       "USen": "Pink",
@@ -567,8 +399,8 @@
     }
   },
   {
-    "id": 12003,
-    "Cloth Name": "faux-fur bag",
+    "id": 968,
+    "cloth_name": "faux-fur bag",
     "variant_id": "968_Bag_12003",
     "locale": {
       "USen": "Purple",
@@ -588,8 +420,8 @@
     }
   },
   {
-    "id": 7481,
-    "Cloth Name": "pleather fringe bag",
+    "id": 969,
+    "cloth_name": "pleather fringe bag",
     "variant_id": "969_Bag_07481",
     "locale": {
       "USen": "Camel",
@@ -609,8 +441,8 @@
     }
   },
   {
-    "id": 12010,
-    "Cloth Name": "pleather fringe bag",
+    "id": 969,
+    "cloth_name": "pleather fringe bag",
     "variant_id": "969_Bag_12010",
     "locale": {
       "USen": "White",
@@ -630,8 +462,8 @@
     }
   },
   {
-    "id": 7482,
-    "Cloth Name": "hand-knit pouch",
+    "id": 970,
+    "cloth_name": "hand-knit pouch",
     "variant_id": "970_Bag_07482",
     "locale": {
       "USen": "Green",
@@ -651,8 +483,8 @@
     }
   },
   {
-    "id": 12004,
-    "Cloth Name": "hand-knit pouch",
+    "id": 970,
+    "cloth_name": "hand-knit pouch",
     "variant_id": "970_Bag_12004",
     "locale": {
       "USen": "Purple",
@@ -672,8 +504,8 @@
     }
   },
   {
-    "id": 7483,
-    "Cloth Name": "crossbody bag",
+    "id": 971,
+    "cloth_name": "crossbody bag",
     "variant_id": "971_Bag_07483",
     "locale": {
       "USen": "Pink",
@@ -693,8 +525,8 @@
     }
   },
   {
-    "id": 11980,
-    "Cloth Name": "crossbody bag",
+    "id": 971,
+    "cloth_name": "crossbody bag",
     "variant_id": "971_Bag_11980",
     "locale": {
       "USen": "Green",
@@ -714,8 +546,8 @@
     }
   },
   {
-    "id": 11981,
-    "Cloth Name": "crossbody bag",
+    "id": 971,
+    "cloth_name": "crossbody bag",
     "variant_id": "971_Bag_11981",
     "locale": {
       "USen": "Yellow",
@@ -735,8 +567,8 @@
     }
   },
   {
-    "id": 11982,
-    "Cloth Name": "crossbody bag",
+    "id": 971,
+    "cloth_name": "crossbody bag",
     "variant_id": "971_Bag_11982",
     "locale": {
       "USen": "White",
@@ -756,8 +588,8 @@
     }
   },
   {
-    "id": 7484,
-    "Cloth Name": "pleather crossbody bag",
+    "id": 972,
+    "cloth_name": "pleather crossbody bag",
     "variant_id": "972_Bag_07484",
     "locale": {
       "USen": "Navy blue",
@@ -777,8 +609,8 @@
     }
   },
   {
-    "id": 12005,
-    "Cloth Name": "pleather crossbody bag",
+    "id": 972,
+    "cloth_name": "pleather crossbody bag",
     "variant_id": "972_Bag_12005",
     "locale": {
       "USen": "Black",
@@ -798,8 +630,8 @@
     }
   },
   {
-    "id": 7485,
-    "Cloth Name": "crossbody boston bag",
+    "id": 973,
+    "cloth_name": "crossbody boston bag",
     "variant_id": "973_Bag_07485",
     "locale": {
       "USen": "Red",
@@ -819,8 +651,8 @@
     }
   },
   {
-    "id": 12011,
-    "Cloth Name": "crossbody boston bag",
+    "id": 973,
+    "cloth_name": "crossbody boston bag",
     "variant_id": "973_Bag_12011",
     "locale": {
       "USen": "Blue",
@@ -840,8 +672,8 @@
     }
   },
   {
-    "id": 7486,
-    "Cloth Name": "gumdrop shoulder bag",
+    "id": 974,
+    "cloth_name": "gumdrop shoulder bag",
     "variant_id": "974_Bag_07486",
     "locale": {
       "USen": "Pop",
@@ -861,8 +693,8 @@
     }
   },
   {
-    "id": 12012,
-    "Cloth Name": "gumdrop shoulder bag",
+    "id": 974,
+    "cloth_name": "gumdrop shoulder bag",
     "variant_id": "974_Bag_12012",
     "locale": {
       "USen": "Cool",
@@ -882,8 +714,8 @@
     }
   },
   {
-    "id": 7487,
-    "Cloth Name": "cloth shoulder bag",
+    "id": 975,
+    "cloth_name": "cloth shoulder bag",
     "variant_id": "975_Bag_07487",
     "locale": {
       "USen": "Blue",
@@ -903,8 +735,8 @@
     }
   },
   {
-    "id": 12013,
-    "Cloth Name": "cloth shoulder bag",
+    "id": 975,
+    "cloth_name": "cloth shoulder bag",
     "variant_id": "975_Bag_12013",
     "locale": {
       "USen": "Orange",
@@ -924,8 +756,8 @@
     }
   },
   {
-    "id": 12014,
-    "Cloth Name": "cloth shoulder bag",
+    "id": 975,
+    "cloth_name": "cloth shoulder bag",
     "variant_id": "975_Bag_12014",
     "locale": {
       "USen": "Ivory",
@@ -945,8 +777,8 @@
     }
   },
   {
-    "id": 7488,
-    "Cloth Name": "straw pochette",
+    "id": 976,
+    "cloth_name": "straw pochette",
     "variant_id": "976_Bag_07488",
     "locale": {
       "USen": "Brown",
@@ -966,8 +798,8 @@
     }
   },
   {
-    "id": 7489,
-    "Cloth Name": "star pochette",
+    "id": 977,
+    "cloth_name": "star pochette",
     "variant_id": "977_Bag_07489",
     "locale": {
       "USen": "Yellow",
@@ -987,8 +819,8 @@
     }
   },
   {
-    "id": 7490,
-    "Cloth Name": "cherry-blossom pochette",
+    "id": 978,
+    "cloth_name": "cherry-blossom pochette",
     "variant_id": "978_Bag_07490",
     "locale": {
       "USen": "Pink",
@@ -1008,8 +840,8 @@
     }
   },
   {
-    "id": 7491,
-    "Cloth Name": "maple-leaf pochette",
+    "id": 979,
+    "cloth_name": "maple-leaf pochette",
     "variant_id": "979_Bag_07491",
     "locale": {
       "USen": "Red",
@@ -1029,8 +861,8 @@
     }
   },
   {
-    "id": 7492,
-    "Cloth Name": "acorn pochette",
+    "id": 980,
+    "cloth_name": "acorn pochette",
     "variant_id": "980_Bag_07492",
     "locale": {
       "USen": "Brown",
@@ -1050,8 +882,8 @@
     }
   },
   {
-    "id": 7493,
-    "Cloth Name": "snowflake pochette",
+    "id": 981,
+    "cloth_name": "snowflake pochette",
     "variant_id": "981_Bag_07493",
     "locale": {
       "USen": "White",
@@ -1071,8 +903,8 @@
     }
   },
   {
-    "id": 7494,
-    "Cloth Name": "shellfish pochette",
+    "id": 982,
+    "cloth_name": "shellfish pochette",
     "variant_id": "982_Bag_07494",
     "locale": {
       "USen": "White",
@@ -1092,8 +924,8 @@
     }
   },
   {
-    "id": 7497,
-    "Cloth Name": "tool bag",
+    "id": 983,
+    "cloth_name": "tool bag",
     "variant_id": "983_Bag_07497",
     "locale": {
       "USen": "Black",
@@ -1113,8 +945,8 @@
     }
   },
   {
-    "id": 7302,
-    "Cloth Name": "retro sports bag",
+    "id": 984,
+    "cloth_name": "retro sports bag",
     "variant_id": "984_Bag_07302",
     "locale": {
       "USen": "Blue",
@@ -1134,8 +966,8 @@
     }
   },
   {
-    "id": 12007,
-    "Cloth Name": "retro sports bag",
+    "id": 984,
+    "cloth_name": "retro sports bag",
     "variant_id": "984_Bag_12007",
     "locale": {
       "USen": "Red",
@@ -1155,8 +987,8 @@
     }
   },
   {
-    "id": 12008,
-    "Cloth Name": "retro sports bag",
+    "id": 984,
+    "cloth_name": "retro sports bag",
     "variant_id": "984_Bag_12008",
     "locale": {
       "USen": "Black",
@@ -1176,8 +1008,8 @@
     }
   },
   {
-    "id": 7304,
-    "Cloth Name": "sacoche bag",
+    "id": 985,
+    "cloth_name": "sacoche bag",
     "variant_id": "985_Bag_07304",
     "locale": {
       "USen": "Blue",
@@ -1197,8 +1029,8 @@
     }
   },
   {
-    "id": 11974,
-    "Cloth Name": "sacoche bag",
+    "id": 985,
+    "cloth_name": "sacoche bag",
     "variant_id": "985_Bag_11974",
     "locale": {
       "USen": "Red",
@@ -1218,8 +1050,8 @@
     }
   },
   {
-    "id": 11975,
-    "Cloth Name": "sacoche bag",
+    "id": 985,
+    "cloth_name": "sacoche bag",
     "variant_id": "985_Bag_11975",
     "locale": {
       "USen": "Black",
@@ -1239,8 +1071,8 @@
     }
   },
   {
-    "id": 7305,
-    "Cloth Name": "evening bag",
+    "id": 986,
+    "cloth_name": "evening bag",
     "variant_id": "986_Bag_07305",
     "locale": {
       "USen": "Pink",
@@ -1260,8 +1092,8 @@
     }
   },
   {
-    "id": 11976,
-    "Cloth Name": "evening bag",
+    "id": 986,
+    "cloth_name": "evening bag",
     "variant_id": "986_Bag_11976",
     "locale": {
       "USen": "Blue",
@@ -1281,8 +1113,8 @@
     }
   },
   {
-    "id": 11977,
-    "Cloth Name": "evening bag",
+    "id": 986,
+    "cloth_name": "evening bag",
     "variant_id": "986_Bag_11977",
     "locale": {
       "USen": "Black",
@@ -1302,8 +1134,8 @@
     }
   },
   {
-    "id": 7498,
-    "Cloth Name": "log pack",
+    "id": 987,
+    "cloth_name": "log pack",
     "variant_id": "987_Bag_07498",
     "locale": {
       "USen": "Brown",
@@ -1323,8 +1155,8 @@
     }
   },
   {
-    "id": 7499,
-    "Cloth Name": "traveler's backpack",
+    "id": 988,
+    "cloth_name": "traveler's backpack",
     "variant_id": "988_Bag_07499",
     "locale": {
       "USen": "Orange",
@@ -1344,8 +1176,8 @@
     }
   },
   {
-    "id": 11965,
-    "Cloth Name": "traveler's backpack",
+    "id": 988,
+    "cloth_name": "traveler's backpack",
     "variant_id": "988_Bag_11965",
     "locale": {
       "USen": "Blue",
@@ -1365,8 +1197,8 @@
     }
   },
   {
-    "id": 11966,
-    "Cloth Name": "traveler's backpack",
+    "id": 988,
+    "cloth_name": "traveler's backpack",
     "variant_id": "988_Bag_11966",
     "locale": {
       "USen": "Brown",
@@ -1386,8 +1218,8 @@
     }
   },
   {
-    "id": 7500,
-    "Cloth Name": "square backpack",
+    "id": 989,
+    "cloth_name": "square backpack",
     "variant_id": "989_Bag_07500",
     "locale": {
       "USen": "Yellow",
@@ -1407,8 +1239,8 @@
     }
   },
   {
-    "id": 11967,
-    "Cloth Name": "square backpack",
+    "id": 989,
+    "cloth_name": "square backpack",
     "variant_id": "989_Bag_11967",
     "locale": {
       "USen": "Pink",
@@ -1428,8 +1260,8 @@
     }
   },
   {
-    "id": 11968,
-    "Cloth Name": "square backpack",
+    "id": 989,
+    "cloth_name": "square backpack",
     "variant_id": "989_Bag_11968",
     "locale": {
       "USen": "Green",
@@ -1449,8 +1281,8 @@
     }
   },
   {
-    "id": 7501,
-    "Cloth Name": "outdoor backpack",
+    "id": 990,
+    "cloth_name": "outdoor backpack",
     "variant_id": "990_Bag_07501",
     "locale": {
       "USen": "Avocado",
@@ -1470,8 +1302,8 @@
     }
   },
   {
-    "id": 11969,
-    "Cloth Name": "outdoor backpack",
+    "id": 990,
+    "cloth_name": "outdoor backpack",
     "variant_id": "990_Bag_11969",
     "locale": {
       "USen": "Orange",
@@ -1491,8 +1323,8 @@
     }
   },
   {
-    "id": 11970,
-    "Cloth Name": "outdoor backpack",
+    "id": 990,
+    "cloth_name": "outdoor backpack",
     "variant_id": "990_Bag_11970",
     "locale": {
       "USen": "Navy blue",
@@ -1512,8 +1344,8 @@
     }
   },
   {
-    "id": 7502,
-    "Cloth Name": "butterfly backpack",
+    "id": 991,
+    "cloth_name": "butterfly backpack",
     "variant_id": "991_Bag_07502",
     "locale": {
       "USen": "Pink",
@@ -1533,8 +1365,8 @@
     }
   },
   {
-    "id": 7503,
-    "Cloth Name": "studded backpack",
+    "id": 992,
+    "cloth_name": "studded backpack",
     "variant_id": "992_Bag_07503",
     "locale": {
       "USen": "Black",
@@ -1554,8 +1386,8 @@
     }
   },
   {
-    "id": 12006,
-    "Cloth Name": "studded backpack",
+    "id": 992,
+    "cloth_name": "studded backpack",
     "variant_id": "992_Bag_12006",
     "locale": {
       "USen": "White",
@@ -1575,8 +1407,8 @@
     }
   },
   {
-    "id": 7504,
-    "Cloth Name": "mini pleather bag",
+    "id": 993,
+    "cloth_name": "mini pleather bag",
     "variant_id": "993_Bag_07504",
     "locale": {
       "USen": "White",
@@ -1596,8 +1428,8 @@
     }
   },
   {
-    "id": 12015,
-    "Cloth Name": "mini pleather bag",
+    "id": 993,
+    "cloth_name": "mini pleather bag",
     "variant_id": "993_Bag_12015",
     "locale": {
       "USen": "Black",
@@ -1617,8 +1449,8 @@
     }
   },
   {
-    "id": 7505,
-    "Cloth Name": "extra-large backpack",
+    "id": 994,
+    "cloth_name": "extra-large backpack",
     "variant_id": "994_Bag_07505",
     "locale": {
       "USen": "Red",
@@ -1638,8 +1470,8 @@
     }
   },
   {
-    "id": 11971,
-    "Cloth Name": "extra-large backpack",
+    "id": 994,
+    "cloth_name": "extra-large backpack",
     "variant_id": "994_Bag_11971",
     "locale": {
       "USen": "Green",
@@ -1659,8 +1491,8 @@
     }
   },
   {
-    "id": 11972,
-    "Cloth Name": "extra-large backpack",
+    "id": 994,
+    "cloth_name": "extra-large backpack",
     "variant_id": "994_Bag_11972",
     "locale": {
       "USen": "Black",
@@ -1680,8 +1512,8 @@
     }
   },
   {
-    "id": 11973,
-    "Cloth Name": "extra-large backpack",
+    "id": 994,
+    "cloth_name": "extra-large backpack",
     "variant_id": "994_Bag_11973",
     "locale": {
       "USen": "Blue",
@@ -1701,8 +1533,8 @@
     }
   },
   {
-    "id": 7506,
-    "Cloth Name": "basket pack",
+    "id": 995,
+    "cloth_name": "basket pack",
     "variant_id": "995_Bag_07506",
     "locale": {
       "USen": "Green",
@@ -1722,8 +1554,8 @@
     }
   },
   {
-    "id": 7507,
-    "Cloth Name": "foldover-top backpack",
+    "id": 996,
+    "cloth_name": "foldover-top backpack",
     "variant_id": "996_Bag_07507",
     "locale": {
       "USen": "Green",
@@ -1743,8 +1575,8 @@
     }
   },
   {
-    "id": 12016,
-    "Cloth Name": "foldover-top backpack",
+    "id": 996,
+    "cloth_name": "foldover-top backpack",
     "variant_id": "996_Bag_12016",
     "locale": {
       "USen": "Blue",
@@ -1764,8 +1596,8 @@
     }
   },
   {
-    "id": 12017,
-    "Cloth Name": "foldover-top backpack",
+    "id": 996,
+    "cloth_name": "foldover-top backpack",
     "variant_id": "996_Bag_12017",
     "locale": {
       "USen": "Gray",
@@ -1785,8 +1617,8 @@
     }
   },
   {
-    "id": 12018,
-    "Cloth Name": "foldover-top backpack",
+    "id": 996,
+    "cloth_name": "foldover-top backpack",
     "variant_id": "996_Bag_12018",
     "locale": {
       "USen": "Pink",
@@ -1806,8 +1638,8 @@
     }
   },
   {
-    "id": 7508,
-    "Cloth Name": "knapsack",
+    "id": 997,
+    "cloth_name": "knapsack",
     "variant_id": "997_Bag_07508",
     "locale": {
       "USen": "Blue",
@@ -1827,8 +1659,8 @@
     }
   },
   {
-    "id": 12019,
-    "Cloth Name": "knapsack",
+    "id": 997,
+    "cloth_name": "knapsack",
     "variant_id": "997_Bag_12019",
     "locale": {
       "USen": "Black",
@@ -1848,8 +1680,8 @@
     }
   },
   {
-    "id": 7509,
-    "Cloth Name": "canvas backpack",
+    "id": 998,
+    "cloth_name": "canvas backpack",
     "variant_id": "998_Bag_07509",
     "locale": {
       "USen": "White",
@@ -1869,8 +1701,8 @@
     }
   },
   {
-    "id": 7510,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_07510",
     "locale": {
       "USen": "M",
@@ -1890,8 +1722,8 @@
     }
   },
   {
-    "id": 12148,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12148",
     "locale": {
       "USen": "Flowers",
@@ -1911,8 +1743,8 @@
     }
   },
   {
-    "id": 12149,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12149",
     "locale": {
       "USen": "Polka dots",
@@ -1932,8 +1764,8 @@
     }
   },
   {
-    "id": 12150,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12150",
     "locale": {
       "USen": "Colorful quilt design",
@@ -1953,8 +1785,8 @@
     }
   },
   {
-    "id": 12151,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12151",
     "locale": {
       "USen": "Cherries",
@@ -1974,8 +1806,8 @@
     }
   },
   {
-    "id": 12152,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12152",
     "locale": {
       "USen": "Denim with stripes",
@@ -1995,8 +1827,8 @@
     }
   },
   {
-    "id": 12153,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12153",
     "locale": {
       "USen": "Forest print",
@@ -2016,8 +1848,8 @@
     }
   },
   {
-    "id": 12154,
-    "Cloth Name": "Mom's knapsack",
+    "id": 999,
+    "cloth_name": "Mom's knapsack",
     "variant_id": "999_Bag_12154",
     "locale": {
       "USen": "Chick",
@@ -2034,6 +1866,300 @@
       "JPja": "ヒヨコ",
       "KRko": "병아리",
       "EUru": "Цыпленок"
+    }
+  },
+  {
+    "id": 1000,
+    "cloth_name": "knitted-grass backpack",
+    "variant_id": "1000_Bag_07511",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1001,
+    "cloth_name": "hard-shell backpack",
+    "variant_id": "1001_Bag_07512",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1001,
+    "cloth_name": "hard-shell backpack",
+    "variant_id": "1001_Bag_10184",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1001,
+    "cloth_name": "hard-shell backpack",
+    "variant_id": "1001_Bag_11946",
+    "locale": {
+      "USen": "Silver",
+      "EUen": "Silver",
+      "EUde": "Silber",
+      "EUes": "Plateado",
+      "USes": "Plateado",
+      "EUfr": "Argent",
+      "USfr": "Argent",
+      "EUit": "Argentato",
+      "EUnl": "Zilver",
+      "CNzh": "银色",
+      "TWzh": "銀色",
+      "JPja": "シルバー",
+      "KRko": "실버",
+      "EUru": "Серебряный"
+    }
+  },
+  {
+    "id": 1150,
+    "cloth_name": "Nook Inc. knapsack",
+    "variant_id": "1150_Bag_09761",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 1185,
+    "cloth_name": "DAL backpack",
+    "variant_id": "1185_Bag_12131",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1203,
+    "cloth_name": "Bunny Day bag",
+    "variant_id": "1203_Bag_12447",
+    "locale": {
+      "USen": "Colorful",
+      "EUen": "Colorful",
+      "EUde": "Bunt",
+      "EUes": "Multicolor",
+      "USes": "Multicolor",
+      "EUfr": "Multicolore",
+      "USfr": "Multicolore",
+      "EUit": "Variopinto",
+      "EUnl": "Veelkleurig",
+      "CNzh": "彩色",
+      "TWzh": "彩色",
+      "JPja": "カラフル",
+      "KRko": "컬러풀",
+      "EUru": "Яркий"
+    }
+  },
+  {
+    "id": 1233,
+    "cloth_name": "grape-harvest basket",
+    "variant_id": "1233_Bag_12797",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 1268,
+    "cloth_name": "impish wings",
+    "variant_id": "1268_Bag_13015",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1268,
+    "cloth_name": "impish wings",
+    "variant_id": "1268_Bag_13408",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1268,
+    "cloth_name": "impish wings",
+    "variant_id": "1268_Bag_13409",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1268,
+    "cloth_name": "impish wings",
+    "variant_id": "1268_Bag_13410",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1268,
+    "cloth_name": "impish wings",
+    "variant_id": "1268_Bag_13411",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1268,
+    "cloth_name": "impish wings",
+    "variant_id": "1268_Bag_13412",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
     }
   }
 ]

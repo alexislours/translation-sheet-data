@@ -2140,6 +2140,26 @@
     }
   },
   {
+    "id": 1013,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale accessory",
+      "EUen": "Festivale accessory",
+      "EUde": "Karnevalsschmuck",
+      "EUes": "tocado de Carnaval",
+      "USes": "tocado de Carnaval",
+      "EUfr": "coiffe de carnaval",
+      "USfr": "coiffe de carnaval",
+      "EUit": "copricapo Carnevale",
+      "EUnl": "carnavalshoofdtooi",
+      "CNzh": "狂欢节发饰",
+      "TWzh": "狂歡節髮飾",
+      "JPja": "カーニバルなかみかざり",
+      "KRko": "카니발 머리 장식",
+      "EUru": "карнавальный аксессуар"
+    }
+  },
+  {
     "id": 1014,
     "version": "1.0.0",
     "locale": {

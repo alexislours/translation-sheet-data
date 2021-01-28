@@ -1,7 +1,7 @@
 [
   {
     "id": 12970,
-    "Cloth Name": "Nook Inc. wet suit",
+    "cloth_name": "Nook Inc. wet suit",
     "variant_id": "1258_MarineSuit_12970",
     "locale": {
       "USen": "Green",
@@ -22,7 +22,7 @@
   },
   {
     "id": 12981,
-    "Cloth Name": "leaf-print wet suit",
+    "cloth_name": "leaf-print wet suit",
     "variant_id": "1259_MarineSuit_12981",
     "locale": {
       "USen": "Light blue",
@@ -43,7 +43,7 @@
   },
   {
     "id": 13098,
-    "Cloth Name": "leaf-print wet suit",
+    "cloth_name": "leaf-print wet suit",
     "variant_id": "1259_MarineSuit_13098",
     "locale": {
       "USen": "Purple",
@@ -64,7 +64,7 @@
   },
   {
     "id": 13099,
-    "Cloth Name": "leaf-print wet suit",
+    "cloth_name": "leaf-print wet suit",
     "variant_id": "1259_MarineSuit_13099",
     "locale": {
       "USen": "Yellow",
@@ -85,7 +85,7 @@
   },
   {
     "id": 13100,
-    "Cloth Name": "leaf-print wet suit",
+    "cloth_name": "leaf-print wet suit",
     "variant_id": "1259_MarineSuit_13100",
     "locale": {
       "USen": "Green",
@@ -106,7 +106,7 @@
   },
   {
     "id": 12986,
-    "Cloth Name": "horizontal-striped wet suit",
+    "cloth_name": "horizontal-striped wet suit",
     "variant_id": "1260_MarineSuit_12986",
     "locale": {
       "USen": "Red",
@@ -127,7 +127,7 @@
   },
   {
     "id": 13101,
-    "Cloth Name": "horizontal-striped wet suit",
+    "cloth_name": "horizontal-striped wet suit",
     "variant_id": "1260_MarineSuit_13101",
     "locale": {
       "USen": "Blue",
@@ -148,7 +148,7 @@
   },
   {
     "id": 13102,
-    "Cloth Name": "horizontal-striped wet suit",
+    "cloth_name": "horizontal-striped wet suit",
     "variant_id": "1260_MarineSuit_13102",
     "locale": {
       "USen": "Yellow",
@@ -169,7 +169,7 @@
   },
   {
     "id": 13103,
-    "Cloth Name": "horizontal-striped wet suit",
+    "cloth_name": "horizontal-striped wet suit",
     "variant_id": "1260_MarineSuit_13103",
     "locale": {
       "USen": "Black",

@@ -898,5 +898,25 @@
       "KRko": "일본 금줄 장식",
       "EUru": "новогодний симэкадзари"
     }
+  },
+  {
+    "id": "DoorDeco_14032",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Lunar New Year decoration",
+      "EUen": "Lunar New Year decoration",
+      "EUde": "Mondneujahr-Dekoration",
+      "EUes": "adorno Año Nuevo Lunar",
+      "USes": "adorno Año Nuevo Lunar",
+      "EUfr": "déco de nouvel an lunaire",
+      "USfr": "déco de Nouvel An lunaire",
+      "EUit": "decoraz. Capodanno lunare",
+      "EUnl": "maannieuwjaarversiering",
+      "CNzh": "春节门饰",
+      "TWzh": "春節門飾",
+      "JPja": "しゅんせつのドアかざり",
+      "KRko": "춘절 복 장식",
+      "EUru": "узор (лунный Новый год)"
+    }
   }
 ]

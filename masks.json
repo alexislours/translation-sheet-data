@@ -170,7 +170,7 @@
       "USes": "gorro de kappa",
       "EUfr": "cagoule kappa",
       "USfr": "cagoule kappa",
-      "EUit": "cappello da tartaruga",
+      "EUit": "cappello da kappa",
       "EUnl": "kappa-muts",
       "CNzh": "河童头套",
       "TWzh": "河童頭頂",
@@ -217,6 +217,26 @@
       "JPja": "カエルのかぶりもの",
       "KRko": "개구리 모자",
       "EUru": "шапка лягушки"
+    }
+  },
+  {
+    "id": 691,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "horned-ogre mask",
+      "EUen": "horned-ogre mask",
+      "EUde": "Ogermaske",
+      "EUes": "careta de ogro",
+      "USes": "careta de ogro",
+      "EUfr": "masque d'ogre cornu",
+      "USfr": "masque d'ogre cornu",
+      "EUit": "maschera da orco",
+      "EUnl": "gehoornd boemanmasker",
+      "CNzh": "鬼面具",
+      "TWzh": "鬼面具",
+      "JPja": "オニのおめん",
+      "KRko": "도깨비 가면",
+      "EUru": "маска великана-людоеда"
     }
   },
   {
@@ -615,7 +635,7 @@
       "CNzh": "驯鹿帽子",
       "TWzh": "馴鹿帽子",
       "JPja": "トナカイのぼうし",
-      "KRko": "루돌프 모자",
+      "KRko": "순록 모자",
       "EUru": "шапка оленя"
     }
   },
@@ -1317,6 +1337,26 @@
       "JPja": "パンプキングフェイス",
       "KRko": "펌킹 페이스",
       "EUru": "шлем Джека"
+    }
+  },
+  {
+    "id": 1343,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "okame mask",
+      "EUen": "okame mask",
+      "EUde": "Okame-Maske",
+      "EUes": "máscara de Okame",
+      "USes": "máscara de Okame",
+      "EUfr": "masque okame",
+      "USfr": "masque okame",
+      "EUit": "maschera da Okame",
+      "EUnl": "okame-masker",
+      "CNzh": "阿龟面具",
+      "TWzh": "阿龜面具",
+      "JPja": "おかめのおめん",
+      "KRko": "복을 부르는 가면",
+      "EUru": "маска окамэ"
     }
   }
 ]

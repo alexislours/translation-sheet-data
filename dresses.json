@@ -990,7 +990,7 @@
       "USes": "disfraz de kappa",
       "EUfr": "costume de kappa",
       "USfr": "costume de kappa",
-      "EUit": "costume da tartaruga",
+      "EUit": "costume da kappa",
       "EUnl": "kappa-pak",
       "CNzh": "河童装",
       "TWzh": "河童裝",
@@ -2675,7 +2675,7 @@
       "CNzh": "驯鹿装",
       "TWzh": "馴鹿服",
       "JPja": "トナカイなふく",
-      "KRko": "루돌프 의상",
+      "KRko": "순록 의상",
       "EUru": "костюм оленя"
     }
   },
@@ -3417,6 +3417,26 @@
       "JPja": "チャイナドレス",
       "KRko": "차이나 드레스",
       "EUru": "шелковое платье"
+    }
+  },
+  {
+    "id": 584,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "ogre costume",
+      "EUen": "ogre costume",
+      "EUde": "Ogerkostüm",
+      "EUes": "disfraz de ogro",
+      "USes": "disfraz de ogro",
+      "EUfr": "costume d'ogre",
+      "USfr": "costume d'ogre",
+      "EUit": "costume da orco",
+      "EUnl": "boemanpak",
+      "CNzh": "鬼怪服",
+      "TWzh": "鬼怪服",
+      "JPja": "オニのふく",
+      "KRko": "도깨비 옷",
+      "EUru": "костюм людоеда"
     }
   },
   {
@@ -4600,6 +4620,26 @@
     }
   },
   {
+    "id": 1162,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale tank dress",
+      "EUen": "Festivale tank dress",
+      "EUde": "Karnevalskleid",
+      "EUes": "vestido de Carnaval",
+      "USes": "vestido de Carnaval",
+      "EUfr": "robe d'été carnaval",
+      "USfr": "robe d'été carnaval",
+      "EUit": "scamiciato Carnevale",
+      "EUnl": "carnavalsjurk",
+      "CNzh": "狂欢节连身裙",
+      "TWzh": "狂歡節連身裙",
+      "JPja": "カーニバルなワンピース",
+      "KRko": "카니발 원피스",
+      "EUru": "карнавальное платье"
+    }
+  },
+  {
     "id": 1204,
     "version": "1.1.0",
     "locale": {
@@ -4977,6 +5017,26 @@
       "JPja": "まほうスクールのローブ",
       "KRko": "마법 학교 로브",
       "EUru": "наряд академии магов"
+    }
+  },
+  {
+    "id": 1344,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale costume",
+      "EUen": "Festivale costume",
+      "EUde": "Karnevalstracht",
+      "EUes": "traje de Carnaval",
+      "USes": "traje de Carnaval",
+      "EUfr": "costume de carnaval",
+      "USfr": "costume de carnaval",
+      "EUit": "costume Carnevale",
+      "EUnl": "carnavalskostuum",
+      "CNzh": "狂欢节服装",
+      "TWzh": "狂歡節服裝",
+      "JPja": "カーニバルなコスチューム",
+      "KRko": "카니발 의상",
+      "EUru": "карнавальный костюм"
     }
   }
 ]

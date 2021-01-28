@@ -5650,7 +5650,7 @@
       "USes": "calefactor cilíndrico",
       "EUfr": "chauffage cylindrique",
       "USfr": "chauffage cylindrique",
-      "EUit": "stufetta bianca cilindrica",
+      "EUit": "stufetta cilindrica",
       "EUnl": "ronde straalkachel",
       "CNzh": "圆形暖炉",
       "TWzh": "圓形暖爐",
@@ -17940,6 +17940,26 @@
     }
   },
   {
+    "id": "Ftr_13488",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "chocolate heart",
+      "EUen": "chocolate heart",
+      "EUde": "Schokoladenherz",
+      "EUes": "caja bombones Enamorados",
+      "USes": "caja de chocolates corazón",
+      "EUfr": "cœur en chocolat",
+      "USfr": "cœur en chocolat",
+      "EUit": "ciocco-cuore",
+      "EUnl": "chocoladehart",
+      "CNzh": "心形巧克力",
+      "TWzh": "愛心巧克力",
+      "JPja": "ハートのチョコレート",
+      "KRko": "하트 초콜릿",
+      "EUru": "сердце из шоколада"
+    }
+  },
+  {
     "id": "Ftr_13490",
     "version": "1.6.0",
     "locale": {
@@ -17977,6 +17997,206 @@
       "JPja": "2021ねんのアーチ",
       "KRko": "2021년 아치",
       "EUru": "новогодняя арка 2021"
+    }
+  },
+  {
+    "id": "Ftr_13767",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale garland",
+      "EUen": "Festivale garland",
+      "EUde": "Karnevalsgirlande",
+      "EUes": "guirnalda de Carnaval",
+      "USes": "guirnalda de Carnaval",
+      "EUfr": "guirlande de carnaval",
+      "USfr": "guirlande de carnaval",
+      "EUit": "festone Carnevale",
+      "EUnl": "carnavalsslinger",
+      "CNzh": "狂欢节挂饰",
+      "TWzh": "狂歡節掛旗",
+      "JPja": "カーニバルなガーランド",
+      "KRko": "카니발 가랜드",
+      "EUru": "карнавальная гирлянда"
+    }
+  },
+  {
+    "id": "Ftr_13770",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale parasol",
+      "EUen": "Festivale parasol",
+      "EUde": "Karnevalsschirm",
+      "EUes": "parasol de Carnaval",
+      "USes": "parasol de Carnaval",
+      "EUfr": "parasol de carnaval",
+      "USfr": "parasol de carnaval",
+      "EUit": "parasole Carnevale",
+      "EUnl": "carnavalsparasol",
+      "CNzh": "狂欢节阳伞",
+      "TWzh": "狂歡節陽傘",
+      "JPja": "カーニバルなパラソル",
+      "KRko": "카니발 파라솔",
+      "EUru": "карнавальный зонт"
+    }
+  },
+  {
+    "id": "Ftr_13771",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale float",
+      "EUen": "Festivale float",
+      "EUde": "Karnevalswagen",
+      "EUes": "carroza de Carnaval",
+      "USes": "carroza de Carnaval",
+      "EUfr": "char de carnaval",
+      "USfr": "char de carnaval",
+      "EUit": "carro Carnevale",
+      "EUnl": "carnavalspraalwagen",
+      "CNzh": "狂欢节花车",
+      "TWzh": "狂歡節花車",
+      "JPja": "カーニバルなフロート",
+      "KRko": "카니발 플로트",
+      "EUru": "карнавальная повозка"
+    }
+  },
+  {
+    "id": "Ftr_13772",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale balloon lamp",
+      "EUen": "Festivale balloon lamp",
+      "EUde": "Karnevalsballonlampe",
+      "EUes": "lámpara globo de Carnaval",
+      "USes": "lámpara globo de Carnaval",
+      "EUfr": "lampe ballon carnaval",
+      "USfr": "lampe ballon carnaval",
+      "EUit": "globo luminoso Carnevale",
+      "EUnl": "carnavalsballonlamp",
+      "CNzh": "狂欢节气球灯",
+      "TWzh": "狂歡節氣球燈",
+      "JPja": "カーニバルなバルーンランプ",
+      "KRko": "카니발 풍선 램프",
+      "EUru": "карнавальная лампа-шар"
+    }
+  },
+  {
+    "id": "Ftr_13773",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale stall",
+      "EUen": "Festivale stall",
+      "EUde": "Karnevalsstand",
+      "EUes": "tenderete de Carnaval",
+      "USes": "puesto de Carnaval",
+      "EUfr": "stand de carnaval",
+      "USfr": "kiosque de carnaval",
+      "EUit": "bancarella Carnevale",
+      "EUnl": "carnavalskraampje",
+      "CNzh": "狂欢节小吃摊",
+      "TWzh": "狂歡節路邊攤",
+      "JPja": "カーニバルなやたい",
+      "KRko": "카니발 가판대",
+      "EUru": "карнавальный лоток"
+    }
+  },
+  {
+    "id": "Ftr_13774",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale drum",
+      "EUen": "Festivale drum",
+      "EUde": "Karnevalstrommel",
+      "EUes": "tambor de Carnaval",
+      "USes": "tambor de Carnaval",
+      "EUfr": "tambour de carnaval",
+      "USfr": "tambour de carnaval",
+      "EUit": "tamburo Carnevale",
+      "EUnl": "carnavalstrommel",
+      "CNzh": "狂欢节打击乐器",
+      "TWzh": "狂歡節打擊樂器",
+      "JPja": "カーニバルなパーカッション",
+      "KRko": "카니발 퍼커션",
+      "EUru": "карнавальный барабан"
+    }
+  },
+  {
+    "id": "Ftr_13775",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale stage",
+      "EUen": "Festivale stage",
+      "EUde": "Karnevalsbühne",
+      "EUes": "escenario de Carnaval",
+      "USes": "escenario de Carnaval",
+      "EUfr": "scène de carnaval",
+      "USfr": "scène de carnaval",
+      "EUit": "palcoscenico Carnevale",
+      "EUnl": "carnavalspodium",
+      "CNzh": "狂欢节舞台",
+      "TWzh": "狂歡節舞台",
+      "JPja": "カーニバルなステージ",
+      "KRko": "카니발 스테이지",
+      "EUru": "карнавальная сцена"
+    }
+  },
+  {
+    "id": "Ftr_13776",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale confetti machine",
+      "EUen": "Festivale confetti machine",
+      "EUde": "Karnevalskonfettimaschine",
+      "EUes": "cañón de confeti Carnaval",
+      "USes": "cañón de confeti Carnaval",
+      "EUfr": "canon à confettis carnaval",
+      "USfr": "canon à confettis carnaval",
+      "EUit": "lanciacoriandoli Carnevale",
+      "EUnl": "carnavalsconfettimachine",
+      "CNzh": "狂欢节撒纸片机",
+      "TWzh": "狂歡節撒紙片機",
+      "JPja": "カーニバルなかみふぶきマシン",
+      "KRko": "카니발 꽃가루 머신",
+      "EUru": "карнав. конфетти-пушка"
+    }
+  },
+  {
+    "id": "Ftr_13777",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale lamp",
+      "EUen": "Festivale lamp",
+      "EUde": "Karnevalslampe",
+      "EUes": "lamparita de Carnaval",
+      "USes": "lamparita de Carnaval",
+      "EUfr": "lampe carnaval",
+      "USfr": "lampe carnaval",
+      "EUit": "lampada Carnevale",
+      "EUnl": "carnavalslamp",
+      "CNzh": "狂欢节灯",
+      "TWzh": "狂歡節燈",
+      "JPja": "カーニバルなランプ",
+      "KRko": "카니발 램프",
+      "EUru": "карнавальная лампа"
+    }
+  },
+  {
+    "id": "Ftr_13778",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale flag",
+      "EUen": "Festivale flag",
+      "EUde": "Karnevalsfahne",
+      "EUes": "estandarte de Carnaval",
+      "USes": "estandarte de Carnaval",
+      "EUfr": "drapeau de carnaval",
+      "USfr": "drapeau de carnaval",
+      "EUit": "stendardo Carnevale",
+      "EUnl": "carnavalsvaandel",
+      "CNzh": "狂欢节旗子",
+      "TWzh": "狂歡節旗子",
+      "JPja": "カーニバルなフラッグ",
+      "KRko": "카니발 플래그",
+      "EUru": "карнавальный флаг"
     }
   },
   {
@@ -18028,8 +18248,8 @@
       "EUde": "Schlemmfest-Bräter",
       "EUes": "cazuela Día del Pavo",
       "USes": "cazuela Día del Pavo",
-      "EUfr": "plat à gratin jour du partage",
-      "USfr": "plat à gratin jour du partage",
+      "EUfr": "plat à gratin fête du partage",
+      "USfr": "plat à gratin fête du partage",
       "EUit": "casseruola primizie",
       "EUnl": "smakenfestijnpan",
       "CNzh": "感恩节砂锅炖菜",
@@ -18080,6 +18300,26 @@
     }
   },
   {
+    "id": "Ftr_13867",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Resetti model",
+      "EUen": "Resetti model",
+      "EUde": "Resetti-Figur",
+      "EUes": "mini Rese T. Ado",
+      "USes": "mini Rese T. Ado",
+      "EUfr": "figurine de Resetti",
+      "USfr": "figurine de Resetti",
+      "EUit": "modellino di Resetti",
+      "EUnl": "model-Resetti",
+      "CNzh": "土拨鼠模型",
+      "TWzh": "土撥鼠模型",
+      "JPja": "グラウンドホッグのもけい",
+      "KRko": "그라운드호그 모형",
+      "EUru": "модель Ресетти"
+    }
+  },
+  {
     "id": "Ftr_13930",
     "version": "1.6.0",
     "locale": {
@@ -18097,6 +18337,26 @@
       "JPja": "かべかけソックス",
       "KRko": "벽걸이 양말",
       "EUru": "набор носков"
+    }
+  },
+  {
+    "id": "Ftr_14029",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "heart-shaped bouquet",
+      "EUen": "heart-shaped bouquet",
+      "EUde": "Herz-Bouquet",
+      "EUes": "ramo de flores Enamorados",
+      "USes": "ramo de flores corazón",
+      "EUfr": "bouquet en forme de cœur",
+      "USfr": "bouquet en forme de cœur",
+      "EUit": "bouquet a cuore",
+      "EUnl": "hartvormig boeket",
+      "CNzh": "心形玫瑰花束",
+      "TWzh": "愛心玫瑰花束",
+      "JPja": "ハートのバラブーケ",
+      "KRko": "하트 장미 꽃다발",
+      "EUru": "букет в форме сердца"
     }
   }
 ]

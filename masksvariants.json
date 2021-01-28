@@ -1,259 +1,7 @@
 [
   {
-    "id": 6092,
-    "Cloth Name": "tiara hair",
-    "variant_id": "1008_Helmet_06092",
-    "locale": {
-      "USen": "Silver",
-      "EUen": "Silver",
-      "EUde": "Silber",
-      "EUes": "Plateado",
-      "USes": "Plateado",
-      "EUfr": "Argent",
-      "USfr": "Argent",
-      "EUit": "Argentato",
-      "EUnl": "Zilver",
-      "CNzh": "银色",
-      "TWzh": "銀色",
-      "JPja": "シルバー",
-      "KRko": "실버",
-      "EUru": "Серебряный"
-    }
-  },
-  {
-    "id": 9749,
-    "Cloth Name": "tiara hair",
-    "variant_id": "1008_Helmet_09749",
-    "locale": {
-      "USen": "Gold",
-      "EUen": "Gold",
-      "EUde": "Gold",
-      "EUes": "Dorado",
-      "USes": "Dorado",
-      "EUfr": "Or",
-      "USfr": "Or",
-      "EUit": "Dorato",
-      "EUnl": "Goud",
-      "CNzh": "金色",
-      "TWzh": "金色",
-      "JPja": "ゴールド",
-      "KRko": "골드",
-      "EUru": "Золотой"
-    }
-  },
-  {
-    "id": 9750,
-    "Cloth Name": "tiara hair",
-    "variant_id": "1008_Helmet_09750",
-    "locale": {
-      "USen": "Rose gold",
-      "EUen": "Rose gold",
-      "EUde": "Rosagold",
-      "EUes": "Oro rosa",
-      "USes": "Oro rosa",
-      "EUfr": "Or rose",
-      "USfr": "Or rose",
-      "EUit": "Oro rosa",
-      "EUnl": "Roségoud",
-      "CNzh": "粉金色",
-      "TWzh": "玫瑰金",
-      "JPja": "ピンクゴ ールド",
-      "KRko": "핑크 골드",
-      "EUru": "Розовое золото"
-    }
-  },
-  {
-    "id": 6093,
-    "Cloth Name": "headband",
-    "variant_id": "1009_Helmet_06093",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 11894,
-    "Cloth Name": "headband",
-    "variant_id": "1009_Helmet_11894",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 11895,
-    "Cloth Name": "headband",
-    "variant_id": "1009_Helmet_11895",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 11896,
-    "Cloth Name": "headband",
-    "variant_id": "1009_Helmet_11896",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 6091,
-    "Cloth Name": "coin headpiece",
-    "variant_id": "1010_Helmet_06091",
-    "locale": {
-      "USen": "Gold",
-      "EUen": "Gold",
-      "EUde": "Gold",
-      "EUes": "Dorado",
-      "USes": "Dorado",
-      "EUfr": "Or",
-      "USfr": "Or",
-      "EUit": "Dorato",
-      "EUnl": "Goud",
-      "CNzh": "金色",
-      "TWzh": "金色",
-      "JPja": "ゴールド",
-      "KRko": "골드",
-      "EUru": "Золотой"
-    }
-  },
-  {
-    "id": 5819,
-    "Cloth Name": "pigtail",
-    "variant_id": "1011_Helmet_05819",
-    "locale": {
-      "USen": "Hair Color",
-      "EUen": "Hair Color",
-      "EUde": "Haarfarbe",
-      "EUes": "Color del pelo",
-      "USes": "Color del pelo",
-      "EUfr": "Couleur de cheveux",
-      "USfr": "Couleur de cheveux",
-      "EUit": "Colore dei capelli",
-      "EUnl": "Haarkleur",
-      "CNzh": "发色",
-      "TWzh": "頭髮顏色",
-      "JPja": "ヘアカラー",
-      "KRko": "헤어 컬러",
-      "EUru": "Цвет волос"
-    }
-  },
-  {
-    "id": 5832,
-    "Cloth Name": "visual-punk wig",
-    "variant_id": "1012_Helmet_05832",
-    "locale": {
-      "USen": "Hair Color",
-      "EUen": "Hair Color",
-      "EUde": "Haarfarbe",
-      "EUes": "Color del pelo",
-      "USes": "Color del pelo",
-      "EUfr": "Couleur de cheveux",
-      "USfr": "Couleur de cheveux",
-      "EUit": "Colore dei capelli",
-      "EUnl": "Haarkleur",
-      "CNzh": "发色",
-      "TWzh": "頭髮顏色",
-      "JPja": "ヘアカラー",
-      "KRko": "헤어 컬러",
-      "EUru": "Цвет волос"
-    }
-  },
-  {
-    "id": 8609,
-    "Cloth Name": "snowperson head",
-    "variant_id": "1040_Helmet_08609",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": 9862,
-    "Cloth Name": "star head",
-    "variant_id": "1113_Helmet_09862",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 5322,
-    "Cloth Name": "headkerchief",
+    "id": 674,
+    "cloth_name": "headkerchief",
     "variant_id": "674_Helmet_05322",
     "locale": {
       "USen": "Green",
@@ -273,8 +21,8 @@
     }
   },
   {
-    "id": 5323,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_05323",
     "locale": {
       "USen": "Red",
@@ -294,8 +42,8 @@
     }
   },
   {
-    "id": 11836,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11836",
     "locale": {
       "USen": "Pink",
@@ -315,8 +63,8 @@
     }
   },
   {
-    "id": 11837,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11837",
     "locale": {
       "USen": "Yellow",
@@ -336,8 +84,8 @@
     }
   },
   {
-    "id": 11838,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11838",
     "locale": {
       "USen": "Green",
@@ -357,8 +105,8 @@
     }
   },
   {
-    "id": 11839,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11839",
     "locale": {
       "USen": "Blue",
@@ -378,8 +126,8 @@
     }
   },
   {
-    "id": 11840,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11840",
     "locale": {
       "USen": "Light blue",
@@ -399,8 +147,8 @@
     }
   },
   {
-    "id": 11841,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11841",
     "locale": {
       "USen": "Light green",
@@ -420,8 +168,8 @@
     }
   },
   {
-    "id": 11842,
-    "Cloth Name": "fairy-tale hood",
+    "id": 675,
+    "cloth_name": "fairy-tale hood",
     "variant_id": "675_Helmet_11842",
     "locale": {
       "USen": "Orange",
@@ -441,8 +189,8 @@
     }
   },
   {
-    "id": 5324,
-    "Cloth Name": "mummy mask",
+    "id": 676,
+    "cloth_name": "mummy mask",
     "variant_id": "676_Helmet_05324",
     "locale": {
       "USen": "White",
@@ -462,8 +210,8 @@
     }
   },
   {
-    "id": 5325,
-    "Cloth Name": "bunny hood",
+    "id": 677,
+    "cloth_name": "bunny hood",
     "variant_id": "677_Helmet_05325",
     "locale": {
       "USen": "Pink",
@@ -483,8 +231,8 @@
     }
   },
   {
-    "id": 11700,
-    "Cloth Name": "bunny hood",
+    "id": 677,
+    "cloth_name": "bunny hood",
     "variant_id": "677_Helmet_11700",
     "locale": {
       "USen": "Yellow",
@@ -504,8 +252,8 @@
     }
   },
   {
-    "id": 11701,
-    "Cloth Name": "bunny hood",
+    "id": 677,
+    "cloth_name": "bunny hood",
     "variant_id": "677_Helmet_11701",
     "locale": {
       "USen": "White",
@@ -525,8 +273,8 @@
     }
   },
   {
-    "id": 5326,
-    "Cloth Name": "cat cap",
+    "id": 678,
+    "cloth_name": "cat cap",
     "variant_id": "678_Helmet_05326",
     "locale": {
       "USen": "Navy blue",
@@ -546,8 +294,8 @@
     }
   },
   {
-    "id": 11702,
-    "Cloth Name": "cat cap",
+    "id": 678,
+    "cloth_name": "cat cap",
     "variant_id": "678_Helmet_11702",
     "locale": {
       "USen": "Brown",
@@ -567,8 +315,8 @@
     }
   },
   {
-    "id": 11703,
-    "Cloth Name": "cat cap",
+    "id": 678,
+    "cloth_name": "cat cap",
     "variant_id": "678_Helmet_11703",
     "locale": {
       "USen": "White",
@@ -588,8 +336,8 @@
     }
   },
   {
-    "id": 5327,
-    "Cloth Name": "ski mask",
+    "id": 679,
+    "cloth_name": "ski mask",
     "variant_id": "679_Helmet_05327",
     "locale": {
       "USen": "Green",
@@ -609,8 +357,8 @@
     }
   },
   {
-    "id": 10826,
-    "Cloth Name": "ski mask",
+    "id": 679,
+    "cloth_name": "ski mask",
     "variant_id": "679_Helmet_10826",
     "locale": {
       "USen": "Black",
@@ -630,8 +378,8 @@
     }
   },
   {
-    "id": 10827,
-    "Cloth Name": "ski mask",
+    "id": 679,
+    "cloth_name": "ski mask",
     "variant_id": "679_Helmet_10827",
     "locale": {
       "USen": "Lime",
@@ -651,8 +399,8 @@
     }
   },
   {
-    "id": 10828,
-    "Cloth Name": "ski mask",
+    "id": 679,
+    "cloth_name": "ski mask",
     "variant_id": "679_Helmet_10828",
     "locale": {
       "USen": "Red",
@@ -672,8 +420,8 @@
     }
   },
   {
-    "id": 10829,
-    "Cloth Name": "ski mask",
+    "id": 679,
+    "cloth_name": "ski mask",
     "variant_id": "679_Helmet_10829",
     "locale": {
       "USen": "Blue",
@@ -693,8 +441,8 @@
     }
   },
   {
-    "id": 5328,
-    "Cloth Name": "skeleton hood",
+    "id": 680,
+    "cloth_name": "skeleton hood",
     "variant_id": "680_Helmet_05328",
     "locale": {
       "USen": "White",
@@ -714,8 +462,8 @@
     }
   },
   {
-    "id": 5330,
-    "Cloth Name": "bear cap",
+    "id": 682,
+    "cloth_name": "bear cap",
     "variant_id": "682_Helmet_05330",
     "locale": {
       "USen": "Brown",
@@ -735,8 +483,8 @@
     }
   },
   {
-    "id": 11704,
-    "Cloth Name": "bear cap",
+    "id": 682,
+    "cloth_name": "bear cap",
     "variant_id": "682_Helmet_11704",
     "locale": {
       "USen": "Black",
@@ -756,8 +504,8 @@
     }
   },
   {
-    "id": 11705,
-    "Cloth Name": "bear cap",
+    "id": 682,
+    "cloth_name": "bear cap",
     "variant_id": "682_Helmet_11705",
     "locale": {
       "USen": "Pink",
@@ -777,8 +525,8 @@
     }
   },
   {
-    "id": 11706,
-    "Cloth Name": "bear cap",
+    "id": 682,
+    "cloth_name": "bear cap",
     "variant_id": "682_Helmet_11706",
     "locale": {
       "USen": "Blue",
@@ -798,8 +546,8 @@
     }
   },
   {
-    "id": 5331,
-    "Cloth Name": "kappa cap",
+    "id": 683,
+    "cloth_name": "kappa cap",
     "variant_id": "683_Helmet_05331",
     "locale": {
       "USen": "Green",
@@ -819,8 +567,8 @@
     }
   },
   {
-    "id": 11696,
-    "Cloth Name": "kappa cap",
+    "id": 683,
+    "cloth_name": "kappa cap",
     "variant_id": "683_Helmet_11696",
     "locale": {
       "USen": "Pink",
@@ -840,8 +588,8 @@
     }
   },
   {
-    "id": 5334,
-    "Cloth Name": "knight's helmet",
+    "id": 686,
+    "cloth_name": "knight's helmet",
     "variant_id": "686_Helmet_05334",
     "locale": {
       "USen": "Gray",
@@ -861,8 +609,8 @@
     }
   },
   {
-    "id": 5335,
-    "Cloth Name": "frog cap",
+    "id": 687,
+    "cloth_name": "frog cap",
     "variant_id": "687_Helmet_05335",
     "locale": {
       "USen": "Green",
@@ -882,8 +630,8 @@
     }
   },
   {
-    "id": 11697,
-    "Cloth Name": "frog cap",
+    "id": 687,
+    "cloth_name": "frog cap",
     "variant_id": "687_Helmet_11697",
     "locale": {
       "USen": "Blue",
@@ -903,8 +651,8 @@
     }
   },
   {
-    "id": 11698,
-    "Cloth Name": "frog cap",
+    "id": 687,
+    "cloth_name": "frog cap",
     "variant_id": "687_Helmet_11698",
     "locale": {
       "USen": "Red",
@@ -924,8 +672,8 @@
     }
   },
   {
-    "id": 11699,
-    "Cloth Name": "frog cap",
+    "id": 687,
+    "cloth_name": "frog cap",
     "variant_id": "687_Helmet_11699",
     "locale": {
       "USen": "Yellow",
@@ -945,8 +693,71 @@
     }
   },
   {
-    "id": 5346,
-    "Cloth Name": "gold helmet",
+    "id": 691,
+    "cloth_name": "horned-ogre mask",
+    "variant_id": "691_Helmet_05345",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 691,
+    "cloth_name": "horned-ogre mask",
+    "variant_id": "691_Helmet_11886",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 691,
+    "cloth_name": "horned-ogre mask",
+    "variant_id": "691_Helmet_11887",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 692,
+    "cloth_name": "gold helmet",
     "variant_id": "692_Helmet_05346",
     "locale": {
       "USen": "Gold",
@@ -966,8 +777,8 @@
     }
   },
   {
-    "id": 5373,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_05373",
     "locale": {
       "USen": "Green",
@@ -987,8 +798,8 @@
     }
   },
   {
-    "id": 11604,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11604",
     "locale": {
       "USen": "White",
@@ -1008,8 +819,8 @@
     }
   },
   {
-    "id": 11605,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11605",
     "locale": {
       "USen": "Yellow",
@@ -1029,8 +840,8 @@
     }
   },
   {
-    "id": 11606,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11606",
     "locale": {
       "USen": "Berry red",
@@ -1043,15 +854,15 @@
       "EUit": "Rosso lampone",
       "EUnl": "Bessenrood",
       "CNzh": "酒红色",
-      "TWzh": "酒紅 色",
+      "TWzh": "酒紅色",
       "JPja": "ワインレッド",
       "KRko": "와인 레드",
       "EUru": "Ягодно-красный"
     }
   },
   {
-    "id": 11607,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11607",
     "locale": {
       "USen": "Blue",
@@ -1071,8 +882,8 @@
     }
   },
   {
-    "id": 11608,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11608",
     "locale": {
       "USen": "Turquoise",
@@ -1092,8 +903,8 @@
     }
   },
   {
-    "id": 11609,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11609",
     "locale": {
       "USen": "Red",
@@ -1113,8 +924,8 @@
     }
   },
   {
-    "id": 11610,
-    "Cloth Name": "football helmet",
+    "id": 697,
+    "cloth_name": "football helmet",
     "variant_id": "697_Helmet_11610",
     "locale": {
       "USen": "Black",
@@ -1134,8 +945,8 @@
     }
   },
   {
-    "id": 5374,
-    "Cloth Name": "firefighter's hat",
+    "id": 698,
+    "cloth_name": "firefighter's hat",
     "variant_id": "698_Helmet_05374",
     "locale": {
       "USen": "Black",
@@ -1155,8 +966,8 @@
     }
   },
   {
-    "id": 11617,
-    "Cloth Name": "firefighter's hat",
+    "id": 698,
+    "cloth_name": "firefighter's hat",
     "variant_id": "698_Helmet_11617",
     "locale": {
       "USen": "Flame orange",
@@ -1176,8 +987,8 @@
     }
   },
   {
-    "id": 11618,
-    "Cloth Name": "firefighter's hat",
+    "id": 698,
+    "cloth_name": "firefighter's hat",
     "variant_id": "698_Helmet_11618",
     "locale": {
       "USen": "Brown",
@@ -1197,8 +1008,8 @@
     }
   },
   {
-    "id": 11619,
-    "Cloth Name": "firefighter's hat",
+    "id": 698,
+    "cloth_name": "firefighter's hat",
     "variant_id": "698_Helmet_11619",
     "locale": {
       "USen": "Lime yellow",
@@ -1218,8 +1029,8 @@
     }
   },
   {
-    "id": 11620,
-    "Cloth Name": "firefighter's hat",
+    "id": 698,
+    "cloth_name": "firefighter's hat",
     "variant_id": "698_Helmet_11620",
     "locale": {
       "USen": "Avocado",
@@ -1239,8 +1050,8 @@
     }
   },
   {
-    "id": 5381,
-    "Cloth Name": "welding mask",
+    "id": 699,
+    "cloth_name": "welding mask",
     "variant_id": "699_Helmet_05381",
     "locale": {
       "USen": "Red",
@@ -1260,8 +1071,8 @@
     }
   },
   {
-    "id": 5386,
-    "Cloth Name": "samurai helmet",
+    "id": 702,
+    "cloth_name": "samurai helmet",
     "variant_id": "702_Helmet_05386",
     "locale": {
       "USen": "Red",
@@ -1281,8 +1092,8 @@
     }
   },
   {
-    "id": 11877,
-    "Cloth Name": "samurai helmet",
+    "id": 702,
+    "cloth_name": "samurai helmet",
     "variant_id": "702_Helmet_11877",
     "locale": {
       "USen": "Black",
@@ -1302,8 +1113,8 @@
     }
   },
   {
-    "id": 11878,
-    "Cloth Name": "samurai helmet",
+    "id": 702,
+    "cloth_name": "samurai helmet",
     "variant_id": "702_Helmet_11878",
     "locale": {
       "USen": "Blue",
@@ -1323,8 +1134,8 @@
     }
   },
   {
-    "id": 11879,
-    "Cloth Name": "samurai helmet",
+    "id": 702,
+    "cloth_name": "samurai helmet",
     "variant_id": "702_Helmet_11879",
     "locale": {
       "USen": "White",
@@ -1344,8 +1155,8 @@
     }
   },
   {
-    "id": 11880,
-    "Cloth Name": "samurai helmet",
+    "id": 702,
+    "cloth_name": "samurai helmet",
     "variant_id": "702_Helmet_11880",
     "locale": {
       "USen": "Golden yellow",
@@ -1365,8 +1176,8 @@
     }
   },
   {
-    "id": 5365,
-    "Cloth Name": "milkmaid hat",
+    "id": 704,
+    "cloth_name": "milkmaid hat",
     "variant_id": "704_Helmet_05365",
     "locale": {
       "USen": "White",
@@ -1386,8 +1197,8 @@
     }
   },
   {
-    "id": 5362,
-    "Cloth Name": "pilot's cap",
+    "id": 706,
+    "cloth_name": "pilot's cap",
     "variant_id": "706_Helmet_05362",
     "locale": {
       "USen": "Brown",
@@ -1407,8 +1218,8 @@
     }
   },
   {
-    "id": 11613,
-    "Cloth Name": "pilot's cap",
+    "id": 706,
+    "cloth_name": "pilot's cap",
     "variant_id": "706_Helmet_11613",
     "locale": {
       "USen": "Black",
@@ -1428,8 +1239,8 @@
     }
   },
   {
-    "id": 11614,
-    "Cloth Name": "pilot's cap",
+    "id": 706,
+    "cloth_name": "pilot's cap",
     "variant_id": "706_Helmet_11614",
     "locale": {
       "USen": "Avocado",
@@ -1449,8 +1260,8 @@
     }
   },
   {
-    "id": 5363,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_05363",
     "locale": {
       "USen": "Baby mint",
@@ -1470,8 +1281,8 @@
     }
   },
   {
-    "id": 11853,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11853",
     "locale": {
       "USen": "Baby purple",
@@ -1491,8 +1302,8 @@
     }
   },
   {
-    "id": 11854,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11854",
     "locale": {
       "USen": "Baby yellow",
@@ -1512,8 +1323,8 @@
     }
   },
   {
-    "id": 11855,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11855",
     "locale": {
       "USen": "Baby green",
@@ -1533,8 +1344,8 @@
     }
   },
   {
-    "id": 11856,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11856",
     "locale": {
       "USen": "Baby pink",
@@ -1547,15 +1358,15 @@
       "EUit": "Rosa pastello",
       "EUnl": "Roze",
       "CNzh": "嫩粉红色",
-      "TWzh": "粉 嫩粉紅色",
+      "TWzh": "粉嫩粉紅色",
       "JPja": "ベビーピンク",
       "KRko": "베이비 핑크",
       "EUru": "Нежно-розовый"
     }
   },
   {
-    "id": 11857,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11857",
     "locale": {
       "USen": "Baby gray",
@@ -1575,8 +1386,8 @@
     }
   },
   {
-    "id": 11858,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11858",
     "locale": {
       "USen": "Baby blue",
@@ -1589,15 +1400,15 @@
       "EUit": "Blu pastello",
       "EUnl": "Blauw",
       "CNzh": "嫩蓝色",
-      "TWzh": "粉嫩 藍色",
+      "TWzh": "粉嫩藍色",
       "JPja": "ベビーブルー",
       "KRko": "베이비 블루",
       "EUru": "Нежно-синий"
     }
   },
   {
-    "id": 11859,
-    "Cloth Name": "baby's hat",
+    "id": 707,
+    "cloth_name": "baby's hat",
     "variant_id": "707_Helmet_11859",
     "locale": {
       "USen": "Baby orange",
@@ -1617,8 +1428,8 @@
     }
   },
   {
-    "id": 5364,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_05364",
     "locale": {
       "USen": "Dark blue",
@@ -1638,8 +1449,8 @@
     }
   },
   {
-    "id": 11870,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11870",
     "locale": {
       "USen": "Gray",
@@ -1659,8 +1470,8 @@
     }
   },
   {
-    "id": 11871,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11871",
     "locale": {
       "USen": "Red",
@@ -1680,8 +1491,8 @@
     }
   },
   {
-    "id": 11872,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11872",
     "locale": {
       "USen": "Purple",
@@ -1701,8 +1512,8 @@
     }
   },
   {
-    "id": 11873,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11873",
     "locale": {
       "USen": "Aqua",
@@ -1722,8 +1533,8 @@
     }
   },
   {
-    "id": 11874,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11874",
     "locale": {
       "USen": "Green",
@@ -1743,8 +1554,8 @@
     }
   },
   {
-    "id": 11875,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11875",
     "locale": {
       "USen": "Yellow",
@@ -1764,8 +1575,8 @@
     }
   },
   {
-    "id": 11876,
-    "Cloth Name": "ninja hood",
+    "id": 708,
+    "cloth_name": "ninja hood",
     "variant_id": "708_Helmet_11876",
     "locale": {
       "USen": "Orange",
@@ -1785,8 +1596,8 @@
     }
   },
   {
-    "id": 5366,
-    "Cloth Name": "batter's helmet",
+    "id": 709,
+    "cloth_name": "batter's helmet",
     "variant_id": "709_Helmet_05366",
     "locale": {
       "USen": "Red",
@@ -1806,8 +1617,8 @@
     }
   },
   {
-    "id": 11596,
-    "Cloth Name": "batter's helmet",
+    "id": 709,
+    "cloth_name": "batter's helmet",
     "variant_id": "709_Helmet_11596",
     "locale": {
       "USen": "Navy blue",
@@ -1827,8 +1638,8 @@
     }
   },
   {
-    "id": 11597,
-    "Cloth Name": "batter's helmet",
+    "id": 709,
+    "cloth_name": "batter's helmet",
     "variant_id": "709_Helmet_11597",
     "locale": {
       "USen": "Green",
@@ -1848,8 +1659,8 @@
     }
   },
   {
-    "id": 11598,
-    "Cloth Name": "batter's helmet",
+    "id": 709,
+    "cloth_name": "batter's helmet",
     "variant_id": "709_Helmet_11598",
     "locale": {
       "USen": "Orange",
@@ -1869,8 +1680,8 @@
     }
   },
   {
-    "id": 11599,
-    "Cloth Name": "batter's helmet",
+    "id": 709,
+    "cloth_name": "batter's helmet",
     "variant_id": "709_Helmet_11599",
     "locale": {
       "USen": "Yellow",
@@ -1890,8 +1701,8 @@
     }
   },
   {
-    "id": 5368,
-    "Cloth Name": "wrestling mask",
+    "id": 711,
+    "cloth_name": "wrestling mask",
     "variant_id": "711_Helmet_05368",
     "locale": {
       "USen": "Red",
@@ -1911,8 +1722,8 @@
     }
   },
   {
-    "id": 11829,
-    "Cloth Name": "wrestling mask",
+    "id": 711,
+    "cloth_name": "wrestling mask",
     "variant_id": "711_Helmet_11829",
     "locale": {
       "USen": "Blue",
@@ -1932,8 +1743,8 @@
     }
   },
   {
-    "id": 11830,
-    "Cloth Name": "wrestling mask",
+    "id": 711,
+    "cloth_name": "wrestling mask",
     "variant_id": "711_Helmet_11830",
     "locale": {
       "USen": "Green",
@@ -1953,8 +1764,8 @@
     }
   },
   {
-    "id": 11831,
-    "Cloth Name": "wrestling mask",
+    "id": 711,
+    "cloth_name": "wrestling mask",
     "variant_id": "711_Helmet_11831",
     "locale": {
       "USen": "Pink",
@@ -1974,8 +1785,8 @@
     }
   },
   {
-    "id": 11832,
-    "Cloth Name": "wrestling mask",
+    "id": 711,
+    "cloth_name": "wrestling mask",
     "variant_id": "711_Helmet_11832",
     "locale": {
       "USen": "Black",
@@ -1995,8 +1806,8 @@
     }
   },
   {
-    "id": 11833,
-    "Cloth Name": "wrestling mask",
+    "id": 711,
+    "cloth_name": "wrestling mask",
     "variant_id": "711_Helmet_11833",
     "locale": {
       "USen": "Yellow",
@@ -2016,8 +1827,8 @@
     }
   },
   {
-    "id": 5369,
-    "Cloth Name": "hot-dog hood",
+    "id": 712,
+    "cloth_name": "hot-dog hood",
     "variant_id": "712_Helmet_05369",
     "locale": {
       "USen": "Red",
@@ -2037,8 +1848,8 @@
     }
   },
   {
-    "id": 5370,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_05370",
     "locale": {
       "USen": "Beige",
@@ -2058,8 +1869,8 @@
     }
   },
   {
-    "id": 10944,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_10944",
     "locale": {
       "USen": "Blue",
@@ -2079,8 +1890,8 @@
     }
   },
   {
-    "id": 10945,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_10945",
     "locale": {
       "USen": "Pink",
@@ -2100,8 +1911,8 @@
     }
   },
   {
-    "id": 10946,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_10946",
     "locale": {
       "USen": "Green",
@@ -2121,8 +1932,8 @@
     }
   },
   {
-    "id": 10947,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_10947",
     "locale": {
       "USen": "Ruby red",
@@ -2142,8 +1953,8 @@
     }
   },
   {
-    "id": 10948,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_10948",
     "locale": {
       "USen": "Moss green",
@@ -2163,8 +1974,8 @@
     }
   },
   {
-    "id": 10949,
-    "Cloth Name": "knit cap with earflaps",
+    "id": 713,
+    "cloth_name": "knit cap with earflaps",
     "variant_id": "713_Helmet_10949",
     "locale": {
       "USen": "Gray",
@@ -2184,8 +1995,8 @@
     }
   },
   {
-    "id": 5394,
-    "Cloth Name": "space helmet",
+    "id": 717,
+    "cloth_name": "space helmet",
     "variant_id": "717_Helmet_05394",
     "locale": {
       "USen": "White",
@@ -2205,8 +2016,8 @@
     }
   },
   {
-    "id": 5395,
-    "Cloth Name": "paintball mask",
+    "id": 718,
+    "cloth_name": "paintball mask",
     "variant_id": "718_Helmet_05395",
     "locale": {
       "USen": "Black",
@@ -2226,8 +2037,8 @@
     }
   },
   {
-    "id": 10227,
-    "Cloth Name": "paintball mask",
+    "id": 718,
+    "cloth_name": "paintball mask",
     "variant_id": "718_Helmet_10227",
     "locale": {
       "USen": "White",
@@ -2247,8 +2058,8 @@
     }
   },
   {
-    "id": 10228,
-    "Cloth Name": "paintball mask",
+    "id": 718,
+    "cloth_name": "paintball mask",
     "variant_id": "718_Helmet_10228",
     "locale": {
       "USen": "Olive",
@@ -2261,15 +2072,15 @@
       "EUit": "Verde oliva",
       "EUnl": "Olijfgroen",
       "CNzh": "橄榄绿",
-      "TWzh": "橄 欖綠",
+      "TWzh": "橄欖綠",
       "JPja": "オリーブ",
       "KRko": "올리브",
       "EUru": "Оливковый"
     }
   },
   {
-    "id": 10229,
-    "Cloth Name": "paintball mask",
+    "id": 718,
+    "cloth_name": "paintball mask",
     "variant_id": "718_Helmet_10229",
     "locale": {
       "USen": "Yellow",
@@ -2289,8 +2100,8 @@
     }
   },
   {
-    "id": 5423,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_05423",
     "locale": {
       "USen": "Pink",
@@ -2310,8 +2121,8 @@
     }
   },
   {
-    "id": 11800,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11800",
     "locale": {
       "USen": "Blue",
@@ -2331,8 +2142,8 @@
     }
   },
   {
-    "id": 11801,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11801",
     "locale": {
       "USen": "Green",
@@ -2352,8 +2163,8 @@
     }
   },
   {
-    "id": 11802,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11802",
     "locale": {
       "USen": "Red",
@@ -2373,8 +2184,8 @@
     }
   },
   {
-    "id": 11803,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11803",
     "locale": {
       "USen": "Yellow",
@@ -2394,8 +2205,8 @@
     }
   },
   {
-    "id": 11804,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11804",
     "locale": {
       "USen": "Black",
@@ -2415,8 +2226,8 @@
     }
   },
   {
-    "id": 11805,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11805",
     "locale": {
       "USen": "Silver",
@@ -2436,8 +2247,8 @@
     }
   },
   {
-    "id": 11806,
-    "Cloth Name": "zap helmet",
+    "id": 738,
+    "cloth_name": "zap helmet",
     "variant_id": "738_Helmet_11806",
     "locale": {
       "USen": "White",
@@ -2457,8 +2268,8 @@
     }
   },
   {
-    "id": 5434,
-    "Cloth Name": "turban",
+    "id": 741,
+    "cloth_name": "turban",
     "variant_id": "741_Helmet_05434",
     "locale": {
       "USen": "Purple",
@@ -2478,8 +2289,8 @@
     }
   },
   {
-    "id": 11863,
-    "Cloth Name": "turban",
+    "id": 741,
+    "cloth_name": "turban",
     "variant_id": "741_Helmet_11863",
     "locale": {
       "USen": "Blue",
@@ -2499,8 +2310,8 @@
     }
   },
   {
-    "id": 11864,
-    "Cloth Name": "turban",
+    "id": 741,
+    "cloth_name": "turban",
     "variant_id": "741_Helmet_11864",
     "locale": {
       "USen": "Pink",
@@ -2520,8 +2331,8 @@
     }
   },
   {
-    "id": 11865,
-    "Cloth Name": "turban",
+    "id": 741,
+    "cloth_name": "turban",
     "variant_id": "741_Helmet_11865",
     "locale": {
       "USen": "Yellow",
@@ -2541,8 +2352,8 @@
     }
   },
   {
-    "id": 5435,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_05435",
     "locale": {
       "USen": "Pink",
@@ -2562,8 +2373,8 @@
     }
   },
   {
-    "id": 10230,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10230",
     "locale": {
       "USen": "Green",
@@ -2583,8 +2394,8 @@
     }
   },
   {
-    "id": 10231,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10231",
     "locale": {
       "USen": "Purple",
@@ -2604,8 +2415,8 @@
     }
   },
   {
-    "id": 10232,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10232",
     "locale": {
       "USen": "Blue",
@@ -2625,8 +2436,8 @@
     }
   },
   {
-    "id": 10233,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10233",
     "locale": {
       "USen": "Red",
@@ -2646,8 +2457,8 @@
     }
   },
   {
-    "id": 10234,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10234",
     "locale": {
       "USen": "Light blue",
@@ -2659,7 +2470,7 @@
       "USfr": "Bleu pâle",
       "EUit": "Blu chiaro",
       "EUnl": "Lichtblauw",
-      "CNzh": "浅蓝 色",
+      "CNzh": "浅蓝色",
       "TWzh": "淺藍色",
       "JPja": "ライトブルー",
       "KRko": "라이트 블루",
@@ -2667,8 +2478,8 @@
     }
   },
   {
-    "id": 10235,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10235",
     "locale": {
       "USen": "Black",
@@ -2688,8 +2499,8 @@
     }
   },
   {
-    "id": 10236,
-    "Cloth Name": "helmet with goggles",
+    "id": 742,
+    "cloth_name": "helmet with goggles",
     "variant_id": "742_Helmet_10236",
     "locale": {
       "USen": "Yellow",
@@ -2709,8 +2520,8 @@
     }
   },
   {
-    "id": 5443,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_05443",
     "locale": {
       "USen": "Red",
@@ -2730,8 +2541,8 @@
     }
   },
   {
-    "id": 10237,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10237",
     "locale": {
       "USen": "White",
@@ -2751,8 +2562,8 @@
     }
   },
   {
-    "id": 10238,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10238",
     "locale": {
       "USen": "Black",
@@ -2772,8 +2583,8 @@
     }
   },
   {
-    "id": 10239,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10239",
     "locale": {
       "USen": "Blue",
@@ -2793,8 +2604,8 @@
     }
   },
   {
-    "id": 10240,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10240",
     "locale": {
       "USen": "Pink",
@@ -2814,8 +2625,8 @@
     }
   },
   {
-    "id": 10241,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10241",
     "locale": {
       "USen": "Green",
@@ -2835,8 +2646,8 @@
     }
   },
   {
-    "id": 10242,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10242",
     "locale": {
       "USen": "Purple",
@@ -2856,8 +2667,8 @@
     }
   },
   {
-    "id": 10243,
-    "Cloth Name": "racing helmet",
+    "id": 748,
+    "cloth_name": "racing helmet",
     "variant_id": "748_Helmet_10243",
     "locale": {
       "USen": "Light blue",
@@ -2877,8 +2688,29 @@
     }
   },
   {
-    "id": 5464,
-    "Cloth Name": "imp hood",
+    "id": 750,
+    "cloth_name": "reindeer hat",
+    "variant_id": "750_Helmet_05446",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 758,
+    "cloth_name": "imp hood",
     "variant_id": "758_Helmet_05464",
     "locale": {
       "USen": "Black",
@@ -2898,8 +2730,8 @@
     }
   },
   {
-    "id": 11707,
-    "Cloth Name": "imp hood",
+    "id": 758,
+    "cloth_name": "imp hood",
     "variant_id": "758_Helmet_11707",
     "locale": {
       "USen": "Red",
@@ -2919,8 +2751,8 @@
     }
   },
   {
-    "id": 5465,
-    "Cloth Name": "sheep hood",
+    "id": 759,
+    "cloth_name": "sheep hood",
     "variant_id": "759_Helmet_05465",
     "locale": {
       "USen": "White",
@@ -2940,8 +2772,8 @@
     }
   },
   {
-    "id": 11708,
-    "Cloth Name": "sheep hood",
+    "id": 759,
+    "cloth_name": "sheep hood",
     "variant_id": "759_Helmet_11708",
     "locale": {
       "USen": "Pink",
@@ -2961,8 +2793,8 @@
     }
   },
   {
-    "id": 11709,
-    "Cloth Name": "sheep hood",
+    "id": 759,
+    "cloth_name": "sheep hood",
     "variant_id": "759_Helmet_11709",
     "locale": {
       "USen": "Light blue",
@@ -2982,8 +2814,8 @@
     }
   },
   {
-    "id": 11710,
-    "Cloth Name": "sheep hood",
+    "id": 759,
+    "cloth_name": "sheep hood",
     "variant_id": "759_Helmet_11710",
     "locale": {
       "USen": "Brown",
@@ -3003,8 +2835,8 @@
     }
   },
   {
-    "id": 5607,
-    "Cloth Name": "King Tut mask",
+    "id": 790,
+    "cloth_name": "King Tut mask",
     "variant_id": "790_Helmet_05607",
     "locale": {
       "USen": "Gold",
@@ -3024,8 +2856,8 @@
     }
   },
   {
-    "id": 5669,
-    "Cloth Name": "veiled gardening hat",
+    "id": 822,
+    "cloth_name": "veiled gardening hat",
     "variant_id": "822_Helmet_05669",
     "locale": {
       "USen": "Pink",
@@ -3045,8 +2877,8 @@
     }
   },
   {
-    "id": 11815,
-    "Cloth Name": "veiled gardening hat",
+    "id": 822,
+    "cloth_name": "veiled gardening hat",
     "variant_id": "822_Helmet_11815",
     "locale": {
       "USen": "Blue",
@@ -3066,8 +2898,8 @@
     }
   },
   {
-    "id": 11816,
-    "Cloth Name": "veiled gardening hat",
+    "id": 822,
+    "cloth_name": "veiled gardening hat",
     "variant_id": "822_Helmet_11816",
     "locale": {
       "USen": "Orange",
@@ -3087,8 +2919,8 @@
     }
   },
   {
-    "id": 11817,
-    "Cloth Name": "veiled gardening hat",
+    "id": 822,
+    "cloth_name": "veiled gardening hat",
     "variant_id": "822_Helmet_11817",
     "locale": {
       "USen": "Green",
@@ -3108,8 +2940,8 @@
     }
   },
   {
-    "id": 11818,
-    "Cloth Name": "veiled gardening hat",
+    "id": 822,
+    "cloth_name": "veiled gardening hat",
     "variant_id": "822_Helmet_11818",
     "locale": {
       "USen": "Purple",
@@ -3129,8 +2961,8 @@
     }
   },
   {
-    "id": 5687,
-    "Cloth Name": "headgear",
+    "id": 825,
+    "cloth_name": "headgear",
     "variant_id": "825_Helmet_05687",
     "locale": {
       "USen": "Red",
@@ -3150,8 +2982,8 @@
     }
   },
   {
-    "id": 11611,
-    "Cloth Name": "headgear",
+    "id": 825,
+    "cloth_name": "headgear",
     "variant_id": "825_Helmet_11611",
     "locale": {
       "USen": "Blue",
@@ -3171,8 +3003,8 @@
     }
   },
   {
-    "id": 11612,
-    "Cloth Name": "headgear",
+    "id": 825,
+    "cloth_name": "headgear",
     "variant_id": "825_Helmet_11612",
     "locale": {
       "USen": "Green",
@@ -3192,8 +3024,8 @@
     }
   },
   {
-    "id": 5688,
-    "Cloth Name": "mohawk wig",
+    "id": 826,
+    "cloth_name": "mohawk wig",
     "variant_id": "826_Helmet_05688",
     "locale": {
       "USen": "Hair Color",
@@ -3213,8 +3045,8 @@
     }
   },
   {
-    "id": 5689,
-    "Cloth Name": "pompadour wig",
+    "id": 827,
+    "cloth_name": "pompadour wig",
     "variant_id": "827_Helmet_05689",
     "locale": {
       "USen": "Hair Color",
@@ -3234,8 +3066,8 @@
     }
   },
   {
-    "id": 5690,
-    "Cloth Name": "samurai wig",
+    "id": 828,
+    "cloth_name": "samurai wig",
     "variant_id": "828_Helmet_05690",
     "locale": {
       "USen": "Hair Color",
@@ -3255,8 +3087,8 @@
     }
   },
   {
-    "id": 5691,
-    "Cloth Name": "matronly bun",
+    "id": 829,
+    "cloth_name": "matronly bun",
     "variant_id": "829_Helmet_05691",
     "locale": {
       "USen": "Hair Color",
@@ -3276,8 +3108,8 @@
     }
   },
   {
-    "id": 5692,
-    "Cloth Name": "bridal veil",
+    "id": 830,
+    "cloth_name": "bridal veil",
     "variant_id": "830_Helmet_05692",
     "locale": {
       "USen": "White",
@@ -3297,8 +3129,8 @@
     }
   },
   {
-    "id": 5693,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_05693",
     "locale": {
       "USen": "Pink",
@@ -3318,8 +3150,8 @@
     }
   },
   {
-    "id": 11888,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_11888",
     "locale": {
       "USen": "Blue",
@@ -3339,8 +3171,8 @@
     }
   },
   {
-    "id": 11889,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_11889",
     "locale": {
       "USen": "Mustard",
@@ -3354,14 +3186,14 @@
       "EUnl": "Mosterdgeel",
       "CNzh": "芥末黄",
       "TWzh": "芥末黃",
-      "JPja": "マ スタード",
+      "JPja": "マスタード",
       "KRko": "머스터드",
       "EUru": "Горчичный"
     }
   },
   {
-    "id": 11890,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_11890",
     "locale": {
       "USen": "White",
@@ -3381,8 +3213,8 @@
     }
   },
   {
-    "id": 11891,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_11891",
     "locale": {
       "USen": "Purple",
@@ -3402,8 +3234,8 @@
     }
   },
   {
-    "id": 11892,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_11892",
     "locale": {
       "USen": "Green",
@@ -3423,8 +3255,8 @@
     }
   },
   {
-    "id": 11893,
-    "Cloth Name": "bun wig",
+    "id": 831,
+    "cloth_name": "bun wig",
     "variant_id": "831_Helmet_11893",
     "locale": {
       "USen": "Orange",
@@ -3444,8 +3276,8 @@
     }
   },
   {
-    "id": 5682,
-    "Cloth Name": "DJ cap",
+    "id": 832,
+    "cloth_name": "DJ cap",
     "variant_id": "832_Helmet_05682",
     "locale": {
       "USen": "Blue",
@@ -3465,8 +3297,8 @@
     }
   },
   {
-    "id": 11536,
-    "Cloth Name": "DJ cap",
+    "id": 832,
+    "cloth_name": "DJ cap",
     "variant_id": "832_Helmet_11536",
     "locale": {
       "USen": "Pink",
@@ -3486,8 +3318,8 @@
     }
   },
   {
-    "id": 11537,
-    "Cloth Name": "DJ cap",
+    "id": 832,
+    "cloth_name": "DJ cap",
     "variant_id": "832_Helmet_11537",
     "locale": {
       "USen": "Orange",
@@ -3507,8 +3339,8 @@
     }
   },
   {
-    "id": 11538,
-    "Cloth Name": "DJ cap",
+    "id": 832,
+    "cloth_name": "DJ cap",
     "variant_id": "832_Helmet_11538",
     "locale": {
       "USen": "Black",
@@ -3528,8 +3360,8 @@
     }
   },
   {
-    "id": 5683,
-    "Cloth Name": "gothic headdress",
+    "id": 833,
+    "cloth_name": "gothic headdress",
     "variant_id": "833_Helmet_05683",
     "locale": {
       "USen": "Purple",
@@ -3549,8 +3381,8 @@
     }
   },
   {
-    "id": 11897,
-    "Cloth Name": "gothic headdress",
+    "id": 833,
+    "cloth_name": "gothic headdress",
     "variant_id": "833_Helmet_11897",
     "locale": {
       "USen": "Black",
@@ -3570,8 +3402,8 @@
     }
   },
   {
-    "id": 11898,
-    "Cloth Name": "gothic headdress",
+    "id": 833,
+    "cloth_name": "gothic headdress",
     "variant_id": "833_Helmet_11898",
     "locale": {
       "USen": "Red",
@@ -3591,8 +3423,8 @@
     }
   },
   {
-    "id": 11899,
-    "Cloth Name": "gothic headdress",
+    "id": 833,
+    "cloth_name": "gothic headdress",
     "variant_id": "833_Helmet_11899",
     "locale": {
       "USen": "Pink",
@@ -3612,8 +3444,8 @@
     }
   },
   {
-    "id": 11900,
-    "Cloth Name": "gothic headdress",
+    "id": 833,
+    "cloth_name": "gothic headdress",
     "variant_id": "833_Helmet_11900",
     "locale": {
       "USen": "Blue",
@@ -3633,8 +3465,8 @@
     }
   },
   {
-    "id": 11901,
-    "Cloth Name": "gothic headdress",
+    "id": 833,
+    "cloth_name": "gothic headdress",
     "variant_id": "833_Helmet_11901",
     "locale": {
       "USen": "Light purple",
@@ -3654,8 +3486,8 @@
     }
   },
   {
-    "id": 5684,
-    "Cloth Name": "veil",
+    "id": 834,
+    "cloth_name": "veil",
     "variant_id": "834_Helmet_05684",
     "locale": {
       "USen": "Blue",
@@ -3675,8 +3507,8 @@
     }
   },
   {
-    "id": 11881,
-    "Cloth Name": "veil",
+    "id": 834,
+    "cloth_name": "veil",
     "variant_id": "834_Helmet_11881",
     "locale": {
       "USen": "Purple",
@@ -3696,8 +3528,8 @@
     }
   },
   {
-    "id": 11882,
-    "Cloth Name": "veil",
+    "id": 834,
+    "cloth_name": "veil",
     "variant_id": "834_Helmet_11882",
     "locale": {
       "USen": "Pink",
@@ -3717,8 +3549,8 @@
     }
   },
   {
-    "id": 11883,
-    "Cloth Name": "veil",
+    "id": 834,
+    "cloth_name": "veil",
     "variant_id": "834_Helmet_11883",
     "locale": {
       "USen": "Yellow",
@@ -3738,8 +3570,8 @@
     }
   },
   {
-    "id": 5695,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_05695",
     "locale": {
       "USen": "Red",
@@ -3759,8 +3591,8 @@
     }
   },
   {
-    "id": 9741,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_09741",
     "locale": {
       "USen": "Pink",
@@ -3780,8 +3612,8 @@
     }
   },
   {
-    "id": 9742,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_09742",
     "locale": {
       "USen": "Golden yellow",
@@ -3801,8 +3633,8 @@
     }
   },
   {
-    "id": 9743,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_09743",
     "locale": {
       "USen": "Green",
@@ -3822,8 +3654,8 @@
     }
   },
   {
-    "id": 9744,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_09744",
     "locale": {
       "USen": "Blue",
@@ -3843,8 +3675,8 @@
     }
   },
   {
-    "id": 9745,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_09745",
     "locale": {
       "USen": "Purple",
@@ -3864,8 +3696,8 @@
     }
   },
   {
-    "id": 9746,
-    "Cloth Name": "geisha wig",
+    "id": 836,
+    "cloth_name": "geisha wig",
     "variant_id": "836_Helmet_09746",
     "locale": {
       "USen": "Black",
@@ -3885,8 +3717,8 @@
     }
   },
   {
-    "id": 5696,
-    "Cloth Name": "composer's wig",
+    "id": 837,
+    "cloth_name": "composer's wig",
     "variant_id": "837_Helmet_05696",
     "locale": {
       "USen": "Hair Color",
@@ -3906,8 +3738,8 @@
     }
   },
   {
-    "id": 5697,
-    "Cloth Name": "power helmet",
+    "id": 838,
+    "cloth_name": "power helmet",
     "variant_id": "838_Helmet_05697",
     "locale": {
       "USen": "Red",
@@ -3927,8 +3759,8 @@
     }
   },
   {
-    "id": 11794,
-    "Cloth Name": "power helmet",
+    "id": 838,
+    "cloth_name": "power helmet",
     "variant_id": "838_Helmet_11794",
     "locale": {
       "USen": "Blue",
@@ -3948,8 +3780,8 @@
     }
   },
   {
-    "id": 11795,
-    "Cloth Name": "power helmet",
+    "id": 838,
+    "cloth_name": "power helmet",
     "variant_id": "838_Helmet_11795",
     "locale": {
       "USen": "Green",
@@ -3969,8 +3801,8 @@
     }
   },
   {
-    "id": 11796,
-    "Cloth Name": "power helmet",
+    "id": 838,
+    "cloth_name": "power helmet",
     "variant_id": "838_Helmet_11796",
     "locale": {
       "USen": "Black",
@@ -3990,8 +3822,8 @@
     }
   },
   {
-    "id": 5840,
-    "Cloth Name": "paper bag",
+    "id": 900,
+    "cloth_name": "paper bag",
     "variant_id": "900_Helmet_05840",
     "locale": {
       "USen": "Beige",
@@ -4011,8 +3843,8 @@
     }
   },
   {
-    "id": 6034,
-    "Cloth Name": "fox mask",
+    "id": 917,
+    "cloth_name": "fox mask",
     "variant_id": "917_Helmet_06034",
     "locale": {
       "USen": "White",
@@ -4032,8 +3864,8 @@
     }
   },
   {
-    "id": 11171,
-    "Cloth Name": "fox mask",
+    "id": 917,
+    "cloth_name": "fox mask",
     "variant_id": "917_Helmet_11171",
     "locale": {
       "USen": "Black",
@@ -4053,8 +3885,8 @@
     }
   },
   {
-    "id": 6035,
-    "Cloth Name": "elder mask",
+    "id": 918,
+    "cloth_name": "elder mask",
     "variant_id": "918_Helmet_06035",
     "locale": {
       "USen": "White",
@@ -4074,8 +3906,8 @@
     }
   },
   {
-    "id": 6036,
-    "Cloth Name": "Noh mask",
+    "id": 919,
+    "cloth_name": "Noh mask",
     "variant_id": "919_Helmet_06036",
     "locale": {
       "USen": "White",
@@ -4095,8 +3927,8 @@
     }
   },
   {
-    "id": 6041,
-    "Cloth Name": "hockey mask",
+    "id": 923,
+    "cloth_name": "hockey mask",
     "variant_id": "923_Helmet_06041",
     "locale": {
       "USen": "White",
@@ -4116,8 +3948,8 @@
     }
   },
   {
-    "id": 6050,
-    "Cloth Name": "catcher's mask",
+    "id": 931,
+    "cloth_name": "catcher's mask",
     "variant_id": "931_Helmet_06050",
     "locale": {
       "USen": "Red",
@@ -4137,8 +3969,8 @@
     }
   },
   {
-    "id": 11600,
-    "Cloth Name": "catcher's mask",
+    "id": 931,
+    "cloth_name": "catcher's mask",
     "variant_id": "931_Helmet_11600",
     "locale": {
       "USen": "Navy blue",
@@ -4158,8 +3990,8 @@
     }
   },
   {
-    "id": 11601,
-    "Cloth Name": "catcher's mask",
+    "id": 931,
+    "cloth_name": "catcher's mask",
     "variant_id": "931_Helmet_11601",
     "locale": {
       "USen": "Green",
@@ -4179,8 +4011,8 @@
     }
   },
   {
-    "id": 11602,
-    "Cloth Name": "catcher's mask",
+    "id": 931,
+    "cloth_name": "catcher's mask",
     "variant_id": "931_Helmet_11602",
     "locale": {
       "USen": "Orange",
@@ -4200,8 +4032,8 @@
     }
   },
   {
-    "id": 11603,
-    "Cloth Name": "catcher's mask",
+    "id": 931,
+    "cloth_name": "catcher's mask",
     "variant_id": "931_Helmet_11603",
     "locale": {
       "USen": "Yellow",
@@ -4221,8 +4053,8 @@
     }
   },
   {
-    "id": 6052,
-    "Cloth Name": "kaffiyeh",
+    "id": 933,
+    "cloth_name": "kaffiyeh",
     "variant_id": "933_Helmet_06052",
     "locale": {
       "USen": "White",
@@ -4242,8 +4074,8 @@
     }
   },
   {
-    "id": 9747,
-    "Cloth Name": "kaffiyeh",
+    "id": 933,
+    "cloth_name": "kaffiyeh",
     "variant_id": "933_Helmet_09747",
     "locale": {
       "USen": "Red",
@@ -4263,8 +4095,8 @@
     }
   },
   {
-    "id": 9748,
-    "Cloth Name": "kaffiyeh",
+    "id": 933,
+    "cloth_name": "kaffiyeh",
     "variant_id": "933_Helmet_09748",
     "locale": {
       "USen": "Black",
@@ -4284,8 +4116,8 @@
     }
   },
   {
-    "id": 6053,
-    "Cloth Name": "stagehand hat",
+    "id": 934,
+    "cloth_name": "stagehand hat",
     "variant_id": "934_Helmet_06053",
     "locale": {
       "USen": "Black",
@@ -4305,8 +4137,8 @@
     }
   },
   {
-    "id": 7291,
-    "Cloth Name": "leaf mask",
+    "id": 956,
+    "cloth_name": "leaf mask",
     "variant_id": "956_Helmet_07291",
     "locale": {
       "USen": "Green",
@@ -4323,6 +4155,426 @@
       "JPja": "グリーン",
       "KRko": "그린",
       "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1008,
+    "cloth_name": "tiara hair",
+    "variant_id": "1008_Helmet_06092",
+    "locale": {
+      "USen": "Silver",
+      "EUen": "Silver",
+      "EUde": "Silber",
+      "EUes": "Plateado",
+      "USes": "Plateado",
+      "EUfr": "Argent",
+      "USfr": "Argent",
+      "EUit": "Argentato",
+      "EUnl": "Zilver",
+      "CNzh": "银色",
+      "TWzh": "銀色",
+      "JPja": "シルバー",
+      "KRko": "실버",
+      "EUru": "Серебряный"
+    }
+  },
+  {
+    "id": 1008,
+    "cloth_name": "tiara hair",
+    "variant_id": "1008_Helmet_09749",
+    "locale": {
+      "USen": "Gold",
+      "EUen": "Gold",
+      "EUde": "Gold",
+      "EUes": "Dorado",
+      "USes": "Dorado",
+      "EUfr": "Or",
+      "USfr": "Or",
+      "EUit": "Dorato",
+      "EUnl": "Goud",
+      "CNzh": "金色",
+      "TWzh": "金色",
+      "JPja": "ゴールド",
+      "KRko": "골드",
+      "EUru": "Золотой"
+    }
+  },
+  {
+    "id": 1008,
+    "cloth_name": "tiara hair",
+    "variant_id": "1008_Helmet_09750",
+    "locale": {
+      "USen": "Rose gold",
+      "EUen": "Rose gold",
+      "EUde": "Rosagold",
+      "EUes": "Oro rosa",
+      "USes": "Oro rosa",
+      "EUfr": "Or rose",
+      "USfr": "Or rose",
+      "EUit": "Oro rosa",
+      "EUnl": "Roségoud",
+      "CNzh": "粉金色",
+      "TWzh": "玫瑰金",
+      "JPja": "ピンクゴールド",
+      "KRko": "핑크 골드",
+      "EUru": "Розовое золото"
+    }
+  },
+  {
+    "id": 1009,
+    "cloth_name": "headband",
+    "variant_id": "1009_Helmet_06093",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1009,
+    "cloth_name": "headband",
+    "variant_id": "1009_Helmet_11894",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1009,
+    "cloth_name": "headband",
+    "variant_id": "1009_Helmet_11895",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1009,
+    "cloth_name": "headband",
+    "variant_id": "1009_Helmet_11896",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1010,
+    "cloth_name": "coin headpiece",
+    "variant_id": "1010_Helmet_06091",
+    "locale": {
+      "USen": "Gold",
+      "EUen": "Gold",
+      "EUde": "Gold",
+      "EUes": "Dorado",
+      "USes": "Dorado",
+      "EUfr": "Or",
+      "USfr": "Or",
+      "EUit": "Dorato",
+      "EUnl": "Goud",
+      "CNzh": "金色",
+      "TWzh": "金色",
+      "JPja": "ゴールド",
+      "KRko": "골드",
+      "EUru": "Золотой"
+    }
+  },
+  {
+    "id": 1011,
+    "cloth_name": "pigtail",
+    "variant_id": "1011_Helmet_05819",
+    "locale": {
+      "USen": "Hair Color",
+      "EUen": "Hair Color",
+      "EUde": "Haarfarbe",
+      "EUes": "Color del pelo",
+      "USes": "Color del pelo",
+      "EUfr": "Couleur de cheveux",
+      "USfr": "Couleur de cheveux",
+      "EUit": "Colore dei capelli",
+      "EUnl": "Haarkleur",
+      "CNzh": "发色",
+      "TWzh": "頭髮顏色",
+      "JPja": "ヘアカラー",
+      "KRko": "헤어 컬러",
+      "EUru": "Цвет волос"
+    }
+  },
+  {
+    "id": 1012,
+    "cloth_name": "visual-punk wig",
+    "variant_id": "1012_Helmet_05832",
+    "locale": {
+      "USen": "Hair Color",
+      "EUen": "Hair Color",
+      "EUde": "Haarfarbe",
+      "EUes": "Color del pelo",
+      "USes": "Color del pelo",
+      "EUfr": "Couleur de cheveux",
+      "USfr": "Couleur de cheveux",
+      "EUit": "Colore dei capelli",
+      "EUnl": "Haarkleur",
+      "CNzh": "发色",
+      "TWzh": "頭髮顏色",
+      "JPja": "ヘアカラー",
+      "KRko": "헤어 컬러",
+      "EUru": "Цвет волос"
+    }
+  },
+  {
+    "id": 1040,
+    "cloth_name": "snowperson head",
+    "variant_id": "1040_Helmet_08609",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1113,
+    "cloth_name": "star head",
+    "variant_id": "1113_Helmet_09862",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1265,
+    "cloth_name": "magic-academy hood",
+    "variant_id": "1265_Helmet_13003",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1265,
+    "cloth_name": "magic-academy hood",
+    "variant_id": "1265_Helmet_13398",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1265,
+    "cloth_name": "magic-academy hood",
+    "variant_id": "1265_Helmet_13399",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1265,
+    "cloth_name": "magic-academy hood",
+    "variant_id": "1265_Helmet_13400",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1265,
+    "cloth_name": "magic-academy hood",
+    "variant_id": "1265_Helmet_13401",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1265,
+    "cloth_name": "magic-academy hood",
+    "variant_id": "1265_Helmet_13402",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1266,
+    "cloth_name": "Jack's face",
+    "variant_id": "1266_Helmet_13002",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1343,
+    "cloth_name": "okame mask",
+    "variant_id": "1343_Helmet_13910",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
     }
   }
 ]

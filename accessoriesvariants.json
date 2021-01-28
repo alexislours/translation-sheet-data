@@ -1,427 +1,7 @@
 [
   {
-    "id": 2298,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_02298",
-    "locale": {
-      "USen": "Baby purple",
-      "EUen": "Baby purple",
-      "EUde": "Lila",
-      "EUes": "Morado pastel",
-      "USes": "Morado pastel",
-      "EUfr": "Violet pastel",
-      "USfr": "Mauve pastel",
-      "EUit": "Viola pastello",
-      "EUnl": "Paars",
-      "CNzh": "嫩紫色",
-      "TWzh": "粉嫩紫色",
-      "JPja": "ベビーパープル",
-      "KRko": "베이비 퍼플",
-      "EUru": "Нежно-фиолетовый"
-    }
-  },
-  {
-    "id": 11013,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11013",
-    "locale": {
-      "USen": "Baby mint",
-      "EUen": "Baby mint",
-      "EUde": "Minzgrün",
-      "EUes": "Turquesa pastel",
-      "USes": "Turquesa pastel",
-      "EUfr": "Turquoise pastel",
-      "USfr": "Turquoise pastel",
-      "EUit": "Menta pastello",
-      "EUnl": "Mintgroen",
-      "CNzh": "嫩薄荷色",
-      "TWzh": "粉嫩薄荷綠",
-      "JPja": "ベビーミント",
-      "KRko": "베이비 민트",
-      "EUru": "Нежно-мятный"
-    }
-  },
-  {
-    "id": 11014,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11014",
-    "locale": {
-      "USen": "Baby yellow",
-      "EUen": "Baby yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo pastel",
-      "USes": "Amarillo pastel",
-      "EUfr": "Jaune pastel",
-      "USfr": "Jaune pastel",
-      "EUit": "Giallo pastello",
-      "EUnl": "Geel",
-      "CNzh": "嫩黄色",
-      "TWzh": "粉嫩黃色",
-      "JPja": "ベビーイエロー",
-      "KRko": "베이비 옐로",
-      "EUru": "Нежно-желтый"
-    }
-  },
-  {
-    "id": 11015,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11015",
-    "locale": {
-      "USen": "Baby green",
-      "EUen": "Baby green",
-      "EUde": "Grün",
-      "EUes": "Verde pastel",
-      "USes": "Verde pastel",
-      "EUfr": "Vert pastel",
-      "USfr": "Vert pastel",
-      "EUit": "Verde pastello",
-      "EUnl": "Groen",
-      "CNzh": "嫩绿色",
-      "TWzh": "粉嫩綠色",
-      "JPja": "ベビーグリーン",
-      "KRko": "베이비 그린",
-      "EUru": "Нежно-зеленый"
-    }
-  },
-  {
-    "id": 11016,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11016",
-    "locale": {
-      "USen": "Baby pink",
-      "EUen": "Baby pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa pastel",
-      "USes": "Rosa pastel",
-      "EUfr": "Rose pastel",
-      "USfr": "Rose pastel",
-      "EUit": "Rosa pastello",
-      "EUnl": "Roze",
-      "CNzh": "嫩粉红色",
-      "TWzh": "粉嫩粉紅色",
-      "JPja": "ベビーピンク",
-      "KRko": "베이비 핑크",
-      "EUru": "Нежно-розовый"
-    }
-  },
-  {
-    "id": 11017,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11017",
-    "locale": {
-      "USen": "Baby gray",
-      "EUen": "Baby gray",
-      "EUde": "Grau",
-      "EUes": "Gris pastel",
-      "USes": "Gris pastel",
-      "EUfr": "Gris pastel",
-      "USfr": "Gris pastel",
-      "EUit": "Grigio pastello",
-      "EUnl": "Grijs",
-      "CNzh": "嫩灰色",
-      "TWzh": "粉嫩灰色",
-      "JPja": "ベビーグレー",
-      "KRko": "베이비 그레이",
-      "EUru": "Нежно-серый"
-    }
-  },
-  {
-    "id": 11018,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11018",
-    "locale": {
-      "USen": "Baby blue",
-      "EUen": "Baby blue",
-      "EUde": "Blau",
-      "EUes": "Azul pastel",
-      "USes": "Azul pastel",
-      "EUfr": "Bleu pastel",
-      "USfr": "Bleu pastel",
-      "EUit": "Blu pastello",
-      "EUnl": "Blauw",
-      "CNzh": "嫩蓝色",
-      "TWzh": "粉嫩藍色",
-      "JPja": "ベビーブルー",
-      "KRko": "베이비 블루",
-      "EUru": "Нежно-синий"
-    }
-  },
-  {
-    "id": 11019,
-    "Cloth Name": "pacifier",
-    "variant_id": "1055_Accessory_11019",
-    "locale": {
-      "USen": "Baby orange",
-      "EUen": "Baby orange",
-      "EUde": "Orange",
-      "EUes": "Naranja pastel",
-      "USes": "Naranja pastel",
-      "EUfr": "Orange pastel",
-      "USfr": "Orange pastel",
-      "EUit": "Arancione pastello",
-      "EUnl": "Oranje",
-      "CNzh": "嫩橘色",
-      "TWzh": "粉嫩橘色",
-      "JPja": "ベビーオレンジ",
-      "KRko": "베이비 오렌지",
-      "EUru": "Нежно-оранжевый"
-    }
-  },
-  {
-    "id": 9887,
-    "Cloth Name": "Labelle sunglasses",
-    "variant_id": "1137_Accessory_09887",
-    "locale": {
-      "USen": "Twilight",
-      "EUen": "Twilight",
-      "EUde": "Dämmerung",
-      "EUes": "Crepúsculo",
-      "USes": "Crepúsculo",
-      "EUfr": "Crépuscule",
-      "USfr": "Crépuscule",
-      "EUit": "Crepuscolo",
-      "EUnl": "As",
-      "CNzh": "黎明",
-      "TWzh": "曙光",
-      "JPja": "トワイライト",
-      "KRko": "트와일라잇",
-      "EUru": "Сумерки"
-    }
-  },
-  {
-    "id": 11776,
-    "Cloth Name": "Labelle sunglasses",
-    "variant_id": "1137_Accessory_11776",
-    "locale": {
-      "USen": "Midnight",
-      "EUen": "Midnight",
-      "EUde": "Mitternacht",
-      "EUes": "Medianoche",
-      "USes": "Medianoche",
-      "EUfr": "Ténèbres",
-      "USfr": "Ténèbres",
-      "EUit": "Tenebre",
-      "EUnl": "Inkt",
-      "CNzh": "午夜",
-      "TWzh": "午夜",
-      "JPja": "ミッドナイト",
-      "KRko": "미드나이트",
-      "EUru": "Полночь"
-    }
-  },
-  {
-    "id": 11777,
-    "Cloth Name": "Labelle sunglasses",
-    "variant_id": "1137_Accessory_11777",
-    "locale": {
-      "USen": "Passion",
-      "EUen": "Passion",
-      "EUde": "Leidenschaft",
-      "EUes": "Pasión",
-      "USes": "Pasión",
-      "EUfr": "Passion",
-      "USfr": "Passion",
-      "EUit": "Passione",
-      "EUnl": "Vuur & Vlam",
-      "CNzh": "热情",
-      "TWzh": "熱情",
-      "JPja": "パッション",
-      "KRko": "바이올렛",
-      "EUru": "Темперамент"
-    }
-  },
-  {
-    "id": 11778,
-    "Cloth Name": "Labelle sunglasses",
-    "variant_id": "1137_Accessory_11778",
-    "locale": {
-      "USen": "Ocean",
-      "EUen": "Ocean",
-      "EUde": "Ozean",
-      "EUes": "Océano",
-      "USes": "Océano",
-      "EUfr": "Océan",
-      "USfr": "Océan",
-      "EUit": "Oceano",
-      "EUnl": "7e Hemel",
-      "CNzh": "海洋",
-      "TWzh": "海洋",
-      "JPja": "オーシャン",
-      "KRko": "오션",
-      "EUru": "Океан"
-    }
-  },
-  {
-    "id": 11779,
-    "Cloth Name": "Labelle sunglasses",
-    "variant_id": "1137_Accessory_11779",
-    "locale": {
-      "USen": "Sunset",
-      "EUen": "Sunset",
-      "EUde": "Sonnenuntergang",
-      "EUes": "Puesta de sol",
-      "USes": "Puesta de sol",
-      "EUfr": "Soleil couchant",
-      "USfr": "Soleil couchant",
-      "EUit": "Girasole",
-      "EUnl": "Klatergoud",
-      "CNzh": "日落",
-      "TWzh": "日落",
-      "JPja": "サンセット",
-      "KRko": "선셋",
-      "EUru": "Закат"
-    }
-  },
-  {
-    "id": 11780,
-    "Cloth Name": "Labelle sunglasses",
-    "variant_id": "1137_Accessory_11780",
-    "locale": {
-      "USen": "Love",
-      "EUen": "Love",
-      "EUde": "Romantik",
-      "EUes": "Amor",
-      "USes": "Amor",
-      "EUfr": "Romance",
-      "USfr": "Romance",
-      "EUit": "Romanticismo",
-      "EUnl": "Roze Bril",
-      "CNzh": "爱",
-      "TWzh": "愛",
-      "JPja": "ラブ",
-      "KRko": "러브",
-      "EUru": "Любовь"
-    }
-  },
-  {
-    "id": 9654,
-    "Cloth Name": "Nook Inc. eye mask",
-    "variant_id": "1148_Accessory_09654",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 12128,
-    "Cloth Name": "DAL eye mask",
-    "variant_id": "1182_Accessory_12128",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 12129,
-    "Cloth Name": "DAL sunglasses",
-    "variant_id": "1183_Accessory_12129",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 12662,
-    "Cloth Name": "pirate eye patch",
-    "variant_id": "1225_Accessory_12662",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 12663,
-    "Cloth Name": "pirate beard",
-    "variant_id": "1226_Accessory_12663",
-    "locale": {
-      "USen": "Hair Color",
-      "EUen": "Hair Color",
-      "EUde": "Haarfarbe",
-      "EUes": "Color del pelo",
-      "USes": "Color del pelo",
-      "EUfr": "Couleur de cheveux",
-      "USfr": "Couleur de cheveux",
-      "EUit": "Colore dei capelli",
-      "EUnl": "Haarkleur",
-      "CNzh": "发色",
-      "TWzh": "頭髮顏色",
-      "JPja": "ヘアカラー",
-      "KRko": "헤어 컬러",
-      "EUru": "Цвет волос"
-    }
-  },
-  {
-    "id": 13215,
-    "Cloth Name": "Nook Inc. snorkel",
-    "variant_id": "1300_Accessory_13215",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 3549,
-    "Cloth Name": "beak",
+    "id": 184,
+    "cloth_name": "beak",
     "variant_id": "184_Accessory_03549",
     "locale": {
       "USen": "Yellow",
@@ -441,8 +21,8 @@
     }
   },
   {
-    "id": 3550,
-    "Cloth Name": "handlebar mustache",
+    "id": 185,
+    "cloth_name": "handlebar mustache",
     "variant_id": "185_Accessory_03550",
     "locale": {
       "USen": "Hair Color",
@@ -462,8 +42,8 @@
     }
   },
   {
-    "id": 4235,
-    "Cloth Name": "rimmed glasses",
+    "id": 257,
+    "cloth_name": "rimmed glasses",
     "variant_id": "257_Accessory_04235",
     "locale": {
       "USen": "Black",
@@ -483,8 +63,8 @@
     }
   },
   {
-    "id": 11184,
-    "Cloth Name": "rimmed glasses",
+    "id": 257,
+    "cloth_name": "rimmed glasses",
     "variant_id": "257_Accessory_11184",
     "locale": {
       "USen": "Gold",
@@ -504,8 +84,8 @@
     }
   },
   {
-    "id": 11185,
-    "Cloth Name": "rimmed glasses",
+    "id": 257,
+    "cloth_name": "rimmed glasses",
     "variant_id": "257_Accessory_11185",
     "locale": {
       "USen": "Gray",
@@ -525,8 +105,8 @@
     }
   },
   {
-    "id": 11186,
-    "Cloth Name": "rimmed glasses",
+    "id": 257,
+    "cloth_name": "rimmed glasses",
     "variant_id": "257_Accessory_11186",
     "locale": {
       "USen": "Brown",
@@ -546,8 +126,8 @@
     }
   },
   {
-    "id": 11187,
-    "Cloth Name": "rimmed glasses",
+    "id": 257,
+    "cloth_name": "rimmed glasses",
     "variant_id": "257_Accessory_11187",
     "locale": {
       "USen": "Purple",
@@ -567,8 +147,8 @@
     }
   },
   {
-    "id": 4236,
-    "Cloth Name": "square glasses",
+    "id": 258,
+    "cloth_name": "square glasses",
     "variant_id": "258_Accessory_04236",
     "locale": {
       "USen": "Brown",
@@ -588,8 +168,8 @@
     }
   },
   {
-    "id": 11066,
-    "Cloth Name": "square glasses",
+    "id": 258,
+    "cloth_name": "square glasses",
     "variant_id": "258_Accessory_11066",
     "locale": {
       "USen": "Black",
@@ -609,8 +189,8 @@
     }
   },
   {
-    "id": 11067,
-    "Cloth Name": "square glasses",
+    "id": 258,
+    "cloth_name": "square glasses",
     "variant_id": "258_Accessory_11067",
     "locale": {
       "USen": "Gray",
@@ -630,8 +210,8 @@
     }
   },
   {
-    "id": 11068,
-    "Cloth Name": "square glasses",
+    "id": 258,
+    "cloth_name": "square glasses",
     "variant_id": "258_Accessory_11068",
     "locale": {
       "USen": "Blue",
@@ -651,8 +231,8 @@
     }
   },
   {
-    "id": 4237,
-    "Cloth Name": "heart shades",
+    "id": 259,
+    "cloth_name": "heart shades",
     "variant_id": "259_Accessory_04237",
     "locale": {
       "USen": "Pink",
@@ -672,8 +252,8 @@
     }
   },
   {
-    "id": 11188,
-    "Cloth Name": "heart shades",
+    "id": 259,
+    "cloth_name": "heart shades",
     "variant_id": "259_Accessory_11188",
     "locale": {
       "USen": "Yellow",
@@ -693,8 +273,8 @@
     }
   },
   {
-    "id": 11189,
-    "Cloth Name": "heart shades",
+    "id": 259,
+    "cloth_name": "heart shades",
     "variant_id": "259_Accessory_11189",
     "locale": {
       "USen": "Blue",
@@ -714,8 +294,8 @@
     }
   },
   {
-    "id": 11190,
-    "Cloth Name": "heart shades",
+    "id": 259,
+    "cloth_name": "heart shades",
     "variant_id": "259_Accessory_11190",
     "locale": {
       "USen": "Purple",
@@ -735,8 +315,8 @@
     }
   },
   {
-    "id": 11191,
-    "Cloth Name": "heart shades",
+    "id": 259,
+    "cloth_name": "heart shades",
     "variant_id": "259_Accessory_11191",
     "locale": {
       "USen": "Green",
@@ -756,8 +336,8 @@
     }
   },
   {
-    "id": 4238,
-    "Cloth Name": "browline glasses",
+    "id": 260,
+    "cloth_name": "browline glasses",
     "variant_id": "260_Accessory_04238",
     "locale": {
       "USen": "Black",
@@ -777,8 +357,8 @@
     }
   },
   {
-    "id": 11069,
-    "Cloth Name": "browline glasses",
+    "id": 260,
+    "cloth_name": "browline glasses",
     "variant_id": "260_Accessory_11069",
     "locale": {
       "USen": "Brown",
@@ -798,8 +378,8 @@
     }
   },
   {
-    "id": 11070,
-    "Cloth Name": "browline glasses",
+    "id": 260,
+    "cloth_name": "browline glasses",
     "variant_id": "260_Accessory_11070",
     "locale": {
       "USen": "Green",
@@ -819,8 +399,8 @@
     }
   },
   {
-    "id": 11071,
-    "Cloth Name": "browline glasses",
+    "id": 260,
+    "cloth_name": "browline glasses",
     "variant_id": "260_Accessory_11071",
     "locale": {
       "USen": "Gray",
@@ -840,8 +420,8 @@
     }
   },
   {
-    "id": 4239,
-    "Cloth Name": "octagonal glasses",
+    "id": 261,
+    "cloth_name": "octagonal glasses",
     "variant_id": "261_Accessory_04239",
     "locale": {
       "USen": "Gray",
@@ -861,8 +441,8 @@
     }
   },
   {
-    "id": 11072,
-    "Cloth Name": "octagonal glasses",
+    "id": 261,
+    "cloth_name": "octagonal glasses",
     "variant_id": "261_Accessory_11072",
     "locale": {
       "USen": "Green",
@@ -882,8 +462,8 @@
     }
   },
   {
-    "id": 11073,
-    "Cloth Name": "octagonal glasses",
+    "id": 261,
+    "cloth_name": "octagonal glasses",
     "variant_id": "261_Accessory_11073",
     "locale": {
       "USen": "Purple",
@@ -903,8 +483,8 @@
     }
   },
   {
-    "id": 11074,
-    "Cloth Name": "octagonal glasses",
+    "id": 261,
+    "cloth_name": "octagonal glasses",
     "variant_id": "261_Accessory_11074",
     "locale": {
       "USen": "Gold",
@@ -924,8 +504,8 @@
     }
   },
   {
-    "id": 11075,
-    "Cloth Name": "octagonal glasses",
+    "id": 261,
+    "cloth_name": "octagonal glasses",
     "variant_id": "261_Accessory_11075",
     "locale": {
       "USen": "Black",
@@ -945,8 +525,8 @@
     }
   },
   {
-    "id": 4240,
-    "Cloth Name": "star shades",
+    "id": 262,
+    "cloth_name": "star shades",
     "variant_id": "262_Accessory_04240",
     "locale": {
       "USen": "Yellow",
@@ -966,8 +546,8 @@
     }
   },
   {
-    "id": 11192,
-    "Cloth Name": "star shades",
+    "id": 262,
+    "cloth_name": "star shades",
     "variant_id": "262_Accessory_11192",
     "locale": {
       "USen": "Pink",
@@ -987,8 +567,8 @@
     }
   },
   {
-    "id": 11193,
-    "Cloth Name": "star shades",
+    "id": 262,
+    "cloth_name": "star shades",
     "variant_id": "262_Accessory_11193",
     "locale": {
       "USen": "Blue",
@@ -1008,8 +588,8 @@
     }
   },
   {
-    "id": 11194,
-    "Cloth Name": "star shades",
+    "id": 262,
+    "cloth_name": "star shades",
     "variant_id": "262_Accessory_11194",
     "locale": {
       "USen": "Purple",
@@ -1029,8 +609,8 @@
     }
   },
   {
-    "id": 11195,
-    "Cloth Name": "star shades",
+    "id": 262,
+    "cloth_name": "star shades",
     "variant_id": "262_Accessory_11195",
     "locale": {
       "USen": "Green",
@@ -1050,8 +630,8 @@
     }
   },
   {
-    "id": 4241,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_04241",
     "locale": {
       "USen": "Black",
@@ -1071,8 +651,8 @@
     }
   },
   {
-    "id": 11196,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11196",
     "locale": {
       "USen": "Green",
@@ -1092,8 +672,8 @@
     }
   },
   {
-    "id": 11197,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11197",
     "locale": {
       "USen": "Blue",
@@ -1113,8 +693,8 @@
     }
   },
   {
-    "id": 11198,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11198",
     "locale": {
       "USen": "Yellow",
@@ -1134,8 +714,8 @@
     }
   },
   {
-    "id": 11199,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11199",
     "locale": {
       "USen": "Pink",
@@ -1155,8 +735,8 @@
     }
   },
   {
-    "id": 11200,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11200",
     "locale": {
       "USen": "Red",
@@ -1176,8 +756,8 @@
     }
   },
   {
-    "id": 11201,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11201",
     "locale": {
       "USen": "White",
@@ -1197,8 +777,8 @@
     }
   },
   {
-    "id": 11202,
-    "Cloth Name": "round shades",
+    "id": 263,
+    "cloth_name": "round shades",
     "variant_id": "263_Accessory_11202",
     "locale": {
       "USen": "Purple",
@@ -1218,8 +798,8 @@
     }
   },
   {
-    "id": 4242,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_04242",
     "locale": {
       "USen": "Red",
@@ -1239,8 +819,8 @@
     }
   },
   {
-    "id": 11203,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_11203",
     "locale": {
       "USen": "Orange",
@@ -1260,8 +840,8 @@
     }
   },
   {
-    "id": 11204,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_11204",
     "locale": {
       "USen": "Blue",
@@ -1281,8 +861,8 @@
     }
   },
   {
-    "id": 11205,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_11205",
     "locale": {
       "USen": "Purple",
@@ -1302,8 +882,8 @@
     }
   },
   {
-    "id": 11206,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_11206",
     "locale": {
       "USen": "Green",
@@ -1323,8 +903,8 @@
     }
   },
   {
-    "id": 11207,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_11207",
     "locale": {
       "USen": "White",
@@ -1344,8 +924,8 @@
     }
   },
   {
-    "id": 11208,
-    "Cloth Name": "triangle shades",
+    "id": 264,
+    "cloth_name": "triangle shades",
     "variant_id": "264_Accessory_11208",
     "locale": {
       "USen": "Black",
@@ -1365,8 +945,8 @@
     }
   },
   {
-    "id": 4263,
-    "Cloth Name": "double-bridge glasses",
+    "id": 277,
+    "cloth_name": "double-bridge glasses",
     "variant_id": "277_Accessory_04263",
     "locale": {
       "USen": "Gold",
@@ -1386,8 +966,8 @@
     }
   },
   {
-    "id": 11076,
-    "Cloth Name": "double-bridge glasses",
+    "id": 277,
+    "cloth_name": "double-bridge glasses",
     "variant_id": "277_Accessory_11076",
     "locale": {
       "USen": "Purple",
@@ -1407,8 +987,8 @@
     }
   },
   {
-    "id": 11077,
-    "Cloth Name": "double-bridge glasses",
+    "id": 277,
+    "cloth_name": "double-bridge glasses",
     "variant_id": "277_Accessory_11077",
     "locale": {
       "USen": "Silver",
@@ -1428,8 +1008,8 @@
     }
   },
   {
-    "id": 11078,
-    "Cloth Name": "double-bridge glasses",
+    "id": 277,
+    "cloth_name": "double-bridge glasses",
     "variant_id": "277_Accessory_11078",
     "locale": {
       "USen": "Blue",
@@ -1449,8 +1029,8 @@
     }
   },
   {
-    "id": 4282,
-    "Cloth Name": "glass-bottle glasses",
+    "id": 286,
+    "cloth_name": "glass-bottle glasses",
     "variant_id": "286_Accessory_04282",
     "locale": {
       "USen": "Black",
@@ -1470,8 +1050,8 @@
     }
   },
   {
-    "id": 4337,
-    "Cloth Name": "shattered glasses",
+    "id": 315,
+    "cloth_name": "shattered glasses",
     "variant_id": "315_Accessory_04337",
     "locale": {
       "USen": "Black",
@@ -1491,8 +1071,8 @@
     }
   },
   {
-    "id": 4425,
-    "Cloth Name": "eye mask",
+    "id": 358,
+    "cloth_name": "eye mask",
     "variant_id": "358_Accessory_04425",
     "locale": {
       "USen": "Blue",
@@ -1512,8 +1092,8 @@
     }
   },
   {
-    "id": 11154,
-    "Cloth Name": "eye mask",
+    "id": 358,
+    "cloth_name": "eye mask",
     "variant_id": "358_Accessory_11154",
     "locale": {
       "USen": "Pink",
@@ -1533,8 +1113,8 @@
     }
   },
   {
-    "id": 11155,
-    "Cloth Name": "eye mask",
+    "id": 358,
+    "cloth_name": "eye mask",
     "variant_id": "358_Accessory_11155",
     "locale": {
       "USen": "Gray",
@@ -1554,8 +1134,8 @@
     }
   },
   {
-    "id": 11156,
-    "Cloth Name": "eye mask",
+    "id": 358,
+    "cloth_name": "eye mask",
     "variant_id": "358_Accessory_11156",
     "locale": {
       "USen": "Green",
@@ -1575,8 +1155,8 @@
     }
   },
   {
-    "id": 11157,
-    "Cloth Name": "eye mask",
+    "id": 358,
+    "cloth_name": "eye mask",
     "variant_id": "358_Accessory_11157",
     "locale": {
       "USen": "Orange",
@@ -1596,8 +1176,8 @@
     }
   },
   {
-    "id": 11158,
-    "Cloth Name": "eye mask",
+    "id": 358,
+    "cloth_name": "eye mask",
     "variant_id": "358_Accessory_11158",
     "locale": {
       "USen": "Red",
@@ -1617,8 +1197,8 @@
     }
   },
   {
-    "id": 4451,
-    "Cloth Name": "doctor's mask",
+    "id": 375,
+    "cloth_name": "doctor's mask",
     "variant_id": "375_Accessory_04451",
     "locale": {
       "USen": "White",
@@ -1638,8 +1218,8 @@
     }
   },
   {
-    "id": 4452,
-    "Cloth Name": "post-op patch",
+    "id": 376,
+    "cloth_name": "post-op patch",
     "variant_id": "376_Accessory_04452",
     "locale": {
       "USen": "White",
@@ -1659,8 +1239,8 @@
     }
   },
   {
-    "id": 4453,
-    "Cloth Name": "ski goggles",
+    "id": 377,
+    "cloth_name": "ski goggles",
     "variant_id": "377_Accessory_04453",
     "locale": {
       "USen": "White",
@@ -1680,8 +1260,8 @@
     }
   },
   {
-    "id": 11479,
-    "Cloth Name": "ski goggles",
+    "id": 377,
+    "cloth_name": "ski goggles",
     "variant_id": "377_Accessory_11479",
     "locale": {
       "USen": "Yellow",
@@ -1701,8 +1281,8 @@
     }
   },
   {
-    "id": 11480,
-    "Cloth Name": "ski goggles",
+    "id": 377,
+    "cloth_name": "ski goggles",
     "variant_id": "377_Accessory_11480",
     "locale": {
       "USen": "Purple",
@@ -1722,8 +1302,8 @@
     }
   },
   {
-    "id": 11481,
-    "Cloth Name": "ski goggles",
+    "id": 377,
+    "cloth_name": "ski goggles",
     "variant_id": "377_Accessory_11481",
     "locale": {
       "USen": "Pink",
@@ -1743,8 +1323,8 @@
     }
   },
   {
-    "id": 11482,
-    "Cloth Name": "ski goggles",
+    "id": 377,
+    "cloth_name": "ski goggles",
     "variant_id": "377_Accessory_11482",
     "locale": {
       "USen": "Green",
@@ -1764,8 +1344,8 @@
     }
   },
   {
-    "id": 11483,
-    "Cloth Name": "ski goggles",
+    "id": 377,
+    "cloth_name": "ski goggles",
     "variant_id": "377_Accessory_11483",
     "locale": {
       "USen": "Orange",
@@ -1785,8 +1365,8 @@
     }
   },
   {
-    "id": 4454,
-    "Cloth Name": "goggles",
+    "id": 378,
+    "cloth_name": "goggles",
     "variant_id": "378_Accessory_04454",
     "locale": {
       "USen": "Black",
@@ -1806,8 +1386,8 @@
     }
   },
   {
-    "id": 11484,
-    "Cloth Name": "goggles",
+    "id": 378,
+    "cloth_name": "goggles",
     "variant_id": "378_Accessory_11484",
     "locale": {
       "USen": "Blue",
@@ -1827,8 +1407,8 @@
     }
   },
   {
-    "id": 11485,
-    "Cloth Name": "goggles",
+    "id": 378,
+    "cloth_name": "goggles",
     "variant_id": "378_Accessory_11485",
     "locale": {
       "USen": "Pink",
@@ -1848,8 +1428,8 @@
     }
   },
   {
-    "id": 11486,
-    "Cloth Name": "goggles",
+    "id": 378,
+    "cloth_name": "goggles",
     "variant_id": "378_Accessory_11486",
     "locale": {
       "USen": "Green",
@@ -1869,8 +1449,8 @@
     }
   },
   {
-    "id": 11487,
-    "Cloth Name": "goggles",
+    "id": 378,
+    "cloth_name": "goggles",
     "variant_id": "378_Accessory_11487",
     "locale": {
       "USen": "Purple",
@@ -1890,8 +1470,8 @@
     }
   },
   {
-    "id": 11488,
-    "Cloth Name": "goggles",
+    "id": 378,
+    "cloth_name": "goggles",
     "variant_id": "378_Accessory_11488",
     "locale": {
       "USen": "Red",
@@ -1911,8 +1491,8 @@
     }
   },
   {
-    "id": 4456,
-    "Cloth Name": "retro shades",
+    "id": 379,
+    "cloth_name": "retro shades",
     "variant_id": "379_Accessory_04456",
     "locale": {
       "USen": "Yellow",
@@ -1932,8 +1512,8 @@
     }
   },
   {
-    "id": 11209,
-    "Cloth Name": "retro shades",
+    "id": 379,
+    "cloth_name": "retro shades",
     "variant_id": "379_Accessory_11209",
     "locale": {
       "USen": "Green",
@@ -1953,8 +1533,8 @@
     }
   },
   {
-    "id": 11210,
-    "Cloth Name": "retro shades",
+    "id": 379,
+    "cloth_name": "retro shades",
     "variant_id": "379_Accessory_11210",
     "locale": {
       "USen": "Red",
@@ -1974,8 +1554,8 @@
     }
   },
   {
-    "id": 11211,
-    "Cloth Name": "retro shades",
+    "id": 379,
+    "cloth_name": "retro shades",
     "variant_id": "379_Accessory_11211",
     "locale": {
       "USen": "Purple",
@@ -1995,8 +1575,8 @@
     }
   },
   {
-    "id": 11212,
-    "Cloth Name": "retro shades",
+    "id": 379,
+    "cloth_name": "retro shades",
     "variant_id": "379_Accessory_11212",
     "locale": {
       "USen": "Blue",
@@ -2016,8 +1596,8 @@
     }
   },
   {
-    "id": 11213,
-    "Cloth Name": "retro shades",
+    "id": 379,
+    "cloth_name": "retro shades",
     "variant_id": "379_Accessory_11213",
     "locale": {
       "USen": "Gray",
@@ -2037,8 +1617,8 @@
     }
   },
   {
-    "id": 4457,
-    "Cloth Name": "eye patch",
+    "id": 380,
+    "cloth_name": "eye patch",
     "variant_id": "380_Accessory_04457",
     "locale": {
       "USen": "Black",
@@ -2058,8 +1638,8 @@
     }
   },
   {
-    "id": 4458,
-    "Cloth Name": "sporty shades",
+    "id": 381,
+    "cloth_name": "sporty shades",
     "variant_id": "381_Accessory_04458",
     "locale": {
       "USen": "Black",
@@ -2079,8 +1659,8 @@
     }
   },
   {
-    "id": 11489,
-    "Cloth Name": "sporty shades",
+    "id": 381,
+    "cloth_name": "sporty shades",
     "variant_id": "381_Accessory_11489",
     "locale": {
       "USen": "White",
@@ -2100,8 +1680,8 @@
     }
   },
   {
-    "id": 11490,
-    "Cloth Name": "sporty shades",
+    "id": 381,
+    "cloth_name": "sporty shades",
     "variant_id": "381_Accessory_11490",
     "locale": {
       "USen": "Pink",
@@ -2121,8 +1701,8 @@
     }
   },
   {
-    "id": 11491,
-    "Cloth Name": "sporty shades",
+    "id": 381,
+    "cloth_name": "sporty shades",
     "variant_id": "381_Accessory_11491",
     "locale": {
       "USen": "Lime",
@@ -2142,8 +1722,8 @@
     }
   },
   {
-    "id": 11492,
-    "Cloth Name": "sporty shades",
+    "id": 381,
+    "cloth_name": "sporty shades",
     "variant_id": "381_Accessory_11492",
     "locale": {
       "USen": "Light blue",
@@ -2163,8 +1743,8 @@
     }
   },
   {
-    "id": 4459,
-    "Cloth Name": "pilot shades",
+    "id": 382,
+    "cloth_name": "pilot shades",
     "variant_id": "382_Accessory_04459",
     "locale": {
       "USen": "Black",
@@ -2184,8 +1764,8 @@
     }
   },
   {
-    "id": 11214,
-    "Cloth Name": "pilot shades",
+    "id": 382,
+    "cloth_name": "pilot shades",
     "variant_id": "382_Accessory_11214",
     "locale": {
       "USen": "Gold",
@@ -2205,8 +1785,8 @@
     }
   },
   {
-    "id": 4460,
-    "Cloth Name": "tortoise specs",
+    "id": 383,
+    "cloth_name": "tortoise specs",
     "variant_id": "383_Accessory_04460",
     "locale": {
       "USen": "Brown",
@@ -2226,8 +1806,8 @@
     }
   },
   {
-    "id": 11079,
-    "Cloth Name": "tortoise specs",
+    "id": 383,
+    "cloth_name": "tortoise specs",
     "variant_id": "383_Accessory_11079",
     "locale": {
       "USen": "Beige",
@@ -2247,8 +1827,8 @@
     }
   },
   {
-    "id": 11080,
-    "Cloth Name": "tortoise specs",
+    "id": 383,
+    "cloth_name": "tortoise specs",
     "variant_id": "383_Accessory_11080",
     "locale": {
       "USen": "Black",
@@ -2268,8 +1848,8 @@
     }
   },
   {
-    "id": 4461,
-    "Cloth Name": "tiny shades",
+    "id": 384,
+    "cloth_name": "tiny shades",
     "variant_id": "384_Accessory_04461",
     "locale": {
       "USen": "Gold",
@@ -2289,8 +1869,8 @@
     }
   },
   {
-    "id": 11215,
-    "Cloth Name": "tiny shades",
+    "id": 384,
+    "cloth_name": "tiny shades",
     "variant_id": "384_Accessory_11215",
     "locale": {
       "USen": "Black",
@@ -2310,8 +1890,8 @@
     }
   },
   {
-    "id": 11216,
-    "Cloth Name": "tiny shades",
+    "id": 384,
+    "cloth_name": "tiny shades",
     "variant_id": "384_Accessory_11216",
     "locale": {
       "USen": "Berry red",
@@ -2331,8 +1911,8 @@
     }
   },
   {
-    "id": 4462,
-    "Cloth Name": "monocle",
+    "id": 385,
+    "cloth_name": "monocle",
     "variant_id": "385_Accessory_04462",
     "locale": {
       "USen": "Black",
@@ -2352,8 +1932,8 @@
     }
   },
   {
-    "id": 11000,
-    "Cloth Name": "monocle",
+    "id": 385,
+    "cloth_name": "monocle",
     "variant_id": "385_Accessory_11000",
     "locale": {
       "USen": "Gold",
@@ -2373,8 +1953,8 @@
     }
   },
   {
-    "id": 11001,
-    "Cloth Name": "monocle",
+    "id": 385,
+    "cloth_name": "monocle",
     "variant_id": "385_Accessory_11001",
     "locale": {
       "USen": "Silver",
@@ -2394,8 +1974,8 @@
     }
   },
   {
-    "id": 4463,
-    "Cloth Name": "3D glasses",
+    "id": 386,
+    "cloth_name": "3D glasses",
     "variant_id": "386_Accessory_04463",
     "locale": {
       "USen": "White",
@@ -2415,8 +1995,8 @@
     }
   },
   {
-    "id": 11020,
-    "Cloth Name": "3D glasses",
+    "id": 386,
+    "cloth_name": "3D glasses",
     "variant_id": "386_Accessory_11020",
     "locale": {
       "USen": "Black",
@@ -2436,8 +2016,8 @@
     }
   },
   {
-    "id": 4464,
-    "Cloth Name": "ladder shades",
+    "id": 387,
+    "cloth_name": "ladder shades",
     "variant_id": "387_Accessory_04464",
     "locale": {
       "USen": "Red",
@@ -2457,8 +2037,8 @@
     }
   },
   {
-    "id": 11002,
-    "Cloth Name": "ladder shades",
+    "id": 387,
+    "cloth_name": "ladder shades",
     "variant_id": "387_Accessory_11002",
     "locale": {
       "USen": "Blue",
@@ -2478,8 +2058,8 @@
     }
   },
   {
-    "id": 11003,
-    "Cloth Name": "ladder shades",
+    "id": 387,
+    "cloth_name": "ladder shades",
     "variant_id": "387_Accessory_11003",
     "locale": {
       "USen": "Green",
@@ -2499,8 +2079,8 @@
     }
   },
   {
-    "id": 11004,
-    "Cloth Name": "ladder shades",
+    "id": 387,
+    "cloth_name": "ladder shades",
     "variant_id": "387_Accessory_11004",
     "locale": {
       "USen": "Pink",
@@ -2520,8 +2100,8 @@
     }
   },
   {
-    "id": 11005,
-    "Cloth Name": "ladder shades",
+    "id": 387,
+    "cloth_name": "ladder shades",
     "variant_id": "387_Accessory_11005",
     "locale": {
       "USen": "Yellow",
@@ -2541,8 +2121,8 @@
     }
   },
   {
-    "id": 11006,
-    "Cloth Name": "ladder shades",
+    "id": 387,
+    "cloth_name": "ladder shades",
     "variant_id": "387_Accessory_11006",
     "locale": {
       "USen": "Gold",
@@ -2562,8 +2142,8 @@
     }
   },
   {
-    "id": 4483,
-    "Cloth Name": "cat nose",
+    "id": 397,
+    "cloth_name": "cat nose",
     "variant_id": "397_Accessory_04483",
     "locale": {
       "USen": "White",
@@ -2583,8 +2163,8 @@
     }
   },
   {
-    "id": 11021,
-    "Cloth Name": "cat nose",
+    "id": 397,
+    "cloth_name": "cat nose",
     "variant_id": "397_Accessory_11021",
     "locale": {
       "USen": "Brown",
@@ -2604,8 +2184,8 @@
     }
   },
   {
-    "id": 11022,
-    "Cloth Name": "cat nose",
+    "id": 397,
+    "cloth_name": "cat nose",
     "variant_id": "397_Accessory_11022",
     "locale": {
       "USen": "Navy blue",
@@ -2625,8 +2205,8 @@
     }
   },
   {
-    "id": 4491,
-    "Cloth Name": "cucumber pack",
+    "id": 405,
+    "cloth_name": "cucumber pack",
     "variant_id": "405_Accessory_04491",
     "locale": {
       "USen": "Green",
@@ -2646,8 +2226,29 @@
     }
   },
   {
-    "id": 4496,
-    "Cloth Name": "fake nose",
+    "id": 406,
+    "cloth_name": "Santa beard",
+    "variant_id": "406_Accessory_04492",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 407,
+    "cloth_name": "fake nose",
     "variant_id": "407_Accessory_04496",
     "locale": {
       "USen": "Red",
@@ -2667,8 +2268,8 @@
     }
   },
   {
-    "id": 4501,
-    "Cloth Name": "stache & glasses",
+    "id": 408,
+    "cloth_name": "stache & glasses",
     "variant_id": "408_Accessory_04501",
     "locale": {
       "USen": "Black",
@@ -2688,8 +2289,8 @@
     }
   },
   {
-    "id": 11007,
-    "Cloth Name": "stache & glasses",
+    "id": 408,
+    "cloth_name": "stache & glasses",
     "variant_id": "408_Accessory_11007",
     "locale": {
       "USen": "Red",
@@ -2709,8 +2310,8 @@
     }
   },
   {
-    "id": 4510,
-    "Cloth Name": "birthday shades",
+    "id": 415,
+    "cloth_name": "birthday shades",
     "variant_id": "415_Accessory_04510",
     "locale": {
       "USen": "Yellow",
@@ -2730,8 +2331,8 @@
     }
   },
   {
-    "id": 11217,
-    "Cloth Name": "birthday shades",
+    "id": 415,
+    "cloth_name": "birthday shades",
     "variant_id": "415_Accessory_11217",
     "locale": {
       "USen": "Pink",
@@ -2751,8 +2352,8 @@
     }
   },
   {
-    "id": 11218,
-    "Cloth Name": "birthday shades",
+    "id": 415,
+    "cloth_name": "birthday shades",
     "variant_id": "415_Accessory_11218",
     "locale": {
       "USen": "Red",
@@ -2772,8 +2373,8 @@
     }
   },
   {
-    "id": 11219,
-    "Cloth Name": "birthday shades",
+    "id": 415,
+    "cloth_name": "birthday shades",
     "variant_id": "415_Accessory_11219",
     "locale": {
       "USen": "Blue",
@@ -2793,8 +2394,8 @@
     }
   },
   {
-    "id": 4512,
-    "Cloth Name": "facial mask",
+    "id": 417,
+    "cloth_name": "facial mask",
     "variant_id": "417_Accessory_04512",
     "locale": {
       "USen": "White",
@@ -2814,8 +2415,8 @@
     }
   },
   {
-    "id": 4513,
-    "Cloth Name": "funny glasses",
+    "id": 418,
+    "cloth_name": "funny glasses",
     "variant_id": "418_Accessory_04513",
     "locale": {
       "USen": "Brown",
@@ -2835,8 +2436,8 @@
     }
   },
   {
-    "id": 11008,
-    "Cloth Name": "funny glasses",
+    "id": 418,
+    "cloth_name": "funny glasses",
     "variant_id": "418_Accessory_11008",
     "locale": {
       "USen": "Pink",
@@ -2856,8 +2457,8 @@
     }
   },
   {
-    "id": 11009,
-    "Cloth Name": "funny glasses",
+    "id": 418,
+    "cloth_name": "funny glasses",
     "variant_id": "418_Accessory_11009",
     "locale": {
       "USen": "Blue",
@@ -2877,8 +2478,8 @@
     }
   },
   {
-    "id": 4551,
-    "Cloth Name": "snorkel mask",
+    "id": 432,
+    "cloth_name": "snorkel mask",
     "variant_id": "432_Accessory_04551",
     "locale": {
       "USen": "Blue",
@@ -2898,8 +2499,8 @@
     }
   },
   {
-    "id": 11493,
-    "Cloth Name": "snorkel mask",
+    "id": 432,
+    "cloth_name": "snorkel mask",
     "variant_id": "432_Accessory_11493",
     "locale": {
       "USen": "Orange",
@@ -2919,8 +2520,8 @@
     }
   },
   {
-    "id": 11494,
-    "Cloth Name": "snorkel mask",
+    "id": 432,
+    "cloth_name": "snorkel mask",
     "variant_id": "432_Accessory_11494",
     "locale": {
       "USen": "Red",
@@ -2940,8 +2541,8 @@
     }
   },
   {
-    "id": 11495,
-    "Cloth Name": "snorkel mask",
+    "id": 432,
+    "cloth_name": "snorkel mask",
     "variant_id": "432_Accessory_11495",
     "locale": {
       "USen": "Pink",
@@ -2961,8 +2562,8 @@
     }
   },
   {
-    "id": 11496,
-    "Cloth Name": "snorkel mask",
+    "id": 432,
+    "cloth_name": "snorkel mask",
     "variant_id": "432_Accessory_11496",
     "locale": {
       "USen": "Green",
@@ -2982,8 +2583,8 @@
     }
   },
   {
-    "id": 11497,
-    "Cloth Name": "snorkel mask",
+    "id": 432,
+    "cloth_name": "snorkel mask",
     "variant_id": "432_Accessory_11497",
     "locale": {
       "USen": "Black",
@@ -3003,8 +2604,8 @@
     }
   },
   {
-    "id": 4552,
-    "Cloth Name": "cyber shades",
+    "id": 433,
+    "cloth_name": "cyber shades",
     "variant_id": "433_Accessory_04552",
     "locale": {
       "USen": "Red",
@@ -3024,8 +2625,8 @@
     }
   },
   {
-    "id": 11498,
-    "Cloth Name": "cyber shades",
+    "id": 433,
+    "cloth_name": "cyber shades",
     "variant_id": "433_Accessory_11498",
     "locale": {
       "USen": "Black",
@@ -3045,8 +2646,8 @@
     }
   },
   {
-    "id": 11499,
-    "Cloth Name": "cyber shades",
+    "id": 433,
+    "cloth_name": "cyber shades",
     "variant_id": "433_Accessory_11499",
     "locale": {
       "USen": "Silver",
@@ -3066,8 +2667,8 @@
     }
   },
   {
-    "id": 11500,
-    "Cloth Name": "cyber shades",
+    "id": 433,
+    "cloth_name": "cyber shades",
     "variant_id": "433_Accessory_11500",
     "locale": {
       "USen": "Purple",
@@ -3087,8 +2688,8 @@
     }
   },
   {
-    "id": 11501,
-    "Cloth Name": "cyber shades",
+    "id": 433,
+    "cloth_name": "cyber shades",
     "variant_id": "433_Accessory_11501",
     "locale": {
       "USen": "Green",
@@ -3108,8 +2709,8 @@
     }
   },
   {
-    "id": 11502,
-    "Cloth Name": "cyber shades",
+    "id": 433,
+    "cloth_name": "cyber shades",
     "variant_id": "433_Accessory_11502",
     "locale": {
       "USen": "Yellow",
@@ -3129,8 +2730,8 @@
     }
   },
   {
-    "id": 4597,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_04597",
     "locale": {
       "USen": "Red",
@@ -3150,8 +2751,8 @@
     }
   },
   {
-    "id": 11081,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_11081",
     "locale": {
       "USen": "Purple",
@@ -3171,8 +2772,8 @@
     }
   },
   {
-    "id": 11082,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_11082",
     "locale": {
       "USen": "Green",
@@ -3192,8 +2793,8 @@
     }
   },
   {
-    "id": 11083,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_11083",
     "locale": {
       "USen": "Blue",
@@ -3213,8 +2814,8 @@
     }
   },
   {
-    "id": 11084,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_11084",
     "locale": {
       "USen": "Yellow",
@@ -3234,8 +2835,8 @@
     }
   },
   {
-    "id": 11085,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_11085",
     "locale": {
       "USen": "Pink",
@@ -3255,8 +2856,8 @@
     }
   },
   {
-    "id": 11086,
-    "Cloth Name": "bottom-rimmed glasses",
+    "id": 463,
+    "cloth_name": "bottom-rimmed glasses",
     "variant_id": "463_Accessory_11086",
     "locale": {
       "USen": "Black",
@@ -3276,8 +2877,8 @@
     }
   },
   {
-    "id": 4600,
-    "Cloth Name": "bunny nose",
+    "id": 466,
+    "cloth_name": "bunny nose",
     "variant_id": "466_Accessory_04600",
     "locale": {
       "USen": "Pink",
@@ -3297,8 +2898,8 @@
     }
   },
   {
-    "id": 11023,
-    "Cloth Name": "bunny nose",
+    "id": 466,
+    "cloth_name": "bunny nose",
     "variant_id": "466_Accessory_11023",
     "locale": {
       "USen": "Yellow",
@@ -3318,8 +2919,8 @@
     }
   },
   {
-    "id": 11024,
-    "Cloth Name": "bunny nose",
+    "id": 466,
+    "cloth_name": "bunny nose",
     "variant_id": "466_Accessory_11024",
     "locale": {
       "USen": "White",
@@ -3339,8 +2940,8 @@
     }
   },
   {
-    "id": 4607,
-    "Cloth Name": "round tinted shades",
+    "id": 473,
+    "cloth_name": "round tinted shades",
     "variant_id": "473_Accessory_04607",
     "locale": {
       "USen": "Brown",
@@ -3360,8 +2961,8 @@
     }
   },
   {
-    "id": 11220,
-    "Cloth Name": "round tinted shades",
+    "id": 473,
+    "cloth_name": "round tinted shades",
     "variant_id": "473_Accessory_11220",
     "locale": {
       "USen": "Light brown",
@@ -3381,8 +2982,8 @@
     }
   },
   {
-    "id": 11221,
-    "Cloth Name": "round tinted shades",
+    "id": 473,
+    "cloth_name": "round tinted shades",
     "variant_id": "473_Accessory_11221",
     "locale": {
       "USen": "Dark brown",
@@ -3402,8 +3003,8 @@
     }
   },
   {
-    "id": 11222,
-    "Cloth Name": "round tinted shades",
+    "id": 473,
+    "cloth_name": "round tinted shades",
     "variant_id": "473_Accessory_11222",
     "locale": {
       "USen": "Green",
@@ -3423,8 +3024,8 @@
     }
   },
   {
-    "id": 4608,
-    "Cloth Name": "butterfly shades",
+    "id": 474,
+    "cloth_name": "butterfly shades",
     "variant_id": "474_Accessory_04608",
     "locale": {
       "USen": "Blue",
@@ -3444,8 +3045,8 @@
     }
   },
   {
-    "id": 11503,
-    "Cloth Name": "butterfly shades",
+    "id": 474,
+    "cloth_name": "butterfly shades",
     "variant_id": "474_Accessory_11503",
     "locale": {
       "USen": "Red",
@@ -3465,8 +3066,8 @@
     }
   },
   {
-    "id": 11504,
-    "Cloth Name": "butterfly shades",
+    "id": 474,
+    "cloth_name": "butterfly shades",
     "variant_id": "474_Accessory_11504",
     "locale": {
       "USen": "Brown",
@@ -3486,8 +3087,8 @@
     }
   },
   {
-    "id": 4609,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_04609",
     "locale": {
       "USen": "Green",
@@ -3507,8 +3108,8 @@
     }
   },
   {
-    "id": 11087,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_11087",
     "locale": {
       "USen": "Orange",
@@ -3528,8 +3129,8 @@
     }
   },
   {
-    "id": 11088,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_11088",
     "locale": {
       "USen": "Blue",
@@ -3549,8 +3150,8 @@
     }
   },
   {
-    "id": 11089,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_11089",
     "locale": {
       "USen": "Purple",
@@ -3570,8 +3171,8 @@
     }
   },
   {
-    "id": 11090,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_11090",
     "locale": {
       "USen": "Magenta",
@@ -3591,8 +3192,8 @@
     }
   },
   {
-    "id": 11091,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_11091",
     "locale": {
       "USen": "Mustard",
@@ -3612,8 +3213,8 @@
     }
   },
   {
-    "id": 11092,
-    "Cloth Name": "oval glasses",
+    "id": 475,
+    "cloth_name": "oval glasses",
     "variant_id": "475_Accessory_11092",
     "locale": {
       "USen": "Black",
@@ -3633,8 +3234,8 @@
     }
   },
   {
-    "id": 4646,
-    "Cloth Name": "pixel shades",
+    "id": 484,
+    "cloth_name": "pixel shades",
     "variant_id": "484_Accessory_04646",
     "locale": {
       "USen": "Red",
@@ -3654,8 +3255,8 @@
     }
   },
   {
-    "id": 11223,
-    "Cloth Name": "pixel shades",
+    "id": 484,
+    "cloth_name": "pixel shades",
     "variant_id": "484_Accessory_11223",
     "locale": {
       "USen": "Green",
@@ -3675,8 +3276,8 @@
     }
   },
   {
-    "id": 11224,
-    "Cloth Name": "pixel shades",
+    "id": 484,
+    "cloth_name": "pixel shades",
     "variant_id": "484_Accessory_11224",
     "locale": {
       "USen": "Blue",
@@ -3696,8 +3297,8 @@
     }
   },
   {
-    "id": 11225,
-    "Cloth Name": "pixel shades",
+    "id": 484,
+    "cloth_name": "pixel shades",
     "variant_id": "484_Accessory_11225",
     "locale": {
       "USen": "Black",
@@ -3717,8 +3318,8 @@
     }
   },
   {
-    "id": 4647,
-    "Cloth Name": "pig nose",
+    "id": 485,
+    "cloth_name": "pig nose",
     "variant_id": "485_Accessory_04647",
     "locale": {
       "USen": "Pink",
@@ -3738,8 +3339,8 @@
     }
   },
   {
-    "id": 4649,
-    "Cloth Name": "gas mask",
+    "id": 487,
+    "cloth_name": "gas mask",
     "variant_id": "487_Accessory_04649",
     "locale": {
       "USen": "Black",
@@ -3759,8 +3360,8 @@
     }
   },
   {
-    "id": 11160,
-    "Cloth Name": "gas mask",
+    "id": 487,
+    "cloth_name": "gas mask",
     "variant_id": "487_Accessory_11160",
     "locale": {
       "USen": "Avocado",
@@ -3780,8 +3381,8 @@
     }
   },
   {
-    "id": 4652,
-    "Cloth Name": "sticky rice",
+    "id": 489,
+    "cloth_name": "sticky rice",
     "variant_id": "489_Accessory_04652",
     "locale": {
       "USen": "White",
@@ -3801,8 +3402,8 @@
     }
   },
   {
-    "id": 4667,
-    "Cloth Name": "masquerade mask",
+    "id": 494,
+    "cloth_name": "masquerade mask",
     "variant_id": "494_Accessory_04667",
     "locale": {
       "USen": "Purple",
@@ -3822,8 +3423,8 @@
     }
   },
   {
-    "id": 11161,
-    "Cloth Name": "masquerade mask",
+    "id": 494,
+    "cloth_name": "masquerade mask",
     "variant_id": "494_Accessory_11161",
     "locale": {
       "USen": "Black",
@@ -3843,8 +3444,8 @@
     }
   },
   {
-    "id": 11162,
-    "Cloth Name": "masquerade mask",
+    "id": 494,
+    "cloth_name": "masquerade mask",
     "variant_id": "494_Accessory_11162",
     "locale": {
       "USen": "Blue",
@@ -3864,8 +3465,8 @@
     }
   },
   {
-    "id": 11163,
-    "Cloth Name": "masquerade mask",
+    "id": 494,
+    "cloth_name": "masquerade mask",
     "variant_id": "494_Accessory_11163",
     "locale": {
       "USen": "Red",
@@ -3885,8 +3486,8 @@
     }
   },
   {
-    "id": 11164,
-    "Cloth Name": "masquerade mask",
+    "id": 494,
+    "cloth_name": "masquerade mask",
     "variant_id": "494_Accessory_11164",
     "locale": {
       "USen": "Green",
@@ -3906,8 +3507,8 @@
     }
   },
   {
-    "id": 11165,
-    "Cloth Name": "masquerade mask",
+    "id": 494,
+    "cloth_name": "masquerade mask",
     "variant_id": "494_Accessory_11165",
     "locale": {
       "USen": "Gold",
@@ -3927,8 +3528,8 @@
     }
   },
   {
-    "id": 4669,
-    "Cloth Name": "wooden-frame glasses",
+    "id": 496,
+    "cloth_name": "wooden-frame glasses",
     "variant_id": "496_Accessory_04669",
     "locale": {
       "USen": "Brown",
@@ -3948,8 +3549,8 @@
     }
   },
   {
-    "id": 11093,
-    "Cloth Name": "wooden-frame glasses",
+    "id": 496,
+    "cloth_name": "wooden-frame glasses",
     "variant_id": "496_Accessory_11093",
     "locale": {
       "USen": "Dark brown",
@@ -3969,8 +3570,8 @@
     }
   },
   {
-    "id": 4671,
-    "Cloth Name": "privacy mask",
+    "id": 497,
+    "cloth_name": "privacy mask",
     "variant_id": "497_Accessory_04671",
     "locale": {
       "USen": "Black",
@@ -3990,8 +3591,8 @@
     }
   },
   {
-    "id": 4672,
-    "Cloth Name": "curly mustache",
+    "id": 498,
+    "cloth_name": "curly mustache",
     "variant_id": "498_Accessory_04672",
     "locale": {
       "USen": "Hair Color",
@@ -4011,8 +3612,8 @@
     }
   },
   {
-    "id": 4676,
-    "Cloth Name": "goatee",
+    "id": 502,
+    "cloth_name": "goatee",
     "variant_id": "502_Accessory_04676",
     "locale": {
       "USen": "Hair Color",
@@ -4032,8 +3633,8 @@
     }
   },
   {
-    "id": 4677,
-    "Cloth Name": "bandage",
+    "id": 503,
+    "cloth_name": "bandage",
     "variant_id": "503_Accessory_04677",
     "locale": {
       "USen": "Beige",
@@ -4053,8 +3654,8 @@
     }
   },
   {
-    "id": 4678,
-    "Cloth Name": "jester's mask",
+    "id": 504,
+    "cloth_name": "jester's mask",
     "variant_id": "504_Accessory_04678",
     "locale": {
       "USen": "Black",
@@ -4074,8 +3675,8 @@
     }
   },
   {
-    "id": 11166,
-    "Cloth Name": "jester's mask",
+    "id": 504,
+    "cloth_name": "jester's mask",
     "variant_id": "504_Accessory_11166",
     "locale": {
       "USen": "Red",
@@ -4095,8 +3696,8 @@
     }
   },
   {
-    "id": 11167,
-    "Cloth Name": "jester's mask",
+    "id": 504,
+    "cloth_name": "jester's mask",
     "variant_id": "504_Accessory_11167",
     "locale": {
       "USen": "Green",
@@ -4116,8 +3717,8 @@
     }
   },
   {
-    "id": 11168,
-    "Cloth Name": "jester's mask",
+    "id": 504,
+    "cloth_name": "jester's mask",
     "variant_id": "504_Accessory_11168",
     "locale": {
       "USen": "Blue",
@@ -4137,8 +3738,8 @@
     }
   },
   {
-    "id": 4679,
-    "Cloth Name": "rounded beard",
+    "id": 505,
+    "cloth_name": "rounded beard",
     "variant_id": "505_Accessory_04679",
     "locale": {
       "USen": "Hair Color",
@@ -4158,8 +3759,8 @@
     }
   },
   {
-    "id": 4682,
-    "Cloth Name": "leaf",
+    "id": 508,
+    "cloth_name": "leaf",
     "variant_id": "508_Accessory_04682",
     "locale": {
       "USen": "Green",
@@ -4179,8 +3780,8 @@
     }
   },
   {
-    "id": 4683,
-    "Cloth Name": "rhinestone shades",
+    "id": 509,
+    "cloth_name": "rhinestone shades",
     "variant_id": "509_Accessory_04683",
     "locale": {
       "USen": "Red",
@@ -4200,8 +3801,8 @@
     }
   },
   {
-    "id": 11226,
-    "Cloth Name": "rhinestone shades",
+    "id": 509,
+    "cloth_name": "rhinestone shades",
     "variant_id": "509_Accessory_11226",
     "locale": {
       "USen": "Ochre",
@@ -4221,8 +3822,8 @@
     }
   },
   {
-    "id": 11227,
-    "Cloth Name": "rhinestone shades",
+    "id": 509,
+    "cloth_name": "rhinestone shades",
     "variant_id": "509_Accessory_11227",
     "locale": {
       "USen": "Purple",
@@ -4242,8 +3843,8 @@
     }
   },
   {
-    "id": 4684,
-    "Cloth Name": "superhero mask",
+    "id": 510,
+    "cloth_name": "superhero mask",
     "variant_id": "510_Accessory_04684",
     "locale": {
       "USen": "Black",
@@ -4263,8 +3864,8 @@
     }
   },
   {
-    "id": 4685,
-    "Cloth Name": "steampunk glasses",
+    "id": 511,
+    "cloth_name": "steampunk glasses",
     "variant_id": "511_Accessory_04685",
     "locale": {
       "USen": "Green",
@@ -4284,8 +3885,8 @@
     }
   },
   {
-    "id": 11505,
-    "Cloth Name": "steampunk glasses",
+    "id": 511,
+    "cloth_name": "steampunk glasses",
     "variant_id": "511_Accessory_11505",
     "locale": {
       "USen": "Purple",
@@ -4305,8 +3906,8 @@
     }
   },
   {
-    "id": 5182,
-    "Cloth Name": "HMD",
+    "id": 614,
+    "cloth_name": "HMD",
     "variant_id": "614_Accessory_05182",
     "locale": {
       "USen": "White",
@@ -4326,8 +3927,8 @@
     }
   },
   {
-    "id": 5261,
-    "Cloth Name": "night-vision goggles",
+    "id": 615,
+    "cloth_name": "night-vision goggles",
     "variant_id": "615_Accessory_05261",
     "locale": {
       "USen": "Black",
@@ -4347,8 +3948,8 @@
     }
   },
   {
-    "id": 5244,
-    "Cloth Name": "dog nose",
+    "id": 630,
+    "cloth_name": "dog nose",
     "variant_id": "630_Accessory_05244",
     "locale": {
       "USen": "White",
@@ -4368,8 +3969,8 @@
     }
   },
   {
-    "id": 11025,
-    "Cloth Name": "dog nose",
+    "id": 630,
+    "cloth_name": "dog nose",
     "variant_id": "630_Accessory_11025",
     "locale": {
       "USen": "Beige",
@@ -4389,8 +3990,8 @@
     }
   },
   {
-    "id": 11026,
-    "Cloth Name": "dog nose",
+    "id": 630,
+    "cloth_name": "dog nose",
     "variant_id": "630_Accessory_11026",
     "locale": {
       "USen": "Black",
@@ -4410,8 +4011,8 @@
     }
   },
   {
-    "id": 5666,
-    "Cloth Name": "candy-skull mask",
+    "id": 819,
+    "cloth_name": "candy-skull mask",
     "variant_id": "819_Accessory_05666",
     "locale": {
       "USen": "Purple",
@@ -4431,8 +4032,8 @@
     }
   },
   {
-    "id": 11169,
-    "Cloth Name": "candy-skull mask",
+    "id": 819,
+    "cloth_name": "candy-skull mask",
     "variant_id": "819_Accessory_11169",
     "locale": {
       "USen": "Orange",
@@ -4452,8 +4053,8 @@
     }
   },
   {
-    "id": 11170,
-    "Cloth Name": "candy-skull mask",
+    "id": 819,
+    "cloth_name": "candy-skull mask",
     "variant_id": "819_Accessory_11170",
     "locale": {
       "USen": "Blue",
@@ -4473,8 +4074,8 @@
     }
   },
   {
-    "id": 5738,
-    "Cloth Name": "bubblegum",
+    "id": 856,
+    "cloth_name": "bubblegum",
     "variant_id": "856_Accessory_05738",
     "locale": {
       "USen": "Pink",
@@ -4494,8 +4095,8 @@
     }
   },
   {
-    "id": 11027,
-    "Cloth Name": "bubblegum",
+    "id": 856,
+    "cloth_name": "bubblegum",
     "variant_id": "856_Accessory_11027",
     "locale": {
       "USen": "Blue",
@@ -4515,8 +4116,8 @@
     }
   },
   {
-    "id": 11028,
-    "Cloth Name": "bubblegum",
+    "id": 856,
+    "cloth_name": "bubblegum",
     "variant_id": "856_Accessory_11028",
     "locale": {
       "USen": "Yellow",
@@ -4536,8 +4137,8 @@
     }
   },
   {
-    "id": 11029,
-    "Cloth Name": "bubblegum",
+    "id": 856,
+    "cloth_name": "bubblegum",
     "variant_id": "856_Accessory_11029",
     "locale": {
       "USen": "Green",
@@ -4557,8 +4158,8 @@
     }
   },
   {
-    "id": 11030,
-    "Cloth Name": "bubblegum",
+    "id": 856,
+    "cloth_name": "bubblegum",
     "variant_id": "856_Accessory_11030",
     "locale": {
       "USen": "White",
@@ -4578,8 +4179,8 @@
     }
   },
   {
-    "id": 5739,
-    "Cloth Name": "flower sunglasses",
+    "id": 857,
+    "cloth_name": "flower sunglasses",
     "variant_id": "857_Accessory_05739",
     "locale": {
       "USen": "Red",
@@ -4599,8 +4200,8 @@
     }
   },
   {
-    "id": 11228,
-    "Cloth Name": "flower sunglasses",
+    "id": 857,
+    "cloth_name": "flower sunglasses",
     "variant_id": "857_Accessory_11228",
     "locale": {
       "USen": "Orange",
@@ -4620,8 +4221,8 @@
     }
   },
   {
-    "id": 11229,
-    "Cloth Name": "flower sunglasses",
+    "id": 857,
+    "cloth_name": "flower sunglasses",
     "variant_id": "857_Accessory_11229",
     "locale": {
       "USen": "Blue",
@@ -4641,8 +4242,8 @@
     }
   },
   {
-    "id": 11230,
-    "Cloth Name": "flower sunglasses",
+    "id": 857,
+    "cloth_name": "flower sunglasses",
     "variant_id": "857_Accessory_11230",
     "locale": {
       "USen": "Purple",
@@ -4662,8 +4263,8 @@
     }
   },
   {
-    "id": 11231,
-    "Cloth Name": "flower sunglasses",
+    "id": 857,
+    "cloth_name": "flower sunglasses",
     "variant_id": "857_Accessory_11231",
     "locale": {
       "USen": "Green",
@@ -4683,8 +4284,8 @@
     }
   },
   {
-    "id": 5773,
-    "Cloth Name": "drinking-straw glasses",
+    "id": 865,
+    "cloth_name": "drinking-straw glasses",
     "variant_id": "865_Accessory_05773",
     "locale": {
       "USen": "Green",
@@ -4704,8 +4305,8 @@
     }
   },
   {
-    "id": 11010,
-    "Cloth Name": "drinking-straw glasses",
+    "id": 865,
+    "cloth_name": "drinking-straw glasses",
     "variant_id": "865_Accessory_11010",
     "locale": {
       "USen": "Blue",
@@ -4725,8 +4326,8 @@
     }
   },
   {
-    "id": 11011,
-    "Cloth Name": "drinking-straw glasses",
+    "id": 865,
+    "cloth_name": "drinking-straw glasses",
     "variant_id": "865_Accessory_11011",
     "locale": {
       "USen": "Pink",
@@ -4746,8 +4347,8 @@
     }
   },
   {
-    "id": 11012,
-    "Cloth Name": "drinking-straw glasses",
+    "id": 865,
+    "cloth_name": "drinking-straw glasses",
     "variant_id": "865_Accessory_11012",
     "locale": {
       "USen": "White",
@@ -4767,8 +4368,8 @@
     }
   },
   {
-    "id": 5833,
-    "Cloth Name": "nose drip",
+    "id": 899,
+    "cloth_name": "nose drip",
     "variant_id": "899_Accessory_05833",
     "locale": {
       "USen": "Light blue",
@@ -4788,8 +4389,8 @@
     }
   },
   {
-    "id": 5857,
-    "Cloth Name": "food mess",
+    "id": 904,
+    "cloth_name": "food mess",
     "variant_id": "904_Accessory_05857",
     "locale": {
       "USen": "Pasta",
@@ -4809,8 +4410,8 @@
     }
   },
   {
-    "id": 6039,
-    "Cloth Name": "reflector",
+    "id": 921,
+    "cloth_name": "reflector",
     "variant_id": "921_Accessory_06039",
     "locale": {
       "USen": "Gray",
@@ -4830,8 +4431,8 @@
     }
   },
   {
-    "id": 6040,
-    "Cloth Name": "pleather mask",
+    "id": 922,
+    "cloth_name": "pleather mask",
     "variant_id": "922_Accessory_06040",
     "locale": {
       "USen": "Black",
@@ -4848,6 +4449,447 @@
       "JPja": "ブラック",
       "KRko": "블랙",
       "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_02298",
+    "locale": {
+      "USen": "Baby purple",
+      "EUen": "Baby purple",
+      "EUde": "Lila",
+      "EUes": "Morado pastel",
+      "USes": "Morado pastel",
+      "EUfr": "Violet pastel",
+      "USfr": "Mauve pastel",
+      "EUit": "Viola pastello",
+      "EUnl": "Paars",
+      "CNzh": "嫩紫色",
+      "TWzh": "粉嫩紫色",
+      "JPja": "ベビーパープル",
+      "KRko": "베이비 퍼플",
+      "EUru": "Нежно-фиолетовый"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11013",
+    "locale": {
+      "USen": "Baby mint",
+      "EUen": "Baby mint",
+      "EUde": "Minzgrün",
+      "EUes": "Turquesa pastel",
+      "USes": "Turquesa pastel",
+      "EUfr": "Turquoise pastel",
+      "USfr": "Turquoise pastel",
+      "EUit": "Menta pastello",
+      "EUnl": "Mintgroen",
+      "CNzh": "嫩薄荷色",
+      "TWzh": "粉嫩薄荷綠",
+      "JPja": "ベビーミント",
+      "KRko": "베이비 민트",
+      "EUru": "Нежно-мятный"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11014",
+    "locale": {
+      "USen": "Baby yellow",
+      "EUen": "Baby yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo pastel",
+      "USes": "Amarillo pastel",
+      "EUfr": "Jaune pastel",
+      "USfr": "Jaune pastel",
+      "EUit": "Giallo pastello",
+      "EUnl": "Geel",
+      "CNzh": "嫩黄色",
+      "TWzh": "粉嫩黃色",
+      "JPja": "ベビーイエロー",
+      "KRko": "베이비 옐로",
+      "EUru": "Нежно-желтый"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11015",
+    "locale": {
+      "USen": "Baby green",
+      "EUen": "Baby green",
+      "EUde": "Grün",
+      "EUes": "Verde pastel",
+      "USes": "Verde pastel",
+      "EUfr": "Vert pastel",
+      "USfr": "Vert pastel",
+      "EUit": "Verde pastello",
+      "EUnl": "Groen",
+      "CNzh": "嫩绿色",
+      "TWzh": "粉嫩綠色",
+      "JPja": "ベビーグリーン",
+      "KRko": "베이비 그린",
+      "EUru": "Нежно-зеленый"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11016",
+    "locale": {
+      "USen": "Baby pink",
+      "EUen": "Baby pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa pastel",
+      "USes": "Rosa pastel",
+      "EUfr": "Rose pastel",
+      "USfr": "Rose pastel",
+      "EUit": "Rosa pastello",
+      "EUnl": "Roze",
+      "CNzh": "嫩粉红色",
+      "TWzh": "粉嫩粉紅色",
+      "JPja": "ベビーピンク",
+      "KRko": "베이비 핑크",
+      "EUru": "Нежно-розовый"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11017",
+    "locale": {
+      "USen": "Baby gray",
+      "EUen": "Baby gray",
+      "EUde": "Grau",
+      "EUes": "Gris pastel",
+      "USes": "Gris pastel",
+      "EUfr": "Gris pastel",
+      "USfr": "Gris pastel",
+      "EUit": "Grigio pastello",
+      "EUnl": "Grijs",
+      "CNzh": "嫩灰色",
+      "TWzh": "粉嫩灰色",
+      "JPja": "ベビーグレー",
+      "KRko": "베이비 그레이",
+      "EUru": "Нежно-серый"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11018",
+    "locale": {
+      "USen": "Baby blue",
+      "EUen": "Baby blue",
+      "EUde": "Blau",
+      "EUes": "Azul pastel",
+      "USes": "Azul pastel",
+      "EUfr": "Bleu pastel",
+      "USfr": "Bleu pastel",
+      "EUit": "Blu pastello",
+      "EUnl": "Blauw",
+      "CNzh": "嫩蓝色",
+      "TWzh": "粉嫩藍色",
+      "JPja": "ベビーブルー",
+      "KRko": "베이비 블루",
+      "EUru": "Нежно-синий"
+    }
+  },
+  {
+    "id": 1055,
+    "cloth_name": "pacifier",
+    "variant_id": "1055_Accessory_11019",
+    "locale": {
+      "USen": "Baby orange",
+      "EUen": "Baby orange",
+      "EUde": "Orange",
+      "EUes": "Naranja pastel",
+      "USes": "Naranja pastel",
+      "EUfr": "Orange pastel",
+      "USfr": "Orange pastel",
+      "EUit": "Arancione pastello",
+      "EUnl": "Oranje",
+      "CNzh": "嫩橘色",
+      "TWzh": "粉嫩橘色",
+      "JPja": "ベビーオレンジ",
+      "KRko": "베이비 오렌지",
+      "EUru": "Нежно-оранжевый"
+    }
+  },
+  {
+    "id": 1137,
+    "cloth_name": "Labelle sunglasses",
+    "variant_id": "1137_Accessory_09887",
+    "locale": {
+      "USen": "Twilight",
+      "EUen": "Twilight",
+      "EUde": "Dämmerung",
+      "EUes": "Crepúsculo",
+      "USes": "Crepúsculo",
+      "EUfr": "Crépuscule",
+      "USfr": "Crépuscule",
+      "EUit": "Crepuscolo",
+      "EUnl": "As",
+      "CNzh": "黎明",
+      "TWzh": "曙光",
+      "JPja": "トワイライト",
+      "KRko": "트와일라잇",
+      "EUru": "Сумерки"
+    }
+  },
+  {
+    "id": 1137,
+    "cloth_name": "Labelle sunglasses",
+    "variant_id": "1137_Accessory_11776",
+    "locale": {
+      "USen": "Midnight",
+      "EUen": "Midnight",
+      "EUde": "Mitternacht",
+      "EUes": "Medianoche",
+      "USes": "Medianoche",
+      "EUfr": "Ténèbres",
+      "USfr": "Ténèbres",
+      "EUit": "Tenebre",
+      "EUnl": "Inkt",
+      "CNzh": "午夜",
+      "TWzh": "午夜",
+      "JPja": "ミッドナイト",
+      "KRko": "미드나이트",
+      "EUru": "Полночь"
+    }
+  },
+  {
+    "id": 1137,
+    "cloth_name": "Labelle sunglasses",
+    "variant_id": "1137_Accessory_11777",
+    "locale": {
+      "USen": "Passion",
+      "EUen": "Passion",
+      "EUde": "Leidenschaft",
+      "EUes": "Pasión",
+      "USes": "Pasión",
+      "EUfr": "Passion",
+      "USfr": "Passion",
+      "EUit": "Passione",
+      "EUnl": "Vuur & Vlam",
+      "CNzh": "热情",
+      "TWzh": "熱情",
+      "JPja": "パッション",
+      "KRko": "바이올렛",
+      "EUru": "Темперамент"
+    }
+  },
+  {
+    "id": 1137,
+    "cloth_name": "Labelle sunglasses",
+    "variant_id": "1137_Accessory_11778",
+    "locale": {
+      "USen": "Ocean",
+      "EUen": "Ocean",
+      "EUde": "Ozean",
+      "EUes": "Océano",
+      "USes": "Océano",
+      "EUfr": "Océan",
+      "USfr": "Océan",
+      "EUit": "Oceano",
+      "EUnl": "7e Hemel",
+      "CNzh": "海洋",
+      "TWzh": "海洋",
+      "JPja": "オーシャン",
+      "KRko": "오션",
+      "EUru": "Океан"
+    }
+  },
+  {
+    "id": 1137,
+    "cloth_name": "Labelle sunglasses",
+    "variant_id": "1137_Accessory_11779",
+    "locale": {
+      "USen": "Sunset",
+      "EUen": "Sunset",
+      "EUde": "Sonnenuntergang",
+      "EUes": "Puesta de sol",
+      "USes": "Puesta de sol",
+      "EUfr": "Soleil couchant",
+      "USfr": "Soleil couchant",
+      "EUit": "Girasole",
+      "EUnl": "Klatergoud",
+      "CNzh": "日落",
+      "TWzh": "日落",
+      "JPja": "サンセット",
+      "KRko": "선셋",
+      "EUru": "Закат"
+    }
+  },
+  {
+    "id": 1137,
+    "cloth_name": "Labelle sunglasses",
+    "variant_id": "1137_Accessory_11780",
+    "locale": {
+      "USen": "Love",
+      "EUen": "Love",
+      "EUde": "Romantik",
+      "EUes": "Amor",
+      "USes": "Amor",
+      "EUfr": "Romance",
+      "USfr": "Romance",
+      "EUit": "Romanticismo",
+      "EUnl": "Roze Bril",
+      "CNzh": "爱",
+      "TWzh": "愛",
+      "JPja": "ラブ",
+      "KRko": "러브",
+      "EUru": "Любовь"
+    }
+  },
+  {
+    "id": 1148,
+    "cloth_name": "Nook Inc. eye mask",
+    "variant_id": "1148_Accessory_09654",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1182,
+    "cloth_name": "DAL eye mask",
+    "variant_id": "1182_Accessory_12128",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1183,
+    "cloth_name": "DAL sunglasses",
+    "variant_id": "1183_Accessory_12129",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1225,
+    "cloth_name": "pirate eye patch",
+    "variant_id": "1225_Accessory_12662",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1226,
+    "cloth_name": "pirate beard",
+    "variant_id": "1226_Accessory_12663",
+    "locale": {
+      "USen": "Hair Color",
+      "EUen": "Hair Color",
+      "EUde": "Haarfarbe",
+      "EUes": "Color del pelo",
+      "USes": "Color del pelo",
+      "EUfr": "Couleur de cheveux",
+      "USfr": "Couleur de cheveux",
+      "EUit": "Colore dei capelli",
+      "EUnl": "Haarkleur",
+      "CNzh": "发色",
+      "TWzh": "頭髮顏色",
+      "JPja": "ヘアカラー",
+      "KRko": "헤어 컬러",
+      "EUru": "Цвет волос"
+    }
+  },
+  {
+    "id": 1271,
+    "cloth_name": "animal nose",
+    "variant_id": "1271_Accessory_13018",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1300,
+    "cloth_name": "Nook Inc. snorkel",
+    "variant_id": "1300_Accessory_13215",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
     }
   }
 ]

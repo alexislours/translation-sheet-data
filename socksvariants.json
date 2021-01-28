@@ -1,7 +1,7 @@
 [
   {
-    "id": 3095,
-    "Cloth Name": "stockings",
+    "id": 47,
+    "cloth_name": "stockings",
     "variant_id": "047_Socks_03095",
     "locale": {
       "USen": "Black",
@@ -21,8 +21,8 @@
     }
   },
   {
-    "id": 9655,
-    "Cloth Name": "stockings",
+    "id": 47,
+    "cloth_name": "stockings",
     "variant_id": "047_Socks_09655",
     "locale": {
       "USen": "Gray",
@@ -42,8 +42,8 @@
     }
   },
   {
-    "id": 9656,
-    "Cloth Name": "stockings",
+    "id": 47,
+    "cloth_name": "stockings",
     "variant_id": "047_Socks_09656",
     "locale": {
       "USen": "White",
@@ -63,8 +63,8 @@
     }
   },
   {
-    "id": 9657,
-    "Cloth Name": "stockings",
+    "id": 47,
+    "cloth_name": "stockings",
     "variant_id": "047_Socks_09657",
     "locale": {
       "USen": "Brown",
@@ -84,8 +84,8 @@
     }
   },
   {
-    "id": 9658,
-    "Cloth Name": "stockings",
+    "id": 47,
+    "cloth_name": "stockings",
     "variant_id": "047_Socks_09658",
     "locale": {
       "USen": "Beige",
@@ -105,8 +105,8 @@
     }
   },
   {
-    "id": 3096,
-    "Cloth Name": "fishnet tights",
+    "id": 48,
+    "cloth_name": "fishnet tights",
     "variant_id": "048_Socks_03096",
     "locale": {
       "USen": "Black",
@@ -126,8 +126,8 @@
     }
   },
   {
-    "id": 9659,
-    "Cloth Name": "fishnet tights",
+    "id": 48,
+    "cloth_name": "fishnet tights",
     "variant_id": "048_Socks_09659",
     "locale": {
       "USen": "White",
@@ -147,8 +147,8 @@
     }
   },
   {
-    "id": 9660,
-    "Cloth Name": "fishnet tights",
+    "id": 48,
+    "cloth_name": "fishnet tights",
     "variant_id": "048_Socks_09660",
     "locale": {
       "USen": "Red",
@@ -168,1751 +168,8 @@
     }
   },
   {
-    "id": 6898,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_06898",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 9643,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_09643",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 10021,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_10021",
-    "locale": {
-      "USen": "Light blue",
-      "EUen": "Light blue",
-      "EUde": "Hellblau",
-      "EUes": "Celeste",
-      "USes": "Celeste",
-      "EUfr": "Bleu clair",
-      "USfr": "Bleu pâle",
-      "EUit": "Blu chiaro",
-      "EUnl": "Lichtblauw",
-      "CNzh": "浅蓝色",
-      "TWzh": "淺藍色",
-      "JPja": "ライトブルー",
-      "KRko": "라이트 블루",
-      "EUru": "Голубой"
-    }
-  },
-  {
-    "id": 10022,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_10022",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 10023,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_10023",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 10024,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_10024",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 10025,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_10025",
-    "locale": {
-      "USen": "Orange",
-      "EUen": "Orange",
-      "EUde": "Orange",
-      "EUes": "Naranja",
-      "USes": "Naranja",
-      "EUfr": "Orange",
-      "USfr": "Orange",
-      "EUit": "Arancio",
-      "EUnl": "Oranje",
-      "CNzh": "橘色",
-      "TWzh": "橘色",
-      "JPja": "オレンジ",
-      "KRko": "오렌지",
-      "EUru": "Оранжевый"
-    }
-  },
-  {
-    "id": 10026,
-    "Cloth Name": "vivid socks",
-    "variant_id": "1002_Socks_10026",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 9580,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09580",
-    "locale": {
-      "USen": "Brown",
-      "EUen": "Brown",
-      "EUde": "Braun",
-      "EUes": "Marrón",
-      "USes": "Marrón",
-      "EUfr": "Brun",
-      "USfr": "Brun",
-      "EUit": "Marrone",
-      "EUnl": "Bruin",
-      "CNzh": "棕色",
-      "TWzh": "棕色",
-      "JPja": "ブラウン",
-      "KRko": "브라운",
-      "EUru": "Коричневый"
-    }
-  },
-  {
-    "id": 9675,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09675",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 9676,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09676",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 9677,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09677",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 9678,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09678",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 9679,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09679",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 9680,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09680",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 9681,
-    "Cloth Name": "semi-opaque tights",
-    "variant_id": "1049_Socks_09681",
-    "locale": {
-      "USen": "Yellow-green",
-      "EUen": "Yellow-green",
-      "EUde": "Gelb-grün",
-      "EUes": "Verde amarillento",
-      "USes": "Verde amarillento",
-      "EUfr": "Vert-jaune",
-      "USfr": "Vert-jaune",
-      "EUit": "Gialloverde",
-      "EUnl": "Geelgroen",
-      "CNzh": "黄绿色",
-      "TWzh": "黃綠色",
-      "JPja": "イエローグリーン",
-      "KRko": "옐로 그린",
-      "EUru": "Желто-зеленый"
-    }
-  },
-  {
-    "id": 9581,
-    "Cloth Name": "everyday tights",
-    "variant_id": "1050_Socks_09581",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 9682,
-    "Cloth Name": "everyday tights",
-    "variant_id": "1050_Socks_09682",
-    "locale": {
-      "USen": "Light gray",
-      "EUen": "Light gray",
-      "EUde": "Hellgrau",
-      "EUes": "Gris claro",
-      "USes": "Gris claro",
-      "EUfr": "Gris clair",
-      "USfr": "Gris clair",
-      "EUit": "Grigio chiaro",
-      "EUnl": "Lichtgrijs",
-      "CNzh": "浅蓝色",
-      "TWzh": "淺灰色",
-      "JPja": "ライトグレー",
-      "KRko": "라이트 그레이",
-      "EUru": "Светло-серый"
-    }
-  },
-  {
-    "id": 9683,
-    "Cloth Name": "everyday tights",
-    "variant_id": "1050_Socks_09683",
-    "locale": {
-      "USen": "Gray",
-      "EUen": "Gray",
-      "EUde": "Grau",
-      "EUes": "Gris",
-      "USes": "Gris",
-      "EUfr": "Gris",
-      "USfr": "Gris",
-      "EUit": "Grigio",
-      "EUnl": "Grijs",
-      "CNzh": "灰色",
-      "TWzh": "灰色",
-      "JPja": "グレー",
-      "KRko": "그레이",
-      "EUru": "Серый"
-    }
-  },
-  {
-    "id": 9684,
-    "Cloth Name": "everyday tights",
-    "variant_id": "1050_Socks_09684",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": 9685,
-    "Cloth Name": "everyday tights",
-    "variant_id": "1050_Socks_09685",
-    "locale": {
-      "USen": "Navy blue",
-      "EUen": "Navy blue",
-      "EUde": "Marineblau",
-      "EUes": "Azul marino",
-      "USes": "Azul marino",
-      "EUfr": "Bleu marine",
-      "USfr": "Bleu marine",
-      "EUit": "Blu marino",
-      "EUnl": "Marineblauw",
-      "CNzh": "海军蓝",
-      "TWzh": "海軍藍",
-      "JPja": "ネイビー",
-      "KRko": "네이비",
-      "EUru": "Черно-синий"
-    }
-  },
-  {
-    "id": 9686,
-    "Cloth Name": "everyday tights",
-    "variant_id": "1050_Socks_09686",
-    "locale": {
-      "USen": "Beige",
-      "EUen": "Beige",
-      "EUde": "Beige",
-      "EUes": "Beis",
-      "USes": "Beige",
-      "EUfr": "Beige",
-      "USfr": "Beige",
-      "EUit": "Beige",
-      "EUnl": "Beige",
-      "CNzh": "米色",
-      "TWzh": "米色",
-      "JPja": "ベージュ",
-      "KRko": "베이지",
-      "EUru": "Бежевый"
-    }
-  },
-  {
-    "id": 9582,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09582",
-    "locale": {
-      "USen": "Light blue",
-      "EUen": "Light blue",
-      "EUde": "Hellblau",
-      "EUes": "Celeste",
-      "USes": "Celeste",
-      "EUfr": "Bleu clair",
-      "USfr": "Bleu pâle",
-      "EUit": "Blu chiaro",
-      "EUnl": "Lichtblauw",
-      "CNzh": "浅蓝色",
-      "TWzh": "淺藍色",
-      "JPja": "ライトブルー",
-      "KRko": "라이트 블루",
-      "EUru": "Голубой"
-    }
-  },
-  {
-    "id": 9687,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09687",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 9688,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09688",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 9689,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09689",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 9690,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09690",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 9691,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09691",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 9692,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09692",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 9693,
-    "Cloth Name": "vivid tights",
-    "variant_id": "1051_Socks_09693",
-    "locale": {
-      "USen": "Orange",
-      "EUen": "Orange",
-      "EUde": "Orange",
-      "EUes": "Naranja",
-      "USes": "Naranja",
-      "EUfr": "Orange",
-      "USfr": "Orange",
-      "EUit": "Arancio",
-      "EUnl": "Oranje",
-      "CNzh": "橘色",
-      "TWzh": "橘色",
-      "JPja": "オレンジ",
-      "KRko": "오렌지",
-      "EUru": "Оранжевый"
-    }
-  },
-  {
-    "id": 9583,
-    "Cloth Name": "neon tights",
-    "variant_id": "1052_Socks_09583",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 9694,
-    "Cloth Name": "neon tights",
-    "variant_id": "1052_Socks_09694",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 9695,
-    "Cloth Name": "neon tights",
-    "variant_id": "1052_Socks_09695",
-    "locale": {
-      "USen": "Orange",
-      "EUen": "Orange",
-      "EUde": "Orange",
-      "EUes": "Naranja",
-      "USes": "Naranja",
-      "EUfr": "Orange",
-      "USfr": "Orange",
-      "EUit": "Arancio",
-      "EUnl": "Oranje",
-      "CNzh": "橘色",
-      "TWzh": "橘色",
-      "JPja": "オレンジ",
-      "KRko": "오렌지",
-      "EUru": "Оранжевый"
-    }
-  },
-  {
-    "id": 9696,
-    "Cloth Name": "neon tights",
-    "variant_id": "1052_Socks_09696",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 9697,
-    "Cloth Name": "neon tights",
-    "variant_id": "1052_Socks_09697",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 9585,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09585",
-    "locale": {
-      "USen": "Light blue",
-      "EUen": "Light blue",
-      "EUde": "Hellblau",
-      "EUes": "Celeste",
-      "USes": "Celeste",
-      "EUfr": "Bleu clair",
-      "USfr": "Bleu pâle",
-      "EUit": "Blu chiaro",
-      "EUnl": "Lichtblauw",
-      "CNzh": "浅蓝色",
-      "TWzh": "淺藍色",
-      "JPja": "ライトブルー",
-      "KRko": "라이트 블루",
-      "EUru": "Голубой"
-    }
-  },
-  {
-    "id": 9801,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09801",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 9802,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09802",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 9803,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09803",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 9804,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09804",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 9805,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09805",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 9806,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09806",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 9807,
-    "Cloth Name": "vivid leggings",
-    "variant_id": "1053_Socks_09807",
-    "locale": {
-      "USen": "Orange",
-      "EUen": "Orange",
-      "EUde": "Orange",
-      "EUes": "Naranja",
-      "USes": "Naranja",
-      "EUfr": "Orange",
-      "USfr": "Orange",
-      "EUit": "Arancio",
-      "EUnl": "Oranje",
-      "CNzh": "橘色",
-      "TWzh": "橘色",
-      "JPja": "オレンジ",
-      "KRko": "오렌지",
-      "EUru": "Оранжевый"
-    }
-  },
-  {
-    "id": 9586,
-    "Cloth Name": "neon leggings",
-    "variant_id": "1054_Socks_09586",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 9808,
-    "Cloth Name": "neon leggings",
-    "variant_id": "1054_Socks_09808",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 9809,
-    "Cloth Name": "neon leggings",
-    "variant_id": "1054_Socks_09809",
-    "locale": {
-      "USen": "Orange",
-      "EUen": "Orange",
-      "EUde": "Orange",
-      "EUes": "Naranja",
-      "USes": "Naranja",
-      "EUfr": "Orange",
-      "USfr": "Orange",
-      "EUit": "Arancio",
-      "EUnl": "Oranje",
-      "CNzh": "橘色",
-      "TWzh": "橘色",
-      "JPja": "オレンジ",
-      "KRko": "오렌지",
-      "EUru": "Оранжевый"
-    }
-  },
-  {
-    "id": 9810,
-    "Cloth Name": "neon leggings",
-    "variant_id": "1054_Socks_09810",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 9811,
-    "Cloth Name": "neon leggings",
-    "variant_id": "1054_Socks_09811",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 9645,
-    "Cloth Name": "everyday socks",
-    "variant_id": "1059_Socks_09645",
-    "locale": {
-      "USen": "Brown",
-      "EUen": "Brown",
-      "EUde": "Braun",
-      "EUes": "Marrón",
-      "USes": "Marrón",
-      "EUfr": "Brun",
-      "USfr": "Brun",
-      "EUit": "Marrone",
-      "EUnl": "Bruin",
-      "CNzh": "棕色",
-      "TWzh": "棕色",
-      "JPja": "ブラウン",
-      "KRko": "브라운",
-      "EUru": "Коричневый"
-    }
-  },
-  {
-    "id": 10034,
-    "Cloth Name": "everyday socks",
-    "variant_id": "1059_Socks_10034",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 10035,
-    "Cloth Name": "everyday socks",
-    "variant_id": "1059_Socks_10035",
-    "locale": {
-      "USen": "Navy blue",
-      "EUen": "Navy blue",
-      "EUde": "Marineblau",
-      "EUes": "Azul marino",
-      "USes": "Azul marino",
-      "EUfr": "Bleu marine",
-      "USfr": "Bleu marine",
-      "EUit": "Blu marino",
-      "EUnl": "Marineblauw",
-      "CNzh": "海军蓝",
-      "TWzh": "海軍藍",
-      "JPja": "ネイビー",
-      "KRko": "네이비",
-      "EUru": "Черно-синий"
-    }
-  },
-  {
-    "id": 10036,
-    "Cloth Name": "everyday socks",
-    "variant_id": "1059_Socks_10036",
-    "locale": {
-      "USen": "Gray",
-      "EUen": "Gray",
-      "EUde": "Grau",
-      "EUes": "Gris",
-      "USes": "Gris",
-      "EUfr": "Gris",
-      "USfr": "Gris",
-      "EUit": "Grigio",
-      "EUnl": "Grijs",
-      "CNzh": "灰色",
-      "TWzh": "灰色",
-      "JPja": "グレー",
-      "KRko": "그레이",
-      "EUru": "Серый"
-    }
-  },
-  {
-    "id": 10037,
-    "Cloth Name": "everyday socks",
-    "variant_id": "1059_Socks_10037",
-    "locale": {
-      "USen": "Beige",
-      "EUen": "Beige",
-      "EUde": "Beige",
-      "EUes": "Beis",
-      "USes": "Beige",
-      "EUfr": "Beige",
-      "USfr": "Beige",
-      "EUit": "Beige",
-      "EUnl": "Beige",
-      "CNzh": "米色",
-      "TWzh": "米色",
-      "JPja": "ベージュ",
-      "KRko": "베이지",
-      "EUru": "Бежевый"
-    }
-  },
-  {
-    "id": 10038,
-    "Cloth Name": "everyday socks",
-    "variant_id": "1059_Socks_10038",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": 9644,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_09644",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 10027,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10027",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 10028,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10028",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 10029,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10029",
-    "locale": {
-      "USen": "Navy blue",
-      "EUen": "Navy blue",
-      "EUde": "Marineblau",
-      "EUes": "Azul marino",
-      "USes": "Azul marino",
-      "EUfr": "Bleu marine",
-      "USfr": "Bleu marine",
-      "EUit": "Blu marino",
-      "EUnl": "Marineblauw",
-      "CNzh": "海军蓝",
-      "TWzh": "海軍藍",
-      "JPja": "ネイビー",
-      "KRko": "네이비",
-      "EUru": "Черно-синий"
-    }
-  },
-  {
-    "id": 10030,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10030",
-    "locale": {
-      "USen": "Purple",
-      "EUen": "Purple",
-      "EUde": "Lila",
-      "EUes": "Púrpura",
-      "USes": "Morado",
-      "EUfr": "Violet",
-      "USfr": "Mauve",
-      "EUit": "Viola",
-      "EUnl": "Paars",
-      "CNzh": "紫色",
-      "TWzh": "紫色",
-      "JPja": "パープル",
-      "KRko": "퍼플",
-      "EUru": "Фиолетовый"
-    }
-  },
-  {
-    "id": 10031,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10031",
-    "locale": {
-      "USen": "Camel",
-      "EUen": "Camel",
-      "EUde": "Kamelfarben",
-      "EUes": "Pardo",
-      "USes": "Pardo",
-      "EUfr": "Sable",
-      "USfr": "Sable",
-      "EUit": "Cammello",
-      "EUnl": "Kameelbruin",
-      "CNzh": "驼色",
-      "TWzh": "駝色",
-      "JPja": "キャメル",
-      "KRko": "캐멀",
-      "EUru": "Светло-коричневый"
-    }
-  },
-  {
-    "id": 10032,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10032",
-    "locale": {
-      "USen": "Avocado",
-      "EUen": "Avocado",
-      "EUde": "Avocado",
-      "EUes": "Verde bosque",
-      "USes": "Verde musgo",
-      "EUfr": "Vert kaki",
-      "USfr": "Vert kaki",
-      "EUit": "Avocado",
-      "EUnl": "Avocadogroen",
-      "CNzh": "卡其色",
-      "TWzh": "卡其色",
-      "JPja": "カーキ",
-      "KRko": "카키",
-      "EUru": "Защитный"
-    }
-  },
-  {
-    "id": 10033,
-    "Cloth Name": "semi-opaque socks",
-    "variant_id": "1060_Socks_10033",
-    "locale": {
-      "USen": "Brown",
-      "EUen": "Brown",
-      "EUde": "Braun",
-      "EUes": "Marrón",
-      "USes": "Marrón",
-      "EUfr": "Brun",
-      "USfr": "Brun",
-      "EUit": "Marrone",
-      "EUnl": "Bruin",
-      "CNzh": "棕色",
-      "TWzh": "棕色",
-      "JPja": "ブラウン",
-      "KRko": "브라운",
-      "EUru": "Коричневый"
-    }
-  },
-  {
-    "id": 9882,
-    "Cloth Name": "Labelle tights",
-    "variant_id": "1133_Socks_09882",
-    "locale": {
-      "USen": "Twilight",
-      "EUen": "Twilight",
-      "EUde": "Dämmerung",
-      "EUes": "Crepúsculo",
-      "USes": "Crepúsculo",
-      "EUfr": "Crépuscule",
-      "USfr": "Crépuscule",
-      "EUit": "Crepuscolo",
-      "EUnl": "As",
-      "CNzh": "黎明",
-      "TWzh": "曙光",
-      "JPja": "トワイライト",
-      "KRko": "트와일라잇",
-      "EUru": "Сумерки"
-    }
-  },
-  {
-    "id": 11756,
-    "Cloth Name": "Labelle tights",
-    "variant_id": "1133_Socks_11756",
-    "locale": {
-      "USen": "Midnight",
-      "EUen": "Midnight",
-      "EUde": "Mitternacht",
-      "EUes": "Medianoche",
-      "USes": "Medianoche",
-      "EUfr": "Ténèbres",
-      "USfr": "Ténèbres",
-      "EUit": "Tenebre",
-      "EUnl": "Inkt",
-      "CNzh": "午夜",
-      "TWzh": "午夜",
-      "JPja": "ミッドナイト",
-      "KRko": "미드나이트",
-      "EUru": "Полночь"
-    }
-  },
-  {
-    "id": 11757,
-    "Cloth Name": "Labelle tights",
-    "variant_id": "1133_Socks_11757",
-    "locale": {
-      "USen": "Passion",
-      "EUen": "Passion",
-      "EUde": "Leidenschaft",
-      "EUes": "Pasión",
-      "USes": "Pasión",
-      "EUfr": "Passion",
-      "USfr": "Passion",
-      "EUit": "Passione",
-      "EUnl": "Vuur & Vlam",
-      "CNzh": "热情",
-      "TWzh": "熱情",
-      "JPja": "パッション",
-      "KRko": "바이올렛",
-      "EUru": "Темперамент"
-    }
-  },
-  {
-    "id": 11758,
-    "Cloth Name": "Labelle tights",
-    "variant_id": "1133_Socks_11758",
-    "locale": {
-      "USen": "Ocean",
-      "EUen": "Ocean",
-      "EUde": "Ozean",
-      "EUes": "Océano",
-      "USes": "Océano",
-      "EUfr": "Océan",
-      "USfr": "Océan",
-      "EUit": "Oceano",
-      "EUnl": "7e Hemel",
-      "CNzh": "海洋",
-      "TWzh": "海洋",
-      "JPja": "オーシャン",
-      "KRko": "오션",
-      "EUru": "Океан"
-    }
-  },
-  {
-    "id": 11759,
-    "Cloth Name": "Labelle tights",
-    "variant_id": "1133_Socks_11759",
-    "locale": {
-      "USen": "Sunset",
-      "EUen": "Sunset",
-      "EUde": "Sonnenuntergang",
-      "EUes": "Puesta de sol",
-      "USes": "Puesta de sol",
-      "EUfr": "Soleil couchant",
-      "USfr": "Soleil couchant",
-      "EUit": "Girasole",
-      "EUnl": "Klatergoud",
-      "CNzh": "日落",
-      "TWzh": "日落",
-      "JPja": "サンセット",
-      "KRko": "선셋",
-      "EUru": "Закат"
-    }
-  },
-  {
-    "id": 11760,
-    "Cloth Name": "Labelle tights",
-    "variant_id": "1133_Socks_11760",
-    "locale": {
-      "USen": "Love",
-      "EUen": "Love",
-      "EUde": "Romantik",
-      "EUes": "Amor",
-      "USes": "Amor",
-      "EUfr": "Romance",
-      "USfr": "Romance",
-      "EUit": "Romanticismo",
-      "EUnl": "Roze Bril",
-      "CNzh": "爱",
-      "TWzh": "愛",
-      "JPja": "ラブ",
-      "KRko": "러브",
-      "EUru": "Любовь"
-    }
-  },
-  {
-    "id": 9883,
-    "Cloth Name": "Labelle socks",
-    "variant_id": "1134_Socks_09883",
-    "locale": {
-      "USen": "Twilight",
-      "EUen": "Twilight",
-      "EUde": "Dämmerung",
-      "EUes": "Crepúsculo",
-      "USes": "Crepúsculo",
-      "EUfr": "Crépuscule",
-      "USfr": "Crépuscule",
-      "EUit": "Crepuscolo",
-      "EUnl": "As",
-      "CNzh": "黎明",
-      "TWzh": "曙光",
-      "JPja": "トワイライト",
-      "KRko": "트와일라잇",
-      "EUru": "Сумерки"
-    }
-  },
-  {
-    "id": 11761,
-    "Cloth Name": "Labelle socks",
-    "variant_id": "1134_Socks_11761",
-    "locale": {
-      "USen": "Midnight",
-      "EUen": "Midnight",
-      "EUde": "Mitternacht",
-      "EUes": "Medianoche",
-      "USes": "Medianoche",
-      "EUfr": "Ténèbres",
-      "USfr": "Ténèbres",
-      "EUit": "Tenebre",
-      "EUnl": "Inkt",
-      "CNzh": "午夜",
-      "TWzh": "午夜",
-      "JPja": "ミッドナイト",
-      "KRko": "미드나이트",
-      "EUru": "Полночь"
-    }
-  },
-  {
-    "id": 11762,
-    "Cloth Name": "Labelle socks",
-    "variant_id": "1134_Socks_11762",
-    "locale": {
-      "USen": "Passion",
-      "EUen": "Passion",
-      "EUde": "Leidenschaft",
-      "EUes": "Pasión",
-      "USes": "Pasión",
-      "EUfr": "Passion",
-      "USfr": "Passion",
-      "EUit": "Passione",
-      "EUnl": "Vuur & Vlam",
-      "CNzh": "热情",
-      "TWzh": "熱情",
-      "JPja": "パッション",
-      "KRko": "바이올렛",
-      "EUru": "Темперамент"
-    }
-  },
-  {
-    "id": 11763,
-    "Cloth Name": "Labelle socks",
-    "variant_id": "1134_Socks_11763",
-    "locale": {
-      "USen": "Ocean",
-      "EUen": "Ocean",
-      "EUde": "Ozean",
-      "EUes": "Océano",
-      "USes": "Océano",
-      "EUfr": "Océan",
-      "USfr": "Océan",
-      "EUit": "Oceano",
-      "EUnl": "7e Hemel",
-      "CNzh": "海洋",
-      "TWzh": "海洋",
-      "JPja": "オーシャン",
-      "KRko": "오션",
-      "EUru": "Океан"
-    }
-  },
-  {
-    "id": 11764,
-    "Cloth Name": "Labelle socks",
-    "variant_id": "1134_Socks_11764",
-    "locale": {
-      "USen": "Sunset",
-      "EUen": "Sunset",
-      "EUde": "Sonnenuntergang",
-      "EUes": "Puesta de sol",
-      "USes": "Puesta de sol",
-      "EUfr": "Soleil couchant",
-      "USfr": "Soleil couchant",
-      "EUit": "Girasole",
-      "EUnl": "Klatergoud",
-      "CNzh": "日落",
-      "TWzh": "日落",
-      "JPja": "サンセット",
-      "KRko": "선셋",
-      "EUru": "Закат"
-    }
-  },
-  {
-    "id": 11765,
-    "Cloth Name": "Labelle socks",
-    "variant_id": "1134_Socks_11765",
-    "locale": {
-      "USen": "Love",
-      "EUen": "Love",
-      "EUde": "Romantik",
-      "EUes": "Amor",
-      "USes": "Amor",
-      "EUfr": "Romance",
-      "USfr": "Romance",
-      "EUit": "Romanticismo",
-      "EUnl": "Roze Bril",
-      "CNzh": "爱",
-      "TWzh": "愛",
-      "JPja": "ラブ",
-      "KRko": "러브",
-      "EUru": "Любовь"
-    }
-  },
-  {
-    "id": 5629,
-    "Cloth Name": "Nook Inc. socks",
-    "variant_id": "1144_Socks_05629",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 12174,
-    "Cloth Name": "dotted knee-high socks",
-    "variant_id": "1188_Socks_12174",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 12179,
-    "Cloth Name": "dotted knee-high socks",
-    "variant_id": "1188_Socks_12179",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 12180,
-    "Cloth Name": "dotted knee-high socks",
-    "variant_id": "1188_Socks_12180",
-    "locale": {
-      "USen": "Cyan",
-      "EUen": "Cyan",
-      "EUde": "Türkis",
-      "EUes": "Cian",
-      "USes": "Cian",
-      "EUfr": "Cyan",
-      "USfr": "Cyan",
-      "EUit": "Ciano",
-      "EUnl": "Cyaan",
-      "CNzh": "蓝绿色",
-      "TWzh": "藍綠色",
-      "JPja": "シアン",
-      "KRko": "시안",
-      "EUru": "Сине-зеленый"
-    }
-  },
-  {
-    "id": 12181,
-    "Cloth Name": "dotted knee-high socks",
-    "variant_id": "1188_Socks_12181",
-    "locale": {
-      "USen": "Gray",
-      "EUen": "Gray",
-      "EUde": "Grau",
-      "EUes": "Gris",
-      "USes": "Gris",
-      "EUfr": "Gris",
-      "USfr": "Gris",
-      "EUit": "Grigio",
-      "EUnl": "Grijs",
-      "CNzh": "灰色",
-      "TWzh": "灰色",
-      "JPja": "グレー",
-      "KRko": "그레이",
-      "EUru": "Серый"
-    }
-  },
-  {
-    "id": 12175,
-    "Cloth Name": "simple knee-high socks",
-    "variant_id": "1189_Socks_12175",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 12182,
-    "Cloth Name": "simple knee-high socks",
-    "variant_id": "1189_Socks_12182",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": 12183,
-    "Cloth Name": "simple knee-high socks",
-    "variant_id": "1189_Socks_12183",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 12184,
-    "Cloth Name": "simple knee-high socks",
-    "variant_id": "1189_Socks_12184",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 4718,
-    "Cloth Name": "back-bow socks",
+    "id": 519,
+    "cloth_name": "back-bow socks",
     "variant_id": "519_Socks_04718",
     "locale": {
       "USen": "Pink",
@@ -1932,8 +189,8 @@
     }
   },
   {
-    "id": 9053,
-    "Cloth Name": "back-bow socks",
+    "id": 519,
+    "cloth_name": "back-bow socks",
     "variant_id": "519_Socks_09053",
     "locale": {
       "USen": "Yellow",
@@ -1953,8 +210,8 @@
     }
   },
   {
-    "id": 9054,
-    "Cloth Name": "back-bow socks",
+    "id": 519,
+    "cloth_name": "back-bow socks",
     "variant_id": "519_Socks_09054",
     "locale": {
       "USen": "Black",
@@ -1974,8 +231,8 @@
     }
   },
   {
-    "id": 9055,
-    "Cloth Name": "back-bow socks",
+    "id": 519,
+    "cloth_name": "back-bow socks",
     "variant_id": "519_Socks_09055",
     "locale": {
       "USen": "White",
@@ -1995,8 +252,8 @@
     }
   },
   {
-    "id": 9056,
-    "Cloth Name": "back-bow socks",
+    "id": 519,
+    "cloth_name": "back-bow socks",
     "variant_id": "519_Socks_09056",
     "locale": {
       "USen": "Blue",
@@ -2016,8 +273,8 @@
     }
   },
   {
-    "id": 9057,
-    "Cloth Name": "back-bow socks",
+    "id": 519,
+    "cloth_name": "back-bow socks",
     "variant_id": "519_Socks_09057",
     "locale": {
       "USen": "Peacock blue",
@@ -2037,8 +294,8 @@
     }
   },
   {
-    "id": 4741,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_04741",
     "locale": {
       "USen": "Gray",
@@ -2058,8 +315,8 @@
     }
   },
   {
-    "id": 10003,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10003",
     "locale": {
       "USen": "White",
@@ -2079,8 +336,8 @@
     }
   },
   {
-    "id": 10004,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10004",
     "locale": {
       "USen": "Berry red",
@@ -2100,8 +357,8 @@
     }
   },
   {
-    "id": 10005,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10005",
     "locale": {
       "USen": "Light blue",
@@ -2121,8 +378,8 @@
     }
   },
   {
-    "id": 10006,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10006",
     "locale": {
       "USen": "Orange",
@@ -2142,8 +399,8 @@
     }
   },
   {
-    "id": 10007,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10007",
     "locale": {
       "USen": "Green",
@@ -2163,8 +420,8 @@
     }
   },
   {
-    "id": 10008,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10008",
     "locale": {
       "USen": "Navy blue",
@@ -2184,8 +441,8 @@
     }
   },
   {
-    "id": 10009,
-    "Cloth Name": "no-show socks",
+    "id": 535,
+    "cloth_name": "no-show socks",
     "variant_id": "535_Socks_10009",
     "locale": {
       "USen": "Yellow",
@@ -2205,8 +462,8 @@
     }
   },
   {
-    "id": 4742,
-    "Cloth Name": "Aran-knit socks",
+    "id": 536,
+    "cloth_name": "Aran-knit socks",
     "variant_id": "536_Socks_04742",
     "locale": {
       "USen": "Beige",
@@ -2226,8 +483,8 @@
     }
   },
   {
-    "id": 9058,
-    "Cloth Name": "Aran-knit socks",
+    "id": 536,
+    "cloth_name": "Aran-knit socks",
     "variant_id": "536_Socks_09058",
     "locale": {
       "USen": "White",
@@ -2247,8 +504,8 @@
     }
   },
   {
-    "id": 9059,
-    "Cloth Name": "Aran-knit socks",
+    "id": 536,
+    "cloth_name": "Aran-knit socks",
     "variant_id": "536_Socks_09059",
     "locale": {
       "USen": "Red",
@@ -2268,8 +525,8 @@
     }
   },
   {
-    "id": 9060,
-    "Cloth Name": "Aran-knit socks",
+    "id": 536,
+    "cloth_name": "Aran-knit socks",
     "variant_id": "536_Socks_09060",
     "locale": {
       "USen": "Green",
@@ -2289,8 +546,8 @@
     }
   },
   {
-    "id": 9061,
-    "Cloth Name": "Aran-knit socks",
+    "id": 536,
+    "cloth_name": "Aran-knit socks",
     "variant_id": "536_Socks_09061",
     "locale": {
       "USen": "Blue",
@@ -2310,8 +567,8 @@
     }
   },
   {
-    "id": 9062,
-    "Cloth Name": "Aran-knit socks",
+    "id": 536,
+    "cloth_name": "Aran-knit socks",
     "variant_id": "536_Socks_09062",
     "locale": {
       "USen": "Black",
@@ -2331,8 +588,8 @@
     }
   },
   {
-    "id": 4743,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_04743",
     "locale": {
       "USen": "Pink",
@@ -2352,8 +609,8 @@
     }
   },
   {
-    "id": 11580,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11580",
     "locale": {
       "USen": "Red",
@@ -2373,8 +630,8 @@
     }
   },
   {
-    "id": 11581,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11581",
     "locale": {
       "USen": "Black",
@@ -2394,8 +651,8 @@
     }
   },
   {
-    "id": 11582,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11582",
     "locale": {
       "USen": "Yellow",
@@ -2415,8 +672,8 @@
     }
   },
   {
-    "id": 11583,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11583",
     "locale": {
       "USen": "White",
@@ -2436,8 +693,8 @@
     }
   },
   {
-    "id": 11584,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11584",
     "locale": {
       "USen": "Blue",
@@ -2457,8 +714,8 @@
     }
   },
   {
-    "id": 11585,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11585",
     "locale": {
       "USen": "Purple",
@@ -2478,8 +735,8 @@
     }
   },
   {
-    "id": 11586,
-    "Cloth Name": "sequin leggings",
+    "id": 537,
+    "cloth_name": "sequin leggings",
     "variant_id": "537_Socks_11586",
     "locale": {
       "USen": "Green",
@@ -2499,8 +756,8 @@
     }
   },
   {
-    "id": 4744,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_04744",
     "locale": {
       "USen": "Navy blue",
@@ -2520,8 +777,8 @@
     }
   },
   {
-    "id": 9776,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_09776",
     "locale": {
       "USen": "Gray",
@@ -2541,8 +798,8 @@
     }
   },
   {
-    "id": 9777,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_09777",
     "locale": {
       "USen": "Dark gray",
@@ -2562,8 +819,8 @@
     }
   },
   {
-    "id": 9778,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_09778",
     "locale": {
       "USen": "White",
@@ -2583,8 +840,8 @@
     }
   },
   {
-    "id": 9779,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_09779",
     "locale": {
       "USen": "Black",
@@ -2604,8 +861,8 @@
     }
   },
   {
-    "id": 9780,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_09780",
     "locale": {
       "USen": "Brown",
@@ -2625,8 +882,8 @@
     }
   },
   {
-    "id": 9781,
-    "Cloth Name": "stretch leggings",
+    "id": 538,
+    "cloth_name": "stretch leggings",
     "variant_id": "538_Socks_09781",
     "locale": {
       "USen": "Green",
@@ -2646,8 +903,8 @@
     }
   },
   {
-    "id": 4745,
-    "Cloth Name": "denim leggings",
+    "id": 539,
+    "cloth_name": "denim leggings",
     "variant_id": "539_Socks_04745",
     "locale": {
       "USen": "Blue",
@@ -2667,8 +924,8 @@
     }
   },
   {
-    "id": 9782,
-    "Cloth Name": "denim leggings",
+    "id": 539,
+    "cloth_name": "denim leggings",
     "variant_id": "539_Socks_09782",
     "locale": {
       "USen": "Indigo blue",
@@ -2688,8 +945,8 @@
     }
   },
   {
-    "id": 9783,
-    "Cloth Name": "denim leggings",
+    "id": 539,
+    "cloth_name": "denim leggings",
     "variant_id": "539_Socks_09783",
     "locale": {
       "USen": "Saxon blue",
@@ -2709,8 +966,8 @@
     }
   },
   {
-    "id": 9784,
-    "Cloth Name": "denim leggings",
+    "id": 539,
+    "cloth_name": "denim leggings",
     "variant_id": "539_Socks_09784",
     "locale": {
       "USen": "Light blue",
@@ -2730,8 +987,8 @@
     }
   },
   {
-    "id": 4746,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_04746",
     "locale": {
       "USen": "Blue",
@@ -2751,8 +1008,8 @@
     }
   },
   {
-    "id": 9966,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09966",
     "locale": {
       "USen": "Orange",
@@ -2772,8 +1029,8 @@
     }
   },
   {
-    "id": 9967,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09967",
     "locale": {
       "USen": "Green",
@@ -2793,8 +1050,8 @@
     }
   },
   {
-    "id": 9968,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09968",
     "locale": {
       "USen": "Red",
@@ -2814,8 +1071,8 @@
     }
   },
   {
-    "id": 9969,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09969",
     "locale": {
       "USen": "Navy blue",
@@ -2835,8 +1092,8 @@
     }
   },
   {
-    "id": 9970,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09970",
     "locale": {
       "USen": "Berry red",
@@ -2856,8 +1113,8 @@
     }
   },
   {
-    "id": 9971,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09971",
     "locale": {
       "USen": "Dark green",
@@ -2877,8 +1134,8 @@
     }
   },
   {
-    "id": 9972,
-    "Cloth Name": "tube socks",
+    "id": 540,
+    "cloth_name": "tube socks",
     "variant_id": "540_Socks_09972",
     "locale": {
       "USen": "Purple",
@@ -2898,8 +1155,8 @@
     }
   },
   {
-    "id": 4747,
-    "Cloth Name": "garter socks",
+    "id": 541,
+    "cloth_name": "garter socks",
     "variant_id": "541_Socks_04747",
     "locale": {
       "USen": "Black",
@@ -2919,8 +1176,8 @@
     }
   },
   {
-    "id": 9661,
-    "Cloth Name": "garter socks",
+    "id": 541,
+    "cloth_name": "garter socks",
     "variant_id": "541_Socks_09661",
     "locale": {
       "USen": "White",
@@ -2940,8 +1197,8 @@
     }
   },
   {
-    "id": 9662,
-    "Cloth Name": "garter socks",
+    "id": 541,
+    "cloth_name": "garter socks",
     "variant_id": "541_Socks_09662",
     "locale": {
       "USen": "Purple",
@@ -2961,8 +1218,8 @@
     }
   },
   {
-    "id": 9663,
-    "Cloth Name": "garter socks",
+    "id": 541,
+    "cloth_name": "garter socks",
     "variant_id": "541_Socks_09663",
     "locale": {
       "USen": "Red",
@@ -2982,8 +1239,8 @@
     }
   },
   {
-    "id": 4748,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_04748",
     "locale": {
       "USen": "Navy blue",
@@ -3003,8 +1260,8 @@
     }
   },
   {
-    "id": 9889,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_09889",
     "locale": {
       "USen": "Ivory",
@@ -3024,8 +1281,8 @@
     }
   },
   {
-    "id": 9890,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_09890",
     "locale": {
       "USen": "Red",
@@ -3045,8 +1302,8 @@
     }
   },
   {
-    "id": 9891,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_09891",
     "locale": {
       "USen": "Blue",
@@ -3066,8 +1323,8 @@
     }
   },
   {
-    "id": 9892,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_09892",
     "locale": {
       "USen": "Gray",
@@ -3087,8 +1344,8 @@
     }
   },
   {
-    "id": 9893,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_09893",
     "locale": {
       "USen": "Green",
@@ -3108,8 +1365,8 @@
     }
   },
   {
-    "id": 9894,
-    "Cloth Name": "nordic socks",
+    "id": 542,
+    "cloth_name": "nordic socks",
     "variant_id": "542_Socks_09894",
     "locale": {
       "USen": "Light blue",
@@ -3129,8 +1386,8 @@
     }
   },
   {
-    "id": 4749,
-    "Cloth Name": "tabi",
+    "id": 543,
+    "cloth_name": "tabi",
     "variant_id": "543_Socks_04749",
     "locale": {
       "USen": "White",
@@ -3150,8 +1407,8 @@
     }
   },
   {
-    "id": 8929,
-    "Cloth Name": "tabi",
+    "id": 543,
+    "cloth_name": "tabi",
     "variant_id": "543_Socks_08929",
     "locale": {
       "USen": "Black",
@@ -3171,8 +1428,8 @@
     }
   },
   {
-    "id": 8930,
-    "Cloth Name": "tabi",
+    "id": 543,
+    "cloth_name": "tabi",
     "variant_id": "543_Socks_08930",
     "locale": {
       "USen": "Navy blue",
@@ -3192,8 +1449,8 @@
     }
   },
   {
-    "id": 5167,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_05167",
     "locale": {
       "USen": "Blue",
@@ -3213,8 +1470,8 @@
     }
   },
   {
-    "id": 10010,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10010",
     "locale": {
       "USen": "Pink",
@@ -3234,8 +1491,8 @@
     }
   },
   {
-    "id": 10011,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10011",
     "locale": {
       "USen": "Brown",
@@ -3255,8 +1512,8 @@
     }
   },
   {
-    "id": 10012,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10012",
     "locale": {
       "USen": "Olive",
@@ -3276,8 +1533,8 @@
     }
   },
   {
-    "id": 10013,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10013",
     "locale": {
       "USen": "Green",
@@ -3297,8 +1554,8 @@
     }
   },
   {
-    "id": 10014,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10014",
     "locale": {
       "USen": "Purple",
@@ -3318,8 +1575,8 @@
     }
   },
   {
-    "id": 10015,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10015",
     "locale": {
       "USen": "Black",
@@ -3339,8 +1596,8 @@
     }
   },
   {
-    "id": 10016,
-    "Cloth Name": "ultra no-show socks",
+    "id": 600,
+    "cloth_name": "ultra no-show socks",
     "variant_id": "600_Socks_10016",
     "locale": {
       "USen": "White",
@@ -3360,8 +1617,8 @@
     }
   },
   {
-    "id": 5168,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_05168",
     "locale": {
       "USen": "Red",
@@ -3381,8 +1638,8 @@
     }
   },
   {
-    "id": 9063,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09063",
     "locale": {
       "USen": "Avocado",
@@ -3402,8 +1659,8 @@
     }
   },
   {
-    "id": 9064,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09064",
     "locale": {
       "USen": "Light blue",
@@ -3423,8 +1680,8 @@
     }
   },
   {
-    "id": 9065,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09065",
     "locale": {
       "USen": "Purple",
@@ -3444,8 +1701,8 @@
     }
   },
   {
-    "id": 9066,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09066",
     "locale": {
       "USen": "Blue",
@@ -3465,8 +1722,8 @@
     }
   },
   {
-    "id": 9067,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09067",
     "locale": {
       "USen": "Orange",
@@ -3486,8 +1743,8 @@
     }
   },
   {
-    "id": 9068,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09068",
     "locale": {
       "USen": "Lime",
@@ -3507,8 +1764,8 @@
     }
   },
   {
-    "id": 9069,
-    "Cloth Name": "mixed-tweed socks",
+    "id": 601,
+    "cloth_name": "mixed-tweed socks",
     "variant_id": "601_Socks_09069",
     "locale": {
       "USen": "Pink",
@@ -3528,8 +1785,8 @@
     }
   },
   {
-    "id": 5169,
-    "Cloth Name": "leg warmers",
+    "id": 602,
+    "cloth_name": "leg warmers",
     "variant_id": "602_Socks_05169",
     "locale": {
       "USen": "Purple",
@@ -3549,8 +1806,8 @@
     }
   },
   {
-    "id": 9785,
-    "Cloth Name": "leg warmers",
+    "id": 602,
+    "cloth_name": "leg warmers",
     "variant_id": "602_Socks_09785",
     "locale": {
       "USen": "Black",
@@ -3570,8 +1827,8 @@
     }
   },
   {
-    "id": 9786,
-    "Cloth Name": "leg warmers",
+    "id": 602,
+    "cloth_name": "leg warmers",
     "variant_id": "602_Socks_09786",
     "locale": {
       "USen": "Gray",
@@ -3591,8 +1848,8 @@
     }
   },
   {
-    "id": 9787,
-    "Cloth Name": "leg warmers",
+    "id": 602,
+    "cloth_name": "leg warmers",
     "variant_id": "602_Socks_09787",
     "locale": {
       "USen": "Pink",
@@ -3612,8 +1869,8 @@
     }
   },
   {
-    "id": 9788,
-    "Cloth Name": "leg warmers",
+    "id": 602,
+    "cloth_name": "leg warmers",
     "variant_id": "602_Socks_09788",
     "locale": {
       "USen": "Light purple",
@@ -3633,8 +1890,8 @@
     }
   },
   {
-    "id": 9789,
-    "Cloth Name": "leg warmers",
+    "id": 602,
+    "cloth_name": "leg warmers",
     "variant_id": "602_Socks_09789",
     "locale": {
       "USen": "Blue",
@@ -3654,8 +1911,8 @@
     }
   },
   {
-    "id": 5170,
-    "Cloth Name": "compression tights",
+    "id": 603,
+    "cloth_name": "compression tights",
     "variant_id": "603_Socks_05170",
     "locale": {
       "USen": "Blue",
@@ -3675,8 +1932,8 @@
     }
   },
   {
-    "id": 9790,
-    "Cloth Name": "compression tights",
+    "id": 603,
+    "cloth_name": "compression tights",
     "variant_id": "603_Socks_09790",
     "locale": {
       "USen": "Yellow",
@@ -3696,8 +1953,8 @@
     }
   },
   {
-    "id": 9791,
-    "Cloth Name": "compression tights",
+    "id": 603,
+    "cloth_name": "compression tights",
     "variant_id": "603_Socks_09791",
     "locale": {
       "USen": "Pink",
@@ -3717,8 +1974,8 @@
     }
   },
   {
-    "id": 9792,
-    "Cloth Name": "compression tights",
+    "id": 603,
+    "cloth_name": "compression tights",
     "variant_id": "603_Socks_09792",
     "locale": {
       "USen": "Mint",
@@ -3738,8 +1995,8 @@
     }
   },
   {
-    "id": 9793,
-    "Cloth Name": "compression tights",
+    "id": 603,
+    "cloth_name": "compression tights",
     "variant_id": "603_Socks_09793",
     "locale": {
       "USen": "Red",
@@ -3759,8 +2016,8 @@
     }
   },
   {
-    "id": 5171,
-    "Cloth Name": "bobby socks",
+    "id": 604,
+    "cloth_name": "bobby socks",
     "variant_id": "604_Socks_05171",
     "locale": {
       "USen": "White",
@@ -3780,8 +2037,8 @@
     }
   },
   {
-    "id": 10017,
-    "Cloth Name": "bobby socks",
+    "id": 604,
+    "cloth_name": "bobby socks",
     "variant_id": "604_Socks_10017",
     "locale": {
       "USen": "Gray",
@@ -3801,8 +2058,8 @@
     }
   },
   {
-    "id": 10018,
-    "Cloth Name": "bobby socks",
+    "id": 604,
+    "cloth_name": "bobby socks",
     "variant_id": "604_Socks_10018",
     "locale": {
       "USen": "Black",
@@ -3822,8 +2079,8 @@
     }
   },
   {
-    "id": 10019,
-    "Cloth Name": "bobby socks",
+    "id": 604,
+    "cloth_name": "bobby socks",
     "variant_id": "604_Socks_10019",
     "locale": {
       "USen": "Brown",
@@ -3843,8 +2100,8 @@
     }
   },
   {
-    "id": 5172,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_05172",
     "locale": {
       "USen": "Black",
@@ -3864,8 +2121,8 @@
     }
   },
   {
-    "id": 11589,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11589",
     "locale": {
       "USen": "Green",
@@ -3885,8 +2142,8 @@
     }
   },
   {
-    "id": 11590,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11590",
     "locale": {
       "USen": "Red",
@@ -3906,8 +2163,8 @@
     }
   },
   {
-    "id": 11591,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11591",
     "locale": {
       "USen": "Brown",
@@ -3927,8 +2184,8 @@
     }
   },
   {
-    "id": 11592,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11592",
     "locale": {
       "USen": "Mint",
@@ -3948,8 +2205,8 @@
     }
   },
   {
-    "id": 11593,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11593",
     "locale": {
       "USen": "Pink",
@@ -3969,8 +2226,8 @@
     }
   },
   {
-    "id": 11594,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11594",
     "locale": {
       "USen": "Purple",
@@ -3990,8 +2247,8 @@
     }
   },
   {
-    "id": 11595,
-    "Cloth Name": "frilly knee-high socks",
+    "id": 605,
+    "cloth_name": "frilly knee-high socks",
     "variant_id": "605_Socks_11595",
     "locale": {
       "USen": "Yellow",
@@ -4011,8 +2268,8 @@
     }
   },
   {
-    "id": 5173,
-    "Cloth Name": "lace socks",
+    "id": 606,
+    "cloth_name": "lace socks",
     "variant_id": "606_Socks_05173",
     "locale": {
       "USen": "White",
@@ -4032,8 +2289,8 @@
     }
   },
   {
-    "id": 8931,
-    "Cloth Name": "lace socks",
+    "id": 606,
+    "cloth_name": "lace socks",
     "variant_id": "606_Socks_08931",
     "locale": {
       "USen": "Pink",
@@ -4053,8 +2310,8 @@
     }
   },
   {
-    "id": 8932,
-    "Cloth Name": "lace socks",
+    "id": 606,
+    "cloth_name": "lace socks",
     "variant_id": "606_Socks_08932",
     "locale": {
       "USen": "Green",
@@ -4074,8 +2331,8 @@
     }
   },
   {
-    "id": 8933,
-    "Cloth Name": "lace socks",
+    "id": 606,
+    "cloth_name": "lace socks",
     "variant_id": "606_Socks_08933",
     "locale": {
       "USen": "Black",
@@ -4095,8 +2352,8 @@
     }
   },
   {
-    "id": 10170,
-    "Cloth Name": "lace socks",
+    "id": 606,
+    "cloth_name": "lace socks",
     "variant_id": "606_Socks_10170",
     "locale": {
       "USen": "Beige",
@@ -4116,8 +2373,8 @@
     }
   },
   {
-    "id": 5174,
-    "Cloth Name": "frilly socks",
+    "id": 607,
+    "cloth_name": "frilly socks",
     "variant_id": "607_Socks_05174",
     "locale": {
       "USen": "White",
@@ -4137,8 +2394,8 @@
     }
   },
   {
-    "id": 8934,
-    "Cloth Name": "frilly socks",
+    "id": 607,
+    "cloth_name": "frilly socks",
     "variant_id": "607_Socks_08934",
     "locale": {
       "USen": "Yellow",
@@ -4158,8 +2415,8 @@
     }
   },
   {
-    "id": 8935,
-    "Cloth Name": "frilly socks",
+    "id": 607,
+    "cloth_name": "frilly socks",
     "variant_id": "607_Socks_08935",
     "locale": {
       "USen": "Pink",
@@ -4179,8 +2436,8 @@
     }
   },
   {
-    "id": 8936,
-    "Cloth Name": "frilly socks",
+    "id": 607,
+    "cloth_name": "frilly socks",
     "variant_id": "607_Socks_08936",
     "locale": {
       "USen": "Green",
@@ -4200,8 +2457,8 @@
     }
   },
   {
-    "id": 8937,
-    "Cloth Name": "frilly socks",
+    "id": 607,
+    "cloth_name": "frilly socks",
     "variant_id": "607_Socks_08937",
     "locale": {
       "USen": "Purple",
@@ -4221,8 +2478,8 @@
     }
   },
   {
-    "id": 8938,
-    "Cloth Name": "frilly socks",
+    "id": 607,
+    "cloth_name": "frilly socks",
     "variant_id": "607_Socks_08938",
     "locale": {
       "USen": "Blue",
@@ -4242,8 +2499,8 @@
     }
   },
   {
-    "id": 5176,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_05176",
     "locale": {
       "USen": "Black",
@@ -4263,8 +2520,8 @@
     }
   },
   {
-    "id": 9664,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09664",
     "locale": {
       "USen": "Pink",
@@ -4284,8 +2541,8 @@
     }
   },
   {
-    "id": 9665,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09665",
     "locale": {
       "USen": "Light blue",
@@ -4305,8 +2562,8 @@
     }
   },
   {
-    "id": 9666,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09666",
     "locale": {
       "USen": "Red",
@@ -4326,8 +2583,8 @@
     }
   },
   {
-    "id": 9667,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09667",
     "locale": {
       "USen": "Purple",
@@ -4347,8 +2604,8 @@
     }
   },
   {
-    "id": 9668,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09668",
     "locale": {
       "USen": "Green",
@@ -4368,8 +2625,8 @@
     }
   },
   {
-    "id": 9669,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09669",
     "locale": {
       "USen": "Blue",
@@ -4389,8 +2646,8 @@
     }
   },
   {
-    "id": 9670,
-    "Cloth Name": "holey tights",
+    "id": 608,
+    "cloth_name": "holey tights",
     "variant_id": "608_Socks_09670",
     "locale": {
       "USen": "Yellow",
@@ -4410,8 +2667,8 @@
     }
   },
   {
-    "id": 5177,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_05177",
     "locale": {
       "USen": "Blue",
@@ -4431,8 +2688,8 @@
     }
   },
   {
-    "id": 9973,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_09973",
     "locale": {
       "USen": "Red",
@@ -4452,8 +2709,8 @@
     }
   },
   {
-    "id": 9974,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_09974",
     "locale": {
       "USen": "Green",
@@ -4473,8 +2730,8 @@
     }
   },
   {
-    "id": 9975,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_09975",
     "locale": {
       "USen": "Light blue",
@@ -4494,8 +2751,8 @@
     }
   },
   {
-    "id": 9976,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_09976",
     "locale": {
       "USen": "Black",
@@ -4515,8 +2772,8 @@
     }
   },
   {
-    "id": 9977,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_09977",
     "locale": {
       "USen": "Orange",
@@ -4536,8 +2793,8 @@
     }
   },
   {
-    "id": 9978,
-    "Cloth Name": "soccer socks",
+    "id": 609,
+    "cloth_name": "soccer socks",
     "variant_id": "609_Socks_09978",
     "locale": {
       "USen": "White",
@@ -4557,8 +2814,8 @@
     }
   },
   {
-    "id": 5178,
-    "Cloth Name": "holey socks",
+    "id": 610,
+    "cloth_name": "holey socks",
     "variant_id": "610_Socks_05178",
     "locale": {
       "USen": "Blue",
@@ -4578,8 +2835,8 @@
     }
   },
   {
-    "id": 9070,
-    "Cloth Name": "holey socks",
+    "id": 610,
+    "cloth_name": "holey socks",
     "variant_id": "610_Socks_09070",
     "locale": {
       "USen": "Navy blue",
@@ -4599,8 +2856,8 @@
     }
   },
   {
-    "id": 9071,
-    "Cloth Name": "holey socks",
+    "id": 610,
+    "cloth_name": "holey socks",
     "variant_id": "610_Socks_09071",
     "locale": {
       "USen": "White",
@@ -4620,8 +2877,8 @@
     }
   },
   {
-    "id": 5179,
-    "Cloth Name": "pom-pom socks",
+    "id": 611,
+    "cloth_name": "pom-pom socks",
     "variant_id": "611_Socks_05179",
     "locale": {
       "USen": "Pink",
@@ -4641,8 +2898,8 @@
     }
   },
   {
-    "id": 9072,
-    "Cloth Name": "pom-pom socks",
+    "id": 611,
+    "cloth_name": "pom-pom socks",
     "variant_id": "611_Socks_09072",
     "locale": {
       "USen": "Blue",
@@ -4662,8 +2919,8 @@
     }
   },
   {
-    "id": 9073,
-    "Cloth Name": "pom-pom socks",
+    "id": 611,
+    "cloth_name": "pom-pom socks",
     "variant_id": "611_Socks_09073",
     "locale": {
       "USen": "Green",
@@ -4683,8 +2940,8 @@
     }
   },
   {
-    "id": 9074,
-    "Cloth Name": "pom-pom socks",
+    "id": 611,
+    "cloth_name": "pom-pom socks",
     "variant_id": "611_Socks_09074",
     "locale": {
       "USen": "Orange",
@@ -4704,8 +2961,8 @@
     }
   },
   {
-    "id": 9075,
-    "Cloth Name": "pom-pom socks",
+    "id": 611,
+    "cloth_name": "pom-pom socks",
     "variant_id": "611_Socks_09075",
     "locale": {
       "USen": "Purple",
@@ -4725,8 +2982,8 @@
     }
   },
   {
-    "id": 5180,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_05180",
     "locale": {
       "USen": "Purple",
@@ -4746,8 +3003,8 @@
     }
   },
   {
-    "id": 9895,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09895",
     "locale": {
       "USen": "Green",
@@ -4767,8 +3024,8 @@
     }
   },
   {
-    "id": 9896,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09896",
     "locale": {
       "USen": "Brown",
@@ -4788,8 +3045,8 @@
     }
   },
   {
-    "id": 9897,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09897",
     "locale": {
       "USen": "Blue",
@@ -4809,8 +3066,8 @@
     }
   },
   {
-    "id": 9898,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09898",
     "locale": {
       "USen": "Beige",
@@ -4830,8 +3087,8 @@
     }
   },
   {
-    "id": 9899,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09899",
     "locale": {
       "USen": "White",
@@ -4851,8 +3108,8 @@
     }
   },
   {
-    "id": 9900,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09900",
     "locale": {
       "USen": "Lime",
@@ -4872,8 +3129,8 @@
     }
   },
   {
-    "id": 9901,
-    "Cloth Name": "color-blocked socks",
+    "id": 612,
+    "cloth_name": "color-blocked socks",
     "variant_id": "612_Socks_09901",
     "locale": {
       "USen": "Pink",
@@ -4893,8 +3150,8 @@
     }
   },
   {
-    "id": 5181,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_05181",
     "locale": {
       "USen": "Pink",
@@ -4914,8 +3171,8 @@
     }
   },
   {
-    "id": 9979,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_09979",
     "locale": {
       "USen": "Purple",
@@ -4935,8 +3192,8 @@
     }
   },
   {
-    "id": 9980,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_09980",
     "locale": {
       "USen": "Blue",
@@ -4956,8 +3213,8 @@
     }
   },
   {
-    "id": 9981,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_09981",
     "locale": {
       "USen": "Green",
@@ -4977,8 +3234,8 @@
     }
   },
   {
-    "id": 9982,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_09982",
     "locale": {
       "USen": "Beige",
@@ -4998,8 +3255,8 @@
     }
   },
   {
-    "id": 9983,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_09983",
     "locale": {
       "USen": "Red",
@@ -5019,8 +3276,8 @@
     }
   },
   {
-    "id": 9984,
-    "Cloth Name": "terry-cloth socks",
+    "id": 613,
+    "cloth_name": "terry-cloth socks",
     "variant_id": "613_Socks_09984",
     "locale": {
       "USen": "Gray",
@@ -5040,8 +3297,8 @@
     }
   },
   {
-    "id": 5195,
-    "Cloth Name": "layered socks",
+    "id": 619,
+    "cloth_name": "layered socks",
     "variant_id": "619_Socks_05195",
     "locale": {
       "USen": "Purple",
@@ -5061,8 +3318,8 @@
     }
   },
   {
-    "id": 9902,
-    "Cloth Name": "layered socks",
+    "id": 619,
+    "cloth_name": "layered socks",
     "variant_id": "619_Socks_09902",
     "locale": {
       "USen": "Blue",
@@ -5082,8 +3339,8 @@
     }
   },
   {
-    "id": 9903,
-    "Cloth Name": "layered socks",
+    "id": 619,
+    "cloth_name": "layered socks",
     "variant_id": "619_Socks_09903",
     "locale": {
       "USen": "Yellow",
@@ -5103,8 +3360,8 @@
     }
   },
   {
-    "id": 9904,
-    "Cloth Name": "layered socks",
+    "id": 619,
+    "cloth_name": "layered socks",
     "variant_id": "619_Socks_09904",
     "locale": {
       "USen": "Green",
@@ -5124,8 +3381,8 @@
     }
   },
   {
-    "id": 9905,
-    "Cloth Name": "layered socks",
+    "id": 619,
+    "cloth_name": "layered socks",
     "variant_id": "619_Socks_09905",
     "locale": {
       "USen": "Red",
@@ -5145,8 +3402,8 @@
     }
   },
   {
-    "id": 9906,
-    "Cloth Name": "layered socks",
+    "id": 619,
+    "cloth_name": "layered socks",
     "variant_id": "619_Socks_09906",
     "locale": {
       "USen": "Orange",
@@ -5166,8 +3423,8 @@
     }
   },
   {
-    "id": 5196,
-    "Cloth Name": "hand-knit socks",
+    "id": 620,
+    "cloth_name": "hand-knit socks",
     "variant_id": "620_Socks_05196",
     "locale": {
       "USen": "Green",
@@ -5187,8 +3444,8 @@
     }
   },
   {
-    "id": 9076,
-    "Cloth Name": "hand-knit socks",
+    "id": 620,
+    "cloth_name": "hand-knit socks",
     "variant_id": "620_Socks_09076",
     "locale": {
       "USen": "Purple",
@@ -5208,8 +3465,8 @@
     }
   },
   {
-    "id": 9077,
-    "Cloth Name": "hand-knit socks",
+    "id": 620,
+    "cloth_name": "hand-knit socks",
     "variant_id": "620_Socks_09077",
     "locale": {
       "USen": "Orange",
@@ -5229,8 +3486,8 @@
     }
   },
   {
-    "id": 5197,
-    "Cloth Name": "aerobics leggings",
+    "id": 621,
+    "cloth_name": "aerobics leggings",
     "variant_id": "621_Socks_05197",
     "locale": {
       "USen": "Red & pink",
@@ -5250,8 +3507,8 @@
     }
   },
   {
-    "id": 9794,
-    "Cloth Name": "aerobics leggings",
+    "id": 621,
+    "cloth_name": "aerobics leggings",
     "variant_id": "621_Socks_09794",
     "locale": {
       "USen": "Emerald & lime",
@@ -5271,8 +3528,8 @@
     }
   },
   {
-    "id": 9795,
-    "Cloth Name": "aerobics leggings",
+    "id": 621,
+    "cloth_name": "aerobics leggings",
     "variant_id": "621_Socks_09795",
     "locale": {
       "USen": "Purple & orange",
@@ -5292,8 +3549,8 @@
     }
   },
   {
-    "id": 9796,
-    "Cloth Name": "aerobics leggings",
+    "id": 621,
+    "cloth_name": "aerobics leggings",
     "variant_id": "621_Socks_09796",
     "locale": {
       "USen": "Light blue & salmon pink",
@@ -5313,8 +3570,8 @@
     }
   },
   {
-    "id": 9797,
-    "Cloth Name": "aerobics leggings",
+    "id": 621,
+    "cloth_name": "aerobics leggings",
     "variant_id": "621_Socks_09797",
     "locale": {
       "USen": "Yellow & blue",
@@ -5334,8 +3591,8 @@
     }
   },
   {
-    "id": 5198,
-    "Cloth Name": "puckered socks",
+    "id": 622,
+    "cloth_name": "puckered socks",
     "variant_id": "622_Socks_05198",
     "locale": {
       "USen": "Mustard",
@@ -5355,8 +3612,8 @@
     }
   },
   {
-    "id": 9078,
-    "Cloth Name": "puckered socks",
+    "id": 622,
+    "cloth_name": "puckered socks",
     "variant_id": "622_Socks_09078",
     "locale": {
       "USen": "Red",
@@ -5376,8 +3633,8 @@
     }
   },
   {
-    "id": 9079,
-    "Cloth Name": "puckered socks",
+    "id": 622,
+    "cloth_name": "puckered socks",
     "variant_id": "622_Socks_09079",
     "locale": {
       "USen": "Blue",
@@ -5397,8 +3654,8 @@
     }
   },
   {
-    "id": 9080,
-    "Cloth Name": "puckered socks",
+    "id": 622,
+    "cloth_name": "puckered socks",
     "variant_id": "622_Socks_09080",
     "locale": {
       "USen": "Green",
@@ -5418,8 +3675,8 @@
     }
   },
   {
-    "id": 9081,
-    "Cloth Name": "puckered socks",
+    "id": 622,
+    "cloth_name": "puckered socks",
     "variant_id": "622_Socks_09081",
     "locale": {
       "USen": "Purple",
@@ -5439,8 +3696,8 @@
     }
   },
   {
-    "id": 5199,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_05199",
     "locale": {
       "USen": "Monotone",
@@ -5460,8 +3717,8 @@
     }
   },
   {
-    "id": 6902,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_06902",
     "locale": {
       "USen": "Light blue",
@@ -5481,8 +3738,8 @@
     }
   },
   {
-    "id": 9996,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_09996",
     "locale": {
       "USen": "Green",
@@ -5502,8 +3759,8 @@
     }
   },
   {
-    "id": 9997,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_09997",
     "locale": {
       "USen": "Yellow",
@@ -5523,8 +3780,8 @@
     }
   },
   {
-    "id": 9998,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_09998",
     "locale": {
       "USen": "Orange",
@@ -5544,8 +3801,8 @@
     }
   },
   {
-    "id": 9999,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_09999",
     "locale": {
       "USen": "Red",
@@ -5565,8 +3822,8 @@
     }
   },
   {
-    "id": 10000,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_10000",
     "locale": {
       "USen": "Purple",
@@ -5586,8 +3843,8 @@
     }
   },
   {
-    "id": 10001,
-    "Cloth Name": "striped socks",
+    "id": 623,
+    "cloth_name": "striped socks",
     "variant_id": "623_Socks_10001",
     "locale": {
       "USen": "Blue",
@@ -5607,8 +3864,8 @@
     }
   },
   {
-    "id": 5200,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_05200",
     "locale": {
       "USen": "Navy blue",
@@ -5628,8 +3885,8 @@
     }
   },
   {
-    "id": 9082,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09082",
     "locale": {
       "USen": "Black",
@@ -5649,8 +3906,8 @@
     }
   },
   {
-    "id": 9083,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09083",
     "locale": {
       "USen": "White",
@@ -5670,8 +3927,8 @@
     }
   },
   {
-    "id": 9084,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09084",
     "locale": {
       "USen": "Gray",
@@ -5691,8 +3948,8 @@
     }
   },
   {
-    "id": 9085,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09085",
     "locale": {
       "USen": "Blue",
@@ -5712,8 +3969,8 @@
     }
   },
   {
-    "id": 9086,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09086",
     "locale": {
       "USen": "Orange",
@@ -5733,8 +3990,8 @@
     }
   },
   {
-    "id": 9087,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09087",
     "locale": {
       "USen": "Red",
@@ -5754,8 +4011,8 @@
     }
   },
   {
-    "id": 9088,
-    "Cloth Name": "simple-accent socks",
+    "id": 624,
+    "cloth_name": "simple-accent socks",
     "variant_id": "624_Socks_09088",
     "locale": {
       "USen": "Pink",
@@ -5775,8 +4032,8 @@
     }
   },
   {
-    "id": 5201,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_05201",
     "locale": {
       "USen": "Red & light blue",
@@ -5796,8 +4053,8 @@
     }
   },
   {
-    "id": 9985,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09985",
     "locale": {
       "USen": "Blue & orange",
@@ -5812,13 +4069,13 @@
       "CNzh": "蓝色×橘色",
       "TWzh": "藍色×橘色",
       "JPja": "ブルー×オレンジ",
-      "KRko": "블루×오렌 지",
+      "KRko": "블루×오렌지",
       "EUru": "Синий с оранжевым"
     }
   },
   {
-    "id": 9986,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09986",
     "locale": {
       "USen": "Lime & pink",
@@ -5838,8 +4095,8 @@
     }
   },
   {
-    "id": 9987,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09987",
     "locale": {
       "USen": "Yellow & purple",
@@ -5859,8 +4116,8 @@
     }
   },
   {
-    "id": 9988,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09988",
     "locale": {
       "USen": "Light blue & red",
@@ -5880,8 +4137,8 @@
     }
   },
   {
-    "id": 9989,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09989",
     "locale": {
       "USen": "Purple & green",
@@ -5901,8 +4158,8 @@
     }
   },
   {
-    "id": 9990,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09990",
     "locale": {
       "USen": "Pink & yellow",
@@ -5922,8 +4179,8 @@
     }
   },
   {
-    "id": 9991,
-    "Cloth Name": "kiddie socks",
+    "id": 625,
+    "cloth_name": "kiddie socks",
     "variant_id": "625_Socks_09991",
     "locale": {
       "USen": "Black & gray",
@@ -5943,8 +4200,8 @@
     }
   },
   {
-    "id": 5202,
-    "Cloth Name": "crocheted socks",
+    "id": 626,
+    "cloth_name": "crocheted socks",
     "variant_id": "626_Socks_05202",
     "locale": {
       "USen": "Beige",
@@ -5964,8 +4221,8 @@
     }
   },
   {
-    "id": 8939,
-    "Cloth Name": "crocheted socks",
+    "id": 626,
+    "cloth_name": "crocheted socks",
     "variant_id": "626_Socks_08939",
     "locale": {
       "USen": "Gray",
@@ -5985,8 +4242,8 @@
     }
   },
   {
-    "id": 8940,
-    "Cloth Name": "crocheted socks",
+    "id": 626,
+    "cloth_name": "crocheted socks",
     "variant_id": "626_Socks_08940",
     "locale": {
       "USen": "Purple",
@@ -6006,8 +4263,8 @@
     }
   },
   {
-    "id": 8941,
-    "Cloth Name": "crocheted socks",
+    "id": 626,
+    "cloth_name": "crocheted socks",
     "variant_id": "626_Socks_08941",
     "locale": {
       "USen": "Blue",
@@ -6027,8 +4284,8 @@
     }
   },
   {
-    "id": 5203,
-    "Cloth Name": "spider-web tights",
+    "id": 627,
+    "cloth_name": "spider-web tights",
     "variant_id": "627_Socks_05203",
     "locale": {
       "USen": "Black",
@@ -6048,8 +4305,8 @@
     }
   },
   {
-    "id": 9671,
-    "Cloth Name": "spider-web tights",
+    "id": 627,
+    "cloth_name": "spider-web tights",
     "variant_id": "627_Socks_09671",
     "locale": {
       "USen": "White",
@@ -6069,8 +4326,8 @@
     }
   },
   {
-    "id": 9672,
-    "Cloth Name": "spider-web tights",
+    "id": 627,
+    "cloth_name": "spider-web tights",
     "variant_id": "627_Socks_09672",
     "locale": {
       "USen": "Orange",
@@ -6090,8 +4347,8 @@
     }
   },
   {
-    "id": 9673,
-    "Cloth Name": "spider-web tights",
+    "id": 627,
+    "cloth_name": "spider-web tights",
     "variant_id": "627_Socks_09673",
     "locale": {
       "USen": "Purple",
@@ -6111,8 +4368,8 @@
     }
   },
   {
-    "id": 5204,
-    "Cloth Name": "embroidered-flower tights",
+    "id": 628,
+    "cloth_name": "embroidered-flower tights",
     "variant_id": "628_Socks_05204",
     "locale": {
       "USen": "Brown",
@@ -6132,8 +4389,8 @@
     }
   },
   {
-    "id": 9907,
-    "Cloth Name": "embroidered-flower tights",
+    "id": 628,
+    "cloth_name": "embroidered-flower tights",
     "variant_id": "628_Socks_09907",
     "locale": {
       "USen": "Black",
@@ -6153,8 +4410,8 @@
     }
   },
   {
-    "id": 9908,
-    "Cloth Name": "embroidered-flower tights",
+    "id": 628,
+    "cloth_name": "embroidered-flower tights",
     "variant_id": "628_Socks_09908",
     "locale": {
       "USen": "Green",
@@ -6174,8 +4431,8 @@
     }
   },
   {
-    "id": 9909,
-    "Cloth Name": "embroidered-flower tights",
+    "id": 628,
+    "cloth_name": "embroidered-flower tights",
     "variant_id": "628_Socks_09909",
     "locale": {
       "USen": "Beige",
@@ -6195,8 +4452,8 @@
     }
   },
   {
-    "id": 9910,
-    "Cloth Name": "embroidered-flower tights",
+    "id": 628,
+    "cloth_name": "embroidered-flower tights",
     "variant_id": "628_Socks_09910",
     "locale": {
       "USen": "Blue",
@@ -6216,8 +4473,8 @@
     }
   },
   {
-    "id": 9911,
-    "Cloth Name": "embroidered-flower tights",
+    "id": 628,
+    "cloth_name": "embroidered-flower tights",
     "variant_id": "628_Socks_09911",
     "locale": {
       "USen": "Purple",
@@ -6237,8 +4494,8 @@
     }
   },
   {
-    "id": 5214,
-    "Cloth Name": "running tights",
+    "id": 629,
+    "cloth_name": "running tights",
     "variant_id": "629_Socks_05214",
     "locale": {
       "USen": "Pink",
@@ -6258,8 +4515,8 @@
     }
   },
   {
-    "id": 9798,
-    "Cloth Name": "running tights",
+    "id": 629,
+    "cloth_name": "running tights",
     "variant_id": "629_Socks_09798",
     "locale": {
       "USen": "Yellow",
@@ -6279,8 +4536,8 @@
     }
   },
   {
-    "id": 9799,
-    "Cloth Name": "running tights",
+    "id": 629,
+    "cloth_name": "running tights",
     "variant_id": "629_Socks_09799",
     "locale": {
       "USen": "Blue",
@@ -6300,8 +4557,8 @@
     }
   },
   {
-    "id": 9800,
-    "Cloth Name": "running tights",
+    "id": 629,
+    "cloth_name": "running tights",
     "variant_id": "629_Socks_09800",
     "locale": {
       "USen": "Green",
@@ -6321,8 +4578,8 @@
     }
   },
   {
-    "id": 5406,
-    "Cloth Name": "funny-face socks",
+    "id": 723,
+    "cloth_name": "funny-face socks",
     "variant_id": "723_Socks_05406",
     "locale": {
       "USen": "Pink",
@@ -6342,8 +4599,8 @@
     }
   },
   {
-    "id": 9992,
-    "Cloth Name": "funny-face socks",
+    "id": 723,
+    "cloth_name": "funny-face socks",
     "variant_id": "723_Socks_09992",
     "locale": {
       "USen": "Blue",
@@ -6363,8 +4620,8 @@
     }
   },
   {
-    "id": 9993,
-    "Cloth Name": "funny-face socks",
+    "id": 723,
+    "cloth_name": "funny-face socks",
     "variant_id": "723_Socks_09993",
     "locale": {
       "USen": "Red",
@@ -6384,8 +4641,8 @@
     }
   },
   {
-    "id": 9994,
-    "Cloth Name": "funny-face socks",
+    "id": 723,
+    "cloth_name": "funny-face socks",
     "variant_id": "723_Socks_09994",
     "locale": {
       "USen": "Green",
@@ -6405,8 +4662,8 @@
     }
   },
   {
-    "id": 9995,
-    "Cloth Name": "funny-face socks",
+    "id": 723,
+    "cloth_name": "funny-face socks",
     "variant_id": "723_Socks_09995",
     "locale": {
       "USen": "Black",
@@ -6426,8 +4683,8 @@
     }
   },
   {
-    "id": 5444,
-    "Cloth Name": "geometric-print socks",
+    "id": 749,
+    "cloth_name": "geometric-print socks",
     "variant_id": "749_Socks_05444",
     "locale": {
       "USen": "Yellow",
@@ -6447,8 +4704,8 @@
     }
   },
   {
-    "id": 9912,
-    "Cloth Name": "geometric-print socks",
+    "id": 749,
+    "cloth_name": "geometric-print socks",
     "variant_id": "749_Socks_09912",
     "locale": {
       "USen": "Peacock blue",
@@ -6468,8 +4725,8 @@
     }
   },
   {
-    "id": 9913,
-    "Cloth Name": "geometric-print socks",
+    "id": 749,
+    "cloth_name": "geometric-print socks",
     "variant_id": "749_Socks_09913",
     "locale": {
       "USen": "Purple",
@@ -6489,8 +4746,8 @@
     }
   },
   {
-    "id": 9914,
-    "Cloth Name": "geometric-print socks",
+    "id": 749,
+    "cloth_name": "geometric-print socks",
     "variant_id": "749_Socks_09914",
     "locale": {
       "USen": "Beige",
@@ -6510,8 +4767,8 @@
     }
   },
   {
-    "id": 9915,
-    "Cloth Name": "geometric-print socks",
+    "id": 749,
+    "cloth_name": "geometric-print socks",
     "variant_id": "749_Socks_09915",
     "locale": {
       "USen": "Pink",
@@ -6531,8 +4788,8 @@
     }
   },
   {
-    "id": 9916,
-    "Cloth Name": "geometric-print socks",
+    "id": 749,
+    "cloth_name": "geometric-print socks",
     "variant_id": "749_Socks_09916",
     "locale": {
       "USen": "Green",
@@ -6552,8 +4809,8 @@
     }
   },
   {
-    "id": 5804,
-    "Cloth Name": "flowery-dot tights",
+    "id": 879,
+    "cloth_name": "flowery-dot tights",
     "variant_id": "879_Socks_05804",
     "locale": {
       "USen": "White",
@@ -6573,8 +4830,8 @@
     }
   },
   {
-    "id": 9917,
-    "Cloth Name": "flowery-dot tights",
+    "id": 879,
+    "cloth_name": "flowery-dot tights",
     "variant_id": "879_Socks_09917",
     "locale": {
       "USen": "Pink",
@@ -6594,8 +4851,8 @@
     }
   },
   {
-    "id": 9918,
-    "Cloth Name": "flowery-dot tights",
+    "id": 879,
+    "cloth_name": "flowery-dot tights",
     "variant_id": "879_Socks_09918",
     "locale": {
       "USen": "Blue",
@@ -6615,8 +4872,8 @@
     }
   },
   {
-    "id": 9919,
-    "Cloth Name": "flowery-dot tights",
+    "id": 879,
+    "cloth_name": "flowery-dot tights",
     "variant_id": "879_Socks_09919",
     "locale": {
       "USen": "Yellow",
@@ -6636,8 +4893,8 @@
     }
   },
   {
-    "id": 9920,
-    "Cloth Name": "flowery-dot tights",
+    "id": 879,
+    "cloth_name": "flowery-dot tights",
     "variant_id": "879_Socks_09920",
     "locale": {
       "USen": "Black",
@@ -6657,8 +4914,8 @@
     }
   },
   {
-    "id": 5806,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_05806",
     "locale": {
       "USen": "Blue",
@@ -6678,8 +4935,8 @@
     }
   },
   {
-    "id": 9921,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09921",
     "locale": {
       "USen": "Red",
@@ -6699,8 +4956,8 @@
     }
   },
   {
-    "id": 9922,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09922",
     "locale": {
       "USen": "Green",
@@ -6720,8 +4977,8 @@
     }
   },
   {
-    "id": 9923,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09923",
     "locale": {
       "USen": "Beige",
@@ -6741,8 +4998,8 @@
     }
   },
   {
-    "id": 9924,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09924",
     "locale": {
       "USen": "Gray",
@@ -6762,8 +5019,8 @@
     }
   },
   {
-    "id": 9925,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09925",
     "locale": {
       "USen": "White",
@@ -6783,8 +5040,8 @@
     }
   },
   {
-    "id": 9926,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09926",
     "locale": {
       "USen": "Orange",
@@ -6804,8 +5061,8 @@
     }
   },
   {
-    "id": 9927,
-    "Cloth Name": "argyle crew socks",
+    "id": 880,
+    "cloth_name": "argyle crew socks",
     "variant_id": "880_Socks_09927",
     "locale": {
       "USen": "Pink",
@@ -6825,8 +5082,8 @@
     }
   },
   {
-    "id": 5812,
-    "Cloth Name": "sheer socks",
+    "id": 886,
+    "cloth_name": "sheer socks",
     "variant_id": "886_Socks_05812",
     "locale": {
       "USen": "Blue",
@@ -6846,8 +5103,8 @@
     }
   },
   {
-    "id": 9928,
-    "Cloth Name": "sheer socks",
+    "id": 886,
+    "cloth_name": "sheer socks",
     "variant_id": "886_Socks_09928",
     "locale": {
       "USen": "Berry red",
@@ -6867,8 +5124,8 @@
     }
   },
   {
-    "id": 9929,
-    "Cloth Name": "sheer socks",
+    "id": 886,
+    "cloth_name": "sheer socks",
     "variant_id": "886_Socks_09929",
     "locale": {
       "USen": "Brown",
@@ -6888,8 +5145,8 @@
     }
   },
   {
-    "id": 9930,
-    "Cloth Name": "sheer socks",
+    "id": 886,
+    "cloth_name": "sheer socks",
     "variant_id": "886_Socks_09930",
     "locale": {
       "USen": "Green",
@@ -6909,8 +5166,8 @@
     }
   },
   {
-    "id": 9931,
-    "Cloth Name": "sheer socks",
+    "id": 886,
+    "cloth_name": "sheer socks",
     "variant_id": "886_Socks_09931",
     "locale": {
       "USen": "Olive",
@@ -6930,8 +5187,8 @@
     }
   },
   {
-    "id": 9932,
-    "Cloth Name": "sheer socks",
+    "id": 886,
+    "cloth_name": "sheer socks",
     "variant_id": "886_Socks_09932",
     "locale": {
       "USen": "Gray",
@@ -6951,8 +5208,8 @@
     }
   },
   {
-    "id": 5813,
-    "Cloth Name": "wave-print socks",
+    "id": 887,
+    "cloth_name": "wave-print socks",
     "variant_id": "887_Socks_05813",
     "locale": {
       "USen": "Blue",
@@ -6972,8 +5229,8 @@
     }
   },
   {
-    "id": 9933,
-    "Cloth Name": "wave-print socks",
+    "id": 887,
+    "cloth_name": "wave-print socks",
     "variant_id": "887_Socks_09933",
     "locale": {
       "USen": "Brown",
@@ -6993,8 +5250,8 @@
     }
   },
   {
-    "id": 9934,
-    "Cloth Name": "wave-print socks",
+    "id": 887,
+    "cloth_name": "wave-print socks",
     "variant_id": "887_Socks_09934",
     "locale": {
       "USen": "Purple",
@@ -7014,8 +5271,8 @@
     }
   },
   {
-    "id": 9935,
-    "Cloth Name": "wave-print socks",
+    "id": 887,
+    "cloth_name": "wave-print socks",
     "variant_id": "887_Socks_09935",
     "locale": {
       "USen": "Green",
@@ -7035,8 +5292,8 @@
     }
   },
   {
-    "id": 9936,
-    "Cloth Name": "wave-print socks",
+    "id": 887,
+    "cloth_name": "wave-print socks",
     "variant_id": "887_Socks_09936",
     "locale": {
       "USen": "Gray",
@@ -7056,8 +5313,8 @@
     }
   },
   {
-    "id": 6044,
-    "Cloth Name": "country socks",
+    "id": 926,
+    "cloth_name": "country socks",
     "variant_id": "926_Socks_06044",
     "locale": {
       "USen": "Red ribbons",
@@ -7077,8 +5334,8 @@
     }
   },
   {
-    "id": 8942,
-    "Cloth Name": "country socks",
+    "id": 926,
+    "cloth_name": "country socks",
     "variant_id": "926_Socks_08942",
     "locale": {
       "USen": "Green ribbons",
@@ -7098,8 +5355,8 @@
     }
   },
   {
-    "id": 8943,
-    "Cloth Name": "country socks",
+    "id": 926,
+    "cloth_name": "country socks",
     "variant_id": "926_Socks_08943",
     "locale": {
       "USen": "Blue ribbons",
@@ -7119,8 +5376,8 @@
     }
   },
   {
-    "id": 8944,
-    "Cloth Name": "country socks",
+    "id": 926,
+    "cloth_name": "country socks",
     "variant_id": "926_Socks_08944",
     "locale": {
       "USen": "Black ribbons",
@@ -7140,8 +5397,8 @@
     }
   },
   {
-    "id": 6045,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_06045",
     "locale": {
       "USen": "Red",
@@ -7161,8 +5418,8 @@
     }
   },
   {
-    "id": 9937,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09937",
     "locale": {
       "USen": "Gray",
@@ -7182,8 +5439,8 @@
     }
   },
   {
-    "id": 9938,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09938",
     "locale": {
       "USen": "Pink",
@@ -7203,8 +5460,8 @@
     }
   },
   {
-    "id": 9939,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09939",
     "locale": {
       "USen": "Light blue",
@@ -7224,8 +5481,8 @@
     }
   },
   {
-    "id": 9940,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09940",
     "locale": {
       "USen": "Yellow",
@@ -7245,8 +5502,8 @@
     }
   },
   {
-    "id": 9941,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09941",
     "locale": {
       "USen": "Purple",
@@ -7266,8 +5523,8 @@
     }
   },
   {
-    "id": 9942,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09942",
     "locale": {
       "USen": "Green",
@@ -7287,8 +5544,8 @@
     }
   },
   {
-    "id": 9943,
-    "Cloth Name": "striped tights",
+    "id": 927,
+    "cloth_name": "striped tights",
     "variant_id": "927_Socks_09943",
     "locale": {
       "USen": "Orange",
@@ -7308,8 +5565,8 @@
     }
   },
   {
-    "id": 6046,
-    "Cloth Name": "patterned stockings",
+    "id": 928,
+    "cloth_name": "patterned stockings",
     "variant_id": "928_Socks_06046",
     "locale": {
       "USen": "Black",
@@ -7329,8 +5586,8 @@
     }
   },
   {
-    "id": 9674,
-    "Cloth Name": "patterned stockings",
+    "id": 928,
+    "cloth_name": "patterned stockings",
     "variant_id": "928_Socks_09674",
     "locale": {
       "USen": "White",
@@ -7347,6 +5604,1875 @@
       "JPja": "ホワイト",
       "KRko": "화이트",
       "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_06898",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_09643",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_10021",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_10022",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_10023",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_10024",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_10025",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1002,
+    "cloth_name": "vivid socks",
+    "variant_id": "1002_Socks_10026",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09580",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09675",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09676",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09677",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09678",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09679",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09680",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1049,
+    "cloth_name": "semi-opaque tights",
+    "variant_id": "1049_Socks_09681",
+    "locale": {
+      "USen": "Yellow-green",
+      "EUen": "Yellow-green",
+      "EUde": "Gelb-grün",
+      "EUes": "Verde amarillento",
+      "USes": "Verde amarillento",
+      "EUfr": "Vert-jaune",
+      "USfr": "Vert-jaune",
+      "EUit": "Gialloverde",
+      "EUnl": "Geelgroen",
+      "CNzh": "黄绿色",
+      "TWzh": "黃綠色",
+      "JPja": "イエローグリーン",
+      "KRko": "옐로 그린",
+      "EUru": "Желто-зеленый"
+    }
+  },
+  {
+    "id": 1050,
+    "cloth_name": "everyday tights",
+    "variant_id": "1050_Socks_09581",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1050,
+    "cloth_name": "everyday tights",
+    "variant_id": "1050_Socks_09682",
+    "locale": {
+      "USen": "Light gray",
+      "EUen": "Light gray",
+      "EUde": "Hellgrau",
+      "EUes": "Gris claro",
+      "USes": "Gris claro",
+      "EUfr": "Gris clair",
+      "USfr": "Gris clair",
+      "EUit": "Grigio chiaro",
+      "EUnl": "Lichtgrijs",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺灰色",
+      "JPja": "ライトグレー",
+      "KRko": "라이트 그레이",
+      "EUru": "Светло-серый"
+    }
+  },
+  {
+    "id": 1050,
+    "cloth_name": "everyday tights",
+    "variant_id": "1050_Socks_09683",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": 1050,
+    "cloth_name": "everyday tights",
+    "variant_id": "1050_Socks_09684",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1050,
+    "cloth_name": "everyday tights",
+    "variant_id": "1050_Socks_09685",
+    "locale": {
+      "USen": "Navy blue",
+      "EUen": "Navy blue",
+      "EUde": "Marineblau",
+      "EUes": "Azul marino",
+      "USes": "Azul marino",
+      "EUfr": "Bleu marine",
+      "USfr": "Bleu marine",
+      "EUit": "Blu marino",
+      "EUnl": "Marineblauw",
+      "CNzh": "海军蓝",
+      "TWzh": "海軍藍",
+      "JPja": "ネイビー",
+      "KRko": "네이비",
+      "EUru": "Черно-синий"
+    }
+  },
+  {
+    "id": 1050,
+    "cloth_name": "everyday tights",
+    "variant_id": "1050_Socks_09686",
+    "locale": {
+      "USen": "Beige",
+      "EUen": "Beige",
+      "EUde": "Beige",
+      "EUes": "Beis",
+      "USes": "Beige",
+      "EUfr": "Beige",
+      "USfr": "Beige",
+      "EUit": "Beige",
+      "EUnl": "Beige",
+      "CNzh": "米色",
+      "TWzh": "米色",
+      "JPja": "ベージュ",
+      "KRko": "베이지",
+      "EUru": "Бежевый"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09582",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09687",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09688",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09689",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09690",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09691",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09692",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1051,
+    "cloth_name": "vivid tights",
+    "variant_id": "1051_Socks_09693",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1052,
+    "cloth_name": "neon tights",
+    "variant_id": "1052_Socks_09583",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1052,
+    "cloth_name": "neon tights",
+    "variant_id": "1052_Socks_09694",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1052,
+    "cloth_name": "neon tights",
+    "variant_id": "1052_Socks_09695",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1052,
+    "cloth_name": "neon tights",
+    "variant_id": "1052_Socks_09696",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1052,
+    "cloth_name": "neon tights",
+    "variant_id": "1052_Socks_09697",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09585",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09801",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09802",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09803",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09804",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09805",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09806",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1053,
+    "cloth_name": "vivid leggings",
+    "variant_id": "1053_Socks_09807",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1054,
+    "cloth_name": "neon leggings",
+    "variant_id": "1054_Socks_09586",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1054,
+    "cloth_name": "neon leggings",
+    "variant_id": "1054_Socks_09808",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1054,
+    "cloth_name": "neon leggings",
+    "variant_id": "1054_Socks_09809",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1054,
+    "cloth_name": "neon leggings",
+    "variant_id": "1054_Socks_09810",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1054,
+    "cloth_name": "neon leggings",
+    "variant_id": "1054_Socks_09811",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1059,
+    "cloth_name": "everyday socks",
+    "variant_id": "1059_Socks_09645",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 1059,
+    "cloth_name": "everyday socks",
+    "variant_id": "1059_Socks_10034",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1059,
+    "cloth_name": "everyday socks",
+    "variant_id": "1059_Socks_10035",
+    "locale": {
+      "USen": "Navy blue",
+      "EUen": "Navy blue",
+      "EUde": "Marineblau",
+      "EUes": "Azul marino",
+      "USes": "Azul marino",
+      "EUfr": "Bleu marine",
+      "USfr": "Bleu marine",
+      "EUit": "Blu marino",
+      "EUnl": "Marineblauw",
+      "CNzh": "海军蓝",
+      "TWzh": "海軍藍",
+      "JPja": "ネイビー",
+      "KRko": "네이비",
+      "EUru": "Черно-синий"
+    }
+  },
+  {
+    "id": 1059,
+    "cloth_name": "everyday socks",
+    "variant_id": "1059_Socks_10036",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": 1059,
+    "cloth_name": "everyday socks",
+    "variant_id": "1059_Socks_10037",
+    "locale": {
+      "USen": "Beige",
+      "EUen": "Beige",
+      "EUde": "Beige",
+      "EUes": "Beis",
+      "USes": "Beige",
+      "EUfr": "Beige",
+      "USfr": "Beige",
+      "EUit": "Beige",
+      "EUnl": "Beige",
+      "CNzh": "米色",
+      "TWzh": "米色",
+      "JPja": "ベージュ",
+      "KRko": "베이지",
+      "EUru": "Бежевый"
+    }
+  },
+  {
+    "id": 1059,
+    "cloth_name": "everyday socks",
+    "variant_id": "1059_Socks_10038",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_09644",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10027",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10028",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10029",
+    "locale": {
+      "USen": "Navy blue",
+      "EUen": "Navy blue",
+      "EUde": "Marineblau",
+      "EUes": "Azul marino",
+      "USes": "Azul marino",
+      "EUfr": "Bleu marine",
+      "USfr": "Bleu marine",
+      "EUit": "Blu marino",
+      "EUnl": "Marineblauw",
+      "CNzh": "海军蓝",
+      "TWzh": "海軍藍",
+      "JPja": "ネイビー",
+      "KRko": "네이비",
+      "EUru": "Черно-синий"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10030",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10031",
+    "locale": {
+      "USen": "Camel",
+      "EUen": "Camel",
+      "EUde": "Kamelfarben",
+      "EUes": "Pardo",
+      "USes": "Pardo",
+      "EUfr": "Sable",
+      "USfr": "Sable",
+      "EUit": "Cammello",
+      "EUnl": "Kameelbruin",
+      "CNzh": "驼色",
+      "TWzh": "駝色",
+      "JPja": "キャメル",
+      "KRko": "캐멀",
+      "EUru": "Светло-коричневый"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10032",
+    "locale": {
+      "USen": "Avocado",
+      "EUen": "Avocado",
+      "EUde": "Avocado",
+      "EUes": "Verde bosque",
+      "USes": "Verde musgo",
+      "EUfr": "Vert kaki",
+      "USfr": "Vert kaki",
+      "EUit": "Avocado",
+      "EUnl": "Avocadogroen",
+      "CNzh": "卡其色",
+      "TWzh": "卡其色",
+      "JPja": "カーキ",
+      "KRko": "카키",
+      "EUru": "Защитный"
+    }
+  },
+  {
+    "id": 1060,
+    "cloth_name": "semi-opaque socks",
+    "variant_id": "1060_Socks_10033",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 1133,
+    "cloth_name": "Labelle tights",
+    "variant_id": "1133_Socks_09882",
+    "locale": {
+      "USen": "Twilight",
+      "EUen": "Twilight",
+      "EUde": "Dämmerung",
+      "EUes": "Crepúsculo",
+      "USes": "Crepúsculo",
+      "EUfr": "Crépuscule",
+      "USfr": "Crépuscule",
+      "EUit": "Crepuscolo",
+      "EUnl": "As",
+      "CNzh": "黎明",
+      "TWzh": "曙光",
+      "JPja": "トワイライト",
+      "KRko": "트와일라잇",
+      "EUru": "Сумерки"
+    }
+  },
+  {
+    "id": 1133,
+    "cloth_name": "Labelle tights",
+    "variant_id": "1133_Socks_11756",
+    "locale": {
+      "USen": "Midnight",
+      "EUen": "Midnight",
+      "EUde": "Mitternacht",
+      "EUes": "Medianoche",
+      "USes": "Medianoche",
+      "EUfr": "Ténèbres",
+      "USfr": "Ténèbres",
+      "EUit": "Tenebre",
+      "EUnl": "Inkt",
+      "CNzh": "午夜",
+      "TWzh": "午夜",
+      "JPja": "ミッドナイト",
+      "KRko": "미드나이트",
+      "EUru": "Полночь"
+    }
+  },
+  {
+    "id": 1133,
+    "cloth_name": "Labelle tights",
+    "variant_id": "1133_Socks_11757",
+    "locale": {
+      "USen": "Passion",
+      "EUen": "Passion",
+      "EUde": "Leidenschaft",
+      "EUes": "Pasión",
+      "USes": "Pasión",
+      "EUfr": "Passion",
+      "USfr": "Passion",
+      "EUit": "Passione",
+      "EUnl": "Vuur & Vlam",
+      "CNzh": "热情",
+      "TWzh": "熱情",
+      "JPja": "パッション",
+      "KRko": "바이올렛",
+      "EUru": "Темперамент"
+    }
+  },
+  {
+    "id": 1133,
+    "cloth_name": "Labelle tights",
+    "variant_id": "1133_Socks_11758",
+    "locale": {
+      "USen": "Ocean",
+      "EUen": "Ocean",
+      "EUde": "Ozean",
+      "EUes": "Océano",
+      "USes": "Océano",
+      "EUfr": "Océan",
+      "USfr": "Océan",
+      "EUit": "Oceano",
+      "EUnl": "7e Hemel",
+      "CNzh": "海洋",
+      "TWzh": "海洋",
+      "JPja": "オーシャン",
+      "KRko": "오션",
+      "EUru": "Океан"
+    }
+  },
+  {
+    "id": 1133,
+    "cloth_name": "Labelle tights",
+    "variant_id": "1133_Socks_11759",
+    "locale": {
+      "USen": "Sunset",
+      "EUen": "Sunset",
+      "EUde": "Sonnenuntergang",
+      "EUes": "Puesta de sol",
+      "USes": "Puesta de sol",
+      "EUfr": "Soleil couchant",
+      "USfr": "Soleil couchant",
+      "EUit": "Girasole",
+      "EUnl": "Klatergoud",
+      "CNzh": "日落",
+      "TWzh": "日落",
+      "JPja": "サンセット",
+      "KRko": "선셋",
+      "EUru": "Закат"
+    }
+  },
+  {
+    "id": 1133,
+    "cloth_name": "Labelle tights",
+    "variant_id": "1133_Socks_11760",
+    "locale": {
+      "USen": "Love",
+      "EUen": "Love",
+      "EUde": "Romantik",
+      "EUes": "Amor",
+      "USes": "Amor",
+      "EUfr": "Romance",
+      "USfr": "Romance",
+      "EUit": "Romanticismo",
+      "EUnl": "Roze Bril",
+      "CNzh": "爱",
+      "TWzh": "愛",
+      "JPja": "ラブ",
+      "KRko": "러브",
+      "EUru": "Любовь"
+    }
+  },
+  {
+    "id": 1134,
+    "cloth_name": "Labelle socks",
+    "variant_id": "1134_Socks_09883",
+    "locale": {
+      "USen": "Twilight",
+      "EUen": "Twilight",
+      "EUde": "Dämmerung",
+      "EUes": "Crepúsculo",
+      "USes": "Crepúsculo",
+      "EUfr": "Crépuscule",
+      "USfr": "Crépuscule",
+      "EUit": "Crepuscolo",
+      "EUnl": "As",
+      "CNzh": "黎明",
+      "TWzh": "曙光",
+      "JPja": "トワイライト",
+      "KRko": "트와일라잇",
+      "EUru": "Сумерки"
+    }
+  },
+  {
+    "id": 1134,
+    "cloth_name": "Labelle socks",
+    "variant_id": "1134_Socks_11761",
+    "locale": {
+      "USen": "Midnight",
+      "EUen": "Midnight",
+      "EUde": "Mitternacht",
+      "EUes": "Medianoche",
+      "USes": "Medianoche",
+      "EUfr": "Ténèbres",
+      "USfr": "Ténèbres",
+      "EUit": "Tenebre",
+      "EUnl": "Inkt",
+      "CNzh": "午夜",
+      "TWzh": "午夜",
+      "JPja": "ミッドナイト",
+      "KRko": "미드나이트",
+      "EUru": "Полночь"
+    }
+  },
+  {
+    "id": 1134,
+    "cloth_name": "Labelle socks",
+    "variant_id": "1134_Socks_11762",
+    "locale": {
+      "USen": "Passion",
+      "EUen": "Passion",
+      "EUde": "Leidenschaft",
+      "EUes": "Pasión",
+      "USes": "Pasión",
+      "EUfr": "Passion",
+      "USfr": "Passion",
+      "EUit": "Passione",
+      "EUnl": "Vuur & Vlam",
+      "CNzh": "热情",
+      "TWzh": "熱情",
+      "JPja": "パッション",
+      "KRko": "바이올렛",
+      "EUru": "Темперамент"
+    }
+  },
+  {
+    "id": 1134,
+    "cloth_name": "Labelle socks",
+    "variant_id": "1134_Socks_11763",
+    "locale": {
+      "USen": "Ocean",
+      "EUen": "Ocean",
+      "EUde": "Ozean",
+      "EUes": "Océano",
+      "USes": "Océano",
+      "EUfr": "Océan",
+      "USfr": "Océan",
+      "EUit": "Oceano",
+      "EUnl": "7e Hemel",
+      "CNzh": "海洋",
+      "TWzh": "海洋",
+      "JPja": "オーシャン",
+      "KRko": "오션",
+      "EUru": "Океан"
+    }
+  },
+  {
+    "id": 1134,
+    "cloth_name": "Labelle socks",
+    "variant_id": "1134_Socks_11764",
+    "locale": {
+      "USen": "Sunset",
+      "EUen": "Sunset",
+      "EUde": "Sonnenuntergang",
+      "EUes": "Puesta de sol",
+      "USes": "Puesta de sol",
+      "EUfr": "Soleil couchant",
+      "USfr": "Soleil couchant",
+      "EUit": "Girasole",
+      "EUnl": "Klatergoud",
+      "CNzh": "日落",
+      "TWzh": "日落",
+      "JPja": "サンセット",
+      "KRko": "선셋",
+      "EUru": "Закат"
+    }
+  },
+  {
+    "id": 1134,
+    "cloth_name": "Labelle socks",
+    "variant_id": "1134_Socks_11765",
+    "locale": {
+      "USen": "Love",
+      "EUen": "Love",
+      "EUde": "Romantik",
+      "EUes": "Amor",
+      "USes": "Amor",
+      "EUfr": "Romance",
+      "USfr": "Romance",
+      "EUit": "Romanticismo",
+      "EUnl": "Roze Bril",
+      "CNzh": "爱",
+      "TWzh": "愛",
+      "JPja": "ラブ",
+      "KRko": "러브",
+      "EUru": "Любовь"
+    }
+  },
+  {
+    "id": 1144,
+    "cloth_name": "Nook Inc. socks",
+    "variant_id": "1144_Socks_05629",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1188,
+    "cloth_name": "dotted knee-high socks",
+    "variant_id": "1188_Socks_12174",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1188,
+    "cloth_name": "dotted knee-high socks",
+    "variant_id": "1188_Socks_12179",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1188,
+    "cloth_name": "dotted knee-high socks",
+    "variant_id": "1188_Socks_12180",
+    "locale": {
+      "USen": "Cyan",
+      "EUen": "Cyan",
+      "EUde": "Türkis",
+      "EUes": "Cian",
+      "USes": "Cian",
+      "EUfr": "Cyan",
+      "USfr": "Cyan",
+      "EUit": "Ciano",
+      "EUnl": "Cyaan",
+      "CNzh": "蓝绿色",
+      "TWzh": "藍綠色",
+      "JPja": "シアン",
+      "KRko": "시안",
+      "EUru": "Сине-зеленый"
+    }
+  },
+  {
+    "id": 1188,
+    "cloth_name": "dotted knee-high socks",
+    "variant_id": "1188_Socks_12181",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": 1189,
+    "cloth_name": "simple knee-high socks",
+    "variant_id": "1189_Socks_12175",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1189,
+    "cloth_name": "simple knee-high socks",
+    "variant_id": "1189_Socks_12182",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1189,
+    "cloth_name": "simple knee-high socks",
+    "variant_id": "1189_Socks_12183",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1189,
+    "cloth_name": "simple knee-high socks",
+    "variant_id": "1189_Socks_12184",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1275,
+    "cloth_name": "horizontal-striped tights",
+    "variant_id": "1275_Socks_13029",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1275,
+    "cloth_name": "horizontal-striped tights",
+    "variant_id": "1275_Socks_13372",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 1275,
+    "cloth_name": "horizontal-striped tights",
+    "variant_id": "1275_Socks_13373",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1275,
+    "cloth_name": "horizontal-striped tights",
+    "variant_id": "1275_Socks_13374",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1275,
+    "cloth_name": "horizontal-striped tights",
+    "variant_id": "1275_Socks_13375",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1275,
+    "cloth_name": "horizontal-striped tights",
+    "variant_id": "1275_Socks_13376",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
     }
   }
 ]

@@ -20,6 +20,66 @@
     }
   },
   {
+    "id": "AddConfetti",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Confetti",
+      "EUen": "Confetti",
+      "EUde": "Konfetti",
+      "EUes": "Confeti",
+      "USes": "Confeti",
+      "EUfr": "Confettis",
+      "USfr": "Confettis",
+      "EUit": "Coriandoli",
+      "EUnl": "Confetti",
+      "CNzh": "撒纸片",
+      "TWzh": "撒紙片",
+      "JPja": "かみふぶき",
+      "KRko": "종이 꽃가루",
+      "EUru": "Конфетти"
+    }
+  },
+  {
+    "id": "AddDance",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Feelin' It",
+      "EUen": "Feelin' It",
+      "EUde": "Rhythmus im Blut",
+      "EUes": "Coreografía",
+      "USes": "Coreografía",
+      "EUfr": "Samba",
+      "USfr": "En rythme",
+      "EUit": "Ritmo nel sangue",
+      "EUnl": "Swingende heupenpas",
+      "CNzh": "跟着节奏",
+      "TWzh": "跟著節奏",
+      "JPja": "リズムにのる",
+      "KRko": "리듬 타기",
+      "EUru": "В ритме"
+    }
+  },
+  {
+    "id": "AddEntice",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Let's Go",
+      "EUen": "Let's Go",
+      "EUde": "Aufforderung zum Tanz",
+      "EUes": "Vamos",
+      "USes": "Vamos",
+      "EUfr": "Avec moi !",
+      "USfr": "Avec moi!",
+      "EUit": "Coinvolgimento",
+      "EUnl": "Swingende hinkpas",
+      "CNzh": "炒热气氛",
+      "TWzh": "炒熱氣氛",
+      "JPja": "もりあげる",
+      "KRko": "분위기 업",
+      "EUru": "Танцуем!"
+    }
+  },
+  {
     "id": "AddExcited",
     "version": "1.6.0",
     "locale": {
@@ -76,7 +136,7 @@
       "TWzh": "請",
       "JPja": "さぁどうぞ",
       "KRko": "자 여기!",
-      "EUru": "Подарок"
+      "EUru": "Вуаля"
     }
   },
   {
@@ -96,7 +156,7 @@
       "TWzh": "誇獎",
       "JPja": "たたえる",
       "KRko": "대단해!",
-      "EUru": "Вуаля"
+      "EUru": "Похвала"
     }
   },
   {
@@ -197,6 +257,26 @@
       "JPja": "パシャリ",
       "KRko": "찰칵!",
       "EUru": "Фотосъемка"
+    }
+  },
+  {
+    "id": "AddViva",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Viva",
+      "EUen": "Viva",
+      "EUde": "Viva",
+      "EUes": "Viva",
+      "USes": "Viva",
+      "EUfr": "Viva !",
+      "USfr": "Viva!",
+      "EUit": "Viva",
+      "EUnl": "Pavé-pas",
+      "CNzh": "欢乐！",
+      "TWzh": "歡樂！",
+      "JPja": "ビバ！",
+      "KRko": "비바!",
+      "EUru": "Вива!"
     }
   },
   {

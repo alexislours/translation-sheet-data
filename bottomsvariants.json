@@ -1,7 +1,7 @@
 [
   {
-    "id": 3308,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_03308",
     "locale": {
       "USen": "Beige",
@@ -21,8 +21,8 @@
     }
   },
   {
-    "id": 4175,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_04175",
     "locale": {
       "USen": "Brown",
@@ -42,8 +42,8 @@
     }
   },
   {
-    "id": 4176,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_04176",
     "locale": {
       "USen": "Navy blue",
@@ -63,8 +63,8 @@
     }
   },
   {
-    "id": 4177,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_04177",
     "locale": {
       "USen": "Avocado",
@@ -84,8 +84,8 @@
     }
   },
   {
-    "id": 4178,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_04178",
     "locale": {
       "USen": "Gray",
@@ -105,8 +105,8 @@
     }
   },
   {
-    "id": 9013,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_09013",
     "locale": {
       "USen": "Red",
@@ -126,8 +126,8 @@
     }
   },
   {
-    "id": 9014,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_09014",
     "locale": {
       "USen": "Blue",
@@ -147,8 +147,8 @@
     }
   },
   {
-    "id": 9015,
-    "Cloth Name": "chino pants",
+    "id": 14,
+    "cloth_name": "chino pants",
     "variant_id": "014_Bottoms_09015",
     "locale": {
       "USen": "Yellow",
@@ -168,8 +168,8 @@
     }
   },
   {
-    "id": 3317,
-    "Cloth Name": "two-tone pants",
+    "id": 15,
+    "cloth_name": "two-tone pants",
     "variant_id": "015_Bottoms_03317",
     "locale": {
       "USen": "Monotone",
@@ -189,8 +189,8 @@
     }
   },
   {
-    "id": 4183,
-    "Cloth Name": "two-tone pants",
+    "id": 15,
+    "cloth_name": "two-tone pants",
     "variant_id": "015_Bottoms_04183",
     "locale": {
       "USen": "Yellow",
@@ -210,8 +210,8 @@
     }
   },
   {
-    "id": 4184,
-    "Cloth Name": "two-tone pants",
+    "id": 15,
+    "cloth_name": "two-tone pants",
     "variant_id": "015_Bottoms_04184",
     "locale": {
       "USen": "Red",
@@ -231,8 +231,8 @@
     }
   },
   {
-    "id": 4185,
-    "Cloth Name": "two-tone pants",
+    "id": 15,
+    "cloth_name": "two-tone pants",
     "variant_id": "015_Bottoms_04185",
     "locale": {
       "USen": "Blue",
@@ -252,8 +252,8 @@
     }
   },
   {
-    "id": 3319,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_03319",
     "locale": {
       "USen": "Red",
@@ -273,8 +273,8 @@
     }
   },
   {
-    "id": 12192,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12192",
     "locale": {
       "USen": "Green",
@@ -294,8 +294,8 @@
     }
   },
   {
-    "id": 12193,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12193",
     "locale": {
       "USen": "Blue",
@@ -315,8 +315,8 @@
     }
   },
   {
-    "id": 12194,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12194",
     "locale": {
       "USen": "Gray",
@@ -336,8 +336,8 @@
     }
   },
   {
-    "id": 12195,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12195",
     "locale": {
       "USen": "Orange",
@@ -357,8 +357,8 @@
     }
   },
   {
-    "id": 12196,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12196",
     "locale": {
       "USen": "Pink",
@@ -378,8 +378,8 @@
     }
   },
   {
-    "id": 12197,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12197",
     "locale": {
       "USen": "Purple",
@@ -399,8 +399,8 @@
     }
   },
   {
-    "id": 12198,
-    "Cloth Name": "gingham picnic skirt",
+    "id": 16,
+    "cloth_name": "gingham picnic skirt",
     "variant_id": "016_Bottoms_12198",
     "locale": {
       "USen": "Light blue",
@@ -420,8 +420,8 @@
     }
   },
   {
-    "id": 2403,
-    "Cloth Name": "denim pants",
+    "id": 17,
+    "cloth_name": "denim pants",
     "variant_id": "017_Bottoms_02403",
     "locale": {
       "USen": "Blue",
@@ -441,8 +441,8 @@
     }
   },
   {
-    "id": 4186,
-    "Cloth Name": "denim pants",
+    "id": 17,
+    "cloth_name": "denim pants",
     "variant_id": "017_Bottoms_04186",
     "locale": {
       "USen": "Light blue",
@@ -462,8 +462,8 @@
     }
   },
   {
-    "id": 4187,
-    "Cloth Name": "denim pants",
+    "id": 17,
+    "cloth_name": "denim pants",
     "variant_id": "017_Bottoms_04187",
     "locale": {
       "USen": "Navy blue",
@@ -483,8 +483,8 @@
     }
   },
   {
-    "id": 4188,
-    "Cloth Name": "denim pants",
+    "id": 17,
+    "cloth_name": "denim pants",
     "variant_id": "017_Bottoms_04188",
     "locale": {
       "USen": "Black",
@@ -504,8 +504,8 @@
     }
   },
   {
-    "id": 9011,
-    "Cloth Name": "denim pants",
+    "id": 17,
+    "cloth_name": "denim pants",
     "variant_id": "017_Bottoms_09011",
     "locale": {
       "USen": "White",
@@ -525,806 +525,8 @@
     }
   },
   {
-    "id": 9840,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_09840",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 12071,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12071",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 12072,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12072",
-    "locale": {
-      "USen": "Navy blue",
-      "EUen": "Navy blue",
-      "EUde": "Marineblau",
-      "EUes": "Azul marino",
-      "USes": "Azul marino",
-      "EUfr": "Bleu marine",
-      "USfr": "Bleu marine",
-      "EUit": "Blu marino",
-      "EUnl": "Marineblauw",
-      "CNzh": "海军蓝",
-      "TWzh": "海軍藍",
-      "JPja": "ネイビー",
-      "KRko": "네이비",
-      "EUru": "Черно-синий"
-    }
-  },
-  {
-    "id": 12073,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12073",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 12074,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12074",
-    "locale": {
-      "USen": "Light blue",
-      "EUen": "Light blue",
-      "EUde": "Hellblau",
-      "EUes": "Celeste",
-      "USes": "Celeste",
-      "EUfr": "Bleu clair",
-      "USfr": "Bleu pâle",
-      "EUit": "Blu chiaro",
-      "EUnl": "Lichtblauw",
-      "CNzh": "浅蓝色",
-      "TWzh": "淺藍色",
-      "JPja": "ライトブルー",
-      "KRko": "라이트 블루",
-      "EUru": "Голубой"
-    }
-  },
-  {
-    "id": 12075,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12075",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": 12076,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12076",
-    "locale": {
-      "USen": "Orange",
-      "EUen": "Orange",
-      "EUde": "Orange",
-      "EUes": "Naranja",
-      "USes": "Naranja",
-      "EUfr": "Orange",
-      "USfr": "Orange",
-      "EUit": "Arancio",
-      "EUnl": "Oranje",
-      "CNzh": "橘色",
-      "TWzh": "橘色",
-      "JPja": "オレンジ",
-      "KRko": "오렌지",
-      "EUru": "Оранжевый"
-    }
-  },
-  {
-    "id": 12077,
-    "Cloth Name": "soccer shorts",
-    "variant_id": "1091_Bottoms_12077",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 9841,
-    "Cloth Name": "explorer shorts",
-    "variant_id": "1092_Bottoms_09841",
-    "locale": {
-      "USen": "Camel",
-      "EUen": "Camel",
-      "EUde": "Kamelfarben",
-      "EUes": "Pardo",
-      "USes": "Pardo",
-      "EUfr": "Sable",
-      "USfr": "Sable",
-      "EUit": "Cammello",
-      "EUnl": "Kameelbruin",
-      "CNzh": "驼色",
-      "TWzh": "駝色",
-      "JPja": "キャメル",
-      "KRko": "캐멀",
-      "EUru": "Светло-коричневый"
-    }
-  },
-  {
-    "id": 12068,
-    "Cloth Name": "explorer shorts",
-    "variant_id": "1092_Bottoms_12068",
-    "locale": {
-      "USen": "Avocado",
-      "EUen": "Avocado",
-      "EUde": "Avocado",
-      "EUes": "Verde bosque",
-      "USes": "Verde musgo",
-      "EUfr": "Vert kaki",
-      "USfr": "Vert kaki",
-      "EUit": "Avocado",
-      "EUnl": "Avocadogroen",
-      "CNzh": "卡其色",
-      "TWzh": "卡其色",
-      "JPja": "カーキ",
-      "KRko": "카키",
-      "EUru": "Защитный"
-    }
-  },
-  {
-    "id": 12069,
-    "Cloth Name": "explorer shorts",
-    "variant_id": "1092_Bottoms_12069",
-    "locale": {
-      "USen": "Beige",
-      "EUen": "Beige",
-      "EUde": "Beige",
-      "EUes": "Beis",
-      "USes": "Beige",
-      "EUfr": "Beige",
-      "USfr": "Beige",
-      "EUit": "Beige",
-      "EUnl": "Beige",
-      "CNzh": "米色",
-      "TWzh": "米色",
-      "JPja": "ベージュ",
-      "KRko": "베이지",
-      "EUru": "Бежевый"
-    }
-  },
-  {
-    "id": 12070,
-    "Cloth Name": "explorer shorts",
-    "variant_id": "1092_Bottoms_12070",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 9842,
-    "Cloth Name": "animal-stripes skirt",
-    "variant_id": "1093_Bottoms_09842",
-    "locale": {
-      "USen": "Tiger",
-      "EUen": "Tiger",
-      "EUde": "Tiger",
-      "EUes": "Tigre",
-      "USes": "Tigre",
-      "EUfr": "Tigré",
-      "USfr": "Tigré",
-      "EUit": "Tigre",
-      "EUnl": "Tijgerprint",
-      "CNzh": "老虎",
-      "TWzh": "老虎紋",
-      "JPja": "タイガー",
-      "KRko": "타이거",
-      "EUru": "Тигр"
-    }
-  },
-  {
-    "id": 12067,
-    "Cloth Name": "animal-stripes skirt",
-    "variant_id": "1093_Bottoms_12067",
-    "locale": {
-      "USen": "Zebra",
-      "EUen": "Zebra",
-      "EUde": "Zebra",
-      "EUes": "Cebra",
-      "USes": "Cebra",
-      "EUfr": "Zébré",
-      "USfr": "Zébré",
-      "EUit": "Zebra",
-      "EUnl": "Zebraprint",
-      "CNzh": "斑马",
-      "TWzh": "斑馬紋",
-      "JPja": "ゼブラ",
-      "KRko": "지브라",
-      "EUru": "Зебра"
-    }
-  },
-  {
-    "id": 9844,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_09844",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 12059,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12059",
-    "locale": {
-      "USen": "White",
-      "EUen": "White",
-      "EUde": "Weiß",
-      "EUes": "Blanco",
-      "USes": "Blanco",
-      "EUfr": "Blanc",
-      "USfr": "Blanc",
-      "EUit": "Bianco",
-      "EUnl": "Wit",
-      "CNzh": "白色",
-      "TWzh": "白色",
-      "JPja": "ホワイト",
-      "KRko": "화이트",
-      "EUru": "Белый"
-    }
-  },
-  {
-    "id": 12060,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12060",
-    "locale": {
-      "USen": "Yellow",
-      "EUen": "Yellow",
-      "EUde": "Gelb",
-      "EUes": "Amarillo",
-      "USes": "Amarillo",
-      "EUfr": "Jaune",
-      "USfr": "Jaune",
-      "EUit": "Giallo",
-      "EUnl": "Geel",
-      "CNzh": "黄色",
-      "TWzh": "黃色",
-      "JPja": "イエロー",
-      "KRko": "옐로",
-      "EUru": "Желтый"
-    }
-  },
-  {
-    "id": 12061,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12061",
-    "locale": {
-      "USen": "Berry red",
-      "EUen": "Berry red",
-      "EUde": "Weinrot",
-      "EUes": "Burdeos",
-      "USes": "Granate",
-      "EUfr": "Bordeaux",
-      "USfr": "Bordeaux",
-      "EUit": "Rosso lampone",
-      "EUnl": "Bessenrood",
-      "CNzh": "酒红色",
-      "TWzh": "酒紅色",
-      "JPja": "ワインレッド",
-      "KRko": "와인 레드",
-      "EUru": "Ягодно-красный"
-    }
-  },
-  {
-    "id": 12062,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12062",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 12063,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12063",
-    "locale": {
-      "USen": "Turquoise",
-      "EUen": "Turquoise",
-      "EUde": "Türkis",
-      "EUes": "Turquesa",
-      "USes": "Turquesa",
-      "EUfr": "Turquoise",
-      "USfr": "Turquoise",
-      "EUit": "Turchese",
-      "EUnl": "Turkoois",
-      "CNzh": "绿松石色",
-      "TWzh": "綠松色",
-      "JPja": "ターコイズ",
-      "KRko": "터콰이즈",
-      "EUru": "Бирюзовый"
-    }
-  },
-  {
-    "id": 12064,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12064",
-    "locale": {
-      "USen": "Red",
-      "EUen": "Red",
-      "EUde": "Rot",
-      "EUes": "Rojo",
-      "USes": "Rojo",
-      "EUfr": "Rouge",
-      "USfr": "Rouge",
-      "EUit": "Rosso",
-      "EUnl": "Rood",
-      "CNzh": "红色",
-      "TWzh": "紅色",
-      "JPja": "レッド",
-      "KRko": "레드",
-      "EUru": "Красный"
-    }
-  },
-  {
-    "id": 12065,
-    "Cloth Name": "football pants",
-    "variant_id": "1095_Bottoms_12065",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 9878,
-    "Cloth Name": "Labelle shorts",
-    "variant_id": "1129_Bottoms_09878",
-    "locale": {
-      "USen": "Twilight",
-      "EUen": "Twilight",
-      "EUde": "Dämmerung",
-      "EUes": "Crepúsculo",
-      "USes": "Crepúsculo",
-      "EUfr": "Crépuscule",
-      "USfr": "Crépuscule",
-      "EUit": "Crepuscolo",
-      "EUnl": "As",
-      "CNzh": "黎明",
-      "TWzh": "曙光",
-      "JPja": "トワイライト",
-      "KRko": "트와일라잇",
-      "EUru": "Сумерки"
-    }
-  },
-  {
-    "id": 11736,
-    "Cloth Name": "Labelle shorts",
-    "variant_id": "1129_Bottoms_11736",
-    "locale": {
-      "USen": "Midnight",
-      "EUen": "Midnight",
-      "EUde": "Mitternacht",
-      "EUes": "Medianoche",
-      "USes": "Medianoche",
-      "EUfr": "Ténèbres",
-      "USfr": "Ténèbres",
-      "EUit": "Tenebre",
-      "EUnl": "Inkt",
-      "CNzh": "午夜",
-      "TWzh": "午夜",
-      "JPja": "ミッドナイト",
-      "KRko": "미드나이트",
-      "EUru": "Полночь"
-    }
-  },
-  {
-    "id": 11737,
-    "Cloth Name": "Labelle shorts",
-    "variant_id": "1129_Bottoms_11737",
-    "locale": {
-      "USen": "Passion",
-      "EUen": "Passion",
-      "EUde": "Leidenschaft",
-      "EUes": "Pasión",
-      "USes": "Pasión",
-      "EUfr": "Passion",
-      "USfr": "Passion",
-      "EUit": "Passione",
-      "EUnl": "Vuur & Vlam",
-      "CNzh": "热情",
-      "TWzh": "熱情",
-      "JPja": "パッション",
-      "KRko": "바이올렛",
-      "EUru": "Темперамент"
-    }
-  },
-  {
-    "id": 11738,
-    "Cloth Name": "Labelle shorts",
-    "variant_id": "1129_Bottoms_11738",
-    "locale": {
-      "USen": "Ocean",
-      "EUen": "Ocean",
-      "EUde": "Ozean",
-      "EUes": "Océano",
-      "USes": "Océano",
-      "EUfr": "Océan",
-      "USfr": "Océan",
-      "EUit": "Oceano",
-      "EUnl": "7e Hemel",
-      "CNzh": "海洋",
-      "TWzh": "海洋",
-      "JPja": "オーシャン",
-      "KRko": "오션",
-      "EUru": "Океан"
-    }
-  },
-  {
-    "id": 11739,
-    "Cloth Name": "Labelle shorts",
-    "variant_id": "1129_Bottoms_11739",
-    "locale": {
-      "USen": "Sunset",
-      "EUen": "Sunset",
-      "EUde": "Sonnenuntergang",
-      "EUes": "Puesta de sol",
-      "USes": "Puesta de sol",
-      "EUfr": "Soleil couchant",
-      "USfr": "Soleil couchant",
-      "EUit": "Girasole",
-      "EUnl": "Klatergoud",
-      "CNzh": "日落",
-      "TWzh": "日落",
-      "JPja": "サンセット",
-      "KRko": "선셋",
-      "EUru": "Закат"
-    }
-  },
-  {
-    "id": 11740,
-    "Cloth Name": "Labelle shorts",
-    "variant_id": "1129_Bottoms_11740",
-    "locale": {
-      "USen": "Love",
-      "EUen": "Love",
-      "EUde": "Romantik",
-      "EUes": "Amor",
-      "USes": "Amor",
-      "EUfr": "Romance",
-      "USfr": "Romance",
-      "EUit": "Romanticismo",
-      "EUnl": "Roze Bril",
-      "CNzh": "爱",
-      "TWzh": "愛",
-      "JPja": "ラブ",
-      "KRko": "러브",
-      "EUru": "Любовь"
-    }
-  },
-  {
-    "id": 9879,
-    "Cloth Name": "Labelle skirt",
-    "variant_id": "1130_Bottoms_09879",
-    "locale": {
-      "USen": "Twilight",
-      "EUen": "Twilight",
-      "EUde": "Dämmerung",
-      "EUes": "Crepúsculo",
-      "USes": "Crepúsculo",
-      "EUfr": "Crépuscule",
-      "USfr": "Crépuscule",
-      "EUit": "Crepuscolo",
-      "EUnl": "As",
-      "CNzh": "黎明",
-      "TWzh": "曙光",
-      "JPja": "トワイライト",
-      "KRko": "트와일라잇",
-      "EUru": "Сумерки"
-    }
-  },
-  {
-    "id": 11741,
-    "Cloth Name": "Labelle skirt",
-    "variant_id": "1130_Bottoms_11741",
-    "locale": {
-      "USen": "Midnight",
-      "EUen": "Midnight",
-      "EUde": "Mitternacht",
-      "EUes": "Medianoche",
-      "USes": "Medianoche",
-      "EUfr": "Ténèbres",
-      "USfr": "Ténèbres",
-      "EUit": "Tenebre",
-      "EUnl": "Inkt",
-      "CNzh": "午夜",
-      "TWzh": "午夜",
-      "JPja": "ミッドナイト",
-      "KRko": "미드나이트",
-      "EUru": "Полночь"
-    }
-  },
-  {
-    "id": 11742,
-    "Cloth Name": "Labelle skirt",
-    "variant_id": "1130_Bottoms_11742",
-    "locale": {
-      "USen": "Passion",
-      "EUen": "Passion",
-      "EUde": "Leidenschaft",
-      "EUes": "Pasión",
-      "USes": "Pasión",
-      "EUfr": "Passion",
-      "USfr": "Passion",
-      "EUit": "Passione",
-      "EUnl": "Vuur & Vlam",
-      "CNzh": "热情",
-      "TWzh": "熱情",
-      "JPja": "パッション",
-      "KRko": "바이올렛",
-      "EUru": "Темперамент"
-    }
-  },
-  {
-    "id": 11743,
-    "Cloth Name": "Labelle skirt",
-    "variant_id": "1130_Bottoms_11743",
-    "locale": {
-      "USen": "Ocean",
-      "EUen": "Ocean",
-      "EUde": "Ozean",
-      "EUes": "Océano",
-      "USes": "Océano",
-      "EUfr": "Océan",
-      "USfr": "Océan",
-      "EUit": "Oceano",
-      "EUnl": "7e Hemel",
-      "CNzh": "海洋",
-      "TWzh": "海洋",
-      "JPja": "オーシャン",
-      "KRko": "오션",
-      "EUru": "Океан"
-    }
-  },
-  {
-    "id": 11744,
-    "Cloth Name": "Labelle skirt",
-    "variant_id": "1130_Bottoms_11744",
-    "locale": {
-      "USen": "Sunset",
-      "EUen": "Sunset",
-      "EUde": "Sonnenuntergang",
-      "EUes": "Puesta de sol",
-      "USes": "Puesta de sol",
-      "EUfr": "Soleil couchant",
-      "USfr": "Soleil couchant",
-      "EUit": "Girasole",
-      "EUnl": "Klatergoud",
-      "CNzh": "日落",
-      "TWzh": "日落",
-      "JPja": "サンセット",
-      "KRko": "선셋",
-      "EUru": "Закат"
-    }
-  },
-  {
-    "id": 11745,
-    "Cloth Name": "Labelle skirt",
-    "variant_id": "1130_Bottoms_11745",
-    "locale": {
-      "USen": "Love",
-      "EUen": "Love",
-      "EUde": "Romantik",
-      "EUes": "Amor",
-      "USes": "Amor",
-      "EUfr": "Romance",
-      "USfr": "Romance",
-      "EUit": "Romanticismo",
-      "EUnl": "Roze Bril",
-      "CNzh": "爱",
-      "TWzh": "愛",
-      "JPja": "ラブ",
-      "KRko": "러브",
-      "EUru": "Любовь"
-    }
-  },
-  {
-    "id": 12173,
-    "Cloth Name": "polka-dot miniskirt",
-    "variant_id": "1187_Bottoms_12173",
-    "locale": {
-      "USen": "Beige",
-      "EUen": "Beige",
-      "EUde": "Beige",
-      "EUes": "Beis",
-      "USes": "Beige",
-      "EUfr": "Beige",
-      "USfr": "Beige",
-      "EUit": "Beige",
-      "EUnl": "Beige",
-      "CNzh": "米色",
-      "TWzh": "米色",
-      "JPja": "ベージュ",
-      "KRko": "베이지",
-      "EUru": "Бежевый"
-    }
-  },
-  {
-    "id": 12176,
-    "Cloth Name": "polka-dot miniskirt",
-    "variant_id": "1187_Bottoms_12176",
-    "locale": {
-      "USen": "Pink",
-      "EUen": "Pink",
-      "EUde": "Rosa",
-      "EUes": "Rosa",
-      "USes": "Rosa",
-      "EUfr": "Rose",
-      "USfr": "Rose",
-      "EUit": "Rosa",
-      "EUnl": "Roze",
-      "CNzh": "粉红",
-      "TWzh": "粉紅色",
-      "JPja": "ピンク",
-      "KRko": "핑크",
-      "EUru": "Розовый"
-    }
-  },
-  {
-    "id": 12177,
-    "Cloth Name": "polka-dot miniskirt",
-    "variant_id": "1187_Bottoms_12177",
-    "locale": {
-      "USen": "Blue",
-      "EUen": "Blue",
-      "EUde": "Blau",
-      "EUes": "Azul",
-      "USes": "Azul",
-      "EUfr": "Bleu",
-      "USfr": "Bleu",
-      "EUit": "Blu",
-      "EUnl": "Blauw",
-      "CNzh": "蓝色",
-      "TWzh": "藍色",
-      "JPja": "ブルー",
-      "KRko": "블루",
-      "EUru": "Синий"
-    }
-  },
-  {
-    "id": 12178,
-    "Cloth Name": "polka-dot miniskirt",
-    "variant_id": "1187_Bottoms_12178",
-    "locale": {
-      "USen": "Gray",
-      "EUen": "Gray",
-      "EUde": "Grau",
-      "EUes": "Gris",
-      "USes": "Gris",
-      "EUfr": "Gris",
-      "USfr": "Gris",
-      "EUit": "Grigio",
-      "EUnl": "Grijs",
-      "CNzh": "灰色",
-      "TWzh": "灰色",
-      "JPja": "グレー",
-      "KRko": "그레이",
-      "EUru": "Серый"
-    }
-  },
-  {
-    "id": 3296,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_03296",
     "locale": {
       "USen": "Gray",
@@ -1344,8 +546,8 @@
     }
   },
   {
-    "id": 11270,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11270",
     "locale": {
       "USen": "Red",
@@ -1365,8 +567,8 @@
     }
   },
   {
-    "id": 11271,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11271",
     "locale": {
       "USen": "Green",
@@ -1386,8 +588,8 @@
     }
   },
   {
-    "id": 11272,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11272",
     "locale": {
       "USen": "Blue",
@@ -1407,8 +609,8 @@
     }
   },
   {
-    "id": 11273,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11273",
     "locale": {
       "USen": "Yellow",
@@ -1428,8 +630,8 @@
     }
   },
   {
-    "id": 11274,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11274",
     "locale": {
       "USen": "Pink",
@@ -1449,8 +651,8 @@
     }
   },
   {
-    "id": 11275,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11275",
     "locale": {
       "USen": "Light blue",
@@ -1470,8 +672,8 @@
     }
   },
   {
-    "id": 11276,
-    "Cloth Name": "sweatpants",
+    "id": 119,
+    "cloth_name": "sweatpants",
     "variant_id": "119_Bottoms_11276",
     "locale": {
       "USen": "Black",
@@ -1491,29 +693,8 @@
     }
   },
   {
-    "id": 8907,
-    "Cloth Name": "green grass skirt",
-    "variant_id": "1190_Bottoms_08907",
-    "locale": {
-      "USen": "Green",
-      "EUen": "Green",
-      "EUde": "Grün",
-      "EUes": "Verde",
-      "USes": "Verde",
-      "EUfr": "Vert",
-      "USfr": "Vert",
-      "EUit": "Verde",
-      "EUnl": "Groen",
-      "CNzh": "绿色",
-      "TWzh": "綠色",
-      "JPja": "グリーン",
-      "KRko": "그린",
-      "EUru": "Зеленый"
-    }
-  },
-  {
-    "id": 3297,
-    "Cloth Name": "tweed skirt",
+    "id": 120,
+    "cloth_name": "tweed skirt",
     "variant_id": "120_Bottoms_03297",
     "locale": {
       "USen": "Yellow",
@@ -1533,8 +714,8 @@
     }
   },
   {
-    "id": 11666,
-    "Cloth Name": "tweed skirt",
+    "id": 120,
+    "cloth_name": "tweed skirt",
     "variant_id": "120_Bottoms_11666",
     "locale": {
       "USen": "Pink",
@@ -1554,8 +735,8 @@
     }
   },
   {
-    "id": 11667,
-    "Cloth Name": "tweed skirt",
+    "id": 120,
+    "cloth_name": "tweed skirt",
     "variant_id": "120_Bottoms_11667",
     "locale": {
       "USen": "Blue",
@@ -1575,29 +756,8 @@
     }
   },
   {
-    "id": 12664,
-    "Cloth Name": "pirate pants",
-    "variant_id": "1227_Bottoms_12664",
-    "locale": {
-      "USen": "Black",
-      "EUen": "Black",
-      "EUde": "Schwarz",
-      "EUes": "Negro",
-      "USes": "Negro",
-      "EUfr": "Noir",
-      "USfr": "Noir",
-      "EUit": "Nero",
-      "EUnl": "Zwart",
-      "CNzh": "黑色",
-      "TWzh": "黑色",
-      "JPja": "ブラック",
-      "KRko": "블랙",
-      "EUru": "Черный"
-    }
-  },
-  {
-    "id": 3309,
-    "Cloth Name": "pleather pants",
+    "id": 125,
+    "cloth_name": "pleather pants",
     "variant_id": "125_Bottoms_03309",
     "locale": {
       "USen": "Black",
@@ -1617,8 +777,8 @@
     }
   },
   {
-    "id": 11290,
-    "Cloth Name": "pleather pants",
+    "id": 125,
+    "cloth_name": "pleather pants",
     "variant_id": "125_Bottoms_11290",
     "locale": {
       "USen": "Brown",
@@ -1638,8 +798,8 @@
     }
   },
   {
-    "id": 11291,
-    "Cloth Name": "pleather pants",
+    "id": 125,
+    "cloth_name": "pleather pants",
     "variant_id": "125_Bottoms_11291",
     "locale": {
       "USen": "Beige",
@@ -1659,8 +819,8 @@
     }
   },
   {
-    "id": 11292,
-    "Cloth Name": "pleather pants",
+    "id": 125,
+    "cloth_name": "pleather pants",
     "variant_id": "125_Bottoms_11292",
     "locale": {
       "USen": "Red",
@@ -1680,8 +840,8 @@
     }
   },
   {
-    "id": 11293,
-    "Cloth Name": "pleather pants",
+    "id": 125,
+    "cloth_name": "pleather pants",
     "variant_id": "125_Bottoms_11293",
     "locale": {
       "USen": "Blue",
@@ -1701,8 +861,8 @@
     }
   },
   {
-    "id": 11294,
-    "Cloth Name": "pleather pants",
+    "id": 125,
+    "cloth_name": "pleather pants",
     "variant_id": "125_Bottoms_11294",
     "locale": {
       "USen": "Yellow",
@@ -1722,8 +882,8 @@
     }
   },
   {
-    "id": 3310,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_03310",
     "locale": {
       "USen": "Black",
@@ -1743,8 +903,8 @@
     }
   },
   {
-    "id": 11277,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_11277",
     "locale": {
       "USen": "Gray",
@@ -1764,8 +924,8 @@
     }
   },
   {
-    "id": 11278,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_11278",
     "locale": {
       "USen": "Blue",
@@ -1785,8 +945,8 @@
     }
   },
   {
-    "id": 11279,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_11279",
     "locale": {
       "USen": "Red",
@@ -1806,8 +966,8 @@
     }
   },
   {
-    "id": 11280,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_11280",
     "locale": {
       "USen": "Navy blue",
@@ -1827,8 +987,8 @@
     }
   },
   {
-    "id": 11281,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_11281",
     "locale": {
       "USen": "Beige",
@@ -1848,8 +1008,8 @@
     }
   },
   {
-    "id": 11282,
-    "Cloth Name": "slacks",
+    "id": 126,
+    "cloth_name": "slacks",
     "variant_id": "126_Bottoms_11282",
     "locale": {
       "USen": "White",
@@ -1869,8 +1029,8 @@
     }
   },
   {
-    "id": 3311,
-    "Cloth Name": "athletic pants",
+    "id": 127,
+    "cloth_name": "athletic pants",
     "variant_id": "127_Bottoms_03311",
     "locale": {
       "USen": "Red",
@@ -1890,8 +1050,8 @@
     }
   },
   {
-    "id": 11295,
-    "Cloth Name": "athletic pants",
+    "id": 127,
+    "cloth_name": "athletic pants",
     "variant_id": "127_Bottoms_11295",
     "locale": {
       "USen": "Green",
@@ -1911,8 +1071,8 @@
     }
   },
   {
-    "id": 11296,
-    "Cloth Name": "athletic pants",
+    "id": 127,
+    "cloth_name": "athletic pants",
     "variant_id": "127_Bottoms_11296",
     "locale": {
       "USen": "Black",
@@ -1932,8 +1092,8 @@
     }
   },
   {
-    "id": 11297,
-    "Cloth Name": "athletic pants",
+    "id": 127,
+    "cloth_name": "athletic pants",
     "variant_id": "127_Bottoms_11297",
     "locale": {
       "USen": "Blue",
@@ -1953,8 +1113,8 @@
     }
   },
   {
-    "id": 11298,
-    "Cloth Name": "athletic pants",
+    "id": 127,
+    "cloth_name": "athletic pants",
     "variant_id": "127_Bottoms_11298",
     "locale": {
       "USen": "Berry red",
@@ -1974,8 +1134,8 @@
     }
   },
   {
-    "id": 11299,
-    "Cloth Name": "athletic pants",
+    "id": 127,
+    "cloth_name": "athletic pants",
     "variant_id": "127_Bottoms_11299",
     "locale": {
       "USen": "Navy blue",
@@ -1995,8 +1155,8 @@
     }
   },
   {
-    "id": 3312,
-    "Cloth Name": "striped pants",
+    "id": 128,
+    "cloth_name": "striped pants",
     "variant_id": "128_Bottoms_03312",
     "locale": {
       "USen": "Blue",
@@ -2016,8 +1176,8 @@
     }
   },
   {
-    "id": 9235,
-    "Cloth Name": "striped pants",
+    "id": 128,
+    "cloth_name": "striped pants",
     "variant_id": "128_Bottoms_09235",
     "locale": {
       "USen": "Orange",
@@ -2037,8 +1197,8 @@
     }
   },
   {
-    "id": 9236,
-    "Cloth Name": "striped pants",
+    "id": 128,
+    "cloth_name": "striped pants",
     "variant_id": "128_Bottoms_09236",
     "locale": {
       "USen": "Green",
@@ -2058,8 +1218,8 @@
     }
   },
   {
-    "id": 9237,
-    "Cloth Name": "striped pants",
+    "id": 128,
+    "cloth_name": "striped pants",
     "variant_id": "128_Bottoms_09237",
     "locale": {
       "USen": "Red",
@@ -2079,8 +1239,8 @@
     }
   },
   {
-    "id": 9238,
-    "Cloth Name": "striped pants",
+    "id": 128,
+    "cloth_name": "striped pants",
     "variant_id": "128_Bottoms_09238",
     "locale": {
       "USen": "Black",
@@ -2100,8 +1260,8 @@
     }
   },
   {
-    "id": 3313,
-    "Cloth Name": "worn-out jeans",
+    "id": 129,
+    "cloth_name": "worn-out jeans",
     "variant_id": "129_Bottoms_03313",
     "locale": {
       "USen": "Light blue",
@@ -2121,8 +1281,8 @@
     }
   },
   {
-    "id": 11427,
-    "Cloth Name": "worn-out jeans",
+    "id": 129,
+    "cloth_name": "worn-out jeans",
     "variant_id": "129_Bottoms_11427",
     "locale": {
       "USen": "Blue",
@@ -2142,8 +1302,8 @@
     }
   },
   {
-    "id": 11428,
-    "Cloth Name": "worn-out jeans",
+    "id": 129,
+    "cloth_name": "worn-out jeans",
     "variant_id": "129_Bottoms_11428",
     "locale": {
       "USen": "White",
@@ -2163,8 +1323,8 @@
     }
   },
   {
-    "id": 11429,
-    "Cloth Name": "worn-out jeans",
+    "id": 129,
+    "cloth_name": "worn-out jeans",
     "variant_id": "129_Bottoms_11429",
     "locale": {
       "USen": "Black",
@@ -2184,8 +1344,8 @@
     }
   },
   {
-    "id": 3335,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_03335",
     "locale": {
       "USen": "Navy blue",
@@ -2205,8 +1365,8 @@
     }
   },
   {
-    "id": 11284,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_11284",
     "locale": {
       "USen": "Gray",
@@ -2226,8 +1386,8 @@
     }
   },
   {
-    "id": 11285,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_11285",
     "locale": {
       "USen": "White",
@@ -2247,8 +1407,8 @@
     }
   },
   {
-    "id": 11286,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_11286",
     "locale": {
       "USen": "Red",
@@ -2268,8 +1428,8 @@
     }
   },
   {
-    "id": 11287,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_11287",
     "locale": {
       "USen": "Light blue",
@@ -2289,8 +1449,8 @@
     }
   },
   {
-    "id": 11288,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_11288",
     "locale": {
       "USen": "Green",
@@ -2310,8 +1470,8 @@
     }
   },
   {
-    "id": 11289,
-    "Cloth Name": "track pants",
+    "id": 140,
+    "cloth_name": "track pants",
     "variant_id": "140_Bottoms_11289",
     "locale": {
       "USen": "Blue",
@@ -2331,8 +1491,8 @@
     }
   },
   {
-    "id": 3337,
-    "Cloth Name": "kilt",
+    "id": 142,
+    "cloth_name": "kilt",
     "variant_id": "142_Bottoms_03337",
     "locale": {
       "USen": "Red",
@@ -2352,8 +1512,8 @@
     }
   },
   {
-    "id": 9239,
-    "Cloth Name": "kilt",
+    "id": 142,
+    "cloth_name": "kilt",
     "variant_id": "142_Bottoms_09239",
     "locale": {
       "USen": "Black",
@@ -2373,8 +1533,8 @@
     }
   },
   {
-    "id": 9240,
-    "Cloth Name": "kilt",
+    "id": 142,
+    "cloth_name": "kilt",
     "variant_id": "142_Bottoms_09240",
     "locale": {
       "USen": "Navy blue",
@@ -2394,8 +1554,8 @@
     }
   },
   {
-    "id": 9241,
-    "Cloth Name": "kilt",
+    "id": 142,
+    "cloth_name": "kilt",
     "variant_id": "142_Bottoms_09241",
     "locale": {
       "USen": "Green",
@@ -2415,8 +1575,8 @@
     }
   },
   {
-    "id": 3341,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_03341",
     "locale": {
       "USen": "Navy blue",
@@ -2436,8 +1596,8 @@
     }
   },
   {
-    "id": 11635,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11635",
     "locale": {
       "USen": "Orange",
@@ -2457,8 +1617,8 @@
     }
   },
   {
-    "id": 11636,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11636",
     "locale": {
       "USen": "Light blue",
@@ -2478,8 +1638,8 @@
     }
   },
   {
-    "id": 11637,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11637",
     "locale": {
       "USen": "Green",
@@ -2499,8 +1659,8 @@
     }
   },
   {
-    "id": 11638,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11638",
     "locale": {
       "USen": "Brown",
@@ -2520,8 +1680,8 @@
     }
   },
   {
-    "id": 11639,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11639",
     "locale": {
       "USen": "Purple",
@@ -2541,8 +1701,8 @@
     }
   },
   {
-    "id": 11640,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11640",
     "locale": {
       "USen": "Red",
@@ -2562,8 +1722,8 @@
     }
   },
   {
-    "id": 11641,
-    "Cloth Name": "sailor skirt",
+    "id": 144,
+    "cloth_name": "sailor skirt",
     "variant_id": "144_Bottoms_11641",
     "locale": {
       "USen": "Pink",
@@ -2583,8 +1743,8 @@
     }
   },
   {
-    "id": 3342,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_03342",
     "locale": {
       "USen": "Brown",
@@ -2604,8 +1764,8 @@
     }
   },
   {
-    "id": 10185,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_10185",
     "locale": {
       "USen": "Avocado",
@@ -2625,8 +1785,8 @@
     }
   },
   {
-    "id": 10186,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_10186",
     "locale": {
       "USen": "Pink",
@@ -2646,8 +1806,8 @@
     }
   },
   {
-    "id": 10187,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_10187",
     "locale": {
       "USen": "Blue",
@@ -2667,8 +1827,8 @@
     }
   },
   {
-    "id": 10188,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_10188",
     "locale": {
       "USen": "Gray",
@@ -2688,8 +1848,8 @@
     }
   },
   {
-    "id": 10189,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_10189",
     "locale": {
       "USen": "Purple",
@@ -2709,8 +1869,8 @@
     }
   },
   {
-    "id": 10190,
-    "Cloth Name": "camo pants",
+    "id": 145,
+    "cloth_name": "camo pants",
     "variant_id": "145_Bottoms_10190",
     "locale": {
       "USen": "Red",
@@ -2730,8 +1890,8 @@
     }
   },
   {
-    "id": 3351,
-    "Cloth Name": "cargo pants",
+    "id": 148,
+    "cloth_name": "cargo pants",
     "variant_id": "148_Bottoms_03351",
     "locale": {
       "USen": "Avocado",
@@ -2751,8 +1911,8 @@
     }
   },
   {
-    "id": 9703,
-    "Cloth Name": "cargo pants",
+    "id": 148,
+    "cloth_name": "cargo pants",
     "variant_id": "148_Bottoms_09703",
     "locale": {
       "USen": "Beige",
@@ -2772,8 +1932,8 @@
     }
   },
   {
-    "id": 9704,
-    "Cloth Name": "cargo pants",
+    "id": 148,
+    "cloth_name": "cargo pants",
     "variant_id": "148_Bottoms_09704",
     "locale": {
       "USen": "Navy blue",
@@ -2793,8 +1953,8 @@
     }
   },
   {
-    "id": 9705,
-    "Cloth Name": "cargo pants",
+    "id": 148,
+    "cloth_name": "cargo pants",
     "variant_id": "148_Bottoms_09705",
     "locale": {
       "USen": "Mustard",
@@ -2814,8 +1974,8 @@
     }
   },
   {
-    "id": 9706,
-    "Cloth Name": "cargo pants",
+    "id": 148,
+    "cloth_name": "cargo pants",
     "variant_id": "148_Bottoms_09706",
     "locale": {
       "USen": "Brown",
@@ -2835,8 +1995,8 @@
     }
   },
   {
-    "id": 3353,
-    "Cloth Name": "cuffed pants",
+    "id": 149,
+    "cloth_name": "cuffed pants",
     "variant_id": "149_Bottoms_03353",
     "locale": {
       "USen": "Brown",
@@ -2856,8 +2016,8 @@
     }
   },
   {
-    "id": 9263,
-    "Cloth Name": "cuffed pants",
+    "id": 149,
+    "cloth_name": "cuffed pants",
     "variant_id": "149_Bottoms_09263",
     "locale": {
       "USen": "Purple",
@@ -2877,8 +2037,8 @@
     }
   },
   {
-    "id": 9264,
-    "Cloth Name": "cuffed pants",
+    "id": 149,
+    "cloth_name": "cuffed pants",
     "variant_id": "149_Bottoms_09264",
     "locale": {
       "USen": "Green",
@@ -2898,8 +2058,8 @@
     }
   },
   {
-    "id": 9265,
-    "Cloth Name": "cuffed pants",
+    "id": 149,
+    "cloth_name": "cuffed pants",
     "variant_id": "149_Bottoms_09265",
     "locale": {
       "USen": "Gray",
@@ -2919,8 +2079,8 @@
     }
   },
   {
-    "id": 3384,
-    "Cloth Name": "lace skirt",
+    "id": 152,
+    "cloth_name": "lace skirt",
     "variant_id": "152_Bottoms_03384",
     "locale": {
       "USen": "White",
@@ -2940,8 +2100,8 @@
     }
   },
   {
-    "id": 8904,
-    "Cloth Name": "lace skirt",
+    "id": 152,
+    "cloth_name": "lace skirt",
     "variant_id": "152_Bottoms_08904",
     "locale": {
       "USen": "Pink",
@@ -2961,8 +2121,8 @@
     }
   },
   {
-    "id": 8905,
-    "Cloth Name": "lace skirt",
+    "id": 152,
+    "cloth_name": "lace skirt",
     "variant_id": "152_Bottoms_08905",
     "locale": {
       "USen": "Green",
@@ -2982,8 +2142,8 @@
     }
   },
   {
-    "id": 8906,
-    "Cloth Name": "lace skirt",
+    "id": 152,
+    "cloth_name": "lace skirt",
     "variant_id": "152_Bottoms_08906",
     "locale": {
       "USen": "Beige",
@@ -3003,8 +2163,29 @@
     }
   },
   {
-    "id": 3405,
-    "Cloth Name": "dress pants",
+    "id": 158,
+    "cloth_name": "Santa pants",
+    "variant_id": "158_Bottoms_03391",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 160,
+    "cloth_name": "dress pants",
     "variant_id": "160_Bottoms_03405",
     "locale": {
       "USen": "Green",
@@ -3024,8 +2205,8 @@
     }
   },
   {
-    "id": 11404,
-    "Cloth Name": "dress pants",
+    "id": 160,
+    "cloth_name": "dress pants",
     "variant_id": "160_Bottoms_11404",
     "locale": {
       "USen": "Navy blue",
@@ -3045,8 +2226,8 @@
     }
   },
   {
-    "id": 11405,
-    "Cloth Name": "dress pants",
+    "id": 160,
+    "cloth_name": "dress pants",
     "variant_id": "160_Bottoms_11405",
     "locale": {
       "USen": "Beige",
@@ -3066,8 +2247,8 @@
     }
   },
   {
-    "id": 11406,
-    "Cloth Name": "dress pants",
+    "id": 160,
+    "cloth_name": "dress pants",
     "variant_id": "160_Bottoms_11406",
     "locale": {
       "USen": "Berry red",
@@ -3087,8 +2268,8 @@
     }
   },
   {
-    "id": 3408,
-    "Cloth Name": "flashy slacks",
+    "id": 161,
+    "cloth_name": "flashy slacks",
     "variant_id": "161_Bottoms_03408",
     "locale": {
       "USen": "White",
@@ -3108,8 +2289,8 @@
     }
   },
   {
-    "id": 11354,
-    "Cloth Name": "flashy slacks",
+    "id": 161,
+    "cloth_name": "flashy slacks",
     "variant_id": "161_Bottoms_11354",
     "locale": {
       "USen": "Black",
@@ -3129,8 +2310,8 @@
     }
   },
   {
-    "id": 11355,
-    "Cloth Name": "flashy slacks",
+    "id": 161,
+    "cloth_name": "flashy slacks",
     "variant_id": "161_Bottoms_11355",
     "locale": {
       "USen": "Purple",
@@ -3150,8 +2331,8 @@
     }
   },
   {
-    "id": 11356,
-    "Cloth Name": "flashy slacks",
+    "id": 161,
+    "cloth_name": "flashy slacks",
     "variant_id": "161_Bottoms_11356",
     "locale": {
       "USen": "Berry red",
@@ -3171,8 +2352,8 @@
     }
   },
   {
-    "id": 11357,
-    "Cloth Name": "flashy slacks",
+    "id": 161,
+    "cloth_name": "flashy slacks",
     "variant_id": "161_Bottoms_11357",
     "locale": {
       "USen": "Aquamarine",
@@ -3192,8 +2373,8 @@
     }
   },
   {
-    "id": 11358,
-    "Cloth Name": "flashy slacks",
+    "id": 161,
+    "cloth_name": "flashy slacks",
     "variant_id": "161_Bottoms_11358",
     "locale": {
       "USen": "Yellow",
@@ -3213,8 +2394,8 @@
     }
   },
   {
-    "id": 3463,
-    "Cloth Name": "western pants",
+    "id": 175,
+    "cloth_name": "western pants",
     "variant_id": "175_Bottoms_03463",
     "locale": {
       "USen": "Brown",
@@ -3234,8 +2415,8 @@
     }
   },
   {
-    "id": 3708,
-    "Cloth Name": "tweed pants",
+    "id": 240,
+    "cloth_name": "tweed pants",
     "variant_id": "240_Bottoms_03708",
     "locale": {
       "USen": "Brown",
@@ -3255,8 +2436,8 @@
     }
   },
   {
-    "id": 11386,
-    "Cloth Name": "tweed pants",
+    "id": 240,
+    "cloth_name": "tweed pants",
     "variant_id": "240_Bottoms_11386",
     "locale": {
       "USen": "Blue",
@@ -3276,8 +2457,8 @@
     }
   },
   {
-    "id": 11387,
-    "Cloth Name": "tweed pants",
+    "id": 240,
+    "cloth_name": "tweed pants",
     "variant_id": "240_Bottoms_11387",
     "locale": {
       "USen": "Beige",
@@ -3297,8 +2478,8 @@
     }
   },
   {
-    "id": 11388,
-    "Cloth Name": "tweed pants",
+    "id": 240,
+    "cloth_name": "tweed pants",
     "variant_id": "240_Bottoms_11388",
     "locale": {
       "USen": "Berry red",
@@ -3318,8 +2499,8 @@
     }
   },
   {
-    "id": 11389,
-    "Cloth Name": "tweed pants",
+    "id": 240,
+    "cloth_name": "tweed pants",
     "variant_id": "240_Bottoms_11389",
     "locale": {
       "USen": "Green",
@@ -3339,8 +2520,8 @@
     }
   },
   {
-    "id": 11390,
-    "Cloth Name": "tweed pants",
+    "id": 240,
+    "cloth_name": "tweed pants",
     "variant_id": "240_Bottoms_11390",
     "locale": {
       "USen": "Pink",
@@ -3360,8 +2541,8 @@
     }
   },
   {
-    "id": 4150,
-    "Cloth Name": "cargo shorts",
+    "id": 245,
+    "cloth_name": "cargo shorts",
     "variant_id": "245_Bottoms_04150",
     "locale": {
       "USen": "Beige",
@@ -3381,8 +2562,8 @@
     }
   },
   {
-    "id": 8835,
-    "Cloth Name": "cargo shorts",
+    "id": 245,
+    "cloth_name": "cargo shorts",
     "variant_id": "245_Bottoms_08835",
     "locale": {
       "USen": "Navy blue",
@@ -3402,8 +2583,8 @@
     }
   },
   {
-    "id": 8836,
-    "Cloth Name": "cargo shorts",
+    "id": 245,
+    "cloth_name": "cargo shorts",
     "variant_id": "245_Bottoms_08836",
     "locale": {
       "USen": "Avocado",
@@ -3423,8 +2604,8 @@
     }
   },
   {
-    "id": 8837,
-    "Cloth Name": "cargo shorts",
+    "id": 245,
+    "cloth_name": "cargo shorts",
     "variant_id": "245_Bottoms_08837",
     "locale": {
       "USen": "Camel",
@@ -3444,8 +2625,8 @@
     }
   },
   {
-    "id": 8838,
-    "Cloth Name": "cargo shorts",
+    "id": 245,
+    "cloth_name": "cargo shorts",
     "variant_id": "245_Bottoms_08838",
     "locale": {
       "USen": "Brown",
@@ -3465,8 +2646,8 @@
     }
   },
   {
-    "id": 4195,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_04195",
     "locale": {
       "USen": "Pink",
@@ -3486,8 +2667,8 @@
     }
   },
   {
-    "id": 8854,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08854",
     "locale": {
       "USen": "Light blue",
@@ -3507,8 +2688,8 @@
     }
   },
   {
-    "id": 8855,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08855",
     "locale": {
       "USen": "Lime",
@@ -3528,8 +2709,8 @@
     }
   },
   {
-    "id": 8856,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08856",
     "locale": {
       "USen": "Red",
@@ -3549,8 +2730,8 @@
     }
   },
   {
-    "id": 8857,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08857",
     "locale": {
       "USen": "Blue",
@@ -3570,8 +2751,8 @@
     }
   },
   {
-    "id": 8858,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08858",
     "locale": {
       "USen": "Black",
@@ -3591,8 +2772,8 @@
     }
   },
   {
-    "id": 8859,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08859",
     "locale": {
       "USen": "Purple",
@@ -3612,8 +2793,8 @@
     }
   },
   {
-    "id": 8860,
-    "Cloth Name": "jogging shorts",
+    "id": 248,
+    "cloth_name": "jogging shorts",
     "variant_id": "248_Bottoms_08860",
     "locale": {
       "USen": "Orange",
@@ -3633,8 +2814,8 @@
     }
   },
   {
-    "id": 4222,
-    "Cloth Name": "long pleated skirt",
+    "id": 255,
+    "cloth_name": "long pleated skirt",
     "variant_id": "255_Bottoms_04222",
     "locale": {
       "USen": "Ruby red",
@@ -3654,8 +2835,8 @@
     }
   },
   {
-    "id": 8703,
-    "Cloth Name": "long pleated skirt",
+    "id": 255,
+    "cloth_name": "long pleated skirt",
     "variant_id": "255_Bottoms_08703",
     "locale": {
       "USen": "White",
@@ -3675,8 +2856,8 @@
     }
   },
   {
-    "id": 8704,
-    "Cloth Name": "long pleated skirt",
+    "id": 255,
+    "cloth_name": "long pleated skirt",
     "variant_id": "255_Bottoms_08704",
     "locale": {
       "USen": "Yellow",
@@ -3696,8 +2877,8 @@
     }
   },
   {
-    "id": 8705,
-    "Cloth Name": "long pleated skirt",
+    "id": 255,
+    "cloth_name": "long pleated skirt",
     "variant_id": "255_Bottoms_08705",
     "locale": {
       "USen": "Cyan",
@@ -3717,8 +2898,8 @@
     }
   },
   {
-    "id": 8706,
-    "Cloth Name": "long pleated skirt",
+    "id": 255,
+    "cloth_name": "long pleated skirt",
     "variant_id": "255_Bottoms_08706",
     "locale": {
       "USen": "Gray",
@@ -3738,8 +2919,8 @@
     }
   },
   {
-    "id": 4223,
-    "Cloth Name": "tennis skirt",
+    "id": 256,
+    "cloth_name": "tennis skirt",
     "variant_id": "256_Bottoms_04223",
     "locale": {
       "USen": "White",
@@ -3759,8 +2940,8 @@
     }
   },
   {
-    "id": 8782,
-    "Cloth Name": "tennis skirt",
+    "id": 256,
+    "cloth_name": "tennis skirt",
     "variant_id": "256_Bottoms_08782",
     "locale": {
       "USen": "Navy blue",
@@ -3780,8 +2961,8 @@
     }
   },
   {
-    "id": 8783,
-    "Cloth Name": "tennis skirt",
+    "id": 256,
+    "cloth_name": "tennis skirt",
     "variant_id": "256_Bottoms_08783",
     "locale": {
       "USen": "Light blue",
@@ -3801,8 +2982,8 @@
     }
   },
   {
-    "id": 8784,
-    "Cloth Name": "tennis skirt",
+    "id": 256,
+    "cloth_name": "tennis skirt",
     "variant_id": "256_Bottoms_08784",
     "locale": {
       "USen": "Pink",
@@ -3822,8 +3003,8 @@
     }
   },
   {
-    "id": 4246,
-    "Cloth Name": "denim skirt",
+    "id": 265,
+    "cloth_name": "denim skirt",
     "variant_id": "265_Bottoms_04246",
     "locale": {
       "USen": "Blue",
@@ -3843,8 +3024,8 @@
     }
   },
   {
-    "id": 11430,
-    "Cloth Name": "denim skirt",
+    "id": 265,
+    "cloth_name": "denim skirt",
     "variant_id": "265_Bottoms_11430",
     "locale": {
       "USen": "Light blue",
@@ -3864,8 +3045,8 @@
     }
   },
   {
-    "id": 11431,
-    "Cloth Name": "denim skirt",
+    "id": 265,
+    "cloth_name": "denim skirt",
     "variant_id": "265_Bottoms_11431",
     "locale": {
       "USen": "Navy blue",
@@ -3885,8 +3066,8 @@
     }
   },
   {
-    "id": 11432,
-    "Cloth Name": "denim skirt",
+    "id": 265,
+    "cloth_name": "denim skirt",
     "variant_id": "265_Bottoms_11432",
     "locale": {
       "USen": "Black",
@@ -3906,8 +3087,8 @@
     }
   },
   {
-    "id": 11433,
-    "Cloth Name": "denim skirt",
+    "id": 265,
+    "cloth_name": "denim skirt",
     "variant_id": "265_Bottoms_11433",
     "locale": {
       "USen": "White",
@@ -3927,8 +3108,8 @@
     }
   },
   {
-    "id": 4251,
-    "Cloth Name": "worn-out cutoffs",
+    "id": 269,
+    "cloth_name": "worn-out cutoffs",
     "variant_id": "269_Bottoms_04251",
     "locale": {
       "USen": "Light blue",
@@ -3948,8 +3129,8 @@
     }
   },
   {
-    "id": 11434,
-    "Cloth Name": "worn-out cutoffs",
+    "id": 269,
+    "cloth_name": "worn-out cutoffs",
     "variant_id": "269_Bottoms_11434",
     "locale": {
       "USen": "Blue",
@@ -3969,8 +3150,8 @@
     }
   },
   {
-    "id": 11435,
-    "Cloth Name": "worn-out cutoffs",
+    "id": 269,
+    "cloth_name": "worn-out cutoffs",
     "variant_id": "269_Bottoms_11435",
     "locale": {
       "USen": "White",
@@ -3990,8 +3171,8 @@
     }
   },
   {
-    "id": 11436,
-    "Cloth Name": "worn-out cutoffs",
+    "id": 269,
+    "cloth_name": "worn-out cutoffs",
     "variant_id": "269_Bottoms_11436",
     "locale": {
       "USen": "Black",
@@ -4011,8 +3192,8 @@
     }
   },
   {
-    "id": 4252,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_04252",
     "locale": {
       "USen": "Black",
@@ -4032,8 +3213,8 @@
     }
   },
   {
-    "id": 8707,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08707",
     "locale": {
       "USen": "Red",
@@ -4053,8 +3234,8 @@
     }
   },
   {
-    "id": 8708,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08708",
     "locale": {
       "USen": "Blue",
@@ -4074,8 +3255,8 @@
     }
   },
   {
-    "id": 8709,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08709",
     "locale": {
       "USen": "Green",
@@ -4095,8 +3276,8 @@
     }
   },
   {
-    "id": 8710,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08710",
     "locale": {
       "USen": "Orange",
@@ -4116,8 +3297,8 @@
     }
   },
   {
-    "id": 8711,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08711",
     "locale": {
       "USen": "Yellow",
@@ -4137,8 +3318,8 @@
     }
   },
   {
-    "id": 8712,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08712",
     "locale": {
       "USen": "Pink",
@@ -4158,8 +3339,8 @@
     }
   },
   {
-    "id": 8713,
-    "Cloth Name": "long polka skirt",
+    "id": 270,
+    "cloth_name": "long polka skirt",
     "variant_id": "270_Bottoms_08713",
     "locale": {
       "USen": "Light blue",
@@ -4179,8 +3360,8 @@
     }
   },
   {
-    "id": 4254,
-    "Cloth Name": "hickory-stripe pants",
+    "id": 272,
+    "cloth_name": "hickory-stripe pants",
     "variant_id": "272_Bottoms_04254",
     "locale": {
       "USen": "Blue",
@@ -4200,8 +3381,8 @@
     }
   },
   {
-    "id": 9537,
-    "Cloth Name": "hickory-stripe pants",
+    "id": 272,
+    "cloth_name": "hickory-stripe pants",
     "variant_id": "272_Bottoms_09537",
     "locale": {
       "USen": "Light blue",
@@ -4221,8 +3402,8 @@
     }
   },
   {
-    "id": 4255,
-    "Cloth Name": "chain pants",
+    "id": 273,
+    "cloth_name": "chain pants",
     "variant_id": "273_Bottoms_04255",
     "locale": {
       "USen": "Red",
@@ -4242,8 +3423,8 @@
     }
   },
   {
-    "id": 9242,
-    "Cloth Name": "chain pants",
+    "id": 273,
+    "cloth_name": "chain pants",
     "variant_id": "273_Bottoms_09242",
     "locale": {
       "USen": "Blue",
@@ -4263,8 +3444,8 @@
     }
   },
   {
-    "id": 9243,
-    "Cloth Name": "chain pants",
+    "id": 273,
+    "cloth_name": "chain pants",
     "variant_id": "273_Bottoms_09243",
     "locale": {
       "USen": "White",
@@ -4284,8 +3465,8 @@
     }
   },
   {
-    "id": 9244,
-    "Cloth Name": "chain pants",
+    "id": 273,
+    "cloth_name": "chain pants",
     "variant_id": "273_Bottoms_09244",
     "locale": {
       "USen": "Black",
@@ -4305,8 +3486,8 @@
     }
   },
   {
-    "id": 4256,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_04256",
     "locale": {
       "USen": "Blue",
@@ -4326,8 +3507,8 @@
     }
   },
   {
-    "id": 11263,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11263",
     "locale": {
       "USen": "Black",
@@ -4347,8 +3528,8 @@
     }
   },
   {
-    "id": 11264,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11264",
     "locale": {
       "USen": "Red",
@@ -4368,8 +3549,8 @@
     }
   },
   {
-    "id": 11265,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11265",
     "locale": {
       "USen": "White",
@@ -4389,8 +3570,8 @@
     }
   },
   {
-    "id": 11266,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11266",
     "locale": {
       "USen": "Green",
@@ -4410,8 +3591,8 @@
     }
   },
   {
-    "id": 11267,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11267",
     "locale": {
       "USen": "Yellow",
@@ -4431,8 +3612,8 @@
     }
   },
   {
-    "id": 11268,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11268",
     "locale": {
       "USen": "Orange",
@@ -4452,8 +3633,8 @@
     }
   },
   {
-    "id": 11269,
-    "Cloth Name": "down pants",
+    "id": 274,
+    "cloth_name": "down pants",
     "variant_id": "274_Bottoms_11269",
     "locale": {
       "USen": "Lime",
@@ -4473,8 +3654,8 @@
     }
   },
   {
-    "id": 4257,
-    "Cloth Name": "long chino skirt",
+    "id": 275,
+    "cloth_name": "long chino skirt",
     "variant_id": "275_Bottoms_04257",
     "locale": {
       "USen": "Beige",
@@ -4494,8 +3675,8 @@
     }
   },
   {
-    "id": 11141,
-    "Cloth Name": "long chino skirt",
+    "id": 275,
+    "cloth_name": "long chino skirt",
     "variant_id": "275_Bottoms_11141",
     "locale": {
       "USen": "Brown",
@@ -4515,8 +3696,8 @@
     }
   },
   {
-    "id": 11142,
-    "Cloth Name": "long chino skirt",
+    "id": 275,
+    "cloth_name": "long chino skirt",
     "variant_id": "275_Bottoms_11142",
     "locale": {
       "USen": "Navy blue",
@@ -4536,8 +3717,8 @@
     }
   },
   {
-    "id": 11143,
-    "Cloth Name": "long chino skirt",
+    "id": 275,
+    "cloth_name": "long chino skirt",
     "variant_id": "275_Bottoms_11143",
     "locale": {
       "USen": "Avocado",
@@ -4557,8 +3738,8 @@
     }
   },
   {
-    "id": 11144,
-    "Cloth Name": "long chino skirt",
+    "id": 275,
+    "cloth_name": "long chino skirt",
     "variant_id": "275_Bottoms_11144",
     "locale": {
       "USen": "Gray",
@@ -4578,8 +3759,8 @@
     }
   },
   {
-    "id": 4266,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_04266",
     "locale": {
       "USen": "Blue",
@@ -4599,8 +3780,8 @@
     }
   },
   {
-    "id": 11328,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11328",
     "locale": {
       "USen": "Black",
@@ -4620,8 +3801,8 @@
     }
   },
   {
-    "id": 11329,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11329",
     "locale": {
       "USen": "Red",
@@ -4641,8 +3822,8 @@
     }
   },
   {
-    "id": 11330,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11330",
     "locale": {
       "USen": "White",
@@ -4662,8 +3843,8 @@
     }
   },
   {
-    "id": 11331,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11331",
     "locale": {
       "USen": "Green",
@@ -4683,8 +3864,8 @@
     }
   },
   {
-    "id": 11332,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11332",
     "locale": {
       "USen": "Yellow",
@@ -4704,8 +3885,8 @@
     }
   },
   {
-    "id": 11333,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11333",
     "locale": {
       "USen": "Orange",
@@ -4725,8 +3906,8 @@
     }
   },
   {
-    "id": 11334,
-    "Cloth Name": "down skirt",
+    "id": 280,
+    "cloth_name": "down skirt",
     "variant_id": "280_Bottoms_11334",
     "locale": {
       "USen": "Lime",
@@ -4746,8 +3927,8 @@
     }
   },
   {
-    "id": 4274,
-    "Cloth Name": "denim cutoffs",
+    "id": 283,
+    "cloth_name": "denim cutoffs",
     "variant_id": "283_Bottoms_04274",
     "locale": {
       "USen": "Blue",
@@ -4767,8 +3948,8 @@
     }
   },
   {
-    "id": 11437,
-    "Cloth Name": "denim cutoffs",
+    "id": 283,
+    "cloth_name": "denim cutoffs",
     "variant_id": "283_Bottoms_11437",
     "locale": {
       "USen": "Light blue",
@@ -4788,8 +3969,8 @@
     }
   },
   {
-    "id": 11438,
-    "Cloth Name": "denim cutoffs",
+    "id": 283,
+    "cloth_name": "denim cutoffs",
     "variant_id": "283_Bottoms_11438",
     "locale": {
       "USen": "Navy blue",
@@ -4809,8 +3990,8 @@
     }
   },
   {
-    "id": 11439,
-    "Cloth Name": "denim cutoffs",
+    "id": 283,
+    "cloth_name": "denim cutoffs",
     "variant_id": "283_Bottoms_11439",
     "locale": {
       "USen": "White",
@@ -4830,8 +4011,8 @@
     }
   },
   {
-    "id": 11440,
-    "Cloth Name": "denim cutoffs",
+    "id": 283,
+    "cloth_name": "denim cutoffs",
     "variant_id": "283_Bottoms_11440",
     "locale": {
       "USen": "Black",
@@ -4851,8 +4032,8 @@
     }
   },
   {
-    "id": 4283,
-    "Cloth Name": "sporty skirt",
+    "id": 287,
+    "cloth_name": "sporty skirt",
     "variant_id": "287_Bottoms_04283",
     "locale": {
       "USen": "Gray",
@@ -4872,8 +4053,8 @@
     }
   },
   {
-    "id": 9245,
-    "Cloth Name": "sporty skirt",
+    "id": 287,
+    "cloth_name": "sporty skirt",
     "variant_id": "287_Bottoms_09245",
     "locale": {
       "USen": "Pink",
@@ -4893,8 +4074,8 @@
     }
   },
   {
-    "id": 9246,
-    "Cloth Name": "sporty skirt",
+    "id": 287,
+    "cloth_name": "sporty skirt",
     "variant_id": "287_Bottoms_09246",
     "locale": {
       "USen": "Blue",
@@ -4914,8 +4095,8 @@
     }
   },
   {
-    "id": 9247,
-    "Cloth Name": "sporty skirt",
+    "id": 287,
+    "cloth_name": "sporty skirt",
     "variant_id": "287_Bottoms_09247",
     "locale": {
       "USen": "Green",
@@ -4935,8 +4116,8 @@
     }
   },
   {
-    "id": 4296,
-    "Cloth Name": "corduroy skirt",
+    "id": 295,
+    "cloth_name": "corduroy skirt",
     "variant_id": "295_Bottoms_04296",
     "locale": {
       "USen": "Brown",
@@ -4956,8 +4137,8 @@
     }
   },
   {
-    "id": 11145,
-    "Cloth Name": "corduroy skirt",
+    "id": 295,
+    "cloth_name": "corduroy skirt",
     "variant_id": "295_Bottoms_11145",
     "locale": {
       "USen": "Camel",
@@ -4977,8 +4158,8 @@
     }
   },
   {
-    "id": 11146,
-    "Cloth Name": "corduroy skirt",
+    "id": 295,
+    "cloth_name": "corduroy skirt",
     "variant_id": "295_Bottoms_11146",
     "locale": {
       "USen": "Pink",
@@ -4998,8 +4179,8 @@
     }
   },
   {
-    "id": 11147,
-    "Cloth Name": "corduroy skirt",
+    "id": 295,
+    "cloth_name": "corduroy skirt",
     "variant_id": "295_Bottoms_11147",
     "locale": {
       "USen": "Green",
@@ -5019,8 +4200,8 @@
     }
   },
   {
-    "id": 11148,
-    "Cloth Name": "corduroy skirt",
+    "id": 295,
+    "cloth_name": "corduroy skirt",
     "variant_id": "295_Bottoms_11148",
     "locale": {
       "USen": "Light gray",
@@ -5040,8 +4221,8 @@
     }
   },
   {
-    "id": 11149,
-    "Cloth Name": "corduroy skirt",
+    "id": 295,
+    "cloth_name": "corduroy skirt",
     "variant_id": "295_Bottoms_11149",
     "locale": {
       "USen": "Black",
@@ -5061,8 +4242,8 @@
     }
   },
   {
-    "id": 4299,
-    "Cloth Name": "gaucho pants",
+    "id": 296,
+    "cloth_name": "gaucho pants",
     "variant_id": "296_Bottoms_04299",
     "locale": {
       "USen": "Gray",
@@ -5082,8 +4263,8 @@
     }
   },
   {
-    "id": 9266,
-    "Cloth Name": "gaucho pants",
+    "id": 296,
+    "cloth_name": "gaucho pants",
     "variant_id": "296_Bottoms_09266",
     "locale": {
       "USen": "Brown",
@@ -5103,8 +4284,8 @@
     }
   },
   {
-    "id": 9267,
-    "Cloth Name": "gaucho pants",
+    "id": 296,
+    "cloth_name": "gaucho pants",
     "variant_id": "296_Bottoms_09267",
     "locale": {
       "USen": "Avocado",
@@ -5124,8 +4305,8 @@
     }
   },
   {
-    "id": 9268,
-    "Cloth Name": "gaucho pants",
+    "id": 296,
+    "cloth_name": "gaucho pants",
     "variant_id": "296_Bottoms_09268",
     "locale": {
       "USen": "Pink",
@@ -5145,8 +4326,8 @@
     }
   },
   {
-    "id": 9269,
-    "Cloth Name": "gaucho pants",
+    "id": 296,
+    "cloth_name": "gaucho pants",
     "variant_id": "296_Bottoms_09269",
     "locale": {
       "USen": "Blue",
@@ -5166,8 +4347,8 @@
     }
   },
   {
-    "id": 4303,
-    "Cloth Name": "pleather skirt",
+    "id": 299,
+    "cloth_name": "pleather skirt",
     "variant_id": "299_Bottoms_04303",
     "locale": {
       "USen": "Black",
@@ -5187,8 +4368,8 @@
     }
   },
   {
-    "id": 11339,
-    "Cloth Name": "pleather skirt",
+    "id": 299,
+    "cloth_name": "pleather skirt",
     "variant_id": "299_Bottoms_11339",
     "locale": {
       "USen": "Brown",
@@ -5208,8 +4389,8 @@
     }
   },
   {
-    "id": 11340,
-    "Cloth Name": "pleather skirt",
+    "id": 299,
+    "cloth_name": "pleather skirt",
     "variant_id": "299_Bottoms_11340",
     "locale": {
       "USen": "Beige",
@@ -5229,8 +4410,8 @@
     }
   },
   {
-    "id": 11341,
-    "Cloth Name": "pleather skirt",
+    "id": 299,
+    "cloth_name": "pleather skirt",
     "variant_id": "299_Bottoms_11341",
     "locale": {
       "USen": "Red",
@@ -5250,8 +4431,8 @@
     }
   },
   {
-    "id": 11342,
-    "Cloth Name": "pleather skirt",
+    "id": 299,
+    "cloth_name": "pleather skirt",
     "variant_id": "299_Bottoms_11342",
     "locale": {
       "USen": "Blue",
@@ -5271,8 +4452,8 @@
     }
   },
   {
-    "id": 11343,
-    "Cloth Name": "pleather skirt",
+    "id": 299,
+    "cloth_name": "pleather skirt",
     "variant_id": "299_Bottoms_11343",
     "locale": {
       "USen": "Yellow",
@@ -5292,8 +4473,8 @@
     }
   },
   {
-    "id": 4307,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_04307",
     "locale": {
       "USen": "Camel",
@@ -5313,8 +4494,8 @@
     }
   },
   {
-    "id": 10191,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_10191",
     "locale": {
       "USen": "Black",
@@ -5334,8 +4515,8 @@
     }
   },
   {
-    "id": 10192,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_10192",
     "locale": {
       "USen": "White",
@@ -5355,8 +4536,8 @@
     }
   },
   {
-    "id": 10193,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_10193",
     "locale": {
       "USen": "Blue",
@@ -5376,8 +4557,8 @@
     }
   },
   {
-    "id": 10194,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_10194",
     "locale": {
       "USen": "Yellow",
@@ -5397,8 +4578,8 @@
     }
   },
   {
-    "id": 10195,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_10195",
     "locale": {
       "USen": "Green",
@@ -5418,8 +4599,8 @@
     }
   },
   {
-    "id": 10196,
-    "Cloth Name": "fringe skirt",
+    "id": 301,
+    "cloth_name": "fringe skirt",
     "variant_id": "301_Bottoms_10196",
     "locale": {
       "USen": "Berry red",
@@ -5439,8 +4620,8 @@
     }
   },
   {
-    "id": 4326,
-    "Cloth Name": "denim painter's pants",
+    "id": 305,
+    "cloth_name": "denim painter's pants",
     "variant_id": "305_Bottoms_04326",
     "locale": {
       "USen": "Navy blue",
@@ -5460,8 +4641,8 @@
     }
   },
   {
-    "id": 11441,
-    "Cloth Name": "denim painter's pants",
+    "id": 305,
+    "cloth_name": "denim painter's pants",
     "variant_id": "305_Bottoms_11441",
     "locale": {
       "USen": "Light blue",
@@ -5481,8 +4662,8 @@
     }
   },
   {
-    "id": 11442,
-    "Cloth Name": "denim painter's pants",
+    "id": 305,
+    "cloth_name": "denim painter's pants",
     "variant_id": "305_Bottoms_11442",
     "locale": {
       "USen": "Blue",
@@ -5502,8 +4683,8 @@
     }
   },
   {
-    "id": 11443,
-    "Cloth Name": "denim painter's pants",
+    "id": 305,
+    "cloth_name": "denim painter's pants",
     "variant_id": "305_Bottoms_11443",
     "locale": {
       "USen": "Black",
@@ -5523,8 +4704,8 @@
     }
   },
   {
-    "id": 11444,
-    "Cloth Name": "denim painter's pants",
+    "id": 305,
+    "cloth_name": "denim painter's pants",
     "variant_id": "305_Bottoms_11444",
     "locale": {
       "USen": "White",
@@ -5544,8 +4725,8 @@
     }
   },
   {
-    "id": 4329,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_04329",
     "locale": {
       "USen": "Pink",
@@ -5565,8 +4746,8 @@
     }
   },
   {
-    "id": 11379,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_11379",
     "locale": {
       "USen": "Blue",
@@ -5586,8 +4767,8 @@
     }
   },
   {
-    "id": 11380,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_11380",
     "locale": {
       "USen": "Mustard",
@@ -5607,8 +4788,8 @@
     }
   },
   {
-    "id": 11381,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_11381",
     "locale": {
       "USen": "Gray",
@@ -5628,8 +4809,8 @@
     }
   },
   {
-    "id": 11382,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_11382",
     "locale": {
       "USen": "Purple",
@@ -5649,8 +4830,8 @@
     }
   },
   {
-    "id": 11383,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_11383",
     "locale": {
       "USen": "Green",
@@ -5670,8 +4851,8 @@
     }
   },
   {
-    "id": 11384,
-    "Cloth Name": "silk floral-print pants",
+    "id": 308,
+    "cloth_name": "silk floral-print pants",
     "variant_id": "308_Bottoms_11384",
     "locale": {
       "USen": "Orange",
@@ -5691,8 +4872,8 @@
     }
   },
   {
-    "id": 4330,
-    "Cloth Name": "silk pants",
+    "id": 309,
+    "cloth_name": "silk pants",
     "variant_id": "309_Bottoms_04330",
     "locale": {
       "USen": "Green",
@@ -5712,8 +4893,8 @@
     }
   },
   {
-    "id": 11359,
-    "Cloth Name": "silk pants",
+    "id": 309,
+    "cloth_name": "silk pants",
     "variant_id": "309_Bottoms_11359",
     "locale": {
       "USen": "Red",
@@ -5733,8 +4914,8 @@
     }
   },
   {
-    "id": 11360,
-    "Cloth Name": "silk pants",
+    "id": 309,
+    "cloth_name": "silk pants",
     "variant_id": "309_Bottoms_11360",
     "locale": {
       "USen": "Blue",
@@ -5754,8 +4935,8 @@
     }
   },
   {
-    "id": 11361,
-    "Cloth Name": "silk pants",
+    "id": 309,
+    "cloth_name": "silk pants",
     "variant_id": "309_Bottoms_11361",
     "locale": {
       "USen": "Yellow",
@@ -5775,8 +4956,8 @@
     }
   },
   {
-    "id": 11362,
-    "Cloth Name": "silk pants",
+    "id": 309,
+    "cloth_name": "silk pants",
     "variant_id": "309_Bottoms_11362",
     "locale": {
       "USen": "Black",
@@ -5796,8 +4977,8 @@
     }
   },
   {
-    "id": 4331,
-    "Cloth Name": "kung-fu pants",
+    "id": 310,
+    "cloth_name": "kung-fu pants",
     "variant_id": "310_Bottoms_04331",
     "locale": {
       "USen": "Navy blue",
@@ -5817,8 +4998,8 @@
     }
   },
   {
-    "id": 11391,
-    "Cloth Name": "kung-fu pants",
+    "id": 310,
+    "cloth_name": "kung-fu pants",
     "variant_id": "310_Bottoms_11391",
     "locale": {
       "USen": "White",
@@ -5838,8 +5019,8 @@
     }
   },
   {
-    "id": 11392,
-    "Cloth Name": "kung-fu pants",
+    "id": 310,
+    "cloth_name": "kung-fu pants",
     "variant_id": "310_Bottoms_11392",
     "locale": {
       "USen": "Light blue",
@@ -5859,8 +5040,8 @@
     }
   },
   {
-    "id": 11393,
-    "Cloth Name": "kung-fu pants",
+    "id": 310,
+    "cloth_name": "kung-fu pants",
     "variant_id": "310_Bottoms_11393",
     "locale": {
       "USen": "Yellow",
@@ -5880,8 +5061,8 @@
     }
   },
   {
-    "id": 11394,
-    "Cloth Name": "kung-fu pants",
+    "id": 310,
+    "cloth_name": "kung-fu pants",
     "variant_id": "310_Bottoms_11394",
     "locale": {
       "USen": "Green",
@@ -5901,8 +5082,8 @@
     }
   },
   {
-    "id": 4333,
-    "Cloth Name": "grass skirt",
+    "id": 312,
+    "cloth_name": "grass skirt",
     "variant_id": "312_Bottoms_04333",
     "locale": {
       "USen": "Brown",
@@ -5922,8 +5103,8 @@
     }
   },
   {
-    "id": 4364,
-    "Cloth Name": "bell-bottoms",
+    "id": 327,
+    "cloth_name": "bell-bottoms",
     "variant_id": "327_Bottoms_04364",
     "locale": {
       "USen": "Orange",
@@ -5943,8 +5124,8 @@
     }
   },
   {
-    "id": 9270,
-    "Cloth Name": "bell-bottoms",
+    "id": 327,
+    "cloth_name": "bell-bottoms",
     "variant_id": "327_Bottoms_09270",
     "locale": {
       "USen": "Brown",
@@ -5964,8 +5145,8 @@
     }
   },
   {
-    "id": 9271,
-    "Cloth Name": "bell-bottoms",
+    "id": 327,
+    "cloth_name": "bell-bottoms",
     "variant_id": "327_Bottoms_09271",
     "locale": {
       "USen": "Beige",
@@ -5985,8 +5166,8 @@
     }
   },
   {
-    "id": 9272,
-    "Cloth Name": "bell-bottoms",
+    "id": 327,
+    "cloth_name": "bell-bottoms",
     "variant_id": "327_Bottoms_09272",
     "locale": {
       "USen": "Green",
@@ -6006,8 +5187,8 @@
     }
   },
   {
-    "id": 9273,
-    "Cloth Name": "bell-bottoms",
+    "id": 327,
+    "cloth_name": "bell-bottoms",
     "variant_id": "327_Bottoms_09273",
     "locale": {
       "USen": "Blue",
@@ -6027,8 +5208,8 @@
     }
   },
   {
-    "id": 4369,
-    "Cloth Name": "frilly pants",
+    "id": 331,
+    "cloth_name": "frilly pants",
     "variant_id": "331_Bottoms_04369",
     "locale": {
       "USen": "Yellow",
@@ -6048,8 +5229,8 @@
     }
   },
   {
-    "id": 9274,
-    "Cloth Name": "frilly pants",
+    "id": 331,
+    "cloth_name": "frilly pants",
     "variant_id": "331_Bottoms_09274",
     "locale": {
       "USen": "Mint",
@@ -6069,8 +5250,8 @@
     }
   },
   {
-    "id": 9275,
-    "Cloth Name": "frilly pants",
+    "id": 331,
+    "cloth_name": "frilly pants",
     "variant_id": "331_Bottoms_09275",
     "locale": {
       "USen": "Pink",
@@ -6090,8 +5271,8 @@
     }
   },
   {
-    "id": 9276,
-    "Cloth Name": "frilly pants",
+    "id": 331,
+    "cloth_name": "frilly pants",
     "variant_id": "331_Bottoms_09276",
     "locale": {
       "USen": "Blue",
@@ -6111,8 +5292,8 @@
     }
   },
   {
-    "id": 9277,
-    "Cloth Name": "frilly pants",
+    "id": 331,
+    "cloth_name": "frilly pants",
     "variant_id": "331_Bottoms_09277",
     "locale": {
       "USen": "Orange",
@@ -6132,8 +5313,8 @@
     }
   },
   {
-    "id": 4370,
-    "Cloth Name": "yacht shorts",
+    "id": 332,
+    "cloth_name": "yacht shorts",
     "variant_id": "332_Bottoms_04370",
     "locale": {
       "USen": "Light blue",
@@ -6153,8 +5334,8 @@
     }
   },
   {
-    "id": 8861,
-    "Cloth Name": "yacht shorts",
+    "id": 332,
+    "cloth_name": "yacht shorts",
     "variant_id": "332_Bottoms_08861",
     "locale": {
       "USen": "Red",
@@ -6174,8 +5355,8 @@
     }
   },
   {
-    "id": 8862,
-    "Cloth Name": "yacht shorts",
+    "id": 332,
+    "cloth_name": "yacht shorts",
     "variant_id": "332_Bottoms_08862",
     "locale": {
       "USen": "Pink",
@@ -6195,8 +5376,8 @@
     }
   },
   {
-    "id": 8863,
-    "Cloth Name": "yacht shorts",
+    "id": 332,
+    "cloth_name": "yacht shorts",
     "variant_id": "332_Bottoms_08863",
     "locale": {
       "USen": "Purple",
@@ -6216,8 +5397,8 @@
     }
   },
   {
-    "id": 4371,
-    "Cloth Name": "multicolor shorts",
+    "id": 333,
+    "cloth_name": "multicolor shorts",
     "variant_id": "333_Bottoms_04371",
     "locale": {
       "USen": "Green",
@@ -6237,8 +5418,8 @@
     }
   },
   {
-    "id": 9089,
-    "Cloth Name": "multicolor shorts",
+    "id": 333,
+    "cloth_name": "multicolor shorts",
     "variant_id": "333_Bottoms_09089",
     "locale": {
       "USen": "Red",
@@ -6258,8 +5439,8 @@
     }
   },
   {
-    "id": 9090,
-    "Cloth Name": "multicolor shorts",
+    "id": 333,
+    "cloth_name": "multicolor shorts",
     "variant_id": "333_Bottoms_09090",
     "locale": {
       "USen": "Blue",
@@ -6279,8 +5460,8 @@
     }
   },
   {
-    "id": 9091,
-    "Cloth Name": "multicolor shorts",
+    "id": 333,
+    "cloth_name": "multicolor shorts",
     "variant_id": "333_Bottoms_09091",
     "locale": {
       "USen": "Yellow",
@@ -6300,8 +5481,8 @@
     }
   },
   {
-    "id": 4372,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_04372",
     "locale": {
       "USen": "White",
@@ -6321,8 +5502,8 @@
     }
   },
   {
-    "id": 9092,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09092",
     "locale": {
       "USen": "Navy blue",
@@ -6342,8 +5523,8 @@
     }
   },
   {
-    "id": 9093,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09093",
     "locale": {
       "USen": "Pink",
@@ -6363,8 +5544,8 @@
     }
   },
   {
-    "id": 9094,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09094",
     "locale": {
       "USen": "Light blue",
@@ -6384,8 +5565,8 @@
     }
   },
   {
-    "id": 9095,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09095",
     "locale": {
       "USen": "Yellow",
@@ -6405,8 +5586,8 @@
     }
   },
   {
-    "id": 9096,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09096",
     "locale": {
       "USen": "Purple",
@@ -6426,8 +5607,8 @@
     }
   },
   {
-    "id": 9097,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09097",
     "locale": {
       "USen": "Lime",
@@ -6447,8 +5628,8 @@
     }
   },
   {
-    "id": 9098,
-    "Cloth Name": "formal shorts",
+    "id": 334,
+    "cloth_name": "formal shorts",
     "variant_id": "334_Bottoms_09098",
     "locale": {
       "USen": "Beige",
@@ -6468,8 +5649,8 @@
     }
   },
   {
-    "id": 4373,
-    "Cloth Name": "leopard miniskirt",
+    "id": 335,
+    "cloth_name": "leopard miniskirt",
     "variant_id": "335_Bottoms_04373",
     "locale": {
       "USen": "Brown",
@@ -6489,8 +5670,8 @@
     }
   },
   {
-    "id": 10197,
-    "Cloth Name": "leopard miniskirt",
+    "id": 335,
+    "cloth_name": "leopard miniskirt",
     "variant_id": "335_Bottoms_10197",
     "locale": {
       "USen": "Gray",
@@ -6510,8 +5691,8 @@
     }
   },
   {
-    "id": 10198,
-    "Cloth Name": "leopard miniskirt",
+    "id": 335,
+    "cloth_name": "leopard miniskirt",
     "variant_id": "335_Bottoms_10198",
     "locale": {
       "USen": "Blue",
@@ -6531,8 +5712,8 @@
     }
   },
   {
-    "id": 10199,
-    "Cloth Name": "leopard miniskirt",
+    "id": 335,
+    "cloth_name": "leopard miniskirt",
     "variant_id": "335_Bottoms_10199",
     "locale": {
       "USen": "Lime",
@@ -6552,8 +5733,8 @@
     }
   },
   {
-    "id": 10200,
-    "Cloth Name": "leopard miniskirt",
+    "id": 335,
+    "cloth_name": "leopard miniskirt",
     "variant_id": "335_Bottoms_10200",
     "locale": {
       "USen": "Purple",
@@ -6573,8 +5754,8 @@
     }
   },
   {
-    "id": 10201,
-    "Cloth Name": "leopard miniskirt",
+    "id": 335,
+    "cloth_name": "leopard miniskirt",
     "variant_id": "335_Bottoms_10201",
     "locale": {
       "USen": "Pink",
@@ -6594,8 +5775,8 @@
     }
   },
   {
-    "id": 4374,
-    "Cloth Name": "long plaid skirt",
+    "id": 336,
+    "cloth_name": "long plaid skirt",
     "variant_id": "336_Bottoms_04374",
     "locale": {
       "USen": "Red",
@@ -6615,8 +5796,8 @@
     }
   },
   {
-    "id": 8714,
-    "Cloth Name": "long plaid skirt",
+    "id": 336,
+    "cloth_name": "long plaid skirt",
     "variant_id": "336_Bottoms_08714",
     "locale": {
       "USen": "Green",
@@ -6636,8 +5817,8 @@
     }
   },
   {
-    "id": 8715,
-    "Cloth Name": "long plaid skirt",
+    "id": 336,
+    "cloth_name": "long plaid skirt",
     "variant_id": "336_Bottoms_08715",
     "locale": {
       "USen": "Blue",
@@ -6657,8 +5838,8 @@
     }
   },
   {
-    "id": 8716,
-    "Cloth Name": "long plaid skirt",
+    "id": 336,
+    "cloth_name": "long plaid skirt",
     "variant_id": "336_Bottoms_08716",
     "locale": {
       "USen": "Beige",
@@ -6678,8 +5859,8 @@
     }
   },
   {
-    "id": 4398,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_04398",
     "locale": {
       "USen": "Black",
@@ -6699,8 +5880,8 @@
     }
   },
   {
-    "id": 9248,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09248",
     "locale": {
       "USen": "Ruby red",
@@ -6720,8 +5901,8 @@
     }
   },
   {
-    "id": 9249,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09249",
     "locale": {
       "USen": "White",
@@ -6741,8 +5922,8 @@
     }
   },
   {
-    "id": 9250,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09250",
     "locale": {
       "USen": "Blue",
@@ -6762,8 +5943,8 @@
     }
   },
   {
-    "id": 9251,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09251",
     "locale": {
       "USen": "Green",
@@ -6783,8 +5964,8 @@
     }
   },
   {
-    "id": 9252,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09252",
     "locale": {
       "USen": "Purple",
@@ -6804,8 +5985,8 @@
     }
   },
   {
-    "id": 9253,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09253",
     "locale": {
       "USen": "Yellow",
@@ -6825,8 +6006,8 @@
     }
   },
   {
-    "id": 9254,
-    "Cloth Name": "noble pants",
+    "id": 339,
+    "cloth_name": "noble pants",
     "variant_id": "339_Bottoms_09254",
     "locale": {
       "USen": "Red",
@@ -6846,8 +6027,8 @@
     }
   },
   {
-    "id": 4405,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_04405",
     "locale": {
       "USen": "Blue",
@@ -6867,8 +6048,8 @@
     }
   },
   {
-    "id": 11314,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_11314",
     "locale": {
       "USen": "Red",
@@ -6888,8 +6069,8 @@
     }
   },
   {
-    "id": 11315,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_11315",
     "locale": {
       "USen": "Yellow",
@@ -6909,8 +6090,8 @@
     }
   },
   {
-    "id": 11316,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_11316",
     "locale": {
       "USen": "Green",
@@ -6930,8 +6111,8 @@
     }
   },
   {
-    "id": 11317,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_11317",
     "locale": {
       "USen": "Purple",
@@ -6951,8 +6132,8 @@
     }
   },
   {
-    "id": 11318,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_11318",
     "locale": {
       "USen": "Pink",
@@ -6972,8 +6153,8 @@
     }
   },
   {
-    "id": 11319,
-    "Cloth Name": "pineapple aloha shorts",
+    "id": 344,
+    "cloth_name": "pineapple aloha shorts",
     "variant_id": "344_Bottoms_11319",
     "locale": {
       "USen": "Orange",
@@ -6993,8 +6174,8 @@
     }
   },
   {
-    "id": 4408,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_04408",
     "locale": {
       "USen": "Black",
@@ -7014,8 +6195,8 @@
     }
   },
   {
-    "id": 9707,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09707",
     "locale": {
       "USen": "White",
@@ -7035,8 +6216,8 @@
     }
   },
   {
-    "id": 9708,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09708",
     "locale": {
       "USen": "Pink",
@@ -7056,8 +6237,8 @@
     }
   },
   {
-    "id": 9709,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09709",
     "locale": {
       "USen": "Light blue",
@@ -7077,8 +6258,8 @@
     }
   },
   {
-    "id": 9710,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09710",
     "locale": {
       "USen": "Beige",
@@ -7098,8 +6279,8 @@
     }
   },
   {
-    "id": 9711,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09711",
     "locale": {
       "USen": "Orange",
@@ -7119,8 +6300,8 @@
     }
   },
   {
-    "id": 9712,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09712",
     "locale": {
       "USen": "Blue",
@@ -7140,8 +6321,8 @@
     }
   },
   {
-    "id": 9713,
-    "Cloth Name": "cropped pants",
+    "id": 347,
+    "cloth_name": "cropped pants",
     "variant_id": "347_Bottoms_09713",
     "locale": {
       "USen": "Yellow",
@@ -7161,8 +6342,8 @@
     }
   },
   {
-    "id": 4410,
-    "Cloth Name": "frilly skirt",
+    "id": 349,
+    "cloth_name": "frilly skirt",
     "variant_id": "349_Bottoms_04410",
     "locale": {
       "USen": "Pink",
@@ -7182,8 +6363,8 @@
     }
   },
   {
-    "id": 8785,
-    "Cloth Name": "frilly skirt",
+    "id": 349,
+    "cloth_name": "frilly skirt",
     "variant_id": "349_Bottoms_08785",
     "locale": {
       "USen": "Blue",
@@ -7203,8 +6384,8 @@
     }
   },
   {
-    "id": 8786,
-    "Cloth Name": "frilly skirt",
+    "id": 349,
+    "cloth_name": "frilly skirt",
     "variant_id": "349_Bottoms_08786",
     "locale": {
       "USen": "Green",
@@ -7224,8 +6405,8 @@
     }
   },
   {
-    "id": 8787,
-    "Cloth Name": "frilly skirt",
+    "id": 349,
+    "cloth_name": "frilly skirt",
     "variant_id": "349_Bottoms_08787",
     "locale": {
       "USen": "Orange",
@@ -7245,8 +6426,8 @@
     }
   },
   {
-    "id": 8788,
-    "Cloth Name": "frilly skirt",
+    "id": 349,
+    "cloth_name": "frilly skirt",
     "variant_id": "349_Bottoms_08788",
     "locale": {
       "USen": "Purple",
@@ -7266,8 +6447,8 @@
     }
   },
   {
-    "id": 8789,
-    "Cloth Name": "frilly skirt",
+    "id": 349,
+    "cloth_name": "frilly skirt",
     "variant_id": "349_Bottoms_08789",
     "locale": {
       "USen": "Gray",
@@ -7287,8 +6468,8 @@
     }
   },
   {
-    "id": 4428,
-    "Cloth Name": "tweed frilly skirt",
+    "id": 359,
+    "cloth_name": "tweed frilly skirt",
     "variant_id": "359_Bottoms_04428",
     "locale": {
       "USen": "Brown",
@@ -7308,8 +6489,8 @@
     }
   },
   {
-    "id": 8908,
-    "Cloth Name": "tweed frilly skirt",
+    "id": 359,
+    "cloth_name": "tweed frilly skirt",
     "variant_id": "359_Bottoms_08908",
     "locale": {
       "USen": "Gray",
@@ -7329,8 +6510,8 @@
     }
   },
   {
-    "id": 8909,
-    "Cloth Name": "tweed frilly skirt",
+    "id": 359,
+    "cloth_name": "tweed frilly skirt",
     "variant_id": "359_Bottoms_08909",
     "locale": {
       "USen": "Pink",
@@ -7350,8 +6531,8 @@
     }
   },
   {
-    "id": 8910,
-    "Cloth Name": "tweed frilly skirt",
+    "id": 359,
+    "cloth_name": "tweed frilly skirt",
     "variant_id": "359_Bottoms_08910",
     "locale": {
       "USen": "Blue",
@@ -7371,8 +6552,8 @@
     }
   },
   {
-    "id": 4430,
-    "Cloth Name": "casual pants",
+    "id": 361,
+    "cloth_name": "casual pants",
     "variant_id": "361_Bottoms_04430",
     "locale": {
       "USen": "Navy blue",
@@ -7392,8 +6573,8 @@
     }
   },
   {
-    "id": 9714,
-    "Cloth Name": "casual pants",
+    "id": 361,
+    "cloth_name": "casual pants",
     "variant_id": "361_Bottoms_09714",
     "locale": {
       "USen": "Gray",
@@ -7413,8 +6594,8 @@
     }
   },
   {
-    "id": 9715,
-    "Cloth Name": "casual pants",
+    "id": 361,
+    "cloth_name": "casual pants",
     "variant_id": "361_Bottoms_09715",
     "locale": {
       "USen": "Green",
@@ -7434,8 +6615,8 @@
     }
   },
   {
-    "id": 9716,
-    "Cloth Name": "casual pants",
+    "id": 361,
+    "cloth_name": "casual pants",
     "variant_id": "361_Bottoms_09716",
     "locale": {
       "USen": "Beige",
@@ -7455,8 +6636,8 @@
     }
   },
   {
-    "id": 9717,
-    "Cloth Name": "casual pants",
+    "id": 361,
+    "cloth_name": "casual pants",
     "variant_id": "361_Bottoms_09717",
     "locale": {
       "USen": "Black",
@@ -7476,8 +6657,8 @@
     }
   },
   {
-    "id": 9718,
-    "Cloth Name": "casual pants",
+    "id": 361,
+    "cloth_name": "casual pants",
     "variant_id": "361_Bottoms_09718",
     "locale": {
       "USen": "Brown",
@@ -7497,8 +6678,8 @@
     }
   },
   {
-    "id": 4434,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_04434",
     "locale": {
       "USen": "Brown",
@@ -7518,8 +6699,8 @@
     }
   },
   {
-    "id": 11322,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_11322",
     "locale": {
       "USen": "Avocado",
@@ -7539,8 +6720,8 @@
     }
   },
   {
-    "id": 11323,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_11323",
     "locale": {
       "USen": "Pink",
@@ -7560,8 +6741,8 @@
     }
   },
   {
-    "id": 11324,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_11324",
     "locale": {
       "USen": "Blue",
@@ -7581,8 +6762,8 @@
     }
   },
   {
-    "id": 11325,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_11325",
     "locale": {
       "USen": "Gray",
@@ -7602,8 +6783,8 @@
     }
   },
   {
-    "id": 11326,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_11326",
     "locale": {
       "USen": "Purple",
@@ -7623,8 +6804,8 @@
     }
   },
   {
-    "id": 11327,
-    "Cloth Name": "camo skirt",
+    "id": 365,
+    "cloth_name": "camo skirt",
     "variant_id": "365_Bottoms_11327",
     "locale": {
       "USen": "Red",
@@ -7644,8 +6825,8 @@
     }
   },
   {
-    "id": 4444,
-    "Cloth Name": "culottes",
+    "id": 369,
+    "cloth_name": "culottes",
     "variant_id": "369_Bottoms_04444",
     "locale": {
       "USen": "Light blue",
@@ -7665,8 +6846,8 @@
     }
   },
   {
-    "id": 6842,
-    "Cloth Name": "culottes",
+    "id": 369,
+    "cloth_name": "culottes",
     "variant_id": "369_Bottoms_06842",
     "locale": {
       "USen": "White",
@@ -7686,8 +6867,8 @@
     }
   },
   {
-    "id": 8864,
-    "Cloth Name": "culottes",
+    "id": 369,
+    "cloth_name": "culottes",
     "variant_id": "369_Bottoms_08864",
     "locale": {
       "USen": "Pink",
@@ -7707,8 +6888,8 @@
     }
   },
   {
-    "id": 8865,
-    "Cloth Name": "culottes",
+    "id": 369,
+    "cloth_name": "culottes",
     "variant_id": "369_Bottoms_08865",
     "locale": {
       "USen": "Green",
@@ -7728,8 +6909,8 @@
     }
   },
   {
-    "id": 4450,
-    "Cloth Name": "ski pants",
+    "id": 374,
+    "cloth_name": "ski pants",
     "variant_id": "374_Bottoms_04450",
     "locale": {
       "USen": "Turquoise",
@@ -7749,8 +6930,8 @@
     }
   },
   {
-    "id": 11407,
-    "Cloth Name": "ski pants",
+    "id": 374,
+    "cloth_name": "ski pants",
     "variant_id": "374_Bottoms_11407",
     "locale": {
       "USen": "Red",
@@ -7770,8 +6951,8 @@
     }
   },
   {
-    "id": 11408,
-    "Cloth Name": "ski pants",
+    "id": 374,
+    "cloth_name": "ski pants",
     "variant_id": "374_Bottoms_11408",
     "locale": {
       "USen": "Ruby red",
@@ -7791,8 +6972,8 @@
     }
   },
   {
-    "id": 11409,
-    "Cloth Name": "ski pants",
+    "id": 374,
+    "cloth_name": "ski pants",
     "variant_id": "374_Bottoms_11409",
     "locale": {
       "USen": "Blue",
@@ -7812,8 +6993,8 @@
     }
   },
   {
-    "id": 11410,
-    "Cloth Name": "ski pants",
+    "id": 374,
+    "cloth_name": "ski pants",
     "variant_id": "374_Bottoms_11410",
     "locale": {
       "USen": "Light blue",
@@ -7833,8 +7014,8 @@
     }
   },
   {
-    "id": 11411,
-    "Cloth Name": "ski pants",
+    "id": 374,
+    "cloth_name": "ski pants",
     "variant_id": "374_Bottoms_11411",
     "locale": {
       "USen": "Yellow",
@@ -7854,8 +7035,8 @@
     }
   },
   {
-    "id": 4472,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_04472",
     "locale": {
       "USen": "Yellow",
@@ -7875,8 +7056,8 @@
     }
   },
   {
-    "id": 6899,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_06899",
     "locale": {
       "USen": "Black",
@@ -7896,8 +7077,8 @@
     }
   },
   {
-    "id": 9121,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_09121",
     "locale": {
       "USen": "Purple",
@@ -7917,8 +7098,8 @@
     }
   },
   {
-    "id": 9122,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_09122",
     "locale": {
       "USen": "Red",
@@ -7938,8 +7119,8 @@
     }
   },
   {
-    "id": 9123,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_09123",
     "locale": {
       "USen": "Blue",
@@ -7959,8 +7140,8 @@
     }
   },
   {
-    "id": 9124,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_09124",
     "locale": {
       "USen": "Green",
@@ -7980,8 +7161,8 @@
     }
   },
   {
-    "id": 9125,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_09125",
     "locale": {
       "USen": "Brown",
@@ -8001,8 +7182,8 @@
     }
   },
   {
-    "id": 9126,
-    "Cloth Name": "outdoor shorts",
+    "id": 395,
+    "cloth_name": "outdoor shorts",
     "variant_id": "395_Bottoms_09126",
     "locale": {
       "USen": "Yellow-green",
@@ -8022,8 +7203,8 @@
     }
   },
   {
-    "id": 4485,
-    "Cloth Name": "punk pants",
+    "id": 399,
+    "cloth_name": "punk pants",
     "variant_id": "399_Bottoms_04485",
     "locale": {
       "USen": "Red",
@@ -8043,8 +7224,8 @@
     }
   },
   {
-    "id": 9255,
-    "Cloth Name": "punk pants",
+    "id": 399,
+    "cloth_name": "punk pants",
     "variant_id": "399_Bottoms_09255",
     "locale": {
       "USen": "Blue",
@@ -8064,8 +7245,8 @@
     }
   },
   {
-    "id": 9256,
-    "Cloth Name": "punk pants",
+    "id": 399,
+    "cloth_name": "punk pants",
     "variant_id": "399_Bottoms_09256",
     "locale": {
       "USen": "Green",
@@ -8085,8 +7266,8 @@
     }
   },
   {
-    "id": 9257,
-    "Cloth Name": "punk pants",
+    "id": 399,
+    "cloth_name": "punk pants",
     "variant_id": "399_Bottoms_09257",
     "locale": {
       "USen": "Purple",
@@ -8106,8 +7287,8 @@
     }
   },
   {
-    "id": 4487,
-    "Cloth Name": "vibrant shorts",
+    "id": 401,
+    "cloth_name": "vibrant shorts",
     "variant_id": "401_Bottoms_04487",
     "locale": {
       "USen": "Orange",
@@ -8127,8 +7308,8 @@
     }
   },
   {
-    "id": 9099,
-    "Cloth Name": "vibrant shorts",
+    "id": 401,
+    "cloth_name": "vibrant shorts",
     "variant_id": "401_Bottoms_09099",
     "locale": {
       "USen": "Avocado",
@@ -8148,8 +7329,8 @@
     }
   },
   {
-    "id": 9100,
-    "Cloth Name": "vibrant shorts",
+    "id": 401,
+    "cloth_name": "vibrant shorts",
     "variant_id": "401_Bottoms_09100",
     "locale": {
       "USen": "Pink",
@@ -8169,8 +7350,8 @@
     }
   },
   {
-    "id": 9101,
-    "Cloth Name": "vibrant shorts",
+    "id": 401,
+    "cloth_name": "vibrant shorts",
     "variant_id": "401_Bottoms_09101",
     "locale": {
       "USen": "Blue",
@@ -8190,8 +7371,8 @@
     }
   },
   {
-    "id": 9102,
-    "Cloth Name": "vibrant shorts",
+    "id": 401,
+    "cloth_name": "vibrant shorts",
     "variant_id": "401_Bottoms_09102",
     "locale": {
       "USen": "Black",
@@ -8211,8 +7392,8 @@
     }
   },
   {
-    "id": 4490,
-    "Cloth Name": "patched-knee pants",
+    "id": 404,
+    "cloth_name": "patched-knee pants",
     "variant_id": "404_Bottoms_04490",
     "locale": {
       "USen": "Brown",
@@ -8232,8 +7413,8 @@
     }
   },
   {
-    "id": 9278,
-    "Cloth Name": "patched-knee pants",
+    "id": 404,
+    "cloth_name": "patched-knee pants",
     "variant_id": "404_Bottoms_09278",
     "locale": {
       "USen": "Purple",
@@ -8253,8 +7434,8 @@
     }
   },
   {
-    "id": 9279,
-    "Cloth Name": "patched-knee pants",
+    "id": 404,
+    "cloth_name": "patched-knee pants",
     "variant_id": "404_Bottoms_09279",
     "locale": {
       "USen": "Green",
@@ -8274,8 +7455,8 @@
     }
   },
   {
-    "id": 9280,
-    "Cloth Name": "patched-knee pants",
+    "id": 404,
+    "cloth_name": "patched-knee pants",
     "variant_id": "404_Bottoms_09280",
     "locale": {
       "USen": "Yellow",
@@ -8295,8 +7476,8 @@
     }
   },
   {
-    "id": 4502,
-    "Cloth Name": "tiered skirt",
+    "id": 409,
+    "cloth_name": "tiered skirt",
     "variant_id": "409_Bottoms_04502",
     "locale": {
       "USen": "Purple",
@@ -8316,8 +7497,8 @@
     }
   },
   {
-    "id": 8717,
-    "Cloth Name": "tiered skirt",
+    "id": 409,
+    "cloth_name": "tiered skirt",
     "variant_id": "409_Bottoms_08717",
     "locale": {
       "USen": "Mint",
@@ -8337,8 +7518,8 @@
     }
   },
   {
-    "id": 8718,
-    "Cloth Name": "tiered skirt",
+    "id": 409,
+    "cloth_name": "tiered skirt",
     "variant_id": "409_Bottoms_08718",
     "locale": {
       "USen": "Avocado",
@@ -8358,8 +7539,8 @@
     }
   },
   {
-    "id": 8719,
-    "Cloth Name": "tiered skirt",
+    "id": 409,
+    "cloth_name": "tiered skirt",
     "variant_id": "409_Bottoms_08719",
     "locale": {
       "USen": "Yellow",
@@ -8379,8 +7560,8 @@
     }
   },
   {
-    "id": 8720,
-    "Cloth Name": "tiered skirt",
+    "id": 409,
+    "cloth_name": "tiered skirt",
     "variant_id": "409_Bottoms_08720",
     "locale": {
       "USen": "Blue",
@@ -8400,8 +7581,8 @@
     }
   },
   {
-    "id": 4504,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_04504",
     "locale": {
       "USen": "Gray",
@@ -8421,8 +7602,8 @@
     }
   },
   {
-    "id": 11347,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11347",
     "locale": {
       "USen": "Beige",
@@ -8442,8 +7623,8 @@
     }
   },
   {
-    "id": 11348,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11348",
     "locale": {
       "USen": "Peach",
@@ -8463,8 +7644,8 @@
     }
   },
   {
-    "id": 11349,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11349",
     "locale": {
       "USen": "Light blue",
@@ -8484,8 +7665,8 @@
     }
   },
   {
-    "id": 11350,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11350",
     "locale": {
       "USen": "Pink",
@@ -8505,8 +7686,8 @@
     }
   },
   {
-    "id": 11351,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11351",
     "locale": {
       "USen": "Green",
@@ -8526,8 +7707,8 @@
     }
   },
   {
-    "id": 11352,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11352",
     "locale": {
       "USen": "Blue",
@@ -8547,8 +7728,8 @@
     }
   },
   {
-    "id": 11353,
-    "Cloth Name": "career skirt",
+    "id": 411,
+    "cloth_name": "career skirt",
     "variant_id": "411_Bottoms_11353",
     "locale": {
       "USen": "Red",
@@ -8568,8 +7749,8 @@
     }
   },
   {
-    "id": 4505,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_04505",
     "locale": {
       "USen": "Red",
@@ -8589,8 +7770,8 @@
     }
   },
   {
-    "id": 11656,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11656",
     "locale": {
       "USen": "Green",
@@ -8610,8 +7791,8 @@
     }
   },
   {
-    "id": 11657,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11657",
     "locale": {
       "USen": "Blue",
@@ -8631,8 +7812,8 @@
     }
   },
   {
-    "id": 11658,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11658",
     "locale": {
       "USen": "Gray",
@@ -8652,8 +7833,8 @@
     }
   },
   {
-    "id": 11659,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11659",
     "locale": {
       "USen": "Orange",
@@ -8673,8 +7854,8 @@
     }
   },
   {
-    "id": 11660,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11660",
     "locale": {
       "USen": "Pink",
@@ -8694,8 +7875,8 @@
     }
   },
   {
-    "id": 11661,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11661",
     "locale": {
       "USen": "Purple",
@@ -8715,8 +7896,8 @@
     }
   },
   {
-    "id": 11662,
-    "Cloth Name": "draped skirt",
+    "id": 412,
+    "cloth_name": "draped skirt",
     "variant_id": "412_Bottoms_11662",
     "locale": {
       "USen": "Light blue",
@@ -8736,8 +7917,8 @@
     }
   },
   {
-    "id": 4514,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_04514",
     "locale": {
       "USen": "Blue & red",
@@ -8757,8 +7938,8 @@
     }
   },
   {
-    "id": 11300,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11300",
     "locale": {
       "USen": "Black & blue",
@@ -8778,8 +7959,8 @@
     }
   },
   {
-    "id": 11301,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11301",
     "locale": {
       "USen": "Black & red",
@@ -8799,8 +7980,8 @@
     }
   },
   {
-    "id": 11302,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11302",
     "locale": {
       "USen": "Black & yellow",
@@ -8820,8 +8001,8 @@
     }
   },
   {
-    "id": 11303,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11303",
     "locale": {
       "USen": "Red & green",
@@ -8841,8 +8022,8 @@
     }
   },
   {
-    "id": 11304,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11304",
     "locale": {
       "USen": "Orange & red",
@@ -8862,8 +8043,8 @@
     }
   },
   {
-    "id": 11305,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11305",
     "locale": {
       "USen": "Green & purple",
@@ -8883,8 +8064,8 @@
     }
   },
   {
-    "id": 11306,
-    "Cloth Name": "cycling shorts",
+    "id": 419,
+    "cloth_name": "cycling shorts",
     "variant_id": "419_Bottoms_11306",
     "locale": {
       "USen": "Purple & pink",
@@ -8904,8 +8085,8 @@
     }
   },
   {
-    "id": 4515,
-    "Cloth Name": "surfing shorts",
+    "id": 420,
+    "cloth_name": "surfing shorts",
     "variant_id": "420_Bottoms_04515",
     "locale": {
       "USen": "Blue",
@@ -8925,8 +8106,8 @@
     }
   },
   {
-    "id": 9103,
-    "Cloth Name": "surfing shorts",
+    "id": 420,
+    "cloth_name": "surfing shorts",
     "variant_id": "420_Bottoms_09103",
     "locale": {
       "USen": "Purple",
@@ -8946,8 +8127,8 @@
     }
   },
   {
-    "id": 9104,
-    "Cloth Name": "surfing shorts",
+    "id": 420,
+    "cloth_name": "surfing shorts",
     "variant_id": "420_Bottoms_09104",
     "locale": {
       "USen": "Green",
@@ -8967,8 +8148,8 @@
     }
   },
   {
-    "id": 9105,
-    "Cloth Name": "surfing shorts",
+    "id": 420,
+    "cloth_name": "surfing shorts",
     "variant_id": "420_Bottoms_09105",
     "locale": {
       "USen": "Pink",
@@ -8988,8 +8169,8 @@
     }
   },
   {
-    "id": 9106,
-    "Cloth Name": "surfing shorts",
+    "id": 420,
+    "cloth_name": "surfing shorts",
     "variant_id": "420_Bottoms_09106",
     "locale": {
       "USen": "Gray",
@@ -9009,8 +8190,8 @@
     }
   },
   {
-    "id": 4517,
-    "Cloth Name": "lace shorts",
+    "id": 421,
+    "cloth_name": "lace shorts",
     "variant_id": "421_Bottoms_04517",
     "locale": {
       "USen": "White",
@@ -9030,8 +8211,8 @@
     }
   },
   {
-    "id": 8911,
-    "Cloth Name": "lace shorts",
+    "id": 421,
+    "cloth_name": "lace shorts",
     "variant_id": "421_Bottoms_08911",
     "locale": {
       "USen": "Black",
@@ -9051,8 +8232,8 @@
     }
   },
   {
-    "id": 8912,
-    "Cloth Name": "lace shorts",
+    "id": 421,
+    "cloth_name": "lace shorts",
     "variant_id": "421_Bottoms_08912",
     "locale": {
       "USen": "Green",
@@ -9072,8 +8253,8 @@
     }
   },
   {
-    "id": 8913,
-    "Cloth Name": "lace shorts",
+    "id": 421,
+    "cloth_name": "lace shorts",
     "variant_id": "421_Bottoms_08913",
     "locale": {
       "USen": "Pink",
@@ -9093,8 +8274,8 @@
     }
   },
   {
-    "id": 8914,
-    "Cloth Name": "lace shorts",
+    "id": 421,
+    "cloth_name": "lace shorts",
     "variant_id": "421_Bottoms_08914",
     "locale": {
       "USen": "Blue",
@@ -9114,8 +8295,8 @@
     }
   },
   {
-    "id": 4518,
-    "Cloth Name": "athletic shorts",
+    "id": 422,
+    "cloth_name": "athletic shorts",
     "variant_id": "422_Bottoms_04518",
     "locale": {
       "USen": "Red",
@@ -9135,8 +8316,8 @@
     }
   },
   {
-    "id": 11905,
-    "Cloth Name": "athletic shorts",
+    "id": 422,
+    "cloth_name": "athletic shorts",
     "variant_id": "422_Bottoms_11905",
     "locale": {
       "USen": "Green",
@@ -9156,8 +8337,8 @@
     }
   },
   {
-    "id": 11906,
-    "Cloth Name": "athletic shorts",
+    "id": 422,
+    "cloth_name": "athletic shorts",
     "variant_id": "422_Bottoms_11906",
     "locale": {
       "USen": "Black",
@@ -9177,8 +8358,8 @@
     }
   },
   {
-    "id": 11907,
-    "Cloth Name": "athletic shorts",
+    "id": 422,
+    "cloth_name": "athletic shorts",
     "variant_id": "422_Bottoms_11907",
     "locale": {
       "USen": "Blue",
@@ -9198,8 +8379,8 @@
     }
   },
   {
-    "id": 11908,
-    "Cloth Name": "athletic shorts",
+    "id": 422,
+    "cloth_name": "athletic shorts",
     "variant_id": "422_Bottoms_11908",
     "locale": {
       "USen": "Berry red",
@@ -9219,8 +8400,8 @@
     }
   },
   {
-    "id": 11909,
-    "Cloth Name": "athletic shorts",
+    "id": 422,
+    "cloth_name": "athletic shorts",
     "variant_id": "422_Bottoms_11909",
     "locale": {
       "USen": "Navy blue",
@@ -9240,8 +8421,8 @@
     }
   },
   {
-    "id": 4522,
-    "Cloth Name": "muay-thai shorts",
+    "id": 426,
+    "cloth_name": "muay-thai shorts",
     "variant_id": "426_Bottoms_04522",
     "locale": {
       "USen": "Blue",
@@ -9261,8 +8442,8 @@
     }
   },
   {
-    "id": 11947,
-    "Cloth Name": "muay-thai shorts",
+    "id": 426,
+    "cloth_name": "muay-thai shorts",
     "variant_id": "426_Bottoms_11947",
     "locale": {
       "USen": "Red",
@@ -9282,8 +8463,8 @@
     }
   },
   {
-    "id": 11948,
-    "Cloth Name": "muay-thai shorts",
+    "id": 426,
+    "cloth_name": "muay-thai shorts",
     "variant_id": "426_Bottoms_11948",
     "locale": {
       "USen": "Green",
@@ -9303,8 +8484,8 @@
     }
   },
   {
-    "id": 11949,
-    "Cloth Name": "muay-thai shorts",
+    "id": 426,
+    "cloth_name": "muay-thai shorts",
     "variant_id": "426_Bottoms_11949",
     "locale": {
       "USen": "Purple",
@@ -9324,8 +8505,8 @@
     }
   },
   {
-    "id": 4523,
-    "Cloth Name": "dotted shorts",
+    "id": 427,
+    "cloth_name": "dotted shorts",
     "variant_id": "427_Bottoms_04523",
     "locale": {
       "USen": "Black",
@@ -9345,8 +8526,8 @@
     }
   },
   {
-    "id": 8915,
-    "Cloth Name": "dotted shorts",
+    "id": 427,
+    "cloth_name": "dotted shorts",
     "variant_id": "427_Bottoms_08915",
     "locale": {
       "USen": "Gray",
@@ -9366,8 +8547,8 @@
     }
   },
   {
-    "id": 4545,
-    "Cloth Name": "belted wraparound skirt",
+    "id": 429,
+    "cloth_name": "belted wraparound skirt",
     "variant_id": "429_Bottoms_04545",
     "locale": {
       "USen": "Yellow",
@@ -9387,8 +8568,8 @@
     }
   },
   {
-    "id": 8721,
-    "Cloth Name": "belted wraparound skirt",
+    "id": 429,
+    "cloth_name": "belted wraparound skirt",
     "variant_id": "429_Bottoms_08721",
     "locale": {
       "USen": "Red",
@@ -9408,8 +8589,8 @@
     }
   },
   {
-    "id": 8722,
-    "Cloth Name": "belted wraparound skirt",
+    "id": 429,
+    "cloth_name": "belted wraparound skirt",
     "variant_id": "429_Bottoms_08722",
     "locale": {
       "USen": "Green",
@@ -9429,8 +8610,8 @@
     }
   },
   {
-    "id": 8723,
-    "Cloth Name": "belted wraparound skirt",
+    "id": 429,
+    "cloth_name": "belted wraparound skirt",
     "variant_id": "429_Bottoms_08723",
     "locale": {
       "USen": "Blue",
@@ -9450,8 +8631,8 @@
     }
   },
   {
-    "id": 4547,
-    "Cloth Name": "embroidered floral skirt",
+    "id": 430,
+    "cloth_name": "embroidered floral skirt",
     "variant_id": "430_Bottoms_04547",
     "locale": {
       "USen": "Green",
@@ -9471,8 +8652,8 @@
     }
   },
   {
-    "id": 8736,
-    "Cloth Name": "embroidered floral skirt",
+    "id": 430,
+    "cloth_name": "embroidered floral skirt",
     "variant_id": "430_Bottoms_08736",
     "locale": {
       "USen": "Blue",
@@ -9492,8 +8673,8 @@
     }
   },
   {
-    "id": 8737,
-    "Cloth Name": "embroidered floral skirt",
+    "id": 430,
+    "cloth_name": "embroidered floral skirt",
     "variant_id": "430_Bottoms_08737",
     "locale": {
       "USen": "Berry red",
@@ -9513,8 +8694,8 @@
     }
   },
   {
-    "id": 4548,
-    "Cloth Name": "embroidered-pattern skirt",
+    "id": 431,
+    "cloth_name": "embroidered-pattern skirt",
     "variant_id": "431_Bottoms_04548",
     "locale": {
       "USen": "Blue",
@@ -9534,8 +8715,8 @@
     }
   },
   {
-    "id": 8738,
-    "Cloth Name": "embroidered-pattern skirt",
+    "id": 431,
+    "cloth_name": "embroidered-pattern skirt",
     "variant_id": "431_Bottoms_08738",
     "locale": {
       "USen": "Green",
@@ -9555,8 +8736,8 @@
     }
   },
   {
-    "id": 8739,
-    "Cloth Name": "embroidered-pattern skirt",
+    "id": 431,
+    "cloth_name": "embroidered-pattern skirt",
     "variant_id": "431_Bottoms_08739",
     "locale": {
       "USen": "Red",
@@ -9576,8 +8757,8 @@
     }
   },
   {
-    "id": 4593,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_04593",
     "locale": {
       "USen": "Green",
@@ -9597,8 +8778,8 @@
     }
   },
   {
-    "id": 9719,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_09719",
     "locale": {
       "USen": "Blue",
@@ -9618,8 +8799,8 @@
     }
   },
   {
-    "id": 9720,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_09720",
     "locale": {
       "USen": "Light purple",
@@ -9639,8 +8820,8 @@
     }
   },
   {
-    "id": 9721,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_09721",
     "locale": {
       "USen": "Pink",
@@ -9660,8 +8841,8 @@
     }
   },
   {
-    "id": 9722,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_09722",
     "locale": {
       "USen": "Dark red",
@@ -9681,8 +8862,8 @@
     }
   },
   {
-    "id": 9723,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_09723",
     "locale": {
       "USen": "Ruby red",
@@ -9702,8 +8883,8 @@
     }
   },
   {
-    "id": 9724,
-    "Cloth Name": "satin pants",
+    "id": 459,
+    "cloth_name": "satin pants",
     "variant_id": "459_Bottoms_09724",
     "locale": {
       "USen": "Brown",
@@ -9723,8 +8904,8 @@
     }
   },
   {
-    "id": 4602,
-    "Cloth Name": "corduroy pants",
+    "id": 468,
+    "cloth_name": "corduroy pants",
     "variant_id": "468_Bottoms_04602",
     "locale": {
       "USen": "Camel",
@@ -9744,8 +8925,8 @@
     }
   },
   {
-    "id": 9725,
-    "Cloth Name": "corduroy pants",
+    "id": 468,
+    "cloth_name": "corduroy pants",
     "variant_id": "468_Bottoms_09725",
     "locale": {
       "USen": "Brown",
@@ -9765,8 +8946,8 @@
     }
   },
   {
-    "id": 9726,
-    "Cloth Name": "corduroy pants",
+    "id": 468,
+    "cloth_name": "corduroy pants",
     "variant_id": "468_Bottoms_09726",
     "locale": {
       "USen": "Pink",
@@ -9786,8 +8967,8 @@
     }
   },
   {
-    "id": 9727,
-    "Cloth Name": "corduroy pants",
+    "id": 468,
+    "cloth_name": "corduroy pants",
     "variant_id": "468_Bottoms_09727",
     "locale": {
       "USen": "Green",
@@ -9807,8 +8988,8 @@
     }
   },
   {
-    "id": 9728,
-    "Cloth Name": "corduroy pants",
+    "id": 468,
+    "cloth_name": "corduroy pants",
     "variant_id": "468_Bottoms_09728",
     "locale": {
       "USen": "Light gray",
@@ -9828,8 +9009,8 @@
     }
   },
   {
-    "id": 9729,
-    "Cloth Name": "corduroy pants",
+    "id": 468,
+    "cloth_name": "corduroy pants",
     "variant_id": "468_Bottoms_09729",
     "locale": {
       "USen": "Black",
@@ -9849,8 +9030,8 @@
     }
   },
   {
-    "id": 4612,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_04612",
     "locale": {
       "USen": "Light blue",
@@ -9870,8 +9051,8 @@
     }
   },
   {
-    "id": 11649,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11649",
     "locale": {
       "USen": "Pink",
@@ -9891,8 +9072,8 @@
     }
   },
   {
-    "id": 11650,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11650",
     "locale": {
       "USen": "Blue",
@@ -9912,8 +9093,8 @@
     }
   },
   {
-    "id": 11651,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11651",
     "locale": {
       "USen": "Ruby red",
@@ -9933,8 +9114,8 @@
     }
   },
   {
-    "id": 11652,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11652",
     "locale": {
       "USen": "Orange",
@@ -9954,8 +9135,8 @@
     }
   },
   {
-    "id": 11653,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11653",
     "locale": {
       "USen": "Green",
@@ -9975,8 +9156,8 @@
     }
   },
   {
-    "id": 11654,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11654",
     "locale": {
       "USen": "Purple",
@@ -9996,8 +9177,8 @@
     }
   },
   {
-    "id": 11655,
-    "Cloth Name": "floral lace skirt",
+    "id": 478,
+    "cloth_name": "floral lace skirt",
     "variant_id": "478_Bottoms_11655",
     "locale": {
       "USen": "Black",
@@ -10017,8 +9198,8 @@
     }
   },
   {
-    "id": 4614,
-    "Cloth Name": "flare skirt",
+    "id": 480,
+    "cloth_name": "flare skirt",
     "variant_id": "480_Bottoms_04614",
     "locale": {
       "USen": "Red",
@@ -10038,8 +9219,8 @@
     }
   },
   {
-    "id": 8790,
-    "Cloth Name": "flare skirt",
+    "id": 480,
+    "cloth_name": "flare skirt",
     "variant_id": "480_Bottoms_08790",
     "locale": {
       "USen": "Black",
@@ -10059,8 +9240,8 @@
     }
   },
   {
-    "id": 8791,
-    "Cloth Name": "flare skirt",
+    "id": 480,
+    "cloth_name": "flare skirt",
     "variant_id": "480_Bottoms_08791",
     "locale": {
       "USen": "Pink",
@@ -10080,8 +9261,8 @@
     }
   },
   {
-    "id": 8792,
-    "Cloth Name": "flare skirt",
+    "id": 480,
+    "cloth_name": "flare skirt",
     "variant_id": "480_Bottoms_08792",
     "locale": {
       "USen": "Mint",
@@ -10101,8 +9282,8 @@
     }
   },
   {
-    "id": 8793,
-    "Cloth Name": "flare skirt",
+    "id": 480,
+    "cloth_name": "flare skirt",
     "variant_id": "480_Bottoms_08793",
     "locale": {
       "USen": "Light blue",
@@ -10122,8 +9303,8 @@
     }
   },
   {
-    "id": 5285,
-    "Cloth Name": "wide chino pants",
+    "id": 648,
+    "cloth_name": "wide chino pants",
     "variant_id": "648_Bottoms_05285",
     "locale": {
       "USen": "Brown",
@@ -10143,8 +9324,8 @@
     }
   },
   {
-    "id": 11150,
-    "Cloth Name": "wide chino pants",
+    "id": 648,
+    "cloth_name": "wide chino pants",
     "variant_id": "648_Bottoms_11150",
     "locale": {
       "USen": "Beige",
@@ -10164,8 +9345,8 @@
     }
   },
   {
-    "id": 11151,
-    "Cloth Name": "wide chino pants",
+    "id": 648,
+    "cloth_name": "wide chino pants",
     "variant_id": "648_Bottoms_11151",
     "locale": {
       "USen": "Navy blue",
@@ -10185,8 +9366,8 @@
     }
   },
   {
-    "id": 11152,
-    "Cloth Name": "wide chino pants",
+    "id": 648,
+    "cloth_name": "wide chino pants",
     "variant_id": "648_Bottoms_11152",
     "locale": {
       "USen": "Avocado",
@@ -10206,8 +9387,8 @@
     }
   },
   {
-    "id": 11153,
-    "Cloth Name": "wide chino pants",
+    "id": 648,
+    "cloth_name": "wide chino pants",
     "variant_id": "648_Bottoms_11153",
     "locale": {
       "USen": "Gray",
@@ -10227,8 +9408,8 @@
     }
   },
   {
-    "id": 5286,
-    "Cloth Name": "acid-washed jeans",
+    "id": 649,
+    "cloth_name": "acid-washed jeans",
     "variant_id": "649_Bottoms_05286",
     "locale": {
       "USen": "Blue",
@@ -10248,8 +9429,8 @@
     }
   },
   {
-    "id": 11385,
-    "Cloth Name": "acid-washed jeans",
+    "id": 649,
+    "cloth_name": "acid-washed jeans",
     "variant_id": "649_Bottoms_11385",
     "locale": {
       "USen": "Black",
@@ -10269,8 +9450,8 @@
     }
   },
   {
-    "id": 5341,
-    "Cloth Name": "dance warm-up pants",
+    "id": 690,
+    "cloth_name": "dance warm-up pants",
     "variant_id": "690_Bottoms_05341",
     "locale": {
       "USen": "Black",
@@ -10290,8 +9471,8 @@
     }
   },
   {
-    "id": 11395,
-    "Cloth Name": "dance warm-up pants",
+    "id": 690,
+    "cloth_name": "dance warm-up pants",
     "variant_id": "690_Bottoms_11395",
     "locale": {
       "USen": "White",
@@ -10311,8 +9492,8 @@
     }
   },
   {
-    "id": 11396,
-    "Cloth Name": "dance warm-up pants",
+    "id": 690,
+    "cloth_name": "dance warm-up pants",
     "variant_id": "690_Bottoms_11396",
     "locale": {
       "USen": "Purple",
@@ -10332,8 +9513,8 @@
     }
   },
   {
-    "id": 11397,
-    "Cloth Name": "dance warm-up pants",
+    "id": 690,
+    "cloth_name": "dance warm-up pants",
     "variant_id": "690_Bottoms_11397",
     "locale": {
       "USen": "Red",
@@ -10353,8 +9534,8 @@
     }
   },
   {
-    "id": 5411,
-    "Cloth Name": "comic shorts",
+    "id": 726,
+    "cloth_name": "comic shorts",
     "variant_id": "726_Bottoms_05411",
     "locale": {
       "USen": "Black",
@@ -10374,8 +9555,8 @@
     }
   },
   {
-    "id": 5412,
-    "Cloth Name": "traditional monpe pants",
+    "id": 727,
+    "cloth_name": "traditional monpe pants",
     "variant_id": "727_Bottoms_05412",
     "locale": {
       "USen": "Dark blue",
@@ -10395,8 +9576,8 @@
     }
   },
   {
-    "id": 9169,
-    "Cloth Name": "traditional monpe pants",
+    "id": 727,
+    "cloth_name": "traditional monpe pants",
     "variant_id": "727_Bottoms_09169",
     "locale": {
       "USen": "Blue",
@@ -10416,8 +9597,8 @@
     }
   },
   {
-    "id": 9170,
-    "Cloth Name": "traditional monpe pants",
+    "id": 727,
+    "cloth_name": "traditional monpe pants",
     "variant_id": "727_Bottoms_09170",
     "locale": {
       "USen": "Golden yellow",
@@ -10437,8 +9618,8 @@
     }
   },
   {
-    "id": 9171,
-    "Cloth Name": "traditional monpe pants",
+    "id": 727,
+    "cloth_name": "traditional monpe pants",
     "variant_id": "727_Bottoms_09171",
     "locale": {
       "USen": "Dark red",
@@ -10458,8 +9639,8 @@
     }
   },
   {
-    "id": 5413,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_05413",
     "locale": {
       "USen": "Yellow",
@@ -10479,8 +9660,8 @@
     }
   },
   {
-    "id": 11412,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11412",
     "locale": {
       "USen": "Green",
@@ -10500,8 +9681,8 @@
     }
   },
   {
-    "id": 11413,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11413",
     "locale": {
       "USen": "Blue",
@@ -10521,8 +9702,8 @@
     }
   },
   {
-    "id": 11414,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11414",
     "locale": {
       "USen": "Purple",
@@ -10542,8 +9723,8 @@
     }
   },
   {
-    "id": 11415,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11415",
     "locale": {
       "USen": "Pink",
@@ -10563,8 +9744,8 @@
     }
   },
   {
-    "id": 11416,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11416",
     "locale": {
       "USen": "Red",
@@ -10584,8 +9765,8 @@
     }
   },
   {
-    "id": 11417,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11417",
     "locale": {
       "USen": "Beige",
@@ -10605,8 +9786,8 @@
     }
   },
   {
-    "id": 11418,
-    "Cloth Name": "rain pants",
+    "id": 728,
+    "cloth_name": "rain pants",
     "variant_id": "728_Bottoms_11418",
     "locale": {
       "USen": "Black",
@@ -10626,8 +9807,8 @@
     }
   },
   {
-    "id": 5414,
-    "Cloth Name": "knit skirt",
+    "id": 729,
+    "cloth_name": "knit skirt",
     "variant_id": "729_Bottoms_05414",
     "locale": {
       "USen": "Brown",
@@ -10647,8 +9828,8 @@
     }
   },
   {
-    "id": 11344,
-    "Cloth Name": "knit skirt",
+    "id": 729,
+    "cloth_name": "knit skirt",
     "variant_id": "729_Bottoms_11344",
     "locale": {
       "USen": "Light blue",
@@ -10668,8 +9849,8 @@
     }
   },
   {
-    "id": 11345,
-    "Cloth Name": "knit skirt",
+    "id": 729,
+    "cloth_name": "knit skirt",
     "variant_id": "729_Bottoms_11345",
     "locale": {
       "USen": "Pink",
@@ -10689,8 +9870,8 @@
     }
   },
   {
-    "id": 11346,
-    "Cloth Name": "knit skirt",
+    "id": 729,
+    "cloth_name": "knit skirt",
     "variant_id": "729_Bottoms_11346",
     "locale": {
       "USen": "Mustard",
@@ -10710,8 +9891,8 @@
     }
   },
   {
-    "id": 5415,
-    "Cloth Name": "faux-fur skirt",
+    "id": 730,
+    "cloth_name": "faux-fur skirt",
     "variant_id": "730_Bottoms_05415",
     "locale": {
       "USen": "Light blue",
@@ -10731,8 +9912,8 @@
     }
   },
   {
-    "id": 8794,
-    "Cloth Name": "faux-fur skirt",
+    "id": 730,
+    "cloth_name": "faux-fur skirt",
     "variant_id": "730_Bottoms_08794",
     "locale": {
       "USen": "Pink",
@@ -10752,8 +9933,8 @@
     }
   },
   {
-    "id": 8795,
-    "Cloth Name": "faux-fur skirt",
+    "id": 730,
+    "cloth_name": "faux-fur skirt",
     "variant_id": "730_Bottoms_08795",
     "locale": {
       "USen": "Red",
@@ -10773,8 +9954,8 @@
     }
   },
   {
-    "id": 8796,
-    "Cloth Name": "faux-fur skirt",
+    "id": 730,
+    "cloth_name": "faux-fur skirt",
     "variant_id": "730_Bottoms_08796",
     "locale": {
       "USen": "Purple",
@@ -10794,8 +9975,8 @@
     }
   },
   {
-    "id": 8797,
-    "Cloth Name": "faux-fur skirt",
+    "id": 730,
+    "cloth_name": "faux-fur skirt",
     "variant_id": "730_Bottoms_08797",
     "locale": {
       "USen": "Yellow",
@@ -10815,8 +9996,8 @@
     }
   },
   {
-    "id": 5416,
-    "Cloth Name": "frilly sweatpants",
+    "id": 731,
+    "cloth_name": "frilly sweatpants",
     "variant_id": "731_Bottoms_05416",
     "locale": {
       "USen": "Blue",
@@ -10836,8 +10017,8 @@
     }
   },
   {
-    "id": 8798,
-    "Cloth Name": "frilly sweatpants",
+    "id": 731,
+    "cloth_name": "frilly sweatpants",
     "variant_id": "731_Bottoms_08798",
     "locale": {
       "USen": "Pink",
@@ -10857,8 +10038,8 @@
     }
   },
   {
-    "id": 8799,
-    "Cloth Name": "frilly sweatpants",
+    "id": 731,
+    "cloth_name": "frilly sweatpants",
     "variant_id": "731_Bottoms_08799",
     "locale": {
       "USen": "Mint",
@@ -10878,8 +10059,8 @@
     }
   },
   {
-    "id": 8800,
-    "Cloth Name": "frilly sweatpants",
+    "id": 731,
+    "cloth_name": "frilly sweatpants",
     "variant_id": "731_Bottoms_08800",
     "locale": {
       "USen": "Orange",
@@ -10899,8 +10080,8 @@
     }
   },
   {
-    "id": 8801,
-    "Cloth Name": "frilly sweatpants",
+    "id": 731,
+    "cloth_name": "frilly sweatpants",
     "variant_id": "731_Bottoms_08801",
     "locale": {
       "USen": "Purple",
@@ -10920,8 +10101,8 @@
     }
   },
   {
-    "id": 8802,
-    "Cloth Name": "frilly sweatpants",
+    "id": 731,
+    "cloth_name": "frilly sweatpants",
     "variant_id": "731_Bottoms_08802",
     "locale": {
       "USen": "Gray",
@@ -10941,8 +10122,8 @@
     }
   },
   {
-    "id": 5417,
-    "Cloth Name": "long sweatskirt",
+    "id": 732,
+    "cloth_name": "long sweatskirt",
     "variant_id": "732_Bottoms_05417",
     "locale": {
       "USen": "Navy blue",
@@ -10962,8 +10143,8 @@
     }
   },
   {
-    "id": 8724,
-    "Cloth Name": "long sweatskirt",
+    "id": 732,
+    "cloth_name": "long sweatskirt",
     "variant_id": "732_Bottoms_08724",
     "locale": {
       "USen": "Gray",
@@ -10983,8 +10164,8 @@
     }
   },
   {
-    "id": 8725,
-    "Cloth Name": "long sweatskirt",
+    "id": 732,
+    "cloth_name": "long sweatskirt",
     "variant_id": "732_Bottoms_08725",
     "locale": {
       "USen": "Green",
@@ -11004,8 +10185,8 @@
     }
   },
   {
-    "id": 8726,
-    "Cloth Name": "long sweatskirt",
+    "id": 732,
+    "cloth_name": "long sweatskirt",
     "variant_id": "732_Bottoms_08726",
     "locale": {
       "USen": "Purple",
@@ -11025,8 +10206,8 @@
     }
   },
   {
-    "id": 5418,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_05418",
     "locale": {
       "USen": "Green",
@@ -11046,8 +10227,8 @@
     }
   },
   {
-    "id": 9107,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09107",
     "locale": {
       "USen": "Blue",
@@ -11067,8 +10248,8 @@
     }
   },
   {
-    "id": 9108,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09108",
     "locale": {
       "USen": "Purple",
@@ -11088,8 +10269,8 @@
     }
   },
   {
-    "id": 9109,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09109",
     "locale": {
       "USen": "Red",
@@ -11109,8 +10290,8 @@
     }
   },
   {
-    "id": 9110,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09110",
     "locale": {
       "USen": "Yellow",
@@ -11130,8 +10311,8 @@
     }
   },
   {
-    "id": 9111,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09111",
     "locale": {
       "USen": "Light blue",
@@ -11151,8 +10332,8 @@
     }
   },
   {
-    "id": 9112,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09112",
     "locale": {
       "USen": "Beige",
@@ -11172,8 +10353,8 @@
     }
   },
   {
-    "id": 9113,
-    "Cloth Name": "boa skirt",
+    "id": 733,
+    "cloth_name": "boa skirt",
     "variant_id": "733_Bottoms_09113",
     "locale": {
       "USen": "Brown",
@@ -11193,8 +10374,8 @@
     }
   },
   {
-    "id": 5419,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_05419",
     "locale": {
       "USen": "Purple",
@@ -11214,8 +10395,8 @@
     }
   },
   {
-    "id": 9114,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09114",
     "locale": {
       "USen": "Avocado",
@@ -11235,8 +10416,8 @@
     }
   },
   {
-    "id": 9115,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09115",
     "locale": {
       "USen": "Beige",
@@ -11256,8 +10437,8 @@
     }
   },
   {
-    "id": 9116,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09116",
     "locale": {
       "USen": "Blue",
@@ -11277,8 +10458,8 @@
     }
   },
   {
-    "id": 9117,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09117",
     "locale": {
       "USen": "Red",
@@ -11298,8 +10479,8 @@
     }
   },
   {
-    "id": 9118,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09118",
     "locale": {
       "USen": "Orange",
@@ -11319,8 +10500,8 @@
     }
   },
   {
-    "id": 9119,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09119",
     "locale": {
       "USen": "Peacock blue",
@@ -11340,8 +10521,8 @@
     }
   },
   {
-    "id": 9120,
-    "Cloth Name": "boa shorts",
+    "id": 734,
+    "cloth_name": "boa shorts",
     "variant_id": "734_Bottoms_09120",
     "locale": {
       "USen": "Black",
@@ -11361,8 +10542,8 @@
     }
   },
   {
-    "id": 5420,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_05420",
     "locale": {
       "USen": "Brown",
@@ -11382,8 +10563,8 @@
     }
   },
   {
-    "id": 10202,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10202",
     "locale": {
       "USen": "Black",
@@ -11403,8 +10584,8 @@
     }
   },
   {
-    "id": 10203,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10203",
     "locale": {
       "USen": "Pink",
@@ -11424,8 +10605,8 @@
     }
   },
   {
-    "id": 10204,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10204",
     "locale": {
       "USen": "Blue",
@@ -11445,8 +10626,8 @@
     }
   },
   {
-    "id": 10205,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10205",
     "locale": {
       "USen": "Green",
@@ -11466,8 +10647,8 @@
     }
   },
   {
-    "id": 10206,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10206",
     "locale": {
       "USen": "Orange",
@@ -11487,8 +10668,8 @@
     }
   },
   {
-    "id": 10207,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10207",
     "locale": {
       "USen": "Light blue",
@@ -11508,8 +10689,8 @@
     }
   },
   {
-    "id": 10208,
-    "Cloth Name": "pleather flare skirt",
+    "id": 735,
+    "cloth_name": "pleather flare skirt",
     "variant_id": "735_Bottoms_10208",
     "locale": {
       "USen": "White",
@@ -11529,8 +10710,8 @@
     }
   },
   {
-    "id": 5421,
-    "Cloth Name": "buttoned lace skirt",
+    "id": 736,
+    "cloth_name": "buttoned lace skirt",
     "variant_id": "736_Bottoms_05421",
     "locale": {
       "USen": "Yellow",
@@ -11550,8 +10731,8 @@
     }
   },
   {
-    "id": 8727,
-    "Cloth Name": "buttoned lace skirt",
+    "id": 736,
+    "cloth_name": "buttoned lace skirt",
     "variant_id": "736_Bottoms_08727",
     "locale": {
       "USen": "White",
@@ -11571,8 +10752,8 @@
     }
   },
   {
-    "id": 8728,
-    "Cloth Name": "buttoned lace skirt",
+    "id": 736,
+    "cloth_name": "buttoned lace skirt",
     "variant_id": "736_Bottoms_08728",
     "locale": {
       "USen": "Pink",
@@ -11592,8 +10773,8 @@
     }
   },
   {
-    "id": 8729,
-    "Cloth Name": "buttoned lace skirt",
+    "id": 736,
+    "cloth_name": "buttoned lace skirt",
     "variant_id": "736_Bottoms_08729",
     "locale": {
       "USen": "Green",
@@ -11613,8 +10794,8 @@
     }
   },
   {
-    "id": 8730,
-    "Cloth Name": "buttoned lace skirt",
+    "id": 736,
+    "cloth_name": "buttoned lace skirt",
     "variant_id": "736_Bottoms_08730",
     "locale": {
       "USen": "Purple",
@@ -11634,8 +10815,8 @@
     }
   },
   {
-    "id": 5422,
-    "Cloth Name": "petal skirt",
+    "id": 737,
+    "cloth_name": "petal skirt",
     "variant_id": "737_Bottoms_05422",
     "locale": {
       "USen": "Cool",
@@ -11655,8 +10836,8 @@
     }
   },
   {
-    "id": 8916,
-    "Cloth Name": "petal skirt",
+    "id": 737,
+    "cloth_name": "petal skirt",
     "variant_id": "737_Bottoms_08916",
     "locale": {
       "USen": "Rainbow",
@@ -11676,8 +10857,8 @@
     }
   },
   {
-    "id": 8917,
-    "Cloth Name": "petal skirt",
+    "id": 737,
+    "cloth_name": "petal skirt",
     "variant_id": "737_Bottoms_08917",
     "locale": {
       "USen": "Pastel",
@@ -11697,8 +10878,8 @@
     }
   },
   {
-    "id": 5448,
-    "Cloth Name": "plover skirt",
+    "id": 752,
+    "cloth_name": "plover skirt",
     "variant_id": "752_Bottoms_05448",
     "locale": {
       "USen": "Red",
@@ -11718,8 +10899,8 @@
     }
   },
   {
-    "id": 11320,
-    "Cloth Name": "plover skirt",
+    "id": 752,
+    "cloth_name": "plover skirt",
     "variant_id": "752_Bottoms_11320",
     "locale": {
       "USen": "Black",
@@ -11739,8 +10920,8 @@
     }
   },
   {
-    "id": 11321,
-    "Cloth Name": "plover skirt",
+    "id": 752,
+    "cloth_name": "plover skirt",
     "variant_id": "752_Bottoms_11321",
     "locale": {
       "USen": "Green",
@@ -11760,8 +10941,8 @@
     }
   },
   {
-    "id": 5449,
-    "Cloth Name": "upcycled skirt",
+    "id": 754,
+    "cloth_name": "upcycled skirt",
     "variant_id": "754_Bottoms_05449",
     "locale": {
       "USen": "Beige",
@@ -11781,8 +10962,8 @@
     }
   },
   {
-    "id": 8918,
-    "Cloth Name": "upcycled skirt",
+    "id": 754,
+    "cloth_name": "upcycled skirt",
     "variant_id": "754_Bottoms_08918",
     "locale": {
       "USen": "Pink",
@@ -11802,8 +10983,8 @@
     }
   },
   {
-    "id": 8919,
-    "Cloth Name": "upcycled skirt",
+    "id": 754,
+    "cloth_name": "upcycled skirt",
     "variant_id": "754_Bottoms_08919",
     "locale": {
       "USen": "Mint",
@@ -11823,8 +11004,8 @@
     }
   },
   {
-    "id": 5459,
-    "Cloth Name": "embellished denim pants",
+    "id": 755,
+    "cloth_name": "embellished denim pants",
     "variant_id": "755_Bottoms_05459",
     "locale": {
       "USen": "Blue",
@@ -11844,8 +11025,8 @@
     }
   },
   {
-    "id": 9539,
-    "Cloth Name": "embellished denim pants",
+    "id": 755,
+    "cloth_name": "embellished denim pants",
     "variant_id": "755_Bottoms_09539",
     "locale": {
       "USen": "Light blue",
@@ -11865,8 +11046,8 @@
     }
   },
   {
-    "id": 9540,
-    "Cloth Name": "embellished denim pants",
+    "id": 755,
+    "cloth_name": "embellished denim pants",
     "variant_id": "755_Bottoms_09540",
     "locale": {
       "USen": "Black",
@@ -11886,8 +11067,8 @@
     }
   },
   {
-    "id": 5460,
-    "Cloth Name": "traditional suteteko pants",
+    "id": 756,
+    "cloth_name": "traditional suteteko pants",
     "variant_id": "756_Bottoms_05460",
     "locale": {
       "USen": "Red",
@@ -11907,8 +11088,8 @@
     }
   },
   {
-    "id": 9172,
-    "Cloth Name": "traditional suteteko pants",
+    "id": 756,
+    "cloth_name": "traditional suteteko pants",
     "variant_id": "756_Bottoms_09172",
     "locale": {
       "USen": "Yellow-green",
@@ -11928,8 +11109,8 @@
     }
   },
   {
-    "id": 9173,
-    "Cloth Name": "traditional suteteko pants",
+    "id": 756,
+    "cloth_name": "traditional suteteko pants",
     "variant_id": "756_Bottoms_09173",
     "locale": {
       "USen": "Golden yellow",
@@ -11949,8 +11130,8 @@
     }
   },
   {
-    "id": 9174,
-    "Cloth Name": "traditional suteteko pants",
+    "id": 756,
+    "cloth_name": "traditional suteteko pants",
     "variant_id": "756_Bottoms_09174",
     "locale": {
       "USen": "Purple",
@@ -11970,8 +11151,8 @@
     }
   },
   {
-    "id": 9175,
-    "Cloth Name": "traditional suteteko pants",
+    "id": 756,
+    "cloth_name": "traditional suteteko pants",
     "variant_id": "756_Bottoms_09175",
     "locale": {
       "USen": "Aqua",
@@ -11991,8 +11172,8 @@
     }
   },
   {
-    "id": 9176,
-    "Cloth Name": "traditional suteteko pants",
+    "id": 756,
+    "cloth_name": "traditional suteteko pants",
     "variant_id": "756_Bottoms_09176",
     "locale": {
       "USen": "Blue",
@@ -12012,8 +11193,8 @@
     }
   },
   {
-    "id": 5544,
-    "Cloth Name": "patchwork skirt",
+    "id": 781,
+    "cloth_name": "patchwork skirt",
     "variant_id": "781_Bottoms_05544",
     "locale": {
       "USen": "Blue",
@@ -12033,8 +11214,8 @@
     }
   },
   {
-    "id": 8740,
-    "Cloth Name": "patchwork skirt",
+    "id": 781,
+    "cloth_name": "patchwork skirt",
     "variant_id": "781_Bottoms_08740",
     "locale": {
       "USen": "Red",
@@ -12054,8 +11235,8 @@
     }
   },
   {
-    "id": 8741,
-    "Cloth Name": "patchwork skirt",
+    "id": 781,
+    "cloth_name": "patchwork skirt",
     "variant_id": "781_Bottoms_08741",
     "locale": {
       "USen": "Yellow",
@@ -12075,8 +11256,8 @@
     }
   },
   {
-    "id": 8742,
-    "Cloth Name": "patchwork skirt",
+    "id": 781,
+    "cloth_name": "patchwork skirt",
     "variant_id": "781_Bottoms_08742",
     "locale": {
       "USen": "Green",
@@ -12096,8 +11277,8 @@
     }
   },
   {
-    "id": 5664,
-    "Cloth Name": "plaid shorts",
+    "id": 817,
+    "cloth_name": "plaid shorts",
     "variant_id": "817_Bottoms_05664",
     "locale": {
       "USen": "Light blue",
@@ -12117,8 +11298,8 @@
     }
   },
   {
-    "id": 8842,
-    "Cloth Name": "plaid shorts",
+    "id": 817,
+    "cloth_name": "plaid shorts",
     "variant_id": "817_Bottoms_08842",
     "locale": {
       "USen": "Brown",
@@ -12138,8 +11319,8 @@
     }
   },
   {
-    "id": 8843,
-    "Cloth Name": "plaid shorts",
+    "id": 817,
+    "cloth_name": "plaid shorts",
     "variant_id": "817_Bottoms_08843",
     "locale": {
       "USen": "Light green",
@@ -12159,8 +11340,8 @@
     }
   },
   {
-    "id": 8844,
-    "Cloth Name": "plaid shorts",
+    "id": 817,
+    "cloth_name": "plaid shorts",
     "variant_id": "817_Bottoms_08844",
     "locale": {
       "USen": "Red",
@@ -12180,8 +11361,8 @@
     }
   },
   {
-    "id": 5665,
-    "Cloth Name": "colorful skirt",
+    "id": 818,
+    "cloth_name": "colorful skirt",
     "variant_id": "818_Bottoms_05665",
     "locale": {
       "USen": "Red",
@@ -12201,8 +11382,8 @@
     }
   },
   {
-    "id": 8743,
-    "Cloth Name": "colorful skirt",
+    "id": 818,
+    "cloth_name": "colorful skirt",
     "variant_id": "818_Bottoms_08743",
     "locale": {
       "USen": "Blue",
@@ -12222,8 +11403,8 @@
     }
   },
   {
-    "id": 8744,
-    "Cloth Name": "colorful skirt",
+    "id": 818,
+    "cloth_name": "colorful skirt",
     "variant_id": "818_Bottoms_08744",
     "locale": {
       "USen": "Pink",
@@ -12243,8 +11424,8 @@
     }
   },
   {
-    "id": 8745,
-    "Cloth Name": "colorful skirt",
+    "id": 818,
+    "cloth_name": "colorful skirt",
     "variant_id": "818_Bottoms_08745",
     "locale": {
       "USen": "Green",
@@ -12264,8 +11445,8 @@
     }
   },
   {
-    "id": 8746,
-    "Cloth Name": "colorful skirt",
+    "id": 818,
+    "cloth_name": "colorful skirt",
     "variant_id": "818_Bottoms_08746",
     "locale": {
       "USen": "Orange",
@@ -12285,8 +11466,8 @@
     }
   },
   {
-    "id": 5701,
-    "Cloth Name": "torn pants",
+    "id": 840,
+    "cloth_name": "torn pants",
     "variant_id": "840_Bottoms_05701",
     "locale": {
       "USen": "Brown",
@@ -12306,8 +11487,8 @@
     }
   },
   {
-    "id": 9281,
-    "Cloth Name": "torn pants",
+    "id": 840,
+    "cloth_name": "torn pants",
     "variant_id": "840_Bottoms_09281",
     "locale": {
       "USen": "Black",
@@ -12327,8 +11508,8 @@
     }
   },
   {
-    "id": 9282,
-    "Cloth Name": "torn pants",
+    "id": 840,
+    "cloth_name": "torn pants",
     "variant_id": "840_Bottoms_09282",
     "locale": {
       "USen": "Gray",
@@ -12348,8 +11529,8 @@
     }
   },
   {
-    "id": 5702,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_05702",
     "locale": {
       "USen": "Mint",
@@ -12369,8 +11550,8 @@
     }
   },
   {
-    "id": 11365,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11365",
     "locale": {
       "USen": "Pink",
@@ -12390,8 +11571,8 @@
     }
   },
   {
-    "id": 11366,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11366",
     "locale": {
       "USen": "Light blue",
@@ -12411,8 +11592,8 @@
     }
   },
   {
-    "id": 11367,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11367",
     "locale": {
       "USen": "Orange",
@@ -12432,8 +11613,8 @@
     }
   },
   {
-    "id": 11368,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11368",
     "locale": {
       "USen": "Black",
@@ -12453,8 +11634,8 @@
     }
   },
   {
-    "id": 11369,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11369",
     "locale": {
       "USen": "Yellow",
@@ -12474,8 +11655,8 @@
     }
   },
   {
-    "id": 11370,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11370",
     "locale": {
       "USen": "Red",
@@ -12495,8 +11676,8 @@
     }
   },
   {
-    "id": 11371,
-    "Cloth Name": "three-quarter sweatpants",
+    "id": 841,
+    "cloth_name": "three-quarter sweatpants",
     "variant_id": "841_Bottoms_11371",
     "locale": {
       "USen": "Purple",
@@ -12516,8 +11697,8 @@
     }
   },
   {
-    "id": 5703,
-    "Cloth Name": "box-pleated skirt",
+    "id": 842,
+    "cloth_name": "box-pleated skirt",
     "variant_id": "842_Bottoms_05703",
     "locale": {
       "USen": "Light blue",
@@ -12537,8 +11718,8 @@
     }
   },
   {
-    "id": 11786,
-    "Cloth Name": "box-pleated skirt",
+    "id": 842,
+    "cloth_name": "box-pleated skirt",
     "variant_id": "842_Bottoms_11786",
     "locale": {
       "USen": "Beige",
@@ -12558,8 +11739,8 @@
     }
   },
   {
-    "id": 11787,
-    "Cloth Name": "box-pleated skirt",
+    "id": 842,
+    "cloth_name": "box-pleated skirt",
     "variant_id": "842_Bottoms_11787",
     "locale": {
       "USen": "Red",
@@ -12579,8 +11760,8 @@
     }
   },
   {
-    "id": 11788,
-    "Cloth Name": "box-pleated skirt",
+    "id": 842,
+    "cloth_name": "box-pleated skirt",
     "variant_id": "842_Bottoms_11788",
     "locale": {
       "USen": "Green",
@@ -12600,8 +11781,8 @@
     }
   },
   {
-    "id": 5704,
-    "Cloth Name": "faux-shearling skirt",
+    "id": 843,
+    "cloth_name": "faux-shearling skirt",
     "variant_id": "843_Bottoms_05704",
     "locale": {
       "USen": "Beige",
@@ -12621,8 +11802,8 @@
     }
   },
   {
-    "id": 11335,
-    "Cloth Name": "faux-shearling skirt",
+    "id": 843,
+    "cloth_name": "faux-shearling skirt",
     "variant_id": "843_Bottoms_11335",
     "locale": {
       "USen": "Pink",
@@ -12642,8 +11823,8 @@
     }
   },
   {
-    "id": 11336,
-    "Cloth Name": "faux-shearling skirt",
+    "id": 843,
+    "cloth_name": "faux-shearling skirt",
     "variant_id": "843_Bottoms_11336",
     "locale": {
       "USen": "Green",
@@ -12663,8 +11844,8 @@
     }
   },
   {
-    "id": 11337,
-    "Cloth Name": "faux-shearling skirt",
+    "id": 843,
+    "cloth_name": "faux-shearling skirt",
     "variant_id": "843_Bottoms_11337",
     "locale": {
       "USen": "Black",
@@ -12684,8 +11865,8 @@
     }
   },
   {
-    "id": 11338,
-    "Cloth Name": "faux-shearling skirt",
+    "id": 843,
+    "cloth_name": "faux-shearling skirt",
     "variant_id": "843_Bottoms_11338",
     "locale": {
       "USen": "Gray",
@@ -12705,8 +11886,8 @@
     }
   },
   {
-    "id": 5705,
-    "Cloth Name": "striped shorts",
+    "id": 844,
+    "cloth_name": "striped shorts",
     "variant_id": "844_Bottoms_05705",
     "locale": {
       "USen": "Pink",
@@ -12726,8 +11907,8 @@
     }
   },
   {
-    "id": 8845,
-    "Cloth Name": "striped shorts",
+    "id": 844,
+    "cloth_name": "striped shorts",
     "variant_id": "844_Bottoms_08845",
     "locale": {
       "USen": "Blue",
@@ -12747,8 +11928,8 @@
     }
   },
   {
-    "id": 8846,
-    "Cloth Name": "striped shorts",
+    "id": 844,
+    "cloth_name": "striped shorts",
     "variant_id": "844_Bottoms_08846",
     "locale": {
       "USen": "Red",
@@ -12768,8 +11949,8 @@
     }
   },
   {
-    "id": 8847,
-    "Cloth Name": "striped shorts",
+    "id": 844,
+    "cloth_name": "striped shorts",
     "variant_id": "844_Bottoms_08847",
     "locale": {
       "USen": "Yellow",
@@ -12789,8 +11970,8 @@
     }
   },
   {
-    "id": 5707,
-    "Cloth Name": "knit pants",
+    "id": 845,
+    "cloth_name": "knit pants",
     "variant_id": "845_Bottoms_05707",
     "locale": {
       "USen": "Gray",
@@ -12810,8 +11991,8 @@
     }
   },
   {
-    "id": 9258,
-    "Cloth Name": "knit pants",
+    "id": 845,
+    "cloth_name": "knit pants",
     "variant_id": "845_Bottoms_09258",
     "locale": {
       "USen": "Brown",
@@ -12831,8 +12012,8 @@
     }
   },
   {
-    "id": 9259,
-    "Cloth Name": "knit pants",
+    "id": 845,
+    "cloth_name": "knit pants",
     "variant_id": "845_Bottoms_09259",
     "locale": {
       "USen": "Light blue",
@@ -12852,8 +12033,8 @@
     }
   },
   {
-    "id": 9260,
-    "Cloth Name": "knit pants",
+    "id": 845,
+    "cloth_name": "knit pants",
     "variant_id": "845_Bottoms_09260",
     "locale": {
       "USen": "Red",
@@ -12873,8 +12054,8 @@
     }
   },
   {
-    "id": 5708,
-    "Cloth Name": "long denim skirt",
+    "id": 846,
+    "cloth_name": "long denim skirt",
     "variant_id": "846_Bottoms_05708",
     "locale": {
       "USen": "Blue",
@@ -12894,8 +12075,8 @@
     }
   },
   {
-    "id": 11445,
-    "Cloth Name": "long denim skirt",
+    "id": 846,
+    "cloth_name": "long denim skirt",
     "variant_id": "846_Bottoms_11445",
     "locale": {
       "USen": "Light blue",
@@ -12915,8 +12096,8 @@
     }
   },
   {
-    "id": 11446,
-    "Cloth Name": "long denim skirt",
+    "id": 846,
+    "cloth_name": "long denim skirt",
     "variant_id": "846_Bottoms_11446",
     "locale": {
       "USen": "Navy blue",
@@ -12936,8 +12117,8 @@
     }
   },
   {
-    "id": 11447,
-    "Cloth Name": "long denim skirt",
+    "id": 846,
+    "cloth_name": "long denim skirt",
     "variant_id": "846_Bottoms_11447",
     "locale": {
       "USen": "Black",
@@ -12957,8 +12138,8 @@
     }
   },
   {
-    "id": 11448,
-    "Cloth Name": "long denim skirt",
+    "id": 846,
+    "cloth_name": "long denim skirt",
     "variant_id": "846_Bottoms_11448",
     "locale": {
       "USen": "White",
@@ -12978,8 +12159,8 @@
     }
   },
   {
-    "id": 5710,
-    "Cloth Name": "apron skirt",
+    "id": 847,
+    "cloth_name": "apron skirt",
     "variant_id": "847_Bottoms_05710",
     "locale": {
       "USen": "Purple",
@@ -12999,8 +12180,8 @@
     }
   },
   {
-    "id": 8921,
-    "Cloth Name": "apron skirt",
+    "id": 847,
+    "cloth_name": "apron skirt",
     "variant_id": "847_Bottoms_08921",
     "locale": {
       "USen": "Blue",
@@ -13020,8 +12201,8 @@
     }
   },
   {
-    "id": 8922,
-    "Cloth Name": "apron skirt",
+    "id": 847,
+    "cloth_name": "apron skirt",
     "variant_id": "847_Bottoms_08922",
     "locale": {
       "USen": "Beige",
@@ -13041,8 +12222,8 @@
     }
   },
   {
-    "id": 5711,
-    "Cloth Name": "terry-cloth shorts",
+    "id": 848,
+    "cloth_name": "terry-cloth shorts",
     "variant_id": "848_Bottoms_05711",
     "locale": {
       "USen": "Pink",
@@ -13062,8 +12243,8 @@
     }
   },
   {
-    "id": 8848,
-    "Cloth Name": "terry-cloth shorts",
+    "id": 848,
+    "cloth_name": "terry-cloth shorts",
     "variant_id": "848_Bottoms_08848",
     "locale": {
       "USen": "Blue",
@@ -13083,8 +12264,8 @@
     }
   },
   {
-    "id": 8849,
-    "Cloth Name": "terry-cloth shorts",
+    "id": 848,
+    "cloth_name": "terry-cloth shorts",
     "variant_id": "848_Bottoms_08849",
     "locale": {
       "USen": "Purple",
@@ -13104,8 +12285,8 @@
     }
   },
   {
-    "id": 8850,
-    "Cloth Name": "terry-cloth shorts",
+    "id": 848,
+    "cloth_name": "terry-cloth shorts",
     "variant_id": "848_Bottoms_08850",
     "locale": {
       "USen": "Green",
@@ -13125,8 +12306,8 @@
     }
   },
   {
-    "id": 5720,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_05720",
     "locale": {
       "USen": "Purple",
@@ -13146,8 +12327,8 @@
     }
   },
   {
-    "id": 11307,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11307",
     "locale": {
       "USen": "Red",
@@ -13167,8 +12348,8 @@
     }
   },
   {
-    "id": 11308,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11308",
     "locale": {
       "USen": "Green",
@@ -13188,8 +12369,8 @@
     }
   },
   {
-    "id": 11309,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11309",
     "locale": {
       "USen": "Orange",
@@ -13209,8 +12390,8 @@
     }
   },
   {
-    "id": 11310,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11310",
     "locale": {
       "USen": "Blue",
@@ -13230,8 +12411,8 @@
     }
   },
   {
-    "id": 11311,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11311",
     "locale": {
       "USen": "Yellow",
@@ -13251,8 +12432,8 @@
     }
   },
   {
-    "id": 11312,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11312",
     "locale": {
       "USen": "Light blue",
@@ -13272,8 +12453,8 @@
     }
   },
   {
-    "id": 11313,
-    "Cloth Name": "basketball shorts",
+    "id": 849,
+    "cloth_name": "basketball shorts",
     "variant_id": "849_Bottoms_11313",
     "locale": {
       "USen": "Black",
@@ -13293,8 +12474,8 @@
     }
   },
   {
-    "id": 5721,
-    "Cloth Name": "workout pants",
+    "id": 850,
+    "cloth_name": "workout pants",
     "variant_id": "850_Bottoms_05721",
     "locale": {
       "USen": "Lime",
@@ -13314,8 +12495,8 @@
     }
   },
   {
-    "id": 11363,
-    "Cloth Name": "workout pants",
+    "id": 850,
+    "cloth_name": "workout pants",
     "variant_id": "850_Bottoms_11363",
     "locale": {
       "USen": "Pink",
@@ -13335,8 +12516,8 @@
     }
   },
   {
-    "id": 11364,
-    "Cloth Name": "workout pants",
+    "id": 850,
+    "cloth_name": "workout pants",
     "variant_id": "850_Bottoms_11364",
     "locale": {
       "USen": "Orange",
@@ -13356,8 +12537,8 @@
     }
   },
   {
-    "id": 5722,
-    "Cloth Name": "bomber-style skirt",
+    "id": 851,
+    "cloth_name": "bomber-style skirt",
     "variant_id": "851_Bottoms_05722",
     "locale": {
       "USen": "Avocado",
@@ -13377,8 +12558,8 @@
     }
   },
   {
-    "id": 11663,
-    "Cloth Name": "bomber-style skirt",
+    "id": 851,
+    "cloth_name": "bomber-style skirt",
     "variant_id": "851_Bottoms_11663",
     "locale": {
       "USen": "Black",
@@ -13398,8 +12579,8 @@
     }
   },
   {
-    "id": 11664,
-    "Cloth Name": "bomber-style skirt",
+    "id": 851,
+    "cloth_name": "bomber-style skirt",
     "variant_id": "851_Bottoms_11664",
     "locale": {
       "USen": "Blue",
@@ -13419,8 +12600,8 @@
     }
   },
   {
-    "id": 11665,
-    "Cloth Name": "bomber-style skirt",
+    "id": 851,
+    "cloth_name": "bomber-style skirt",
     "variant_id": "851_Bottoms_11665",
     "locale": {
       "USen": "Brown",
@@ -13440,8 +12621,8 @@
     }
   },
   {
-    "id": 5723,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_05723",
     "locale": {
       "USen": "Red",
@@ -13461,8 +12642,8 @@
     }
   },
   {
-    "id": 9177,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09177",
     "locale": {
       "USen": "Navy blue",
@@ -13482,8 +12663,8 @@
     }
   },
   {
-    "id": 9178,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09178",
     "locale": {
       "USen": "Gold",
@@ -13503,8 +12684,8 @@
     }
   },
   {
-    "id": 9179,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09179",
     "locale": {
       "USen": "Silver",
@@ -13524,8 +12705,8 @@
     }
   },
   {
-    "id": 9180,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09180",
     "locale": {
       "USen": "Black",
@@ -13545,8 +12726,8 @@
     }
   },
   {
-    "id": 9181,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09181",
     "locale": {
       "USen": "Pink",
@@ -13566,8 +12747,8 @@
     }
   },
   {
-    "id": 9182,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09182",
     "locale": {
       "USen": "Green",
@@ -13587,8 +12768,8 @@
     }
   },
   {
-    "id": 9183,
-    "Cloth Name": "spangle shorts",
+    "id": 852,
+    "cloth_name": "spangle shorts",
     "variant_id": "852_Bottoms_09183",
     "locale": {
       "USen": "Purple",
@@ -13608,8 +12789,8 @@
     }
   },
   {
-    "id": 5724,
-    "Cloth Name": "striped bell-bottoms",
+    "id": 853,
+    "cloth_name": "striped bell-bottoms",
     "variant_id": "853_Bottoms_05724",
     "locale": {
       "USen": "Yellow",
@@ -13629,8 +12810,8 @@
     }
   },
   {
-    "id": 8851,
-    "Cloth Name": "striped bell-bottoms",
+    "id": 853,
+    "cloth_name": "striped bell-bottoms",
     "variant_id": "853_Bottoms_08851",
     "locale": {
       "USen": "Red",
@@ -13650,8 +12831,8 @@
     }
   },
   {
-    "id": 8852,
-    "Cloth Name": "striped bell-bottoms",
+    "id": 853,
+    "cloth_name": "striped bell-bottoms",
     "variant_id": "853_Bottoms_08852",
     "locale": {
       "USen": "Green",
@@ -13671,8 +12852,8 @@
     }
   },
   {
-    "id": 8853,
-    "Cloth Name": "striped bell-bottoms",
+    "id": 853,
+    "cloth_name": "striped bell-bottoms",
     "variant_id": "853_Bottoms_08853",
     "locale": {
       "USen": "Orange",
@@ -13692,8 +12873,8 @@
     }
   },
   {
-    "id": 5736,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_05736",
     "locale": {
       "USen": "Orange",
@@ -13713,8 +12894,8 @@
     }
   },
   {
-    "id": 11372,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11372",
     "locale": {
       "USen": "Blue",
@@ -13734,8 +12915,8 @@
     }
   },
   {
-    "id": 11373,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11373",
     "locale": {
       "USen": "Red",
@@ -13755,8 +12936,8 @@
     }
   },
   {
-    "id": 11374,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11374",
     "locale": {
       "USen": "Yellow",
@@ -13776,8 +12957,8 @@
     }
   },
   {
-    "id": 11375,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11375",
     "locale": {
       "USen": "Green",
@@ -13797,8 +12978,8 @@
     }
   },
   {
-    "id": 11376,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11376",
     "locale": {
       "USen": "Purple",
@@ -13818,8 +12999,8 @@
     }
   },
   {
-    "id": 11377,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11377",
     "locale": {
       "USen": "Aquamarine",
@@ -13839,8 +13020,8 @@
     }
   },
   {
-    "id": 11378,
-    "Cloth Name": "comedian's pants",
+    "id": 854,
+    "cloth_name": "comedian's pants",
     "variant_id": "854_Bottoms_11378",
     "locale": {
       "USen": "White",
@@ -13860,8 +13041,8 @@
     }
   },
   {
-    "id": 5737,
-    "Cloth Name": "pearl skirt",
+    "id": 855,
+    "cloth_name": "pearl skirt",
     "variant_id": "855_Bottoms_05737",
     "locale": {
       "USen": "Navy blue",
@@ -13881,8 +13062,8 @@
     }
   },
   {
-    "id": 5733,
-    "Cloth Name": "pleather shorts",
+    "id": 860,
+    "cloth_name": "pleather shorts",
     "variant_id": "860_Bottoms_05733",
     "locale": {
       "USen": "Black",
@@ -13902,8 +13083,8 @@
     }
   },
   {
-    "id": 10209,
-    "Cloth Name": "pleather shorts",
+    "id": 860,
+    "cloth_name": "pleather shorts",
     "variant_id": "860_Bottoms_10209",
     "locale": {
       "USen": "Brown",
@@ -13923,8 +13104,8 @@
     }
   },
   {
-    "id": 10210,
-    "Cloth Name": "pleather shorts",
+    "id": 860,
+    "cloth_name": "pleather shorts",
     "variant_id": "860_Bottoms_10210",
     "locale": {
       "USen": "White",
@@ -13944,8 +13125,8 @@
     }
   },
   {
-    "id": 10211,
-    "Cloth Name": "pleather shorts",
+    "id": 860,
+    "cloth_name": "pleather shorts",
     "variant_id": "860_Bottoms_10211",
     "locale": {
       "USen": "Red",
@@ -13965,8 +13146,8 @@
     }
   },
   {
-    "id": 5734,
-    "Cloth Name": "gobelin shorts",
+    "id": 861,
+    "cloth_name": "gobelin shorts",
     "variant_id": "861_Bottoms_05734",
     "locale": {
       "USen": "Beige",
@@ -13986,8 +13167,8 @@
     }
   },
   {
-    "id": 8923,
-    "Cloth Name": "gobelin shorts",
+    "id": 861,
+    "cloth_name": "gobelin shorts",
     "variant_id": "861_Bottoms_08923",
     "locale": {
       "USen": "Black",
@@ -14007,8 +13188,8 @@
     }
   },
   {
-    "id": 5735,
-    "Cloth Name": "elephant-print pants",
+    "id": 862,
+    "cloth_name": "elephant-print pants",
     "variant_id": "862_Bottoms_05735",
     "locale": {
       "USen": "Red",
@@ -14028,8 +13209,8 @@
     }
   },
   {
-    "id": 9184,
-    "Cloth Name": "elephant-print pants",
+    "id": 862,
+    "cloth_name": "elephant-print pants",
     "variant_id": "862_Bottoms_09184",
     "locale": {
       "USen": "Blue",
@@ -14049,8 +13230,8 @@
     }
   },
   {
-    "id": 9185,
-    "Cloth Name": "elephant-print pants",
+    "id": 862,
+    "cloth_name": "elephant-print pants",
     "variant_id": "862_Bottoms_09185",
     "locale": {
       "USen": "Orange",
@@ -14070,8 +13251,8 @@
     }
   },
   {
-    "id": 9186,
-    "Cloth Name": "elephant-print pants",
+    "id": 862,
+    "cloth_name": "elephant-print pants",
     "variant_id": "862_Bottoms_09186",
     "locale": {
       "USen": "Green",
@@ -14091,8 +13272,8 @@
     }
   },
   {
-    "id": 9187,
-    "Cloth Name": "elephant-print pants",
+    "id": 862,
+    "cloth_name": "elephant-print pants",
     "variant_id": "862_Bottoms_09187",
     "locale": {
       "USen": "Purple",
@@ -14112,8 +13293,8 @@
     }
   },
   {
-    "id": 9188,
-    "Cloth Name": "elephant-print pants",
+    "id": 862,
+    "cloth_name": "elephant-print pants",
     "variant_id": "862_Bottoms_09188",
     "locale": {
       "USen": "Black",
@@ -14133,8 +13314,8 @@
     }
   },
   {
-    "id": 5781,
-    "Cloth Name": "corte skirt",
+    "id": 870,
+    "cloth_name": "corte skirt",
     "variant_id": "870_Bottoms_05781",
     "locale": {
       "USen": "Blue",
@@ -14154,8 +13335,8 @@
     }
   },
   {
-    "id": 8747,
-    "Cloth Name": "corte skirt",
+    "id": 870,
+    "cloth_name": "corte skirt",
     "variant_id": "870_Bottoms_08747",
     "locale": {
       "USen": "Magenta",
@@ -14175,8 +13356,8 @@
     }
   },
   {
-    "id": 8748,
-    "Cloth Name": "corte skirt",
+    "id": 870,
+    "cloth_name": "corte skirt",
     "variant_id": "870_Bottoms_08748",
     "locale": {
       "USen": "Green",
@@ -14196,8 +13377,8 @@
     }
   },
   {
-    "id": 5795,
-    "Cloth Name": "geometric-print pants",
+    "id": 871,
+    "cloth_name": "geometric-print pants",
     "variant_id": "871_Bottoms_05795",
     "locale": {
       "USen": "Blue",
@@ -14217,8 +13398,8 @@
     }
   },
   {
-    "id": 9189,
-    "Cloth Name": "geometric-print pants",
+    "id": 871,
+    "cloth_name": "geometric-print pants",
     "variant_id": "871_Bottoms_09189",
     "locale": {
       "USen": "Red",
@@ -14238,8 +13419,8 @@
     }
   },
   {
-    "id": 9190,
-    "Cloth Name": "geometric-print pants",
+    "id": 871,
+    "cloth_name": "geometric-print pants",
     "variant_id": "871_Bottoms_09190",
     "locale": {
       "USen": "Brown",
@@ -14259,8 +13440,8 @@
     }
   },
   {
-    "id": 9191,
-    "Cloth Name": "geometric-print pants",
+    "id": 871,
+    "cloth_name": "geometric-print pants",
     "variant_id": "871_Bottoms_09191",
     "locale": {
       "USen": "Navy blue",
@@ -14280,8 +13461,8 @@
     }
   },
   {
-    "id": 9192,
-    "Cloth Name": "geometric-print pants",
+    "id": 871,
+    "cloth_name": "geometric-print pants",
     "variant_id": "871_Bottoms_09192",
     "locale": {
       "USen": "Orange",
@@ -14301,8 +13482,8 @@
     }
   },
   {
-    "id": 5810,
-    "Cloth Name": "cut-pleather skirt",
+    "id": 884,
+    "cloth_name": "cut-pleather skirt",
     "variant_id": "884_Bottoms_05810",
     "locale": {
       "USen": "Brown",
@@ -14322,8 +13503,8 @@
     }
   },
   {
-    "id": 10212,
-    "Cloth Name": "cut-pleather skirt",
+    "id": 884,
+    "cloth_name": "cut-pleather skirt",
     "variant_id": "884_Bottoms_10212",
     "locale": {
       "USen": "Pink",
@@ -14343,8 +13524,8 @@
     }
   },
   {
-    "id": 10213,
-    "Cloth Name": "cut-pleather skirt",
+    "id": 884,
+    "cloth_name": "cut-pleather skirt",
     "variant_id": "884_Bottoms_10213",
     "locale": {
       "USen": "Navy blue",
@@ -14364,8 +13545,8 @@
     }
   },
   {
-    "id": 10214,
-    "Cloth Name": "cut-pleather skirt",
+    "id": 884,
+    "cloth_name": "cut-pleather skirt",
     "variant_id": "884_Bottoms_10214",
     "locale": {
       "USen": "White",
@@ -14385,8 +13566,8 @@
     }
   },
   {
-    "id": 5811,
-    "Cloth Name": "pleather patch skirt",
+    "id": 885,
+    "cloth_name": "pleather patch skirt",
     "variant_id": "885_Bottoms_05811",
     "locale": {
       "USen": "Red",
@@ -14406,8 +13587,8 @@
     }
   },
   {
-    "id": 8924,
-    "Cloth Name": "pleather patch skirt",
+    "id": 885,
+    "cloth_name": "pleather patch skirt",
     "variant_id": "885_Bottoms_08924",
     "locale": {
       "USen": "Green",
@@ -14427,8 +13608,8 @@
     }
   },
   {
-    "id": 8925,
-    "Cloth Name": "pleather patch skirt",
+    "id": 885,
+    "cloth_name": "pleather patch skirt",
     "variant_id": "885_Bottoms_08925",
     "locale": {
       "USen": "Purple",
@@ -14448,8 +13629,8 @@
     }
   },
   {
-    "id": 8926,
-    "Cloth Name": "pleather patch skirt",
+    "id": 885,
+    "cloth_name": "pleather patch skirt",
     "variant_id": "885_Bottoms_08926",
     "locale": {
       "USen": "Orange",
@@ -14469,8 +13650,8 @@
     }
   },
   {
-    "id": 5816,
-    "Cloth Name": "buttoned wraparound skirt",
+    "id": 890,
+    "cloth_name": "buttoned wraparound skirt",
     "variant_id": "890_Bottoms_05816",
     "locale": {
       "USen": "Gray",
@@ -14490,8 +13671,8 @@
     }
   },
   {
-    "id": 8731,
-    "Cloth Name": "buttoned wraparound skirt",
+    "id": 890,
+    "cloth_name": "buttoned wraparound skirt",
     "variant_id": "890_Bottoms_08731",
     "locale": {
       "USen": "Blue",
@@ -14511,8 +13692,8 @@
     }
   },
   {
-    "id": 8732,
-    "Cloth Name": "buttoned wraparound skirt",
+    "id": 890,
+    "cloth_name": "buttoned wraparound skirt",
     "variant_id": "890_Bottoms_08732",
     "locale": {
       "USen": "Orange",
@@ -14532,8 +13713,8 @@
     }
   },
   {
-    "id": 8733,
-    "Cloth Name": "buttoned wraparound skirt",
+    "id": 890,
+    "cloth_name": "buttoned wraparound skirt",
     "variant_id": "890_Bottoms_08733",
     "locale": {
       "USen": "Pink",
@@ -14553,8 +13734,8 @@
     }
   },
   {
-    "id": 8734,
-    "Cloth Name": "buttoned wraparound skirt",
+    "id": 890,
+    "cloth_name": "buttoned wraparound skirt",
     "variant_id": "890_Bottoms_08734",
     "locale": {
       "USen": "Green",
@@ -14574,8 +13755,8 @@
     }
   },
   {
-    "id": 8735,
-    "Cloth Name": "buttoned wraparound skirt",
+    "id": 890,
+    "cloth_name": "buttoned wraparound skirt",
     "variant_id": "890_Bottoms_08735",
     "locale": {
       "USen": "Purple",
@@ -14595,8 +13776,8 @@
     }
   },
   {
-    "id": 5826,
-    "Cloth Name": "tie-dye skirt",
+    "id": 896,
+    "cloth_name": "tie-dye skirt",
     "variant_id": "896_Bottoms_05826",
     "locale": {
       "USen": "Red",
@@ -14616,8 +13797,8 @@
     }
   },
   {
-    "id": 8749,
-    "Cloth Name": "tie-dye skirt",
+    "id": 896,
+    "cloth_name": "tie-dye skirt",
     "variant_id": "896_Bottoms_08749",
     "locale": {
       "USen": "Blue",
@@ -14637,8 +13818,8 @@
     }
   },
   {
-    "id": 8750,
-    "Cloth Name": "tie-dye skirt",
+    "id": 896,
+    "cloth_name": "tie-dye skirt",
     "variant_id": "896_Bottoms_08750",
     "locale": {
       "USen": "Green",
@@ -14658,8 +13839,8 @@
     }
   },
   {
-    "id": 8751,
-    "Cloth Name": "tie-dye skirt",
+    "id": 896,
+    "cloth_name": "tie-dye skirt",
     "variant_id": "896_Bottoms_08751",
     "locale": {
       "USen": "Purple",
@@ -14679,8 +13860,8 @@
     }
   },
   {
-    "id": 8752,
-    "Cloth Name": "tie-dye skirt",
+    "id": 896,
+    "cloth_name": "tie-dye skirt",
     "variant_id": "896_Bottoms_08752",
     "locale": {
       "USen": "Orange",
@@ -14700,8 +13881,8 @@
     }
   },
   {
-    "id": 5854,
-    "Cloth Name": "botanical shorts",
+    "id": 902,
+    "cloth_name": "botanical shorts",
     "variant_id": "902_Bottoms_05854",
     "locale": {
       "USen": "Black",
@@ -14721,8 +13902,8 @@
     }
   },
   {
-    "id": 9193,
-    "Cloth Name": "botanical shorts",
+    "id": 902,
+    "cloth_name": "botanical shorts",
     "variant_id": "902_Bottoms_09193",
     "locale": {
       "USen": "White",
@@ -14742,8 +13923,8 @@
     }
   },
   {
-    "id": 5873,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_05873",
     "locale": {
       "USen": "Black",
@@ -14763,8 +13944,8 @@
     }
   },
   {
-    "id": 11398,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_11398",
     "locale": {
       "USen": "Berry red",
@@ -14784,8 +13965,8 @@
     }
   },
   {
-    "id": 11399,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_11399",
     "locale": {
       "USen": "Green",
@@ -14805,8 +13986,8 @@
     }
   },
   {
-    "id": 11400,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_11400",
     "locale": {
       "USen": "White",
@@ -14826,8 +14007,8 @@
     }
   },
   {
-    "id": 11401,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_11401",
     "locale": {
       "USen": "Purple",
@@ -14847,8 +14028,8 @@
     }
   },
   {
-    "id": 11402,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_11402",
     "locale": {
       "USen": "Gray",
@@ -14868,8 +14049,8 @@
     }
   },
   {
-    "id": 11403,
-    "Cloth Name": "school pants",
+    "id": 905,
+    "cloth_name": "school pants",
     "variant_id": "905_Bottoms_11403",
     "locale": {
       "USen": "Blue",
@@ -14889,8 +14070,8 @@
     }
   },
   {
-    "id": 5874,
-    "Cloth Name": "lemon skirt",
+    "id": 906,
+    "cloth_name": "lemon skirt",
     "variant_id": "906_Bottoms_05874",
     "locale": {
       "USen": "Light blue",
@@ -14910,8 +14091,8 @@
     }
   },
   {
-    "id": 8753,
-    "Cloth Name": "lemon skirt",
+    "id": 906,
+    "cloth_name": "lemon skirt",
     "variant_id": "906_Bottoms_08753",
     "locale": {
       "USen": "White",
@@ -14931,8 +14112,8 @@
     }
   },
   {
-    "id": 8754,
-    "Cloth Name": "lemon skirt",
+    "id": 906,
+    "cloth_name": "lemon skirt",
     "variant_id": "906_Bottoms_08754",
     "locale": {
       "USen": "Black",
@@ -14952,8 +14133,8 @@
     }
   },
   {
-    "id": 5923,
-    "Cloth Name": "dreamy pants",
+    "id": 907,
+    "cloth_name": "dreamy pants",
     "variant_id": "907_Bottoms_05923",
     "locale": {
       "USen": "Pink",
@@ -14973,8 +14154,8 @@
     }
   },
   {
-    "id": 9194,
-    "Cloth Name": "dreamy pants",
+    "id": 907,
+    "cloth_name": "dreamy pants",
     "variant_id": "907_Bottoms_09194",
     "locale": {
       "USen": "Green",
@@ -14994,8 +14175,8 @@
     }
   },
   {
-    "id": 9195,
-    "Cloth Name": "dreamy pants",
+    "id": 907,
+    "cloth_name": "dreamy pants",
     "variant_id": "907_Bottoms_09195",
     "locale": {
       "USen": "Yellow",
@@ -15015,8 +14196,8 @@
     }
   },
   {
-    "id": 9196,
-    "Cloth Name": "dreamy pants",
+    "id": 907,
+    "cloth_name": "dreamy pants",
     "variant_id": "907_Bottoms_09196",
     "locale": {
       "USen": "Blue",
@@ -15036,8 +14217,8 @@
     }
   },
   {
-    "id": 5925,
-    "Cloth Name": "floral skirt",
+    "id": 908,
+    "cloth_name": "floral skirt",
     "variant_id": "908_Bottoms_05925",
     "locale": {
       "USen": "Light blue",
@@ -15057,8 +14238,8 @@
     }
   },
   {
-    "id": 8755,
-    "Cloth Name": "floral skirt",
+    "id": 908,
+    "cloth_name": "floral skirt",
     "variant_id": "908_Bottoms_08755",
     "locale": {
       "USen": "Yellow",
@@ -15078,8 +14259,8 @@
     }
   },
   {
-    "id": 8756,
-    "Cloth Name": "floral skirt",
+    "id": 908,
+    "cloth_name": "floral skirt",
     "variant_id": "908_Bottoms_08756",
     "locale": {
       "USen": "Pink",
@@ -15099,8 +14280,8 @@
     }
   },
   {
-    "id": 6016,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_06016",
     "locale": {
       "USen": "Navy blue",
@@ -15120,8 +14301,8 @@
     }
   },
   {
-    "id": 11642,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11642",
     "locale": {
       "USen": "Orange",
@@ -15141,8 +14322,8 @@
     }
   },
   {
-    "id": 11643,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11643",
     "locale": {
       "USen": "Light blue",
@@ -15162,8 +14343,8 @@
     }
   },
   {
-    "id": 11644,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11644",
     "locale": {
       "USen": "Green",
@@ -15183,8 +14364,8 @@
     }
   },
   {
-    "id": 11645,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11645",
     "locale": {
       "USen": "Brown",
@@ -15204,8 +14385,8 @@
     }
   },
   {
-    "id": 11646,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11646",
     "locale": {
       "USen": "Purple",
@@ -15225,8 +14406,8 @@
     }
   },
   {
-    "id": 11647,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11647",
     "locale": {
       "USen": "Red",
@@ -15246,8 +14427,8 @@
     }
   },
   {
-    "id": 11648,
-    "Cloth Name": "long sailor skirt",
+    "id": 912,
+    "cloth_name": "long sailor skirt",
     "variant_id": "912_Bottoms_11648",
     "locale": {
       "USen": "Pink",
@@ -15264,6 +14445,846 @@
       "JPja": "ピンク",
       "KRko": "핑크",
       "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_09840",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12071",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12072",
+    "locale": {
+      "USen": "Navy blue",
+      "EUen": "Navy blue",
+      "EUde": "Marineblau",
+      "EUes": "Azul marino",
+      "USes": "Azul marino",
+      "EUfr": "Bleu marine",
+      "USfr": "Bleu marine",
+      "EUit": "Blu marino",
+      "EUnl": "Marineblauw",
+      "CNzh": "海军蓝",
+      "TWzh": "海軍藍",
+      "JPja": "ネイビー",
+      "KRko": "네이비",
+      "EUru": "Черно-синий"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12073",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12074",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12075",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12076",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1091,
+    "cloth_name": "soccer shorts",
+    "variant_id": "1091_Bottoms_12077",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1092,
+    "cloth_name": "explorer shorts",
+    "variant_id": "1092_Bottoms_09841",
+    "locale": {
+      "USen": "Camel",
+      "EUen": "Camel",
+      "EUde": "Kamelfarben",
+      "EUes": "Pardo",
+      "USes": "Pardo",
+      "EUfr": "Sable",
+      "USfr": "Sable",
+      "EUit": "Cammello",
+      "EUnl": "Kameelbruin",
+      "CNzh": "驼色",
+      "TWzh": "駝色",
+      "JPja": "キャメル",
+      "KRko": "캐멀",
+      "EUru": "Светло-коричневый"
+    }
+  },
+  {
+    "id": 1092,
+    "cloth_name": "explorer shorts",
+    "variant_id": "1092_Bottoms_12068",
+    "locale": {
+      "USen": "Avocado",
+      "EUen": "Avocado",
+      "EUde": "Avocado",
+      "EUes": "Verde bosque",
+      "USes": "Verde musgo",
+      "EUfr": "Vert kaki",
+      "USfr": "Vert kaki",
+      "EUit": "Avocado",
+      "EUnl": "Avocadogroen",
+      "CNzh": "卡其色",
+      "TWzh": "卡其色",
+      "JPja": "カーキ",
+      "KRko": "카키",
+      "EUru": "Защитный"
+    }
+  },
+  {
+    "id": 1092,
+    "cloth_name": "explorer shorts",
+    "variant_id": "1092_Bottoms_12069",
+    "locale": {
+      "USen": "Beige",
+      "EUen": "Beige",
+      "EUde": "Beige",
+      "EUes": "Beis",
+      "USes": "Beige",
+      "EUfr": "Beige",
+      "USfr": "Beige",
+      "EUit": "Beige",
+      "EUnl": "Beige",
+      "CNzh": "米色",
+      "TWzh": "米色",
+      "JPja": "ベージュ",
+      "KRko": "베이지",
+      "EUru": "Бежевый"
+    }
+  },
+  {
+    "id": 1092,
+    "cloth_name": "explorer shorts",
+    "variant_id": "1092_Bottoms_12070",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1093,
+    "cloth_name": "animal-stripes skirt",
+    "variant_id": "1093_Bottoms_09842",
+    "locale": {
+      "USen": "Tiger",
+      "EUen": "Tiger",
+      "EUde": "Tiger",
+      "EUes": "Tigre",
+      "USes": "Tigre",
+      "EUfr": "Tigré",
+      "USfr": "Tigré",
+      "EUit": "Tigre",
+      "EUnl": "Tijgerprint",
+      "CNzh": "老虎",
+      "TWzh": "老虎紋",
+      "JPja": "タイガー",
+      "KRko": "타이거",
+      "EUru": "Тигр"
+    }
+  },
+  {
+    "id": 1093,
+    "cloth_name": "animal-stripes skirt",
+    "variant_id": "1093_Bottoms_12067",
+    "locale": {
+      "USen": "Zebra",
+      "EUen": "Zebra",
+      "EUde": "Zebra",
+      "EUes": "Cebra",
+      "USes": "Cebra",
+      "EUfr": "Zébré",
+      "USfr": "Zébré",
+      "EUit": "Zebra",
+      "EUnl": "Zebraprint",
+      "CNzh": "斑马",
+      "TWzh": "斑馬紋",
+      "JPja": "ゼブラ",
+      "KRko": "지브라",
+      "EUru": "Зебра"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_09844",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12059",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12060",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12061",
+    "locale": {
+      "USen": "Berry red",
+      "EUen": "Berry red",
+      "EUde": "Weinrot",
+      "EUes": "Burdeos",
+      "USes": "Granate",
+      "EUfr": "Bordeaux",
+      "USfr": "Bordeaux",
+      "EUit": "Rosso lampone",
+      "EUnl": "Bessenrood",
+      "CNzh": "酒红色",
+      "TWzh": "酒紅色",
+      "JPja": "ワインレッド",
+      "KRko": "와인 레드",
+      "EUru": "Ягодно-красный"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12062",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12063",
+    "locale": {
+      "USen": "Turquoise",
+      "EUen": "Turquoise",
+      "EUde": "Türkis",
+      "EUes": "Turquesa",
+      "USes": "Turquesa",
+      "EUfr": "Turquoise",
+      "USfr": "Turquoise",
+      "EUit": "Turchese",
+      "EUnl": "Turkoois",
+      "CNzh": "绿松石色",
+      "TWzh": "綠松色",
+      "JPja": "ターコイズ",
+      "KRko": "터콰이즈",
+      "EUru": "Бирюзовый"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12064",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1095,
+    "cloth_name": "football pants",
+    "variant_id": "1095_Bottoms_12065",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1129,
+    "cloth_name": "Labelle shorts",
+    "variant_id": "1129_Bottoms_09878",
+    "locale": {
+      "USen": "Twilight",
+      "EUen": "Twilight",
+      "EUde": "Dämmerung",
+      "EUes": "Crepúsculo",
+      "USes": "Crepúsculo",
+      "EUfr": "Crépuscule",
+      "USfr": "Crépuscule",
+      "EUit": "Crepuscolo",
+      "EUnl": "As",
+      "CNzh": "黎明",
+      "TWzh": "曙光",
+      "JPja": "トワイライト",
+      "KRko": "트와일라잇",
+      "EUru": "Сумерки"
+    }
+  },
+  {
+    "id": 1129,
+    "cloth_name": "Labelle shorts",
+    "variant_id": "1129_Bottoms_11736",
+    "locale": {
+      "USen": "Midnight",
+      "EUen": "Midnight",
+      "EUde": "Mitternacht",
+      "EUes": "Medianoche",
+      "USes": "Medianoche",
+      "EUfr": "Ténèbres",
+      "USfr": "Ténèbres",
+      "EUit": "Tenebre",
+      "EUnl": "Inkt",
+      "CNzh": "午夜",
+      "TWzh": "午夜",
+      "JPja": "ミッドナイト",
+      "KRko": "미드나이트",
+      "EUru": "Полночь"
+    }
+  },
+  {
+    "id": 1129,
+    "cloth_name": "Labelle shorts",
+    "variant_id": "1129_Bottoms_11737",
+    "locale": {
+      "USen": "Passion",
+      "EUen": "Passion",
+      "EUde": "Leidenschaft",
+      "EUes": "Pasión",
+      "USes": "Pasión",
+      "EUfr": "Passion",
+      "USfr": "Passion",
+      "EUit": "Passione",
+      "EUnl": "Vuur & Vlam",
+      "CNzh": "热情",
+      "TWzh": "熱情",
+      "JPja": "パッション",
+      "KRko": "바이올렛",
+      "EUru": "Темперамент"
+    }
+  },
+  {
+    "id": 1129,
+    "cloth_name": "Labelle shorts",
+    "variant_id": "1129_Bottoms_11738",
+    "locale": {
+      "USen": "Ocean",
+      "EUen": "Ocean",
+      "EUde": "Ozean",
+      "EUes": "Océano",
+      "USes": "Océano",
+      "EUfr": "Océan",
+      "USfr": "Océan",
+      "EUit": "Oceano",
+      "EUnl": "7e Hemel",
+      "CNzh": "海洋",
+      "TWzh": "海洋",
+      "JPja": "オーシャン",
+      "KRko": "오션",
+      "EUru": "Океан"
+    }
+  },
+  {
+    "id": 1129,
+    "cloth_name": "Labelle shorts",
+    "variant_id": "1129_Bottoms_11739",
+    "locale": {
+      "USen": "Sunset",
+      "EUen": "Sunset",
+      "EUde": "Sonnenuntergang",
+      "EUes": "Puesta de sol",
+      "USes": "Puesta de sol",
+      "EUfr": "Soleil couchant",
+      "USfr": "Soleil couchant",
+      "EUit": "Girasole",
+      "EUnl": "Klatergoud",
+      "CNzh": "日落",
+      "TWzh": "日落",
+      "JPja": "サンセット",
+      "KRko": "선셋",
+      "EUru": "Закат"
+    }
+  },
+  {
+    "id": 1129,
+    "cloth_name": "Labelle shorts",
+    "variant_id": "1129_Bottoms_11740",
+    "locale": {
+      "USen": "Love",
+      "EUen": "Love",
+      "EUde": "Romantik",
+      "EUes": "Amor",
+      "USes": "Amor",
+      "EUfr": "Romance",
+      "USfr": "Romance",
+      "EUit": "Romanticismo",
+      "EUnl": "Roze Bril",
+      "CNzh": "爱",
+      "TWzh": "愛",
+      "JPja": "ラブ",
+      "KRko": "러브",
+      "EUru": "Любовь"
+    }
+  },
+  {
+    "id": 1130,
+    "cloth_name": "Labelle skirt",
+    "variant_id": "1130_Bottoms_09879",
+    "locale": {
+      "USen": "Twilight",
+      "EUen": "Twilight",
+      "EUde": "Dämmerung",
+      "EUes": "Crepúsculo",
+      "USes": "Crepúsculo",
+      "EUfr": "Crépuscule",
+      "USfr": "Crépuscule",
+      "EUit": "Crepuscolo",
+      "EUnl": "As",
+      "CNzh": "黎明",
+      "TWzh": "曙光",
+      "JPja": "トワイライト",
+      "KRko": "트와일라잇",
+      "EUru": "Сумерки"
+    }
+  },
+  {
+    "id": 1130,
+    "cloth_name": "Labelle skirt",
+    "variant_id": "1130_Bottoms_11741",
+    "locale": {
+      "USen": "Midnight",
+      "EUen": "Midnight",
+      "EUde": "Mitternacht",
+      "EUes": "Medianoche",
+      "USes": "Medianoche",
+      "EUfr": "Ténèbres",
+      "USfr": "Ténèbres",
+      "EUit": "Tenebre",
+      "EUnl": "Inkt",
+      "CNzh": "午夜",
+      "TWzh": "午夜",
+      "JPja": "ミッドナイト",
+      "KRko": "미드나이트",
+      "EUru": "Полночь"
+    }
+  },
+  {
+    "id": 1130,
+    "cloth_name": "Labelle skirt",
+    "variant_id": "1130_Bottoms_11742",
+    "locale": {
+      "USen": "Passion",
+      "EUen": "Passion",
+      "EUde": "Leidenschaft",
+      "EUes": "Pasión",
+      "USes": "Pasión",
+      "EUfr": "Passion",
+      "USfr": "Passion",
+      "EUit": "Passione",
+      "EUnl": "Vuur & Vlam",
+      "CNzh": "热情",
+      "TWzh": "熱情",
+      "JPja": "パッション",
+      "KRko": "바이올렛",
+      "EUru": "Темперамент"
+    }
+  },
+  {
+    "id": 1130,
+    "cloth_name": "Labelle skirt",
+    "variant_id": "1130_Bottoms_11743",
+    "locale": {
+      "USen": "Ocean",
+      "EUen": "Ocean",
+      "EUde": "Ozean",
+      "EUes": "Océano",
+      "USes": "Océano",
+      "EUfr": "Océan",
+      "USfr": "Océan",
+      "EUit": "Oceano",
+      "EUnl": "7e Hemel",
+      "CNzh": "海洋",
+      "TWzh": "海洋",
+      "JPja": "オーシャン",
+      "KRko": "오션",
+      "EUru": "Океан"
+    }
+  },
+  {
+    "id": 1130,
+    "cloth_name": "Labelle skirt",
+    "variant_id": "1130_Bottoms_11744",
+    "locale": {
+      "USen": "Sunset",
+      "EUen": "Sunset",
+      "EUde": "Sonnenuntergang",
+      "EUes": "Puesta de sol",
+      "USes": "Puesta de sol",
+      "EUfr": "Soleil couchant",
+      "USfr": "Soleil couchant",
+      "EUit": "Girasole",
+      "EUnl": "Klatergoud",
+      "CNzh": "日落",
+      "TWzh": "日落",
+      "JPja": "サンセット",
+      "KRko": "선셋",
+      "EUru": "Закат"
+    }
+  },
+  {
+    "id": 1130,
+    "cloth_name": "Labelle skirt",
+    "variant_id": "1130_Bottoms_11745",
+    "locale": {
+      "USen": "Love",
+      "EUen": "Love",
+      "EUde": "Romantik",
+      "EUes": "Amor",
+      "USes": "Amor",
+      "EUfr": "Romance",
+      "USfr": "Romance",
+      "EUit": "Romanticismo",
+      "EUnl": "Roze Bril",
+      "CNzh": "爱",
+      "TWzh": "愛",
+      "JPja": "ラブ",
+      "KRko": "러브",
+      "EUru": "Любовь"
+    }
+  },
+  {
+    "id": 1187,
+    "cloth_name": "polka-dot miniskirt",
+    "variant_id": "1187_Bottoms_12173",
+    "locale": {
+      "USen": "Beige",
+      "EUen": "Beige",
+      "EUde": "Beige",
+      "EUes": "Beis",
+      "USes": "Beige",
+      "EUfr": "Beige",
+      "USfr": "Beige",
+      "EUit": "Beige",
+      "EUnl": "Beige",
+      "CNzh": "米色",
+      "TWzh": "米色",
+      "JPja": "ベージュ",
+      "KRko": "베이지",
+      "EUru": "Бежевый"
+    }
+  },
+  {
+    "id": 1187,
+    "cloth_name": "polka-dot miniskirt",
+    "variant_id": "1187_Bottoms_12176",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1187,
+    "cloth_name": "polka-dot miniskirt",
+    "variant_id": "1187_Bottoms_12177",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1187,
+    "cloth_name": "polka-dot miniskirt",
+    "variant_id": "1187_Bottoms_12178",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": 1190,
+    "cloth_name": "green grass skirt",
+    "variant_id": "1190_Bottoms_08907",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1227,
+    "cloth_name": "pirate pants",
+    "variant_id": "1227_Bottoms_12664",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
     }
   }
 ]

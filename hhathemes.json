@@ -598,5 +598,25 @@
       "KRko": "하베스트",
       "EUru": "День изобилия"
     }
+  },
+  {
+    "id": 33,
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Festivale",
+      "EUen": "Festivale",
+      "EUde": "Karneval",
+      "EUes": "Carnaval",
+      "USes": "Carnaval",
+      "EUfr": "Carnaval",
+      "USfr": "Carnaval",
+      "EUit": "Carnevale",
+      "EUnl": "carnavalsstijl",
+      "CNzh": "狂欢节",
+      "TWzh": "狂歡節",
+      "JPja": "カーニバル",
+      "KRko": "카니발",
+      "EUru": "Карнавал"
+    }
   }
 ]

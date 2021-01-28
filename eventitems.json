@@ -360,6 +360,166 @@
     }
   },
   {
+    "id": "Feather_03541",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "red feather",
+      "EUen": "red feather",
+      "EUde": "Rubinfeder",
+      "EUes": "pluma roja",
+      "USes": "pluma roja",
+      "EUfr": "plume rouge",
+      "USfr": "plume rouge",
+      "EUit": "piuma rossa",
+      "EUnl": "rode veer",
+      "CNzh": "红色羽毛",
+      "TWzh": "紅色羽毛",
+      "JPja": "あかいはね",
+      "KRko": "빨간색 깃털",
+      "EUru": "красное перо"
+    }
+  },
+  {
+    "id": "Feather_03541_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "red feathers",
+      "EUen": "red feathers",
+      "EUde": "Rubinfedern",
+      "EUes": "plumas rojas",
+      "USes": "plumas rojas",
+      "EUfr": "plumes rouges",
+      "USfr": "plumes rouges",
+      "EUit": "piume rosse",
+      "EUnl": "rode veren",
+      "CNzh": "红色羽毛",
+      "TWzh": "紅色羽毛",
+      "JPja": "あかいはね",
+      "KRko": "빨간색 깃털",
+      "EUru": "красные перья"
+    }
+  },
+  {
+    "id": "Feather_03542",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "blue feather",
+      "EUen": "blue feather",
+      "EUde": "Azurfeder",
+      "EUes": "pluma azul",
+      "USes": "pluma azul",
+      "EUfr": "plume bleue",
+      "USfr": "plume bleue",
+      "EUit": "piuma blu",
+      "EUnl": "blauwe veer",
+      "CNzh": "蓝色羽毛",
+      "TWzh": "藍色羽毛",
+      "JPja": "あおいはね",
+      "KRko": "파란색 깃털",
+      "EUru": "синее перо"
+    }
+  },
+  {
+    "id": "Feather_03542_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "blue feathers",
+      "EUen": "blue feathers",
+      "EUde": "Azurfedern",
+      "EUes": "plumas azules",
+      "USes": "plumas azules",
+      "EUfr": "plumes bleues",
+      "USfr": "plumes bleues",
+      "EUit": "piume blu",
+      "EUnl": "blauwe veren",
+      "CNzh": "蓝色羽毛",
+      "TWzh": "藍色羽毛",
+      "JPja": "あおいはね",
+      "KRko": "파란색 깃털",
+      "EUru": "синие перья"
+    }
+  },
+  {
+    "id": "Feather_03543",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "green feather",
+      "EUen": "green feather",
+      "EUde": "Smaragdfeder",
+      "EUes": "pluma verde",
+      "USes": "pluma verde",
+      "EUfr": "plume verte",
+      "USfr": "plume verte",
+      "EUit": "piuma verde",
+      "EUnl": "groene veer",
+      "CNzh": "绿色羽毛",
+      "TWzh": "綠色羽毛",
+      "JPja": "みどりのはね",
+      "KRko": "초록색 깃털",
+      "EUru": "зеленое перо"
+    }
+  },
+  {
+    "id": "Feather_03543_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "green feathers",
+      "EUen": "green feathers",
+      "EUde": "Smaragdfedern",
+      "EUes": "plumas verdes",
+      "USes": "plumas verdes",
+      "EUfr": "plumes vertes",
+      "USfr": "plumes vertes",
+      "EUit": "piume verdi",
+      "EUnl": "groene veren",
+      "CNzh": "绿色羽毛",
+      "TWzh": "綠色羽毛",
+      "JPja": "みどりのはね",
+      "KRko": "초록색 깃털",
+      "EUru": "зеленые перья"
+    }
+  },
+  {
+    "id": "Feather_03545",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "purple feather",
+      "EUen": "purple feather",
+      "EUde": "Lilafeder",
+      "EUes": "pluma morada",
+      "USes": "pluma morada",
+      "EUfr": "plume violette",
+      "USfr": "plume mauve",
+      "EUit": "piuma viola",
+      "EUnl": "paarse veer",
+      "CNzh": "紫色羽毛",
+      "TWzh": "紫色羽毛",
+      "JPja": "むらさきのはね",
+      "KRko": "보라색 깃털",
+      "EUru": "фиолетовое перо"
+    }
+  },
+  {
+    "id": "Feather_03545_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "purple feathers",
+      "EUen": "purple feathers",
+      "EUde": "Lilafedern",
+      "EUes": "plumas moradas",
+      "USes": "plumas moradas",
+      "EUfr": "plumes violettes",
+      "USfr": "plumes mauves",
+      "EUit": "piume viola",
+      "EUnl": "paarse veren",
+      "CNzh": "紫色羽毛",
+      "TWzh": "紫色羽毛",
+      "JPja": "むらさきのはね",
+      "KRko": "보라색 깃털",
+      "EUru": "фиолетовые перья"
+    }
+  },
+  {
     "id": "HarvestDish_13779",
     "version": "1.6.0",
     "locale": {
@@ -797,6 +957,26 @@
       "JPja": "つうしんそうち",
       "KRko": "통신 장치",
       "EUru": "коммуникаторы"
+    }
+  },
+  {
+    "id": "RainbowFeather_03548",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "rainbow feather",
+      "EUen": "rainbow feather",
+      "EUde": "Regenbogenfeder",
+      "EUes": "pluma arcoíris",
+      "USes": "pluma arcoíris",
+      "EUfr": "plume irisée",
+      "USfr": "plume irisée",
+      "EUit": "piuma arcobaleno",
+      "EUnl": "regenboogveer",
+      "CNzh": "彩虹羽毛",
+      "TWzh": "彩虹羽毛",
+      "JPja": "にじいろのはね",
+      "KRko": "무지개 깃털",
+      "EUru": "радужное перо"
     }
   },
   {

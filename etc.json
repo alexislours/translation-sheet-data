@@ -540,6 +540,26 @@
     }
   },
   {
+    "id": "DummyHowtoBook_14030",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "Viva Festivale Reaction Set",
+      "EUen": "Viva Festivale Reaction Set",
+      "EUde": "Viva-Karneval-Emotionen",
+      "EUes": "Set de emociones Carnaval",
+      "USes": "Set de emociones Carnaval",
+      "EUfr": "lot de mimiques de carnaval",
+      "USfr": "lot de mimiques de carnaval",
+      "EUit": "Set di emozioni Carnevale",
+      "EUnl": "Dé emoties voor carnaval",
+      "CNzh": "欢乐！狂欢节反应",
+      "TWzh": "歡樂！狂歡節表情",
+      "JPja": "ビバ！カーニバルリアクション",
+      "KRko": "비바! 카니발 리액션",
+      "EUru": "Реакции к Карнавалу"
+    }
+  },
+  {
     "id": "DummyPresentbox_04480",
     "version": "1.0.0",
     "locale": {
@@ -997,6 +1017,46 @@
       "JPja": "プレゼント",
       "KRko": "선물",
       "EUru": "подарок"
+    }
+  },
+  {
+    "id": "DummyWrappingOtoshidama_14042",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "lucky money",
+      "EUen": "lucky money",
+      "EUde": "Glücksgeschenk",
+      "EUes": "aguinaldo Año Nuevo Lunar",
+      "USes": "regalito bayas de la suerte",
+      "EUfr": "argent porte chance",
+      "USfr": "argent porte chance",
+      "EUit": "denaro della fortuna",
+      "EUnl": "geluksgeld",
+      "CNzh": "春节红包",
+      "TWzh": "春節紅包",
+      "JPja": "しゅんせつのおとしだま",
+      "KRko": "춘절 세뱃돈",
+      "EUru": "дини на удачу"
+    }
+  },
+  {
+    "id": "DummyWrappingOtoshidama_14043",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "sebaetdon",
+      "EUen": "sebaetdon",
+      "EUde": "Sebaetdon",
+      "EUes": "aguinaldo de Seollal",
+      "USes": "regalito de Seollal",
+      "EUfr": "sebaetdon",
+      "USfr": "sebaetdon",
+      "EUit": "sebaetdon",
+      "EUnl": "nieuwjaarsgeld",
+      "CNzh": "韩国新年红包",
+      "TWzh": "韓國新年紅包",
+      "JPja": "ソルラルのおとしだま",
+      "KRko": "설날 세뱃돈",
+      "EUru": "подарок «сэбэтон»"
     }
   },
   {
@@ -1820,6 +1880,26 @@
     }
   },
   {
+    "id": "MaracasCarnival_13958",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "maracas",
+      "EUen": "maracas",
+      "EUde": "Maracas",
+      "EUes": "par de maracas",
+      "USes": "par de maracas",
+      "EUfr": "paire de maracas",
+      "USfr": "paire de maracas",
+      "EUit": "paio di maracas",
+      "EUnl": "sambaballen",
+      "CNzh": "沙锤",
+      "TWzh": "沙錘",
+      "JPja": "マラカス",
+      "KRko": "마라카스",
+      "EUru": "маракасы"
+    }
+  },
+  {
     "id": "Medicine_02777",
     "version": "1.0.0",
     "locale": {
@@ -1857,6 +1937,86 @@
       "JPja": "おくすり",
       "KRko": "약",
       "EUru": "лекарства"
+    }
+  },
+  {
+    "id": "Megaphone_13913",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "football cheer megaphone",
+      "EUen": "football cheer megaphone",
+      "EUde": "Fan-Megafon „Football“",
+      "EUes": "megáfono fútbol americano",
+      "USes": "megáfono fútbol americano",
+      "EUfr": "mégaphone de supporter",
+      "USfr": "mégaphone de partisan",
+      "EUit": "megafono fan football",
+      "EUnl": "Americanfootballmegafoon",
+      "CNzh": "助威扩音器·美式足球",
+      "TWzh": "加油大聲公‧美式足球",
+      "JPja": "おうえんメガホン・アメフト",
+      "KRko": "미식축구 응원 메가폰",
+      "EUru": "футбольный рупор"
+    }
+  },
+  {
+    "id": "Megaphone_14013",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "fiery cheer megaphone",
+      "EUen": "fiery cheer megaphone",
+      "EUde": "Fan-Megafon „Feuer“",
+      "EUes": "megáfono ánimo encendido",
+      "USes": "megáfono ánimo encendido",
+      "EUfr": "még. de supporter flammes",
+      "USfr": "még. de partisan flammes",
+      "EUit": "megafono fan con fiamme",
+      "EUnl": "vurige megafoon",
+      "CNzh": "助威扩音器·火焰",
+      "TWzh": "加油大聲公‧火焰",
+      "JPja": "おうえんメガホン・ファイアー",
+      "KRko": "파이어 응원 메가폰",
+      "EUru": "огненный рупор"
+    }
+  },
+  {
+    "id": "Megaphone_14014",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "starry cheer megaphone",
+      "EUen": "starry cheer megaphone",
+      "EUde": "Fan-Megafon „Sterne“",
+      "EUes": "megáfono de las estrellas",
+      "USes": "megáfono de las estrellas",
+      "EUfr": "még. de supporter étoiles",
+      "USfr": "még. de partisan étoiles",
+      "EUit": "megafono fan con stelle",
+      "EUnl": "sterrenmegafoon",
+      "CNzh": "助威扩音器·星星",
+      "TWzh": "加油大聲公‧星星",
+      "JPja": "おうえんメガホン・スター",
+      "KRko": "스타 응원 메가폰",
+      "EUru": "звездный рупор"
+    }
+  },
+  {
+    "id": "Megaphone_14015",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "glittery cheer megaphone",
+      "EUen": "glittery cheer megaphone",
+      "EUde": "Fan-Megafon „Glitzer“",
+      "EUes": "megáfono deslumbrante",
+      "USes": "megáfono deslumbrante",
+      "EUfr": "még. de supporter pailleté",
+      "USfr": "még. de partisan pailleté",
+      "EUit": "megafono fan luccicante",
+      "EUnl": "glittermegafoon",
+      "CNzh": "助威扩音器·闪亮",
+      "TWzh": "加油大聲公‧閃亮",
+      "JPja": "おうえんメガホン・グリッター",
+      "KRko": "글리터 응원 메가폰",
+      "EUru": "блестящий рупор"
     }
   },
   {
@@ -2040,6 +2200,86 @@
     }
   },
   {
+    "id": "Otoshidama_13954",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "lucky red envelope",
+      "EUen": "lucky red envelope",
+      "EUde": "Glücksumschlag",
+      "EUes": "sobre rojo de la suerte",
+      "USes": "sobre rojo de la suerte",
+      "EUfr": "hóngbāo porte chance",
+      "USfr": "hóngbāo porte chance",
+      "EUit": "busta della fortuna rossa",
+      "EUnl": "rode geluksenvelop",
+      "CNzh": "春节红包",
+      "TWzh": "春節紅包",
+      "JPja": "しゅんせつのおとしだま",
+      "KRko": "춘절 세뱃돈",
+      "EUru": "красный конверт удачи"
+    }
+  },
+  {
+    "id": "Otoshidama_13954_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "lucky red envelopes",
+      "EUen": "lucky red envelopes",
+      "EUde": "Glücksumschläge",
+      "EUes": "sobres rojos de la suerte",
+      "USes": "sobres rojos de la suerte",
+      "EUfr": "hóngbāo porte chance",
+      "USfr": "hóngbāo porte chance",
+      "EUit": "buste della fortuna rosse",
+      "EUnl": "rode geluksenveloppen",
+      "CNzh": "春节红包",
+      "TWzh": "春節紅包",
+      "JPja": "しゅんせつのおとしだま",
+      "KRko": "춘절 세뱃돈",
+      "EUru": "красные конверты удачи"
+    }
+  },
+  {
+    "id": "Otoshidama_13955",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "bokjumeoni lucky pouch",
+      "EUen": "bokjumeoni lucky pouch",
+      "EUde": "Bokjumeoni-Säckchen",
+      "EUes": "bolsita de la suerte",
+      "USes": "bolsita de la suerte",
+      "EUfr": "bokjumeoni porte chance",
+      "USfr": "bokjumeoni porte chance",
+      "EUit": "sacchettino bokjumeoni",
+      "EUnl": "gelukszakje",
+      "CNzh": "韩国新年红包",
+      "TWzh": "韓國新年紅包",
+      "JPja": "ソルラルのおとしだま",
+      "KRko": "설날 세뱃돈",
+      "EUru": "мешочек удачи"
+    }
+  },
+  {
+    "id": "Otoshidama_13955_pl",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "bokjumeoni lucky pouches",
+      "EUen": "bokjumeoni lucky pouches",
+      "EUde": "Bokjumeoni-Säckchen",
+      "EUes": "bolsitas de la suerte",
+      "USes": "bolsitas de la suerte",
+      "EUfr": "bokjumeoni porte chance",
+      "USfr": "bokjumeoni porte chance",
+      "EUit": "sacchettini bokjumeoni",
+      "EUnl": "gelukszakjes",
+      "CNzh": "韩国新年红包",
+      "TWzh": "韓國新年紅包",
+      "JPja": "ソルラルのおとしだま",
+      "KRko": "설날 세뱃돈",
+      "EUru": "мешочки удачи"
+    }
+  },
+  {
     "id": "Panflute_05517",
     "version": "1.0.0",
     "locale": {
@@ -2197,6 +2437,26 @@
       "JPja": "はいたつボックス",
       "KRko": "배달 박스",
       "EUru": "коробка с посылкой"
+    }
+  },
+  {
+    "id": "SoySet_13914",
+    "version": "1.7.0",
+    "locale": {
+      "USen": "bean-tossing kit",
+      "EUen": "bean-tossing kit",
+      "EUde": "Setsubun-Set",
+      "EUes": "caja habichuelas para lanzar",
+      "USes": "caja habichuelas para lanzar",
+      "EUfr": "kit de lancer de haricots",
+      "USfr": "kit de lancer de haricots",
+      "EUit": "set con fagioli da lanciare",
+      "EUnl": "bonengooipakket",
+      "CNzh": "撒豆组合",
+      "TWzh": "撒豆組合",
+      "JPja": "まめまきセット",
+      "KRko": "콩 뿌리기 세트",
+      "EUru": "бобы для разбрасывания"
     }
   },
   {
