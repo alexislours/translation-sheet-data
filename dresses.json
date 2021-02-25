@@ -5020,6 +5020,86 @@
     }
   },
   {
+    "id": 1321,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Mario outfit",
+      "EUen": "Mario outfit",
+      "EUde": "Mario-Outfit",
+      "EUes": "traje de Mario",
+      "USes": "traje de Mario",
+      "EUfr": "tenue de Mario",
+      "USfr": "tenue de Mario",
+      "EUit": "tuta di Mario",
+      "EUnl": "Mario-pak",
+      "CNzh": "马力欧服",
+      "TWzh": "瑪利歐服",
+      "JPja": "マリオのふく",
+      "KRko": "마리오 옷",
+      "EUru": "наряд Марио"
+    }
+  },
+  {
+    "id": 1322,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Luigi outfit",
+      "EUen": "Luigi outfit",
+      "EUde": "Luigi-Outfit",
+      "EUes": "traje de Luigi",
+      "USes": "traje de Luigi",
+      "EUfr": "tenue de Luigi",
+      "USfr": "tenue de Luigi",
+      "EUit": "tuta di Luigi",
+      "EUnl": "Luigi-pak",
+      "CNzh": "路易吉服",
+      "TWzh": "路易吉服",
+      "JPja": "ルイージのふく",
+      "KRko": "루이지 옷",
+      "EUru": "наряд Луиджи"
+    }
+  },
+  {
+    "id": 1323,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Wario outfit",
+      "EUen": "Wario outfit",
+      "EUde": "Wario-Outfit",
+      "EUes": "traje de Wario",
+      "USes": "traje de Wario",
+      "EUfr": "tenue de Wario",
+      "USfr": "tenue de Wario",
+      "EUit": "tuta di Wario",
+      "EUnl": "Wario-pak",
+      "CNzh": "瓦力欧服",
+      "TWzh": "瓦利歐服",
+      "JPja": "ワリオのふく",
+      "KRko": "와리오 옷",
+      "EUru": "наряд Варио"
+    }
+  },
+  {
+    "id": 1330,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Princess Peach dress",
+      "EUen": "Princess Peach dress",
+      "EUde": "Peach-Kleid",
+      "EUes": "vestido de Peach",
+      "USes": "vestido de Peach",
+      "EUfr": "robe de Princesse Peach",
+      "USfr": "robe de Princesse Peach",
+      "EUit": "vestito di Peach",
+      "EUnl": "prinses-Peach-jurk",
+      "CNzh": "桃花公主洋装",
+      "TWzh": "碧姬公主洋裝",
+      "JPja": "ピーチひめのドレス",
+      "KRko": "피치공주 드레스",
+      "EUru": "наряд принцессы Пич"
+    }
+  },
+  {
     "id": 1344,
     "version": "1.7.0",
     "locale": {
@@ -5037,6 +5117,26 @@
       "JPja": "カーニバルなコスチューム",
       "KRko": "카니발 의상",
       "EUru": "карнавальный костюм"
+    }
+  },
+  {
+    "id": 1352,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock suit",
+      "EUen": "shamrock suit",
+      "EUde": "Kleeblatt-Outfit",
+      "EUes": "traje trébol",
+      "USes": "traje trébol",
+      "EUfr": "costume trèfle",
+      "USfr": "costume trèfle",
+      "EUit": "vestito trifoglio",
+      "EUnl": "klaverpak",
+      "CNzh": "三叶草装",
+      "TWzh": "三葉草裝",
+      "JPja": "シャムロックスーツ",
+      "KRko": "성 패트릭 의상",
+      "EUru": "наряд «Трилистник»"
     }
   }
 ]

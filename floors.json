@@ -3598,5 +3598,25 @@
       "KRko": "하베스트 바닥",
       "EUru": "пол «День изобилия»"
     }
+  },
+  {
+    "id": "RoomFloor_13804",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "block flooring",
+      "EUen": "block flooring",
+      "EUde": "Block-Boden",
+      "EUes": "suelo bloques",
+      "USes": "suelo bloques",
+      "EUfr": "revêtement blocs",
+      "USfr": "revêtement blocs",
+      "EUit": "pavimento mattoni",
+      "EUnl": "blokkenvloer",
+      "CNzh": "超级马力欧地板",
+      "TWzh": "超級瑪利歐地板",
+      "JPja": "スーパーマリオのゆか",
+      "KRko": "슈퍼 마리오 바닥",
+      "EUru": "пол из блоков"
+    }
   }
 ]

@@ -1360,6 +1360,26 @@
     }
   },
   {
+    "id": "Ftr_00867",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "blossom lantern",
+      "EUen": "blossom lantern",
+      "EUde": "Blütenlampe",
+      "EUes": "lámpara bonbori",
+      "USes": "lámpara bonbori",
+      "EUfr": "lampe fleurie",
+      "USfr": "lampe fleurie",
+      "EUit": "lanterna floreale",
+      "EUnl": "bloesemlamp",
+      "CNzh": "纸灯笼",
+      "TWzh": "紙燈籠",
+      "JPja": "ぼんぼり",
+      "KRko": "꽃그림 육면등",
+      "EUru": "лампа с цветами"
+    }
+  },
+  {
     "id": "Ftr_00870",
     "version": "1.0.0",
     "locale": {
@@ -1837,6 +1857,26 @@
       "JPja": "ハープ",
       "KRko": "하프",
       "EUru": "арфа"
+    }
+  },
+  {
+    "id": "Ftr_00988",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "hinaningyo",
+      "EUen": "hinaningyo",
+      "EUde": "Puppenset",
+      "EUes": "hinaningyo",
+      "USes": "hinaningyo",
+      "EUfr": "hinaningyo",
+      "USfr": "hinaningyo",
+      "EUit": "hinaningyo",
+      "EUnl": "hinaningyo-poppen",
+      "CNzh": "女儿节娃娃",
+      "TWzh": "女兒節娃娃",
+      "JPja": "ひなにんぎょう",
+      "KRko": "인형 장식",
+      "EUru": "коллекция кукол"
     }
   },
   {
@@ -18300,6 +18340,266 @@
     }
   },
   {
+    "id": "Ftr_13821",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "? Block",
+      "EUen": "? Block",
+      "EUde": "?-Block",
+      "EUes": "bloque ?",
+      "USes": "bloque ?",
+      "EUfr": "bloc ?",
+      "USfr": "bloc ?",
+      "EUit": "blocco ?",
+      "EUnl": "?-blok",
+      "CNzh": "？砖块",
+      "TWzh": "？磚塊",
+      "JPja": "ハテナブロック",
+      "KRko": "?블록",
+      "EUru": "блок «?»"
+    }
+  },
+  {
+    "id": "Ftr_13822",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "block",
+      "EUen": "block",
+      "EUde": "Block",
+      "EUes": "bloque",
+      "USes": "bloque",
+      "EUfr": "bloc",
+      "USfr": "bloc",
+      "EUit": "blocco",
+      "EUnl": "blok",
+      "CNzh": "砖块",
+      "TWzh": "磚塊",
+      "JPja": "レンガブロック",
+      "KRko": "블록",
+      "EUru": "блок"
+    }
+  },
+  {
+    "id": "Ftr_13823",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "pipe",
+      "EUen": "pipe",
+      "EUde": "Röhre",
+      "EUes": "tubería",
+      "USes": "tubería",
+      "EUfr": "tuyau",
+      "USfr": "tuyau",
+      "EUit": "tubo",
+      "EUnl": "buis",
+      "CNzh": "水管",
+      "TWzh": "水管",
+      "JPja": "どかん",
+      "KRko": "토관",
+      "EUru": "труба"
+    }
+  },
+  {
+    "id": "Ftr_13824",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Goal Pole",
+      "EUen": "Goal Pole",
+      "EUde": "Zielpfahl",
+      "EUes": "banderín",
+      "USes": "banderín",
+      "EUfr": "drapeau Mario",
+      "USfr": "drapeau d'arrivée",
+      "EUit": "asta della bandiera",
+      "EUnl": "vlaggenstok",
+      "CNzh": "终点旗杆",
+      "TWzh": "終點旗桿",
+      "JPja": "ゴールポール",
+      "KRko": "골깃대",
+      "EUru": "финальный флаг"
+    }
+  },
+  {
+    "id": "Ftr_13825",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Super Star",
+      "EUen": "Super Star",
+      "EUde": "Superstern",
+      "EUes": "superestrella",
+      "USes": "superestrella",
+      "EUfr": "super étoile",
+      "USfr": "super étoile",
+      "EUit": "super stella",
+      "EUnl": "superster",
+      "CNzh": "无敌星",
+      "TWzh": "無敵星",
+      "JPja": "スーパースター",
+      "KRko": "슈퍼스타",
+      "EUru": "суперзвезда"
+    }
+  },
+  {
+    "id": "Ftr_13826",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Fire Flower",
+      "EUen": "Fire Flower",
+      "EUde": "Feuerblume",
+      "EUes": "flor de fuego",
+      "USes": "flor de fuego",
+      "EUfr": "fleur de feu",
+      "USfr": "fleur de feu",
+      "EUit": "fiore di fuoco",
+      "EUnl": "vuurbloem",
+      "CNzh": "火之花",
+      "TWzh": "火之花",
+      "JPja": "ファイアフラワー",
+      "KRko": "파이어플라워",
+      "EUru": "огненный цветок"
+    }
+  },
+  {
+    "id": "Ftr_13827",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Super Mushroom",
+      "EUen": "Super Mushroom",
+      "EUde": "Superpilz",
+      "EUes": "superchampiñón",
+      "USes": "superchampiñón",
+      "EUfr": "super champignon",
+      "USfr": "super champignon",
+      "EUit": "super fungo",
+      "EUnl": "superpaddenstoel",
+      "CNzh": "超级蘑菇",
+      "TWzh": "超級蘑菇",
+      "JPja": "スーパーキノコ",
+      "KRko": "슈퍼버섯",
+      "EUru": "супергриб"
+    }
+  },
+  {
+    "id": "Ftr_13828",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "1-Up Mushroom",
+      "EUen": "1-Up Mushroom",
+      "EUde": "1-Up-Pilz",
+      "EUes": "champiñón vida extra",
+      "USes": "champiñón vida extra",
+      "EUfr": "champignon 1UP",
+      "USfr": "champignon 1-UP",
+      "EUit": "fungo 1-UP",
+      "EUnl": "1UP-paddenstoel",
+      "CNzh": "1UP蘑菇",
+      "TWzh": "1UP蘑菇",
+      "JPja": "1UPキノコ",
+      "KRko": "1UP버섯",
+      "EUru": "гриб жизни"
+    }
+  },
+  {
+    "id": "Ftr_13829",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Shell",
+      "EUen": "Shell",
+      "EUde": "Koopa-Panzer",
+      "EUes": "caparazón",
+      "USes": "caparazón",
+      "EUfr": "carapace",
+      "USfr": "carapace",
+      "EUit": "guscio",
+      "EUnl": "schild",
+      "CNzh": "龟壳",
+      "TWzh": "龜殼",
+      "JPja": "こうら",
+      "KRko": "등껍질",
+      "EUru": "панцирь"
+    }
+  },
+  {
+    "id": "Ftr_13830",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "coin",
+      "EUen": "coin",
+      "EUde": "Münze",
+      "EUes": "moneda",
+      "USes": "moneda",
+      "EUfr": "pièce",
+      "USfr": "pièce",
+      "EUit": "moneta",
+      "EUnl": "munt",
+      "CNzh": "金币",
+      "TWzh": "金幣",
+      "JPja": "コイン",
+      "KRko": "코인",
+      "EUru": "монетка"
+    }
+  },
+  {
+    "id": "Ftr_13831",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "large Mushroom Platform",
+      "EUen": "large Mushroom Platform",
+      "EUde": "Pilzplattform (L)",
+      "EUes": "plataforma champiñón XL",
+      "USes": "plataforma champiñón XL",
+      "EUfr": "plateforme champignon XL",
+      "USfr": "plateforme champignon G",
+      "EUit": "piattaforma fungo grande",
+      "EUnl": "groot paddenstoelplatform",
+      "CNzh": "蘑菇地形L",
+      "TWzh": "蘑菇地形L",
+      "JPja": "キノコちけいL",
+      "KRko": "버섯 지형 L",
+      "EUru": "больш. гриб-платформа"
+    }
+  },
+  {
+    "id": "Ftr_13832",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "small Mushroom Platform",
+      "EUen": "small Mushroom Platform",
+      "EUde": "Pilzplattform (S)",
+      "EUes": "plataforma champiñón",
+      "USes": "plataforma champiñón",
+      "EUfr": "plateforme champignon",
+      "USfr": "plateforme champignon P",
+      "EUit": "piattaforma fungo piccola",
+      "EUnl": "klein paddenstoelplatform",
+      "CNzh": "蘑菇地形S",
+      "TWzh": "蘑菇地形S",
+      "JPja": "キノコちけいS",
+      "KRko": "버섯 지형 S",
+      "EUru": "малый гриб-платформа"
+    }
+  },
+  {
+    "id": "Ftr_13833",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Thwomp",
+      "EUen": "Thwomp",
+      "EUde": "Steinblock",
+      "EUes": "Roca Picuda",
+      "USes": "Don Pisotón",
+      "EUfr": "Thwomp",
+      "USfr": "Ka-Bang",
+      "EUit": "Twomp",
+      "EUnl": "Thwomp",
+      "CNzh": "咚咚",
+      "TWzh": "咚咚",
+      "JPja": "ドッスン",
+      "KRko": "쿵쿵",
+      "EUru": "бамс"
+    }
+  },
+  {
     "id": "Ftr_13867",
     "version": "1.7.0",
     "locale": {
@@ -18340,6 +18640,26 @@
     }
   },
   {
+    "id": "Ftr_14020",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "π pie",
+      "EUen": "π pie",
+      "EUde": "Pi-Kuchen",
+      "EUes": "pastel de π",
+      "USes": "pastel de π",
+      "EUfr": "tarte π",
+      "USfr": "tarte π",
+      "EUit": "torta del Pi greco",
+      "EUnl": "π-taart",
+      "CNzh": "圆周率派",
+      "TWzh": "圓周率派",
+      "JPja": "πパイ",
+      "KRko": "π 파이",
+      "EUru": "пирог π"
+    }
+  },
+  {
     "id": "Ftr_14029",
     "version": "1.7.0",
     "locale": {
@@ -18357,6 +18677,106 @@
       "JPja": "ハートのバラブーケ",
       "KRko": "하트 장미 꽃다발",
       "EUru": "букет в форме сердца"
+    }
+  },
+  {
+    "id": "Ftr_14029",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "heart-shaped bouquet",
+      "EUen": "heart-shaped bouquet",
+      "EUde": "Herz-Bouquet",
+      "EUes": "ramo de flores Enamorados",
+      "USes": "ramo de flores corazón",
+      "EUfr": "bouquet en forme de cœur",
+      "USfr": "bouquet en forme de cœur",
+      "EUit": "bouquet a cuore",
+      "EUnl": "hartvormig boeket",
+      "CNzh": "心形玫瑰花束",
+      "TWzh": "愛心玫瑰花束",
+      "JPja": "ハートのバラブーケ",
+      "KRko": "하트 장미 꽃다발",
+      "EUru": "букет в форме сердца"
+    }
+  },
+  {
+    "id": "Ftr_14266",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "floating block",
+      "EUen": "floating block",
+      "EUde": "Schwebeblock",
+      "EUes": "bloque elevado",
+      "USes": "bloque flotante",
+      "EUfr": "bloc flottant",
+      "USfr": "bloc flottant",
+      "EUit": "blocco fluttuante",
+      "EUnl": "zwevend blok",
+      "CNzh": "空中砖块",
+      "TWzh": "空中磚塊",
+      "JPja": "くうちゅうのレンガブロック",
+      "KRko": "떠 있는 블록",
+      "EUru": "парящий блок"
+    }
+  },
+  {
+    "id": "Ftr_14300",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "きゅうりのうま",
+      "EUen": "きゅうりのうま",
+      "EUde": "きゅうりのうま",
+      "EUes": "きゅうりのうま",
+      "USes": "きゅうりのうま",
+      "EUfr": "きゅうりのうま",
+      "USfr": "きゅうりのうま",
+      "EUit": "きゅうりのうま",
+      "EUnl": "きゅうりのうま",
+      "CNzh": "きゅうりのうま",
+      "TWzh": "きゅうりのうま",
+      "JPja": "きゅうりのうま",
+      "KRko": "きゅうりのうま",
+      "EUru": "きゅうりのうま"
+    }
+  },
+  {
+    "id": "Ftr_14338",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "つきみだんご",
+      "EUen": "つきみだんご",
+      "EUde": "つきみだんご",
+      "EUes": "つきみだんご",
+      "USes": "つきみだんご",
+      "EUfr": "つきみだんご",
+      "USfr": "つきみだんご",
+      "EUit": "つきみだんご",
+      "EUnl": "つきみだんご",
+      "CNzh": "つきみだんご",
+      "TWzh": "つきみだんご",
+      "JPja": "つきみだんご",
+      "KRko": "つきみだんご",
+      "EUru": "つきみだんご"
+    }
+  },
+  {
+    "id": "Ftr_14339",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "なすびのうし",
+      "EUen": "なすびのうし",
+      "EUde": "なすびのうし",
+      "EUes": "なすびのうし",
+      "USes": "なすびのうし",
+      "EUfr": "なすびのうし",
+      "USfr": "なすびのうし",
+      "EUit": "なすびのうし",
+      "EUnl": "なすびのうし",
+      "CNzh": "なすびのうし",
+      "TWzh": "なすびのうし",
+      "JPja": "なすびのうし",
+      "KRko": "なすびのうし",
+      "EUru": "なすびのうし"
     }
   }
 ]

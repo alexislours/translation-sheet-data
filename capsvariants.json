@@ -11170,5 +11170,110 @@
       "KRko": "블랙",
       "EUru": "Черный"
     }
+  },
+  {
+    "id": 1318,
+    "cloth_name": "Mario hat",
+    "variant_id": "1318_Cap_13546",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1319,
+    "cloth_name": "Luigi hat",
+    "variant_id": "1319_Cap_13547",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1320,
+    "cloth_name": "Wario hat",
+    "variant_id": "1320_Cap_13548",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1329,
+    "cloth_name": "Princess Peach crown",
+    "variant_id": "1329_Cap_13563",
+    "locale": {
+      "USen": "Gold",
+      "EUen": "Gold",
+      "EUde": "Gold",
+      "EUes": "Dorado",
+      "USes": "Dorado",
+      "EUfr": "Or",
+      "USfr": "Or",
+      "EUit": "Dorato",
+      "EUnl": "Goud",
+      "CNzh": "金色",
+      "TWzh": "金色",
+      "JPja": "ゴールド",
+      "KRko": "골드",
+      "EUru": "Золотой"
+    }
+  },
+  {
+    "id": 1351,
+    "cloth_name": "shamrock hat",
+    "variant_id": "1351_Cap_14235",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
   }
 ]

@@ -1818,5 +1818,105 @@
       "KRko": "마법사 부츠",
       "EUru": "полусапоги мага"
     }
+  },
+  {
+    "id": 1327,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Wario shoes",
+      "EUen": "Wario shoes",
+      "EUde": "Paar Wario-Latschen",
+      "EUes": "zapato de Wario",
+      "USes": "zapato de Wario",
+      "EUfr": "p. de chaussures de Wario",
+      "USfr": "p. de souliers de Wario",
+      "EUit": "paio di scarpe di Wario",
+      "EUnl": "Wario-schoenen",
+      "CNzh": "瓦力欧鞋",
+      "TWzh": "瓦利歐鞋",
+      "JPja": "ワリオのくつ",
+      "KRko": "와리오 신발",
+      "EUru": "туфли Варио"
+    }
+  },
+  {
+    "id": 1328,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Mario shoes",
+      "EUen": "Mario shoes",
+      "EUde": "Paar Mario-Schuhe",
+      "EUes": "zapato de Mario",
+      "USes": "zapato de Mario",
+      "EUfr": "p. de chaussures de Mario",
+      "USfr": "p. de souliers de Mario",
+      "EUit": "paio di scarpe di Mario",
+      "EUnl": "Mario-schoenen",
+      "CNzh": "马力欧鞋",
+      "TWzh": "瑪利歐鞋",
+      "JPja": "マリオのくつ",
+      "KRko": "마리오 신발",
+      "EUru": "ботинки Марио"
+    }
+  },
+  {
+    "id": 1331,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Princess Peach shoes",
+      "EUen": "Princess Peach shoes",
+      "EUde": "Paar Peach-Pumps",
+      "EUes": "zapato de Peach",
+      "USes": "zapato de Peach",
+      "EUfr": "p. chauss. Princesse Peach",
+      "USfr": "p. soul. de Princesse Peach",
+      "EUit": "paio di scarpe di Peach",
+      "EUnl": "prinses-Peach-pumps",
+      "CNzh": "桃花公主鞋",
+      "TWzh": "碧姬公主鞋",
+      "JPja": "ピーチひめのくつ",
+      "KRko": "피치공주 구두",
+      "EUru": "туфли принцессы Пич"
+    }
+  },
+  {
+    "id": 1353,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock shoes",
+      "EUen": "shamrock shoes",
+      "EUde": "Paar Kleeblattschuhe",
+      "EUes": "botín trébol",
+      "USes": "zapato trébol",
+      "EUfr": "paire de chaussures trèfle",
+      "USfr": "paire de souliers trèfle",
+      "EUit": "paio di scarpe trifoglio",
+      "EUnl": "klaverschoenen",
+      "CNzh": "三叶草鞋",
+      "TWzh": "三葉草鞋",
+      "JPja": "シャムロックシューズ",
+      "KRko": "성 패트릭 슈즈",
+      "EUru": "туфли «Трилистник»"
+    }
+  },
+  {
+    "id": 1355,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Luigi shoes",
+      "EUen": "Luigi shoes",
+      "EUde": "Paar Luigi-Schuhe",
+      "EUes": "zapato de Luigi",
+      "USes": "zapato de Luigi",
+      "EUfr": "p. de chaussures de Luigi",
+      "USfr": "p. de souliers de Luigi",
+      "EUit": "paio di scarpe di Luigi",
+      "EUnl": "Luigi-schoenen",
+      "CNzh": "路易吉鞋",
+      "TWzh": "路易吉鞋",
+      "JPja": "ルイージのくつ",
+      "KRko": "루이지 신발",
+      "EUru": "ботинки Луиджи"
+    }
   }
 ]

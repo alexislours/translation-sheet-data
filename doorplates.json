@@ -900,6 +900,26 @@
     }
   },
   {
+    "id": "DoorDeco_14031",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock doorplate",
+      "EUen": "shamrock doorplate",
+      "EUde": "Kleeblatttürschild",
+      "EUes": "placa trébol",
+      "USes": "placa trébol",
+      "EUfr": "plaque trèfle",
+      "USfr": "plaque trèfle",
+      "EUit": "targa da porta trifoglio",
+      "EUnl": "klaverdeurplaatje",
+      "CNzh": "三叶草门牌",
+      "TWzh": "三葉草門牌",
+      "JPja": "シャムロックのドアプレート",
+      "KRko": "성 패트릭 문패",
+      "EUru": "табличка-трилистник"
+    }
+  },
+  {
     "id": "DoorDeco_14032",
     "version": "1.7.0",
     "locale": {

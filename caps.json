@@ -3218,5 +3218,105 @@
       "KRko": "화려한 동글 동물 귀 모자",
       "EUru": "броская круглоух. шапка"
     }
+  },
+  {
+    "id": 1318,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Mario hat",
+      "EUen": "Mario hat",
+      "EUde": "Mario-Mütze",
+      "EUes": "gorra de Mario",
+      "USes": "gorra de Mario",
+      "EUfr": "casquette de Mario",
+      "USfr": "casquette de Mario",
+      "EUit": "cappello di Mario",
+      "EUnl": "Mario-pet",
+      "CNzh": "马力欧帽子",
+      "TWzh": "瑪利歐帽子",
+      "JPja": "マリオのぼうし",
+      "KRko": "마리오 모자",
+      "EUru": "кепка Марио"
+    }
+  },
+  {
+    "id": 1319,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Luigi hat",
+      "EUen": "Luigi hat",
+      "EUde": "Luigi-Mütze",
+      "EUes": "gorra de Luigi",
+      "USes": "gorra de Luigi",
+      "EUfr": "casquette de Luigi",
+      "USfr": "casquette de Luigi",
+      "EUit": "cappello di Luigi",
+      "EUnl": "Luigi-pet",
+      "CNzh": "路易吉帽子",
+      "TWzh": "路易吉帽子",
+      "JPja": "ルイージのぼうし",
+      "KRko": "루이지 모자",
+      "EUru": "кепка Луиджи"
+    }
+  },
+  {
+    "id": 1320,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Wario hat",
+      "EUen": "Wario hat",
+      "EUde": "Wario-Mütze",
+      "EUes": "gorra de Wario",
+      "USes": "gorra de Wario",
+      "EUfr": "casquette de Wario",
+      "USfr": "casquette de Wario",
+      "EUit": "cappello di Wario",
+      "EUnl": "Wario-pet",
+      "CNzh": "瓦力欧帽子",
+      "TWzh": "瓦利歐帽子",
+      "JPja": "ワリオのぼうし",
+      "KRko": "와리오 모자",
+      "EUru": "кепка Варио"
+    }
+  },
+  {
+    "id": 1329,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Princess Peach crown",
+      "EUen": "Princess Peach crown",
+      "EUde": "Peach-Krone",
+      "EUes": "corona de Peach",
+      "USes": "corona de Peach",
+      "EUfr": "couronne Princesse Peach",
+      "USfr": "couronne Princesse Peach",
+      "EUit": "corona di Peach",
+      "EUnl": "prinses-Peach-kroon",
+      "CNzh": "桃花公主王冠",
+      "TWzh": "碧姬公主王冠",
+      "JPja": "ピーチひめのかんむり",
+      "KRko": "피치공주 왕관",
+      "EUru": "корона принцессы Пич"
+    }
+  },
+  {
+    "id": 1351,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock hat",
+      "EUen": "shamrock hat",
+      "EUde": "Kleehut",
+      "EUes": "sombrero trébol",
+      "USes": "sombrero trébol",
+      "EUfr": "chapeau trèfle",
+      "USfr": "chapeau trèfle",
+      "EUit": "cappello trifoglio",
+      "EUnl": "klaverhoed",
+      "CNzh": "三叶草帽",
+      "TWzh": "三葉草帽",
+      "JPja": "シャムロックハット",
+      "KRko": "성 패트릭 모자",
+      "EUru": "шляпа с трилистником"
+    }
   }
 ]

@@ -500,6 +500,26 @@
     }
   },
   {
+    "id": "RegionHinamatsuri",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Hinamatsuri",
+      "EUen": "Hinamatsuri",
+      "EUde": "Hinamatsuri",
+      "EUes": "Hinamatsuri",
+      "USes": "Hinamatsuri",
+      "EUfr": "Hinamatsuri",
+      "USfr": "Hinamatsuri",
+      "EUit": "Hinamatsuri",
+      "EUnl": "Hinamatsuri",
+      "CNzh": "女儿节",
+      "TWzh": "女兒節",
+      "JPja": "ひなまつり",
+      "KRko": "히나마츠리",
+      "EUru": "Хинамацури"
+    }
+  },
+  {
     "id": "RegionLunarNewYearAsia",
     "version": "1.7.0",
     "locale": {
@@ -597,6 +617,46 @@
       "JPja": "しょうがつ正月",
       "KRko": "새해",
       "EUru": "Сёгацу"
+    }
+  },
+  {
+    "id": "RegionPiDay",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "π Day",
+      "EUen": "π Day",
+      "EUde": "Pi-Tag",
+      "EUes": "Día de π",
+      "USes": "Día de π",
+      "EUfr": "Jour de π",
+      "USfr": "Jour de π",
+      "EUit": "Giorno del Pi greco",
+      "EUnl": "π-dag",
+      "CNzh": "圆周率日",
+      "TWzh": "圓周率日",
+      "JPja": "πデー",
+      "KRko": "π 데이",
+      "EUru": "День числа π"
+    }
+  },
+  {
+    "id": "RegionShamrockDay",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Shamrock Day",
+      "EUen": "Shamrock Day",
+      "EUde": "Kleeblatttag",
+      "EUes": "Día del Trébol",
+      "USes": "Día del Trébol",
+      "EUfr": "Jour du trèfle",
+      "USfr": "Jour du trèfle",
+      "EUit": "Giorno del trifoglio",
+      "EUnl": "Klaverdag",
+      "CNzh": "三叶草日",
+      "TWzh": "三葉草日",
+      "JPja": "シャムロックデー",
+      "KRko": "성 패트릭 데이",
+      "EUru": "День трилистника"
     }
   },
   {

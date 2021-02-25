@@ -9847,5 +9847,110 @@
       "KRko": "블랙",
       "EUru": "Черный"
     }
+  },
+  {
+    "id": 1327,
+    "cloth_name": "Wario shoes",
+    "variant_id": "1327_Shoes_13562",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1328,
+    "cloth_name": "Mario shoes",
+    "variant_id": "1328_Shoes_13561",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
+  },
+  {
+    "id": 1331,
+    "cloth_name": "Princess Peach shoes",
+    "variant_id": "1331_Shoes_13602",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1353,
+    "cloth_name": "shamrock shoes",
+    "variant_id": "1353_Shoes_14237",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1355,
+    "cloth_name": "Luigi shoes",
+    "variant_id": "1355_Shoes_14243",
+    "locale": {
+      "USen": "Brown",
+      "EUen": "Brown",
+      "EUde": "Braun",
+      "EUes": "Marrón",
+      "USes": "Marrón",
+      "EUfr": "Brun",
+      "USfr": "Brun",
+      "EUit": "Marrone",
+      "EUnl": "Bruin",
+      "CNzh": "棕色",
+      "TWzh": "棕色",
+      "JPja": "ブラウン",
+      "KRko": "브라운",
+      "EUru": "Коричневый"
+    }
   }
 ]

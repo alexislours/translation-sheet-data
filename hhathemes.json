@@ -618,5 +618,25 @@
       "KRko": "카니발",
       "EUru": "Карнавал"
     }
+  },
+  {
+    "id": 34,
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Mario",
+      "EUen": "Mario",
+      "EUde": "Mario",
+      "EUes": "Mario",
+      "USes": "Mario",
+      "EUfr": "Mario",
+      "USfr": "Mario",
+      "EUit": "Mario",
+      "EUnl": "Mario-stijl",
+      "CNzh": "马力欧",
+      "TWzh": "瑪利歐",
+      "JPja": "マリオ",
+      "KRko": "마리오",
+      "EUru": "Марио"
+    }
   }
 ]

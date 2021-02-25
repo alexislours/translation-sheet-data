@@ -540,6 +540,46 @@
     }
   },
   {
+    "id": "ChangeStick_13237",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky wand",
+      "EUen": "spooky wand",
+      "EUde": "Kürbisstab",
+      "EUes": "varita calabaza",
+      "USes": "varita calabaza",
+      "EUfr": "baguette Halloween",
+      "USfr": "baguette Halloween",
+      "EUit": "bacchetta brividi",
+      "EUnl": "pompoenstaf",
+      "CNzh": "万圣节棒",
+      "TWzh": "萬聖節棒",
+      "JPja": "ハロウィンなステッキ",
+      "KRko": "할로윈 지팡이",
+      "EUru": "жуткая палочка"
+    }
+  },
+  {
+    "id": "ChangeStick_14239",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock wand",
+      "EUen": "shamrock wand",
+      "EUde": "Kleeblattstab",
+      "EUes": "varita trébol",
+      "USes": "varita trébol",
+      "EUfr": "baguette trèfle",
+      "USfr": "baguette trèfle",
+      "EUit": "bacchetta trifoglio",
+      "EUnl": "klaverstaf",
+      "CNzh": "三叶草棒",
+      "TWzh": "三葉草棒",
+      "JPja": "シャムロックステッキ",
+      "KRko": "성 패트릭 지팡이",
+      "EUru": "палочка с трилистником"
+    }
+  },
+  {
     "id": "CliffMaker_02543",
     "version": "1.0.0",
     "locale": {
@@ -1217,26 +1257,6 @@
       "JPja": "たかとびぼう",
       "KRko": "높이뛰기 장대",
       "EUru": "шест"
-    }
-  },
-  {
-    "id": "ChangeStick_13237",
-    "version": "1.5.0",
-    "locale": {
-      "USen": "spooky wand",
-      "EUen": "spooky wand",
-      "EUde": "Kürbisstab",
-      "EUes": "varita calabaza",
-      "USes": "varita calabaza",
-      "EUfr": "baguette Halloween",
-      "USfr": "baguette Halloween",
-      "EUit": "bacchetta brividi",
-      "EUnl": "pompoenstaf",
-      "CNzh": "万圣节棒",
-      "TWzh": "萬聖節棒",
-      "JPja": "ハロウィンなステッキ",
-      "KRko": "할로윈 지팡이",
-      "EUru": "жуткая палочка"
     }
   }
 ]

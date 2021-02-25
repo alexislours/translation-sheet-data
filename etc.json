@@ -1680,6 +1680,26 @@
     }
   },
   {
+    "id": "JuiceFuzzyapple_14028",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock soda",
+      "EUen": "shamrock soda",
+      "EUde": "Kleeblatt-Smoothie",
+      "EUes": "refresco trébol",
+      "USes": "refresco trébol",
+      "EUfr": "soda trèfle",
+      "USfr": "liqueur trèfle",
+      "EUit": "succo di trifoglio",
+      "EUnl": "glas klaverprikdrank",
+      "CNzh": "三叶草苏打水",
+      "TWzh": "三葉草汽水",
+      "JPja": "シャムロックソーダ",
+      "KRko": "성 패트릭 소다",
+      "EUru": "газировка «Трилистник»"
+    }
+  },
+  {
     "id": "LicenseItem_08773",
     "version": "1.0.0",
     "locale": {

@@ -5078,5 +5078,25 @@
       "KRko": "오로라 벽",
       "EUru": "стена с полярным сиянием"
     }
+  },
+  {
+    "id": "RoomWall_13805",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "mushroom mural",
+      "EUen": "mushroom mural",
+      "EUde": "Pilztapete",
+      "EUes": "pared champiñón",
+      "USes": "pared champiñón",
+      "EUfr": "mur Mario",
+      "USfr": "mur Mario",
+      "EUit": "muro dei funghi",
+      "EUnl": "Mario-wand",
+      "CNzh": "超级马力欧墙",
+      "TWzh": "超級瑪利歐牆",
+      "JPja": "スーパーマリオのかべ",
+      "KRko": "슈퍼 마리오 벽",
+      "EUru": "грибная стена"
+    }
   }
 ]

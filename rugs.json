@@ -1700,6 +1700,26 @@
     }
   },
   {
+    "id": "Rug_07547",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock rug",
+      "EUen": "shamrock rug",
+      "EUde": "Kleeblatttag-Teppich",
+      "EUes": "alfombra trébol",
+      "USes": "alfombra trébol",
+      "EUfr": "tapis trèfle",
+      "USfr": "tapis trèfle",
+      "EUit": "tappeto trifoglio",
+      "EUnl": "klavertapijt",
+      "CNzh": "三叶草地毯",
+      "TWzh": "三葉草地毯",
+      "JPja": "シャムロックのラグ",
+      "KRko": "성 패트릭 러그",
+      "EUru": "ковер-клевер"
+    }
+  },
+  {
     "id": "Rug_07578",
     "version": "1.0.0",
     "locale": {
@@ -2797,6 +2817,46 @@
       "JPja": "ひまわりのラグ",
       "KRko": "해바라기 러그",
       "EUru": "подсолнуховый ковер"
+    }
+  },
+  {
+    "id": "Rug_13872",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Yoshi's Egg rug",
+      "EUen": "Yoshi's Egg rug",
+      "EUde": "Yoshi-Ei-Teppich",
+      "EUes": "alfombra huevo de Yoshi",
+      "USes": "alfombra huevo de Yoshi",
+      "EUfr": "tapis œuf de Yoshi",
+      "USfr": "tapis œuf de Yoshi",
+      "EUit": "tappeto uovo di Yoshi",
+      "EUnl": "Yoshi's-eitapijt",
+      "CNzh": "耀西蛋地毯",
+      "TWzh": "耀西蛋地毯",
+      "JPja": "ヨッシーのタマゴのラグ",
+      "KRko": "요시의 알 러그",
+      "EUru": "ковер «Яйцо йоши»"
+    }
+  },
+  {
+    "id": "Rug_13873",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "Lakitu's Cloud rug",
+      "EUen": "Lakitu's Cloud rug",
+      "EUde": "Lakitus-Wolke-Teppich",
+      "EUes": "alfombra nube de Lakitu",
+      "USes": "alfombra nube de Lakitu",
+      "EUfr": "tapis nuage de Lakitu",
+      "USfr": "tapis nuage de Lakitou",
+      "EUit": "tappeto nuvola di Lakitu",
+      "EUnl": "Lakitu's-wolktapijt",
+      "CNzh": "球盖姆的云地毯",
+      "TWzh": "球蓋姆的雲地毯",
+      "JPja": "ジュゲムのくものラグ",
+      "KRko": "김수한무 구름 러그",
+      "EUru": "ковер «Облако лакиту»"
     }
   },
   {
