@@ -1250,7 +1250,7 @@
       "USes": "delantal antiguo",
       "EUfr": "robe tablier",
       "USfr": "robe tablier",
-      "EUit": "vestito grembiulone",
+      "EUit": "vestito con grembiulone",
       "EUnl": "schortjurk",
       "CNzh": "和风连袖围裙",
       "TWzh": "和風連袖圍裙",
@@ -1620,6 +1620,26 @@
     }
   },
   {
+    "id": 214,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "sequin dress",
+      "EUen": "sequin dress",
+      "EUde": "Paillettenkleid",
+      "EUes": "vestido de lentejuelas",
+      "USes": "vestido de lentejuelas",
+      "EUfr": "robe à sequins",
+      "USfr": "robe à sequins",
+      "EUit": "vestito con lustrini",
+      "EUnl": "jurk met pailletten",
+      "CNzh": "亮片连身裙",
+      "TWzh": "亮片連身裙",
+      "JPja": "スパンコールのワンピース",
+      "KRko": "스팽글 원피스",
+      "EUru": "платье с пайетками"
+    }
+  },
+  {
     "id": 215,
     "version": "1.0.0",
     "locale": {
@@ -1877,6 +1897,26 @@
       "JPja": "ボーダーワンピース",
       "KRko": "줄무늬 원피스",
       "EUru": "платье в полоску"
+    }
+  },
+  {
+    "id": 278,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "bubble-skirt party dress",
+      "EUen": "bubble-skirt party dress",
+      "EUde": "Cocktailkleid",
+      "EUes": "vestido de fiesta vistoso",
+      "USes": "vestido de fiesta vistoso",
+      "EUfr": "robe boule de soirée",
+      "USfr": "robe boule de soirée",
+      "EUit": "abito da sera vistoso",
+      "EUnl": "feestjurk met wijde rok",
+      "CNzh": "怀旧洋装",
+      "TWzh": "泡泡洋裝",
+      "JPja": "バブルドレス",
+      "KRko": "버블 드레스",
+      "EUru": "платье с юбкой-баллоном"
     }
   },
   {
@@ -2897,6 +2937,26 @@
       "JPja": "ラグビーのユニフォーム",
       "KRko": "럭비 유니폼",
       "EUru": "форма для регби"
+    }
+  },
+  {
+    "id": 455,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "slip dress",
+      "EUen": "slip dress",
+      "EUde": "Satin-Abendkleid",
+      "EUes": "vestido lencero",
+      "USes": "vestido largo satén",
+      "EUfr": "robe longue en satin",
+      "USfr": "robe longue en satin",
+      "EUit": "vestito di raso",
+      "EUnl": "cocktailjurk",
+      "CNzh": "吊带长裙",
+      "TWzh": "絲質洋裝",
+      "JPja": "スリップドレス",
+      "KRko": "슬립 원피스",
+      "EUru": "платье-комбинация"
     }
   },
   {
@@ -4793,7 +4853,7 @@
       "EUit": "smoking nuziale",
       "EUnl": "trouwsmoking",
       "CNzh": "纯白晚礼服",
-      "TWzh": "純白晚禮服",
+      "TWzh": "純白西裝禮服",
       "JPja": "じゅんぱくのタキシード",
       "KRko": "순백 턱시도",
       "EUru": "свадебный смокинг"
@@ -4960,6 +5020,26 @@
     }
   },
   {
+    "id": 1293,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi outfit",
+      "EUen": "Kerokerokeroppi outfit",
+      "EUde": "Kerokerokeroppi-Kostüm",
+      "EUes": "conjunto Kerokerokeroppi",
+      "USes": "conjunto Kerokerokeroppi",
+      "EUfr": "tenue Kerokerokeroppi",
+      "USfr": "tenue Kerokerokeroppi",
+      "EUit": "costume Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-kostuum",
+      "CNzh": "Kerokerokeroppi套装",
+      "TWzh": "Kerokerokeroppi套裝",
+      "JPja": "けろけろけろっぴなセットアップ",
+      "KRko": "케로케로케로피 의상",
+      "EUru": "наряд Kerokerokeroppi"
+    }
+  },
+  {
     "id": 1301,
     "version": "1.4.0",
     "locale": {
@@ -5000,6 +5080,26 @@
     }
   },
   {
+    "id": 1303,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty dress",
+      "EUen": "Hello Kitty dress",
+      "EUde": "Hello-Kitty-Kleid",
+      "EUes": "vestido Hello Kitty",
+      "USes": "vestido Hello Kitty",
+      "EUfr": "robe Hello Kitty",
+      "USfr": "robe Hello Kitty",
+      "EUit": "vestito Hello Kitty",
+      "EUnl": "Hello Kitty-jurk",
+      "CNzh": "Hello Kitty连身裙",
+      "TWzh": "Hello Kitty連身裙",
+      "JPja": "ハローキティなワンピース",
+      "KRko": "헬로키티 원피스",
+      "EUru": "платье Hello Kitty"
+    }
+  },
+  {
     "id": 1315,
     "version": "1.5.0",
     "locale": {
@@ -5017,6 +5117,46 @@
       "JPja": "まほうスクールのローブ",
       "KRko": "마법 학교 로브",
       "EUru": "наряд академии магов"
+    }
+  },
+  {
+    "id": 1316,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala dress",
+      "EUen": "Kiki & Lala dress",
+      "EUde": "Kiki-&-Lala-Kleid",
+      "EUes": "vestido Kiki & Lala",
+      "USes": "vestido Kiki & Lala",
+      "EUfr": "robe Kiki & Lala",
+      "USfr": "robe Kiki & Lala",
+      "EUit": "vestito Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-jurk",
+      "CNzh": "Kiki & Lala连身裙",
+      "TWzh": "Kiki & Lala連身裙",
+      "JPja": "キキ&ララなワンピース",
+      "KRko": "리틀트윈스타 원피스",
+      "EUru": "платье Kiki & Lala"
+    }
+  },
+  {
+    "id": 1317,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin outfit",
+      "EUen": "Pompompurin outfit",
+      "EUde": "Pompompurin-Ensemble",
+      "EUes": "conjunto Pompompurin",
+      "USes": "conjunto Pompompurin",
+      "EUfr": "tenue Pompompurin",
+      "USfr": "tenue Pompompurin",
+      "EUit": "completo Pompompurin",
+      "EUnl": "Pompompurin-kostuum",
+      "CNzh": "Pompompurin套装",
+      "TWzh": "Pompompurin套裝",
+      "JPja": "ポムポムプリンなセットアップ",
+      "KRko": "폼폼푸린 의상",
+      "EUru": "наряд Pompompurin"
     }
   },
   {
@@ -5100,6 +5240,26 @@
     }
   },
   {
+    "id": 1332,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody dress",
+      "EUen": "My Melody dress",
+      "EUde": "My-Melody-Kleid",
+      "EUes": "vestido My Melody",
+      "USes": "vestido My Melody",
+      "EUfr": "robe My Melody",
+      "USfr": "robe My Melody",
+      "EUit": "vestito My Melody",
+      "EUnl": "My Melody-jurk",
+      "CNzh": "My Melody连身裙",
+      "TWzh": "My Melody連身裙",
+      "JPja": "マイメロディなワンピース",
+      "KRko": "마이멜로디 원피스",
+      "EUru": "платье My Melody"
+    }
+  },
+  {
     "id": 1344,
     "version": "1.7.0",
     "locale": {
@@ -5137,6 +5297,26 @@
       "JPja": "シャムロックスーツ",
       "KRko": "성 패트릭 의상",
       "EUru": "наряд «Трилистник»"
+    }
+  },
+  {
+    "id": 1361,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "vibrant tuxedo",
+      "EUen": "vibrant tuxedo",
+      "EUde": "Lebhaft-Smoking",
+      "EUes": "esmoquin llamativo",
+      "USes": "esmoquin llamativo",
+      "EUfr": "smoking seyant",
+      "USfr": "smoking seyant",
+      "EUit": "smoking vivace",
+      "EUnl": "levendige smoking",
+      "CNzh": "彩色无尾礼服",
+      "TWzh": "彩色西裝禮服",
+      "JPja": "カラータキシード",
+      "KRko": "컬러 턱시도",
+      "EUru": "яркий смокинг"
     }
   }
 ]

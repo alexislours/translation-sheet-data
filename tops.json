@@ -791,7 +791,7 @@
       "EUfr": "veston en jean",
       "USfr": "veste en jean",
       "EUit": "gilet di jeans",
-      "EUnl": "mouwloos spijkerjasje",
+      "EUnl": "spijkerhesje",
       "CNzh": "牛仔背心",
       "TWzh": "牛仔背心",
       "JPja": "そでなしＧジャン",
@@ -1533,7 +1533,7 @@
       "EUit": "giacca dello smoking",
       "EUnl": "smokingjasje",
       "CNzh": "无尾礼服",
-      "TWzh": "晚禮服",
+      "TWzh": "西裝禮服",
       "JPja": "タキシード",
       "KRko": "턱시도",
       "EUru": "смокинг"
@@ -5837,6 +5837,146 @@
       "JPja": "たぬきかいはつアロハ・グリーン",
       "KRko": "Nook Inc. 알로하 그린",
       "EUru": "зеленая гавайка Nook Inc."
+    }
+  },
+  {
+    "id": 1280,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty tee",
+      "EUen": "Hello Kitty tee",
+      "EUde": "Hello-Kitty-Hemdchen",
+      "EUes": "camiseta Hello Kitty",
+      "USes": "camiseta Hello Kitty",
+      "EUfr": "t-shirt Hello Kitty",
+      "USfr": "t-shirt Hello Kitty",
+      "EUit": "maglietta Hello Kitty",
+      "EUnl": "⁠Hello Kitty-⁠T-shirt",
+      "CNzh": "Hello Kitty T恤",
+      "TWzh": "Hello Kitty T恤",
+      "JPja": "ハローキティなTシャツ",
+      "KRko": "헬로키티 티셔츠",
+      "EUru": "футболка Hello Kitty"
+    }
+  },
+  {
+    "id": 1285,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala tee",
+      "EUen": "Kiki & Lala tee",
+      "EUde": "Kiki-&-Lala-Shirt",
+      "EUes": "camiseta Kiki & Lala",
+      "USes": "camiseta Kiki & Lala",
+      "EUfr": "t-shirt Kiki & Lala",
+      "USfr": "t-shirt Kiki & Lala",
+      "EUit": "maglietta Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-⁠T-shirt",
+      "CNzh": "Kiki & Lala T恤",
+      "TWzh": "Kiki & LalaT恤",
+      "JPja": "キキ&ララなTシャツ",
+      "KRko": "리틀트윈스타 티셔츠",
+      "EUru": "футболка Kiki & Lala"
+    }
+  },
+  {
+    "id": 1289,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin tee",
+      "EUen": "Pompompurin tee",
+      "EUde": "Pompompurin-Shirt",
+      "EUes": "camiseta Pompompurin",
+      "USes": "camiseta Pompompurin",
+      "EUfr": "t-shirt Pompompurin",
+      "USfr": "t-shirt Pompompurin",
+      "EUit": "maglietta Pompompurin",
+      "EUnl": "⁠Pompompurin-⁠T-shirt",
+      "CNzh": "Pompompurin T恤",
+      "TWzh": "PompompurinT恤",
+      "JPja": "ポムポムプリンなTシャツ",
+      "KRko": "폼폼푸린 티셔츠",
+      "EUru": "футболка Pompompurin"
+    }
+  },
+  {
+    "id": 1291,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll jacket",
+      "EUen": "Cinnamoroll jacket",
+      "EUde": "Cinnamoroll-Jacke",
+      "EUes": "chaqueta Cinnamoroll",
+      "USes": "saco Cinnamoroll",
+      "EUfr": "veste Cinnamoroll",
+      "USfr": "manteau Cinnamoroll",
+      "EUit": "giacca Cinnamoroll",
+      "EUnl": "Cinnamoroll-⁠jasje",
+      "CNzh": "Cinnamoroll外套",
+      "TWzh": "Cinnamoroll外套",
+      "JPja": "シナモロールなジャケット",
+      "KRko": "시나모롤 재킷",
+      "EUru": "пиджак Cinnamoroll"
+    }
+  },
+  {
+    "id": 1294,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi tank top",
+      "EUen": "Kerokerokeroppi tank top",
+      "EUde": "Kerokerokeroppi-Top",
+      "EUes": "top Kerokerokeroppi",
+      "USes": "top Kerokerokeroppi",
+      "EUfr": "débardeur Kerokerokeroppi",
+      "USfr": "débardeur Kerokerokeroppi",
+      "EUit": "canotta Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-tanktop",
+      "CNzh": "Kerokerokeroppi无袖上衣",
+      "TWzh": "Kerokerokeroppi無袖上衣",
+      "JPja": "けろけろけろっぴなノースリーブ",
+      "KRko": "케로케로케로피 민소매 셔츠",
+      "EUru": "майка Kerokerokeroppi"
+    }
+  },
+  {
+    "id": 1305,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll puffy blouse",
+      "EUen": "Cinnamoroll puffy blouse",
+      "EUde": "Cinnamoroll-Puffärmelbluse",
+      "EUes": "blusa Cinnamoroll",
+      "USes": "blusa Cinnamoroll",
+      "EUfr": "chemisier Cinnamoroll",
+      "USfr": "blouse Cinnamoroll",
+      "EUit": "camicetta Cinnamoroll",
+      "EUnl": "Cinnamoroll-blouse",
+      "CNzh": "Cinnamoroll蓬蓬袖上衣",
+      "TWzh": "Cinnamoroll蓬蓬袖上衣",
+      "JPja": "シナモロールなパフブラウス",
+      "KRko": "시나모롤 퍼프 블라우스",
+      "EUru": "блузка Cinnamoroll"
+    }
+  },
+  {
+    "id": 1333,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody shirt",
+      "EUen": "My Melody shirt",
+      "EUde": "My-Melody-Bluse",
+      "EUes": "polo My Melody",
+      "USes": "camiseta polo My Melody",
+      "EUfr": "chemisette My Melody",
+      "USfr": "chemisette My Melody",
+      "EUit": "maglietta My Melody",
+      "EUnl": "My Melody-shirt",
+      "CNzh": "My Melody衬衫",
+      "TWzh": "My Melody襯衫",
+      "JPja": "マイメロディなシャツ",
+      "KRko": "마이멜로디 셔츠",
+      "EUru": "блузка My Melody"
     }
   }
 ]

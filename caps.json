@@ -3220,6 +3220,66 @@
     }
   },
   {
+    "id": 1279,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty hat",
+      "EUen": "Hello Kitty hat",
+      "EUde": "Hello-Kitty-Hut",
+      "EUes": "gorro Hello Kitty",
+      "USes": "gorro Hello Kitty",
+      "EUfr": "coiffe Hello Kitty",
+      "USfr": "coiffe Hello Kitty",
+      "EUit": "cappello Hello Kitty",
+      "EUnl": "Hello Kitty-muts",
+      "CNzh": "Hello Kitty帽子",
+      "TWzh": "Hello Kitty帽子",
+      "JPja": "ハローキティなぼうし",
+      "KRko": "헬로키티 모자",
+      "EUru": "шапочка Hello Kitty"
+    }
+  },
+  {
+    "id": 1284,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala pin",
+      "EUen": "Kiki & Lala pin",
+      "EUde": "Kiki-&-Lala-Pin",
+      "EUes": "clip Kiki & Lala",
+      "USes": "clip Kiki & Lala",
+      "EUfr": "barrette Kiki & Lala",
+      "USfr": "barrette Kiki & Lala",
+      "EUit": "fermaglio Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-speld",
+      "CNzh": "Kiki & Lala发饰",
+      "TWzh": "Kiki & Lala髮飾",
+      "JPja": "キキ&ララなかみかざり",
+      "KRko": "리틀트윈스타 머리 장식",
+      "EUru": "заколка Kiki & Lala"
+    }
+  },
+  {
+    "id": 1295,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi pin",
+      "EUen": "Kerokerokeroppi pin",
+      "EUde": "Keroppi-Spangen-Set",
+      "EUes": "clip Kerokerokeroppi",
+      "USes": "clip Kerokerokeroppi",
+      "EUfr": "barrette Kerokerokeroppi",
+      "USfr": "barrette Kerokerokeroppi",
+      "EUit": "set mollet. Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-speld",
+      "CNzh": "Kerokerokeroppi发饰",
+      "TWzh": "Kerokerokeroppi髮飾",
+      "JPja": "けろけろけろっぴなかみかざり",
+      "KRko": "케로케로케로피 머리 장식",
+      "EUru": "заколки Kerokerokeroppi"
+    }
+  },
+  {
     "id": 1318,
     "version": "1.8.0",
     "locale": {
@@ -3317,6 +3377,46 @@
       "JPja": "シャムロックハット",
       "KRko": "성 패트릭 모자",
       "EUru": "шляпа с трилистником"
+    }
+  },
+  {
+    "id": 1364,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "prom crown",
+      "EUen": "prom crown",
+      "EUde": "Abschlussball-Krone",
+      "EUes": "corona baile de fin de curso",
+      "USes": "corona baile de fin de curso",
+      "EUfr": "couronne bal de promo",
+      "USfr": "couronne bal des finissants",
+      "EUit": "corona ballo scolastico",
+      "EUnl": "galakroon",
+      "CNzh": "毕业舞会王冠",
+      "TWzh": "畢業舞會皇冠",
+      "JPja": "プロムなクラウン",
+      "KRko": "프롬 왕관",
+      "EUru": "корона к выпускному"
+    }
+  },
+  {
+    "id": 1365,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "prom tiara",
+      "EUen": "prom tiara",
+      "EUde": "Abschlussball-Diadem",
+      "EUes": "tiara baile de fin de curso",
+      "USes": "tiara baile de fin de curso",
+      "EUfr": "tiare bal de promo",
+      "USfr": "tiare bal des finissants",
+      "EUit": "tiara ballo scolastico",
+      "EUnl": "galatiara",
+      "CNzh": "毕业舞会后冠",
+      "TWzh": "畢業舞會后冠",
+      "JPja": "プロムなティアラ",
+      "KRko": "프롬 티아라",
+      "EUru": "тиара к выпускному"
     }
   }
 ]

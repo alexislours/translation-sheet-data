@@ -80,26 +80,6 @@
     }
   },
   {
-    "id": "Axe_12615",
-    "version": "1.2.0",
-    "locale": {
-      "USen": "worn axe",
-      "EUen": "worn axe",
-      "EUde": "Morschaxt",
-      "EUes": "hacha maltrecha",
-      "USes": "hacha maltrecha",
-      "EUfr": "hache émoussée",
-      "USfr": "hache émoussée",
-      "EUit": "ascia consumata",
-      "EUnl": "versleten bijl",
-      "CNzh": "快要坏掉的斧头",
-      "TWzh": "快壞掉的斧頭",
-      "JPja": "こわれかけのオノ",
-      "KRko": "튼튼하지 않은 도끼",
-      "EUru": "видавший виды топор"
-    }
-  },
-  {
     "id": "ChangeStick_02544",
     "version": "1.0.0",
     "locale": {
@@ -497,86 +477,6 @@
       "JPja": "おサカナのステッキ",
       "KRko": "물고기 지팡이",
       "EUru": "палочка с рыбой"
-    }
-  },
-  {
-    "id": "ChangeStick_12578",
-    "version": "1.1.0",
-    "locale": {
-      "USen": "Bunny Day wand",
-      "EUen": "Bunny Day wand",
-      "EUde": "Häschentag-Stab",
-      "EUes": "varita Caza del Huevo",
-      "USes": "varita Caza del Huevo",
-      "EUfr": "baguette fête des œufs",
-      "USfr": "baguette fête des œufs",
-      "EUit": "bacchetta caccia all'uovo",
-      "EUnl": "eierstaf",
-      "CNzh": "复活节棒",
-      "TWzh": "復活節棒",
-      "JPja": "イースターなステッキ",
-      "KRko": "이스터 지팡이",
-      "EUru": "палочка на День зайцев"
-    }
-  },
-  {
-    "id": "ChangeStick_12695",
-    "version": "1.2.0",
-    "locale": {
-      "USen": "wedding wand",
-      "EUen": "wedding wand",
-      "EUde": "Hochzeitsstab",
-      "EUes": "varita ramo de boda",
-      "USes": "varita ramo de boda",
-      "EUfr": "baguette de mariage",
-      "USfr": "baguette de mariage",
-      "EUit": "bacchetta nuziale",
-      "EUnl": "trouwstaf",
-      "CNzh": "婚礼棒",
-      "TWzh": "婚禮棒",
-      "JPja": "ウェディングなステッキ",
-      "KRko": "웨딩 지팡이",
-      "EUru": "свадебная палочка"
-    }
-  },
-  {
-    "id": "ChangeStick_13237",
-    "version": "1.5.0",
-    "locale": {
-      "USen": "spooky wand",
-      "EUen": "spooky wand",
-      "EUde": "Kürbisstab",
-      "EUes": "varita calabaza",
-      "USes": "varita calabaza",
-      "EUfr": "baguette Halloween",
-      "USfr": "baguette Halloween",
-      "EUit": "bacchetta brividi",
-      "EUnl": "pompoenstaf",
-      "CNzh": "万圣节棒",
-      "TWzh": "萬聖節棒",
-      "JPja": "ハロウィンなステッキ",
-      "KRko": "할로윈 지팡이",
-      "EUru": "жуткая палочка"
-    }
-  },
-  {
-    "id": "ChangeStick_14239",
-    "version": "1.8.0",
-    "locale": {
-      "USen": "shamrock wand",
-      "EUen": "shamrock wand",
-      "EUde": "Kleeblattstab",
-      "EUes": "varita trébol",
-      "USes": "varita trébol",
-      "EUfr": "baguette trèfle",
-      "USfr": "baguette trèfle",
-      "EUit": "bacchetta trifoglio",
-      "EUnl": "klaverstaf",
-      "CNzh": "三叶草棒",
-      "TWzh": "三葉草棒",
-      "JPja": "シャムロックステッキ",
-      "KRko": "성 패트릭 지팡이",
-      "EUru": "палочка с трилистником"
     }
   },
   {
@@ -1257,6 +1157,126 @@
       "JPja": "たかとびぼう",
       "KRko": "높이뛰기 장대",
       "EUru": "шест"
+    }
+  },
+  {
+    "id": "ChangeStick_12578",
+    "version": "1.1.0",
+    "locale": {
+      "USen": "Bunny Day wand",
+      "EUen": "Bunny Day wand",
+      "EUde": "Häschentag-Stab",
+      "EUes": "varita Caza del Huevo",
+      "USes": "varita Caza del Huevo",
+      "EUfr": "baguette fête des œufs",
+      "USfr": "baguette fête des œufs",
+      "EUit": "bacchetta caccia all'uovo",
+      "EUnl": "eierstaf",
+      "CNzh": "复活节棒",
+      "TWzh": "復活節棒",
+      "JPja": "イースターなステッキ",
+      "KRko": "이스터 지팡이",
+      "EUru": "палочка на День зайцев"
+    }
+  },
+  {
+    "id": "Axe_12615",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "worn axe",
+      "EUen": "worn axe",
+      "EUde": "Morschaxt",
+      "EUes": "hacha maltrecha",
+      "USes": "hacha maltrecha",
+      "EUfr": "hache émoussée",
+      "USfr": "hache émoussée",
+      "EUit": "ascia consumata",
+      "EUnl": "versleten bijl",
+      "CNzh": "快要坏掉的斧头",
+      "TWzh": "快壞掉的斧頭",
+      "JPja": "こわれかけのオノ",
+      "KRko": "튼튼하지 않은 도끼",
+      "EUru": "видавший виды топор"
+    }
+  },
+  {
+    "id": "ChangeStick_12695",
+    "version": "1.2.0",
+    "locale": {
+      "USen": "wedding wand",
+      "EUen": "wedding wand",
+      "EUde": "Hochzeitsstab",
+      "EUes": "varita ramo de boda",
+      "USes": "varita ramo de boda",
+      "EUfr": "baguette de mariage",
+      "USfr": "baguette de mariage",
+      "EUit": "bacchetta nuziale",
+      "EUnl": "trouwstaf",
+      "CNzh": "婚礼棒",
+      "TWzh": "婚禮棒",
+      "JPja": "ウェディングなステッキ",
+      "KRko": "웨딩 지팡이",
+      "EUru": "свадебная палочка"
+    }
+  },
+  {
+    "id": "ChangeStick_13237",
+    "version": "1.5.0",
+    "locale": {
+      "USen": "spooky wand",
+      "EUen": "spooky wand",
+      "EUde": "Kürbisstab",
+      "EUes": "varita calabaza",
+      "USes": "varita calabaza",
+      "EUfr": "baguette Halloween",
+      "USfr": "baguette Halloween",
+      "EUit": "bacchetta brividi",
+      "EUnl": "pompoenstaf",
+      "CNzh": "万圣节棒",
+      "TWzh": "萬聖節棒",
+      "JPja": "ハロウィンなステッキ",
+      "KRko": "할로윈 지팡이",
+      "EUru": "жуткая палочка"
+    }
+  },
+  {
+    "id": "ChangeStick_14239",
+    "version": "1.8.0",
+    "locale": {
+      "USen": "shamrock wand",
+      "EUen": "shamrock wand",
+      "EUde": "Kleeblattstab",
+      "EUes": "varita trébol",
+      "USes": "varita trébol",
+      "EUfr": "baguette trèfle",
+      "USfr": "baguette trèfle",
+      "EUit": "bacchetta trifoglio",
+      "EUnl": "klaverstaf",
+      "CNzh": "三叶草棒",
+      "TWzh": "三葉草棒",
+      "JPja": "シャムロックステッキ",
+      "KRko": "성 패트릭 지팡이",
+      "EUru": "палочка с трилистником"
+    }
+  },
+  {
+    "id": "ChangeStick_13173",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala wand",
+      "EUen": "Kiki & Lala wand",
+      "EUde": "Kiki-&-Lala-Stab",
+      "EUes": "varita Kiki & Lala",
+      "USes": "varita Kiki & Lala",
+      "EUfr": "baguette Kiki & Lala",
+      "USfr": "baguette Kiki & Lala",
+      "EUit": "bacchetta Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-staf",
+      "CNzh": "Kiki & Lala棒",
+      "TWzh": "Kiki & Lala棒",
+      "JPja": "キキ&ララなステッキ",
+      "KRko": "리틀트윈스타 지팡이",
+      "EUru": "палочка Kiki & Lala"
     }
   }
 ]

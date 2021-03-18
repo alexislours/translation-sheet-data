@@ -1820,6 +1820,126 @@
     }
   },
   {
+    "id": 1281,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty shoes",
+      "EUen": "Hello Kitty shoes",
+      "EUde": "Paar Hello-Kitty-Schuhe",
+      "EUes": "mercedita Hello Kitty",
+      "USes": "zapato hebilla Hello Kitty",
+      "EUfr": "p. de chaussures Hello Kitty",
+      "USfr": "p. de souliers Hello Kitty",
+      "EUit": "paio di scarpe Hello Kitty",
+      "EUnl": "Hello Kitty-ballerina's",
+      "CNzh": "Hello Kitty鞋",
+      "TWzh": "Hello Kitty鞋",
+      "JPja": "ハローキティなくつ",
+      "KRko": "헬로키티 구두",
+      "EUru": "туфли Hello Kitty"
+    }
+  },
+  {
+    "id": 1283,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody boots",
+      "EUen": "My Melody boots",
+      "EUde": "Paar My-Melody-Schuhe",
+      "EUes": "bota My Melody",
+      "USes": "bota My Melody",
+      "EUfr": "paire de bottes My Melody",
+      "USfr": "p. de bottes My Melody",
+      "EUit": "paio di stivali My Melody",
+      "EUnl": "My Melody-ballerina's",
+      "CNzh": "My Melody靴子",
+      "TWzh": "My Melody靴子",
+      "JPja": "マイメロディなブーツ",
+      "KRko": "마이멜로디 부츠",
+      "EUru": "унты My Melody"
+    }
+  },
+  {
+    "id": 1287,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala shoes",
+      "EUen": "Kiki & Lala shoes",
+      "EUde": "Paar Kiki-&-Lala-Schuhe",
+      "EUes": "mercedita Kiki & Lala",
+      "USes": "zapato hebilla Kiki & Lala",
+      "EUfr": "p. d'escarpins Kiki & Lala",
+      "USfr": "p. d'escarpins Kiki & Lala",
+      "EUit": "paio di scarpe Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-ballerina's",
+      "CNzh": "Kiki & Lala扣带鞋",
+      "TWzh": "Kiki & Lala扣帶鞋",
+      "JPja": "キキ&ララなストラップシューズ",
+      "KRko": "리틀트윈스타 스트랩 슈즈",
+      "EUru": "туфли Kiki & Lala"
+    }
+  },
+  {
+    "id": 1290,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin boots",
+      "EUen": "Pompompurin boots",
+      "EUde": "Paar Pompompurin-Schuhe",
+      "EUes": "botín Pompompurin",
+      "USes": "botín Pompompurin",
+      "EUfr": "p. de bottes Pompompurin",
+      "USfr": "p. de bottes Pompompurin",
+      "EUit": "paio di stivali Pompompurin",
+      "EUnl": "Pompompurin-schoenen",
+      "CNzh": "Pompompurin靴子",
+      "TWzh": "Pompompurin靴子",
+      "JPja": "ポムポムプリンなブーツ",
+      "KRko": "폼폼푸린 부츠",
+      "EUru": "полусапоги Pompompurin"
+    }
+  },
+  {
+    "id": 1292,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll sneakers",
+      "EUen": "Cinnamoroll sneakers",
+      "EUde": "Paar Cinnamoroll-Sneaker",
+      "EUes": "zapatilla Cinnamoroll",
+      "USes": "tenis Cinnamoroll",
+      "EUfr": "p. de baskets Cinnamoroll",
+      "USfr": "p. d'espadrilles Cinnamoroll",
+      "EUit": "paio di sneaker Cinnamoroll",
+      "EUnl": "Cinnamoroll-sneakers",
+      "CNzh": "Cinnamoroll运动鞋",
+      "TWzh": "Cinnamoroll運動鞋",
+      "JPja": "シナモロールなスニーカー",
+      "KRko": "시나모롤 스니커",
+      "EUru": "полукеды Cinnamoroll"
+    }
+  },
+  {
+    "id": 1297,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi boots",
+      "EUen": "Kerokerokeroppi boots",
+      "EUde": "Paar Keroppi-Stiefel",
+      "EUes": "bota Kerokerokeroppi",
+      "USes": "bota Kerokerokeroppi",
+      "EUfr": "p. bottes Kerokerokeroppi",
+      "USfr": "p. bottes Kerokerokeroppi",
+      "EUit": "paio stivali Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-laarzen",
+      "CNzh": "Kerokerokeroppi靴子",
+      "TWzh": "Kerokerokeroppi靴子",
+      "JPja": "けろけろけろっぴなブーツ",
+      "KRko": "케로케로케로피 부츠",
+      "EUru": "сапоги Kerokerokeroppi"
+    }
+  },
+  {
     "id": 1327,
     "version": "1.8.0",
     "locale": {
@@ -1917,6 +2037,26 @@
       "JPja": "ルイージのくつ",
       "KRko": "루이지 신발",
       "EUru": "ботинки Луиджи"
+    }
+  },
+  {
+    "id": 1363,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "dance shoes",
+      "EUen": "dance shoes",
+      "EUde": "Paar Tanzschuhe",
+      "EUes": "zapato baile de fin de curso",
+      "USes": "zapato baile de fin de curso",
+      "EUfr": "p. de chaussures de danse",
+      "USfr": "p. de souliers de danse",
+      "EUit": "paio di scarpe da ballo",
+      "EUnl": "dansschoenen",
+      "CNzh": "舞鞋",
+      "TWzh": "舞鞋",
+      "JPja": "ダンスシューズ",
+      "KRko": "댄스 슈즈",
+      "EUru": "танцевальные туфли"
     }
   }
 ]

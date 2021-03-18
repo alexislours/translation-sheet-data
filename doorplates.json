@@ -938,5 +938,25 @@
       "KRko": "춘절 복 장식",
       "EUru": "узор (лунный Новый год)"
     }
+  },
+  {
+    "id": "DoorDeco_14250",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Nook Inc. doorplate",
+      "EUen": "Nook Inc. doorplate",
+      "EUde": "Nook-Inc.-Türschild",
+      "EUes": "placa Nook Inc.",
+      "USes": "placa Nook Inc.",
+      "EUfr": "plaque Nook Inc.",
+      "USfr": "plaque Nook Inc.",
+      "EUit": "targa da porta Nook Inc.",
+      "EUnl": "Nook Inc.-deurplaatje",
+      "CNzh": "Nook Inc.门牌",
+      "TWzh": "Nook Inc.門牌",
+      "JPja": "たぬきかいはつのドアプレート",
+      "KRko": "Nook Inc. 문패",
+      "EUru": "табличка Nook Inc."
+    }
   }
 ]

@@ -2471,7 +2471,7 @@
       "EUfr": "mur mosaïque turquoise",
       "USfr": "mur mosaïque turquoise",
       "EUit": "muro piastrelle turchesi",
-      "EUnl": "turkooise tegelwand",
+      "EUnl": "turquoise tegelwand",
       "CNzh": "水蓝色砖墙",
       "TWzh": "水藍色磚牆",
       "JPja": "みずいろタイルのかべ",
@@ -4760,6 +4760,126 @@
     }
   },
   {
+    "id": "RoomWall_10171",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty wall",
+      "EUen": "Hello Kitty wall",
+      "EUde": "Hello-Kitty-Tapete",
+      "EUes": "pared Hello Kitty",
+      "USes": "pared Hello Kitty",
+      "EUfr": "mur Hello Kitty",
+      "USfr": "mur Hello Kitty",
+      "EUit": "muro Hello Kitty",
+      "EUnl": "Hello Kitty-wand",
+      "CNzh": "Hello Kitty墙",
+      "TWzh": "Hello Kitty牆",
+      "JPja": "ハローキティなかべ",
+      "KRko": "헬로키티 벽",
+      "EUru": "стена Hello Kitty"
+    }
+  },
+  {
+    "id": "RoomWall_10172",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll wall",
+      "EUen": "Cinnamoroll wall",
+      "EUde": "Cinnamoroll-Tapete",
+      "EUes": "pared Cinnamoroll",
+      "USes": "pared Cinnamoroll",
+      "EUfr": "mur Cinnamoroll",
+      "USfr": "mur Cinnamoroll",
+      "EUit": "muro Cinnamoroll",
+      "EUnl": "Cinnamoroll-wand",
+      "CNzh": "Cinnamoroll墙",
+      "TWzh": "Cinnamoroll牆",
+      "JPja": "シナモロールなかべ",
+      "KRko": "시나모롤 벽",
+      "EUru": "стена Cinnamoroll"
+    }
+  },
+  {
+    "id": "RoomWall_10173",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody wall",
+      "EUen": "My Melody wall",
+      "EUde": "My-Melody-Tapete",
+      "EUes": "pared My Melody",
+      "USes": "pared My Melody",
+      "EUfr": "mur My Melody",
+      "USfr": "mur My Melody",
+      "EUit": "muro My Melody",
+      "EUnl": "My Melody-wand",
+      "CNzh": "My Melody墙",
+      "TWzh": "My Melody牆",
+      "JPja": "マイメロディなかべ",
+      "KRko": "마이멜로디 벽",
+      "EUru": "стена My Melody"
+    }
+  },
+  {
+    "id": "RoomWall_10174",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin wall",
+      "EUen": "Pompompurin wall",
+      "EUde": "Pompompurin-Tapete",
+      "EUes": "pared Pompompurin",
+      "USes": "pared Pompompurin",
+      "EUfr": "mur Pompompurin",
+      "USfr": "mur Pompompurin",
+      "EUit": "muro Pompompurin",
+      "EUnl": "Pompompurin-wand",
+      "CNzh": "Pompompurin墙",
+      "TWzh": "Pompompurin牆",
+      "JPja": "ポムポムプリンなかべ",
+      "KRko": "폼폼푸린 벽",
+      "EUru": "стена Pompompurin"
+    }
+  },
+  {
+    "id": "RoomWall_10175",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi wall",
+      "EUen": "Kerokerokeroppi wall",
+      "EUde": "Kerokerokeroppi-Wand",
+      "EUes": "pared Kerokerokeroppi",
+      "USes": "pared Kerokerokeroppi",
+      "EUfr": "mur Kerokerokeroppi",
+      "USfr": "mur Kerokerokeroppi",
+      "EUit": "muro Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-wand",
+      "CNzh": "Kerokerokeroppi墙",
+      "TWzh": "Kerokerokeroppi牆",
+      "JPja": "けろけろけろっぴなかべ",
+      "KRko": "케로케로케로피 벽",
+      "EUru": "стена Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "RoomWall_10176",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala wall",
+      "EUen": "Kiki & Lala wall",
+      "EUde": "Kiki-&-Lala-Tapete",
+      "EUes": "pared Kiki & Lala",
+      "USes": "pared Kiki & Lala",
+      "EUfr": "mur Kiki & Lala",
+      "USfr": "mur Kiki & Lala",
+      "EUit": "muro Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-wand",
+      "CNzh": "Kiki & Lala墙",
+      "TWzh": "Kiki & Lala牆",
+      "JPja": "キキ&ララなかべ",
+      "KRko": "리틀트윈스타 벽",
+      "EUru": "стена Kiki & Lala"
+    }
+  },
+  {
     "id": "RoomWall_11176",
     "version": "1.0.0",
     "locale": {
@@ -5097,6 +5217,26 @@
       "JPja": "スーパーマリオのかべ",
       "KRko": "슈퍼 마리오 벽",
       "EUru": "грибная стена"
+    }
+  },
+  {
+    "id": "RoomWall_14252",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "prom wall",
+      "EUen": "prom wall",
+      "EUde": "Abschlussball-Tapete",
+      "EUes": "pared baile de fin de curso",
+      "USes": "pared baile de fin de curso",
+      "EUfr": "mur bal de promo",
+      "USfr": "mur bal des finissants",
+      "EUit": "muro ballo scolastico",
+      "EUnl": "galawand",
+      "CNzh": "毕业舞会墙",
+      "TWzh": "畢業舞會牆",
+      "JPja": "プロムのかべ",
+      "KRko": "프롬 벽",
+      "EUru": "стена «Выпускной вечер»"
     }
   }
 ]

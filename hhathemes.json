@@ -103,20 +103,20 @@
     "id": 6,
     "version": "1.0.0",
     "locale": {
-      "USen": "zen",
-      "EUen": "zen",
+      "USen": "imperial",
+      "EUen": "imperial",
       "EUde": "Asiatisch",
       "EUes": "dinastía",
       "USes": "dinastía",
       "EUfr": "impériale",
       "USfr": "impériale",
       "EUit": "dinastia",
-      "EUnl": "zenstijl",
+      "EUnl": "keizerlijke stijl",
       "CNzh": "东方风",
       "TWzh": "東方風",
       "JPja": "オリエンタル",
       "KRko": "오리엔탈",
-      "EUru": "Дзен"
+      "EUru": "Азия"
     }
   },
   {
@@ -637,6 +637,126 @@
       "JPja": "マリオ",
       "KRko": "마리오",
       "EUru": "Марио"
+    }
+  },
+  {
+    "id": 35,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty",
+      "EUen": "Hello Kitty",
+      "EUde": "Hello Kitty",
+      "EUes": "Hello Kitty",
+      "USes": "Hello Kitty",
+      "EUfr": "Hello Kitty",
+      "USfr": "Hello Kitty",
+      "EUit": "Hello Kitty",
+      "EUnl": "Hello Kitty",
+      "CNzh": "Hello Kitty",
+      "TWzh": "Hello Kitty",
+      "JPja": "ハローキティ",
+      "KRko": "헬로키티",
+      "EUru": "Hello Kitty"
+    }
+  },
+  {
+    "id": 36,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin",
+      "EUen": "Pompompurin",
+      "EUde": "Pompompurin",
+      "EUes": "Pompompurin",
+      "USes": "Pompompurin",
+      "EUfr": "Pompompurin",
+      "USfr": "Pompompurin",
+      "EUit": "Pompompurin",
+      "EUnl": "Pompompurin",
+      "CNzh": "Pompompurin",
+      "TWzh": "Pompompurin",
+      "JPja": "ポムポムプリン",
+      "KRko": "폼폼푸린",
+      "EUru": "Pompompurin"
+    }
+  },
+  {
+    "id": 37,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala",
+      "EUen": "Kiki & Lala",
+      "EUde": "Kiki & Lala",
+      "EUes": "Kiki & Lala",
+      "USes": "Kiki & Lala",
+      "EUfr": "Kiki & Lala",
+      "USfr": "Kiki & Lala",
+      "EUit": "Kiki & Lala",
+      "EUnl": "Kiki & Lala",
+      "CNzh": "Kiki & Lala",
+      "TWzh": "Kiki & Lala",
+      "JPja": "キキ&ララ",
+      "KRko": "리틀트윈스타",
+      "EUru": "Kiki & Lala"
+    }
+  },
+  {
+    "id": 38,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll",
+      "EUen": "Cinnamoroll",
+      "EUde": "Cinnamoroll",
+      "EUes": "Cinnamoroll",
+      "USes": "Cinnamoroll",
+      "EUfr": "Cinnamoroll",
+      "USfr": "Cinnamoroll",
+      "EUit": "Cinnamoroll",
+      "EUnl": "Cinnamoroll",
+      "CNzh": "Cinnamoroll",
+      "TWzh": "Cinnamoroll",
+      "JPja": "シナモロール",
+      "KRko": "시나모롤",
+      "EUru": "Cinnamoroll"
+    }
+  },
+  {
+    "id": 39,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody",
+      "EUen": "My Melody",
+      "EUde": "My Melody",
+      "EUes": "My Melody",
+      "USes": "My Melody",
+      "EUfr": "My Melody",
+      "USfr": "My Melody",
+      "EUit": "My Melody",
+      "EUnl": "My Melody",
+      "CNzh": "My Melody",
+      "TWzh": "My Melody",
+      "JPja": "マイメロディ",
+      "KRko": "마이멜로디",
+      "EUru": "My Melody"
+    }
+  },
+  {
+    "id": 40,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi",
+      "EUen": "Kerokerokeroppi",
+      "EUde": "Keroppi",
+      "EUes": "Kerokerokeroppi",
+      "USes": "Kerokerokeroppi",
+      "EUfr": "Kerokerokeroppi",
+      "USfr": "Kerokerokeroppi",
+      "EUit": "Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi",
+      "CNzh": "Kerokerokeroppi",
+      "TWzh": "Kerokerokeroppi",
+      "JPja": "けろけろけろっぴ",
+      "KRko": "케로케로케로피",
+      "EUru": "Kerokerokeroppi"
     }
   }
 ]

@@ -1340,6 +1340,66 @@
     }
   },
   {
+    "id": 1282,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody hood",
+      "EUen": "My Melody hood",
+      "EUde": "My-Melody-Kapuze",
+      "EUes": "capucha My Melody",
+      "USes": "capucha My Melody",
+      "EUfr": "capuche My Melody",
+      "USfr": "capuchon My Melody",
+      "EUit": "cappuccio My Melody",
+      "EUnl": "My Melody-kap",
+      "CNzh": "My Melody头巾",
+      "TWzh": "My Melody頭巾",
+      "JPja": "マイメロディなずきん",
+      "KRko": "마이멜로디 두건",
+      "EUru": "капюшон My Melody"
+    }
+  },
+  {
+    "id": 1288,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin hat",
+      "EUen": "Pompompurin hat",
+      "EUde": "Pompompurin-Hut",
+      "EUes": "gorro Pompompurin",
+      "USes": "gorro Pompompurin",
+      "EUfr": "perruque Pompompurin",
+      "USfr": "perruque Pompompurin",
+      "EUit": "cappello Pompompurin",
+      "EUnl": "Pompompurin-pruik",
+      "CNzh": "Pompompurin头",
+      "TWzh": "Pompompurin頭",
+      "JPja": "ポムポムプリンなあたま",
+      "KRko": "폼폼푸린 머리",
+      "EUru": "берет Pompompurin"
+    }
+  },
+  {
+    "id": 1304,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll hat",
+      "EUen": "Cinnamoroll hat",
+      "EUde": "Cinnamoroll-Hut",
+      "EUes": "gorro Cinnamoroll",
+      "USes": "gorro Cinnamoroll",
+      "EUfr": "chapeau Cinnamoroll",
+      "USfr": "chapeau Cinnamoroll",
+      "EUit": "cappello Cinnamoroll",
+      "EUnl": "Cinnamoroll-muts",
+      "CNzh": "Cinnamoroll帽子",
+      "TWzh": "Cinnamoroll帽子",
+      "JPja": "シナモロールなぼうし",
+      "KRko": "시나모롤 모자",
+      "EUru": "шапочка Cinnamoroll"
+    }
+  },
+  {
     "id": 1343,
     "version": "1.7.0",
     "locale": {

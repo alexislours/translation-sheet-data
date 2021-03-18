@@ -9952,5 +9952,299 @@
       "KRko": "브라운",
       "EUru": "Коричневый"
     }
+  },
+  {
+    "id": 1281,
+    "cloth_name": "Hello Kitty shoes",
+    "variant_id": "1281_Shoes_13167",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "ホワイト",
+      "KRko": "화이트",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1283,
+    "cloth_name": "My Melody boots",
+    "variant_id": "1283_Shoes_13169",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1287,
+    "cloth_name": "Kiki & Lala shoes",
+    "variant_id": "1287_Shoes_13174",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1290,
+    "cloth_name": "Pompompurin boots",
+    "variant_id": "1290_Shoes_13177",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": 1292,
+    "cloth_name": "Cinnamoroll sneakers",
+    "variant_id": "1292_Shoes_13179",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": 1297,
+    "cloth_name": "Kerokerokeroppi boots",
+    "variant_id": "1297_Shoes_13184",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14263",
+    "locale": {
+      "USen": "Black",
+      "EUen": "Black",
+      "EUde": "Schwarz",
+      "EUes": "Negro",
+      "USes": "Negro",
+      "EUfr": "Noir",
+      "USfr": "Noir",
+      "EUit": "Nero",
+      "EUnl": "Zwart",
+      "CNzh": "黑色",
+      "TWzh": "黑色",
+      "JPja": "ブラック",
+      "KRko": "블랙",
+      "EUru": "Черный"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14381",
+    "locale": {
+      "USen": "Gold",
+      "EUen": "Gold",
+      "EUde": "Gold",
+      "EUes": "Dorado",
+      "USes": "Dorado",
+      "EUfr": "Or",
+      "USfr": "Or",
+      "EUit": "Dorato",
+      "EUnl": "Goud",
+      "CNzh": "金色",
+      "TWzh": "金色",
+      "JPja": "ゴールド",
+      "KRko": "골드",
+      "EUru": "Золотой"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14382",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14383",
+    "locale": {
+      "USen": "Silver",
+      "EUen": "Silver",
+      "EUde": "Silber",
+      "EUes": "Plateado",
+      "USes": "Plateado",
+      "EUfr": "Argent",
+      "USfr": "Argent",
+      "EUit": "Argentato",
+      "EUnl": "Zilver",
+      "CNzh": "银色",
+      "TWzh": "銀色",
+      "JPja": "シルバー",
+      "KRko": "실버",
+      "EUru": "Серебряный"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14384",
+    "locale": {
+      "USen": "Blue",
+      "EUen": "Blue",
+      "EUde": "Blau",
+      "EUes": "Azul",
+      "USes": "Azul",
+      "EUfr": "Bleu",
+      "USfr": "Bleu",
+      "EUit": "Blu",
+      "EUnl": "Blauw",
+      "CNzh": "蓝色",
+      "TWzh": "藍色",
+      "JPja": "ブルー",
+      "KRko": "블루",
+      "EUru": "Синий"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14385",
+    "locale": {
+      "USen": "Pink",
+      "EUen": "Pink",
+      "EUde": "Rosa",
+      "EUes": "Rosa",
+      "USes": "Rosa",
+      "EUfr": "Rose",
+      "USfr": "Rose",
+      "EUit": "Rosa",
+      "EUnl": "Roze",
+      "CNzh": "粉红",
+      "TWzh": "粉紅色",
+      "JPja": "ピンク",
+      "KRko": "핑크",
+      "EUru": "Розовый"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14386",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1363,
+    "cloth_name": "dance shoes",
+    "variant_id": "1363_Shoes_14387",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
   }
 ]

@@ -8921,7 +8921,7 @@
   },
   {
     "id": "Poster_11121",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "locale": {
       "USen": "Hello Kitty poster",
       "EUen": "Hello Kitty poster",
@@ -8932,7 +8932,7 @@
       "USfr": "poster de Hello Kitty",
       "EUit": "poster di Hello Kitty",
       "EUnl": "poster van Hello Kitty",
-      "CNzh": "凯蒂猫的海报",
+      "CNzh": "Hello Kitty的海报",
       "TWzh": "Hello Kitty的海報",
       "JPja": "ハローキティなポスター",
       "KRko": "헬로키티 포스터",
@@ -8941,7 +8941,7 @@
   },
   {
     "id": "Poster_11122",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "locale": {
       "USen": "Pompompurin poster",
       "EUen": "Pompompurin poster",
@@ -8952,8 +8952,8 @@
       "USfr": "poster de Pompompurin",
       "EUit": "poster di Pompompurin",
       "EUnl": "poster van Pompompurin",
-      "CNzh": "布丁狗的海报",
-      "TWzh": "布丁狗的海報",
+      "CNzh": "Pompompurin的海报",
+      "TWzh": "Pompompurin的海報",
       "JPja": "ポムポムプリンなポスター",
       "KRko": "폼폼푸린 포스터",
       "EUru": "постер Pompompurin"
@@ -8961,7 +8961,7 @@
   },
   {
     "id": "Poster_11123",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "locale": {
       "USen": "Kiki & Lala poster",
       "EUen": "Kiki & Lala poster",
@@ -8970,18 +8970,18 @@
       "USes": "póster de Kiki & Lala",
       "EUfr": "poster de Kiki & Lala",
       "USfr": "poster de Kiki & Lala",
-      "EUit": "poster di Kiki and Lala",
+      "EUit": "poster di Kiki & Lala",
       "EUnl": "poster van Kiki & Lala",
-      "CNzh": "双星仙子的海报",
-      "TWzh": "雙星仙子的海報",
+      "CNzh": "Kiki & Lala的海报",
+      "TWzh": "Kiki & Lala的海報",
       "JPja": "キキ&ララなポスター",
-      "KRko": "리틀 트윈 스타 포스터",
+      "KRko": "리틀트윈스타 포스터",
       "EUru": "постер Kiki & Lala"
     }
   },
   {
     "id": "Poster_11124",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "locale": {
       "USen": "Cinnamoroll poster",
       "EUen": "Cinnamoroll poster",
@@ -8992,8 +8992,8 @@
       "USfr": "poster de Cinnamoroll",
       "EUit": "poster di Cinnamoroll",
       "EUnl": "poster van Cinnamoroll",
-      "CNzh": "大耳狗宝贝喜拿的海报",
-      "TWzh": "大耳狗喜拿的海報",
+      "CNzh": "Cinnamoroll的海报",
+      "TWzh": "Cinnamoroll的海報",
       "JPja": "シナモロールなポスター",
       "KRko": "시나모롤 포스터",
       "EUru": "постер Cinnamoroll"
@@ -9001,7 +9001,7 @@
   },
   {
     "id": "Poster_11125",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "locale": {
       "USen": "My Melody poster",
       "EUen": "My Melody poster",
@@ -9012,31 +9012,151 @@
       "USfr": "poster de My Melody",
       "EUit": "poster di My Melody",
       "EUnl": "poster van My Melody",
-      "CNzh": "美乐蒂的海报",
-      "TWzh": "美樂蒂的海報",
+      "CNzh": "My Melody的海报",
+      "TWzh": "My Melody的海報",
       "JPja": "マイメロディなポスター",
-      "KRko": "마이 멜로디 포스터",
+      "KRko": "마이멜로디 포스터",
       "EUru": "постер My Melody"
     }
   },
   {
     "id": "Poster_11126",
-    "version": "1.0.0",
+    "version": "1.9.0",
     "locale": {
       "USen": "Kerokerokeroppi poster",
       "EUen": "Kerokerokeroppi poster",
-      "EUde": "Teich-Poster",
+      "EUde": "Kerokerokeroppi-Poster",
       "EUes": "póster de Kerokerokeroppi",
       "USes": "póster de Kerokerokeroppi",
       "EUfr": "poster de Kerokerokeroppi",
       "USfr": "poster de Kerokerokeroppi",
       "EUit": "poster di Kerokerokeroppi",
-      "EUnl": "poster van Keroppi",
-      "CNzh": "大眼蛙的海报",
-      "TWzh": "大眼蛙的海報",
+      "EUnl": "poster van Kerokerokeroppi",
+      "CNzh": "Kerokerokeroppi的海报",
+      "TWzh": "Kerokerokeroppi的海報",
       "JPja": "けろけろけろっぴなポスター",
       "KRko": "케로케로케로피 포스터",
       "EUru": "постер Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Poster_13033",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Rilla's poster",
+      "EUen": "Rilla's poster",
+      "EUde": "Poster von Rilla",
+      "EUes": "póster de Rila",
+      "USes": "póster de Rila",
+      "EUfr": "poster de Rilla",
+      "USfr": "poster de Rilla",
+      "EUit": "poster di Rilla",
+      "EUnl": "poster van Rilla",
+      "CNzh": "莉拉的海报",
+      "TWzh": "莉拉的海報",
+      "JPja": "リラのポスター",
+      "KRko": "릴라의 포스터",
+      "EUru": "постер Риллы"
+    }
+  },
+  {
+    "id": "Poster_13034",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Marty's poster",
+      "EUen": "Marty's poster",
+      "EUde": "Poster von Marty",
+      "EUes": "póster de Marty",
+      "USes": "póster de Marty",
+      "EUfr": "poster de Marty",
+      "USfr": "poster de Marty",
+      "EUit": "poster di Marty",
+      "EUnl": "poster van Marty",
+      "CNzh": "玛丁的海报",
+      "TWzh": "瑪丁的海報",
+      "JPja": "マーティーのポスター",
+      "KRko": "마티의 포스터",
+      "EUru": "постер Марти"
+    }
+  },
+  {
+    "id": "Poster_13035",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Étoile's poster",
+      "EUen": "Étoile's poster",
+      "EUde": "Poster von Etoile",
+      "EUes": "póster de Etoile",
+      "USes": "póster de Etoile",
+      "EUfr": "poster d'Étoile",
+      "USfr": "poster d'Étoile",
+      "EUit": "poster di Étoile",
+      "EUnl": "poster van Étoile",
+      "CNzh": "彩星的海报",
+      "TWzh": "彩星的海報",
+      "JPja": "エトワールのポスター",
+      "KRko": "에뜨와르의 포스터",
+      "EUru": "постер Этуаль"
+    }
+  },
+  {
+    "id": "Poster_13036",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Chai's poster",
+      "EUen": "Chai's poster",
+      "EUde": "Poster von Chai",
+      "EUes": "póster de Chai",
+      "USes": "póster de Chai",
+      "EUfr": "poster de Chaï",
+      "USfr": "poster de Chaï",
+      "EUit": "poster di Chai",
+      "EUnl": "poster van Chai",
+      "CNzh": "啡卡的海报",
+      "TWzh": "啡卡的海報",
+      "JPja": "フィーカのポスター",
+      "KRko": "피카의 포스터",
+      "EUru": "постер Чай"
+    }
+  },
+  {
+    "id": "Poster_13037",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Chelsea's poster",
+      "EUen": "Chelsea's poster",
+      "EUde": "Poster von Chelsea",
+      "EUes": "póster de Chelsea",
+      "USes": "póster de Chelsea",
+      "EUfr": "poster de Chelsea",
+      "USfr": "poster de Chelsea",
+      "EUit": "poster di Chelsea",
+      "EUnl": "poster van Chelsea",
+      "CNzh": "雀儿喜的海报",
+      "TWzh": "雀兒喜的海報",
+      "JPja": "チェルシーのポスター",
+      "KRko": "첼시의 포스터",
+      "EUru": "постер Челси"
+    }
+  },
+  {
+    "id": "Poster_13038",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Toby's poster",
+      "EUen": "Toby's poster",
+      "EUde": "Poster von Toby",
+      "EUes": "póster de Toby",
+      "USes": "póster de Toby",
+      "EUfr": "poster de Toby",
+      "USfr": "poster de Toby",
+      "EUit": "poster di Toby",
+      "EUnl": "poster van Toby",
+      "CNzh": "咚比的海报",
+      "TWzh": "咚比的海報",
+      "JPja": "トビーのポスター",
+      "KRko": "토비의 포스터",
+      "EUru": "постер Тоби"
     }
   }
 ]

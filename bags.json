@@ -938,5 +938,25 @@
       "KRko": "꼬마 악마 날개 가방",
       "EUru": "крылышки бесенка"
     }
+  },
+  {
+    "id": 1362,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "prom sash",
+      "EUen": "prom sash",
+      "EUde": "Abschlussball-Schärpe",
+      "EUes": "banda baile de fin de curso",
+      "USes": "banda baile de fin de curso",
+      "EUfr": "écharpe bal de promo",
+      "USfr": "écharpe bal des finissants",
+      "EUit": "fascia ballo scolastico",
+      "EUnl": "galasjerp",
+      "CNzh": "毕业舞会绶带",
+      "TWzh": "畢業舞會綬帶",
+      "JPja": "プロムなたすき",
+      "KRko": "프롬 어깨띠",
+      "EUru": "перевязь к выпускному"
+    }
   }
 ]

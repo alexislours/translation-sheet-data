@@ -3338,5 +3338,45 @@
       "KRko": "크리스마스 포장지",
       "EUru": "новогодние обертки"
     }
+  },
+  {
+    "id": "DummyHowtoBook_13195",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Custom Design Pro Editor+",
+      "EUen": "Custom Design Pro Editor+",
+      "EUde": "Designs: Profi-Edition+",
+      "EUes": "Mis diseños profesionales +",
+      "USes": "Mis diseños profesionales +",
+      "EUfr": "Motifs persos pour pros+",
+      "USfr": "Motifs perso pour pros+",
+      "EUit": "I miei modelli: vers. pro +",
+      "EUnl": "Speciaal ontwerp - deel 2",
+      "CNzh": "我的设计专业版＋",
+      "TWzh": "我的設計專業版＋",
+      "JPja": "マイデザインPROエディタ＋",
+      "KRko": "마이 디자인 PRO 에디터＋",
+      "EUru": "Режим профи-рисунков +"
+    }
+  },
+  {
+    "id": "DummyHowtoBook_14158",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Custom Designs Portal",
+      "EUen": "Custom Designs Portal",
+      "EUde": "Designtausch-Terminal",
+      "EUes": "Portal de diseños",
+      "USes": "Portal de diseños",
+      "EUfr": "Portail des motifs persos",
+      "USfr": "Portail des motifs perso",
+      "EUit": "Portale modelli personaliz.",
+      "EUnl": "Ontwerp-uitwisselpunt",
+      "CNzh": "“我的设计”展示柜",
+      "TWzh": "「我的設計」展示櫃",
+      "JPja": "マイデザイン・ショーケース",
+      "KRko": "마이 디자인 단말기",
+      "EUru": "Обмен рисунками"
+    }
   }
 ]

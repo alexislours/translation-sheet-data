@@ -2620,6 +2620,126 @@
     }
   },
   {
+    "id": "Rug_12288",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll rug",
+      "EUen": "Cinnamoroll rug",
+      "EUde": "Cinnamoroll-Teppich",
+      "EUes": "alfombra Cinnamoroll",
+      "USes": "alfombra Cinnamoroll",
+      "EUfr": "tapis Cinnamoroll",
+      "USfr": "tapis Cinnamoroll",
+      "EUit": "tappeto Cinnamoroll",
+      "EUnl": "Cinnamoroll-tapijt",
+      "CNzh": "Cinnamoroll地毯",
+      "TWzh": "Cinnamoroll地毯",
+      "JPja": "シナモロールなラグ",
+      "KRko": "시나모롤 러그",
+      "EUru": "ковер Cinnamoroll"
+    }
+  },
+  {
+    "id": "Rug_12289",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi rug",
+      "EUen": "Kerokerokeroppi rug",
+      "EUde": "Kerokerokeroppi-Teppich",
+      "EUes": "alfombra Kerokerokeroppi",
+      "USes": "alfombra Kerokerokeroppi",
+      "EUfr": "tapis Kerokerokeroppi",
+      "USfr": "tapis Kerokerokeroppi",
+      "EUit": "tappeto Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-tapijt",
+      "CNzh": "Kerokerokeroppi地毯",
+      "TWzh": "Kerokerokeroppi地毯",
+      "JPja": "けろけろけろっぴなラグ",
+      "KRko": "케로케로케로피 러그",
+      "EUru": "ковер Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Rug_12290",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala rug",
+      "EUen": "Kiki & Lala rug",
+      "EUde": "Kiki-&-Lala-Teppich",
+      "EUes": "alfombra Kiki & Lala",
+      "USes": "alfombra Kiki & Lala",
+      "EUfr": "tapis Kiki & Lala",
+      "USfr": "tapis Kiki & Lala",
+      "EUit": "tappeto Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-tapijt",
+      "CNzh": "Kiki & Lala地毯",
+      "TWzh": "Kiki & Lala地毯",
+      "JPja": "キキ&ララなラグ",
+      "KRko": "리틀트윈스타 러그",
+      "EUru": "ковер Kiki & Lala"
+    }
+  },
+  {
+    "id": "Rug_12291",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty rug",
+      "EUen": "Hello Kitty rug",
+      "EUde": "Hello-Kitty-Teppich",
+      "EUes": "alfombra Hello Kitty",
+      "USes": "alfombra Hello Kitty",
+      "EUfr": "tapis Hello Kitty",
+      "USfr": "tapis Hello Kitty",
+      "EUit": "tappeto Hello Kitty",
+      "EUnl": "Hello Kitty-tapijt",
+      "CNzh": "Hello Kitty地毯",
+      "TWzh": "Hello Kitty地毯",
+      "JPja": "ハローキティなラグ",
+      "KRko": "헬로키티 러그",
+      "EUru": "ковер Hello Kitty"
+    }
+  },
+  {
+    "id": "Rug_12292",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody rug",
+      "EUen": "My Melody rug",
+      "EUde": "My-Melody-Teppich",
+      "EUes": "alfombra My Melody",
+      "USes": "alfombra My Melody",
+      "EUfr": "tapis My Melody",
+      "USfr": "tapis My Melody",
+      "EUit": "tappeto My Melody",
+      "EUnl": "My Melody-tapijt",
+      "CNzh": "My Melody地毯",
+      "TWzh": "My Melody地毯",
+      "JPja": "マイメロディなラグ",
+      "KRko": "마이멜로디 러그",
+      "EUru": "ковер My Melody"
+    }
+  },
+  {
+    "id": "Rug_12293",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin rug",
+      "EUen": "Pompompurin rug",
+      "EUde": "Pompompurin-Teppich",
+      "EUes": "alfombra Pompompurin",
+      "USes": "alfombra Pompompurin",
+      "EUfr": "tapis Pompompurin",
+      "USfr": "tapis Pompompurin",
+      "EUit": "tappeto Pompompurin",
+      "EUnl": "Pompompurin-tapijt",
+      "CNzh": "Pompompurin地毯",
+      "TWzh": "Pompompurin地毯",
+      "JPja": "ポムポムプリンなラグ",
+      "KRko": "폼폼푸린 러그",
+      "EUru": "ковер Pompompurin"
+    }
+  },
+  {
     "id": "Rug_12325",
     "version": "1.1.0",
     "locale": {

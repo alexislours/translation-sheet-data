@@ -740,6 +740,26 @@
     }
   },
   {
+    "id": 441,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "ballroom mask",
+      "EUen": "ballroom mask",
+      "EUde": "Maskenballmaske",
+      "EUes": "máscara de baile",
+      "USes": "máscara de baile",
+      "EUfr": "masque de bal",
+      "USfr": "masque de bal",
+      "EUit": "mascherina da ballo",
+      "EUnl": "simpel balmasker",
+      "CNzh": "舞会面具",
+      "TWzh": "舞會面具",
+      "JPja": "ぶとうかいのかめん",
+      "KRko": "무도회 가면",
+      "EUru": "бальная маска"
+    }
+  },
+  {
     "id": 463,
     "version": "1.0.0",
     "locale": {
@@ -1377,6 +1397,26 @@
       "JPja": "レザーマスク",
       "KRko": "가죽 마스크",
       "EUru": "маска из кожзама"
+    }
+  },
+  {
+    "id": 937,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "elegant masquerade mask",
+      "EUen": "elegant masquerade mask",
+      "EUde": "Elegantmaske",
+      "EUes": "antifaz elegante",
+      "USes": "antifaz elegante",
+      "EUfr": "loup élégant",
+      "USfr": "loup élégant",
+      "EUit": "maschera decorata",
+      "EUnl": "chic balmasker",
+      "CNzh": "化装舞会面具",
+      "TWzh": "化裝舞會面具",
+      "JPja": "マスカレードなマスク",
+      "KRko": "가장무도회 가면",
+      "EUru": "изысканная маска"
     }
   },
   {

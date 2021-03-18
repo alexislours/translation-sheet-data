@@ -7820,8 +7820,128 @@
     }
   },
   {
+    "id": "Bromide_11115",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Rilla's photo",
+      "EUen": "Rilla's photo",
+      "EUde": "Foto von Rilla",
+      "EUes": "foto de Rila",
+      "USes": "foto de Rila",
+      "EUfr": "photo de Rilla",
+      "USfr": "photo de Rilla",
+      "EUit": "foto di Rilla",
+      "EUnl": "foto van Rilla",
+      "CNzh": "莉拉的照片",
+      "TWzh": "莉拉的照片",
+      "JPja": "リラのしゃしん",
+      "KRko": "릴라의 사진",
+      "EUru": "фото Риллы"
+    }
+  },
+  {
+    "id": "Bromide_11116",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Marty's photo",
+      "EUen": "Marty's photo",
+      "EUde": "Foto von Marty",
+      "EUes": "foto de Marty",
+      "USes": "foto de Marty",
+      "EUfr": "photo de Marty",
+      "USfr": "photo de Marty",
+      "EUit": "foto di Marty",
+      "EUnl": "foto van Marty",
+      "CNzh": "玛丁的照片",
+      "TWzh": "瑪丁的照片",
+      "JPja": "マーティーのしゃしん",
+      "KRko": "마티의 사진",
+      "EUru": "фото Марти"
+    }
+  },
+  {
+    "id": "Bromide_11117",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Étoile's photo",
+      "EUen": "Étoile's photo",
+      "EUde": "Foto von Etoile",
+      "EUes": "foto de Etoile",
+      "USes": "foto de Etoile",
+      "EUfr": "photo d'Étoile",
+      "USfr": "photo d'Étoile",
+      "EUit": "foto di Étoile",
+      "EUnl": "foto van Étoile",
+      "CNzh": "彩星的照片",
+      "TWzh": "彩星的照片",
+      "JPja": "エトワールのしゃしん",
+      "KRko": "에뜨와르의 사진",
+      "EUru": "фото Этуаль"
+    }
+  },
+  {
+    "id": "Bromide_11118",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Chai's photo",
+      "EUen": "Chai's photo",
+      "EUde": "Foto von Chai",
+      "EUes": "foto de Chai",
+      "USes": "foto de Chai",
+      "EUfr": "photo de Chaï",
+      "USfr": "photo de Chaï",
+      "EUit": "foto di Chai",
+      "EUnl": "foto van Chai",
+      "CNzh": "啡卡的照片",
+      "TWzh": "啡卡的照片",
+      "JPja": "フィーカのしゃしん",
+      "KRko": "피카의 사진",
+      "EUru": "фото Чай"
+    }
+  },
+  {
+    "id": "Bromide_11119",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Chelsea's photo",
+      "EUen": "Chelsea's photo",
+      "EUde": "Foto von Chelsea",
+      "EUes": "foto de Chelsea",
+      "USes": "foto de Chelsea",
+      "EUfr": "photo de Chelsea",
+      "USfr": "photo de Chelsea",
+      "EUit": "foto di Chelsea",
+      "EUnl": "foto van Chelsea",
+      "CNzh": "雀儿喜的照片",
+      "TWzh": "雀兒喜的照片",
+      "JPja": "チェルシーのしゃしん",
+      "KRko": "첼시의 사진",
+      "EUru": "фото Челси"
+    }
+  },
+  {
+    "id": "Bromide_11120",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Toby's photo",
+      "EUen": "Toby's photo",
+      "EUde": "Foto von Toby",
+      "EUes": "foto de Toby",
+      "USes": "foto de Toby",
+      "EUfr": "photo de Toby",
+      "USfr": "photo de Toby",
+      "EUit": "foto di Toby",
+      "EUnl": "foto van Toby",
+      "CNzh": "咚比的照片",
+      "TWzh": "咚比的照片",
+      "JPja": "トビーのしゃしん",
+      "KRko": "토비의 사진",
+      "EUru": "фото Тоби"
+    }
+  },
+  {
     "id": "Bromide_13862",
-    "version": "1.6.0",
+    "version": "1.7.0",
     "locale": {
       "USen": "Jingle's photo",
       "EUen": "Jingle's photo",
@@ -7837,6 +7957,66 @@
       "JPja": "ジングルのしゃしん",
       "KRko": "루돌의 사진",
       "EUru": "фото Джингла"
+    }
+  },
+  {
+    "id": "Bromide_14254",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Tom Nook's photo",
+      "EUen": "Tom Nook's photo",
+      "EUde": "Foto von Tom Nook",
+      "EUes": "foto de Tom Nook",
+      "USes": "foto de Tom Nook",
+      "EUfr": "photo de Tom Nook",
+      "USfr": "photo de Tom Nook",
+      "EUit": "foto di Tom Nook",
+      "EUnl": "foto van Tom Nook",
+      "CNzh": "狸克的照片",
+      "TWzh": "狸克的照片",
+      "JPja": "たぬきちのしゃしん",
+      "KRko": "너굴의 사진",
+      "EUru": "фото Тома Нука"
+    }
+  },
+  {
+    "id": "Bromide_14255",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Timmy and Tommy's photo",
+      "EUen": "Timmy and Tommy's photo",
+      "EUde": "Foto von Nepp & Schlepp",
+      "EUes": "foto de Tendo y Nendo",
+      "USes": "foto de Tendo y Nendo",
+      "EUfr": "photo de Méli et Mélo",
+      "USfr": "photo de Méli et Mélo",
+      "EUit": "foto di Mirco e Marco",
+      "EUnl": "foto van Timmy en Tommy",
+      "CNzh": "豆狸&粒狸的照片",
+      "TWzh": "豆狸&粒狸的照片",
+      "JPja": "まめきち&つぶきちのしゃしん",
+      "KRko": "콩돌이&밤돌이의 사진",
+      "EUru": "фото Тимми и Томми"
+    }
+  },
+  {
+    "id": "Bromide_14256",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Isabelle's photo",
+      "EUen": "Isabelle's photo",
+      "EUde": "Foto von Melinda",
+      "EUes": "foto de Canela",
+      "USes": "foto de Canela",
+      "EUfr": "photo de Marie",
+      "USfr": "photo de Marie",
+      "EUit": "foto di Fuffi",
+      "EUnl": "foto van Isabelle",
+      "CNzh": "西施惠的照片",
+      "TWzh": "西施惠的照片",
+      "JPja": "しずえのしゃしん",
+      "KRko": "여울의 사진",
+      "EUru": "фото Изабель"
     }
   }
 ]

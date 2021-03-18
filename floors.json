@@ -1691,7 +1691,7 @@
       "EUfr": "sol mosaïque turquoise",
       "USfr": "sol mosaïque turquoise",
       "EUit": "pavimento mosaico ciano",
-      "EUnl": "turkooise mozaïektegelvloer",
+      "EUnl": "turquoise mozaïektegelvloer",
       "CNzh": "水蓝色马赛克砖地板",
       "TWzh": "水藍色馬賽克磚地板",
       "JPja": "みずいろモザイクタイルのゆか",
@@ -3440,6 +3440,126 @@
     }
   },
   {
+    "id": "RoomFloor_10178",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi flooring",
+      "EUen": "Kerokerokeroppi flooring",
+      "EUde": "Kerokerokeroppi-Boden",
+      "EUes": "suelo Kerokerokeroppi",
+      "USes": "suelo Kerokerokeroppi",
+      "EUfr": "sol Kerokerokeroppi",
+      "USfr": "sol Kerokerokeroppi",
+      "EUit": "pavimento Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-vloer",
+      "CNzh": "Kerokerokeroppi地板",
+      "TWzh": "Kerokerokeroppi地板",
+      "JPja": "けろけろけろっぴなゆか",
+      "KRko": "케로케로케로피 바닥",
+      "EUru": "пол Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "RoomFloor_10179",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala flooring",
+      "EUen": "Kiki & Lala flooring",
+      "EUde": "Kiki-&-Lala-Boden",
+      "EUes": "suelo Kiki & Lala",
+      "USes": "suelo Kiki & Lala",
+      "EUfr": "sol Kiki & Lala",
+      "USfr": "sol Kiki & Lala",
+      "EUit": "pavimento Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-vloer",
+      "CNzh": "Kiki & Lala地板",
+      "TWzh": "Kiki & Lala地板",
+      "JPja": "キキ&ララなゆか",
+      "KRko": "리틀트윈스타 바닥",
+      "EUru": "пол Kiki & Lala"
+    }
+  },
+  {
+    "id": "RoomFloor_10180",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody flooring",
+      "EUen": "My Melody flooring",
+      "EUde": "My-Melody-Boden",
+      "EUes": "suelo My Melody",
+      "USes": "suelo My Melody",
+      "EUfr": "sol My Melody",
+      "USfr": "sol My Melody",
+      "EUit": "pavimento My Melody",
+      "EUnl": "My Melody-vloer",
+      "CNzh": "My Melody地板",
+      "TWzh": "My Melody地板",
+      "JPja": "マイメロディなゆか",
+      "KRko": "마이멜로디 바닥",
+      "EUru": "пол My Melody"
+    }
+  },
+  {
+    "id": "RoomFloor_10181",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin flooring",
+      "EUen": "Pompompurin flooring",
+      "EUde": "Pompompurin-Boden",
+      "EUes": "suelo Pompompurin",
+      "USes": "suelo Pompompurin",
+      "EUfr": "sol Pompompurin",
+      "USfr": "sol Pompompurin",
+      "EUit": "pavimento Pompompurin",
+      "EUnl": "Pompompurin-vloer",
+      "CNzh": "Pompompurin地板",
+      "TWzh": "Pompompurin地板",
+      "JPja": "ポムポムプリンなゆか",
+      "KRko": "폼폼푸린 바닥",
+      "EUru": "пол Pompompurin"
+    }
+  },
+  {
+    "id": "RoomFloor_10182",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll flooring",
+      "EUen": "Cinnamoroll flooring",
+      "EUde": "Cinnamoroll-Boden",
+      "EUes": "suelo Cinnamoroll",
+      "USes": "suelo Cinnamoroll",
+      "EUfr": "sol Cinnamoroll",
+      "USfr": "sol Cinnamoroll",
+      "EUit": "pavimento Cinnamoroll",
+      "EUnl": "Cinnamoroll-vloer",
+      "CNzh": "Cinnamoroll地板",
+      "TWzh": "Cinnamoroll地板",
+      "JPja": "シナモロールなゆか",
+      "KRko": "시나모롤 바닥",
+      "EUru": "пол Cinnamoroll"
+    }
+  },
+  {
+    "id": "RoomFloor_10183",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty flooring",
+      "EUen": "Hello Kitty flooring",
+      "EUde": "Hello-Kitty-Boden",
+      "EUes": "suelo Hello Kitty",
+      "USes": "suelo Hello Kitty",
+      "EUfr": "sol Hello Kitty",
+      "USfr": "sol Hello Kitty",
+      "EUit": "pavimento Hello Kitty",
+      "EUnl": "Hello Kitty-vloer",
+      "CNzh": "Hello Kitty地板",
+      "TWzh": "Hello Kitty地板",
+      "JPja": "ハローキティなゆか",
+      "KRko": "헬로키티 바닥",
+      "EUru": "пол Hello Kitty"
+    }
+  },
+  {
     "id": "RoomFloor_12423",
     "version": "1.1.0",
     "locale": {
@@ -3617,6 +3737,26 @@
       "JPja": "スーパーマリオのゆか",
       "KRko": "슈퍼 마리오 바닥",
       "EUru": "пол из блоков"
+    }
+  },
+  {
+    "id": "RoomFloor_14253",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "prom flooring",
+      "EUen": "prom flooring",
+      "EUde": "Abschlussball-Boden",
+      "EUes": "suelo baile de fin de curso",
+      "USes": "suelo baile de fin de curso",
+      "EUfr": "sol bal de promo",
+      "USfr": "sol bal des finissants",
+      "EUit": "pavimento ballo scolastico",
+      "EUnl": "galavloer",
+      "CNzh": "毕业舞会地板",
+      "TWzh": "畢業舞會地板",
+      "JPja": "プロムのゆか",
+      "KRko": "프롬 바닥",
+      "EUru": "пол «Выпускной вечер»"
     }
   }
 ]

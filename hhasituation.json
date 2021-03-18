@@ -123,20 +123,20 @@
     "id": 7,
     "version": "1.0.0",
     "locale": {
-      "USen": "garage",
-      "EUen": "garage",
+      "USen": "workshop",
+      "EUen": "workshop",
       "EUde": "Werkstatt",
       "EUes": "en un taller",
       "USes": "en un taller",
-      "EUfr": "garage",
-      "USfr": "garage",
-      "EUit": "in un garage",
-      "EUnl": "een garage",
+      "EUfr": "atelier",
+      "USfr": "atelier",
+      "EUit": "in un laboratorio",
+      "EUnl": "een werkplaats",
       "CNzh": "车库",
       "TWzh": "車庫",
       "JPja": "ガレージ",
       "KRko": "차고",
-      "EUru": "Гараж"
+      "EUru": "Мастерская"
     }
   },
   {
@@ -223,20 +223,20 @@
     "id": 12,
     "version": "1.0.0",
     "locale": {
-      "USen": "zen-style",
-      "EUen": "zen-style",
+      "USen": "harmonious",
+      "EUen": "harmonious",
       "EUde": "Fernost",
       "EUes": "en Oriente",
       "USes": "en el Oriente",
-      "EUfr": "oriental",
-      "USfr": "oriental",
-      "EUit": "in una casa orientale",
-      "EUnl": "de stijl zen",
+      "EUfr": "harmonieux",
+      "USfr": "harmonieux",
+      "EUit": "in una casa armoniosa",
+      "EUnl": "harmonie",
       "CNzh": "东洋风",
       "TWzh": "東洋風",
       "JPja": "とうようふう",
       "KRko": "동양풍",
-      "EUru": "Дзен-стиль"
+      "EUru": "Гармония"
     }
   },
   {
@@ -383,20 +383,20 @@
     "id": 21,
     "version": "1.0.0",
     "locale": {
-      "USen": "folk art",
-      "EUen": "folk art",
-      "EUde": "Volkskunst",
+      "USen": "heritage",
+      "EUen": "heritage",
+      "EUde": "Kultur",
       "EUes": "en un museo",
       "USes": "en un museo",
-      "EUfr": "folk art",
-      "USfr": "folk art",
-      "EUit": "in un quadro",
-      "EUnl": "folklore",
+      "EUfr": "patrimoine",
+      "USfr": "patrimoine",
+      "EUit": "in un patrimonio culturale",
+      "EUnl": "erfgoed",
       "CNzh": "民间工艺",
       "TWzh": "民藝",
       "JPja": "みんげい",
       "KRko": "전통 예술",
-      "EUru": "Фольклор"
+      "EUru": "Традиции"
     }
   },
   {

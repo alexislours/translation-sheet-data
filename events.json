@@ -818,5 +818,105 @@
       "KRko": "새해",
       "EUru": "Новый год"
     }
+  },
+  {
+    "id": "RegionEarthDay",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Nature Day",
+      "EUen": "Nature Day",
+      "EUde": "Tag der Natur",
+      "EUes": "Día de la Naturaleza",
+      "USes": "Día de la Naturaleza",
+      "EUfr": "Jour de la nature",
+      "USfr": "Jour de la nature",
+      "EUit": "Giorno della natura",
+      "EUnl": "Natuurdag",
+      "CNzh": "地球日",
+      "TWzh": "地球日",
+      "JPja": "アースデー",
+      "KRko": "지구의 날",
+      "EUru": "День природы"
+    }
+  },
+  {
+    "id": "RegionAprilFool",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "April Fools' Day",
+      "EUen": "April Fools' Day",
+      "EUde": 44287,
+      "EUes": "Día de las Bromas",
+      "USes": "Día de las Bromas",
+      "EUfr": "1er avril",
+      "USfr": "1er avril",
+      "EUit": "Pesce d'aprile",
+      "EUnl": 44287,
+      "CNzh": "愚人节",
+      "TWzh": "愚人節",
+      "JPja": "エイプリルフール",
+      "KRko": "만우절",
+      "EUru": "День розыгрышей"
+    }
+  },
+  {
+    "id": "RegionProm",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Prom",
+      "EUen": "Prom",
+      "EUde": "Abschlussball",
+      "EUes": "Baile de fin de curso",
+      "USes": "Baile de fin de curso",
+      "EUfr": "Bal de promo",
+      "USfr": "Bal des finissants",
+      "EUit": "Ballo scolastico",
+      "EUnl": "Galadag",
+      "CNzh": "毕业舞会",
+      "TWzh": "畢業舞會",
+      "JPja": "プロム",
+      "KRko": "프롬",
+      "EUru": "Выпускной вечер"
+    }
+  },
+  {
+    "id": "RegionProm2",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Prom",
+      "EUen": "Prom",
+      "EUde": "Abschlussball",
+      "EUes": "Baile de fin de curso",
+      "USes": "Baile de fin de curso",
+      "EUfr": "Bal de promo",
+      "USfr": "Bal des finissants",
+      "EUit": "Ballo scolastico",
+      "EUnl": "Galadag",
+      "CNzh": "毕业舞会",
+      "TWzh": "畢業舞會",
+      "JPja": "プロム",
+      "KRko": "프롬",
+      "EUru": "Выпускной вечер"
+    }
+  },
+  {
+    "id": "RegionTreeDay",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Singmogil",
+      "EUen": "Singmogil",
+      "EUde": "Singmogil",
+      "EUes": "Singmogil",
+      "USes": "Singmogil",
+      "EUfr": "Singmogil",
+      "USfr": "Singmogil",
+      "EUit": "Singmogil",
+      "EUnl": "Singmogil",
+      "CNzh": "植木日",
+      "TWzh": "植木日",
+      "JPja": "植木の日",
+      "KRko": "식목일",
+      "EUru": "Сингмогил"
+    }
   }
 ]

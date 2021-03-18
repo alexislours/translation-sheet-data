@@ -7818,5 +7818,125 @@
       "KRko": "아하핫",
       "EUru": "фокстрот"
     }
+  },
+  {
+    "id": "cbr18",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "pompom",
+      "EUen": "pompom",
+      "EUde": "pompudding",
+      "EUes": "pudin",
+      "USes": "pudin",
+      "EUfr": "pom pom",
+      "USfr": "pom pom",
+      "EUit": "pom pom",
+      "EUnl": "pommetje",
+      "CNzh": "布丁",
+      "TWzh": "布丁",
+      "JPja": "ポムッ",
+      "KRko": "폼폼",
+      "EUru": "помпончик"
+    }
+  },
+  {
+    "id": "der10",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "pound cake",
+      "EUen": "pound cake",
+      "EUde": "denkpink",
+      "EUes": "melomelo",
+      "USes": "melomelo",
+      "EUfr": "bibiche",
+      "USfr": "bibiche",
+      "EUit": "melodì",
+      "EUnl": "melodietje",
+      "CNzh": "喜喜",
+      "TWzh": "喜喜",
+      "JPja": "メロメロ",
+      "KRko": "하트하트",
+      "EUru": "бисквит"
+    }
+  },
+  {
+    "id": "elp11",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "flap flap",
+      "EUen": "flap flap",
+      "EUde": "zimtroll",
+      "EUes": "vuelalto",
+      "USes": "vuelalto",
+      "EUfr": "pachipach",
+      "USfr": "pachipach",
+      "EUit": "ruuu ruuu",
+      "EUnl": "kaneel",
+      "CNzh": "大耳",
+      "TWzh": "大耳",
+      "JPja": "ロルロル",
+      "KRko": "롤롤",
+      "EUru": "машу ушами"
+    }
+  },
+  {
+    "id": "gor11",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "hello",
+      "EUen": "hello",
+      "EUde": "kittykong",
+      "EUes": "kittybún",
+      "USes": "kittybún",
+      "EUfr": "rorille",
+      "USfr": "rorille",
+      "EUit": "arrruuu",
+      "EUnl": "hello",
+      "CNzh": "哈罗",
+      "TWzh": "哈囉",
+      "JPja": "ハロー",
+      "KRko": "헬로",
+      "EUru": "алло"
+    }
+  },
+  {
+    "id": "rbt20",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "ribbit",
+      "EUen": "ribbit",
+      "EUde": "kerokero",
+      "EUes": "keroppi",
+      "USes": "keroppi",
+      "EUfr": "kérocarot",
+      "USfr": "kérocarot",
+      "EUit": "kerokero",
+      "EUnl": "kikk'r",
+      "CNzh": "蛙蛙",
+      "TWzh": "蛙蛙",
+      "JPja": "けろけろ",
+      "KRko": "케로케로",
+      "EUru": "зайцеквак"
+    }
+  },
+  {
+    "id": "shp14",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "fuzzy",
+      "EUen": "fuzzy",
+      "EUde": "kikilala",
+      "EUes": "kikilala",
+      "USes": "kikilala",
+      "EUfr": "mohair",
+      "USfr": "mohair",
+      "EUit": "ovinin",
+      "EUnl": "kikilala",
+      "CNzh": "毛茸茸",
+      "TWzh": "毛茸茸",
+      "JPja": "ふわもこ",
+      "KRko": "폭신폭신",
+      "EUru": "мягенько"
+    }
   }
 ]

@@ -9238,5 +9238,47 @@
       "KRko": "리사&리포",
       "EUru": "Риз и Сайрус"
     }
+  },
+  {
+    "id": "Ftr_13927",
+    "variant_id": "Ftr_13927",
+    "ftr_name": "Nintendo Switch Lite",
+    "locale": {
+      "USen": "Color",
+      "EUen": "Color",
+      "EUde": "Farbe",
+      "EUes": "Color",
+      "USes": "Color",
+      "EUfr": "Couleur",
+      "USfr": "Couleur",
+      "EUit": "Colore",
+      "EUnl": "Kleur",
+      "CNzh": "颜色",
+      "TWzh": "顏色",
+      "JPja": "カラー",
+      "KRko": "컬러",
+      "EUru": "Цвет"
+    }
+  },
+  {
+    "id": "Ftr_14340",
+    "variant_id": "Ftr_14340",
+    "ftr_name": "whoopee cushion",
+    "locale": {
+      "USen": "Color",
+      "EUen": "Color",
+      "EUde": "Farbe",
+      "EUes": "Color",
+      "USes": "Color",
+      "EUfr": "Couleur",
+      "USfr": "Couleur",
+      "EUit": "Colore",
+      "EUnl": "Kleur",
+      "CNzh": "颜色",
+      "TWzh": "顏色",
+      "JPja": "カラー",
+      "KRko": "컬러",
+      "EUru": "Цвет"
+    }
   }
 ]

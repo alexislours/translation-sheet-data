@@ -1218,5 +1218,45 @@
       "KRko": "줄무늬 타이츠",
       "EUru": "чулки в полоску"
     }
+  },
+  {
+    "id": 1286,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala socks",
+      "EUen": "Kiki & Lala socks",
+      "EUde": "Paar Kiki-&-Lala-Söckchen",
+      "EUes": "calcetín Kiki & Lala",
+      "USes": "calcetín Kiki & Lala",
+      "EUfr": "p. chaussettes Kiki & Lala",
+      "USfr": "paire de bas Kiki & Lala",
+      "EUit": "paio di calzini Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-sokken",
+      "CNzh": "Kiki & Lala袜",
+      "TWzh": "Kiki & Lala襪",
+      "JPja": "キキ&ララなソックス",
+      "KRko": "리틀트윈스타 양말",
+      "EUru": "носочки Kiki & Lala"
+    }
+  },
+  {
+    "id": 1296,
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi socks",
+      "EUen": "Kerokerokeroppi socks",
+      "EUde": "Paar Keroppi-Socken",
+      "EUes": "calcetín Kerokerokeroppi",
+      "USes": "calcetín Kerokerokeroppi",
+      "EUfr": "p. chauss. Kerokerokeroppi",
+      "USfr": "p. de bas Kerokerokeroppi",
+      "EUit": "paio calze Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-sokken",
+      "CNzh": "Kerokerokeroppi膝上袜",
+      "TWzh": "Kerokerokeroppi膝上襪",
+      "JPja": "けろけろけろっぴなハイソックス",
+      "KRko": "케로케로케로피 하이 삭스",
+      "EUru": "носки Kerokerokeroppi"
+    }
   }
 ]

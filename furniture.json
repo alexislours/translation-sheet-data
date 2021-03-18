@@ -9071,7 +9071,7 @@
       "EUfr": "commode impériale",
       "USfr": "commode impériale",
       "EUit": "comò dinastia",
-      "EUnl": "keizerlijke ladenkast",
+      "EUnl": "keizerlijke ladekast",
       "CNzh": "东方风矮柜",
       "TWzh": "東方風矮櫃",
       "JPja": "オリエンタルなチェスト",
@@ -15846,8 +15846,8 @@
       "USen": "lucky gold cat",
       "EUen": "lucky gold cat",
       "EUde": "Gold-Glückskatze",
-      "EUes": "gato suerte oro",
-      "USes": "gato suerte oro",
+      "EUes": "gato de la suerte dorado",
+      "USes": "gato de la suerte dorado",
       "EUfr": "chat fétiche doré",
       "USfr": "chat fétiche doré",
       "EUit": "gatto fortuna oro",
@@ -16297,6 +16297,686 @@
       "JPja": "おまつりのコマ",
       "KRko": "축제 팽이",
       "EUru": "традиционный набор"
+    }
+  },
+  {
+    "id": "Ftr_12241",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty drawers",
+      "EUen": "Hello Kitty drawers",
+      "EUde": "Hello-Kitty-Kommode",
+      "EUes": "cómoda Hello Kitty",
+      "USes": "cómoda Hello Kitty",
+      "EUfr": "commode Hello Kitty",
+      "USfr": "commode Hello Kitty",
+      "EUit": "comò Hello Kitty",
+      "EUnl": "Hello Kitty-ladekastje",
+      "CNzh": "Hello Kitty抽屉柜",
+      "TWzh": "Hello Kitty抽屜櫃",
+      "JPja": "ハローキティなタンス",
+      "KRko": "헬로키티 서랍장",
+      "EUru": "комод Hello Kitty"
+    }
+  },
+  {
+    "id": "Ftr_12242",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala clock",
+      "EUen": "Kiki & Lala clock",
+      "EUde": "Kiki-&-Lala-Uhr",
+      "EUes": "reloj Kiki & Lala",
+      "USes": "reloj Kiki & Lala",
+      "EUfr": "horloge Kiki & Lala",
+      "USfr": "horloge Kiki & Lala",
+      "EUit": "orologio Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-klok",
+      "CNzh": "Kiki & Lala时钟",
+      "TWzh": "Kiki & Lala時鐘",
+      "JPja": "キキ&ララなとけい",
+      "KRko": "리틀트윈스타 시계",
+      "EUru": "часы Kiki & Lala"
+    }
+  },
+  {
+    "id": "Ftr_12243",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala table",
+      "EUen": "Kiki & Lala table",
+      "EUde": "Kiki-&-Lala-Tisch",
+      "EUes": "mesa Kiki & Lala",
+      "USes": "mesa Kiki & Lala",
+      "EUfr": "table Kiki & Lala",
+      "USfr": "table Kiki & Lala",
+      "EUit": "tavolo Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-tafel",
+      "CNzh": "Kiki & Lala桌",
+      "TWzh": "Kiki & Lala桌",
+      "JPja": "キキ&ララなテーブル",
+      "KRko": "리틀트윈스타 테이블",
+      "EUru": "стол Kiki & Lala"
+    }
+  },
+  {
+    "id": "Ftr_12244",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala sofa",
+      "EUen": "Kiki & Lala sofa",
+      "EUde": "Kiki-&-Lala-Sofa",
+      "EUes": "sofá Kiki & Lala",
+      "USes": "sofá Kiki & Lala",
+      "EUfr": "canapé Kiki & Lala",
+      "USfr": "canapé Kiki & Lala",
+      "EUit": "sofà Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-bank",
+      "CNzh": "Kiki & Lala沙发",
+      "TWzh": "Kiki & Lala沙發",
+      "JPja": "キキ&ララなソファ",
+      "KRko": "리틀트윈스타 소파",
+      "EUru": "диван Kiki & Lala"
+    }
+  },
+  {
+    "id": "Ftr_12245",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala cloud maker",
+      "EUen": "Kiki & Lala cloud maker",
+      "EUde": "Kiki-&-Lala-Wolkenapparat",
+      "EUes": "máquina nubes Kiki & Lala",
+      "USes": "máquina nubes Kiki & Lala",
+      "EUfr": "mach. à nuages Kiki & Lala",
+      "USfr": "mach. à nuages Kiki & Lala",
+      "EUit": "crea-nuvole Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-wolkenmaker",
+      "CNzh": "Kiki & Lala云朵制造机",
+      "TWzh": "Kiki & Lala雲朵製造機",
+      "JPja": "キキ&ララなくもせいぞうき",
+      "KRko": "리틀트윈스타 구름 제조기",
+      "EUru": "облакомат Kiki & Lala"
+    }
+  },
+  {
+    "id": "Ftr_12246",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll table",
+      "EUen": "Cinnamoroll table",
+      "EUde": "Cinnamoroll-Tisch",
+      "EUes": "mesita Cinnamoroll",
+      "USes": "mesita Cinnamoroll",
+      "EUfr": "table Cinnamoroll",
+      "USfr": "table Cinnamoroll",
+      "EUit": "tavolo Cinnamoroll",
+      "EUnl": "Cinnamoroll-tafel",
+      "CNzh": "Cinnamoroll桌",
+      "TWzh": "Cinnamoroll桌",
+      "JPja": "シナモロールなテーブル",
+      "KRko": "시나모롤 테이블",
+      "EUru": "стол Cinnamoroll"
+    }
+  },
+  {
+    "id": "Ftr_12247",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll parasol",
+      "EUen": "Cinnamoroll parasol",
+      "EUde": "Cinnamoroll-Schirm",
+      "EUes": "parasol Cinnamoroll",
+      "USes": "parasol Cinnamoroll",
+      "EUfr": "parasol Cinnamoroll",
+      "USfr": "parasol Cinnamoroll",
+      "EUit": "parasole Cinnamoroll",
+      "EUnl": "Cinnamoroll-parasol",
+      "CNzh": "Cinnamoroll伞",
+      "TWzh": "Cinnamoroll陽傘",
+      "JPja": "シナモロールなパラソル",
+      "KRko": "시나모롤 파라솔",
+      "EUru": "зонт Cinnamoroll"
+    }
+  },
+  {
+    "id": "Ftr_12248",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll signage",
+      "EUen": "Cinnamoroll signage",
+      "EUde": "Cinnamoroll-Aufsteller",
+      "EUes": "cartel Cinnamoroll",
+      "USes": "cartel Cinnamoroll",
+      "EUfr": "panneau Cinnamoroll",
+      "USfr": "panneau Cinnamoroll",
+      "EUit": "cartello Cinnamoroll",
+      "EUnl": "Cinnamoroll-uitklapbord",
+      "CNzh": "Cinnamoroll板",
+      "TWzh": "Cinnamoroll板",
+      "JPja": "シナモロールなボード",
+      "KRko": "시나모롤 보드",
+      "EUru": "меню Cinnamoroll"
+    }
+  },
+  {
+    "id": "Ftr_12249",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi hallway",
+      "EUen": "Kerokerokeroppi hallway",
+      "EUde": "Kerokerokeroppi-Veranda",
+      "EUes": "tarima Kerokerokeroppi",
+      "USes": "tarima Kerokerokeroppi",
+      "EUfr": "couloir Kerokerokeroppi",
+      "USfr": "couloir Kerokerokeroppi",
+      "EUit": "porta Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-gang",
+      "CNzh": "Kerokerokeroppi走廊",
+      "TWzh": "Kerokerokeroppi走廊",
+      "JPja": "けろけろけろっぴなろうか",
+      "KRko": "케로케로케로피 복도 의자",
+      "EUru": "холл Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Ftr_12250",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll stool",
+      "EUen": "Cinnamoroll stool",
+      "EUde": "Cinnamoroll-Hocker",
+      "EUes": "taburete Cinnamoroll",
+      "USes": "taburete Cinnamoroll",
+      "EUfr": "tabouret Cinnamoroll",
+      "USfr": "tabouret Cinnamoroll",
+      "EUit": "sgabello Cinnamoroll",
+      "EUnl": "Cinnamoroll-kruk",
+      "CNzh": "Cinnamoroll凳子",
+      "TWzh": "Cinnamoroll凳子",
+      "JPja": "シナモロールなスツール",
+      "KRko": "시나모롤 스툴",
+      "EUru": "табурет Cinnamoroll"
+    }
+  },
+  {
+    "id": "Ftr_12251",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll tray",
+      "EUen": "Cinnamoroll tray",
+      "EUde": "Cinnamoroll-Tablett",
+      "EUes": "bandeja Cinnamoroll",
+      "USes": "bandeja Cinnamoroll",
+      "EUfr": "plateau Cinnamoroll",
+      "USfr": "plateau Cinnamoroll",
+      "EUit": "vassoio Cinnamoroll",
+      "EUnl": "Cinnamoroll-dienblad",
+      "CNzh": "Cinnamoroll托盘",
+      "TWzh": "Cinnamoroll托盤",
+      "JPja": "シナモロールなトレー",
+      "KRko": "시나모롤 트레이",
+      "EUru": "поднос Cinnamoroll"
+    }
+  },
+  {
+    "id": "Ftr_12252",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi tray",
+      "EUen": "Kerokerokeroppi tray",
+      "EUde": "Keroppi-Tischchen",
+      "EUes": "bandeja Kerokerokeroppi",
+      "USes": "bandeja Kerokerokeroppi",
+      "EUfr": "table basse Keroppi",
+      "USfr": "table basse Keroppi",
+      "EUit": "tavolino Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-tafeltje",
+      "CNzh": "Kerokerokeroppi饭桌",
+      "TWzh": "Kerokerokeroppi餐檯",
+      "JPja": "けろけろけろっぴなおぜん",
+      "KRko": "케로케로케로피 밥상",
+      "EUru": "поднос Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Ftr_12253",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi snack",
+      "EUen": "Kerokerokeroppi snack",
+      "EUde": "Kerokerokeroppi-Nascherei",
+      "EUes": "pastelito Kerokerokeroppi",
+      "USes": "pastelito Kerokerokeroppi",
+      "EUfr": "en-cas Kerokerokeroppi",
+      "USfr": "en-cas Kerokerokeroppi",
+      "EUit": "dolcetto Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-snack",
+      "CNzh": "Kerokerokeroppi甜点",
+      "TWzh": "Kerokerokeroppi甜點",
+      "JPja": "けろけろけろっぴなおかし",
+      "KRko": "케로케로케로피 과자",
+      "EUru": "лакомство Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Ftr_12254",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi lantern",
+      "EUen": "Kerokerokeroppi lantern",
+      "EUde": "Kerokerokeroppi-Leuchte",
+      "EUes": "farol Kerokerokeroppi",
+      "USes": "farol Kerokerokeroppi",
+      "EUfr": "lanterne Kerokerokeroppi",
+      "USfr": "lanterne Kerokerokeroppi",
+      "EUit": "lanterna Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-lantaarn",
+      "CNzh": "Kerokerokeroppi灯",
+      "TWzh": "Kerokerokeroppi石燈籠",
+      "JPja": "けろけろけろっぴなあかり",
+      "KRko": "케로케로케로피 등",
+      "EUru": "фонарь Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Ftr_12255",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi bridge",
+      "EUen": "Kerokerokeroppi bridge",
+      "EUde": "Keroppi-Bogenbrücke",
+      "EUes": "puente Kerokerokeroppi",
+      "USes": "puente Kerokerokeroppi",
+      "EUfr": "pont Kerokerokeroppi",
+      "USfr": "pont Kerokerokeroppi",
+      "EUit": "ponte Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-brug",
+      "CNzh": "Kerokerokeroppi桥梁",
+      "TWzh": "Kerokerokeroppi橋樑",
+      "JPja": "けろけろけろっぴなはし",
+      "KRko": "케로케로케로피 다리",
+      "EUru": "мост Kerokerokeroppi"
+    }
+  },
+  {
+    "id": "Ftr_12256",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kiki & Lala bed",
+      "EUen": "Kiki & Lala bed",
+      "EUde": "Kiki-&-Lala-Bett",
+      "EUes": "cama Kiki & Lala",
+      "USes": "cama Kiki & Lala",
+      "EUfr": "lit Kiki & Lala",
+      "USfr": "lit Kiki & Lala",
+      "EUit": "letto Kiki & Lala",
+      "EUnl": "Kiki-&-Lala-bed",
+      "CNzh": "Kiki & Lala床铺",
+      "TWzh": "Kiki & Lala床鋪",
+      "JPja": "キキ&ララなベッド",
+      "KRko": "리틀트윈스타 침대",
+      "EUru": "кровать Kiki & Lala"
+    }
+  },
+  {
+    "id": "Ftr_12257",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin TV",
+      "EUen": "Pompompurin TV",
+      "EUde": "Pompompurin-TV",
+      "EUes": "tele Pompompurin",
+      "USes": "tele Pompompurin",
+      "EUfr": "télé Pompompurin",
+      "USfr": "télé Pompompurin",
+      "EUit": "TV Pompompurin",
+      "EUnl": "Pompompurin-televisie",
+      "CNzh": "Pompompurin电视",
+      "TWzh": "Pompompurin電視",
+      "JPja": "ポムポムプリンなテレビ",
+      "KRko": "폼폼푸린 TV",
+      "EUru": "телевизор Pompompurin"
+    }
+  },
+  {
+    "id": "Ftr_12258",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin pudding",
+      "EUen": "Pompompurin pudding",
+      "EUde": "Pompompurin-Pudding",
+      "EUes": "flan Pompompurin",
+      "USes": "flan Pompompurin",
+      "EUfr": "flan Pompompurin",
+      "USfr": "flan Pompompurin",
+      "EUit": "budino Pompompurin",
+      "EUnl": "Pompompurin-pudding",
+      "CNzh": "Pompompurin布丁",
+      "TWzh": "Pompompurin布丁",
+      "JPja": "ポムポムプリンなプリン",
+      "KRko": "폼폼푸린 푸딩",
+      "EUru": "пуддинг Pompompurin"
+    }
+  },
+  {
+    "id": "Ftr_12259",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin table",
+      "EUen": "Pompompurin table",
+      "EUde": "Pompompurin-Tisch",
+      "EUes": "mesita Pompompurin",
+      "USes": "mesita Pompompurin",
+      "EUfr": "table Pompompurin",
+      "USfr": "table Pompompurin",
+      "EUit": "tavolo Pompompurin",
+      "EUnl": "Pompompurin-tafel",
+      "CNzh": "Pompompurin桌",
+      "TWzh": "Pompompurin桌",
+      "JPja": "ポムポムプリンなテーブル",
+      "KRko": "폼폼푸린 테이블",
+      "EUru": "стол Pompompurin"
+    }
+  },
+  {
+    "id": "Ftr_12260",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin rack",
+      "EUen": "Pompompurin rack",
+      "EUde": "Pompompurin-Regal",
+      "EUes": "estante Pompompurin",
+      "USes": "estante Pompompurin",
+      "EUfr": "buffet Pompompurin",
+      "USfr": "buffet Pompompurin",
+      "EUit": "scaffale Pompompurin",
+      "EUnl": "Pompompurin-kastje",
+      "CNzh": "Pompompurin架子",
+      "TWzh": "Pompompurin架子",
+      "JPja": "ポムポムプリンなラック",
+      "KRko": "폼폼푸린 수납 선반",
+      "EUru": "тумбочка Pompompurin"
+    }
+  },
+  {
+    "id": "Ftr_12261",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin chair",
+      "EUen": "Pompompurin chair",
+      "EUde": "Pompompurin-Stuhl",
+      "EUes": "silla Pompompurin",
+      "USes": "silla Pompompurin",
+      "EUfr": "chaise Pompompurin",
+      "USfr": "chaise Pompompurin",
+      "EUit": "sedia Pompompurin",
+      "EUnl": "Pompompurin-stoel",
+      "CNzh": "Pompompurin椅子",
+      "TWzh": "Pompompurin椅",
+      "JPja": "ポムポムプリンなチェア",
+      "KRko": "폼폼푸린 의자",
+      "EUru": "стул Pompompurin"
+    }
+  },
+  {
+    "id": "Ftr_12262",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Pompompurin bed",
+      "EUen": "Pompompurin bed",
+      "EUde": "Pompompurin-Bett",
+      "EUes": "cama Pompompurin",
+      "USes": "cama Pompompurin",
+      "EUfr": "lit Pompompurin",
+      "USfr": "lit Pompompurin",
+      "EUit": "letto Pompompurin",
+      "EUnl": "Pompompurin-bed",
+      "CNzh": "Pompompurin床铺",
+      "TWzh": "Pompompurin床鋪",
+      "JPja": "ポムポムプリンなベッド",
+      "KRko": "폼폼푸린 침대",
+      "EUru": "кровать Pompompurin"
+    }
+  },
+  {
+    "id": "Ftr_12263",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody table",
+      "EUen": "My Melody table",
+      "EUde": "My-Melody-Tisch",
+      "EUes": "mesita My Melody",
+      "USes": "mesita My Melody",
+      "EUfr": "table My Melody",
+      "USfr": "table My Melody",
+      "EUit": "tavolo My Melody",
+      "EUnl": "My Melody-tafel",
+      "CNzh": "My Melody桌",
+      "TWzh": "My Melody桌",
+      "JPja": "マイメロディなテーブル",
+      "KRko": "마이멜로디 테이블",
+      "EUru": "стол My Melody"
+    }
+  },
+  {
+    "id": "Ftr_12264",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody dresser",
+      "EUen": "My Melody dresser",
+      "EUde": "My-Melody-Spiegel",
+      "EUes": "tocador My Melody",
+      "USes": "tocador My Melody",
+      "EUfr": "coiffeuse My Melody",
+      "USfr": "coiffeuse My Melody",
+      "EUit": "comò My Melody",
+      "EUnl": "My Melody-toilettafel",
+      "CNzh": "My Melody梳妆台",
+      "TWzh": "My Melody梳妝台",
+      "JPja": "マイメロディなドレッサー",
+      "KRko": "마이멜로디 화장대",
+      "EUru": "трюмо My Melody"
+    }
+  },
+  {
+    "id": "Ftr_12265",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody chair",
+      "EUen": "My Melody chair",
+      "EUde": "My-Melody-Stuhl",
+      "EUes": "mecedora My Melody",
+      "USes": "mecedora My Melody",
+      "EUfr": "chaise My Melody",
+      "USfr": "chaise My Melody",
+      "EUit": "sedia My Melody",
+      "EUnl": "My Melody-stoel",
+      "CNzh": "My Melody椅子",
+      "TWzh": "My Melody椅子",
+      "JPja": "マイメロディなイス",
+      "KRko": "마이멜로디 의자",
+      "EUru": "стул My Melody"
+    }
+  },
+  {
+    "id": "Ftr_12266",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody clock",
+      "EUen": "My Melody clock",
+      "EUde": "My-Melody-Uhr",
+      "EUes": "reloj My Melody",
+      "USes": "reloj My Melody",
+      "EUfr": "horloge My Melody",
+      "USfr": "horloge My Melody",
+      "EUit": "orologio My Melody",
+      "EUnl": "My Melody-klok",
+      "CNzh": "My Melody时钟",
+      "TWzh": "My Melody時鐘",
+      "JPja": "マイメロディなとけい",
+      "KRko": "마이멜로디 시계",
+      "EUru": "часы My Melody"
+    }
+  },
+  {
+    "id": "Ftr_12267",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "My Melody bed",
+      "EUen": "My Melody bed",
+      "EUde": "My-Melody-Bett",
+      "EUes": "cama My Melody",
+      "USes": "cama My Melody",
+      "EUfr": "lit My Melody",
+      "USfr": "lit My Melody",
+      "EUit": "letto My Melody",
+      "EUnl": "My Melody-bed",
+      "CNzh": "My Melody床铺",
+      "TWzh": "My Melody床鋪",
+      "JPja": "マイメロディなベッド",
+      "KRko": "마이멜로디 침대",
+      "EUru": "кровать My Melody"
+    }
+  },
+  {
+    "id": "Ftr_12268",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty clock",
+      "EUen": "Hello Kitty clock",
+      "EUde": "Hello-Kitty-Uhr",
+      "EUes": "reloj Hello Kitty",
+      "USes": "reloj Hello Kitty",
+      "EUfr": "horloge Hello Kitty",
+      "USfr": "horloge Hello Kitty",
+      "EUit": "orologio Hello Kitty",
+      "EUnl": "Hello Kitty-klok",
+      "CNzh": "Hello Kitty时钟",
+      "TWzh": "Hello Kitty時鐘",
+      "JPja": "ハローキティなとけい",
+      "KRko": "헬로키티 시계",
+      "EUru": "часы Hello Kitty"
+    }
+  },
+  {
+    "id": "Ftr_12269",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty chair",
+      "EUen": "Hello Kitty chair",
+      "EUde": "Hello-Kitty-Stuhl",
+      "EUes": "silla Hello Kitty",
+      "USes": "silla Hello Kitty",
+      "EUfr": "chaise Hello Kitty",
+      "USfr": "chaise Hello Kitty",
+      "EUit": "sedia Hello Kitty",
+      "EUnl": "Hello Kitty-stoel",
+      "CNzh": "Hello Kitty椅子",
+      "TWzh": "Hello Kitty椅子",
+      "JPja": "ハローキティなイス",
+      "KRko": "헬로키티 의자",
+      "EUru": "стул Hello Kitty"
+    }
+  },
+  {
+    "id": "Ftr_12270",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty table",
+      "EUen": "Hello Kitty table",
+      "EUde": "Hello-Kitty-Tisch",
+      "EUes": "mesa Hello Kitty",
+      "USes": "mesa Hello Kitty",
+      "EUfr": "table Hello Kitty",
+      "USfr": "table Hello Kitty",
+      "EUit": "tavolo Hello Kitty",
+      "EUnl": "Hello Kitty-tafel",
+      "CNzh": "Hello Kitty桌",
+      "TWzh": "Hello Kitty桌",
+      "JPja": "ハローキティなテーブル",
+      "KRko": "헬로키티 테이블",
+      "EUru": "стол Hello Kitty"
+    }
+  },
+  {
+    "id": "Ftr_12271",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty bed",
+      "EUen": "Hello Kitty bed",
+      "EUde": "Hello-Kitty-Bett",
+      "EUes": "cama Hello Kitty",
+      "USes": "cama Hello Kitty",
+      "EUfr": "lit Hello Kitty",
+      "USfr": "lit Hello Kitty",
+      "EUit": "letto Hello Kitty",
+      "EUnl": "Hello Kitty-bed",
+      "CNzh": "Hello Kitty床铺",
+      "TWzh": "Hello Kitty床鋪",
+      "JPja": "ハローキティなベッド",
+      "KRko": "헬로키티 침대",
+      "EUru": "кровать Hello Kitty"
+    }
+  },
+  {
+    "id": "Ftr_12272",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Hello Kitty planter",
+      "EUen": "Hello Kitty planter",
+      "EUde": "Hello-Kitty-Bäumchen",
+      "EUes": "maceta Hello Kitty",
+      "USes": "maceta Hello Kitty",
+      "EUfr": "arbuste Hello Kitty",
+      "USfr": "arbuste Hello Kitty",
+      "EUit": "vaso Hello Kitty",
+      "EUnl": "Hello Kitty-boompje",
+      "CNzh": "Hello Kitty盆栽",
+      "TWzh": "Hello Kitty盆栽",
+      "JPja": "ハローキティなプランター",
+      "KRko": "헬로키티 화분",
+      "EUru": "деревце Hello Kitty"
+    }
+  },
+  {
+    "id": "Ftr_12273",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Cinnamoroll sofa",
+      "EUen": "Cinnamoroll sofa",
+      "EUde": "Cinnamoroll-Sofa",
+      "EUes": "sofá Cinnamoroll",
+      "USes": "sofá Cinnamoroll",
+      "EUfr": "canapé Cinnamoroll",
+      "USfr": "canapé Cinnamoroll",
+      "EUit": "sofà Cinnamoroll",
+      "EUnl": "Cinnamoroll-bank",
+      "CNzh": "Cinnamoroll沙发",
+      "TWzh": "Cinnamoroll沙發",
+      "JPja": "シナモロールなソファ",
+      "KRko": "시나모롤 소파",
+      "EUru": "диван Cinnamoroll"
+    }
+  },
+  {
+    "id": "Ftr_12274",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Kerokerokeroppi doll",
+      "EUen": "Kerokerokeroppi doll",
+      "EUde": "Kerokerokeroppis Puppe",
+      "EUes": "muñeca Kerokerokeroppi",
+      "USes": "muñeca Kerokerokeroppi",
+      "EUfr": "poupée Kerokerokeroppi",
+      "USfr": "poupée Kerokerokeroppi",
+      "EUit": "amica di Kerokerokeroppi",
+      "EUnl": "Kerokerokeroppi-pop",
+      "CNzh": "晴天娃娃",
+      "TWzh": "晴天娃娃",
+      "JPja": "てるてるなにんぎょう",
+      "KRko": "종이 인형",
+      "EUru": "фигурка Kerokerokeroppi"
     }
   },
   {
@@ -17800,6 +18480,26 @@
     }
   },
   {
+    "id": "Ftr_13315",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Nook Inc. poster",
+      "EUen": "Nook Inc. poster",
+      "EUde": "Nook-Inc.-Poster",
+      "EUes": "cartel de Nook Inc.",
+      "USes": "póster de Nook Inc.",
+      "EUfr": "poster Nook Inc.",
+      "USfr": "poster Nook Inc.",
+      "EUit": "poster della Nook Inc.",
+      "EUnl": "Nook Inc.-poster",
+      "CNzh": "Nook Inc.的海报",
+      "TWzh": "Nook Inc.的海報",
+      "JPja": "たぬきかいはつのポスター",
+      "KRko": "Nook Inc. 포스터",
+      "EUru": "постер Nook Inc."
+    }
+  },
+  {
     "id": "Ftr_13353",
     "version": "1.5.0",
     "locale": {
@@ -18620,6 +19320,26 @@
     }
   },
   {
+    "id": "Ftr_13927",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Nintendo Switch Lite",
+      "EUen": "Nintendo Switch Lite",
+      "EUde": "Nintendo Switch Lite",
+      "EUes": "Nintendo Switch Lite",
+      "USes": "Nintendo Switch Lite",
+      "EUfr": "Nintendo Switch Lite",
+      "USfr": "Nintendo Switch Lite",
+      "EUit": "Nintendo Switch Lite",
+      "EUnl": "Nintendo Switch Lite",
+      "CNzh": "Nintendo Switch Lite",
+      "TWzh": "Nintendo Switch Lite",
+      "JPja": "Nintendo Switch Lite",
+      "KRko": "Nintendo Switch Lite",
+      "EUru": "Nintendo Switch Lite"
+    }
+  },
+  {
     "id": "Ftr_13930",
     "version": "1.6.0",
     "locale": {
@@ -18640,6 +19360,106 @@
     }
   },
   {
+    "id": "Ftr_14005",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Bunny Day topiary",
+      "EUen": "Bunny Day topiary",
+      "EUde": "Häschentag-Buchsbaum",
+      "EUes": "seto Caza del Huevo",
+      "USes": "arbusto Caza del Huevo",
+      "EUfr": "topiaire fête des œufs",
+      "USfr": "topiaire fête des œufs",
+      "EUit": "scultura arb. caccia all'uovo",
+      "EUnl": "konijn-met-ei-sierboom",
+      "CNzh": "复活节绿雕",
+      "TWzh": "復活節綠雕",
+      "JPja": "イースターなトピアリー",
+      "KRko": "이스터 토피어리",
+      "EUru": "кустик на День зайцев"
+    }
+  },
+  {
+    "id": "Ftr_14006",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Bunny Day tree",
+      "EUen": "Bunny Day tree",
+      "EUde": "Häschentag-Baum",
+      "EUes": "árbol Caza del Huevo",
+      "USes": "árbol Caza del Huevo",
+      "EUfr": "arbre fête des œufs",
+      "USfr": "arbre fête des œufs",
+      "EUit": "albero caccia all'uovo",
+      "EUnl": "eierboom",
+      "CNzh": "复活节树",
+      "TWzh": "復活節樹",
+      "JPja": "イースターなツリー",
+      "KRko": "이스터 트리",
+      "EUru": "деревце на День зайцев"
+    }
+  },
+  {
+    "id": "Ftr_14007",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Bunny Day garden flag",
+      "EUen": "Bunny Day garden flag",
+      "EUde": "Häschentag-Flagge",
+      "EUes": "estandarte Caza del Huevo",
+      "USes": "estandarte Caza del Huevo",
+      "EUfr": "drapeau fête des œufs",
+      "USfr": "drapeau fête des œufs",
+      "EUit": "bandiera caccia all'uovo",
+      "EUnl": "konijn-met-eivlag",
+      "CNzh": "复活节花园旗",
+      "TWzh": "復活節花園旗",
+      "JPja": "イースターなガーデンフラッグ",
+      "KRko": "이스터 가든 플래그",
+      "EUru": "флаг на День зайцев"
+    }
+  },
+  {
+    "id": "Ftr_14008",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Bunny Day planter box",
+      "EUen": "Bunny Day planter box",
+      "EUde": "Häschentag-Blumenkasten",
+      "EUes": "macetero Caza del Huevo",
+      "USes": "macetero Caza del Huevo",
+      "EUfr": "jardinière fête des œufs",
+      "USfr": "jardinière fête des œufs",
+      "EUit": "fioriera caccia all'uovo",
+      "EUnl": "eierbloembak",
+      "CNzh": "复活节盆栽",
+      "TWzh": "復活節盆栽",
+      "JPja": "イースターなプランター",
+      "KRko": "이스터 화분",
+      "EUru": "ящик «День зайцев»"
+    }
+  },
+  {
+    "id": "Ftr_14009",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Bunny Day candy",
+      "EUen": "Bunny Day candy",
+      "EUde": "Häschentag-Naschteller",
+      "EUes": "plato dulces Caza del Huevo",
+      "USes": "plato dulces Caza del Huevo",
+      "EUfr": "lot de chocos fête des œufs",
+      "USfr": "lot chocolats fête des œufs",
+      "EUit": "set dolci caccia all'uovo",
+      "EUnl": "konijn-en-eiersnoepgoed",
+      "CNzh": "复活节甜点",
+      "TWzh": "復活節甜點",
+      "JPja": "イースターなおかし",
+      "KRko": "이스터 디저트",
+      "EUru": "сладости на День зайцев"
+    }
+  },
+  {
     "id": "Ftr_14020",
     "version": "1.8.0",
     "locale": {
@@ -18657,6 +19477,26 @@
       "JPja": "πパイ",
       "KRko": "π 파이",
       "EUru": "пирог π"
+    }
+  },
+  {
+    "id": "Ftr_14023",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "cool globe",
+      "EUen": "cool globe",
+      "EUde": "Globus (cool)",
+      "EUes": "globo terrestre",
+      "USes": "globo terrestre",
+      "EUfr": "globe cool",
+      "USfr": "globe cool",
+      "EUit": "globo girevole",
+      "EUnl": "ouderwetse wereldbol",
+      "CNzh": "帅气地球仪",
+      "TWzh": "帥氣地球儀",
+      "JPja": "かっこいいちきゅうぎ",
+      "KRko": "멋진 지구의",
+      "EUru": "классный глобус"
     }
   },
   {
@@ -18700,6 +19540,46 @@
     }
   },
   {
+    "id": "Ftr_14041",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "forsythia",
+      "EUen": "forsythia",
+      "EUde": "Forsythie",
+      "EUes": "forsitia",
+      "USes": "forsitia",
+      "EUfr": "forsythia",
+      "USfr": "forsythia",
+      "EUit": "forsizia",
+      "EUnl": "forsythia",
+      "CNzh": "连翘",
+      "TWzh": "連翹花",
+      "JPja": "レンギョウ",
+      "KRko": "개나리",
+      "EUru": "форзиция"
+    }
+  },
+  {
+    "id": "Ftr_14142",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "first-anniversary cake",
+      "EUen": "first-anniversary cake",
+      "EUde": "1.-Jubiläum-Kuchen",
+      "EUes": "tarta primer aniversario",
+      "USes": "pastel primer aniversario",
+      "EUfr": "gâteau du 1er anniversaire",
+      "USfr": "gâteau du 1er anniversaire",
+      "EUit": "torta 1º anniversario",
+      "EUnl": "jubileumtaart",
+      "CNzh": "一周年蛋糕",
+      "TWzh": "一週年蛋糕",
+      "JPja": "1stアニバーサリーケーキ",
+      "KRko": "1주년 케이크",
+      "EUru": "юбилейный торт «1 год»"
+    }
+  },
+  {
     "id": "Ftr_14266",
     "version": "1.8.0",
     "locale": {
@@ -18720,63 +19600,43 @@
     }
   },
   {
-    "id": "Ftr_14300",
-    "version": "1.8.0",
+    "id": "Ftr_14298",
+    "version": "1.9.0",
     "locale": {
-      "USen": "きゅうりのうま",
-      "EUen": "きゅうりのうま",
-      "EUde": "きゅうりのうま",
-      "EUes": "きゅうりのうま",
-      "USes": "きゅうりのうま",
-      "EUfr": "きゅうりのうま",
-      "USfr": "きゅうりのうま",
-      "EUit": "きゅうりのうま",
-      "EUnl": "きゅうりのうま",
-      "CNzh": "きゅうりのうま",
-      "TWzh": "きゅうりのうま",
-      "JPja": "きゅうりのうま",
-      "KRko": "きゅうりのうま",
-      "EUru": "きゅうりのうま"
+      "USen": "aloha-edition carrying case",
+      "EUen": "ACNH carrying case",
+      "EUde": "ACNH-Edition-Tasche",
+      "EUes": "funda edición ACNH",
+      "USes": "funda edición ACNH",
+      "EUfr": "pochette édition ACNH",
+      "USfr": "étui ACNH édition Aloha",
+      "EUit": "custodia edizione ACNH",
+      "EUnl": "etui van ACNH",
+      "CNzh": "Nook夏威夷花纹便携包",
+      "TWzh": "Nook夏威夷花紋便攜包",
+      "JPja": "たぬきアロハSwitchケース",
+      "KRko": "알로하 에디션 휴대용 케이스",
+      "EUru": "чехол (версия ACNH)"
     }
   },
   {
-    "id": "Ftr_14338",
-    "version": "1.8.0",
+    "id": "Ftr_14340",
+    "version": "1.9.0",
     "locale": {
-      "USen": "つきみだんご",
-      "EUen": "つきみだんご",
-      "EUde": "つきみだんご",
-      "EUes": "つきみだんご",
-      "USes": "つきみだんご",
-      "EUfr": "つきみだんご",
-      "USfr": "つきみだんご",
-      "EUit": "つきみだんご",
-      "EUnl": "つきみだんご",
-      "CNzh": "つきみだんご",
-      "TWzh": "つきみだんご",
-      "JPja": "つきみだんご",
-      "KRko": "つきみだんご",
-      "EUru": "つきみだんご"
-    }
-  },
-  {
-    "id": "Ftr_14339",
-    "version": "1.8.0",
-    "locale": {
-      "USen": "なすびのうし",
-      "EUen": "なすびのうし",
-      "EUde": "なすびのうし",
-      "EUes": "なすびのうし",
-      "USes": "なすびのうし",
-      "EUfr": "なすびのうし",
-      "USfr": "なすびのうし",
-      "EUit": "なすびのうし",
-      "EUnl": "なすびのうし",
-      "CNzh": "なすびのうし",
-      "TWzh": "なすびのうし",
-      "JPja": "なすびのうし",
-      "KRko": "なすびのうし",
-      "EUru": "なすびのうし"
+      "USen": "whoopee cushion",
+      "EUen": "whoopee cushion",
+      "EUde": "Pupskissen",
+      "EUes": "cojín de broma",
+      "USes": "cojín de broma",
+      "EUfr": "coussin péteur",
+      "USfr": "coussin péteur",
+      "EUit": "petofono",
+      "EUnl": "scheetkussen",
+      "CNzh": "放屁坐垫",
+      "TWzh": "放屁坐墊",
+      "JPja": "ブーブークッション",
+      "KRko": "방귀 쿠션",
+      "EUru": "подушка для розыгрыша"
     }
   }
 ]

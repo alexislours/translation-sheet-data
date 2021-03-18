@@ -3265,7 +3265,7 @@
       "EUes": "Ciruelo",
       "USes": "Ciruelo",
       "EUfr": "Prunes",
-      "USfr": "Prunes",
+      "USfr": "Prunier",
       "EUit": "Susino",
       "EUnl": "Pruim",
       "CNzh": "梅",
@@ -48921,7 +48921,7 @@
       "EUfr": "Turquoise",
       "USfr": "Turquoise",
       "EUit": "Turchese",
-      "EUnl": "Turkoois",
+      "EUnl": "Turquoise",
       "CNzh": "绿松石色",
       "TWzh": "綠松色",
       "JPja": "ターコイズ",
@@ -57888,7 +57888,7 @@
       "EUfr": "Turquoise",
       "USfr": "Turquoise",
       "EUit": "Turchese",
-      "EUnl": "Turkoois",
+      "EUnl": "Turquoise",
       "CNzh": "绿松石色",
       "TWzh": "綠松色",
       "JPja": "ターコイズ",
@@ -66882,6 +66882,153 @@
       "JPja": "ブラック",
       "KRko": "블랙",
       "EUru": "Черный"
+    }
+  },
+  {
+    "id": "Ftr_13927",
+    "variant_id": "Ftr_13927_0",
+    "ftr_name": "Nintendo Switch Lite",
+    "locale": {
+      "USen": "Turquoise",
+      "EUen": "Turquoise",
+      "EUde": "Türkis",
+      "EUes": "Turquesa",
+      "USes": "Turquesa",
+      "EUfr": "Turquoise",
+      "USfr": "Turquoise",
+      "EUit": "Turchese",
+      "EUnl": "Turquoise",
+      "CNzh": "绿松石色",
+      "TWzh": "藍綠色",
+      "JPja": "ターコイズ",
+      "KRko": "터콰이즈",
+      "EUru": "Бирюзовый"
+    }
+  },
+  {
+    "id": "Ftr_13927",
+    "variant_id": "Ftr_13927_1",
+    "ftr_name": "Nintendo Switch Lite",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Grise",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
+  },
+  {
+    "id": "Ftr_13927",
+    "variant_id": "Ftr_13927_2",
+    "ftr_name": "Nintendo Switch Lite",
+    "locale": {
+      "USen": "Coral",
+      "EUen": "Coral",
+      "EUde": "Koralle",
+      "EUes": "Coral",
+      "USes": "Coral",
+      "EUfr": "Corail",
+      "USfr": "Corail",
+      "EUit": "Corallo",
+      "EUnl": "Koraalrood",
+      "CNzh": "珊瑚红",
+      "TWzh": "珊瑚色",
+      "JPja": "コーラル",
+      "KRko": "코럴",
+      "EUru": "Коралловый"
+    }
+  },
+  {
+    "id": "Ftr_13927",
+    "variant_id": "Ftr_13927_3",
+    "ftr_name": "Nintendo Switch Lite",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarilla",
+      "USes": "Amarilla",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
+    }
+  },
+  {
+    "id": "Ftr_14340",
+    "variant_id": "Ftr_14340_0",
+    "ftr_name": "whoopee cushion",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": "Ftr_14340",
+    "variant_id": "Ftr_14340_1",
+    "ftr_name": "whoopee cushion",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": "Ftr_14340",
+    "variant_id": "Ftr_14340_2",
+    "ftr_name": "whoopee cushion",
+    "locale": {
+      "USen": "Yellow",
+      "EUen": "Yellow",
+      "EUde": "Gelb",
+      "EUes": "Amarillo",
+      "USes": "Amarillo",
+      "EUfr": "Jaune",
+      "USfr": "Jaune",
+      "EUit": "Giallo",
+      "EUnl": "Geel",
+      "CNzh": "黄色",
+      "TWzh": "黃色",
+      "JPja": "イエロー",
+      "KRko": "옐로",
+      "EUru": "Желтый"
     }
   }
 ]
