@@ -3378,5 +3378,25 @@
       "KRko": "마이 디자인 단말기",
       "EUru": "Обмен рисунками"
     }
+  },
+  {
+    "id": "FlowerShower_14284",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "flower-petal basket",
+      "EUen": "flower-petal basket",
+      "EUde": "Blütenblätterkörbchen",
+      "EUes": "cesta con pétalos",
+      "USes": "cesta con pétalos",
+      "EUfr": "panier de pétales",
+      "USfr": "panier de pétales",
+      "EUit": "cesta con petali",
+      "EUnl": "mand vol bloemblaadjes",
+      "CNzh": "花瓣篮",
+      "TWzh": "花瓣籃",
+      "JPja": "フラワーシャワー",
+      "KRko": "플라워 샤워",
+      "EUru": "корзинка с лепестками"
+    }
   }
 ]

@@ -4639,5 +4639,26 @@
       "KRko": "그린",
       "EUru": "Зеленый"
     }
+  },
+  {
+    "id": 1374,
+    "cloth_name": "tsunokakushi",
+    "variant_id": "1374_Helmet_14279",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "しろ",
+      "KRko": "하얀색",
+      "EUru": "Белый"
+    }
   }
 ]

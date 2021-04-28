@@ -4451,7 +4451,7 @@
       "EUfr": "hakama à emblème",
       "USfr": "hakama à emblème",
       "EUit": "hakama con stemma",
-      "EUnl": "hakama met wapen",
+      "EUnl": "hakama met blazoen",
       "CNzh": "带家徽和服袴",
       "TWzh": "羽織和服褶裙",
       "JPja": "もんつきはかま",
@@ -5317,6 +5317,46 @@
       "JPja": "カラータキシード",
       "KRko": "컬러 턱시도",
       "EUru": "яркий смокинг"
+    }
+  },
+  {
+    "id": 1376,
+    "version": "1.10.0",
+    "locale": {
+      "USen": "white hakama with crest",
+      "EUen": "white hakama with crest",
+      "EUde": "Weiß-Wappen-Hakama",
+      "EUes": "hakama nupcial emblema",
+      "USes": "hakama nupcial emblema",
+      "EUfr": "hakama blanc à emblème",
+      "USfr": "hakama blanc à emblème",
+      "EUit": "hakama bianco con stemma",
+      "EUnl": "witte hakama met blazoen",
+      "CNzh": "白色带家徽和服袴",
+      "TWzh": "白色羽織和服褶裙",
+      "JPja": "しろいもんつきはかま",
+      "KRko": "하얀 가문 문양 하카마",
+      "EUru": "белый наряд с хакама"
+    }
+  },
+  {
+    "id": 1377,
+    "version": "1.10.0",
+    "locale": {
+      "USen": "shiromuku",
+      "EUen": "shiromuku",
+      "EUde": "Shiromuku",
+      "EUes": "shiromuku nupcial",
+      "USes": "shiromuku nupcial",
+      "EUfr": "shiromuku",
+      "USfr": "shiromuku",
+      "EUit": "shiromuku",
+      "EUnl": "shiromuku",
+      "CNzh": "白无垢",
+      "TWzh": "白無垢",
+      "JPja": "しろむく",
+      "KRko": "일본 전통 신부복",
+      "EUru": "кимоно сиромуку"
     }
   }
 ]

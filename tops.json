@@ -5978,5 +5978,25 @@
       "KRko": "마이멜로디 셔츠",
       "EUru": "блузка My Melody"
     }
+  },
+  {
+    "id": 1378,
+    "version": "1.10.0",
+    "locale": {
+      "USen": "thank-you Dad apron",
+      "EUen": "thank-you Dad apron",
+      "EUde": "Vatertag-Schürze",
+      "EUes": "delantal gracias papá",
+      "USes": "delantal gracias papá",
+      "EUfr": "tablier Merci Papa",
+      "USfr": "tablier Merci Papa",
+      "EUit": "grembiule grazie papà",
+      "EUnl": "vaderdagschort",
+      "CNzh": "父亲节感恩围裙",
+      "TWzh": "世界父親節感恩圍裙",
+      "JPja": "ちちのひサンキューエプロン",
+      "KRko": "아버지날 감사 앞치마",
+      "EUru": "фартук «Спасибо, папа!»"
+    }
   }
 ]

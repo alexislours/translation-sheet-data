@@ -8018,5 +8018,25 @@
       "KRko": "여울의 사진",
       "EUru": "фото Изабель"
     }
+  },
+  {
+    "id": "Bromide_14472",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "Rover's photo",
+      "EUen": "Rover's photo",
+      "EUde": "Foto von Olli",
+      "EUes": "foto de Fran",
+      "USes": "foto de Fran",
+      "EUfr": "photo de Charly",
+      "USfr": "photo de Charly",
+      "EUit": "foto di Girolamo",
+      "EUnl": "foto van Rover",
+      "CNzh": "陌陌的照片",
+      "TWzh": "陌陌的照片",
+      "JPja": "みしらぬネコのしゃしん",
+      "KRko": "낯선고양이의 사진",
+      "EUru": "фото Ровера"
+    }
   }
 ]

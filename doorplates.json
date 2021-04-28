@@ -958,5 +958,45 @@
       "KRko": "Nook Inc. 문패",
       "EUru": "табличка Nook Inc."
     }
+  },
+  {
+    "id": "DoorDeco_14358",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "ship-wheel door decoration",
+      "EUen": "ship-wheel door decoration",
+      "EUde": "Steuerrad-Türdeko",
+      "EUes": "timón decorativo de puerta",
+      "USes": "timón decorativo de puerta",
+      "EUfr": "gouvernail décoratif",
+      "USfr": "gouvernail décoratif",
+      "EUit": "decorazione timone",
+      "EUnl": "scheepsroer-deurdecoratie",
+      "CNzh": "船舵门饰",
+      "TWzh": "船舵門飾",
+      "JPja": "かじのドアかざり",
+      "KRko": "방향키 문장식",
+      "EUru": "декоративный штурвал"
+    }
+  },
+  {
+    "id": "DoorDeco_14475",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "nuptial doorplate",
+      "EUen": "nuptial doorplate",
+      "EUde": "Vermählungs-Türschild",
+      "EUes": "corona nupcial",
+      "USes": "corona nupcial",
+      "EUfr": "plaque nuptiale",
+      "USfr": "plaque nuptiale",
+      "EUit": "targa da porta sposini",
+      "EUnl": "liefdesdeurplaatje",
+      "CNzh": "结婚门牌",
+      "TWzh": "結婚門牌",
+      "JPja": "ウェディングのドアプレート",
+      "KRko": "결혼식 문패",
+      "EUru": "брачный венок на дверь"
+    }
   }
 ]

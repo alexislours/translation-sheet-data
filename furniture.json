@@ -1960,6 +1960,26 @@
     }
   },
   {
+    "id": "Ftr_01016",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "carp banner",
+      "EUen": "carp banner",
+      "EUde": "Karpfenwimpel",
+      "EUes": "koinobori",
+      "USes": "koinobori",
+      "EUfr": "bannière carpe",
+      "USfr": "bannière carpe",
+      "EUit": "pennone koinobori",
+      "EUnl": "karperwimpels",
+      "CNzh": "鲤鱼旗",
+      "TWzh": "鯉魚旗",
+      "JPja": "こいのぼり",
+      "KRko": "잉어 깃발",
+      "EUru": "вымпелы коинобори"
+    }
+  },
+  {
     "id": "Ftr_01023",
     "version": "1.0.0",
     "locale": {
@@ -10829,7 +10849,7 @@
       "EUes": "set de faroles calabaza",
       "USes": "set de faroles calabaza",
       "EUfr": "set de lanternes Halloween",
-      "USfr": "lanternes frisson",
+      "USfr": "ensemble lanternes frisson",
       "EUit": "set di lanterne brividi",
       "EUnl": "pompoenlantaarns",
       "CNzh": "万圣节灯笼组合",
@@ -19500,6 +19520,26 @@
     }
   },
   {
+    "id": "Ftr_14024",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "carnations",
+      "EUen": "carnations",
+      "EUde": "Nelken-Bouquet",
+      "EUes": "cesta de claveles",
+      "USes": "cesta de claveles",
+      "EUfr": "bouquet d'œillets",
+      "USfr": "bouquet d'œillets",
+      "EUit": "vaso di garofani",
+      "EUnl": "anjers",
+      "CNzh": "康乃馨",
+      "TWzh": "康乃馨",
+      "JPja": "カーネーション",
+      "KRko": "카네이션",
+      "EUru": "гвоздики"
+    }
+  },
+  {
     "id": "Ftr_14029",
     "version": "1.7.0",
     "locale": {
@@ -19637,6 +19677,126 @@
       "JPja": "ブーブークッション",
       "KRko": "방귀 쿠션",
       "EUru": "подушка для розыгрыша"
+    }
+  },
+  {
+    "id": "Ftr_14355",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "festival zongzi",
+      "EUen": "festival zongzi",
+      "EUde": "Drachenbootfest-Zongzi",
+      "EUes": "plato de zongzis",
+      "USes": "plato de zongzis",
+      "EUfr": "zongzi de festival",
+      "USfr": "zongzi de festival",
+      "EUit": "piatto di fagottini di riso",
+      "EUnl": "festivalzongzi",
+      "CNzh": "端午节粽子",
+      "TWzh": "端午節粽子",
+      "JPja": "たんごせつのちまき",
+      "KRko": "쭝쯔",
+      "EUru": "цзунцзы к празднику"
+    }
+  },
+  {
+    "id": "Ftr_14356",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "surichwi tteok",
+      "EUen": "surichwi tteok",
+      "EUde": "Surichwi Tteok",
+      "EUes": "plato de surichwi tteok",
+      "USes": "plato de surichwi tteok",
+      "EUfr": "surichwi tteok",
+      "USfr": "surichwi tteok",
+      "EUit": "piatto di surichwi tteok",
+      "EUnl": "surichwi-tteok",
+      "CNzh": "山牛蒡糕",
+      "TWzh": "山牛蒡糕",
+      "JPja": "スリチトック",
+      "KRko": "수리취떡",
+      "EUru": "тток к празднику"
+    }
+  },
+  {
+    "id": "Ftr_14357",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "double Gloucester cheese",
+      "EUen": "double Gloucester cheese",
+      "EUde": "Double-Gloucester-Käse",
+      "EUes": "queso Gloucester doble",
+      "USes": "queso Gloucester doble",
+      "EUfr": "double Gloucester",
+      "USfr": "double Gloucester",
+      "EUit": "forma di Double Gloucester",
+      "EUnl": "double Gloucester",
+      "CNzh": "双料格洛斯特硬干酪",
+      "TWzh": "雙倍格洛斯特起司",
+      "JPja": "ダブルグロスターチーズ",
+      "KRko": "더블 글로스터 치즈",
+      "EUru": "сыр «Двойной глостер»"
+    }
+  },
+  {
+    "id": "Ftr_14476",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "nuptial bell",
+      "EUen": "nuptial bell",
+      "EUde": "Vermählungs-Glocke",
+      "EUes": "campana nupcial",
+      "USes": "campana nupcial",
+      "EUfr": "cloche nuptiale",
+      "USfr": "cloche nuptiale",
+      "EUit": "campana sposini",
+      "EUnl": "liefdesbel",
+      "CNzh": "结婚钟",
+      "TWzh": "結婚鐘",
+      "JPja": "ウェディングベル",
+      "KRko": "결혼식 종",
+      "EUru": "брачный колокол"
+    }
+  },
+  {
+    "id": "Ftr_14477",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "nuptial ring pillow",
+      "EUen": "nuptial ring pillow",
+      "EUde": "Vermählungs-Ringkissen",
+      "EUes": "cojín con alianzas nupciales",
+      "USes": "cojín con anillos nupciales",
+      "EUfr": "coussin d'alliances nuptial",
+      "USfr": "coussin d'alliances nuptial",
+      "EUit": "portanelli sposini",
+      "EUnl": "liefdesringenkussentje",
+      "CNzh": "戒枕",
+      "TWzh": "戒枕",
+      "JPja": "リングピロー",
+      "KRko": "결혼식 링 필로",
+      "EUru": "подушечка с кольцами"
+    }
+  },
+  {
+    "id": "Ftr_14532",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "art plaque",
+      "EUen": "art plaque",
+      "EUde": "Kunstwandschmuck",
+      "EUes": "placa dorada de arte",
+      "USes": "placa dorada de arte",
+      "EUfr": "cartel",
+      "USfr": "cartel",
+      "EUit": "placca d'arte",
+      "EUnl": "kunstplaket",
+      "CNzh": "艺术挂饰",
+      "TWzh": "藝術壁飾",
+      "JPja": "アートのかべかざり",
+      "KRko": "아트 벽장식",
+      "EUru": "доска «Искусство»"
     }
   }
 ]

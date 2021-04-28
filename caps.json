@@ -1440,6 +1440,26 @@
     }
   },
   {
+    "id": 668,
+    "version": "1.10.0",
+    "locale": {
+      "USen": "newsprint helmet",
+      "EUen": "newsprint helmet",
+      "EUde": "Papierhut",
+      "EUes": "gorro de papel",
+      "USes": "gorro de papel",
+      "EUfr": "casque en papier",
+      "USfr": "casque en papier",
+      "EUit": "elmo di carta",
+      "EUnl": "hoedje van papier",
+      "CNzh": "报纸头盔",
+      "TWzh": "報紙頭盔",
+      "JPja": "しんぶんしのかぶと",
+      "KRko": "신문지 투구",
+      "EUru": "шлем из газеты"
+    }
+  },
+  {
     "id": 669,
     "version": "1.0.0",
     "locale": {
@@ -3417,6 +3437,26 @@
       "JPja": "プロムなティアラ",
       "KRko": "프롬 티아라",
       "EUru": "тиара к выпускному"
+    }
+  },
+  {
+    "id": 1375,
+    "version": "1.10.0",
+    "locale": {
+      "USen": "Phrygian cap",
+      "EUen": "Phrygian cap",
+      "EUde": "Phryger-Mütze",
+      "EUes": "gorro frigio",
+      "USes": "gorro frigio",
+      "EUfr": "bonnet phrygien",
+      "USfr": "bonnet phrygien",
+      "EUit": "berretto frigio",
+      "EUnl": "Frygische muts",
+      "CNzh": "弗里吉亚帽",
+      "TWzh": "佛里幾亞無邊便帽",
+      "JPja": "フリジアぼう",
+      "KRko": "프리지아 모자",
+      "EUru": "фригийский колпак"
     }
   }
 ]

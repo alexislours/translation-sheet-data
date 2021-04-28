@@ -1418,5 +1418,25 @@
       "KRko": "복을 부르는 가면",
       "EUru": "маска окамэ"
     }
+  },
+  {
+    "id": 1374,
+    "version": "1.10.0",
+    "locale": {
+      "USen": "tsunokakushi",
+      "EUen": "tsunokakushi",
+      "EUde": "Hochzeitshaube",
+      "EUes": "tocado tsunokakushi",
+      "USes": "tocado tsunokakushi",
+      "EUfr": "tsunokakushi",
+      "USfr": "tsunokakushi",
+      "EUit": "tsunokakushi",
+      "EUnl": "tsunokakushi",
+      "CNzh": "角隐",
+      "TWzh": "角隱",
+      "JPja": "つのかくし",
+      "KRko": "일본 전통 신부모자",
+      "EUru": "косынка цунокакуси"
+    }
   }
 ]

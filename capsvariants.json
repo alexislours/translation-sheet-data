@@ -11422,5 +11422,131 @@
       "KRko": "골드",
       "EUru": "Золотой"
     }
+  },
+  {
+    "id": 1375,
+    "cloth_name": "Phrygian cap",
+    "variant_id": "1375_Cap_14280",
+    "locale": {
+      "USen": "Red",
+      "EUen": "Red",
+      "EUde": "Rot",
+      "EUes": "Rojo",
+      "USes": "Rojo",
+      "EUfr": "Rouge",
+      "USfr": "Rouge",
+      "EUit": "Rosso",
+      "EUnl": "Rood",
+      "CNzh": "红色",
+      "TWzh": "紅色",
+      "JPja": "レッド",
+      "KRko": "레드",
+      "EUru": "Красный"
+    }
+  },
+  {
+    "id": 1375,
+    "cloth_name": "Phrygian cap",
+    "variant_id": "1375_Cap_14650",
+    "locale": {
+      "USen": "Orange",
+      "EUen": "Orange",
+      "EUde": "Orange",
+      "EUes": "Naranja",
+      "USes": "Naranja",
+      "EUfr": "Orange",
+      "USfr": "Orange",
+      "EUit": "Arancio",
+      "EUnl": "Oranje",
+      "CNzh": "橘色",
+      "TWzh": "橘色",
+      "JPja": "オレンジ",
+      "KRko": "오렌지",
+      "EUru": "Оранжевый"
+    }
+  },
+  {
+    "id": 1375,
+    "cloth_name": "Phrygian cap",
+    "variant_id": "1375_Cap_14651",
+    "locale": {
+      "USen": "Green",
+      "EUen": "Green",
+      "EUde": "Grün",
+      "EUes": "Verde",
+      "USes": "Verde",
+      "EUfr": "Vert",
+      "USfr": "Vert",
+      "EUit": "Verde",
+      "EUnl": "Groen",
+      "CNzh": "绿色",
+      "TWzh": "綠色",
+      "JPja": "グリーン",
+      "KRko": "그린",
+      "EUru": "Зеленый"
+    }
+  },
+  {
+    "id": 1375,
+    "cloth_name": "Phrygian cap",
+    "variant_id": "1375_Cap_14652",
+    "locale": {
+      "USen": "Light blue",
+      "EUen": "Light blue",
+      "EUde": "Hellblau",
+      "EUes": "Celeste",
+      "USes": "Celeste",
+      "EUfr": "Bleu clair",
+      "USfr": "Bleu pâle",
+      "EUit": "Blu chiaro",
+      "EUnl": "Lichtblauw",
+      "CNzh": "浅蓝色",
+      "TWzh": "淺藍色",
+      "JPja": "ライトブルー",
+      "KRko": "라이트 블루",
+      "EUru": "Голубой"
+    }
+  },
+  {
+    "id": 1375,
+    "cloth_name": "Phrygian cap",
+    "variant_id": "1375_Cap_14653",
+    "locale": {
+      "USen": "Purple",
+      "EUen": "Purple",
+      "EUde": "Lila",
+      "EUes": "Púrpura",
+      "USes": "Morado",
+      "EUfr": "Violet",
+      "USfr": "Mauve",
+      "EUit": "Viola",
+      "EUnl": "Paars",
+      "CNzh": "紫色",
+      "TWzh": "紫色",
+      "JPja": "パープル",
+      "KRko": "퍼플",
+      "EUru": "Фиолетовый"
+    }
+  },
+  {
+    "id": 668,
+    "cloth_name": "newsprint helmet",
+    "variant_id": "668_Cap_05308",
+    "locale": {
+      "USen": "Gray",
+      "EUen": "Gray",
+      "EUde": "Grau",
+      "EUes": "Gris",
+      "USes": "Gris",
+      "EUfr": "Gris",
+      "USfr": "Gris",
+      "EUit": "Grigio",
+      "EUnl": "Grijs",
+      "CNzh": "灰色",
+      "TWzh": "灰色",
+      "JPja": "グレー",
+      "KRko": "그레이",
+      "EUru": "Серый"
+    }
   }
 ]

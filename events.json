@@ -80,6 +80,26 @@
     }
   },
   {
+    "id": "FathersDay2",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "Father's Day",
+      "EUen": "Father's Day",
+      "EUde": "Vatertag",
+      "EUes": "Día del Padre",
+      "USes": "Día del Padre",
+      "EUfr": "Fête des pères",
+      "USfr": "Fête des Pères",
+      "EUit": "Festa del papà",
+      "EUnl": "Vaderdag",
+      "CNzh": "父亲节",
+      "TWzh": "世界父親節",
+      "JPja": "父の日",
+      "KRko": "아버지날",
+      "EUru": "День отца"
+    }
+  },
+  {
     "id": "FishingConventionAutumn",
     "version": "1.0.0",
     "locale": {
@@ -369,12 +389,12 @@
       "EUes": "Día de la Madre",
       "USes": "Día de la Madre",
       "EUfr": "Fête des mères",
-      "USfr": "Fête des mères",
+      "USfr": "Fête des Mères",
       "EUit": "Festa della mamma",
       "EUnl": "Moederdag",
       "CNzh": "母亲节",
       "TWzh": "母親節",
-      "JPja": "はは母のひ日",
+      "JPja": "母の日",
       "KRko": "어머니날",
       "EUru": "День матери"
     }
@@ -460,6 +480,26 @@
     }
   },
   {
+    "id": "RegionAprilFool",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "April Fools' Day",
+      "EUen": "April Fools' Day",
+      "EUde": 44287,
+      "EUes": "Día de las Bromas",
+      "USes": "Día de las Bromas",
+      "EUfr": "1er avril",
+      "USfr": "1er avril",
+      "EUit": "Pesce d'aprile",
+      "EUnl": 44287,
+      "CNzh": "愚人节",
+      "TWzh": "愚人節",
+      "JPja": "エイプリルフール",
+      "KRko": "만우절",
+      "EUru": "День розыгрышей"
+    }
+  },
+  {
     "id": "RegionBigGame",
     "version": "1.7.0",
     "locale": {
@@ -497,6 +537,26 @@
       "JPja": "ビッグゲーム",
       "KRko": "빅 게임",
       "EUru": "Решающий матч"
+    }
+  },
+  {
+    "id": "RegionEarthDay",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Nature Day",
+      "EUen": "Nature Day",
+      "EUde": "Tag der Natur",
+      "EUes": "Día de la Naturaleza",
+      "USes": "Día de la Naturaleza",
+      "EUfr": "Jour de la nature",
+      "USfr": "Jour de la nature",
+      "EUit": "Giorno della natura",
+      "EUnl": "Natuurdag",
+      "CNzh": "地球日",
+      "TWzh": "地球日",
+      "JPja": "アースデー",
+      "KRko": "지구의 날",
+      "EUru": "День природы"
     }
   },
   {
@@ -640,6 +700,46 @@
     }
   },
   {
+    "id": "RegionProm",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Prom",
+      "EUen": "Prom",
+      "EUde": "Abschlussball",
+      "EUes": "Baile de fin de curso",
+      "USes": "Baile de fin de curso",
+      "EUfr": "Bal de promo",
+      "USfr": "Bal des finissants",
+      "EUit": "Ballo scolastico",
+      "EUnl": "Galadag",
+      "CNzh": "毕业舞会",
+      "TWzh": "畢業舞會",
+      "JPja": "プロム",
+      "KRko": "프롬",
+      "EUru": "Выпускной вечер"
+    }
+  },
+  {
+    "id": "RegionProm2",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Prom",
+      "EUen": "Prom",
+      "EUde": "Abschlussball",
+      "EUes": "Baile de fin de curso",
+      "USes": "Baile de fin de curso",
+      "EUfr": "Bal de promo",
+      "USfr": "Bal des finissants",
+      "EUit": "Ballo scolastico",
+      "EUnl": "Galadag",
+      "CNzh": "毕业舞会",
+      "TWzh": "畢業舞會",
+      "JPja": "プロム",
+      "KRko": "프롬",
+      "EUru": "Выпускной вечер"
+    }
+  },
+  {
     "id": "RegionShamrockDay",
     "version": "1.8.0",
     "locale": {
@@ -657,6 +757,26 @@
       "JPja": "シャムロックデー",
       "KRko": "성 패트릭 데이",
       "EUru": "День трилистника"
+    }
+  },
+  {
+    "id": "RegionTreeDay",
+    "version": "1.9.0",
+    "locale": {
+      "USen": "Singmogil",
+      "EUen": "Singmogil",
+      "EUde": "Singmogil",
+      "EUes": "Singmogil",
+      "USes": "Singmogil",
+      "EUfr": "Singmogil",
+      "USfr": "Singmogil",
+      "EUit": "Singmogil",
+      "EUnl": "Singmogil",
+      "CNzh": "植木日",
+      "TWzh": "植木日",
+      "JPja": "植木の日",
+      "KRko": "식목일",
+      "EUru": "Сингмогил"
     }
   },
   {
@@ -820,103 +940,163 @@
     }
   },
   {
-    "id": "RegionEarthDay",
-    "version": "1.9.0",
+    "id": "RegionChildrensDay",
+    "version": "1.10.0",
     "locale": {
-      "USen": "Nature Day",
-      "EUen": "Nature Day",
-      "EUde": "Tag der Natur",
-      "EUes": "Día de la Naturaleza",
-      "USes": "Día de la Naturaleza",
-      "EUfr": "Jour de la nature",
-      "USfr": "Jour de la nature",
-      "EUit": "Giorno della natura",
-      "EUnl": "Natuurdag",
-      "CNzh": "地球日",
-      "TWzh": "地球日",
-      "JPja": "アースデー",
-      "KRko": "지구의 날",
-      "EUru": "День природы"
+      "USen": "Children's Day",
+      "EUen": "Children's Day",
+      "EUde": "Kodomo no Hi",
+      "EUes": "Día del Niño",
+      "USes": "Día del Niño",
+      "EUfr": "Jour des enfants",
+      "USfr": "Jour des enfants",
+      "EUit": "Giorno dei bambini",
+      "EUnl": "Kodomo no Hi",
+      "CNzh": "日本儿童节",
+      "TWzh": "日本兒童節",
+      "JPja": "こどもの日",
+      "KRko": "단고노셋쿠",
+      "EUru": "День ребенка"
     }
   },
   {
-    "id": "RegionAprilFool",
-    "version": "1.9.0",
+    "id": "RegionCheeseFestival",
+    "version": "1.10.0",
     "locale": {
-      "USen": "April Fools' Day",
-      "EUen": "April Fools' Day",
-      "EUde": 44287,
-      "EUes": "Día de las Bromas",
-      "USes": "Día de las Bromas",
-      "EUfr": "1er avril",
-      "USfr": "1er avril",
-      "EUit": "Pesce d'aprile",
-      "EUnl": 44287,
-      "CNzh": "愚人节",
-      "TWzh": "愚人節",
-      "JPja": "エイプリルフール",
-      "KRko": "만우절",
-      "EUru": "День розыгрышей"
+      "USen": "Cheese Rolling",
+      "EUen": "Cheese Rolling",
+      "EUde": "Käserollen",
+      "EUes": "Festival del queso rodante",
+      "USes": "Festival del queso rodante",
+      "EUfr": "Course au fromage",
+      "USfr": "Course au fromage",
+      "EUit": "Cheeserolling",
+      "EUnl": "Kaasrollen",
+      "CNzh": "滚奶酪节",
+      "TWzh": "滾起司節",
+      "JPja": "チーズ転がし",
+      "KRko": "치즈 굴리기",
+      "EUru": "Сырная гонка"
     }
   },
   {
-    "id": "RegionProm",
-    "version": "1.9.0",
+    "id": "RegionDragonBoatFestival",
+    "version": "1.10.0",
     "locale": {
-      "USen": "Prom",
-      "EUen": "Prom",
-      "EUde": "Abschlussball",
-      "EUes": "Baile de fin de curso",
-      "USes": "Baile de fin de curso",
-      "EUfr": "Bal de promo",
-      "USfr": "Bal des finissants",
-      "EUit": "Ballo scolastico",
-      "EUnl": "Galadag",
-      "CNzh": "毕业舞会",
-      "TWzh": "畢業舞會",
-      "JPja": "プロム",
-      "KRko": "프롬",
-      "EUru": "Выпускной вечер"
+      "USen": "Dano Festival",
+      "EUen": "Dano Festival",
+      "EUde": "Dano-Festival",
+      "EUes": "Festival Dano",
+      "USes": "Festival Dano",
+      "EUfr": "Fête de Dano",
+      "USfr": "Fête de Dano",
+      "EUit": "Festival Dano",
+      "EUnl": "Danofestival",
+      "CNzh": "端午节",
+      "TWzh": "端午節",
+      "JPja": "端午節",
+      "KRko": "단오",
+      "EUru": "Праздник Тано"
     }
   },
   {
-    "id": "RegionProm2",
-    "version": "1.9.0",
+    "id": "RegionDragonBoatFestivalCh",
+    "version": "1.10.0",
     "locale": {
-      "USen": "Prom",
-      "EUen": "Prom",
-      "EUde": "Abschlussball",
-      "EUes": "Baile de fin de curso",
-      "USes": "Baile de fin de curso",
-      "EUfr": "Bal de promo",
-      "USfr": "Bal des finissants",
-      "EUit": "Ballo scolastico",
-      "EUnl": "Galadag",
-      "CNzh": "毕业舞会",
-      "TWzh": "畢業舞會",
-      "JPja": "プロム",
-      "KRko": "프롬",
-      "EUru": "Выпускной вечер"
+      "USen": "Dragon Boat Festival",
+      "EUen": "Dragon Boat Festival",
+      "EUde": "Drachenbootfest",
+      "EUes": "Festival del bote del dragón",
+      "USes": "Festival del bote del dragón",
+      "EUfr": "Fête des bateaux-dragons",
+      "USfr": "Fête des bateaux-dragons",
+      "EUit": "Festa delle barche drago",
+      "EUnl": "Drakenbotenfestival",
+      "CNzh": "端午节",
+      "TWzh": "端午節",
+      "JPja": "端午節",
+      "KRko": "단오",
+      "EUru": "Праздник драконьих лодок"
     }
   },
   {
-    "id": "RegionTreeDay",
-    "version": "1.9.0",
+    "id": "RegionMarineDay",
+    "version": "1.10.0",
     "locale": {
-      "USen": "Singmogil",
-      "EUen": "Singmogil",
-      "EUde": "Singmogil",
-      "EUes": "Singmogil",
-      "USes": "Singmogil",
-      "EUfr": "Singmogil",
-      "USfr": "Singmogil",
-      "EUit": "Singmogil",
-      "EUnl": "Singmogil",
-      "CNzh": "植木日",
-      "TWzh": "植木日",
-      "JPja": "植木の日",
-      "KRko": "식목일",
-      "EUru": "Сингмогил"
+      "USen": "Marine Day",
+      "EUen": "Marine Day",
+      "EUde": "Tag des Meeres",
+      "EUes": "Día del Mar",
+      "USes": "Día del Mar",
+      "EUfr": "Jour de la mer",
+      "USfr": "Jour de la mer",
+      "EUit": "Giorno del mare",
+      "EUnl": "Oceaandag",
+      "CNzh": "海之日",
+      "TWzh": "海之日",
+      "JPja": "海の日",
+      "KRko": "바다의 날",
+      "EUru": "День моря"
+    }
+  },
+  {
+    "id": "RegionParisFestival",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "Le 14 juillet",
+      "EUen": "Le 14 juillet",
+      "EUde": "14. Juli",
+      "EUes": "14 de julio",
+      "USes": "14 de julio",
+      "EUfr": "Le 14 juillet",
+      "USfr": "Le 14 juillet",
+      "EUit": "Le 14 juillet",
+      "EUnl": "14 juillet",
+      "CNzh": "巴士底日",
+      "TWzh": "巴士底日",
+      "JPja": "パリ祭",
+      "KRko": "프랑스 혁명기념일",
+      "EUru": "14 Июля"
+    }
+  },
+  {
+    "id": "RegionJuneBride",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "Wedding Season",
+      "EUen": "Wedding Season",
+      "EUde": "Hochzeitssaison",
+      "EUes": "Temporada de bodas",
+      "USes": "Temporada de bodas",
+      "EUfr": "Saison des mariages",
+      "USfr": "Saison des mariages",
+      "EUit": "Stagione dei matrimoni",
+      "EUnl": "Trouwseizoen",
+      "CNzh": "六月新娘",
+      "TWzh": "六月新娘",
+      "JPja": "ジューンブライド",
+      "KRko": "6월의 신부",
+      "EUru": "Свадебный сезон"
+    }
+  },
+  {
+    "id": "RegionJuneBride2",
+    "version": "1.10.0",
+    "locale": {
+      "USen": "Wedding Season",
+      "EUen": "Wedding Season",
+      "EUde": "Hochzeitssaison",
+      "EUes": "Temporada de bodas",
+      "USes": "Temporada de bodas",
+      "EUfr": "Saison des mariages",
+      "USfr": "Saison des mariages",
+      "EUit": "Stagione dei matrimoni",
+      "EUnl": "Trouwseizoen",
+      "CNzh": "六月新娘",
+      "TWzh": "六月新娘",
+      "JPja": "ジューンブライド",
+      "KRko": "6월의 신부",
+      "EUru": "Свадебный сезон"
     }
   }
 ]

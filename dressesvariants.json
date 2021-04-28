@@ -20893,5 +20893,47 @@
       "KRko": "레드",
       "EUru": "Красный"
     }
+  },
+  {
+    "id": 1376,
+    "cloth_name": "white hakama with crest",
+    "variant_id": "1376_OnePiece_14281",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "しろ",
+      "KRko": "하얀색",
+      "EUru": "Белый"
+    }
+  },
+  {
+    "id": 1377,
+    "cloth_name": "shiromuku",
+    "variant_id": "1377_OnePiece_14282",
+    "locale": {
+      "USen": "White",
+      "EUen": "White",
+      "EUde": "Weiß",
+      "EUes": "Blanco",
+      "USes": "Blanco",
+      "EUfr": "Blanc",
+      "USfr": "Blanc",
+      "EUit": "Bianco",
+      "EUnl": "Wit",
+      "CNzh": "白色",
+      "TWzh": "白色",
+      "JPja": "しろ",
+      "KRko": "하얀색",
+      "EUru": "Белый"
+    }
   }
 ]
